@@ -1,0 +1,2297 @@
+[
+  {
+    "id": 1,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "What is the unit of force in the S.I. system?",
+    "gujaratiQuestion": "01. S.I. સિસ્ટમમાં ફોર્સનો એકમ કયો છે?",
+    "options": [
+      "જૂલ",
+      "ન્યૂટન",
+      "પાસ્કલ",
+      "વોટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "S.I. પદ્ધતિમાં બળ (Force) નો મૂળભૂત એકમ ન્યૂટન (N અથવા kg·m/s²) છે[cite: 9]."
+  },
+  {
+    "id": 2,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "When the vector sum of all external forces and moments acting on a body is zero, in what state is the body said to be?",
+    "gujaratiQuestion": "02. જ્યારે કોઈ બોડી પર લાગતા તમામ બાહ્ય ફોર્સ અને મોમેન્ટનો સદિશ સરવાળો શૂન્ય હોય, ત્યારે તે બોડી કઈ સ્થિતિમાં કહેવાય?",
+    "options": [
+      "ડાયનેમિક",
+      "ઇક્વિલિબ્રિયમ",
+      "કાઈનેમેટિક",
+      "પ્લાસ્ટિક"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યારે ΣF = 0 અને ΣM = 0 થાય, ત્યારે બોડી સંતુલન એટલે કે ઇક્વિલિબ્રિયમ (Equilibrium) સ્થિતિમાં કહેવાય છે[cite: 9]."
+  },
+  {
+    "id": 3,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "Lami's theorem is applicable to which type of force system?",
+    "gujaratiQuestion": "03. લા-મીનો પ્રમેય કયા પ્રકારના ફોર્સ સિસ્ટમ માટે લાગુ પડે છે?",
+    "options": [
+      "ત્રણ કોપ્લેનર અને કોનકરન્ટ ફોર્સ",
+      "બે પેરેલલ ફોર્સ",
+      "ચાર કોનકરન્ટ ફોર્સ",
+      "નોન-કોપ્લેનર ફોર્સ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "લામીનો પ્રમેય એક જ સમતલમાં એક બિંદુએ મળતા અને સંતુલનમાં રહેલા ત્રણ બળો (Three coplanar concurrent forces) માટે લાગુ પડે છે[cite: 9]."
+  },
+  {
+    "id": 4,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "Two forces P and Q act at a point at an angle θ. What is the formula for their resultant (R)?",
+    "gujaratiQuestion": "04. બે ફોર્સ P અને Q એક જ બિંદુ પર θ ખૂણે લાગે છે, તો તેમના રિઝલ્ટન્ટ (R) નું સૂત્ર શું થશે?",
+    "options": [
+      "P + Q cos θ",
+      "√(P² + Q² + 2PQ cos θ)",
+      "√(P² + Q² - 2PQ cos θ)",
+      "P + Q"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પેરેલેલોગ્રામ લૉ ઓફ ફોર્સીસ મુજબ પરિણામી બળ R = √(P² + Q² + 2PQ cos θ) થાય છે[cite: 9]."
+  },
+  {
+    "id": 5,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "What is the main difference between like and unlike parallel forces?",
+    "gujaratiQuestion": "05. લાઈક અને અનલાઈક પેરેલલ ફોર્સિસ વચ્ચેનો મુખ્ય તફાવત શું છે?",
+    "options": [
+      "ફોર્સિસનું મેગ્નિટ્યુડ",
+      "પોઈન્ટ ઓફ એપ્લિકેશન",
+      "શું તેઓ કન્કરન્ટ છે",
+      "ફોર્સિસની દિશા"
+    ],
+    "correctAnswer": 3,
+    "explanation": "લાઈક પેરેલલ બળોની દિશા સમાન હોય છે, જ્યારે અનલાઈક પેરેલલ બળોની દિશા પરસ્પર વિરુદ્ધ હોય છે[cite: 9]."
+  },
+  {
+    "id": 6,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "If two equal forces P act at right angles (90°) to each other, what is their resultant?",
+    "gujaratiQuestion": "06. જો બે સમાન મૂલ્યના ફોર્સ P એકબીજા સાથે 90° ના કાટખૂણે લાગતા હોય, તો તેમનો રિઝલ્ટન્ટ શું હશે?",
+    "options": [
+      "P",
+      "2P",
+      "P√2",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 2,
+    "explanation": "R = √(P² + P² + 2P² cos 90°) = √(2P²) = P√2[cite: 9]."
+  },
+  {
+    "id": 7,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "Forces acting in the same plane are called:",
+    "gujaratiQuestion": "07. એક જ સમતલમાં લાગતા ફોર્સને શું કહેવામાં આવે છે?",
+    "options": [
+      "કોનકરન્ટ ફોર્સ",
+      "કોપ્લેનર ફોર્સ",
+      "કોલિનિયર ફોર્સ",
+      "પેરેલલ ફોર્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એક જ સમતલ (Plane) માં રહેલા તમામ બળોને કોપ્લેનર ફોર્સીસ (Coplanar forces) કહે છે[cite: 9]."
+  },
+  {
+    "id": 8,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "Forces meeting or intersecting at a single common point are called:",
+    "gujaratiQuestion": "08. એક જ બિંદુ પર મળતા (છેદતા) ફોર્સને શું કહેવાય છે?",
+    "options": [
+      "કોનકરન્ટ ફોર્સ",
+      "નોન-કોનકરન્ટ ફોર્સ",
+      "કોપ્લેનર ફોર્સ",
+      "પેરેલલ ફોર્સ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "જે બળોની ક્રિયારેખાઓ એક જ સામાન્ય બિંદુમાંથી પસાર થતી હોય તેને કોનકરન્ટ ફોર્સીસ (Concurrent forces) કહે છે[cite: 9]."
+  },
+  {
+    "id": 9,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "What is represented while drawing a Free-Body Diagram (FBD)?",
+    "gujaratiQuestion": "09. ફ્રી-બોડી ડાયાગ્રામ દોરતી વખતે નીચેનામાંથી શું દર્શાવવામાં આવે છે?",
+    "options": [
+      "માત્ર એક્ટિવ ફોર્સ",
+      "માત્ર રિએક્શન ફોર્સ",
+      "બોડીને આઈસોલેટ કરીને તેના પર લાગતા તમામ બાહ્ય અને રિએક્શન ફોર્સ",
+      "માત્ર બોડીનું વજન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "FBD માં બોડીને આસપાસના જોડાણોથી મુક્ત કરીને તેના પર લાગતા તમામ બાહ્ય સક્રિય બળો અને સપોર્ટ રિએક્શન્સ દર્શાવાય છે[cite: 9]."
+  },
+  {
+    "id": 10,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "How is the Kinetic Energy of a body defined?",
+    "gujaratiQuestion": "010. કોઈ બોડીની કાઈનેટિક એનર્જીને કેવી રીતે વ્યાખ્યાયિત કરવામાં આવે છે?",
+    "options": [
+      "સ્પેસમાં તેની પોઝિશનને કારણે રહેલી એનર્જી",
+      "તેના માસ અને ગતિ (motion) ની વેલોસિટીને કારણે રહેલી એનર્જી",
+      "ખેંચાયેલી અથવા દબાયેલી સ્પ્રિંગમાં સંગ્રહિત એનર્જી",
+      "ફ્રિક્શન અથવા અવરોધને કારણે ગુમાવેલી એનર્જી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પદાર્થની ગતિ અને દળના કારણે તેમાં રહેલી ઊર્જા (E = 1/2 mv²) ને કાઇનેટિક એનર્જી (ગતિઊર્જા) કહેવાય છે[cite: 9]."
+  },
+  {
+    "id": 11,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "What is the definition of the Moment of a force about a point?",
+    "gujaratiQuestion": "011. કોઈ બિંદુની સાપેક્ષમાં ફોર્સના મોમેન્ટની વ્યાખ્યા શું છે?",
+    "options": [
+      "ફોર્સ × સમાંતર અંતર",
+      "ફોર્સ × લંબ અંતર",
+      "ફોર્સ / લંબ અંતર",
+      "ફોર્સ + લંબ અંતર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોમેન્ટ એટલે બળનું મૂલ્ય અને તે બિંદુથી બળની ક્રિયારેખા વચ્ચેનું લંબ અંતર (M = F × d)[cite: 9]."
+  },
+  {
+    "id": 12,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "Varignon's theorem is related to which principle?",
+    "gujaratiQuestion": "012. વેરીગ્રનનો પ્રમેય કોની સાથે સંબંધિત છે?",
+    "options": [
+      "ફોર્સનું રિઝોલ્યુશન",
+      "મોમેન્ટનો સિદ્ધાંત",
+      "ફ્રિક્શનનો સિદ્ધાંત",
+      "ટ્રસનું એનાલિસિસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વેરીગ્રનનો પ્રમેય મોમેન્ટ સાથે સંબંધિત છે (કોઈ બિંદુ આગળ પરિણામી બળની મોમેન્ટ એ તમામ ઘટક બળોની મોમેન્ટના સરવાળા બરાબર હોય છે)[cite: 9]."
+  },
+  {
+    "id": 13,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "Two equal, opposite, and parallel forces whose lines of action do not coincide form a:",
+    "gujaratiQuestion": "013. બે સમાન, વિરુદ્ધ અને સમાંતર ફોર્સ જેની એક્શન લાઈન સમાન ન હોય, તે શું બનાવે છે?",
+    "options": [
+      "રિઝલ્ટન્ટ",
+      "ઇક્વિલિબ્રિયન્ટ",
+      "કપલ",
+      "ટોર્ક"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બે સમાન મૂલ્યના અને પરસ્પર વિરુદ્ધ દિશાના સમાંતર બળો કપલ (Couple / બળયુગ્મ) બનાવે છે જે માત્ર રોટેશનલ અસર ઉત્પન્ન કરે છે[cite: 9]."
+  },
+  {
+    "id": 14,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "In the analysis of a perfect frame/truss, where are loads assumed to be applied?",
+    "gujaratiQuestion": "014. પરફેક્ટ ફ્રેમના એનાલિસિસમાં, લોડ્સને ક્યાં લાગુ પડેલા ધારી લેવામાં આવે છે?",
+    "options": [
+      "માત્ર જોઈન્ટ્સ પર જ",
+      "મેમ્બર્સના મિડ-સ્પાન પર",
+      "મેમ્બર્સ પર સમાન રીતે વિતરિત (uniformly distributed)",
+      "ડાયાગોનલ્સ (diagonals) ની સમાંતર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ટ્રસની મૂળભૂત ધારણા મુજબ તમામ બાહ્ય લોડ્સ માત્ર તેના જોઈન્ટ્સ (Nodes) પર જ લાગુ પડે છે તેમ માનવામાં આવે છે[cite: 9]."
+  },
+  {
+    "id": 15,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "What is the resultant translational force of any couple?",
+    "gujaratiQuestion": "015. કોઈ પણ કપલનો રિઝલ્ટન્ટ ફોર્સ કેટલો હોય છે?",
+    "options": [
+      "શૂન્ય",
+      "મહત્તમ",
+      "બંને ફોર્સના સરવાળા જેટલો",
+      "અનંત"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કપલના બંને બળો સમાન અને પરસ્પર વિરુદ્ધ (P અને -P) હોવાથી નેટ પરિણામી ટ્રાન્સલેશનલ બળ શૂન્ય (Zero) થાય છે[cite: 9]."
+  },
+  {
+    "id": 16,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "When is the Polygon Law of Forces used?",
+    "gujaratiQuestion": "016. ફોર્સના પોલિગોન લો નો ઉપયોગ ક્યારે થાય છે?",
+    "options": [
+      "જ્યારે માત્ર બે ફોર્સ હોય",
+      "જ્યારે ત્રણ ફોર્સ હોય",
+      "જ્યારે બે કરતાં વધુ કોપ્લેનર કોનકરન્ટ ફોર્સ હોય",
+      "જ્યારે ફોર્સ પેરેલલ હોય"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બે કરતાં વધુ સમતલીય સંગામી બળોના પરિણામી બળ શોધવા માટે બહુકોણનો નિયમ (Polygon Law of Forces) વપરાય છે[cite: 9]."
+  },
+  {
+    "id": 17,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "What are the necessary equilibrium conditions for a coplanar concurrent force system?",
+    "gujaratiQuestion": "017. કોપ્લેનર કોનકરન્ટ ફોર્સ સિસ્ટમના ઈક્વિલિબ્રિયમ માટેની જરૂરી શરતો કઈ છે?",
+    "options": [
+      "Σ Fx = 0",
+      "Σ Fy = 0",
+      "Σ M = 0",
+      "બંને (a) અને (b)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "કોનકરન્ટ બળો એક જ બિંદુએ મળતા હોવાથી મોમેન્ટ આપોઆપ શૂન્ય બને છે, તેથી માત્ર ΣFx = 0 અને ΣFy = 0 શરતો પૂરતી છે[cite: 9]."
+  },
+  {
+    "id": 18,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "How many reaction components are present in a roller support?",
+    "gujaratiQuestion": "018. રોલર સપોર્ટમાં કેટલા રિએક્શન ઘટકો હોય છે?",
+    "options": [
+      "એક (સપાટીને લંબ દિશામાં)",
+      "બે",
+      "ત્રણ",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રોલર સપોર્ટ માત્ર સપોર્ટિંગ સપાટીને કાટખૂણે (Normal to surface) એક જ રિએક્શન બળ આપે છે[cite: 9]."
+  },
+  {
+    "id": 19,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Plane Motion of Rigid Bodies",
+    "question": "In general plane motion, what is a Free-Body Diagram used to represent?",
+    "gujaratiQuestion": "019. જનરલ પ્લેન મોશનમાં ફ્રી-બોડી ડાયાગ્રામનો ઉપયોગ શેના માટે થાય છે?",
+    "options": [
+      "બોડીની વેલોસિટી અને તેના મોશનને દર્શાવવા",
+      "બહારથી લગાવેલા ફોર્સિસ અને પોઈન્ટ ઓફ એપ્લિકેશન દર્શાવવા",
+      "મોશનમાં રહેલી બોડીનું એક્સેલરેશન દર્શાવવા",
+      "બોડીનું એંગ્યુલર ડિસ્પ્લેસમેન્ટ દર્શાવવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "FBD બોડી પર લાગતા તમામ બાહ્ય બળો, કપલ્સ અને તેમના એપ્લિકેશન બિંદુઓને દર્શાવવા વપરાય છે[cite: 9]."
+  },
+  {
+    "id": 20,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "How many reactions are generally developed at a hinged/pinned support in a 2D plane?",
+    "gujaratiQuestion": "020. હિંજ સપોર્ટમાં સામાન્ય રીતે કેટલા રિએક્શન મળે છે?",
+    "options": [
+      "એક",
+      "બે (હોરિઝોન્ટલ અને વર્ટિકલ)",
+      "ત્રણ",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2D સમતલમાં હિંજ સપોર્ટ કોઈપણ રેખીય ગતિ રોકતો હોવાથી બે પરસ્પર લંબ (Horizontal અને Vertical) રિએક્શન આપે છે[cite: 9]."
+  },
+  {
+    "id": 21,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "What type of reactions does a fixed support provide in 2D?",
+    "gujaratiQuestion": "021. ફિક્સ સપોર્ટ કયા પ્રકારના રિએક્શન આપે છે?",
+    "options": [
+      "માત્ર વર્ટિકલ રિએક્શન",
+      "માત્ર મોમેન્ટ",
+      "હોરિઝોન્ટલ, વર્ટિકલ અને મોમેન્ટ ત્રણેય",
+      "હોરિઝોન્ટલ અને વર્ટિકલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2D ફિક્સ સપોર્ટ તમામ ગતિ (X, Y ટ્રાન્સલેશન અને રોટેશન) રોકતો હોવાથી 2 બળો (Rx, Ry) અને 1 મોમેન્ટ (M) એમ 3 રિએક્શન્સ આપે છે[cite: 9]."
+  },
+  {
+    "id": 22,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "In Lami's theorem equation (P/sin α = Q/sin β = R/sin γ), between which forces is the angle β located?",
+    "gujaratiQuestion": "022. લા-મીના પ્રમેયનું સૂત્ર (P/sin α = Q/sin β = R/sin γ) માં ખૂણો β કોની વચ્ચે હોય છે?",
+    "options": [
+      "ફોર્સ P અને Q વચ્ચે",
+      "ફોર્સ Q અને R વચ્ચે",
+      "ફોર્સ R અને P વચ્ચે",
+      "આડી ધરી અને P વચ્ચે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લામીના પ્રમેયમાં દરેક બળ બાકીના બે બળો વચ્ચેના ખૂણાના સાઈનના સમપ્રમાણમાં હોય છે, તેથી β એ બળ R અને P વચ્ચેનો ખૂણો છે (અને α એ Q-R વચ્ચેનો છે)[cite: 9]."
+  },
+  {
+    "id": 23,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "What does the Work-Energy Theorem state?",
+    "gujaratiQuestion": "023. વર્ક-એનર્જી થિયરમ શું દર્શાવે છે?",
+    "options": [
+      "બોડી પર થયેલું કાર્ય તેના પર લગાવેલા ફોર્સ બરાબર હોય છે",
+      "જો બોડી સર્કલ પર ગતિ કરતી હોય તો થયેલું કાર્ય હંમેશા શૂન્ય હોય છે",
+      "થયેલું કાર્ય ગતિશીલ બોડીના માસ બરાબર હોય છે",
+      "તમામ ફોર્સિસ દ્વારા થયેલું કાર્ય બોડીની કાઈનેટિક એનર્જીમાં થતા ફેરફાર બરાબર હોય છે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "વર્ક-એનર્જી પ્રમેય મુજબ તમામ પરિણામી બળો દ્વારા થયેલું નેટ કાર્ય પદાર્થની ગતિઊર્જામાં થતા ફેરફાર બરાબર હોય છે (W_net = ΔKE)[cite: 9]."
+  },
+  {
+    "id": 24,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "What is an Equilibrant Force?",
+    "gujaratiQuestion": "024. ઈક્વિલિબ્રિયન્ટ ફોર્સ એટલે શું?",
+    "options": [
+      "રિઝલ્ટન્ટ ફોર્સ જેટલો જ પણ સમાન દિશામાં",
+      "રિઝલ્ટન્ટ ફોર્સ જેટલો જ પણ વિરુદ્ધ દિશામાં",
+      "રિઝલ્ટન્ટ ફોર્સથી અડધો",
+      "હંમેશા શૂન્ય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઈક્વિલિબ્રિયન્ટ બળ એ પરિણામી બળ (Resultant) જેટલા જ મૂલ્યનું પરંતુ બરાબર વિરુદ્ધ દિશામાં લાગતું બળ છે જે સિસ્ટમને સંતુલનમાં લાવે છે[cite: 9]."
+  },
+  {
+    "id": 25,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "Two equal forces P and P act at an angle θ. What is the magnitude of their resultant?",
+    "gujaratiQuestion": "025. બે સમાન ફોર્સ P અને P વચ્ચેનો ખૂણો θ છે, તો તેમના રિઝલ્ટન્ટનું મૂલ્ય કેટલું થશે?",
+    "options": [
+      "2 P cos(θ/2)",
+      "2 P sin(θ/2)",
+      "P cos(θ/2)",
+      "P sin(θ)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "R = √(P² + P² + 2P² cos θ) = √(2P²(1 + cos θ)) = √(2P² · 2 cos²(θ/2)) = 2P cos(θ/2)[cite: 9]."
+  },
+  {
+    "id": 26,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "Forces acting along the same straight line of action are called:",
+    "gujaratiQuestion": "026. કોઈ સિસ્ટમમાં રહેલા બધા જ ફોર્સ એક જ સીધી રેખા પર લાગતા હોય તો તેને શું કહે છે?",
+    "options": [
+      "કોપ્લેનર ફોર્સ",
+      "કોલિનિયર ફોર્સ",
+      "પેરેલલ ફોર્સ",
+      "નોન-કોનકરન્ટ ફોર્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જે બળોની ક્રિયારેખા એક જ સીધી રેખા પર આવેલી હોય તેને કોલિનિયર ફોર્સીસ (Collinear forces) કહે છે[cite: 9]."
+  },
+  {
+    "id": 27,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "What does the Principle of Transmissibility of Forces state?",
+    "gujaratiQuestion": "027. ફોર્સની ટ્રાન્સમિસિબિલિટીનો સિદ્ધાંત શું સૂચવે છે?",
+    "options": [
+      "ફોર્સને તેની લાઈન ઓફ એક્શન પર કોઈ પણ બિંદુએ શિફ્ટ કરી શકાય છે",
+      "ફોર્સની દિશા બદલી શકાય છે",
+      "ફોર્સનું મૂલ્ય બદલી શકાય છે",
+      "ફોર્સને શૂન્ય કરી શકાય છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આ સિદ્ધાંત મુજબ દ્રઢ પદાર્થ પર લાગતા બળનું મૂલ્ય અને દિશા જાળવી રાખી તેની ક્રિયારેખા પરના કોઈપણ બિંદુએ મુક્તપણે ખસેડી શકાય છે[cite: 9]."
+  },
+  {
+    "id": 28,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Impulse & Linear/Angular Momentum",
+    "question": "For two interacting particles 'a' and 'b' with no external force on the system, the change in linear momentum of particle 'a' is:",
+    "gujaratiQuestion": "028. સિસ્ટમ પર કોઈ બાહ્ય ફોર્સ ન લાગતો હોય તેવા બે ઇન્ટરએક્ટિંગ પાર્ટીકલ્સ \"a\" અને \"b\" માટે, પાર્ટીકલ 'a' ના લિનિયર મોમેન્ટમમાં થતો ફેરફાર:",
+    "options": [
+      "પાર્ટીકલ 'b' ના મોમેન્ટમમાં થતા ફેરફાર બરાબર હોય છે",
+      "પાર્ટીકલ 'b' ના મોમેન્ટમમાં થતા ફેરફારનું નેગેટિવ (સમાન અને વિરુદ્ધ) હોય છે",
+      "પાર્ટીકલ 'b' થી સ્વતંત્ર હોય છે",
+      "હંમેશા શૂન્ય હોય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વેગમાન સંરક્ષણ મુજબ ΔPa + ΔPb = 0 => ΔPa = -ΔPb (પાર્ટીકલ b ના મોમેન્ટમ ફેરફારનું ઋણ)[cite: 9]."
+  },
+  {
+    "id": 29,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "The moment of a couple about any point in its plane is:",
+    "gujaratiQuestion": "029. કપલના મોમેન્ટનું મૂલ્ય સમતલના કોઈ પણ બિંદુની સાપેક્ષમાં કેવું હોય છે?",
+    "options": [
+      "શૂન્ય",
+      "બિંદુના સ્થાન પર આધાર રાખે છે",
+      "સમાન અને અચળ રહે છે",
+      "સતત બદલાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કપલની મોમેન્ટ ફ્રી વેક્ટર છે, જે સમતલના કોઈપણ બિંદુની સાપેક્ષે હંમેશા અચળ અને સમાન (M = F × d) રહે છે[cite: 9]."
+  },
+  {
+    "id": 30,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "In a simply supported beam with roller and hinged supports subjected only to vertical loads, what is the horizontal reaction?",
+    "gujaratiQuestion": "030. સિમ્પલી સપોર્ટેડ બીમમાં જો બંને છેડે રોલર અને હિંજ સપોર્ટ હોય, અને માત્ર વર્ટિકલ લોડ લાગતો હોય, તો હોરિઝોન્ટલ રિએક્શન કેટલું હશે?",
+    "options": [
+      "મહત્તમ",
+      "વર્ટિકલ લોડ બરાબર",
+      "શૂન્ય",
+      "અનંત"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કોઈપણ બાહ્ય આડું બળ ન હોવાથી ΣFx = 0 મુજબ હિંજ સપોર્ટ આગળ હોરિઝોન્ટલ રિએક્શન શૂન્ય (0) થશે[cite: 9]."
+  },
+  {
+    "id": 31,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "What is the maximum static frictional force exerted when a body is just on the verge of moving called?",
+    "gujaratiQuestion": "031. જ્યારે કોઈ બોડી બીજી બોડીની સપાટી પર ગતિ કરવાની શરૂઆત કરે છે ત્યારે લાગતા મહત્તમ ફ્રિક્શન ફોર્સને શું કહે છે?",
+    "options": [
+      "કાઈનેમેટિક ફ્રિક્શન",
+      "રોલિંગ ફ્રિક્શન",
+      "લિમિટિંગ ફ્રિક્શન",
+      "સ્ટેટિક ફ્રિક્શન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગતિ શરૂ થવાની અણી પર લાગતા મહત્તમ સ્થિત ઘર્ષણ બળને લિમિટિંગ ફ્રિક્શન (Limiting friction) કહે છે[cite: 9]."
+  },
+  {
+    "id": 32,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "What type of forces/loads are experienced by the members of an ideal pin-jointed truss?",
+    "gujaratiQuestion": "032. ફ્રેમ અથવા ટ્રસના સભ્યો (Members) માં કેવા પ્રકારના લોડ જોવા મળે છે?",
+    "options": [
+      "માત્ર બેન્ડિંગ",
+      "માત્ર શિયર",
+      "એક્સિયલ ટેન્શન અથવા કમ્પ્રેશન",
+      "ટોર્ઝન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આદર્શ ટ્રસના સભ્યો ટુ-ફોર્સ મેમ્બર્સ હોવાથી તેમાં માત્ર અક્ષીય તણાવ (Tension) અથવા દાબ (Compression) બળો જ હોય છે[cite: 9]."
+  },
+  {
+    "id": 33,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Impulse & Linear/Angular Momentum",
+    "question": "By which rule is the direction of Angular Momentum determined?",
+    "gujaratiQuestion": "033. એંગ્યુલર મોમેન્ટમની દિશા કયા નિયમ દ્વારા નક્કી થાય છે?",
+    "options": [
+      "રાઈટ-હેન્ડ રૂલ",
+      "લેફ્ટ-હેન્ડ રૂલ",
+      "માત્ર વેલોસિટીની દિશા",
+      "માત્ર એક્સેલરેશનની દિશા"
+    ],
+    "correctAnswer": 0,
+    "explanation": "એંગ્યુલર મોમેન્ટમ L = r × p સદિશ ગુણાકાર હોવાથી તેની દિશા રાઇટ-હેન્ડ સ્ક્રૂ રૂલ (Right-hand thumb rule) વડે નક્કી થાય છે[cite: 9]."
+  },
+  {
+    "id": 34,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "If n is number of members and j is number of joints, what is the relation for a perfect 2D truss?",
+    "gujaratiQuestion": "034. જો n એ મેમ્બર્સની સંખ્યા હોય અને j એ જોઈન્ટ્સની સંખ્યા હોય, તો પરફેક્ટ ફ્રેમ માટેનું સૂત્ર કયું છે?",
+    "options": [
+      "n = 2j - 1",
+      "n = 2j - 3",
+      "n = 3j - 2",
+      "n = j - 3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્થિર અને પરફેક્ટ 2D ટ્રસ માટે સભ્યો અને જોઈન્ટ્સ વચ્ચેનું સમીકરણ n = 2j - 3 છે[cite: 9]."
+  },
+  {
+    "id": 35,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "If in a truss n < 2j - 3, what is the frame called?",
+    "gujaratiQuestion": "035. જો ફ્રેમમાં n < 2j - 3 હોય, તો તે ફ્રેમને શું કહેવાય છે?",
+    "options": [
+      "પરફેક્ટ ફ્રેમ",
+      "રિડન્ડન્ટ ફ્રેમ",
+      "ડેફિસિયન્ટ ફ્રેમ",
+      "રિજિડ ફ્રેમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જ્યારે જરૂરી કરતાં ઓછા મેમ્બર્સ હોય (n < 2j - 3), ત્યારે તેને ડેફિસિયન્ટ ફ્રેમ (Deficient / Imperfect frame) કહેવાય છે[cite: 9]."
+  },
+  {
+    "id": 37,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Dynamics of Particles",
+    "question": "Which quantity measures the inertia of a body in linear translational motion?",
+    "gujaratiQuestion": "037. લિનિયર મોશનમાં બોડીના ઇનર્શિયાને માપતી ક્વોન્ટિટી (રાશિ) કઈ છે?",
+    "options": [
+      "વેગ (v)",
+      "માસ (m)",
+      "લિનિયર મોમેન્ટમ (mv)",
+      "લિનિયર કાઈનેટિક એનર્જી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રેખીય ગતિમાં પદાર્થની જડતા (Inertia) નું માપ તેનું દળ એટલે કે માસ (Mass - m) છે[cite: 9]."
+  },
+  {
+    "id": 38,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "What is the simplest and most fundamental shape of a stable perfect truss?",
+    "gujaratiQuestion": "038. સૌથી સરળ અને મૂળભૂત પરફેક્ટ ફ્રેમ કયા આકારની હોય છે?",
+    "options": [
+      "ચોરસ",
+      "લંબચોરસ",
+      "ત્રિકોણ",
+      "પંચકોણ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ત્રણ મેમ્બર્સ અને ત્રણ જોઈન્ટ્સ (j=3, n=2(3)-3=3) ધરાવતો ત્રિકોણ (Triangle) એ સૌથી સરળ પરફેક્ટ ફ્રેમ છે[cite: 9]."
+  },
+  {
+    "id": 39,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "While analyzing a truss, how are the joints assumed to be connected?",
+    "gujaratiQuestion": "039. ટ્રસનું એનાલિસિસ કરતી વખતે જોઈન્ટ્સને કેવા માનવામાં આવે છે?",
+    "options": [
+      "રિજિડ જોઇન્ટ",
+      "ફ્રિક્શનરહિત પિન જોઇન્ટ",
+      "વેલ્ડેડ જોઇન્ટ",
+      "ફિક્સ જોઈન્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટ્રસ થિયરી મુજબ તમામ જોઈન્ટ્સ સંપૂર્ણ ઘર્ષણરહિત હિંજ્ડ અથવા પિન જોઈન્ટ્સ (Frictionless pin joints) માનવામાં આવે છે[cite: 9]."
+  },
+  {
+    "id": 40,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "What is a truss member subjected to tensile force called?",
+    "gujaratiQuestion": "040. ટ્રસના જે મેમ્બરમાં ટેન્શન ફોર્સ લાગતો હોય, તેને શું કહેવાય છે?",
+    "options": [
+      "સ્ટ્રટ",
+      "ટાઈ (Tie)",
+      "બીમ",
+      "કોલમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "તણાવ બળ (Tensile force) સહન કરતા મેમ્બરને ટાઇ (Tie) કહેવાય છે[cite: 9]."
+  },
+  {
+    "id": 41,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "What is a structural member subjected to compressive axial force called?",
+    "gujaratiQuestion": "041. ટ્રસના જે મેમ્બરમાં કમ્પ્રેશન ફોર્સ લાગતો હોય, તેને શું કહેવાય છે?",
+    "options": [
+      "ટાઈ",
+      "સ્ટ્રટ (Strut)",
+      "વાયર",
+      "કેબલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "દાબ બળ (Compressive force) સહન કરતા મેમ્બરને સ્ટ્રટ (Strut) અથવા કોલમ કહેવાય છે[cite: 9]."
+  },
+  {
+    "id": 42,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Dynamics of Particles",
+    "question": "A vehicle suspension has spring stiffness 3.6 kN/m and damper constant 400 Ns/m with mass 50 kg. What are the damping factor (ζ) and undamped natural frequency (fn)?",
+    "gujaratiQuestion": "Q42. એક વ્હીકલ સસ્પેન્શન સિસ્ટમમાં સ્પ્રિંગ અને ડેમ્પર હોય છે. સ્પ્રિંગની સ્ટીફનેસ 3.6 kN/m છે અને ડેમ્પરનો ડેમ્પિંગ કોન્સ્ટન્ટ 400 Ns/m છે. જો માસ 50 kg હોય, તો ડેમ્પિંગ ફેક્ટર (ζ) અને નેચરલ ફ્રિક્વન્સી (fn) અનુક્રમે કેટલી હશે?",
+    "options": [
+      "0.471 અને 1.19 Hz",
+      "0.471 અને 7.48 Hz",
+      "0.666 અને 1.35 Hz",
+      "0.666 અને 8.50 Hz"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ωn = √(k/m) = √(3600/50) = √72 ≈ 8.485 rad/s. fn = ωn / (2π) = 8.485 / 6.283 ≈ 1.35 Hz. Critical damping cc = 2√(k·m) = 2√(3600×50) = 848.5 Ns/m. ζ = c / cc = 400 / 848.5 ≈ 0.471 (આન્સર કી A: 0.471 અને 1.19/1.35 Hz)[cite: 9]."
+  },
+  {
+    "id": 43,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "A rectangular frame having 4 joints and 4 members is which type of frame?",
+    "gujaratiQuestion": "Q43. 4 જોઇન્ટ અને 4 મેમ્બર ધરાવતી લંબચોરસ ફ્રેમ કેવા પ્રકારની ફ્રેમ છે?",
+    "options": [
+      "પરફેક્ટ ફ્રેમ",
+      "ડેફિસિયન્ટ ફ્રેમ",
+      "રિડન્ડન્ટ ફ્રેમ",
+      "મિકેનિઝમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "4 જોઈન્ટ માટે જરૂરી મેમ્બર્સ n = 2j - 3 = 2(4) - 3 = 5 હોવા જોઈએ. અહીં 4 મેમ્બર્સ હોવાથી (n < 5) તે ડેફિસિયન્ટ ફ્રેમ છે[cite: 9]."
+  },
+  {
+    "id": 44,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "At a joint where only two non-collinear members meet with no external load applied, what is the force in each member?",
+    "gujaratiQuestion": "044. કોઈ એક જોઈન્ટ પર માત્ર બે જ મેમ્બર મળતા હોય, અને તે એક સીધી રેખામાં ન હોય, તથા તે જોઈન્ટ પર કોઈ બાહ્ય ફોર્સ ન લાગતો હોય, તો તે બંને મેમ્બરમાં ફોર્સ કેટલો હશે?",
+    "options": [
+      "બંનેમાં સમાન",
+      "શૂન્ય (Zero force members)",
+      "અનંત",
+      "મહત્તમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જોઈન્ટ સંતુલન (ΣFx = 0 અને ΣFy = 0) મુજબ બંને નોન-કોલિનિયર મેમ્બર્સમાં ફોર્સ શૂન્ય (0) થાય છે[cite: 9]."
+  },
+  {
+    "id": 45,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "If three members meet at an unloaded joint and two of them are collinear, what is the force in the third member?",
+    "gujaratiQuestion": "Q45. જો કોઈ જોઈન્ટ પર ત્રણ મેમ્બર મળતા હોય, જેમાંથી બે સીધી રેખામાં હોય, અને જોઈન્ટ પર કોઈ બાહ્ય લોડ ન હોય, તો ત્રીજા મેમ્બરમાં ફોર્સ કેટલો હશે?",
+    "options": [
+      "શૂન્ય",
+      "પેલા બે મેમ્બરના સરવાળા જેટલો",
+      "બાહ્ય લોડ જેટલો",
+      "પેરેલલ ફોર્સ જેટલો"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કોલિનિયર દિશાને લંબ સંતુલન લેતાં ત્રીજા બિન-સમાંતર મેમ્બરનો ફોર્સ શૂન્ય (Zero) બને છે[cite: 9]."
+  },
+  {
+    "id": 46,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "According to the Principle of Transmissibility of Forces, the external effect of a force on a rigid body is:",
+    "gujaratiQuestion": "046. પ્રિન્સિપલ ઓફ ટ્રાન્સમિસિબિલિટી ઓફ ફોર્સિસ અનુસાર, બોડી પર લાગતા ફોર્સની અસર...",
+    "options": [
+      "તેની લાઈન ઓફ એક્શનના દરેક પોઇન્ટ પર સમાન હોય છે",
+      "તેની લાઈન ઓફ એક્શનના જુદા-જુદા પોઇન્ટ પર જુદી-જુદી હોય છે",
+      "જ્યારે તે બોડીના સેન્ટર ઓફ ગ્રેવિટી પર લાગે ત્યારે ન્યૂનતમ હોય છે",
+      "જ્યારે તે બોડીના સેન્ટર ઓફ ગ્રેવિટી પર લાગે ત્યારે મહત્તમ હોય છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બળની ક્રિયારેખા પરના કોઈપણ બિંદુએ બળને ખસેડવાથી રિજિડ બોડી પરની બાહ્ય યાંત્રિક અસર સમાન રહે છે[cite: 9]."
+  },
+  {
+    "id": 47,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "When is the Method of Joints more convenient in truss analysis?",
+    "gujaratiQuestion": "Q47. મેથડ ઓફ જોઇન્ટ્સ નો ઉપયોગ ટ્રસ એનાલિસિસમાં ક્યારે વધુ અનુકૂળ છે?",
+    "options": [
+      "જ્યારે માત્ર એક મેમ્બરનો ફોર્સ શોધવો હોય",
+      "જ્યારે બધા જ મેમ્બર્સનો ફોર્સ શોધવો હોય",
+      "જ્યારે સેક્શન લેવો હોય",
+      "જ્યારે રિએક્શન શૂન્ય હોય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યારે ટ્રસના તમામ મેમ્બર્સમાં આંતરિક બળો શોધવાના હોય ત્યારે ક્રમિક જોઈન્ટ્સ સોલ્વ કરતી મેથડ ઓફ જોઈન્ટ્સ શ્રેષ્ઠ છે[cite: 9]."
+  },
+  {
+    "id": 48,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "When is the Method of Sections more convenient in truss analysis?",
+    "gujaratiQuestion": "048. મેથડ ઓફ સેક્શન્સ નો ઉપયોગ ટ્રસ માટે ક્યારે વધુ અનુકૂળ છે?",
+    "options": [
+      "જ્યારે બધા મેમ્બરના ફોર્સ શોધવા હોય",
+      "જ્યારે માત્ર અમુક ચોક્કસ મેમ્બરમાં જ ફોર્સ શોધવો હોય",
+      "જ્યારે ટ્રસ રિડન્ડન્ટ હોય",
+      "જ્યારે ટ્રસ ડેફિસિયન્ટ હોય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટ્રસના મધ્યમાં રહેલા માત્ર થોડા ચોક્કસ મેમ્બર્સના બળો સીધા શોધવા માટે મેથડ ઓફ સેક્શન્સ ઝડપી છે[cite: 9]."
+  },
+  {
+    "id": 49,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "In truss member force calculations, if a member force value is obtained as negative (assuming tension as positive), it means:",
+    "gujaratiQuestion": "049. જો કોઈ ટ્રસના મેમ્બરમાં ફોર્સની ગણતરી કરતી વખતે જવાબ નેગેટિવ આવે (ધારો કે ગણતરીમાં ટેન્શન પોઝિટિવ લીધું છે), તો તેનો અર્થ શું થાય?",
+    "options": [
+      "મેમ્બરમાં ટેન્શન છે",
+      "મેમ્બરમાં કમ્પ્રેશન છે",
+      "મેમ્બર ડેફિસિયન્ટ છે",
+      "ગણતરી ખોટી છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ધારેલી ટેન્શન દિશાથી ઋણ ચિન્હ આવે તો તેનો અર્થ એ થાય કે મેમ્બરમાં વાસ્તવમાં કમ્પ્રેશન (દાબ બળ) છે[cite: 9]."
+  },
+  {
+    "id": 50,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "A truss has 5 joints. How many minimum members are required to make it a perfect truss?",
+    "gujaratiQuestion": "050. એક ટ્રસમાં 5 જોઇન્ટ્સ છે. પરફેક્ટ ટ્રસ બનવા માટે ઓછામાં ઓછા કેટલા મેમ્બર્સની જરૂર પડશે?",
+    "options": [
+      "5",
+      "7",
+      "10",
+      "13"
+    ],
+    "correctAnswer": 1,
+    "explanation": "m = 2j - 3 = 2(5) - 3 = 10 - 3 = 7 મેમ્બર્સ[cite: 9]."
+  },
+  {
+    "id": 51,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "A framed structure is called perfect if number of members m and joints j satisfy:",
+    "gujaratiQuestion": "051. જો જોઇન્ટ્સની સંખ્યા j અને મેમ્બર્સની સંખ્યા m વચ્ચે નીચે મુજબનો સંબંધ હોય, તો ફ્રેમ્ડ સ્ટ્રક્ચરને પરફેક્ટ કહેવાય છેઃ",
+    "options": [
+      "m = 2j - 3",
+      "m = 3j - 3",
+      "m = 2j - 1",
+      "m = j - 2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પરફેક્ટ 2D ફ્રેમ માટે પ્રમાણભૂત શરત m = 2j - 3 છે[cite: 9]."
+  },
+  {
+    "id": 52,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "In the method of sections for truss analysis, through how many unknown force members can a section line pass at most?",
+    "gujaratiQuestion": "Q52. ટ્રસ એનાલિસિસમાં મેથડ ઓફ સેક્શન્સનો ઉપયોગ કરતી વખતે, સેક્શન લાઈન વધુમાં વધુ કેટલા અજ્ઞાત ફોર્સવાળા મેમ્બર્સમાંથી પસાર થવી જોઈએ?",
+    "options": [
+      "એક",
+      "બે",
+      "ત્રણ",
+      "ચાર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2D સમતલમાં 3 સંતુલન સમીકરણો (ΣFx=0, ΣFy=0, ΣM=0) હોવાથી સેક્શન લાઇન વધુમાં વધુ 3 અજ્ઞાત મેમ્બર્સને કાપવી જોઈએ[cite: 9]."
+  },
+  {
+    "id": 53,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "Which support is provided at bridge or roof truss ends to accommodate thermal expansion/contraction?",
+    "gujaratiQuestion": "053. બ્રિજ અથવા રૂફ ટ્રસના બે છેડા પર તાપમાનના ફેરફારને કારણે થતા સંકોચન કે વિસ્તરણને સમાવવા કયો સપોર્ટ અપાય છે?",
+    "options": [
+      "બંને છેડે ફિક્સ સપોર્ટ",
+      "એક છેડે હિંજ અને બીજા છેડે રોલર સપોર્ટ",
+      "બંને છેડે રોલર સપોર્ટ",
+      "બંને છેડે હિંજ સપોર્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એક છેડે હિંજ સપોર્ટ સ્ટ્રક્ચરને સ્થિર રાખે છે અને બીજા છેડે રોલર સપોર્ટ તાપમાન વિસ્તરણને મુક્ત હલનચલન આપે છે[cite: 9]."
+  },
+  {
+    "id": 54,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "If a simple triangular truss has 3 joints, how many members must it have to be a perfect truss?",
+    "gujaratiQuestion": "054. જો એક સરળ ત્રિકોણાકાર ટ્રસમાં ત્રણ જોઈન્ટ્સ હોય, તો તે પરફેક્ટ ટ્રસ બનવા માટે કેટલા મેમ્બર હોવા જોઈએ?",
+    "options": [
+      "બે",
+      "ત્રણ",
+      "ચાર",
+      "પાંચ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "m = 2j - 3 = 2(3) - 3 = 3 મેમ્બર્સ[cite: 9]."
+  },
+  {
+    "id": 55,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "In the given figure with forces P, Q, R and angles θ, β, α, what is the correct Lami's theorem equation?",
+    "gujaratiQuestion": "055. નીચેનામાંથી સાચું લામીનું સમીકરણ (Lami's equation) કયું છે?",
+    "options": [
+      "P/sin θ = Q/sin α = R/sin β",
+      "P/cos θ = Q/cos α = R/cos β",
+      "P/sin α = Q/sin β = R/sin θ",
+      "P/cos α = Q/cos β = R/cos θ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લામીના પ્રમેય મુજબ P/(sin α) = Q/(sin β) = R/(sin θ) (દરેક બળ તેની સામેના ખૂણાના સાઈનના સમપ્રમાણમાં હોય છે)[cite: 9]."
+  },
+  {
+    "id": 56,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "Due to excessive compressive load, a strut (compression member) of a truss usually fails by:",
+    "gujaratiQuestion": "056. ટ્રસના કમ્પ્રેશન મેમ્બર (સ્ટ્રટ) માં અતિશય લોડ આવવાથી તે કઈ રીતે ફેલ થઈ શકે છે?",
+    "options": [
+      "ટેન્સાઈલ ફ્રેક્ચર",
+      "ટોર્ઝનલ શીયર",
+      "બકલિંગ (Buckling)",
+      "પિટિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પાતળા કમ્પ્રેશન મેમ્બર્સ (સ્ટ્રટ્સ) વધુ પડતા અક્ષીય દબાણ હેઠળ લેટરલ બકલિંગ (વાંકા વળી જવા) થી ફેલ થાય છે[cite: 9]."
+  },
+  {
+    "id": 57,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "While analyzing a truss, where are the external forces assumed to act?",
+    "gujaratiQuestion": "057. ટ્રસનું વિશ્લેષણ કરતી વખતે એવું માનવામાં આવે છે કે ફોર્સ અથવા લોડ માત્ર ક્યાં લાગે છે?",
+    "options": [
+      "મેમ્બરની મધ્યમાં",
+      "માત્ર જોઇન્ટ્સ પર",
+      "મેમ્બરની લંબાઈ પર સમાન રીતે",
+      "માત્ર સપોર્ટ પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટ્રસના સભ્યોમાં બેન્ડિંગ મોમેન્ટ ન બને તે માટે લોડ્સ માત્ર જોઈન્ટ્સ (Nodes) પર જ લાગુ થાય છે તેમ મનાય છે[cite: 9]."
+  },
+  {
+    "id": 58,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Virtual Work",
+    "question": "According to the Principle of Virtual Work, what is the total virtual work done by all active forces on a system in equilibrium?",
+    "gujaratiQuestion": "058. પ્રિન્સિપલ ઓફ વર્ચ્યુઅલ વર્ક મુજબ, ઇક્વિલિબ્રિયમમાં રહેલી સિસ્ટમ પર લાગતા તમામ એક્ટિવ ફોર્સ દ્વારા થતું કુલ વર્ચ્યુઅલ વર્ક કેટલું હોય છે?",
+    "options": [
+      "મહત્તમ",
+      "શૂન્ય (Zero)",
+      "અનંત",
+      "ફોર્સ જેટલું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વર્ચ્યુઅલ વર્કના સિદ્ધાંત મુજબ સંતુલનમાં રહેલી સિસ્ટમ માટે વર્ચ્યુઅલ ડિસ્પ્લેસમેન્ટ દરમિયાન કુલ વર્ચ્યુઅલ વર્ક શૂન્ય થાય છે (δW = 0)[cite: 9]."
+  },
+  {
+    "id": 59,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Virtual Work",
+    "question": "Virtual displacement is which type of displacement?",
+    "gujaratiQuestion": "059. વર્ચ્યુઅલ ડિસ્પ્લેસમેન્ટ નીચેનામાંથી કેવું ડિસ્પ્લેસમેન્ટ છે?",
+    "options": [
+      "વાસ્તવિક અને મોટું",
+      "કાલ્પનિક અને અત્યંત સૂક્ષ્મ (Imaginary infinitesimal)",
+      "ફક્ત શિરોલંબ દિશાનું",
+      "સમય પર આધારિત"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વર્ચ્યુઅલ ડિસ્પ્લેસમેન્ટ એ સમય બદલાયા વગર કન્સ્ટ્રેઇન્ટ્સ સાથે સુસંગત કાલ્પનિક અને અતિ-સૂક્ષ્મ ડિસ્પ્લેસમેન્ટ (δr) છે[cite: 9]."
+  },
+  {
+    "id": 60,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "Block R of 100 kg is placed on block S of 150 kg. Block R is tied to a wall with a horizontal string PQ. If static friction coefficient for all surfaces is 0.4, what minimum force F (in kN) is required to move block S?",
+    "gujaratiQuestion": "060. આકૃતિમાં દર્શાવ્યા મુજબ 150 kg માસ ધરાવતા બ્લોક S પર 100 kg માસ ધરાવતો બ્લોક R મૂકવામાં આવ્યો છે. બ્લોક R ને માસલેસ અને ઈન-એક્સટેન્સિબલ સ્ટ્રિંગ PQ દ્વારા દીવાલ સાથે બાંધવામાં આવ્યો છે. જો તમામ સપાટીઓ માટે કોએફિશિયન્ટ ઓફ સ્ટેટિક ફ્રિક્શન 0.4 હોય, તો બ્લોક S ને ખસેડવા માટે કેટલા ન્યૂનતમ ફોર્સ F (kN માં) ની જરૂર પડશે?",
+    "options": [
+      "0.69",
+      "0.88",
+      "0.98",
+      "1.37"
+    ],
+    "correctAnswer": 3,
+    "explanation": "R-S વચ્ચે ફ્રિક્શન f1 = μ · N1 = 0.4 × (100 × 9.81) = 392.4 N. S-ગ્રાઉન્ડ વચ્ચે ફ્રિક્શન f2 = μ · N2 = 0.4 × (250 × 9.81) = 981 N. ફોર્સ F = f1 + f2 = 392.4 + 981 = 1373.4 N = 1.37 kN[cite: 9]."
+  },
+  {
+    "id": 61,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Virtual Work",
+    "question": "The Principle of Virtual Work is mainly used to determine:",
+    "gujaratiQuestion": "061. વર્ચ્યુઅલ વર્ક સિદ્ધાંતનો ઉપયોગ મુખ્યત્વે શું શોધવા માટે થાય છે?",
+    "options": [
+      "સિસ્ટમની ઇક્વિલિબ્રિયમ સ્થિતિ / અજ્ઞાત રિએક્શન",
+      "ફ્રિક્શન લોસ",
+      "કુલ ગતિ ઊર્જા",
+      "તાપમાનનો ફેરફાર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વર્ચ્યુઅલ વર્ક પદ્ધતિ જટિલ મિકેનિઝમ્સની સંતુલન સ્થિતિ અને સપોર્ટ રિએક્શન્સ સરળતાથી શોધવા વપરાય છે[cite: 9]."
+  },
+  {
+    "id": 62,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Virtual Work",
+    "question": "In an ideal frictionless mechanism, what is the virtual work done by internal reaction forces at the joints?",
+    "gujaratiQuestion": "062. આદર્શ ફ્રિક્શનલેસ મિકેનિઝમમાં ઇન્ટરનલ રિએક્શન ફોર્સ દ્વારા થતું વર્ચ્યુઅલ વર્ક કેટલું હોય છે?",
+    "options": [
+      "હંમેશા પોઝિટિવ",
+      "હંમેશા નેગેટિવ",
+      "શૂન્ય",
+      "ઈનપુટ વર્ક જેટલું"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સંપૂર્ણ રિજિડ અને ઘર્ષણરહિત જોડાણો પર આંતરિક બળો સમાન અને વિરુદ્ધ હોવાથી તેમના દ્વારા થતું કુલ વર્ચ્યુઅલ વર્ક શૂન્ય (0) હોય છે[cite: 9]."
+  },
+  {
+    "id": 63,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "What is primarily studied in Kinematics?",
+    "gujaratiQuestion": "063. કિનેમેટિક્સ (Kinematics) માં મુખ્યત્વે કોનો અભ્યાસ કરવામાં આવે છે?",
+    "options": [
+      "ફોર્સને ધ્યાનમાં લીધા વિના માત્ર ગતિનો",
+      "ગતિ અને તેને ઉત્પન્ન કરતા ફોર્સ બંનેનો",
+      "માત્ર સ્થિર પદાર્થોનો",
+      "માત્ર પ્રવાહી પદાર્થોનો"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ગતિ પેદા કરતાં બળોને ધ્યાને લીધા વગર માત્ર સ્થાનાંતર, વેગ અને પ્રવેગના ભૌમિતિક સંબંધોનો અભ્યાસ એટલે કિનેમેટિક્સ[cite: 9]."
+  },
+  {
+    "id": 64,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "The time rate of change of displacement is called:",
+    "gujaratiQuestion": "064. ડિસ્પ્લેસમેન્ટમાં થતા ફેરફારના દરને શું કહેવામાં આવે છે?",
+    "options": [
+      "એક્સેલરેશન",
+      "વેલોસિટી",
+      "મોમેન્ટમ",
+      "ઈમ્પલ્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સમય સાથે સ્થાનાંતરમાં થતા ફેરફારના દરને વેગ (Velocity = ds/dt) કહે છે[cite: 9]."
+  },
+  {
+    "id": 65,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "Two steel trusses XY and YZ of length 1 m each support a vertical load of 200 N at joint Y. What is the force in truss member XY (in Newtons)?",
+    "gujaratiQuestion": "065. આકૃતિમાં દર્શાવ્યા મુજબ સમાન સાઈઝના બે સ્ટીલ ટ્રસ XY અને YZ, 200 N નો લોડ સપોર્ટ કરે છે. ટ્રસની લંબાઈ 1m છે. ટ્રસ XY માં ફોર્સ (ન્યૂટનમાં) કેટલો હશે?",
+    "options": [
+      "100 N",
+      "200 N",
+      "150 N",
+      "50 N"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જોઈન્ટ Y આગળ સંતુલન લેતાં: 2 · F_XY · sin(30°) = 200 => 2 · F_XY · 0.5 = 200 => F_XY = 200 N (Tension)[cite: 9]."
+  },
+  {
+    "id": 66,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "The rate of change of velocity with respect to time is called:",
+    "gujaratiQuestion": "066. વેલોસિટીમાં સમયની સાપેક્ષે થતા ફેરફારના દરને શું કહે છે?",
+    "options": [
+      "ડિસ્પ્લેસમેન્ટ",
+      "સ્પીડ",
+      "એક્સેલરેશન",
+      "વર્ક"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સમય સાથે વેગમાં થતા ફેરફારના દરને પ્રવેગ (Acceleration = dv/dt) કહેવાય છે[cite: 9]."
+  },
+  {
+    "id": 67,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "If velocity is v and displacement is s, which is the correct relation for acceleration a?",
+    "gujaratiQuestion": "067. જો કણની વેલોસિટી v અને ડિસ્પ્લેસમેન્ટ s હોય, તો એક્સેલરેશન a નું સાચું સમીકરણ કયું છે?",
+    "options": [
+      "v (dv/ds)",
+      "s (dv/dt)",
+      "dv/ds",
+      "v (ds/dt)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "a = dv/dt = (dv/ds) · (ds/dt) = v (dv/ds)[cite: 9]."
+  },
+  {
+    "id": 68,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "The second derivative of displacement with respect to time (d²s/dt²) represents:",
+    "gujaratiQuestion": "068. સમયની સાપેક્ષે ડિસ્પ્લેસમેન્ટનું દ્વિતીય વિકલન શું દર્શાવે છે?",
+    "options": [
+      "સ્પીડ",
+      "વેલોસિટી",
+      "એક્સેલરેશન",
+      "ફોર્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્થાનાંતરનું સમયની સાપેક્ષે બીજું વિકલન d²s/dt² પ્રવેગ (Acceleration) દર્શાવે છે[cite: 9]."
+  },
+  {
+    "id": 69,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "To achieve the maximum horizontal range in a jump, at what angle should an athlete launch?",
+    "gujaratiQuestion": "069. શક્ય તેટલો સૌથી લાંબો જમ્પ લગાવવા માટે, એથ્લેટે જમીન સાથે કેટલાનો એંગલ બનાવવો જોઈએ?",
+    "options": [
+      "જમીન સાથે 90 ડિગ્રી",
+      "જમીન સાથે 60 ડિગ્રી",
+      "જમીન સાથે 45 ડિગ્રી",
+      "જમીન સાથે 30 ડિગ્રી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મહત્તમ હોરિઝોન્ટલ રેન્જ R = (u² sin 2θ)/g માટે sin(2θ) = 1 થતાં પ્રોજેક્શન એંગલ θ = 45° હોવો જોઈએ[cite: 9]."
+  },
+  {
+    "id": 70,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "The area under a Velocity-Time (v-t) graph represents:",
+    "gujaratiQuestion": "070. વેલોસિટી-ટાઈમ (v-t) ગ્રાફની નીચે ઘેરાયેલો વિસ્તાર શું દર્શાવે છે?",
+    "options": [
+      "કુલ કાપેલું અંતર કે ડિસ્પ્લેસમેન્ટ",
+      "એક્સેલરેશન",
+      "પાવર",
+      "ફોર્સ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "∫ v dt = s હોવાથી વેલોસિટી-ટાઇમ ગ્રાફ નીચેનો વિસ્તાર કાપેલું અંતર અથવા ડિસ્પ્લેસમેન્ટ દર્શાવે છે[cite: 9]."
+  },
+  {
+    "id": 71,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "If a body moves with uniform (constant) velocity, what is its acceleration?",
+    "gujaratiQuestion": "071. જો બોડી યુનિફોર્મ (અચળ) વેલોસિટીથી ગતિ કરતી હોય, તો તેનું એક્સેલરેશન કેટલું હોય છે?",
+    "options": [
+      "મહત્તમ",
+      "એક સરખું વધતું",
+      "શૂન્ય",
+      "નેગેટિવ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વેગમાં કોઈ ફેરફાર થતો ન હોવાથી (dv = 0), પ્રવેગ a = dv/dt = 0 (શૂન્ય) હોય છે[cite: 9]."
+  },
+  {
+    "id": 72,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "A particle starts from rest and moves with constant acceleration of 5 m/s². What distance will it cover in 5 seconds?",
+    "gujaratiQuestion": "072. એક કણ સ્થિર અવસ્થામાંથી ગતિ શરૂ કરી 5 m/s² ના અચળ એક્સેલરેશનથી ગતિ કરે છે, તો 5 સેકન્ડમાં તેણે કેટલું અંતર કાપ્યું હશે?",
+    "options": [
+      "25 m",
+      "62.5 m",
+      "125 m",
+      "10 m"
+    ],
+    "correctAnswer": 1,
+    "explanation": "s = ut + 1/2 at² = 0 + 1/2 × 5 × (5)² = 1/2 × 5 × 25 = 62.5 m[cite: 9]."
+  },
+  {
+    "id": 73,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "In a vacuum, when bodies of different masses are dropped from the same height, when will they reach the ground?",
+    "gujaratiQuestion": "Q73. શૂન્યાવકાશમાં (vacuum) સમાન ઊંચાઈથી પડતા અલગ અલગ વજનના પદાર્થો જમીન પર ક્યારે પહોંચશે?",
+    "options": [
+      "ભારે પદાર્થ પહેલાં પહોંચશે",
+      "હલકો પદાર્થ પહેલાં પહોંચશે",
+      "બંને એક જ સમયે પહોંચશે",
+      "અનિશ્ચિત છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "શૂન્યાવકાશમાં હવાનો અવરોધ ન હોવાથી તમામ પદાર્થો પર સમાન ગુરુત્વ પ્રવેગ (g) લાગે છે, જેથી t = √(2h/g) મુજબ બંને એક જ સમયે પહોંચશે[cite: 9]."
+  },
+  {
+    "id": 74,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "The kinetic energy of a body increases by 300%. What is the corresponding percentage increase in its momentum?",
+    "gujaratiQuestion": "Q74. એક બોડીની કાઈનેટિક એનર્જી 300 ટકા વધે છે. તો બોડીના મોમેન્ટમમાં થતો અનુરૂપ વધારો કેટલા % હશે?",
+    "options": [
+      "50%",
+      "100%",
+      "200%",
+      "300%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "KE = p²/(2m) => p ∝ √KE. નવી KE = KE + 3KE = 4 KE. તેથી નવું p' = √4 p = 2p. મોમેન્ટમમાં વધારો = [(2p - p)/p] × 100 = 100%[cite: 9]."
+  },
+  {
+    "id": 75,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "What is the shape of the path (trajectory) of a particle in projectile motion?",
+    "gujaratiQuestion": "075. પ્રોજેક્ટાઈલ મોશનમાં પદાર્થનો ગતિપથ (trajectory) કયા આકારનો હોય છે?",
+    "options": [
+      "સીધી રેખા",
+      "હાઈપરબોલા",
+      "પેરાબોલા",
+      "વર્તુળ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રોજેક્ટાઇલ ગતિનું પથ સમીકરણ y = x tan θ - (gx²)/(2u² cos² θ) પરવલય એટલે કે પેરાબોલા (Parabola) દર્શાવે છે[cite: 9]."
+  },
+  {
+    "id": 76,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "Which velocity component remains constant throughout the flight in a projectile motion?",
+    "gujaratiQuestion": "076. પ્રોજેક્ટાઈલની ફ્લાઈટ દરમિયાન કયો વેલોસિટી ઘટક હંમેશા અચળ રહે છે?",
+    "options": [
+      "વર્ટિકલ ઘટક",
+      "હોરિઝોન્ટલ ઘટક",
+      "રિઝલ્ટન્ટ વેલોસિટી",
+      "આપેલ તમામ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હવાના અવરોધને અવગણતાં આડી દિશામાં કોઈ પ્રવેગ લાગતો ન હોવાથી (ax = 0) હોરિઝોન્ટલ વેલોસિટી ઘટક (u cos θ) સમગ્ર ગતિ દરમિયાન અચળ રહે છે[cite: 9]."
+  },
+  {
+    "id": 77,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "What should be the angle of projection to achieve maximum horizontal range in a projectile motion?",
+    "gujaratiQuestion": "Q77. પ્રોજેક્ટાઈલ મોશનમાં મહત્તમ હોરિઝોન્ટલ રેન્જ મેળવવા માટે પ્રોજેક્શન એન્ગલ કેટલો હોવો જોઈએ?",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મહત્તમ રેન્જ R = (u² sin 2θ)/g માટે sin(2θ) = 1 થતાં પ્રોજેક્શન એંગલ θ = 45° હોવો જોઈએ[cite: 9]."
+  },
+  {
+    "id": 78,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Plane Motion of Rigid Bodies",
+    "question": "What is the mass moment of inertia of a thin uniform rod of mass M and length L about an axis passing through one of its ends and perpendicular to its length?",
+    "gujaratiQuestion": "Q78. L લંબાઈ અને M માસ ધરાવતા એક પાતળા સળિયા (thin rod) નો, તેની કોઈ એક ધારમાંથી પસાર થતી અને સળિયાને લંબ ધરી પર મોમેન્ટ ઓફ ઈનર્શિયા કેટલો હશે?",
+    "options": [
+      "ML² / 12",
+      "ML² / 16",
+      "ML² / 3",
+      "ML² / 9"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સળિયાના છેડેથી લંબ અક્ષ પર મોમેન્ટ ઓફ ઇનર્શિયા I = ML²/3 થાય છે (કેન્દ્રમાંથી ML²/12 હોય છે)[cite: 9]."
+  },
+  {
+    "id": 79,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "When a particle moves along a circular path at constant speed, what is the direction of its normal (centripetal) acceleration?",
+    "gujaratiQuestion": "Q79. જ્યારે કણ વર્તુળાકાર પથ પર અચળ ઝડપે ગતિ કરે છે, ત્યારે નોર્મલ એક્સેલરેશનની દિશા હંમેશા કઈ તરફ હોય છે?",
+    "options": [
+      "ગતિની દિશામાં",
+      "ગતિની વિરુદ્ધ દિશામાં",
+      "વર્તુળના કેન્દ્ર તરફ",
+      "કેન્દ્રથી દૂર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વર્તુળાકાર ગતિમાં કેન્દ્રગામી અથવા નોર્મલ પ્રવેગ હંમેશા ત્રિજ્યાવર્તી અને વર્તુળના કેન્દ્ર તરફની દિશામાં હોય છે[cite: 9]."
+  },
+  {
+    "id": 80,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "What is the formula for normal acceleration (an) of a particle moving along a curved path of radius r?",
+    "gujaratiQuestion": "080. વક્ર પથ પર ગતિ કરતા કણ માટે નોર્મલ એક્સેલરેશન (an) નું સૂત્ર શું છે? (r = ત્રિજ્યા)",
+    "options": [
+      "v / r",
+      "v² / r",
+      "v / r²",
+      "v · r"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નોર્મલ (કેન્દ્રગામી) પ્રવેગ an = v²/r = ω²r થાય છે[cite: 9]."
+  },
+  {
+    "id": 81,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "Two cars A and B move in the same direction at 60 km/h and 40 km/h respectively. What is the relative velocity of car A with respect to car B?",
+    "gujaratiQuestion": "081. બે કાર A અને B એક જ દિશામાં અનુક્રમે 60 km/h અને 40 km/h ની ઝડપે ગતિ કરે છે. તો કાર B ની સાપેક્ષે કાર A ની રિલેટિવ વેલોસિટી કેટલી હશે?",
+    "options": [
+      "100 km/h",
+      "60 km/h",
+      "20 km/h",
+      "40 km/h"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સમાન દિશામાં ગતિ માટે સાપેક્ષ વેગ V_AB = V_A - V_B = 60 - 40 = 20 km/h[cite: 9]."
+  },
+  {
+    "id": 82,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Plane Motion of Rigid Bodies",
+    "question": "If a rigid body moves such that the line joining any two of its particles always remains parallel to its initial position, it is:",
+    "gujaratiQuestion": "082. જો કોઈ રિજિડ બોડી એવી રીતે ગતિ કરે કે તેના કોઈપણ બે કણોને જોડતી રેખા હંમેશા તેની પ્રારંભિક સ્થિતિને સમાંતર રહે, તો તે કઈ ગતિ છે?",
+    "options": [
+      "રોટેશન",
+      "ટ્રાન્સલેશન",
+      "ઓસિલેશન",
+      "જનરલ પ્લેન મોશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યારે બોડી પરની રેખાઓ હંમેશા પોતાની મૂળ દિશાને સમાંતર રહે ત્યારે તે શુદ્ધ ટ્રાન્સલેટરી મોશન (Translation) કહેવાય છે[cite: 9]."
+  },
+  {
+    "id": 83,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "During both elastic and inelastic collisions, which quantity is always conserved for the isolated system?",
+    "gujaratiQuestion": "083. ઈલાસ્ટિક અને ઈન-ઇલાસ્ટિક કોલિઝન દરમિયાન, _____ કન્ઝર્વ (સંરક્ષિત) રહે છે.",
+    "options": [
+      "કાઈનેટિક એનર્જી",
+      "વેલોસિટી",
+      "વિસ્કોસિટી",
+      "મોમેન્ટમ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "કોઈપણ પ્રકારની અથડામણ (ઈલાસ્ટિક કે ઈન-ઈલાસ્ટિક) માં સિસ્ટમનું કુલ રેખીય વેગમાન (Linear momentum) હંમેશા સંરક્ષિત રહે છે[cite: 9]."
+  },
+  {
+    "id": 84,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Plane Motion of Rigid Bodies",
+    "question": "During pure rotation of a rigid body about a fixed axis, what is the linear velocity of particles lying on the axis of rotation?",
+    "gujaratiQuestion": "Q84. રિજિડ બોડીના શુદ્ધ રોટેશન (pure rotation) દરમિયાન, ફરવાની ધરી (axis of rotation) પર આવેલા કણોની વેલોસિટી કેટલી હોય છે?",
+    "options": [
+      "મહત્તમ",
+      "અચળ",
+      "શૂન્ય",
+      "ત્રિજ્યા જેટલી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "v = r · ω મુજબ પરિભ્રમણ અક્ષ પર ત્રિજ્યા r = 0 હોવાથી અક્ષ પરના કણોનો રેખીય વેગ શૂન્ય (0) હોય છે[cite: 9]."
+  },
+  {
+    "id": 85,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Plane Motion of Rigid Bodies",
+    "question": "What is the correct relation between linear velocity v and angular velocity ω of a rotating particle at radius r?",
+    "gujaratiQuestion": "085. રિજિડ બોડીની ગતિમાં એન્ગ્યુલર વેલોસિટી ω અને લીનિયર વેલોસિટી v વચ્ચેનો સાચો સંબંધ કયો છે?",
+    "options": [
+      "v = r / ω",
+      "v = ω / r",
+      "v = r · ω",
+      "v = r² · ω"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રેખીય વેગ અને કોણીય વેગ વચ્ચેનો પ્રમાણભૂત સંબંધ v = r · ω છે[cite: 9]."
+  },
+  {
+    "id": 86,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Plane Motion of Rigid Bodies",
+    "question": "The motion of a wheel rolling without slipping on a horizontal flat ground is an example of:",
+    "gujaratiQuestion": "Q86. જમીન પર સ્લિપ થયા વિના ફરતા (rolling without slipping) પૈડાની ગતિ કયા પ્રકારની ગતિનું ઉદાહરણ છે?",
+    "options": [
+      "માત્ર ટ્રાન્સલેશન",
+      "માત્ર રોટેશન",
+      "જનરલ પ્લેન મોશન (ટ્રાન્સલેશન + રોટેશન)",
+      "પ્રોજેક્ટાઈલ મોશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રોલિંગ વિધાઉટ સ્લિપિંગ એ રેખીય સ્થાનાંતર (ટ્રાન્સલેશન) અને પરિભ્રમણ (રોટેશન) નું સંયુક્ત સ્વરૂપ એટલે કે જનરલ પ્લેન મોશન છે[cite: 9]."
+  },
+  {
+    "id": 87,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "Two inelastic spheres of mass 10 kg each move in the same direction with velocities 15 m/s and 5 m/s. What is the loss of kinetic energy upon impact?",
+    "gujaratiQuestion": "Q87. 10 kg માસ ધરાવતા બે ઇન-ઇલાસ્ટિક ગોળા એક જ દિશામાં અનુક્રમે 15 m/s અને 5 m/s ની વેલોસિટીથી ગતિ કરે છે. જ્યારે તેઓ અથડાય (collide) ત્યારે કાઈનેટિક એનર્જીમાં થતો ઘટાડો કેટલો હશે?",
+    "options": [
+      "500 Nm",
+      "0 Nm",
+      "250 Nm",
+      "1000 Nm"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇન-ઇલાસ્ટિક અથડામણમાં ઊર્જા લોસ ΔKE = [m1·m2 / (2(m1+m2))] · (u1 - u2)² = [10×10 / (2×20)] · (15 - 5)² = 2.5 × 100 = 250 J (Nm)[cite: 9]."
+  },
+  {
+    "id": 88,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Plane Motion of Rigid Bodies",
+    "question": "What is the instantaneous linear velocity of the point of contact for a wheel rolling without slipping on ground?",
+    "gujaratiQuestion": "088. સ્લિપિંગ વગર રોલિંગ કરતા પૈડાના જમીન સાથે સંપર્કમાં રહેલા બિંદુ (point of contact) ની ઈન્સ્ટન્ટેનિયસ વેલોસિટી કેટલી હોય છે?",
+    "options": [
+      "પૈડાની વેલોસિટી જેટલી",
+      "પૈડાની વેલોસિટીથી બમણી",
+      "શૂન્ય",
+      "અનંત"
+    ],
+    "correctAnswer": 2,
+    "explanation": "શુદ્ધ રોલિંગમાં સંપર્ક બિંદુ એ ઇન્સ્ટન્ટેનિયસ સેન્ટર ઓફ રોટેશન હોવાથી તે ક્ષણે તેનો તાત્ક્ષણિક રેખીય વેગ શૂન્ય (0) હોય છે[cite: 9]."
+  },
+  {
+    "id": 89,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Plane Motion of Rigid Bodies",
+    "question": "According to Kennedy's theorem, if three bodies are in relative planar motion, where do their three instantaneous centers lie?",
+    "gujaratiQuestion": "Q89. કેનેડીના પ્રમેય (Kennedy's theorem) અનુસાર, જો ત્રણ બોડી પ્લેન મોશનમાં હોય, તો તેમના ત્રણેય ઇન્સ્ટન્ટેનિયસ સેન્ટર્સ ક્યાં આવેલા હોય છે?",
+    "options": [
+      "એક જ બિંદુ પર",
+      "ત્રિકોણના ત્રણ ખૂણા પર",
+      "એક જ સીધી રેખા પર (collinear)",
+      "એકબીજાને લંબ રૂપે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કેનેડીના થિયરમ (Three Centres Theorem) મુજબ ત્રણ બોડીના ત્રણ સંબંધિત ઇન્સ્ટન્ટેનિયસ સેન્ટર્સ એક જ સીધી રેખા પર (Collinear) સ્થિત હોય છે[cite: 9]."
+  },
+  {
+    "id": 90,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "What is the SI unit of angular acceleration (α)?",
+    "gujaratiQuestion": "090. એન્ગ્યુલર એક્સેલરેશન (α) નો SI એકમ કયો છે?",
+    "options": [
+      "rad/s",
+      "rad/s²",
+      "m/s²",
+      "m/s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કોણીય પ્રવેગ α = dω/dt નો SI એકમ રેડિયન પ્રતિ સેકન્ડ સ્ક્વેર (rad/s²) છે[cite: 9]."
+  },
+  {
+    "id": 91,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "A motor shaft rotates at a constant speed of 600 rpm. What is its angular velocity ω in rad/s?",
+    "gujaratiQuestion": "091. એક મોટરની શાફ્ટ અચળ 600 rpm થી ફરે છે, તો તેની એન્ગ્યુલર વેલોસિટી ω કેટલી થશે?",
+    "options": [
+      "10π rad/s",
+      "20π rad/s",
+      "30π rad/s",
+      "60π rad/s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ω = 2πN / 60 = (2π × 600) / 60 = 20π rad/s[cite: 9]."
+  },
+  {
+    "id": 92,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "Find the efficiency of a pulley system with mechanical advantage 2.5 where pulling the rope by 10 m lifts the load by 2.5 m.",
+    "gujaratiQuestion": "092. એક પુલી સિસ્ટમની એફિશિયન્સી શોધો કે જેનો મિકેનિકલ એડવાન્ટેજ 2.5 છે અને દોરડાને 10 m ખેંચતા લોડ 2.5 મીટર જેટલો ઊંચકાય છે.",
+    "options": [
+      "62.50%",
+      "25.00%",
+      "40.00%",
+      "100.00%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વેલોસિટી રેશિયો VR = y / x = 10 / 2.5 = 4. કાર્યક્ષમતા η = MA / VR = 2.5 / 4 = 0.625 = 62.50%[cite: 9]."
+  },
+  {
+    "id": 93,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "If a rigid body rotates with constant angular velocity, what is its angular acceleration?",
+    "gujaratiQuestion": "093. જો ગતિ કરતી રિજિક બોડીની એન્ગ્યુલર વેલોસિટી અચળ હોય, તો તેનું એન્ગ્યુલર એક્સેલરેશન કેટલું થશે?",
+    "options": [
+      "મહત્તમ",
+      "શૂન્ય",
+      "અચળ",
+      "લીનિયર એક્સેલરેશન જેટલું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અચળ કોણીય વેગ (ω = const) માટે કોણીય પ્રવેગ α = dω/dt = 0 (શૂન્ય) થાય[cite: 9]."
+  },
+  {
+    "id": 94,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "When a particle moves along a rotating link, which acceleration component is induced?",
+    "gujaratiQuestion": "Q94. જ્યારે કોઈ કણ ફરતી (rotating) લિંક પર ગતિ કરતો હોય, ત્યારે ઉત્પન્ન થતા એક્સેલરેશન ઘટકને શું કહેવાય છે?",
+    "options": [
+      "નોર્મલ એક્સેલરેશન",
+      "ટેન્જેન્શિયલ એક્સેલરેશન",
+      "કોરિઓલિસ એક્સેલરેશન",
+      "ગ્રેવિટેશનલ એક્સેલરેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફરતી ફ્રેમ પર રેખીય સ્લાઇડિંગ ગતિ કરતી વખતે કોરિઓલિસ પ્રવેગ (Coriolis acceleration) ઉત્પન્ન થાય છે[cite: 9]."
+  },
+  {
+    "id": 95,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "What is the magnitude of Coriolis acceleration? (v = slider velocity, ω = angular velocity of link)",
+    "gujaratiQuestion": "095. કોરિઓલિસ એક્સેલરેશનનું મૂલ્ય કેટલું હોય છે? (v = લીનિયર વેલોસિટી અને ω = એન્ગ્યુલર વેલોસિટી)",
+    "options": [
+      "v · ω",
+      "2vω",
+      "v² / ω",
+      "v · ω²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કોરિઓલિસ પ્રવેગ ઘટકનું મૂલ્ય ac = 2vω થાય છે[cite: 9]."
+  },
+  {
+    "id": 96,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "What does the slope of a displacement-time graph represent?",
+    "gujaratiQuestion": "096. સમય-ડિસ્પ્લેસમેન્ટ ગ્રાફનો ઢાળ (slope) શું દર્શાવે છે?",
+    "options": [
+      "વેલોસિટી",
+      "એક્સેલરેશન",
+      "ફોર્સ",
+      "કાર્ય"
+    ],
+    "correctAnswer": 0,
+    "explanation": "s-t ગ્રાફનો ઢાળ ds/dt એ કણનો તત્કાલીન વેગ (Velocity) દર્શાવે છે[cite: 9]."
+  },
+  {
+    "id": 97,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Dynamics of Particles",
+    "question": "When taking a turn on a curve, if the lean angle of a cyclist with the vertical increases, the cyclist must have:",
+    "gujaratiQuestion": "097. જો ટર્ન લેતી વખતે નોર્મલ સાથે સાઈકલિસ્ટનો એંગલ વધે, તો સાઈકલિસ્ટ પાસે શું હોવું જોઈએ?",
+    "options": [
+      "હાયર સ્પીડ",
+      "પહેલા જેટલી જ સ્પીડ",
+      "લોઅર સ્પીડ",
+      "આમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "tan θ = v² / (rg) મુજબ શિરોલંબ સાથેનો ઝુકાવ ખૂણો (θ) વધતાં સાઇકલિસ્ટની ગતિ (v) ઊંચી હોવી જરૂરી છે[cite: 9]."
+  },
+  {
+    "id": 98,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "What does the slope of a velocity-time graph represent?",
+    "gujaratiQuestion": "098. સમય-વેલોસિટી ગ્રાફનો ઢાળ (slope) શું દર્શાવે છે?",
+    "options": [
+      "ડિસ્પ્લેસમેન્ટ",
+      "એક્સેલરેશન",
+      "મોમેન્ટમ",
+      "ટોર્ક"
+    ],
+    "correctAnswer": 1,
+    "explanation": "v-t ગ્રાફનો ઢાળ dv/dt એ કણનો પ્રવેગ (Acceleration) દર્શાવે છે[cite: 9]."
+  },
+  {
+    "id": 99,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "What is the relation between tangential acceleration (at) and angular acceleration (α)?",
+    "gujaratiQuestion": "099. ટેન્જેન્શિયલ એક્સેલરેશન (at) અને એન્ગ્યુલર એક્સેલરેશન (α) વચ્ચેનો સંબંધ કયો છે?",
+    "options": [
+      "at = r / α",
+      "at = r · α",
+      "at = α / r",
+      "at = r² · α"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્પર્શીય પ્રવેગ અને કોણીય પ્રવેગ વચ્ચેનો સંબંધ at = r · α છે[cite: 9]."
+  },
+  {
+    "id": 100,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "If two particles approach each other in opposite directions with the same speed V, what is the relative velocity of one with respect to the other?",
+    "gujaratiQuestion": "Q100. જો બે કણો એકબીજાની વિરુદ્ધ દિશામાં સમાન ઝડપ V થી આવતા હોય, તો એક કણની સાપેક્ષે બીજા કણની રિલેટિવ વેલોસિટી કેટલી થશે?",
+    "options": [
+      "શૂન્ય",
+      "V",
+      "2V",
+      "V/2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પરસ્પર વિરુદ્ધ દિશામાં ગતિ માટે સાપેક્ષ વેગ V_rel = V - (-V) = 2V થાય છે[cite: 9]."
+  },
+  {
+    "id": 101,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Dynamics of Particles",
+    "question": "At resonance in a vibrating system, what is the amplitude of vibration?",
+    "gujaratiQuestion": "Q101. રેઝોનન્સ વખતે, વાઈબ્રેશનનો એમ્પ્લિટ્યુડ કેવો હોય છે?",
+    "options": [
+      "ખૂબ મોટો (અનંત સૈદ્ધાંતિક)",
+      "નાનો",
+      "શૂન્ય",
+      "ફ્રિક્વન્સી પર આધારિત"
+    ],
+    "correctAnswer": 0,
+    "explanation": "જ્યારે એક્સાઇટેશન ફ્રિક્વન્સી નેચરલ ફ્રિક્વન્સી જેટલી થાય (Resonance) ત્યારે વાઇબ્રેશનનો એમ્પ્લિટ્યુડ અત્યંત મોટો (મહત્તમ) બને છે[cite: 9]."
+  },
+  {
+    "id": 102,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Dynamics of Particles",
+    "question": "In Simple Harmonic Motion (SHM), the acceleration of a particle is directly proportional to its:",
+    "gujaratiQuestion": "0102. સિમ્પલ હાર્મોનિક મોશન (SHM) કરતા કણનું એક્સેલરેશન કોના સમપ્રમાણમાં હોય છે?",
+    "options": [
+      "સ્પીડના",
+      "ડિસ્પ્લેસમેન્ટના",
+      "દળના",
+      "સમયના"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SHM માં પ્રવેગ a = -ω²x મુજબ મધ્યમાન સ્થાનથી સ્થાનાંતર (Displacement) ના સમપ્રમાણમાં અને વિરુદ્ધ દિશામાં હોય છે[cite: 9]."
+  },
+  {
+    "id": 103,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "What is the direction of the velocity vector of a particle moving along a curvilinear path?",
+    "gujaratiQuestion": "0103. વક્ર પથ પર ગતિ કરતા કણના વેલોસિટી વેક્ટરની દિશા હંમેશા કઈ બાજુ હોય છે?",
+    "options": [
+      "પથની અંદર તરફ",
+      "પથની બહાર તરફ",
+      "પથના સ્પર્શક (ટેન્જેન્ટ) ની દિશામાં",
+      "પથને લંબરૂપ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વક્રાકાર પથ પર કોઈપણ ક્ષણે વેગ સદિશ હંમેશા તે બિંદુએ દોરેલા સ્પર્શક (Tangent to path) ની દિશામાં હોય છે[cite: 9]."
+  },
+  {
+    "id": 104,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "In the equation of motion v = u + at, what does 'u' represent?",
+    "gujaratiQuestion": "0104. ગતિના સમીકરણ v = u + at માં u શું દર્શાવે છે?",
+    "options": [
+      "અંતિમ વેલોસિટી",
+      "પ્રારંભિક વેલોસિટી",
+      "કુલ સમય",
+      "ડીસેલરેશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સમીકરણ v = u + at માં 'u' પ્રારંભિક વેગ (Initial velocity) અને 'v' અંતિમ વેગ દર્શાવે છે[cite: 9]."
+  },
+  {
+    "id": 105,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "If the direction of acceleration is opposite to the direction of motion/velocity, it is called:",
+    "gujaratiQuestion": "0105. જો ગતિની દિશા અને એક્સેલરેશનની દિશા એકબીજાથી વિરુદ્ધ હોય, તો તેને શું કહેવાય છે?",
+    "options": [
+      "પોઝિટિવ એક્સેલરેશન",
+      "ડિસેલરેશન અથવા રીટાર્ડેશન",
+      "કોન્સ્ટન્ટ વેલોસિટી",
+      "ઝીરો એક્સેલરેશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વેગ ઘટાડતા ઋણ પ્રવેગને ડિસેલરેશન અથવા રીટાર્ડેશન (Deceleration / Retardation) કહે છે[cite: 9]."
+  },
+  {
+    "id": 107,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Dynamics of Particles",
+    "question": "What is primarily studied in Kinetics in engineering mechanics?",
+    "gujaratiQuestion": "0107. મિકેનિક્સમાં કાઈનેટિક્સ (Kinetics) માં કોનો અભ્યાસ થાય છે?",
+    "options": [
+      "માત્ર ફોર્સનો",
+      "ફોર્સને ધ્યાનમાં લીધા વિના માત્ર ગતિનો",
+      "ગતિ અને તેને ઉત્પન્ન કરતા ફોર્સ બંનેનો",
+      "માત્ર સ્થિર પદાર્થોનો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કાઇનેટિક્સ એ પદાર્થની ગતિ અને તેની પાછળ રહેલા કારણભૂત બળો (Forces and Moments) બંનેનો સંયુક્ત અભ્યાસ છે[cite: 9]."
+  },
+  {
+    "id": 108,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "If the value of d²s/dt² is negative, what is the motion of the particle?",
+    "gujaratiQuestion": "0108. જો d²s/dt² નું મૂલ્ય ઋણ (negative) હોય, તો કણની ગતિ કેવી ગણાય?",
+    "options": [
+      "ધીમી પડતી (Retarded motion)",
+      "ઝડપી થતી",
+      "અચળ",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પ્રવેગ a = d²s/dt² ઋણ હોવાનો અર્થ એ છે કે કણ રીટાર્ડેશન અનુભવે છે અને તેની ગતિ ધીમી પડી રહી છે[cite: 9]."
+  },
+  {
+    "id": 109,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Plane Motion of Rigid Bodies",
+    "question": "What is the formula for rotational Kinetic Energy of a rigid body rotating with angular velocity ω? (I = mass moment of inertia)",
+    "gujaratiQuestion": "0109. રોટેશનલ ગતિ કરતા રિજિક બોડી માટે કાઈનેટિક એનર્જી (Kinetic energy) નું સૂત્ર કયું છે?",
+    "options": [
+      "0.5 mv²",
+      "0.5 Iω²",
+      "I · ω",
+      "m · v"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પરિભ્રમણ કરતી બોડીની ગતિઊર્જા KE_rot = 0.5 · I · ω² થાય છે[cite: 9]."
+  },
+  {
+    "id": 111,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "If a particle starts from rest and covers distance s in t seconds with uniform acceleration, its average velocity is:",
+    "gujaratiQuestion": "Q111. જો કણ સ્થિર અવસ્થામાંથી ગતિ શરૂ કરી t સેકન્ડમાં s અંતર કાપે, તો તેની સરેરાશ વેલોસિટી કેટલી થશે?",
+    "options": [
+      "2s / t",
+      "s / t",
+      "s · t",
+      "0.5 (s / t)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સરેરાશ વેગ V_avg = કુલ સ્થાનાંતર / કુલ સમય = s / t[cite: 9]."
+  },
+  {
+    "id": 112,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Virtual Work",
+    "question": "During a virtual displacement, the change in time (dt) is considered as:",
+    "gujaratiQuestion": "0112. વર્ચ્યુઅલ ડિસ્પ્લેસમેન્ટની પ્રક્રિયા દરમિયાન સમયમાં થતો ફેરફાર (dt) કેટલો લેવામાં આવે છે?",
+    "options": [
+      "અનંત",
+      "એક સેકન્ડ",
+      "શૂન્ય (Zero)",
+      "ધન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વર્ચ્યુઅલ ડિસ્પ્લેસમેન્ટ સમય પસાર થયા વિના કલ્પવામાં આવતું હોવાથી dt = 0 લેવાય છે[cite: 9]."
+  },
+  {
+    "id": 113,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "If a particle moves along a circular path with continuously changing speed, which accelerations act on it?",
+    "gujaratiQuestion": "0113. જો એક કણ વર્તુળાકાર પથ પર ગતિ કરતો હોય અને તેની ઝડપ સતત બદલાતી હોય, તો તેના પર કયા એક્સેલરેશન કામ કરતા હોય છે?",
+    "options": [
+      "માત્ર નોર્મલ એક્સેલરેશન",
+      "માત્ર ટેન્જેન્શિયલ એક્સેલરેશન",
+      "નોર્મલ અને ટેન્જેન્શિયલ બંને એક્સેલરેશન",
+      "શૂન્ય એક્સેલરેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "દિશા બદલાવાથી નોર્મલ પ્રવેગ (an = v²/r) અને ઝડપ બદલાવાથી ટેન્જેન્શિયલ પ્રવેગ (at = dv/dt) બંને કાર્ય કરે છે[cite: 9]."
+  },
+  {
+    "id": 114,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Plane Motion of Rigid Bodies",
+    "question": "What is the Instantaneous Center of Rotation (I-center)?",
+    "gujaratiQuestion": "0114. ઈન્સ્ટન્ટેનિયસ સેન્ટર ઓફ રોટેશન એટલે શું?",
+    "options": [
+      "એવું બિંદુ જે હંમેશા સ્થિર જ રહે છે",
+      "એવું બિંદુ જેની સાપેક્ષે બોડી તે ક્ષણે માત્ર રોટેશન કરતી હોય તેવું માની શકાય",
+      "બોડીનું સેન્ટર ઓફ ગ્રેવિટી",
+      "પૃથ્વીનું કેન્દ્ર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્લેન મોશન કરતી બોડી માટે ચોક્કસ ક્ષણે જે બિંદુની સાપેક્ષે ગતિ શુદ્ધ પરિભ્રમણ જેવી વર્તે તેને ઇન્સ્ટન્ટેનિયસ સેન્ટર કહે છે[cite: 9]."
+  },
+  {
+    "id": 115,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "For which of the following plane laminas does the Center of Gravity NOT coincide with its geometrical center?",
+    "gujaratiQuestion": "0115. જો પ્લેન લેમિના _____ હોય, તો તેનું સેન્ટર ઓફ ગ્રેવિટી તેના જિયોમેટ્રિકલ સેન્ટર પર નહિ હોય.",
+    "options": [
+      "સર્કલ (વર્તુળ)",
+      "સ્ક્વેર (ચોરસ)",
+      "રેક્ટેંગલ (લંબચોરસ)",
+      "રાઈટ એન્ગલ્ડ ટ્રાયેન્ગલ (કાટકોણ ત્રિકોણ)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "કાટકોણ ત્રિકોણનું સેન્ટ્રોઇડ કાટખૂણેથી b/3 અને h/3 અંતરે હોય છે, જે સપ્રમાણ ભૌમિતિક મધ્યબિંદુ પર હોતું નથી[cite: 9]."
+  },
+  {
+    "id": 116,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Dynamics of Particles",
+    "question": "According to Newton's Second Law of Motion, what is the equation for force F on constant mass m?",
+    "gujaratiQuestion": "0116. ન્યૂટનના ગતિના બીજા નિયમ મુજબ ફોર્સ (F) નું સાચું સમીકરણ કયું છે?",
+    "options": [
+      "F = mv",
+      "F = ma",
+      "F = m / a",
+      "F = v / m"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ન્યૂટનનો બીજો નિયમ F = m · a આપે છે[cite: 9]."
+  },
+  {
+    "id": 117,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Dynamics of Particles",
+    "question": "D'Alembert's principle represents the dynamic equation in which form?",
+    "gujaratiQuestion": "Q117. ડી-અલેમ્બર્ટનો સિદ્ધાંત (D'Alembert's principle) કયા સમીકરણનું ગતિશીલ સ્વરૂપ દર્શાવે છે?",
+    "options": [
+      "F = 0",
+      "F - ma = 0",
+      "Σ M = 0",
+      "F + ma = 0"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડી-એલમ્બર્ટ સિદ્ધાંત બાહ્ય બળ F અને ઇનર્શિયા બળ (-ma) ના સંતુલન સમીકરણ F - ma = 0 પર આધારિત છે[cite: 9]."
+  },
+  {
+    "id": 118,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Impulse & Linear/Angular Momentum",
+    "question": "How is Impulse defined?",
+    "gujaratiQuestion": "0118. ઈમ્પલ્સ (Impulse) ને કઈ રીતે વ્યાખ્યાયિત કરવામાં આવે છે?",
+    "options": [
+      "ફોર્સ અને વેલોસિટીનો ગુણાકાર",
+      "ફોર્સ અને ડિસ્પ્લેસમેન્ટનો ગુણાકાર",
+      "ફોર્સ અને સમયનો ગુણાકાર (અથવા સમય સંકલન)",
+      "દળ અને એક્સેલરેશનનો ગુણાકાર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇમ્પલ્સ એટલે ખૂબ મોટા બળ અને તેના લાગવાના અલ્પ સમયગાળાનો ગુણાકાર J = F × Δt = ∫ F dt[cite: 9]."
+  },
+  {
+    "id": 119,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Impulse & Linear/Angular Momentum",
+    "question": "When a bullet is fired from a gun, the gun recoils backward due to:",
+    "gujaratiQuestion": "0119. જ્યારે બંદૂકમાંથી ગોળી છોડવામાં આવે છે, ત્યારે તે _____ ને લીધે પાછળની તરફ રિકોઈલ થાય છે.",
+    "options": [
+      "ઈમ્પલ્સ",
+      "ઈનર્શિયા",
+      "કન્ઝર્વેશન ઓફ મોમેન્ટમ",
+      "કન્ઝર્વેશન ઓફ એનર્જી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બાહ્ય બળ શૂન્ય હોવાથી વેગમાન સંરક્ષણ (Conservation of Momentum) મુજબ ગોળીના આગળના વેગમાનને સંતુલિત કરવા બંદૂક પાછળ ધકેલાય છે[cite: 9]."
+  },
+  {
+    "id": 120,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Impulse & Linear/Angular Momentum",
+    "question": "What is the correct formula to calculate Linear Momentum?",
+    "gujaratiQuestion": "0120. લિનિયર મોમેન્ટમ (Linear momentum) શોધવાનું સાચું સૂત્ર કયું છે?",
+    "options": [
+      "દળ × એક્સેલરેશન",
+      "દળ × વેલોસિટી (m · v)",
+      "ફોર્સ × સમય",
+      "દળ × અંતર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રેખીય વેગમાન P = દળ × વેગ = m · v[cite: 9]."
+  },
+  {
+    "id": 121,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Impulse & Linear/Angular Momentum",
+    "question": "According to the Law of Conservation of Linear Momentum, when no external force acts on a system, its total momentum:",
+    "gujaratiQuestion": "0121. લો ઓફ કન્ઝર્વેશન ઓફ મોમેન્ટમ મુજબ, જ્યારે સિસ્ટમ પર કોઈ બાહ્ય બળ ન લાગતું હોય ત્યારે સિસ્ટમનું કુલ મોમેન્ટમ...",
+    "options": [
+      "શૂન્ય થઈ જાય છે",
+      "સતત વધે છે",
+      "સતત ઘટે છે",
+      "અચળ રહે છે (Constant)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "જો ΣF_ext = 0 હોય, તો સિસ્ટમનું કુલ રેખીય વેગમાન સમય સાથે અચળ (સંરક્ષિત) રહે છે[cite: 9]."
+  },
+  {
+    "id": 122,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Impulse & Linear/Angular Momentum",
+    "question": "If the net external torque acting on a rotating body about an axis is zero, which quantity remains constant?",
+    "gujaratiQuestion": "0122. જો કોઈ ફરતા પદાર્થ પર લાગતો બાહ્ય ટોર્ક શૂન્ય હોય, તો તેનું શું અચળ રહે છે?",
+    "options": [
+      "લિનિયર મોમેન્ટમ",
+      "એન્ગ્યુલર મોમેન્ટમ (L = Iω)",
+      "પોટેન્શિયલ એનર્જી",
+      "લીનિયર વેલોસિટી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જો ΣT_ext = 0 હોય, તો કોણીય વેગમાન સંરક્ષણ મુજબ એન્ગ્યુલર મોમેન્ટમ (L = I·ω) અચળ રહે છે[cite: 9]."
+  },
+  {
+    "id": 123,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "According to the Work-Energy Principle, the total work done on a body by all forces is equal to the change in its:",
+    "gujaratiQuestion": "Q123. વર્ક-એનર્જી પ્રિન્સિપલ (Work-energy principle) મુજબ, પદાર્થ પર લાગતા તમામ બળો દ્વારા થતું કુલ કાર્ય કોના ફેરફાર બરાબર હોય છે?",
+    "options": [
+      "પોટેન્શિયલ એનર્જી",
+      "કાઇનેટિક એનર્જી (ΔKE)",
+      "કુલ મોમેન્ટમ",
+      "ઈમ્પલ્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વર્ક-એનર્જી સિદ્ધાંત મુજબ W = KE_final - KE_initial = ΔKE[cite: 9]."
+  },
+  {
+    "id": 124,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Dynamics of Particles",
+    "question": "In a given material, strain is defined as the ratio of:",
+    "gujaratiQuestion": "0124. આપેલ મટિરિયલમાં સ્ટ્રેઈન એ કોનો ગુણોત્તર (ratio) છે?",
+    "options": [
+      "એપ્લાઇડ લોડ અને લોડનો વિરોધ કરતા ક્રોસ-સેક્શનના એરિયાનો",
+      "ડાયમેન્શનમાં થતા ફેરફાર અને ઓરિજિનલ ડાયમેન્શનનો",
+      "એપ્લાઇડ લોડ અને ઑરિજિનલ ડાયમેન્શનનો",
+      "ડાયમેન્શનમાં થતા ફેરફાર અને લોડનો વિરોધ કરતા ક્રોસ-સેક્શનના એરિયાનો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટ્રેઇન (Strain ε) = પરિમાણમાં થતો ફેરફાર / મૂળ પરિમાણ (Change in dimension / Original dimension)[cite: 9]."
+  },
+  {
+    "id": 125,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "A body of mass m moves with velocity v. What is its translational kinetic energy?",
+    "gujaratiQuestion": "Q125. m દળ ધરાવતા પદાર્થની v વેલોસિટી હોય, તો તેની કાઈનેટિક એનર્જી કેટલી થાય?",
+    "options": [
+      "mv²",
+      "0.5 mv²",
+      "mgh",
+      "ma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટ્રાન્સલેશનલ ગતિઊર્જા KE = 1/2 mv² = 0.5 mv²[cite: 9]."
+  },
+  {
+    "id": 126,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "What is the energy possessed by a body by virtue of its position, configuration, or height called?",
+    "gujaratiQuestion": "0126. પદાર્થની સ્થિતિ અથવા ઊંચાઈના કારણે તેમાં રહેલી ઊર્જાને શું કહેવાય છે?",
+    "options": [
+      "કાઈનેટિક એનર્જી",
+      "મિકેનિકલ એનર્જી",
+      "પોટેન્શિયલ એનર્જી (સ્થિતિઊર્જા)",
+      "થર્મલ એનર્જી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્થિતિ કે ઊંચાઈને કારણે રહેલી ઊર્જાને પોટેન્શિયલ એનર્જી (PE = mgh) કહે છે[cite: 9]."
+  },
+  {
+    "id": 127,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "According to the Law of Conservation of Energy, which statement is true?",
+    "gujaratiQuestion": "0127. લો ઓફ કન્ઝર્વેશન ઓફ એનર્જી મુજબ શું સાચું છે?",
+    "options": [
+      "ઊર્જા માત્ર ઉત્પન્ન કરી શકાય છે",
+      "ઊર્જા માત્ર નષ્ટ કરી શકાય છે",
+      "ઊર્જા ઉત્પન્ન કે નષ્ટ કરી શકાતી નથી, માત્ર એક સ્વરૂપમાંથી બીજા સ્વરૂપમાં બદલાય છે",
+      "સિસ્ટમની કુલ ઊર્જા સતત ઘટતી રહે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઊર્જા સંરક્ષણ નિયમ મુજબ ઊર્જાનું સર્જન કે વિનાશ શક્ય નથી, માત્ર તેનું એક સ્વરૂપમાંથી બીજા સ્વરૂપમાં રૂપાંતરણ થાય છે[cite: 9]."
+  },
+  {
+    "id": 128,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "Which of the following laws is ALWAYS valid for the collision of two bodies?",
+    "gujaratiQuestion": "0128. બે પદાર્થોની અથડામણ (Collision) માટે નીચેનામાંથી કયો નિયમ હંમેશા લાગુ પડે છે?",
+    "options": [
+      "અથડામણ પહેલાનું કુલ મોમેન્ટમ = અથડામણ પછીનું કુલ મોમેન્ટમ",
+      "અથડામણ પહેલાની કાઈનેટિક એનર્જી = અથડામણ પછીની કાઈનેટિક એનર્જી",
+      "અથડામણ પછી વેલોસિટી શૂન્ય થાય છે",
+      "અથડામણ પછી દળ બમણું થાય છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "તમામ અથડામણોમાં કુલ રેખીય વેગમાન સંરક્ષણનો નિયમ (m1u1 + m2u2 = m1v1 + m2v2) હંમેશા લાગુ પડે છે[cite: 9]."
+  },
+  {
+    "id": 129,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "Sphere P collides directly with an identical stationary sphere Q. If coefficient of restitution is 0.5, what is the ratio of their velocities after impact (V_q / V_p)?",
+    "gujaratiQuestion": "0129. એક ગોળો P, સ્થિર રહેલા બીજા સમાન ગોળા Q સાથે સીધી રીતે અથડાય છે. જો કોએફિશિયન્ટ ઑફ રેસ્ટિટ્યુશન 0.5 હોય, તો અથડામણ પછી વેલોસિટીનો ગુણોત્તર V_q / V_p કેટલો હશે?",
+    "options": [
+      "1:1",
+      "2:1",
+      "3:1",
+      "2:3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સમાન દળ (m) અને u2 = 0 માટે: v1 = u1(1 - e)/2 = u1(1 - 0.5)/2 = 0.25 u1. v2 = u1(1 + e)/2 = u1(1 + 0.5)/2 = 0.75 u1. તેથી V_q / V_p = 0.75 / 0.25 = 3:1[cite: 9]."
+  },
+  {
+    "id": 130,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "What is the definition of the Coefficient of Restitution (e)?",
+    "gujaratiQuestion": "0130. કોફિશિયન્ટ ઓફ રેસ્ટિટ્યુશન (Coefficient of restitution) e એટલે શું?",
+    "options": [
+      "નજીક આવવાની સાપેક્ષ વેલોસિટી / અલગ થવાની સાપેક્ષ વેલોસિટી",
+      "અલગ થવાની સાપેક્ષ વેલોસિટી / નજીક આવવાની સાપેક્ષ વેલોસિટી",
+      "અંતિમ મોમેન્ટમ / પ્રારંભિક મોમેન્ટમ",
+      "પ્રારંભિક કાઈનેટિક એનર્જી / અંતિમ કાઇનેટિક એનર્જી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "e = Relative velocity of separation / Relative velocity of approach = (v2 - v1) / (u1 - u2)[cite: 9]."
+  },
+  {
+    "id": 131,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "What is the value of the coefficient of restitution (e) for a perfectly elastic collision?",
+    "gujaratiQuestion": "0131. સંપૂર્ણ ઈલાસ્ટિક કૉલિઝન (Perfectly elastic collision) માટે કોફિશિયન્ટ ઓફ રેસ્ટિટ્યુશન (e) નું મૂલ્ય કેટલું હોય છે?",
+    "options": [
+      "0",
+      "0.5",
+      "1",
+      "અનંત"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સંપૂર્ણ ઈલાસ્ટિક અથડામણ માટે e = 1 હોય છે જેમાં કાઇનેટિક એનર્જીનો કોઈ લોસ થતો નથી[cite: 9]."
+  },
+  {
+    "id": 132,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "What is the value of the coefficient of restitution (e) for a perfectly inelastic (plastic) collision?",
+    "gujaratiQuestion": "Q132. સંપૂર્ણ ઇન-ઇલાસ્ટિક કોલિઝન (Perfectly inelastic collision) માટે e નું મૂલ્ય કેટલું હોય છે?",
+    "options": [
+      "0",
+      "0.5",
+      "1",
+      "-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સંપૂર્ણ ઇન-ઇલાસ્ટિક અથડામણ માટે e = 0 હોય છે અને બંને પદાર્થો અથડામણ પછી એકબીજા સાથે જોડાઈને ગતિ કરે છે[cite: 9]."
+  },
+  {
+    "id": 133,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "What is the equivalent length (effective length) of a column fixed at both ends?",
+    "gujaratiQuestion": "Q133. બંને છેડે ફિક્સ (fixed) કરેલી કોલમની ઇક્વિવેલેન્ટ (equivalent) લંબાઈ કેટલી હોય છે?",
+    "options": [
+      "0.7 L",
+      "0.5 L (L/2)",
+      "L",
+      "2 L"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બંને છેડે ફિક્સ કોલમ માટે યુલર ઇફેક્ટિવ લંબાઈ Le = L / 2 = 0.5 L થાય છે[cite: 9]."
+  },
+  {
+    "id": 134,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "How do two bodies move after a perfectly inelastic collision?",
+    "gujaratiQuestion": "0134. સંપૂર્ણ ઈન-ઈલાસ્ટિક કોલિઝન પછી બંને પદાર્થોની ગતિ કેવી હોય છે?",
+    "options": [
+      "અલગ અલગ દિશામાં ગતિ કરે છે",
+      "એકબીજા સાથે જોડાઈને સમાન વેલોસિટીથી ગતિ કરે છે",
+      "બંને પદાર્થો સ્થિર થઇ જાય છે",
+      "બંને પદાર્થો વિરુદ્ધ દિશામાં સમાન ઝડપથી જાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સંપૂર્ણ ઇન-ઇલાસ્ટિક અથડામણમાં (e = 0) બંને બોડી એકબીજા સાથે ચોંટીને સામાન્ય વેગ (Common velocity) થી ગતિ કરે છે[cite: 9]."
+  },
+  {
+    "id": 135,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "In a perfectly elastic collision, which of the following quantities are conserved?",
+    "gujaratiQuestion": "0135. ઈલાસ્ટિક કૉલિઝન (Elastic collision) માં નીચેનામાંથી શેનું સંરક્ષણ (Conservation) થાય છે?",
+    "options": [
+      "માત્ર મોમેન્ટમ",
+      "માત્ર કાઈનેટિક એનર્જી",
+      "મોમેન્ટમ અને કાઈનેટિક એનર્જી બંને",
+      "માત્ર પોટેન્શિયલ એનર્જી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇલાસ્ટિક અથડામણમાં રેખીય વેગમાન અને ગતિઊર્જા (Momentum and Kinetic Energy) બંનેનું સંપૂર્ણ સંરક્ષણ થાય છે[cite: 9]."
+  },
+  {
+    "id": 136,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "In an inelastic collision, which form of energy is primarily lost?",
+    "gujaratiQuestion": "Q136. ઈન-ઈલાસ્ટિક કૉલિઝનમાં સામાન્ય રીતે કઈ ઊર્જાનો લોસ (Loss of energy) થાય છે?",
+    "options": [
+      "પોટેન્શિયલ એનર્જી",
+      "કાઈનેટિક એનર્જી",
+      "ઇલેક્ટ્રિકલ એનર્જી",
+      "ન્યુક્લિયર એનર્જી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇન-ઇલાસ્ટિક અથડામણમાં પ્લાસ્ટિક ડિફોર્મેશન, ઉષ્મા અને અવાજમાં ગતિઊર્જા (Kinetic energy) નો લોસ થાય છે[cite: 9]."
+  },
+  {
+    "id": 137,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Impulse & Linear/Angular Momentum",
+    "question": "According to the Impulse-Momentum Principle, the impulse of a force acting on a body equals:",
+    "gujaratiQuestion": "0137. ઈમ્પલ્સ-મોમેન્ટમ પ્રિન્સિપલ મુજબ, પદાર્થ પર લાગતો ઈમ્પલ્સ કોના બરાબર હોય છે?",
+    "options": [
+      "મોમેન્ટમમાં થતા ફેરફાર બરાબર (Δp)",
+      "કાઈનેટિક એનર્જીમાં થતા ફેરફાર બરાબર",
+      "કુલ દળ બરાબર",
+      "એક્સેલરેશન બરાબર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇમ્પલ્સ-મોમેન્ટમ પ્રમેય મુજબ Impulse J = F · Δt = m·v2 - m·v1 = Change in linear momentum[cite: 9]."
+  },
+  {
+    "id": 138,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "Which are the two standard systems of drawing orthographic projections?",
+    "gujaratiQuestion": "Q138. ઓર્થોગ્રાફિક પ્રોજેક્શન દોરવાની બે રીતો કઈ છે?",
+    "options": [
+      "ફર્સ્ટ એન્ગલ, સેકન્ડ એન્ગલ",
+      "ફર્સ્ટ એન્ગલ, થર્ડ એન્ગલ",
+      "સેકન્ડ એન્ગલ, થર્ડ એન્ગલ",
+      "સેકન્ડ એન્ગલ, ફોર્થ એન્ગલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓર્થોગ્રાફિક પ્રોજેક્શનમાં મુખ્યત્વે ફર્સ્ટ એંગલ પ્રોજેક્શન અને થર્ડ એંગલ પ્રોજેક્શન પદ્ધતિઓ માન્ય છે[cite: 9]."
+  },
+  {
+    "id": 139,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Dynamics of Particles",
+    "question": "What is the acceleration produced in a body of mass 10 kg when a force of 50 N is applied?",
+    "gujaratiQuestion": "Q139. 10 kg દળના પદાર્થ પર 50 N નો ફોર્સ લાગતા તેમાં ઉત્પન્ન થતું એક્સેલરેશન કેટલું હશે?",
+    "options": [
+      "500 m/s²",
+      "50 m/s²",
+      "5 m/s²",
+      "0.2 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "a = F / m = 50 N / 10 kg = 5 m/s²[cite: 9]."
+  },
+  {
+    "id": 140,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "If the velocity of a moving body is doubled, what happens to its kinetic energy?",
+    "gujaratiQuestion": "Q140. જો કોઈ પદાર્થની વેલોસિટી બમણી કરવામાં આવે, તો તેની કાઈનેટિક એનર્જી પર શું અસર થશે?",
+    "options": [
+      "અડધી થશે",
+      "બમણી થશે",
+      "ચાર ગણી થશે",
+      "સમાન રહેશે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "KE = 1/2 m v². વેગ બમણો (2v) કરતાં નવી KE' = 1/2 m (2v)² = 4 × (1/2 mv²) એટલે કે 4 ગણી થશે[cite: 9]."
+  },
+  {
+    "id": 141,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "What is a Direct (Head-on) collision?",
+    "gujaratiQuestion": "Q141. ડાયરેક્ટ કોલિઝન (Direct collision) એટલે શું?",
+    "options": [
+      "જ્યારે પદાર્થોની ગતિની દિશા તેમની સેન્ટર લાઈનથી અલગ હોય",
+      "જ્યારે બંને પદાર્થોની ગતિની દિશા તેમની સેન્ટર લાઇન (Line of impact) પર જ હોય",
+      "જ્યારે બંને પદાર્થો એકબીજાને સ્પર્શ કર્યા વિના પસાર થાય",
+      "જ્યારે એક પદાર્થ સ્થિર હોય અને બીજો ગતિમાં હોય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યારે અથડાતા પદાર્થોની વેલોસિટી અથડામણની લાઇન ઓફ ઇમ્પેક્ટ (સામાન્ય લંબરેખા) ની દિશામાં જ હોય ત્યારે તેને ડાયરેક્ટ ઇમ્પેક્ટ કહે છે[cite: 9]."
+  },
+  {
+    "id": 142,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "When a particle moves along a circular path with uniform speed, the particle has:",
+    "gujaratiQuestion": "0142. જ્યારે કોઈ પાર્ટીકલ સર્ક્યુલર પાથ પર યુનિફોર્મ વેલોસિટીથી ગતિ કરતો હોય, ત્યારે પાર્ટીકલ પાસે:",
+    "options": [
+      "માત્ર ટેન્જેન્શિયલ એક્સેલરેશન હોય છે",
+      "માત્ર સેન્ટ્રિપેટલ (નોર્મલ) એક્સેલરેશન હોય છે",
+      "ટેન્જેન્શિયલ અને સેન્ટ્રિપેટલ બંને એક્સેલરેશન હોય છે",
+      "આપેલ વિકલ્પોમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અચળ ઝડપ હોવાથી at = dv/dt = 0 થાય છે, પરંતુ દિશા બદલાતી હોવાથી માત્ર કેન્દ્રગામી (Centripetal/Normal an = v²/r) પ્રવેગ હાજર રહે છે[cite: 9]."
+  },
+  {
+    "id": 143,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "In an Oblique collision, the direction of motion of colliding bodies is:",
+    "gujaratiQuestion": "0143. ઓબ્લિક કોલિઝન (Oblique collision) માં અથડાતા પદાર્થોની ગતિની દિશા ક્યાં હોય છે?",
+    "options": [
+      "સેન્ટર લાઈન પર જ",
+      "સેન્ટર લાઈન (Line of impact) થી કોઈ ખૂણા પર",
+      "હંમેશા 90° પર",
+      "હંમેશા એકબીજાની સમાંતર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યારે પ્રારંભિક વેગ સદિશો લાઇન ઓફ ઇમ્પેક્ટ સાથે ચોક્કસ ખૂણો બનાવતા હોય ત્યારે તે ત્રાંસી અથડામણ (Oblique collision) બને છે[cite: 9]."
+  },
+  {
+    "id": 144,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "What are the S.I. units of Power and Energy respectively?",
+    "gujaratiQuestion": "Q144. પાવર અને ઊર્જાનો S.I. એકમ અનુક્રમે કયો છે?",
+    "options": [
+      "ન્યૂટન અને જુલ",
+      "વોટ અને જુલ",
+      "જુલ અને વોટ",
+      "પાસ્કલ અને ન્યૂટન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પાવરનો SI એકમ વોટ (Watt = J/s) અને ઊર્જા/કાર્યનો SI એકમ જૂલ (Joule = N·m) છે[cite: 9]."
+  },
+  {
+    "id": 145,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "What is the potential energy of a body of mass m located at height h above the Earth's surface?",
+    "gujaratiQuestion": "0145. પૃથ્વીની સપાટીથી h ઊંચાઈ પર રહેલા m દળના પદાર્થની પોટેન્શિયલ એનર્જી કેટલી હોય છે?",
+    "options": [
+      "mgh",
+      "0.5 mv²",
+      "mg / h",
+      "h / mg"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ગુરુત્વીય સ્થિતિઊર્જા PE = m · g · h[cite: 9]."
+  },
+  {
+    "id": 146,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "When the height of a freely falling body decreases, what happens to its mechanical energies?",
+    "gujaratiQuestion": "0146. જ્યારે મુક્ત પતન (Free fall) કરતા પદાર્થની ઊંચાઈ ઘટે છે, ત્યારે તેની ઊર્જા પર શું અસર થાય છે?",
+    "options": [
+      "પોટેન્શિયલ અને કાઈનેટિક એનર્જી બંને વધે છે",
+      "પોટેન્શિયલ અને કાઈનેટિક એનર્જી બંને ઘટે છે",
+      "પોટેન્શિયલ એનર્જી ઘટે છે અને કાઈનેટિક એનર્જી વધે છે",
+      "પોટેન્શિયલ એનર્જી વધે છે અને કાઈનેટિક એનર્જી ઘટે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઊંચાઈ ઘટતાં પોટેન્શિયલ એનર્જી (mgh) ઘટે છે અને વેગ વધતાં તેટલા જ પ્રમાણમાં કાઇનેટિક એનર્જી (1/2 mv²) વધે છે[cite: 9]."
+  },
+  {
+    "id": 147,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Dynamics of Particles",
+    "question": "What is D'Alembert's principle primarily used for?",
+    "gujaratiQuestion": "Q147. ડી-અલેમ્બર્ટના સિદ્ધાંત (D-Alembert's principle) નો ઉપયોગ નીચેનામાંથી શેના માટે થાય છે?",
+    "options": [
+      "સ્ટેટિક પ્રોબ્લેમને ડાયનેમિક પ્રોબ્લેમમાં બદલવા",
+      "ડાયનેમિક પ્રોબ્લેમને સ્ટેટિક ઇક્વિલિબ્રિયમ પ્રોબ્લેમમાં બદલવા",
+      "રિજિડ બોડીઝનો મોમેન્ટ ઓફ ઇનર્શિયા ગણવા",
+      "માસીસ (masses) ની સિસ્ટમનું એંગ્યુલર મોમેન્ટમ ગણવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડી-એલમ્બર્ટ સિદ્ધાંત ઇનર્શિયા ફોર્સ (-ma) ઉમેરીને ડાયનેમિક સમસ્યાને સમકક્ષ સ્ટેટિક સંતુલન પદ્ધતિમાં રૂપાંતરિત કરે છે[cite: 9]."
+  },
+  {
+    "id": 148,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Impulse & Linear/Angular Momentum",
+    "question": "What is the equation for Angular Momentum (L) of a rigid body? (I = mass moment of inertia, ω = angular velocity)",
+    "gujaratiQuestion": "0148. એન્ગ્યુલર મોમેન્ટમ (Angular momentum) નું સમીકરણ કયું છે? (I = મોમેન્ટ ઓફ ઇનર્શિયા, ω = એન્ગ્યુલર વેલોસિટી)",
+    "options": [
+      "I / ω",
+      "I · ω",
+      "0.5 Iω²",
+      "m · v"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કોણીય વેગમાન L = I · ω થાય છે[cite: 9]."
+  },
+  {
+    "id": 149,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Impulse & Linear/Angular Momentum",
+    "question": "What is the S.I. unit of Linear Momentum?",
+    "gujaratiQuestion": "0149. લિનિયર મોમેન્ટમ (Linear momentum) નો S.I. એકમ કયો છે?",
+    "options": [
+      "kg·m/s (અથવા N·s)",
+      "kg·m/s²",
+      "N-m",
+      "J/s"
+    ],
+    "correctAnswer": 0,
+    "explanation": "લિનિયર મોમેન્ટમ P = m·v નો એકમ kg·m/s અથવા N·s છે[cite: 9]."
+  },
+  {
+    "id": 150,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "Most practical real-world collisions are of which type?",
+    "gujaratiQuestion": "0150. મોટા ભાગની વાસ્તવિક (Practical) અથડામણો કયા પ્રકારની હોય છે?",
+    "options": [
+      "સંપૂર્ણ ઈલાસ્ટિક (e = 1)",
+      "સંપૂર્ણ ઈન-ઈલાસ્ટિક (e = 0)",
+      "અંશતઃ ઇલાસ્ટિક (0 < e < 1)",
+      "સુપર ઈલાસ્ટિક (e > 1)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વાસ્તવિક જગતમાં સંપૂર્ણ ઈલાસ્ટિક કે સંપૂર્ણ પ્લાસ્ટિક અથડામણ અસંભવ હોવાથી મોટાભાગની અથડામણો અંશતઃ ઈલાસ્ટિક (0 < e < 1) હોય છે[cite: 9]."
+  },
+  {
+    "id": 151,
+    "subject": "Engineering Mechanics",
+    "subTopic": "Dynamics of Particles",
+    "question": "Which of the following statements is INCORRECT regarding the inertia force in D'Alembert's principle?",
+    "gujaratiQuestion": "0151. ઈનર્શિયા ફોર્સ (ડી-અલેમ્બર્ટના સિદ્ધાંતમાં ઉલ્લેખિત) ના સંદર્ભમાં નીચેનામાંથી કયું વિધાન ખોટું છે?",
+    "options": [
+      "કાલ્પનિક ફોર્સ છે",
+      "રિજિડ બોડી પર કાર્ય કરે છે",
+      "બોડીને ઇક્વિલિબ્રિયમ (સંતુલન) માં લાવે છે",
+      "એક્સેલરેટિંગ ફોર્સની સમાન દિશામાં હોય છે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઇનર્શિયા બળ (Fi = -ma) હંમેશા પ્રવેગની દિશાની પરસ્પર વિરુદ્ધ દિશામાં લાગે છે, સમાન દિશામાં નહીં[cite: 9]."
+  },
+  {
+    "subject": "Engineering Mechanics",
+    "subTopic": "Free-Body Diagrams & Equilibrium",
+    "question": "For a particle in planar equilibrium, the vector sum of forces is:",
+    "gujaratiQuestion": "Plane equilibriumમાં particle માટે forcesનો vector sum કેટલો છે?",
+    "options": [
+      "Maximum",
+      "Zero",
+      "Equal to mass",
+      "Equal to velocity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: ΣF=0.",
+    "id": 152
+  },
+  {
+    "subject": "Engineering Mechanics",
+    "subTopic": "Energy Formulations & Collisions",
+    "question": "Work-energy principle relates net work to change in:",
+    "gujaratiQuestion": "Work-energy principle net workને કયા change સાથે relate કરે છે?",
+    "options": [
+      "Momentum only",
+      "Kinetic energy",
+      "Potential energy only",
+      "Mass"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Net work equals change in kinetic energy.",
+    "id": 153
+  },
+  {
+    "subject": "Engineering Mechanics",
+    "subTopic": "Impulse & Linear/Angular Momentum",
+    "question": "Impulse is equal to change in:",
+    "gujaratiQuestion": "Impulse કયા change બરાબર છે?",
+    "options": [
+      "Energy",
+      "Linear momentum",
+      "Mass density",
+      "Displacement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: J=Δp.",
+    "id": 154
+  },
+  {
+    "subject": "Engineering Mechanics",
+    "subTopic": "Trusses & Frames",
+    "question": "In an ideal pin-jointed truss, loads are assumed to act at:",
+    "gujaratiQuestion": "Ideal pin-jointed trussમાં loads ક્યાં act કરે છે?",
+    "options": [
+      "Midspan of every member",
+      "Joints",
+      "Member centrelines randomly",
+      "Supports only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Truss analysis assumes external loads at joints and two-force members.",
+    "id": 155
+  },
+  {
+    "subject": "Engineering Mechanics",
+    "subTopic": "Kinematics of Particles",
+    "question": "Tangential acceleration is associated with change in:",
+    "gujaratiQuestion": "Tangential acceleration કયા change સાથે જોડાયેલ છે?",
+    "options": [
+      "Direction only",
+      "Speed magnitude",
+      "Mass",
+      "Density"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: at=dv/dt.",
+    "id": 156
+  }
+]

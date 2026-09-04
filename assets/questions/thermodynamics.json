@@ -1,0 +1,2627 @@
+[
+  {
+    "id": 1,
+    "subject": "Thermodynamics",
+    "subTopic": "Thermodynamic Systems & Control Volume",
+    "question": "What is an 'Isolated system' in a thermodynamic system?",
+    "gujaratiQuestion": "01.થર્મોડાયનેમિક સિસ્ટમમાં 'આઈસોલેટેડ સિસ્ટમ' (Isolated system) એટલે શું?",
+    "options": [
+      "જેમાં માત્ર એનર્જી બાઉન્ડ્રી ક્રોસ કરી શકે છે",
+      "જેમાં માત્ર માસ બાઉન્ડ્રી ક્રોસ કરી શકે છે",
+      "જેમાં માસ અને એનર્જી બંને બાઉન્ડ્રી ક્રોસ કરી શકે છે",
+      "જેમાં માસ કે એનર્જી કોઈ પણ બાઉન્ડ્રી ક્રોસ કરી શકતું નથી"
+    ],
+    "correctAnswer": 3,
+    "explanation": "આઈસોલેટેડ સિસ્ટમમાં માસ કે એનર્જી કોઈ પણ સિસ્ટમની બાઉન્ડ્રી ક્રોસ કરી શકતા નથી[cite: 1]."
+  },
+  {
+    "id": 2,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "Which of the following is not a property of a thermodynamic system?",
+    "gujaratiQuestion": "02.નીચેનામાંથી કઈ થર્મોડાયનેમિક સિસ્ટમની પ્રોપર્ટી (Property) નથી?",
+    "options": [
+      "પ્રેશર",
+      "ટેમ્પરેચર",
+      "હીટ",
+      "સ્પેસિફિક વોલ્યુમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હીટ એ પાથ ફંક્શન છે, તે સિસ્ટમની પ્રોપર્ટી (પોઈન્ટ ફંક્શન) નથી[cite: 1]."
+  },
+  {
+    "id": 3,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "Extensive property depends on which of the following?",
+    "gujaratiQuestion": "03. એક્સટેન્સિવ પ્રોપર્ટી (Extensive property) કોના પર આધાર રાખે છે?",
+    "options": [
+      "સિસ્ટમના ટેમ્પરેચર પર",
+      "સિસ્ટમના માસ પર",
+      "સિસ્ટમના પ્રેશર પર",
+      "સિસ્ટમના પાથ પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એક્સટેન્સિવ પ્રોપર્ટી સિસ્ટમના દળ (માસ) અથવા તેના કદ પર આધાર રાખે છે[cite: 1]."
+  },
+  {
+    "id": 4,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "How many isothermal processes are there in a Carnot cycle?",
+    "gujaratiQuestion": "04. કાર્નોટ સાયકલમાં (Carnot cycle) કેટલી આઈસોથર્મલ પ્રક્રિયાઓ (Isothermal processes) હોય છે?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કાર્નોટ સાયકલમાં 2 આઈસોથર્મલ અને 2 આઈસેન્ટ્રોપિક પ્રક્રિયાઓ હોય છે[cite: 1]."
+  },
+  {
+    "id": 5,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "Which of the following is an intensive property?",
+    "gujaratiQuestion": "05. નીચેનામાંથી કઈ ઇન્ટેન્સિવ પ્રોપર્ટી (Intensive property) છે?",
+    "options": [
+      "ટોટલ વોલ્યુમ",
+      "એન્થેલ્પી",
+      "પ્રેશર",
+      "કાઈનેટિક એનર્જી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રેશર એ સિસ્ટમના દળથી સ્વતંત્ર હોવાથી ઇન્ટેન્સિવ પ્રોપર્ટી છે[cite: 1]."
+  },
+  {
+    "id": 6,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "Heat and Work are which type of functions?",
+    "gujaratiQuestion": "06. હીટ (Heat) અને વર્ક (Work) એ કયા પ્રકારના ફંક્શન છે?",
+    "options": [
+      "પોઈન્ટ ફંક્શન",
+      "પાથ ફંક્શન",
+      "એક્સટેન્સિવ પ્રોપર્ટી",
+      "ઇન્ટેન્સિવ પ્રોપર્ટી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હીટ અને વર્ક એ બાઉન્ડ્રી ફિનોમિના અને પાથ પર આધારિત હોવાથી પાથ ફંક્શન છે[cite: 1]."
+  },
+  {
+    "id": 7,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "How will an isobaric process of an ideal gas appear on a P-V diagram?",
+    "gujaratiQuestion": "07. P-V ડાયાગ્રામ પર, આદર્શ વાયુની આઈસોબેરિક પ્રોસેસ (Isobaric process) કેવી દેખાશે?",
+    "options": [
+      "પ્રેશર લાઇનને સમાંતર વર્ટિકલ લાઈન",
+      "પ્રેશર અને વોલ્યુમ બંને લાઈનને 45° ના ખૂણે નમેલી લાઈન",
+      "વૉલ્યુમ લાઈનને સમાંતર હોરિઝોન્ટલ લાઈન",
+      "વળાંકવાળી હાઈપરબોલિક લાઈન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આઈસોબેરિક એટલે કોન્સ્ટન્ટ પ્રેશર, જે P-V ડાયાગ્રામ પર આડી (હોરિઝોન્ટલ) લાઈન વડે દર્શાવાય છે[cite: 1]."
+  },
+  {
+    "id": 8,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "Properties of a substance such as pressure, temperature, and density are:",
+    "gujaratiQuestion": "08. પદાર્થની પ્રોપર્ટી જેવી કે પ્રેશર, ટેમ્પરેચર અને ડેન્સિટી એ શું છે?",
+    "options": [
+      "પાથ ફંક્શન",
+      "પોઈન્ટ ફંક્શન",
+      "સાયક્લિક ફંક્શન",
+      "રિયલ ફંક્શન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "થર્મોડાયનેમિક પ્રોપર્ટી માત્ર સિસ્ટમની સ્થિતિ દર્શાવે છે જેથી તે પોઈન્ટ ફંક્શન છે[cite: 1]."
+  },
+  {
+    "id": 9,
+    "subject": "Thermodynamics",
+    "subTopic": "Zeroth Law & Temperature",
+    "question": "Which law of thermodynamics provides the basis for temperature measurement?",
+    "gujaratiQuestion": "09. ટેમ્પરેચરના મેઝરમેન્ટ માટે થર્મોડાયનેમિક્સનો કયો નિયમ આધાર પૂરો પાડે છે?",
+    "options": [
+      "ઝીરોથ લૉ",
+      "ફર્સ્ટ લૉ",
+      "સેકન્ડ લો",
+      "થર્ડ લૉ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઝીરોથ લૉ થર્મલ ઇક્વિલિબ્રિયમની વ્યાખ્યા આપે છે અને તાપમાન માપનનો આધાર છે[cite: 1]."
+  },
+  {
+    "id": 10,
+    "subject": "Thermodynamics",
+    "subTopic": "Thermodynamic Systems & Control Volume",
+    "question": "Which of the following is an example of a variable flow process in thermodynamics?",
+    "gujaratiQuestion": "010. થર્મોડાયનેમિક્સમાં વૅરિયેબલ ફલો પ્રોસેસનું (Variable flow process) ઉદાહરણ નીચેનામાંથી કયું છે?",
+    "options": [
+      "ખાલી ગેસ સિલિન્ડર ભરવાની પ્રક્રિયા",
+      "પાઈપમાં પાણીનો સ્ટીડી ફ્લો (Steady flow)",
+      "નોઝલમાં સ્ટીમનો સ્ટીડી ફ્લો",
+      "સીલબંધ પિસ્ટન-સિલિન્ડર એસેમ્બલીમાં ગેસનું વિસ્તરણ (Expansion)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ખાલી સિલિન્ડર ભરવાની પ્રક્રિયા દરમિયાન સમય સાથે કંટ્રોલ વોલ્યુમમાં માસ બદલાય છે[cite: 1]."
+  },
+  {
+    "id": 11,
+    "subject": "Thermodynamics",
+    "subTopic": "Thermodynamic Systems & Control Volume",
+    "question": "A mixture of ice and water forms which system?",
+    "gujaratiQuestion": "011. બરફ અને પાણીનું મિશ્રણ (Mixture of ice and water) કઈ સિસ્ટમ બનાવે છે?",
+    "options": [
+      "ક્લોઝ્ડ સિસ્ટમ",
+      "ઓપન સિસ્ટમ",
+      "આઈસોલેટેડ સિસ્ટમ",
+      "આપેલ પૈકી એકપણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇન્સ્યુલેટેડ પાત્રમાં બરફ અને પાણીનું મિશ્રણ આઈસોલેટેડ સિસ્ટમ બનાવે છે[cite: 1]."
+  },
+  {
+    "id": 12,
+    "subject": "Thermodynamics",
+    "subTopic": "Thermodynamic Systems & Control Volume",
+    "question": "What is a closed system?",
+    "gujaratiQuestion": "012. ક્લોઝ્ડ સિસ્ટમ (Closed system) એટલે શું?",
+    "options": [
+      "માસ અને એનર્જી બંને બાઉન્ડ્રી ક્રોસ કરી શકે છે",
+      "માસ બાઉન્ડ્રી ક્રોસ કરી શકતું નથી, પરંતુ એનર્જી ક્રોસ કરી શકે છે",
+      "માસ ક્રોસ કરી શકે છે, પરંતુ એનર્જી ક્રોસ કરી શકતી નથી",
+      "માસ કે એનર્જી ક્રોસ કરી શકતા નથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ક્લોઝ્ડ સિસ્ટમમાં માસ ટ્રાન્સફર થતું નથી પરંતુ એનર્જીની આપ-લે થઈ શકે છે[cite: 1]."
+  },
+  {
+    "id": 13,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "Which of the following is a reversible process?",
+    "gujaratiQuestion": "013. નીચેનામાંથી કઈ પ્રક્રિયા રિવર્સિબલ પ્રોસેસ (Reversible process) છે?",
+    "options": [
+      "અનંત સૂક્ષ્મ તાપમાન તફાવત (Infinitesimal temperature difference) દ્વારા હીટ ટ્રાન્સફર",
+      "રેફ્રિજરેટરના એક્સપાન્શન વાલ્વમાં થ્રોટલિંગ પ્રોસેસ",
+      "ખાલી સિલિન્ડરની અંદર ગેસનું ફ્રી એક્સપાન્શન",
+      "વાહનના ફૂલાવેલા રબરના પૈડાંનું ફાટવું"
+    ],
+    "correctAnswer": 0,
+    "explanation": "અનંત સૂક્ષ્મ તાપમાન તફાવત દ્વારા થતી હીટ ટ્રાન્સફર રિવર્સિબલ પ્રક્રિયા છે[cite: 1]."
+  },
+  {
+    "id": 14,
+    "subject": "Thermodynamics",
+    "subTopic": "Zeroth Law & Temperature",
+    "question": "If two systems are in thermal equilibrium with a third system, they are also in thermal equilibrium with each other. Which law is this?",
+    "gujaratiQuestion": "014. જો બે સિસ્ટમ કોઈ ત્રીજી સિસ્ટમ સાથે થર્મલ ઇક્વિલિબ્રિયમ (Thermal equilibrium) માં હોય, તો તે બંને પણ એકબીજા સાથે થર્મલ ઇક્વિલિબ્રિયમમાં હશે. આ કયો નિયમ છે?",
+    "options": [
+      "ઝીરોથ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "ફર્સ્ટ લો ઓફ થર્મોડાયનેમિક્સ",
+      "સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "જુલનો નિયમ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આ વિધાન થર્મોડાયનેમિક્સનો ઝીરોથ લૉ દર્શાવે છે[cite: 1]."
+  },
+  {
+    "id": 15,
+    "subject": "Thermodynamics",
+    "subTopic": "Pure Substances & Ideal/Real Gases",
+    "question": "What is the general gas equation in thermodynamics?",
+    "gujaratiQuestion": "015. થર્મોડાયનેમિક્સમાં જનરલ ગેસ ઈક્વેશન (General gas equation) કયું છે?",
+    "options": [
+      "PV = mRT",
+      "P = mVT",
+      "PV = mRT",
+      "PT = mRV"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આદર્શ વાયુ માટે સામાન્ય વાયુ સમીકરણ PV = mRT છે[cite: 1]."
+  },
+  {
+    "id": 16,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "The cyclic efficiency of a Rankine cycle is eta. Its heat rate is represented by:",
+    "gujaratiQuestion": "016. રેન્કિન સાયકલની (Rankine cycle) સાયક્લિક એફિશિયન્સી η છે. તેનો હીટ રેટ (Heat rate - એકમ કાર્ય ઉત્પન્ન કરવા માટે જરૂરી હીટ KJ/KWh માં) શેના દ્વારા દર્શાવવામાં આવે છે?",
+    "options": [
+      "1 / η",
+      "3600 / η",
+      "η / 3600",
+      "1 / (3600η)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હીટ રેટ (kJ/kWh) = 3600 / η વડે વ્યાખ્યાયિત થાય છે[cite: 1]."
+  },
+  {
+    "id": 17,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "What is the unit of Pressure in S.I. system?",
+    "gujaratiQuestion": "017. S.I. સિસ્ટમમાં પ્રેશર (Pressure) નો એકમ કયો છે?",
+    "options": [
+      "પાસ્કલ",
+      "ન્યૂટન",
+      "જૂલ",
+      "વોટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પ્રેશરનો SI એકમ પાસ્કલ (N/m²) છે[cite: 1]."
+  },
+  {
+    "id": 18,
+    "subject": "Thermodynamics",
+    "subTopic": "Zeroth Law & Temperature",
+    "question": "Which characteristic of a gas is observed at absolute zero temperature?",
+    "gujaratiQuestion": "018. એબ્સોલ્યુટ ઝીરો ટેમ્પરેચર (Absolute zero temperature) પર ગેસની કઈ લાક્ષણિકતા જોવા મળે છે?",
+    "options": [
+      "ગેસનું પ્રેશર શૂન્ય થાય છે",
+      "મોલેક્યુલની કાઈનેટિક એનર્જી શૂન્ય થાય છે",
+      "ગેસનું માસ શૂન્ય થાય છે",
+      "ગેસનું વૉલ્યુમ અનંત થાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "0 K તાપમાને વાયુના અણુઓની ગતિજ ઊર્જા (કાઈનેટિક એનર્જી) શૂન્ય બને છે[cite: 1]."
+  },
+  {
+    "id": 19,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "Which of the following is known as the Law of conservation of energy?",
+    "gujaratiQuestion": "019. નીચેનામાંથી કોને ઊર્જા સંરક્ષણનો નિયમ (Law of conservation of energy) કહેવામાં આવે છે?",
+    "options": [
+      "ઝીરોથ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "ફર્સ્ટ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "થર્ડ લૉ ઓફ થર્મોડાયનેમિક્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફર્સ્ટ લૉ ઓફ થર્મોડાયનેમિક્સ એ ઊર્જા સંરક્ષણનો નિયમ છે[cite: 1]."
+  },
+  {
+    "id": 20,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "A constant volume process is also known by which other name?",
+    "gujaratiQuestion": "020. કોન્સ્ટન્ટ વૉલ્યુમ પ્રોસેસ (Constant volume process) ને બીજા કયા નામથી ઓળખવામાં આવે છે?",
+    "options": [
+      "આઇસોબેરિક પ્રોસેસ",
+      "આઈસોથર્મલ પ્રોસેસ",
+      "આઈસોકોરિક પ્રોસેસ",
+      "આઈસેન્ટ્રોપિક પ્રોસેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કોન્સ્ટન્ટ વૉલ્યુમ પ્રક્રિયાને આઈસોકોરિક પ્રોસેસ કહેવાય છે[cite: 1]."
+  },
+  {
+    "id": 21,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "A constant pressure process is also known by which other name?",
+    "gujaratiQuestion": "021. કોન્સ્ટન્ટ પ્રેશર પ્રોસેસ (Constant pressure process) ને બીજા કયા નામથી ઓળખવામાં આવે છે?",
+    "options": [
+      "આઇસોપિએસ્ટિક પ્રોસેસ",
+      "આઈસોકોરિક પ્રોસેસ",
+      "આઈસોથર્મલ પ્રોસેસ",
+      "હાઈપરબોલિક પ્રોસેસ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કોન્સ્ટન્ટ પ્રેશર પ્રક્રિયાને આઇસોપિએસ્ટિક પ્રોસેસ પણ કહે છે[cite: 1]."
+  },
+  {
+    "id": 22,
+    "subject": "Thermodynamics",
+    "subTopic": "Thermodynamic Systems & Control Volume",
+    "question": "In a thermodynamic system, what does a Control Volume represent?",
+    "gujaratiQuestion": "022. થર્મોડાયનેમિક સિસ્ટમમાં કંટ્રોલ વોલ્યુમ (Control volume) કોને દર્શાવે છે?",
+    "options": [
+      "ક્લોઝ્ડ સિસ્ટમને",
+      "આઇસોલેટેડ સિસ્ટમને",
+      "સ્પેસમાં ફિક્સડ રીજનને",
+      "સિસ્ટમના ફિક્સડ માસને"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કંટ્રોલ વોલ્યુમ સ્પેસમાં નક્કી કરેલા ફિક્સડ રીજનને દર્શાવે છે[cite: 1]."
+  },
+  {
+    "id": 23,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "In a Rankine cycle, turbine work is 1000 kJ/kg steam and pump work is 50 kJ/kg steam. Find the Work ratio.",
+    "gujaratiQuestion": "023. રેન્કિન સાયકલમાં (Rankine cycle), ટર્બાઈન દ્વારા થતું કાર્ય 1000 KJ/Kg સ્ટીમ છે. પંપમાં અપાતું કાર્ય 50 KJ/Kg સ્ટીમ છે. વર્ક રેશિયો (Work ratio) શોધો.",
+    "options": [
+      "0.99",
+      "0.97",
+      "0.95",
+      "0.90"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Work ratio = (1000 - 50) / 1000 = 0.95[cite: 1]."
+  },
+  {
+    "id": 24,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "In a polytropic process, if n = 1, which process does it represent?",
+    "gujaratiQuestion": "024. પોલિટ્રોપિક પ્રોસેસમાં જો n=1 હોય, તો તે કઈ પ્રોસેસ દર્શાવે છે?",
+    "options": [
+      "રિવર્સિબલ પ્રોસેસ",
+      "આઇસોથર્મલ પ્રોસેસ",
+      "એડિઆબેટિક પ્રોસેસ",
+      "ફ્રી એક્સપાન્શન પ્રોસેસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PV^n = C માં n = 1 મૂકતાં PV = C બને છે, જે આઇસોથર્મલ પ્રક્રિયા છે[cite: 1]."
+  },
+  {
+    "id": 25,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "Which statement is true for a free expansion process?",
+    "gujaratiQuestion": "025. ફ્રી એક્સપાન્શન પ્રોસેસ (Free expansion process) માટે શું સાચું છે?",
+    "options": [
+      "તે રિવર્સિબલ પ્રોસેસ છે",
+      "તે ઇરરિવર્સિબલ પ્રોસેસ છે",
+      "તેમાં હીટ ટ્રાન્સફર મહત્તમ હોય છે",
+      "તે આઈસેન્ટ્રોપિક પ્રોસેસ છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફ્રી એક્સપાન્શન એ ઘર્ષણયુક્ત અને અવરોધ વિનાનું હોવાથી ઇરરિવર્સિબલ પ્રક્રિયા છે[cite: 1]."
+  },
+  {
+    "id": 26,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "Which statement is true regarding a Quasi-static process?",
+    "gujaratiQuestion": "026. ક્વાસી-સ્ટેટિક પ્રોસેસ (Quasi-static process) વિશે નીચેનામાંથી કયું વિધાન સાચું છે?",
+    "options": [
+      "ક્વાસી-સ્ટેટિક પ્રોસેસમાં અપરિવર્તનીયતા (Irreversibility) પ્રબળ હોય છે.",
+      "ક્વાસી-સ્ટેટિક પ્રોસેસમાં અપરિવર્તનીયતા હાજર હોતી નથી.",
+      "બધી સ્વયંસ્ફુરિત (Spontaneous) પ્રક્રિયાઓ ક્વાસી-સ્ટેટિક હોય છે.",
+      "ક્વાસી-સ્ટેટિક પ્રોસેસમાં સિસ્ટમ અને વાતાવરણ સંતુલનમાં (Equilibrium) હોતા નથી."
+    ],
+    "correctAnswer": 1,
+    "explanation": "ક્વાસી-સ્ટેટિક પ્રક્રિયા અત્યંત ધીમી હોવાથી તેમાં અપરિવર્તનીયતા હાજર હોતી નથી[cite: 1]."
+  },
+  {
+    "id": 27,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "How much is the work done by the gas in a free expansion process?",
+    "gujaratiQuestion": "027. ફ્રી એક્સપાન્શન પ્રોસેસમાં ગેસ દ્વારા થતું વર્ક ડન (Work done) કેટલું હોય છે?",
+    "options": [
+      "મહત્તમ",
+      "ન્યૂનતમ",
+      "શૂન્ય",
+      "પ્રેશર અને વોલ્યુમના ગુણાકાર બરાબર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બાહ્ય દબાણ શૂન્ય હોવાથી ફ્રી એક્સપાન્શન દરમિયાન કાર્ય શૂન્ય હોય છે[cite: 1]."
+  },
+  {
+    "id": 28,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "Which statement is correct regarding a quasi-static process?",
+    "gujaratiQuestion": "028. અર્ધ-સ્થિર પ્રક્રિયા (Quasi-static process) વિશે નીચેનામાંથી કયું વિધાન સાચું છે?",
+    "options": [
+      "અર્ધ-સ્થિર પ્રક્રિયામાં અપરિવર્તનીયતા પ્રબળ છે",
+      "અર્ધ-સ્થિર પ્રક્રિયામાં અપરિવર્તનીયતા હાજર નથી",
+      "બધી સ્વયંસ્ફુરિત પ્રક્રિયાઓ અર્ધ-સ્થિર હોય છે",
+      "પ્રણાલી અને આસપાસના વાતાવરણ સંતુલનમાં હોતા નથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અર્ધ-સ્થિર પ્રક્રિયામાં સિસ્ટમ સતત સંતુલનમાં રહેતી હોવાથી અપરિવર્તનીયતા રહેતી નથી[cite: 1]."
+  },
+  {
+    "id": 30,
+    "subject": "Thermodynamics",
+    "subTopic": "Pure Substances & Ideal/Real Gases",
+    "question": "What is the full form of N.T.P.?",
+    "gujaratiQuestion": "030. N.T.P. નું પૂરું નામ શું છે?",
+    "options": [
+      "નેચરલ ટેમ્પરેચર એન્ડ પ્રેશર",
+      "નોર્મલ થર્મોડાયનેમિક પ્રેશર",
+      "નોર્મલ ટેમ્પરેચર એન્ડ પ્રેશર",
+      "નોમિનલ ટેમ્પરેચર એન્ડ પ્રેશર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "N.T.P. એટલે Normal Temperature and Pressure[cite: 1]."
+  },
+  {
+    "id": 31,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "Which of the following is an exact differential?",
+    "gujaratiQuestion": "031. નીચેનામાંથી કયું એક્ઝેક્ટ ડિફરન્શિયલ (Exact differential) છે?",
+    "options": [
+      "હીટ",
+      "વર્ક",
+      "પ્રેશર",
+      "હીટ ટ્રાન્સફર રેટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રેશર પોઈન્ટ ફંક્શન હોવાથી તે એક્ઝેક્ટ ડિફરન્શિયલ છે[cite: 1]."
+  },
+  {
+    "id": 32,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "The amount of energy required to raise the temperature of 1 kg mass by 1°C is called:",
+    "gujaratiQuestion": "032. 1 kg દળ ધરાવતા પદાર્થનું તાપમાન 1°C વધારવા માટે જરૂરી ઊર્જાની માત્રાને શું કહેવાય છે?",
+    "options": [
+      "સ્પેસિફિક એન્ટ્રોપી",
+      "સ્પેસિફિક હીટ કેપેસિટી",
+      "સેન્સિબલ હીટ",
+      "લેટન્ટ હીટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1 kg દ્રવ્યનું તાપમાન 1°C વધારવા માટે જરૂરી ઊર્જા સ્પેસિફિક હીટ કેપેસિટી કહેવાય છે[cite: 1]."
+  },
+  {
+    "id": 33,
+    "subject": "Thermodynamics",
+    "subTopic": "Pure Substances & Ideal/Real Gases",
+    "question": "According to Avogadro's law, at a given pressure and temperature, every molecule of any gas occupies:",
+    "gujaratiQuestion": "033. એવોગેડ્રોના નિયમ (Avogadro's law) અનુસાર, આપેલા પ્રેશર અને ટેમ્પરેચર પર કોઇપણ ગેસનો દરેક મોલેક્યુલ કેટલું વોલ્યુમ રોકે છે?",
+    "options": [
+      "સમાન વોલ્યુમ",
+      "મોલેક્યુલર વેઈટના સમપ્રમાણમાં",
+      "સ્પેસિફિક વેઇટના સમપ્રમાણમાં",
+      "મોલેક્યુલર વેઇટના વ્યસ્ત પ્રમાણમાં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સમાન પ્રેશર અને ટેમ્પરેચર પર તમામ આદર્શ વાયુઓ સમાન કદ રોકે છે[cite: 1]."
+  },
+  {
+    "id": 34,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "What is the S.I. unit of Work or Energy?",
+    "gujaratiQuestion": "034. વર્ક (Work) અથવા એનર્જી (Energy) નો S.I. એકમ શું છે?",
+    "options": [
+      "ન્યૂટન",
+      "જૂલ",
+      "પાસ્કલ",
+      "વોટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વર્ક અને ઊર્જાનો SI એકમ જૂલ (Joule) છે[cite: 1]."
+  },
+  {
+    "id": 35,
+    "subject": "Thermodynamics",
+    "subTopic": "Kelvin-Planck & Clausius Statements",
+    "question": "If a heat engine interacts with only a single source to produce work, what type of machine is it?",
+    "gujaratiQuestion": "035. જો કોઈ હીટ એન્જિન માત્ર એક જ સોર્સ સાથે આંતરક્રિયા કરીને વર્ક ઉત્પન્ન કરે, તો આ કયા પ્રકારનું મશીન છે?",
+    "options": [
+      "PMM1",
+      "PMM2",
+      "PMM3",
+      "આપેલ પૈકી એકપણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આ પ્રકારનું કાલ્પનિક યંત્ર આન્સર કી અનુસાર PMM1 દર્શાવેલ છે[cite: 1]."
+  },
+  {
+    "id": 36,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "In an isothermal process, which of the following remains constant?",
+    "gujaratiQuestion": "036. આઈસોથર્મલ પ્રોસેસમાં નીચેનામાંથી શું કોન્સ્ટન્ટ (Constant) રહે છે?",
+    "options": [
+      "પ્રેશર",
+      "વોલ્યુમ",
+      "ટેમ્પરેચર",
+      "એન્થેલ્પી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આઈસોથર્મલ પ્રોસેસ દરમિયાન તાપમાન (ટેમ્પરેચર) અચળ રહે છે[cite: 1]."
+  },
+  {
+    "id": 37,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "The First Law of Thermodynamics is which principle?",
+    "gujaratiQuestion": "037. ફર્સ્ટ લૉ ઓફ થર્મોડાયનેમિક્સ (First law of thermodynamics) એ કયો નિયમ છે?",
+    "options": [
+      "કન્ઝર્વેશન ઓફ માસ",
+      "કન્ઝર્વેશન ઓફ એનર્જી",
+      "કન્ઝર્વેશન ઓફ મોમેન્ટમ",
+      "કન્ઝર્વેશન ઓફ હીટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રથમ નિયમ એ કન્ઝર્વેશન ઓફ એનર્જી દર્શાવે છે[cite: 1]."
+  },
+  {
+    "id": 38,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "In a cyclic process, what is the change in internal energy of the system?",
+    "gujaratiQuestion": "038. સાયક્લિક પ્રોસેસમાં (Cyclic process), સિસ્ટમની ઇન્ટરનલ એનર્જીમાં (Internal energy) થતો ફેરફાર કેટલો હોય છે?",
+    "options": [
+      "પોઝિટિવ",
+      "નેગેટિવ",
+      "શૂન્ય (Zero)",
+      "નક્કી કરી શકાય નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પૂર્ણ ચક્ર માટે આંતરિક ઊર્જામાં થતો નેટ ફેરફાર શૂન્ય (ΔU = 0) હોય છે[cite: 1]."
+  },
+  {
+    "id": 39,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "In a closed system, change in internal energy equals transferred heat if process occurs under which condition?",
+    "gujaratiQuestion": "039. ક્લોઝ્ડ સિસ્ટમમાં ઇન્ટરનલ એનર્જી (Internal energy) માં થતો ફેરફાર એ ટ્રાન્સફર થયેલી હીટ બરાબર હોય છે, જો પ્રોસેસ કઈ સ્થિતિમાં થાય?",
+    "options": [
+      "કોન્સ્ટન્ટ પ્રેશર",
+      "કોન્સ્ટન્ટ ટેમ્પરેચર",
+      "કોન્સ્ટન્ટ વોલ્યુમ",
+      "કોન્સ્ટન્ટ એન્ટ્રોપી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કોન્સ્ટન્ટ વોલ્યુમ પ્રક્રિયામાં વર્ક શૂન્ય હોવાથી Q = ΔU થાય છે[cite: 1]."
+  },
+  {
+    "id": 40,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "What is the general equation for the First Law of Thermodynamics?",
+    "gujaratiQuestion": "040. થર્મોડાયનેમિક્સના ફર્સ્ટ લૉ માટેનું સામાન્ય સમીકરણ (Equation) કયું છે?",
+    "options": [
+      "∂Q = dU + ∂W",
+      "∂Q = dU - ∂W",
+      "∂W = dU + ∂Q",
+      "dU = ∂Q + ∂W"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પ્રથમ નિયમનું સમીકરણ ∂Q = dU + ∂W છે[cite: 1]."
+  },
+  {
+    "id": 41,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "If source temperature is increased, what happens to Carnot engine efficiency?",
+    "gujaratiQuestion": "041. જો સોર્સનું તાપમાન વધારવામાં આવે, તો કાર્નોટ એન્જિનની (Carnot engine) એફિશિયન્સી પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "પહેલા વધે છે અને પછી અચળ થઈ જાય છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સોર્સનું તાપમાન વધારતાં કાર્નોટ કાર્યક્ષમતા વધે છે[cite: 1]."
+  },
+  {
+    "id": 42,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "Change in enthalpy equals supplied heat under which condition?",
+    "gujaratiQuestion": "042. સિસ્ટમની એન્થેલ્પી (Enthalpy) માં થતો ફેરફાર એ કઈ સ્થિતિમાં સપ્લાય કરેલી હીટ બરાબર હોય છે?",
+    "options": [
+      "કોન્સ્ટન્ટ વોલ્યુમ",
+      "કોન્સ્ટન્ટ પ્રેશર",
+      "કોન્સ્ટન્ટ ટેમ્પરેચર",
+      "કોન્સ્ટન્ટ એન્ટ્રોપી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કોન્સ્ટન્ટ પ્રેશર પર સપ્લાય કરેલી હીટ એન્થેલ્પીના ફેરફાર (ΔH) બરાબર હોય છે[cite: 1]."
+  },
+  {
+    "id": 43,
+    "subject": "Thermodynamics",
+    "subTopic": "Thermodynamic Systems & Control Volume",
+    "question": "Which statement is true for an isolated system?",
+    "gujaratiQuestion": "043. આઈસોલેટેડ સિસ્ટમ (Isolated system) માટે નીચેનામાંથી કયું વિધાન સાચું છે?",
+    "options": [
+      "હીટ ટ્રાન્સફર શૂન્ય છે (Q = 0)",
+      "વર્ક ડન શૂન્ય છે (W = 0)",
+      "ઈન્ટરનલ એનર્જી અચળ રહે છે (ΔU = 0)",
+      "આપેલા તમામ વિકલ્પો સાચા છે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "આઈસોલેટેડ સિસ્ટમ માટે Q=0, W=0 અને ΔU=0 ત્રણેય સાચા છે[cite: 1]."
+  },
+  {
+    "id": 44,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "The sum of internal energy (U) and product of pressure and volume (PV) is called:",
+    "gujaratiQuestion": "044. ઈન્ટરનલ એનર્જી (U) અને પ્રેશર-વોલ્યુમના ગુણાકાર (PV) ના સરવાળાને શું કહેવાય છે?",
+    "options": [
+      "એન્ટ્રોપી",
+      "એન્થેલ્પી",
+      "સ્પેસિફિક હીટ",
+      "વર્ક ડન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "H = U + PV ને એન્થેલ્પી કહેવામાં આવે છે[cite: 1]."
+  },
+  {
+    "id": 45,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "A thermodynamic process in which no heat is exchanged with surroundings is:",
+    "gujaratiQuestion": "045. એવી થર્મોડાયનેમિક પ્રોસેસ જેમાં આસપાસના વાતાવરણ સાથે કોઈ હીટની આપ-લે થતી નથી, તે કઈ પ્રોસેસ છે?",
+    "options": [
+      "આઇસોથર્મલ",
+      "એડિઆબેટિક",
+      "આઈસોબેરિક",
+      "આઇસોટ્રોપિક"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જે પ્રક્રિયામાં હીટની આપ-લે ન થાય તેને એડિઆબેટિક પ્રોસેસ કહે છે[cite: 1]."
+  },
+  {
+    "id": 46,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "For a closed system in a cyclic process, what is true according to the First Law?",
+    "gujaratiQuestion": "046. ક્લોઝડ સિસ્ટમ માટે સાયક્લિક પ્રોસેસ (Cyclic process) માં ફર્સ્ટ લૉ મુજબ શું સાચું છે?",
+    "options": [
+      "∮ dQ = ∮ dW",
+      "∮ dQ < ∮ dW",
+      "∮ dQ > ∮ dW",
+      "∮ dQ = 0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સાયક્લિક પ્રોસેસ માટે ∮dQ = ∮dW થાય છે[cite: 1]."
+  },
+  {
+    "id": 47,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "What is true for a throttling process?",
+    "gujaratiQuestion": "047. થ્રોટલિંગ પ્રોસેસ (Throttling process) માટે શું સાચું છે?",
+    "options": [
+      "તે આઈસોથર્મલ પ્રોસેસ છે",
+      "તે આઈસેન્ટ્રોપિક પ્રોસેસ છે",
+      "તે કોન્સ્ટન્ટ એન્થેલ્પી પ્રોસેસ છે",
+      "તે કોન્સ્ટન્ટ વોલ્યુમ પ્રોસેસ છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "થ્રોટલિંગ દરમિયાન એન્થેલ્પી અચળ રહે છે[cite: 1]."
+  },
+  {
+    "id": 48,
+    "subject": "Thermodynamics",
+    "subTopic": "Thermodynamic Systems & Control Volume",
+    "question": "An adiabatic boundary is a boundary that:",
+    "gujaratiQuestion": "048. એડિઆબેટિક બાઉન્ડ્રી (Adiabatic boundary) એટલે એવી બાઉન્ડ્રી જે:",
+    "options": [
+      "હીટ ટ્રાન્સફરને અટકાવે છે",
+      "હીટ ટ્રાન્સફર થવા દે છે",
+      "વર્ક ટ્રાન્સફરને અટકાવે છે",
+      "વર્ક ટ્રાન્સફર થવા દે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "એડિઆબેટિક બાઉન્ડ્રી હીટ ટ્રાન્સફરને થવા દેતી નથી[cite: 1]."
+  },
+  {
+    "id": 49,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "When heat supplied is greater than work done, what happens to internal energy?",
+    "gujaratiQuestion": "049. જ્યારે સિસ્ટમને આપવામાં આવતી હીટ (Heat supplied) એ સિસ્ટમ દ્વારા થતા વર્ક ટ્રાન્સફર કરતા વધારે હોય, ત્યારે ઈન્ટરનલ એનર્જી (Internal energy) પર શું અસર થાય છે?",
+    "options": [
+      "ઇન્ટરનલ એનર્જી વધે છે",
+      "ઇન્ટરનલ એનર્જી ઘટે છે",
+      "ઈન્ટરનલ એનર્જી સમાન રહે છે",
+      "શૂન્ય થઈ જાય છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Q > W હોવાથી ΔU ધન બને છે અને આંતરિક ઊર્જા વધે છે[cite: 1]."
+  },
+  {
+    "id": 50,
+    "subject": "Thermodynamics",
+    "subTopic": "Thermodynamic Systems & Control Volume",
+    "question": "A centrifugal pump is an example of which system?",
+    "gujaratiQuestion": "050. સેન્ટ્રીફયુગલ પંપ (Centrifugal pump) એ કઈ સિસ્ટમનું ઉદાહરણ છે?",
+    "options": [
+      "આઇસોલેટેડ સિસ્ટમ",
+      "ક્લોઝ્ડ સિસ્ટમ",
+      "સ્ટીડી ફ્લો સિસ્ટમ / ઓપન સિસ્ટમ",
+      "નોન-ફ્લો સિસ્ટમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સેન્ટ્રીફ્યુગલ પંપ સ્ટીડી ફ્લો / ઓપન સિસ્ટમનું ઉદાહરણ છે[cite: 1]."
+  },
+  {
+    "id": 51,
+    "subject": "Thermodynamics",
+    "subTopic": "Thermodynamic Systems & Control Volume",
+    "question": "Ice kept in an insulated thermos flask is an example of which system?",
+    "gujaratiQuestion": "051. દિવાલોથી ઇન્સ્યુલેટ કરેલા થર્મો-ફ્લાસ્કમાં રાખેલો બરફ એ કઈ સિસ્ટમનું ઉદાહરણ છે?",
+    "options": [
+      "ક્લોઝ્ડ સિસ્ટમ",
+      "આઇસોલેટેડ સિસ્ટમ",
+      "ઓપન સિસ્ટમ",
+      "નોન-ફ્લો એડિઆબેટિક સિસ્ટમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇન્સ્યુલેટેડ ફ્લાસ્કમાં દળ અને ઊર્જા કોઈ ક્રોસ ન થતા હોવાથી તે આઈસોલેટેડ સિસ્ટમ છે[cite: 1]."
+  },
+  {
+    "id": 52,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "Total heat of a substance is also known by which name?",
+    "gujaratiQuestion": "052. પદાર્થની કુલ હીટ (Total heat of a substance) ને બીજા કયા નામથી ઓળખવામાં આવે છે?",
+    "options": [
+      "ઈન્ટરનલ એનર્જી",
+      "એન્ટ્રોપી",
+      "થર્મલ કેપેસિટી",
+      "એન્થેલ્પી"
+    ],
+    "correctAnswer": 3,
+    "explanation": "પદાર્થની કુલ હીટ સામગ્રીને એન્થેલ્પી કહેવામાં આવે છે[cite: 1]."
+  },
+  {
+    "id": 53,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "A liquid of mass 1.5 kg has specific heat 3 kJ/kg-K. Its temperature rises 10°C by stirring. If insulated, find work done (kJ).",
+    "gujaratiQuestion": "053. 1.5 kg માસ ધરાવતા લિક્વિડની સ્પેસિફિક હીટ 3 kJ/kg-K છે. તેને હલાવવાથી તેનું તાપમાન 10°C વધે છે. જો સિસ્ટમ ઈન્સ્યુલેટેડ હોય, તો પ્રોસેસ માટે વર્ક ડન (Work done in KJ) કેટલું થશે?",
+    "options": [
+      "45",
+      "-45",
+      "0",
+      "60"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Q = 0 હોવાથી W = -ΔU = -(1.5 * 3 * 10) = -45 kJ[cite: 1]."
+  },
+  {
+    "id": 54,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "Consider properties: 1. Temperature 2. Viscosity 3. Specific entropy 4. Thermal conductivity. Which are intensive properties?",
+    "gujaratiQuestion": "054. નીચેના ગુણધર્મો ધ્યાનમાં લો: 1. તાપમાન 2. વિસ્કોસિટી 3. સ્પેસિફિક એન્ટ્રોપી 4. થર્મલ કન્ડક્ટિવિટી. સિસ્ટમની ઉપરોક્ત પ્રોપર્ટીઓમાંથી કઈ ઇન્ટેન્સિવ પ્રોપર્ટી (Intensive property) છે?",
+    "options": [
+      "માત્ર 1",
+      "માત્ર 2 અને 3",
+      "માત્ર 2, 3 અને 4",
+      "1, 2, 3 અને 4"
+    ],
+    "correctAnswer": 3,
+    "explanation": "આ ચારેય ગુણધર્મો સિસ્ટમના માસ પર આધારિત ન હોવાથી ઇન્ટેન્સિવ છે[cite: 1]."
+  },
+  {
+    "id": 55,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "For a system heat is Q = 30 + 1t kJ and work is W = 2 kJ/K. What is the change in internal energy per degree temperature change?",
+    "gujaratiQuestion": "055. એક સિસ્ટમ માટે હીટ Q=30+1t kJ છે. જો સિસ્ટમ 2 kJ/K જેટલું વર્ક (W) કરે છે, તો પ્રતિ ડિગ્રી તાપમાને ઈન્ટરનલ એનર્જીમાં કેટલો ફેરફાર થશે?",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "dU/dt = dQ/dt - dW/dt = 1 - 2 = -1 kJ/K[cite: 1]."
+  },
+  {
+    "id": 56,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "A process in which no heat enters or leaves the system is called:",
+    "gujaratiQuestion": "056. એવી પ્રોસેસ જેમાં સિસ્ટમમાં હીટ દાખલ થતી નથી કે બહાર જતી નથી (No heat enters or leaves), તેને શું કહેવાય છે?",
+    "options": [
+      "આઈસોબેરિક પ્રોસેસ",
+      "આઇસોથર્મલ પ્રોસેસ",
+      "એડિઆબેટિક પ્રોસેસ",
+      "આઇસોકોરિક પ્રોસેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જેમાં હીટ ટ્રાન્સફર શૂન્ય હોય તેને એડિઆબેટિક પ્રોસેસ કહેવાય છે[cite: 1]."
+  },
+  {
+    "id": 57,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "A closed system receives 60 kJ heat but internal energy decreases by 30 kJ. Work done is:",
+    "gujaratiQuestion": "057. એક ક્લોઝ્ડ સિસ્ટમ 60 KJ હીટ મેળવે છે પરંતુ તેની ઈન્ટરનલ એનર્જી 30 KJ જેટલી ઘટે છે. તો સિસ્ટમ દ્વારા થતું વર્ક ડન (Work done) કેટલું થશે?",
+    "options": [
+      "90 kJ",
+      "-30 kJ",
+      "30 kJ",
+      "-90 kJ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "W = Q - ΔU = 60 - (-30) = 90 kJ[cite: 1]."
+  },
+  {
+    "id": 58,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "What is the result of adding heat to a gas at constant pressure?",
+    "gujaratiQuestion": "058. કોન્સ્ટન્ટ પ્રેશર પર ગેસમાં હીટ ઉમેરવાથી (Addition of heat) શું પરિણામ મળે છે?",
+    "options": [
+      "તેનું તાપમાન ઘટે છે",
+      "તેનું પ્રેશર વધે છે",
+      "માત્ર તેનું વોલ્યુમ વધે છે",
+      "તેનું ટેમ્પરેચર વધે છે અને બાહ્ય વર્ક થાય છે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "કોન્સ્ટન્ટ પ્રેશર પર ગરમી આપવાથી તાપમાન વધે છે અને વિસ્તરણ દ્વારા બાહ્ય કાર્ય થાય છે[cite: 1]."
+  },
+  {
+    "id": 59,
+    "subject": "Thermodynamics",
+    "subTopic": "Pure Substances & Ideal/Real Gases",
+    "question": "A perfect gas is heated from 27°C at constant pressure until volume doubles. Final temperature is:",
+    "gujaratiQuestion": "059. એક પરફેક્ટ ગેસને 27°C થી કોન્સ્ટન્ટ પ્રેશર પર ત્યાં સુધી ગરમ કરવામાં આવે છે જ્યાં સુધી તેનું વોલ્યુમ બમણું ન થાય. ફાઈનલ ટેમ્પરેચર કેટલું હશે?",
+    "options": [
+      "54°C",
+      "327°C",
+      "108°C",
+      "600°C"
+    ],
+    "correctAnswer": 1,
+    "explanation": "T2 = T1 * (V2/V1) = (27 + 273) * 2 = 600 K = 327°C[cite: 1]."
+  },
+  {
+    "id": 60,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "What is the cyclic integral of (dQ - dW) for any process?",
+    "gujaratiQuestion": "060. કોઈપણ પ્રક્રિયા માટે (dQ - dW) નો સાયક્લિક ઇન્ટિગ્રલ (Cyclic integral) શું હોય છે?",
+    "options": [
+      "પોઝિટિવ",
+      "નેગેટિવ",
+      "શૂન્ય",
+      "અનપેક્ષિત"
+    ],
+    "correctAnswer": 2,
+    "explanation": "∮(dQ - dW) = ∮dU = 0 કારણ કે આંતરિક ઊર્જા પોઈન્ટ ફંક્શન છે[cite: 1]."
+  },
+  {
+    "id": 61,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "In a cyclic process heat transfers are 15 kJ, -23 kJ, -3 kJ, and 40 kJ. Find net work done.",
+    "gujaratiQuestion": "061. એક સાયક્લિક પ્રોસેસ (Cyclic process) માં હીટ ટ્રાન્સફર અનુક્રમે 15 kJ, -23 KJ, -3 kJ અને 40 kJ છે. તો સાયકલ માટે નેટ વર્ક ડન (Net work done) કેટલું થશે?",
+    "options": [
+      "15 kJ",
+      "19 kJ",
+      "21 kJ",
+      "29 kJ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "W_net = ΣQ = 15 - 23 - 3 + 40 = 29 kJ[cite: 1]."
+  },
+  {
+    "id": 62,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "Which equation is true for a free expansion process?",
+    "gujaratiQuestion": "062. ફ્રી એક્સપાન્શન (Free expansion) પ્રક્રિયા માટે નીચેનામાંથી કયું સમીકરણ સાચું છે?",
+    "options": [
+      "Q = W",
+      "Q = ΔU",
+      "ΔU = 0",
+      "W = ΔU"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફ્રી એક્સપાન્શનમાં Q = 0 અને W = 0 હોવાથી ΔU = 0 થાય છે[cite: 1]."
+  },
+  {
+    "id": 63,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "First Law of Thermodynamics is which law?",
+    "gujaratiQuestion": "063. થર્મોડાયનેમિક્સનો ફર્સ્ટ લૉ એ કયો નિયમ છે?",
+    "options": [
+      "દળ સંરક્ષણનો નિયમ",
+      "ઊર્જા સંરક્ષણનો નિયમ",
+      "વેગમાન સંરક્ષણનો નિયમ",
+      "તાપમાન સંરક્ષણનો નિયમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રથમ નિયમ એ ઊર્જા સંરક્ષણનો નિયમ છે[cite: 1]."
+  },
+  {
+    "id": 64,
+    "subject": "Thermodynamics",
+    "subTopic": "Thermodynamic Systems & Control Volume",
+    "question": "Steady Flow Energy Equation (SFEE) generally applies to which devices?",
+    "gujaratiQuestion": "064. સ્ટીડી ફલો એનર્જી ઈક્વેશન (SFEE) સામાન્ય રીતે કયા ઉપકરણો માટે લાગુ પડે છે?",
+    "options": [
+      "નોઝલ અને ડિફ્યુઝર",
+      "ટર્બાઈન અને કોમ્પ્રેસર",
+      "બોઈલર",
+      "આપેલા તમામ વિકલ્પો"
+    ],
+    "correctAnswer": 3,
+    "explanation": "SFEE તમામ સતત પ્રવાહવાળા ઓપન સિસ્ટમ સાધનોને લાગુ પડે છે[cite: 1]."
+  },
+  {
+    "id": 65,
+    "subject": "Thermodynamics",
+    "subTopic": "Pure Substances & Ideal/Real Gases",
+    "question": "Internal energy of an ideal gas is a function of:",
+    "gujaratiQuestion": "065. આદર્શ વાયુ (Ideal gas) ની ઇન્ટરનલ એનર્જી એ માત્ર કોનું ફંક્શન છે?",
+    "options": [
+      "પ્રેશર",
+      "વૉલ્યુમ",
+      "ટેમ્પરેચર",
+      "એન્ટ્રોપી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જૂલના નિયમ મુજબ આદર્શ વાયુની આંતરિક ઊર્જા માત્ર તાપમાન પર આધારિત છે[cite: 1]."
+  },
+  {
+    "id": 66,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "Expansion of steam in a steam nozzle is generally considered as which process?",
+    "gujaratiQuestion": "066. સ્ટીમ નોઝલ (Steam nozzle) માં વરાળના વિસ્તરણ (expansion) ને સામાન્ય રીતે કઈ પ્રોસેસ તરીકે ગણવામાં આવે છે?",
+    "options": [
+      "આઈસોથર્મલ પ્રોસેસ",
+      "એડિઆબેટિક પ્રોસેસ",
+      "થ્રોટલિંગ પ્રોસેસ",
+      "આઈસોકોરિક પ્રોસેસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઝડપી પ્રવાહને લીધે હીટ લોસ અવગણીને નોઝલમાં વિસ્તરણ એડિઆબેટિક ગણાય છે[cite: 1]."
+  },
+  {
+    "id": 67,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "System absorbs 100 kJ heat and does 60 kJ work along 1-2-3. Along 1-4-3 it does 20 kJ work. Find heat absorbed along 1-4-3.",
+    "gujaratiQuestion": "067. આપેલ છે કે 1-2-3 માર્ગ પર એક સિસ્ટમ 100 KJ ગરમી શોષી લે છે અને 60 KJ કામ કરે છે જ્યારે 1-4-3 માર્ગ પર તે 20 KJ કામ કરે છે (આકૃતિ જુઓ). ચક્ર 1-4-3 દરમિયાન શોષાયેલી ગરમી શોધો.",
+    "options": [
+      "140 kJ",
+      "- 80 kJ",
+      "- 40 kJ",
+      "60 kJ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ΔU = 100 - 60 = 40 kJ. તેથી Q(1-4-3) = ΔU + W = 40 + 20 = 60 kJ[cite: 1]."
+  },
+  {
+    "id": 68,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "According to SFEE for a rotary compressor, neglecting KE and PE changes, work done equals:",
+    "gujaratiQuestion": "068. સ્ટીડી ફ્લૉ એનર્જી ઈક્વેશન (SFEE) મુજબ, રોટરી કોમ્પ્રેસર (Rotary compressor) માં જો ગતિજ અને સ્થિતિજ ઉર્જાના ફેરફારો અવગણવામાં આવે, તો વર્ક ડન (Work done) કોના બરાબર હોય છે?",
+    "options": [
+      "એન્ટ્રોપીમાં વધારો",
+      "ટેમ્પરેચરમાં ઘટાડો",
+      "એન્થેલ્પીમાં ફેરફાર",
+      "વોલ્યુમમાં વધારો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "SFEE મુજબ કોમ્પ્રેસરનું વર્ક એન્થેલ્પીમાં થતા ફેરફાર (Δh) બરાબર હોય છે[cite: 1]."
+  },
+  {
+    "id": 69,
+    "subject": "Thermodynamics",
+    "subTopic": "Kelvin-Planck & Clausius Statements",
+    "question": "Kelvin-Planck statement of the Second Law is related to:",
+    "gujaratiQuestion": "069. સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સ (Second law of thermodynamics) નો કેલ્વિન-પ્લાન્ક સ્ટેટમેન્ટ (Kelvin-Planck statement) કોની સાથે સંબંધિત છે?",
+    "options": [
+      "હીટના કન્ઝર્વેશન",
+      "વર્કના કન્ઝર્વેશન",
+      "હીટનું વર્કમાં રૂપાંતર",
+      "વર્કનું હીટમાં રૂપાંતર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કેલ્વિન-પ્લાન્ક વિધાન હીટ એન્જિન દ્વારા હીટનું વર્કમાં રૂપાંતર દર્શાવે છે[cite: 1]."
+  },
+  {
+    "id": 70,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "In a Carnot engine, when working substance gives heat to the sink:",
+    "gujaratiQuestion": "070. કાર્નોટ એન્જિનમાં (Carnot engine), જ્યારે વર્કિંગ સબસ્ટન્સ સિંકને (Sink) હીટ આપે છે ત્યારે:",
+    "options": [
+      "સિંકનું તાપમાન વધે છે",
+      "સિંકનું તાપમાન સમાન રહે છે",
+      "સોર્સનું તાપમાન ઘટે છે",
+      "સિંક અને સોર્સ બંનેનું તાપમાન ઘટે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સિંકની અનંત ઉષ્માક્ષમતા હોવાથી હીટ રિજેક્શન દરમિયાન તેનું તાપમાન અચળ રહે છે[cite: 1]."
+  },
+  {
+    "id": 71,
+    "subject": "Thermodynamics",
+    "subTopic": "Kelvin-Planck & Clausius Statements",
+    "question": "According to Clausius statement, heat transfer is impossible without external work in which direction?",
+    "gujaratiQuestion": "071. ક્લોસિયસ સ્ટેટમેન્ટ (Clausius statement) મુજબ, બાહ્ય કાર્ય (External work) વગર હીટનું ટ્રાન્સફર કઈ દિશામાં અશક્ય છે?",
+    "options": [
+      "હાઈ ટેમ્પરેચરથી લો ટેમ્પરેચર",
+      "લો ટેમ્પરેચરથી હાઈ ટેમ્પરેચર",
+      "સમાન ટેમ્પરેચર પર",
+      "આપેલ તમામ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બાહ્ય કાર્ય વગર નીચા તાપમાનેથી ઊંચા તાપમાને હીટ ટ્રાન્સફર અશક્ય છે[cite: 1]."
+  },
+  {
+    "id": 72,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "Which 4 processes constitute a Carnot cycle?",
+    "gujaratiQuestion": "072. કાર્નોટ સાયકલ (Carnot cycle) માં કુલ કઈ 4 પ્રોસેસ હોય છે?",
+    "options": [
+      "2 આઈસોથર્મલ અને 2 આઈસેન્ટ્રોપિક",
+      "2 આઈસોબેરિક અને 2 આઈસોકોરિક",
+      "2 આઈસોબેરિક અને 2 આઈસેન્ટ્રોપિક",
+      "2 આઇસોથર્મલ અને 2 આઈસોબેરિક"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કાર્નોટ સાયકલમાં 2 આઈસોથર્મલ અને 2 આઈસેન્ટ્રોપિક પ્રક્રિયાઓ હોય છે[cite: 1]."
+  },
+  {
+    "id": 73,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "What is the work done in a free expansion process?",
+    "gujaratiQuestion": "073. ફ્રી એક્સપાન્શન પ્રોસેસમાં (Free expansion process) થતું વર્ક ડન કેટલું હોય છે?",
+    "options": [
+      "શૂન્ય",
+      "ન્યૂનતમ",
+      "મહત્તમ",
+      "પોઝિટિવ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "અનરેઝિસ્ટેડ મુક્ત વિસ્તરણમાં થતું કાર્ય શૂન્ય હોય છે[cite: 1]."
+  },
+  {
+    "id": 74,
+    "subject": "Thermodynamics",
+    "subTopic": "Second Law - Heat Engines & COP",
+    "question": "Which law indicates that no heat engine can have 100% efficiency?",
+    "gujaratiQuestion": "074. થર્મોડાયનેમિક્સનો કયો નિયમ દર્શાવે છે કે કોઈ પણ હીટ એન્જિનની કાર્યક્ષમતા 100% હોઈ શકે નહીં?",
+    "options": [
+      "ઝીરોથ લૉ",
+      "ફર્સ્ટ લૉ",
+      "સેકન્ડ લૉ",
+      "થર્ડ લૉ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સેકન્ડ લૉ દર્શાવે છે કે કોઈ હીટ એન્જિન 100% કાર્યક્ષમ ન હોઈ શકે[cite: 1]."
+  },
+  {
+    "id": 75,
+    "subject": "Thermodynamics",
+    "subTopic": "Kelvin-Planck & Clausius Statements",
+    "question": "PMM-2 violates which law/statement?",
+    "gujaratiQuestion": "075. PMM-2 (Perpetual Motion Machine of Second Kind) એ કયા નિયમનું ઉલ્લંઘન કરે છે?",
+    "options": [
+      "ઝીરોથ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "ફર્સ્ટ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "કેલ્વિન-પ્લાન્ક સ્ટેટમેન્ટ",
+      "ક્લોસિયસ સ્ટેટમેન્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PMM-2 એ કેલ્વિન-પ્લાન્ક સ્ટેટમેન્ટનું સીધું ઉલ્લંઘન કરે છે[cite: 1]."
+  },
+  {
+    "id": 76,
+    "subject": "Thermodynamics",
+    "subTopic": "Second Law - Heat Engines & COP",
+    "question": "An ideal gas with gamma=2 is used in an Otto cycle working between 200 K and 1800 K. Compression ratio for max work output is:",
+    "gujaratiQuestion": "076. એક આદર્શ વાયુ જેનો હીટ કેપેસિટી રેશિયો 2 છે, તેનો ઉપયોગ એક આદર્શ ઓટો સાયકલમાં (Otto cycle) થાય છે જે 200 K અને 1800 K ના ન્યૂનતમ અને મહત્તમ તાપમાન વચ્ચે કાર્ય કરે છે. મહત્તમ વર્ક આઉટપુટ માટે સાયકલનો કમ્પ્રેશન રૅશિયો (Compression ratio) કેટલો હશે?",
+    "options": [
+      "1.5",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મહત્તમ કાર્ય માટે T2 = √(200 * 1800) = 600 K. r^(2-1) = 600/200 = 3 => r = 3[cite: 1]."
+  },
+  {
+    "id": 77,
+    "subject": "Thermodynamics",
+    "subTopic": "Kelvin-Planck & Clausius Statements",
+    "question": "If a heat engine produces net work interacting with only a single reservoir, it is called:",
+    "gujaratiQuestion": "077. જો કોઈ હીટ એન્જિન (Heat engine) માત્ર એક જ ટેમ્પરેચર રિઝર્વોયર સાથે હીટની આપ-લે કરીને નેટ વર્ક ઉત્પન્ન કરે, તો તેને શું કહેવાય છે?",
+    "options": [
+      "PMM-1",
+      "PMM-2",
+      "PMM-3",
+      "રિવર્સિબલ એન્જિન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આ પ્રકારના કાલ્પનિક યંત્રને PMM-2 કહેવામાં આવે છે[cite: 1]."
+  },
+  {
+    "id": 78,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "Ideal efficiency of a Carnot engine working between 1000 K and 300 K is:",
+    "gujaratiQuestion": "078. 1000 K અને 300 K ટેમ્પરેચર વચ્ચે કાર્ય કરતા કાર્નોટ એન્જિન (Carnot engine) ની આદર્શ કાર્યક્ષમતા (Ideal efficiency) કેટલી હશે?",
+    "options": [
+      "30%",
+      "70%",
+      "100%",
+      "50%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "η = 1 - (300 / 1000) = 0.70 એટલે કે 70%[cite: 1]."
+  },
+  {
+    "id": 80,
+    "subject": "Thermodynamics",
+    "subTopic": "Second Law - Heat Engines & COP",
+    "question": "Which of the following is considered as High-grade energy?",
+    "gujaratiQuestion": "080. નીચેનામાંથી કોને હાઈ-ગ્રેડ એનર્જી (High-grade energy) માનવામાં આવે છે?",
+    "options": [
+      "હીટ",
+      "વર્ક",
+      "ઈન્ટરનલ એનર્જી",
+      "એન્થેલ્પી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મિકેનિકલ વર્ક સંપૂર્ણપણે અન્ય ઊર્જામાં રૂપાંતરિત થઈ શકતું હોવાથી હાઈ-ગ્રેડ એનર્જી છે[cite: 1]."
+  },
+  {
+    "id": 81,
+    "subject": "Thermodynamics",
+    "subTopic": "Second Law - Heat Engines & COP",
+    "question": "What is the relationship between COP of Heat Pump and Refrigerator?",
+    "gujaratiQuestion": "081. હીટ પંપ (Heat pump) નો કો-એફિશિયન્ટ ઑફ પરફોર્મન્સ (COP) અને રેફ્રિજરેટરના COP વચ્ચેનો સંબંધ શું છે?",
+    "options": [
+      "COP_Heat Pump = COP_Refrigerator - 1",
+      "COP_Heat Pump = COP_Refrigerator + 1",
+      "COP_Heat Pump = COP_Refrigerator",
+      "COP_Heat Pump = 1 / COP_Refrigerator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "COP_HP = COP_Ref + 1[cite: 1]."
+  },
+  {
+    "id": 82,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "What is the air standard efficiency of an Otto cycle?",
+    "gujaratiQuestion": "082. ઓટો સાયકલની (Otto cycle) એર સ્ટાન્ડર્ડ એફિશિયન્સી શું છે?",
+    "options": [
+      "η = 1 - r^(γ - 1)",
+      "η = 1 - 1 / r^(γ - 1)",
+      "η = 1 - r / r^(γ - 1)",
+      "η = 1 - r^γ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓટો સાયકલની કાર્યક્ષમતાનું સૂત્ર η = 1 - 1 / r^(γ-1) છે[cite: 1]."
+  },
+  {
+    "id": 83,
+    "subject": "Thermodynamics",
+    "subTopic": "Second Law - Heat Engines & COP",
+    "question": "What is the formula for Thermal efficiency of a Heat engine?",
+    "gujaratiQuestion": "083. હીટ એન્જિન (Heat engine) ની થર્મલ એફિશિયન્સી (Thermal efficiency) નું સૂત્ર કયું છે?",
+    "options": [
+      "હીટ રિજેક્ટેડ / વર્ક ડન",
+      "હીટ સપ્લાયડ / વર્ક ડન",
+      "વર્ક ડન / હીટ સપ્લાયડ",
+      "વર્ક ડન / હીટ રિજેક્ટેડ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "થર્મલ કાર્યક્ષમતા = વર્ક ડન / હીટ સપ્લાયડ[cite: 1]."
+  },
+  {
+    "id": 84,
+    "subject": "Thermodynamics",
+    "subTopic": "Second Law - Heat Engines & COP",
+    "question": "A heat engine does 100 kJ work per cycle with 50% efficiency. Heat rejected per cycle is:",
+    "gujaratiQuestion": "084. એક હીટ એન્જિન પ્રતિ સાયકલ 100 KJ વર્ક ડન કરે છે અને તેની કાર્યક્ષમતા 50% છે. તો પ્રતિ સાયકલ હીટ રિજેક્ટેડ (Heat rejected) કેટલી થશે?",
+    "options": [
+      "50 kJ",
+      "100 kJ",
+      "150 kJ",
+      "200 kJ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Q_s = 100 / 0.5 = 200 kJ. Heat rejected = 200 - 100 = 100 kJ[cite: 1]."
+  },
+  {
+    "id": 86,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "What is max work done for 1 J heat supply in Carnot engine working between 1000 K and 100 K?",
+    "gujaratiQuestion": "086. 1000 K (Source) અને 100 K (Sink) વચ્ચે કામ કરતા કાર્નોટ એન્જિન દ્વારા 1 J હીટ સપ્લાય માટે મહત્તમ કેટલું વર્ક ડન મળશે?",
+    "options": [
+      "0.1 J",
+      "0.5 J",
+      "0.9 J",
+      "0.99 J"
+    ],
+    "correctAnswer": 2,
+    "explanation": "η = 1 - 100/1000 = 0.9. W = 0.9 * 1 = 0.9 J[cite: 1]."
+  },
+  {
+    "id": 87,
+    "subject": "Thermodynamics",
+    "subTopic": "Kelvin-Planck & Clausius Statements",
+    "question": "How are Kelvin-Planck and Clausius statements connected?",
+    "gujaratiQuestion": "087. કેલ્વિન-પ્લાન્ક અને ક્લોસિયસ સ્ટેટમેન્ટ્સ એકબીજા સાથે કઈ રીતે જોડાયેલા છે?",
+    "options": [
+      "બંને ફર્સ્ટ લૉના ભાગ છે",
+      "બંને એકબીજાના વિરોધી છે",
+      "તે બંને સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સના સમાંતર વિધાનો છે",
+      "બંને વચ્ચે કોઈ સંબંધ નથી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બંને સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સના સમાંતર (સમકક્ષ) વિધાનો છે[cite: 1]."
+  },
+  {
+    "id": 88,
+    "subject": "Thermodynamics",
+    "subTopic": "Second Law - Heat Engines & COP",
+    "question": "Carnot engine has thermal efficiency of 50%. If reversed as heat pump, its COP is:",
+    "gujaratiQuestion": "088. એક કાર્નોટ એન્જિનની થર્મલ એફિશિયન્સી 50% છે. જો આ જ સાયકલને રિવર્સ કરીને હીટ પંપ (Heat pump) બનાવવામાં આવે, તો તેનો COP કેટલો થશે?",
+    "options": [
+      "1",
+      "1.5",
+      "2",
+      "2.5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "COP_HP = 1 / η_Carnot = 1 / 0.5 = 2[cite: 1]."
+  },
+  {
+    "id": 89,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "Theoretically four-stroke petrol engine operates on which cycle?",
+    "gujaratiQuestion": "089. ફોર-સ્ટ્રોક પેટ્રોલ એન્જિન સૈદ્ધાંતિક રીતે કઈ સાયકલ પર કાર્ય કરે છે?",
+    "options": [
+      "ઓટો સાયકલ",
+      "બ્રેટન સાયકલ",
+      "જૂલ સાયકલ",
+      "બેલ કોલમેન સાયકલ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પેટ્રોલ એન્જિન સૈદ્ધાંતિક રીતે ઓટો સાયકલ પર કાર્ય કરે છે[cite: 1]."
+  },
+  {
+    "id": 90,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "Reversed Carnot cycle is used as basis for which system?",
+    "gujaratiQuestion": "090. રિવર્સડ કાર્નોટ સાયકલ (Reversed Carnot cycle) નો ઉપયોગ નીચેનામાંથી કોના આધાર તરીકે થાય છે?",
+    "options": [
+      "હીટ એન્જિન",
+      "ગેસ ટર્બાઇન",
+      "રેફ્રિજરેશન સિસ્ટમ",
+      "બોઇલર સિસ્ટમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રિવર્સ્ડ કાર્નોટ સાયકલ રેફ્રિજરેશન સિસ્ટમનો આધાર છે[cite: 1]."
+  },
+  {
+    "id": 91,
+    "subject": "Thermodynamics",
+    "subTopic": "Second Law - Heat Engines & COP",
+    "question": "An engine receives heat from 500 K and rejects 30% to 200 K. This engine is:",
+    "gujaratiQuestion": "091. એક એન્જિન સોર્સમાંથી હીટ મેળવે છે અને તેમાંથી 30% હીટ રિજેક્ટ કરે છે. સોર્સ 500 K અને સિંક 200 K પર છે. આ એન્જિન કયા પ્રકારનું હશે?",
+    "options": [
+      "આઇડિયલ એન્જિન",
+      "ઇમ્પોસિબલ એન્જિન",
+      "પ્રેક્ટિકલ એન્જિન",
+      "રિવર્સિબલ એન્જિન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કાર્નોટ કાર્યક્ષમતા 60% છે જ્યારે એન્જિન 70% આપે છે જે અશક્ય (ઇમ્પોસિબલ) છે[cite: 1]."
+  },
+  {
+    "id": 92,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "In a diesel engine, time interval between injection and ignition is called:",
+    "gujaratiQuestion": "092. ડીઝલ એન્જિનમાં, ઈન્જેક્શનના સમય અને ઇગ્નિશનના સમય વચ્ચેના ગાળાને શું કહેવાય છે?",
+    "options": [
+      "ઈગ્નિશન પિરિયડ",
+      "એક્સપ્લોઝન પિરિયડ",
+      "પ્રિ-ઇગ્નિશન પિરિયડ",
+      "ડિલે પિરિયડ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઇન્જેક્શન અને ઇગ્નીશન વચ્ચેના સમયગાળાને ડિલે પિરિયડ કહેવાય છે[cite: 1]."
+  },
+  {
+    "id": 93,
+    "subject": "Thermodynamics",
+    "subTopic": "Second Law - Heat Engines & COP",
+    "question": "Heat transfer process is governed by which law of thermodynamics?",
+    "gujaratiQuestion": "093. હીટ ટ્રાન્સફર (Heat transfer) ની પ્રક્રિયા થર્મોડાયનેમિક્સના કયા નિયમ દ્વારા નિયંત્રિત થાય છે?",
+    "options": [
+      "ઝીરોથ લો",
+      "ફર્સ્ટ લૉ",
+      "સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "થર્ડ લૉ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હીટ ટ્રાન્સફરની દિશા સેકન્ડ લૉ દ્વારા નિયંત્રિત થાય છે[cite: 1]."
+  },
+  {
+    "id": 94,
+    "subject": "Thermodynamics",
+    "subTopic": "Second Law - Heat Engines & COP",
+    "question": "Heat engine efficiency is 30%. If heat input is 20000 J/s, output work produced is:",
+    "gujaratiQuestion": "094. એક હીટ ઍન્જિનની એફિશિયન્સી 30% છે. જો હીટ ઇનપુટ 20000 J/s હોય, તો એન્જિન દ્વારા કેટલું આઉટપુટ વર્ક (Output work) મળશે?",
+    "options": [
+      "3000 W",
+      "6000 W",
+      "9000 W",
+      "12000 W"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આઉટપુટ વર્ક = 0.30 * 20000 = 6000 W[cite: 1]."
+  },
+  {
+    "id": 96,
+    "subject": "Thermodynamics",
+    "subTopic": "Second Law - Heat Engines & COP",
+    "question": "Which of the following cannot be completely converted into work in a cycle?",
+    "gujaratiQuestion": "096. નીચેનામાંથી કોનું સંપૂર્ણપણે વર્ક (Work) માં રૂપાંતર કરી શકાતું નથી?",
+    "options": [
+      "ઈલેક્ટ્રિકલ એનર્જી",
+      "કાઈનેટિક એનર્જી",
+      "મિકેનિકલ એનર્જી",
+      "લો-ગ્રેડ એનર્જી / હીટ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "લો-ગ્રેડ એનર્જી (હીટ) નું સંપૂર્ણપણે વર્કમાં રૂપાંતર થઈ શકતું નથી[cite: 1]."
+  },
+  {
+    "id": 97,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "Absolute thermodynamic temperature scale is based on which cycle?",
+    "gujaratiQuestion": "097. એબ્સોલ્યુટ થર્મોડાયનેમિક ટેમ્પરેચર સ્કેલ (Absolute thermodynamic temperature scale) કઈ સાયકલ પર આધારિત છે?",
+    "options": [
+      "બ્રેટન સાયકલ",
+      "ઓટો સાયકલ",
+      "કાર્નોટ સાયકલ",
+      "રેન્કિંન સાયકલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એબ્સોલ્યુટ થર્મોડાયનેમિક ટેમ્પરેચર સ્કેલ કાર્નોટ સાયકલ પર આધારિત છે[cite: 1]."
+  },
+  {
+    "id": 98,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "Property that increases or decreases when heat is added or removed reversibly is:",
+    "gujaratiQuestion": "098. વર્કિંગ સબસ્ટન્સની એવી પ્રોપર્ટી જે રિવર્સિબલ પ્રક્રિયામાં હીટ આપવાથી કે દૂર કરવાથી વધે કે ઘટે છે, તેને શું કહેવાય છે?",
+    "options": [
+      "એન્થેલ્પી",
+      "ઈન્ટરનલ એનર્જી",
+      "એન્ટ્રોપી",
+      "એક્સટર્નલ એનર્જી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "dS = (dQ/T)_rev મુજબ આ ગુણધર્મ એન્ટ્રોપી છે[cite: 1]."
+  },
+  {
+    "id": 99,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "Which condition is correct for a reversible heat engine?",
+    "gujaratiQuestion": "099. નીચેનામાંથી કઈ શરત રિવર્સિબલ હીટ એન્જિન (Reversible heat engine) માટે સાચી છે?",
+    "options": [
+      "Efficiency = 1 - (T_L / T_H)",
+      "Efficiency = 1 - (T_H / T_L)",
+      "Efficiency = (T_L / T_H) - 1",
+      "Efficiency = T_H / T_L"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રિવર્સિબલ એન્જિનની કાર્યક્ષમતા = 1 - (T_L / T_H) છે[cite: 1]."
+  },
+  {
+    "id": 100,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "Efficiency of a Carnot cycle becomes maximum when:",
+    "gujaratiQuestion": "0100. કાર્નોટ સાયકલ (Carnot cycle) ની કાર્યક્ષમતા મહત્તમ ક્યારે થાય છે?",
+    "options": [
+      "જ્યારે સોર્સનું ટેમ્પરેચર ન્યૂનતમ હોય",
+      "જ્યારે સિંકનું અંતિમ ટેમ્પરેચર 0 K હોય",
+      "જ્યારે સોર્સ અને સિંકનું ટેમ્પરેચર સમાન હોય",
+      "જ્યારે હીટ સપ્લાય ન્યૂનતમ હોય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સિંકનું અંતિમ તાપમાન 0 K થાય ત્યારે કાર્યક્ષમતા મહત્તમ (100%) થાય છે[cite: 1]."
+  },
+  {
+    "id": 101,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "For a gas turbine system, Work ratio is defined as:",
+    "gujaratiQuestion": "0101. ગેસ ટર્બાઈન સિસ્ટમ માટે, વર્ક રેશિયોને (Work ratio) કયા ગુણોત્તર તરીકે વ્યાખ્યાયિત કરવામાં આવે છે?",
+    "options": [
+      "ટર્બાઇનમાં એક્ચ્યુઅલ હીટ ડ્રોપ અને આઈસેન્ટ્રોપિક હીટ ડ્રોપનો ગુણોત્તર",
+      "કોમ્પ્રેસર વર્ક અને ટર્બાઇન વર્કનો ગુણોત્તર",
+      "નેટ વર્ક આઉટપુટ અને ટર્બાઇન વર્કનો ગુણોત્તર",
+      "નેટ વર્ક આઉટપુટ અને કોમ્પ્રેસર વર્કનો ગુણોત્તર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વર્ક રેશિયો એટલે નેટ વર્ક આઉટપુટ અને ટર્બાઇન વર્કનો ગુણોત્તર[cite: 1]."
+  },
+  {
+    "id": 102,
+    "subject": "Thermodynamics",
+    "subTopic": "Kelvin-Planck & Clausius Statements",
+    "question": "For single reservoir cyclic device producing 100% work, mathematical form of cyclic dQ/T is:",
+    "gujaratiQuestion": "0102. જો કોઈ સાયક્લિક ડિવાઈસ માત્ર એક જ ટેમ્પરેચર સોર્સ સાથે હીટની આપ-લે કરે અને 100% વર્ક ઉત્પન્ન કરે, તો કેલ્વિન-પ્લાન્ક સ્ટેટમેન્ટ મુજબ ∮ dQ/T નું ગાણિતિક સ્વરૂપ શું થશે?",
+    "options": [
+      "= 0",
+      "> 0",
+      "< 0",
+      ">= 0"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ક્લોસિયસ અસમતા અનુસાર ઇરરિવર્સિબલ સાયકલ માટે ∮dQ/T < 0 થાય છે[cite: 1]."
+  },
+  {
+    "id": 103,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "In Clausius theorem, reversible path is represented by:",
+    "gujaratiQuestion": "0103. ક્લોસિયસ થિયરમમાં રિવર્સિબલ પાથ (Reversible path) ને કઈ રીતે દર્શાવવામાં આવે છે?",
+    "options": [
+      "રિવર્સિબલ આઇસોબેરિક",
+      "રિવર્સિબલ આઇસોથર્મલ અને એડિઆબેટિક",
+      "રિવર્સિબલ આઇસોકોરિક",
+      "રિવર્સિબલ કોન્સ્ટન્ટ એન્થેલ્પી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ક્લોસિયસ પ્રમેય મુજબ પાથ રિવર્સિબલ આઇસોથર્મલ અને એડિઆબેટિક દ્વારા દર્શાવાય છે[cite: 1]."
+  },
+  {
+    "id": 104,
+    "subject": "Thermodynamics",
+    "subTopic": "Pure Substances & Ideal/Real Gases",
+    "question": "If Joule Thomson co-efficient is negative (μ < 0), upon throttling gas will:",
+    "gujaratiQuestion": "0104. જે ગેસનો જૂલ થોમસન કો-એફિશિયન્ટ (Joule Thomson co-efficient) નેગેટિવ (μ < 0) હોય, તેનું થ્રોટલિંગ કરવાથી તે:",
+    "options": [
+      "ઠંડો થશે",
+      "ગરમ થશે",
+      "સમાન તાપમાને રહેશે",
+      "ગેસના પ્રકારના આધારે ઠંડો અથવા ગરમ થશે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "μ < 0 હોય ત્યારે થ્રોટલિંગ દરમિયાન વાયુ ગરમ થશે[cite: 1]."
+  },
+  {
+    "id": 105,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "Among all engines operating between same temperature limits, highest efficiency belongs to:",
+    "gujaratiQuestion": "0105. સમાન ટેમ્પરેચર લિમિટ્સ વચ્ચે કાર્ય કરતી તમામ હીટ એન્જિનોમાં સૌથી વધુ કાર્યક્ષમતા કોની હોય છે?",
+    "options": [
+      "ઓટો એન્જિન",
+      "ડીઝલ એન્જિન",
+      "કાર્નોટ એન્જિન",
+      "રેન્કિન એન્જિન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કાર્નોટ એન્જિનની કાર્યક્ષમતા સમાન તાપમાન મર્યાદાઓમાં સૌથી વધુ હોય છે[cite: 1]."
+  },
+  {
+    "id": 106,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "According to Clausius inequality, which equation is correct for an irreversible cycle?",
+    "gujaratiQuestion": "0106. ક્લોસિયસ ઇનઇક્વાલિટી (Clausius inequality) મુજબ, ઇરરિવર્સિબલ સાયકલ (Irreversible cycle) માટે નીચેનામાંથી કયું સમીકરણ સાચું છે?",
+    "options": [
+      "∮ dQ / T = 0",
+      "∮ dQ / T > 0",
+      "∮ dQ / T < 0",
+      "∮ dQ / T >= 0"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇરરિવર્સિબલ સાયકલ માટે ∮(dQ/T) < 0 હોય છે[cite: 1]."
+  },
+  {
+    "id": 107,
+    "subject": "Thermodynamics",
+    "subTopic": "Pure Substances & Ideal/Real Gases",
+    "question": "Mollier diagram is a plot of:",
+    "gujaratiQuestion": "0107. મોલિયર ડાયાગ્રામ (Mollier diagram) એ કોનો પ્લોટ છે?",
+    "options": [
+      "ટેમ્પરેચર અને એન્ટ્રોપી",
+      "એન્થેલ્પી અને એન્ટ્રોપી",
+      "પ્રેશર અને એન્થેલ્પી",
+      "પ્રેશર અને વોલ્યુમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોલિયર ડાયાગ્રામ એ એન્થેલ્પી અને એન્ટ્રોપી (h-s) નો આલેખ છે[cite: 1]."
+  },
+  {
+    "id": 108,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "For a reversible cycle, cyclic integral ∮ dQ/T value is:",
+    "gujaratiQuestion": "0108. રિવર્સિબલ સાયકલ (Reversible cycle) માટે સાયક્લિક ઈન્ટિગ્રલ ∮ dQ/T નું મૂલ્ય શું હોય છે?",
+    "options": [
+      "શૂન્ય",
+      "શૂન્ય કરતાં વધુ",
+      "શૂન્ય કરતાં ઓછું",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રિવર્સિબલ સાયકલ માટે ∮(dQ/T) = 0 થાય છે[cite: 1]."
+  },
+  {
+    "id": 109,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "When randomness increases in a system, entropy:",
+    "gujaratiQuestion": "0109. જ્યારે સિસ્ટમમાં રેન્ડમનેસ (Degree of randomness) વધે છે, ત્યારે એન્ટ્રોપી (Entropy) માં શું ફેરફાર થાય છે?",
+    "options": [
+      "ઘટે છે",
+      "વધે છે",
+      "અચળ રહે છે",
+      "અનપેક્ષિત રહે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રેન્ડમનેસ વધતાં એન્ટ્રોપી વધે છે[cite: 1]."
+  },
+  {
+    "id": 110,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "Change in entropy for a reversible adiabatic process is:",
+    "gujaratiQuestion": "0110. રિવર્સિબલ એડિઆબેટિક પ્રોસેસ (Reversible adiabatic process) માટે એન્ટ્રોપી (Entropy) માં થતો ફેરફાર કેટલો હોય છે?",
+    "options": [
+      "ન્યૂનતમ",
+      "મહત્તમ",
+      "શૂન્ય",
+      "અનંત"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રિવર્સિબલ એડિઆબેટિકમાં dQ = 0 હોવાથી ΔS = 0 (શૂન્ય) હોય છે[cite: 1]."
+  },
+  {
+    "id": 111,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "For same CR and heat supply, air standard efficiency of Otto cycle compared to Diesel is:",
+    "gujaratiQuestion": "0111. સમાન કમ્પ્રેશન રેશિયો અને સમાન હીટ સપ્લાય માટે, ડીઝલ સાયકલની સરખામણીમાં ઓટો સાયકલની (Otto cycle) એર સ્ટાન્ડર્ડ એફિશિયન્સી કેવી હોય છે?",
+    "options": [
+      "ઓછી",
+      "વધુ",
+      "સમાન",
+      "અનપેક્ષિત"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સમાન કમ્પ્રેશન રેશિયો અને હીટ સપ્લાય માટે ઓટો સાયકલની કાર્યક્ષમતા વધુ હોય છે[cite: 1]."
+  },
+  {
+    "id": 112,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "According to principle of increase of entropy, entropy of an isolated system:",
+    "gujaratiQuestion": "0112. પ્રિન્સિપલ ઓફ ઇન્ક્રીઝ ઓફ એન્ટ્રોપી (Principle of increase of entropy) મુજબ, આઈસોલેટેડ સિસ્ટમ (Isolated system) ની એન્ટ્રોપી:",
+    "options": [
+      "હંમેશા ઘટે છે",
+      "ક્યારેય ઘટતી નથી (ΔS >= 0)",
+      "હંમેશા શૂન્ય રહે છે",
+      "બાહ્ય વર્ક પર આધાર રાખે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આઈસોલેટેડ સિસ્ટમની એન્ટ્રોપી ક્યારેય ઘટતી નથી (ΔS >= 0)[cite: 1]."
+  },
+  {
+    "id": 113,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "Definition of Entropy is obtained from which law of thermodynamics?",
+    "gujaratiQuestion": "0113. એન્ટ્રોપી (Entropy) ની વ્યાખ્યા થર્મોડાયનેમિક્સના કયા નિયમ પરથી મળે છે?",
+    "options": [
+      "ઝીરોથ લૉ",
+      "ફર્સ્ટ લૉ",
+      "સેકન્ડ લૉ",
+      "થર્ડ લો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એન્ટ્રોપીની વ્યાખ્યા સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સ પરથી મળે છે[cite: 1]."
+  },
+  {
+    "id": 114,
+    "subject": "Thermodynamics",
+    "subTopic": "Pure Substances & Ideal/Real Gases",
+    "question": "Specific heat ratio (gamma) is maximum for which gas?",
+    "gujaratiQuestion": "0114. કયા ગેસ માટે સ્પેસિફિક હીટ રેશિયો (γ) ની કિંમત મહત્તમ હોય છે?",
+    "options": [
+      "ઓક્સિજન",
+      "હિલિયમ",
+      "નાઇટ્રોજન",
+      "કાર્બન ડાયોક્સાઇડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોનોએટોમિક ગેસ હિલિયમ માટે γ ≈ 1.67 મહત્તમ હોય છે[cite: 1]."
+  },
+  {
+    "id": 115,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "Which law states entropy of pure crystal is zero at absolute zero temperature?",
+    "gujaratiQuestion": "0115. થર્મોડાયનેમિક્સનો કયો નિયમ દર્શાવે છે કે એબ્સોલ્યુટ ઝીરો ટેમ્પરેચર (Absolute zero temperature) પર શુદ્ધ સ્ફટિકની એન્ટ્રોપી શૂન્ય હોય છે?",
+    "options": [
+      "ઝીરોથ લૉ",
+      "ફર્સ્ટ લો",
+      "સેકન્ડ લૉ",
+      "થર્ડ લો"
+    ],
+    "correctAnswer": 3,
+    "explanation": "થર્ડ લૉ દર્શાવે છે કે 0 K પર શુદ્ધ સ્ફટિકની એન્ટ્રોપી શૂન્ય હોય છે[cite: 1]."
+  },
+  {
+    "id": 116,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "On a T-s diagram, isothermal process is shown by:",
+    "gujaratiQuestion": "0116. T-s ડાયાગ્રામ (Temperature-Entropy diagram) માં આઈસોથર્મલ પ્રોસેસ (Isothermal process) કેવી રેખા વડે દર્શાવવામાં આવે છે?",
+    "options": [
+      "વર્ટિકલ લાઇન",
+      "હોરિઝોન્ટલ લાઇન",
+      "વળાંકવાળી લાઈન",
+      "ઈન્કલાઈન્ડ લાઈન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "T-s ચાર્ટ પર અચળ તાપમાન આડી (હોરિઝોન્ટલ) લાઇન વડે દર્શાવાય છે[cite: 1]."
+  },
+  {
+    "id": 117,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "In Rankine cycle, regeneration increases thermal efficiency because:",
+    "gujaratiQuestion": "0117. રેન્કિન સાયકલમાં (Rankine cycle), રિજનરેશનના (Regeneration) કારણે થર્મલ એફિશિયન્સી વધે છે કારણ કે:",
+    "options": [
+      "બોઈલરની અંદર પ્રેશરમાં વધારો થાય છે",
+      "ટર્બાઈન દ્વારા મળતા કુલ વર્કમાં વધારો થાય છે",
+      "સ્ટીમ લો પ્રેશર ટર્બાઈનમાં પ્રવેશે તે પહેલાં વધારાની હીટ ઉમેરવામાં આવે છે",
+      "બોઈલરમાં જે સરેરાશ તાપમાને હીટ ઉમેરવામાં આવે છે તેમાં વધારો થાય છે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "રિજનરેશન સરેરાશ તાપમાન (મીન ટેમ્પરેચર ઓફ હીટ એડિશન) વધારે છે[cite: 1]."
+  },
+  {
+    "id": 118,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "Reversible adiabatic process is shown on T-s diagram by which line?",
+    "gujaratiQuestion": "0118. T-s ડાયાગ્રામમાં રિવર્સિબલ એડિઆબેટિક પ્રોસેસ (આઈસેન્ટ્રોપિક પ્રોસેસ) કઈ લાઈન વડે દર્શાવાય છે?",
+    "options": [
+      "હોરિઝોન્ટલ લાઈન",
+      "વર્ટિકલ લાઇન",
+      "પેરાબોલિક કર્વ",
+      "કોઈ નહિ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આઈસેન્ટ્રોપિક પ્રક્રિયા T-s ડાયાગ્રામ પર વર્ટિકલ લાઈન વડે દર્શાવાય છે[cite: 1]."
+  },
+  {
+    "id": 119,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "Equation for entropy change during reversible isothermal process is:",
+    "gujaratiQuestion": "0119. રિવર્સિબલ આઇસોથર્મલ પ્રોસેસ (Reversible isothermal process) દરમિયાન એન્ટ્રોપી ફેરફાર (Change in entropy) નું સમીકરણ કયું છે?",
+    "options": [
+      "ΔS = Q * T",
+      "ΔS = Q / T",
+      "ΔS = T / Q",
+      "ΔS = Q + T"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આઈસોથર્મલ પ્રક્રિયા માટે ΔS = Q / T[cite: 1]."
+  },
+  {
+    "id": 120,
+    "subject": "Thermodynamics",
+    "subTopic": "Zeroth Law & Temperature",
+    "question": "If two systems are in thermal equilibrium with a third system, they are in thermal equilibrium with each other. Which law is this?",
+    "gujaratiQuestion": "0120. થર્મોડાયનેમિક્સનો કયો નિયમ જણાવે છે કે જો બે થર્મોડાયનેમિક સિસ્ટમ કોઈ ત્રીજી સિસ્ટમ સાથે અલગ-અલગ થર્મલ સંતુલનમાં (Thermal equilibrium) હોય, તો તે એકબીજા સાથે પણ થર્મલ સંતુલનમાં હશે?",
+    "options": [
+      "ઝીરોથ લો",
+      "ફર્સ્ટ લૉ",
+      "સેકન્ડ લૉ (ક્લોસિયસ સ્ટેટમેન્ટ)",
+      "સેકન્ડ લૉ (કેલ્વિન-પ્લાન્ક સ્ટેટમેન્ટ)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આ થર્મોડાયનેમિક્સનો ઝીરોથ લો છે[cite: 1]."
+  },
+  {
+    "id": 121,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "For irreversible process, change in entropy (Delta S) is:",
+    "gujaratiQuestion": "0121. ઈરરિવર્સિબલ પ્રોસેસ (Irreversible process) માટે એન્ટ્રોપીમાં થતો ફેરફાર (ΔS) કેવો હોય છે?",
+    "options": [
+      "ΔS = ∫ dQ / T",
+      "ΔS > ∫ dQ / T",
+      "ΔS < ∫ dQ / T",
+      "ΔS = 0"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇરરિવર્સિબિલિટીને લીધે ΔS > ∫(dQ/T) થાય છે[cite: 1]."
+  },
+  {
+    "id": 122,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "What type of thermodynamic property is Entropy?",
+    "gujaratiQuestion": "0122. એન્ટ્રોપી (Entropy) એ કયા પ્રકારની થર્મોડાયનેમિક પ્રોપર્ટી છે?",
+    "options": [
+      "ઇન્ટેન્સિવ પ્રોપર્ટી",
+      "એક્સટેન્સિવ પ્રોપર્ટી",
+      "પાથ ફંક્શન",
+      "કોઈ પ્રોપર્ટી નથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કુલ એન્ટ્રોપી દળ પર આધારિત હોવાથી એક્સટેન્સિવ પ્રોપર્ટી છે[cite: 1]."
+  },
+  {
+    "id": 123,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "A machine that produces mechanical work without energy consumption is called:",
+    "gujaratiQuestion": "0123. એવું કોઈ મશીન ન હોઈ શકે જે અન્ય કોઈ પ્રકારની ઊર્જાનો વ્યય કર્યા વિના સતત મિકેનિકલ વર્ક પૂરું પાડે. આ મશીન કયું છે?",
+    "options": [
+      "PMM1",
+      "PMM2",
+      "PMM3",
+      "લૉ ઓફ અવેલેબિલિટી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઊર્જા ઇનપુટ વિના સતત કાર્ય આપતું કાલ્પનિક યંત્ર PMM1 છે[cite: 1]."
+  },
+  {
+    "id": 124,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "For an impossible cycle, cyclic integral ∮ dQ/T value is:",
+    "gujaratiQuestion": "0124. કોઈ પણ ઇમ્પોસિબલ સાયકલ (Impossible cycle) માટે સાયક્લિક ઈન્ટિગ્રલ ∮ dQ/T નું મૂલ્ય કેવું હોય છે?",
+    "options": [
+      "∮ dQ / T = 0",
+      "∮ dQ / T < 0",
+      "∮ dQ / T > 0",
+      "∮ dQ / T = ∞"
+    ],
+    "correctAnswer": 2,
+    "explanation": "∮(dQ/T) > 0 અસંભવ (ઇમ્પોસિબલ) સાયકલ દર્શાવે છે[cite: 1]."
+  },
+  {
+    "id": 125,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "What happens to entropy in a free expansion process?",
+    "gujaratiQuestion": "0125. ફ્રી એક્સપાન્શન પ્રોસેસ (Free expansion process) માં એન્ટ્રોપી પર શું અસર થાય છે?",
+    "options": [
+      "એન્ટ્રોપી ઘટે છે",
+      "એન્ટ્રોપી વધે છે",
+      "એન્ટ્રોપી સમાન રહે છે",
+      "શૂન્ય થઈ જાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇરરિવર્સિબલ પ્રક્રિયા હોવાથી ફ્રી એક્સપાન્શનમાં એન્ટ્રોપી વધે છે[cite: 1]."
+  },
+  {
+    "id": 127,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "During throttling process, entropy of the system:",
+    "gujaratiQuestion": "0127. થ્રોટલિંગ પ્રોસેસ (Throttling process) દરમિયાન સિસ્ટમની એન્ટ્રોપી (Entropy):",
+    "options": [
+      "હંમેશા વધે છે",
+      "હંમેશા ઘટે છે",
+      "અચળ રહે છે",
+      "પહેલા વધે અને પછી ઘટે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "થ્રોટલિંગ ઇરરિવર્સિબલ એડિઆબેટિક પ્રક્રિયા હોવાથી એન્ટ્રોપી હંમેશા વધે છે[cite: 1]."
+  },
+  {
+    "id": 128,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "3000 kJ heat is rejected from reservoir at 1000 K. Entropy change of reservoir is:",
+    "gujaratiQuestion": "0128. 1000 K ટેમ્પરેચર પર એક રિઝર્વોયરમાંથી 3000 kJ હીટ દૂર કરવામાં આવે છે (Heat rejected). રિઝર્વોયરના એન્ટ્રોપી ફેરફાર (Entropy change) નું મૂલ્ય કેટલું હશે?",
+    "options": [
+      "+3 kJ/K",
+      "-3 kJ/K",
+      "+3000 kJ/K",
+      "-3000 kJ/K"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ΔS = -3000 / 1000 = -3 kJ/K[cite: 1]."
+  },
+  {
+    "id": 129,
+    "subject": "Thermodynamics",
+    "subTopic": "Kelvin-Planck & Clausius Statements",
+    "question": "It is impossible to transfer heat from colder to hotter body without external work. This is:",
+    "gujaratiQuestion": "0129. એવું કોઈ ઉપકરણ બનાવવું અશક્ય છે જે સાયકલમાં કાર્ય કરતું હોય અને ઠંડા પદાર્થથી ગરમ પદાર્થમાં હીટ ટ્રાન્સફર સિવાય બીજું કોઈ પરિણામ ઉત્પન્ન ન કરે. આ શું છે?",
+    "options": [
+      "ક્લોસિયસ સ્ટેટમેન્ટ",
+      "ફર્સ્ટ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "કેલ્વિન-પ્લાન્ક સ્ટેટમેન્ટ",
+      "કન્ઝર્વેશન ઓફ એન્થેલ્પી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આ સેકન્ડ લૉનું ક્લોસિયસ સ્ટેટમેન્ટ છે[cite: 1]."
+  },
+  {
+    "id": 130,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "What is the trend of total entropy of the Universe?",
+    "gujaratiQuestion": "0130. બ્રહ્માંડ (Universe) ની કુલ એન્ટ્રોપીનું વલણ કેવું હોય છે?",
+    "options": [
+      "તે સતત ઘટી રહી છે",
+      "તે સતત વધી રહી છે",
+      "તે હંમેશા અચળ રહે છે",
+      "તે માત્ર તાપમાન પર આધારિત છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કુદરતી અપરિવર્તનીય પ્રક્રિયાઓને લીધે બ્રહ્માંડની એન્ટ્રોપી સતત વધી રહી છે[cite: 1]."
+  },
+  {
+    "id": 131,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "What is the S.I. unit of entropy?",
+    "gujaratiQuestion": "0131. એન્ટ્રોપીનો S.I. એકમ (Unit) કયો છે?",
+    "options": [
+      "kJ/kg",
+      "kJ/K",
+      "kW/K",
+      "J/kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એન્ટ્રોપીનો SI એકમ kJ/K અથવા J/K છે[cite: 1]."
+  },
+  {
+    "id": 132,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "Reversible adiabatic process is shown on T-s diagram by:",
+    "gujaratiQuestion": "0132. T-s ડાયાગ્રામ પર રિવર્સિબલ એડિઆબેટિક પ્રોસેસ (આઈસેન્ટ્રોપિક પ્રોસેસ) કઈ રીતે દર્શાવવામાં આવે છે?",
+    "options": [
+      "હોરિઝોન્ટલ લાઈન",
+      "વર્ટિકલ લાઈન",
+      "પેરાબોલિક કર્વ",
+      "ઈન્કલાઈન્ડ લાઈન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આઈસેન્ટ્રોપિક પ્રક્રિયા T-s ડાયાગ્રામ પર વર્ટિકલ લાઈન વડે દર્શાવાય છે[cite: 1]."
+  },
+  {
+    "id": 133,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "For a reversible cycle, efficiency depends entirely on:",
+    "gujaratiQuestion": "0133. રિવર્સિબલ સાયકલ (Reversible cycle) માટે, એફિશિયન્સી સંપૂર્ણપણે કોના પર આધારિત છે?",
+    "options": [
+      "વર્કિંગ ટેમ્પરેચર",
+      "વર્કિંગ પ્રેશર",
+      "વર્કિંગ ફ્લુઇડના જથ્થા પર",
+      "વર્કિંગ ફ્લુઇડની પ્રકૃતિ પર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રિવર્સિબલ સાયકલની કાર્યક્ષમતા માત્ર કાર્યકારી તાપમાન (વર્કિંગ ટેમ્પરેચર) પર આધાર રાખે છે[cite: 1]."
+  },
+  {
+    "id": 134,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "According to Clausius inequality, for irreversible process ∮ dQ/T is:",
+    "gujaratiQuestion": "0134. ક્લોસિયસ ઈનઈક્વાલિટી (Clausius inequality) અનુસાર, ઇરરિવર્સિબલ પ્રોસેસ (Irreversible process) માટે ∮ dQ/T નું મૂલ્ય શું હોય છે?",
+    "options": [
+      "શૂન્યની બરાબર (= 0)",
+      "શૂન્ય કરતાં વધુ (> 0)",
+      "શૂન્ય કરતાં ઓછું (< 0)",
+      "અનંત"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇરરિવર્સિબલ પ્રોસેસ માટે ∮(dQ/T) શૂન્ય કરતાં ઓછું (< 0) હોય છે[cite: 1]."
+  },
+  {
+    "id": 135,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "An increase in entropy of a system indicates what of energy?",
+    "gujaratiQuestion": "0135. સિસ્ટમની એન્ટ્રોપી (Entropy) માં થતો વધારો એ એનર્જીનું શું દર્શાવે છે?",
+    "options": [
+      "અપગ્રેડેશન",
+      "ડીગ્રેડેશન",
+      "કન્ઝર્વેશન",
+      "જનરેશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એન્ટ્રોપી વધવી એટલે ઉપયોગી ઊર્જાનું ડીગ્રેડેશન થવું[cite: 1]."
+  },
+  {
+    "id": 136,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "Which of the following is an intensive property of a thermodynamic system?",
+    "gujaratiQuestion": "0136. થર્મોડાયનેમિક સિસ્ટમની ઈન્ટેન્સિવ પ્રોપર્ટી (Intensive property) નીચેનામાંથી કઈ છે?",
+    "options": [
+      "વોલ્યુમ",
+      "ડેન્સિટી",
+      "ટેમ્પરેચર",
+      "2 અને 3 બંને"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ડેન્સિટી અને ટેમ્પરેચર બંને ઇન્ટેન્સિવ પ્રોપર્ટી છે[cite: 1]."
+  },
+  {
+    "id": 137,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "Area under curve on T-s diagram for any reversible process represents:",
+    "gujaratiQuestion": "0137. T-s ડાયાગ્રામ પર કોઈપણ રિવર્સિબલ થર્મોડાયનેમિક પ્રોસેસ માટે કર્વની નીચેનો એરિયા (Area under the curve) શું દર્શાવે છે?",
+    "options": [
+      "વર્ક ડન",
+      "ઇન્ટરનલ એનર્જીમાં ફેરફાર",
+      "હીટ ટ્રાન્સફર",
+      "એન્થેલ્પીમાં ફેરફાર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "T-s આલેખ નીચેનો ક્ષેત્રફળ ∫T ds = હીટ ટ્રાન્સફર દર્શાવે છે[cite: 1]."
+  },
+  {
+    "id": 138,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "Ideal cycle for a steam power plant is:",
+    "gujaratiQuestion": "0138. સ્ટીમ પાવર પ્લાન્ટ (Steam power plant) માટેની આદર્શ સાયકલ કઈ છે?",
+    "options": [
+      "કાર્નોટ સાયકલ",
+      "રેન્કિન સાયકલ",
+      "બ્રેટન સાયકલ",
+      "ઓટો સાયકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટીમ પાવર પ્લાન્ટ માટે રેન્કિન સાયકલ આદર્શ સાયકલ છે[cite: 1]."
+  },
+  {
+    "id": 139,
+    "subject": "Thermodynamics",
+    "subTopic": "Zeroth Law & Temperature",
+    "question": "It is impossible to reduce temperature to absolute zero in finite operations. Which law is this?",
+    "gujaratiQuestion": "0139. કોઇપણ પદ્ધતિ દ્વારા, ભલે તે ગમે તેટલી આદર્શ હોય, પરિમિત કામગીરીમાં કોઈપણ સિસ્ટમના તાપમાનને એબ્સોલ્યુટ ઝીરો સુધી ઘટાડવું અશક્ય છે. આ કયો નિયમ છે?",
+    "options": [
+      "ફર્સ્ટ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "થર્ડ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "ઊર્જા સંરક્ષણનો નિયમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આ થર્મોડાયનેમિક્સનો ત્રીજો નિયમ (થર્ડ લૉ) છે[cite: 1]."
+  },
+  {
+    "id": 140,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "Which four processes are included in a Rankine cycle?",
+    "gujaratiQuestion": "0140. રેન્કિન સાયકલ (Rankine cycle) માં કઈ ચાર પ્રોસેસનો સમાવેશ થાય છે?",
+    "options": [
+      "2 આઇસેન્ટ્રોપિક અને 2 કોન્સ્ટન્ટ વોલ્યુમ",
+      "2 આઇસોથર્મલ અને 2 કોન્સ્ટન્ટ પ્રેશર",
+      "2 આઈસેન્ટ્રોપિક અને 2 કોન્સ્ટન્ટ પ્રેશર",
+      "2 આઇસોથર્મલ અને 2 કોન્સ્ટન્ટ વોલ્યુમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રેન્કિન સાયકલમાં 2 આઈસેન્ટ્રોપિક અને 2 કોન્સ્ટન્ટ પ્રેશર પ્રોસેસ હોય છે[cite: 1]."
+  },
+  {
+    "id": 141,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "Which device is not included in a Rankine cycle?",
+    "gujaratiQuestion": "0141. નીચેનામાંથી કયા ઉપકરણનો રેન્કિન સાયકલ (Rankine cycle) માં સમાવેશ થતો નથી?",
+    "options": [
+      "પંપ",
+      "બોઈલર",
+      "ટર્બાઈન",
+      "કોમ્પ્રેસર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "રેન્કિન સાયકલમાં પંપ વપરાય છે, કોમ્પ્રેસર નહીં[cite: 1]."
+  },
+  {
+    "id": 142,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "Criterion for reversibility of a cycle is provided by:",
+    "gujaratiQuestion": "0142. સાયકલની રિવર્સિબિલિટી (Reversibility) માટેનો માપદંડ કોના દ્વારા પૂરો પાડવામાં આવે છે?",
+    "options": [
+      "ક્લોસિયસ ઇનઇક્વાલિટી",
+      "હીટ એન્જિન",
+      "રિવર્સિબલ આઇસોથર્મ્સ",
+      "રિવર્સિબલ ઍડિઆબેટિક્સ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ક્લોસિયસ ઇનઇક્વાલિટી રિવર્સિબિલિટીનો ચોક્કસ માપદંડ પૂરો પાડે છે[cite: 1]."
+  },
+  {
+    "id": 143,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "Gas turbine power plant mainly operates on which ideal cycle?",
+    "gujaratiQuestion": "0143. ગેસ ટર્બાઈન પાવર પ્લાન્ટ (Gas turbine) મુખ્યત્વે કઈ આદર્શ સાયકલ પર કાર્ય કરે છે?",
+    "options": [
+      "રેન્કિન સાયકલ",
+      "બ્રેટન સાયકલ",
+      "ડીઝલ સાયકલ",
+      "કાર્નોટ સાયકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગેસ ટર્બાઇન પ્લાન્ટ બ્રેટન સાયકલ પર કાર્ય કરે છે[cite: 1]."
+  },
+  {
+    "id": 144,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "Which processes are included in a Brayton cycle?",
+    "gujaratiQuestion": "0144. બ્રેટન સાયકલ (Brayton cycle) માં કઈ પ્રોસેસનો સમાવેશ થાય છે?",
+    "options": [
+      "2 આઈસેન્ટ્રોપિક અને 2 કોન્સ્ટન્ટ પ્રેશર",
+      "2 આઈસેન્ટ્રોપિક અને 2 કોન્સ્ટન્ટ વોલ્યુમ",
+      "2 આઇસોથર્મલ અને 2 કોન્સ્ટન્ટ પ્રેશર",
+      "2 આઇસોથર્મલ અને 2 કોન્સ્ટન્ટ વોલ્યુમ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બ્રેટન સાયકલમાં 2 આઈસેન્ટ્રોપિક અને 2 કોન્સ્ટન્ટ પ્રેશર પ્રક્રિયાઓ હોય છે[cite: 1]."
+  },
+  {
+    "id": 145,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "Any thermodynamic process is associated with entropy generation. This is based on:",
+    "gujaratiQuestion": "0145. કોઈપણ થર્મોડાયનેમિક પ્રોસેસ એન્ટ્રોપી જનરેશન (Entropy generation) સાથે સંકળાયેલી હોય છે. આ સ્થિતિ કોના પર આધારિત છે?",
+    "options": [
+      "ફર્સ્ટ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "થર્ડ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "લૉ ઓફ ઇરરિવર્સિબિલિટી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વાસ્તવિક પ્રક્રિયાઓમાં એન્ટ્રોપી જનરેશન સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સ પર આધારિત છે[cite: 1]."
+  },
+  {
+    "id": 146,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "Which four processes are present in an Otto cycle?",
+    "gujaratiQuestion": "0146. ઓટો સાયકલ (Otto cycle) માં કઈ ચાર પ્રોસેસ હોય છે?",
+    "options": [
+      "2 આઈસેન્ટ્રોપિક અને 2 કોન્સ્ટન્ટ પ્રેશર",
+      "2 આઈસેન્ટ્રોપિક અને 2 કોન્સ્ટન્ટ વોલ્યુમ",
+      "2 આઇસોથર્મલ અને 2 કોન્સ્ટન્ટ વોલ્યુમ",
+      "2 આઇસોથર્મલ અને 2 કોન્સ્ટન્ટ પ્રેશર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓટો સાયકલમાં 2 આઈસેન્ટ્રોપિક અને 2 કોન્સ્ટન્ટ વોલ્યુમ પ્રક્રિયાઓ હોય છે[cite: 1]."
+  },
+  {
+    "id": 147,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "In a Diesel cycle, at which process does heat addition occur?",
+    "gujaratiQuestion": "0147. ડીઝલ સાયકલ (Diesel cycle) માં હીટ એડિશન (Heat addition) કઈ પ્રોસેસ પર થાય છે?",
+    "options": [
+      "કોન્સ્ટન્ટ પ્રેશર",
+      "કોન્સ્ટન્ટ વોલ્યુમ",
+      "કોન્સ્ટન્ટ ટેમ્પરેચર",
+      "આઈસેન્ટ્રોપિક"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ડીઝલ સાયકલમાં હીટ એડિશન કોન્સ્ટન્ટ પ્રેશર પર થાય છે[cite: 1]."
+  },
+  {
+    "id": 148,
+    "subject": "Thermodynamics",
+    "subTopic": "Second Law - Heat Engines & COP",
+    "question": "Maximum useful work obtainable in a process as system reaches equilibrium with surroundings is called:",
+    "gujaratiQuestion": "0148. એક પ્રક્રિયામાં મહત્તમ ઉપયોગી કાર્ય (Maximum useful work) જે પ્રાપ્ત કરી શકાય છે, જેમાં સિસ્ટમ આસપાસના વાતાવરણ સાથે સંતુલનમાં આવે છે, તેને શું કહેવાય છે?",
+    "options": [
+      "આપેલ સિસ્ટમની અવેલેબિલિટી",
+      "આપેલ સિસ્ટમની એનર્જી",
+      "આપેલ સિસ્ટમનું મિકેનિકલ વર્ક",
+      "સિસ્ટમની કાઇનેટિક એનર્જી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મહત્તમ પ્રાપ્ય ઉપયોગી કાર્યને અવેલેબિલિટી (Exergy) કહે છે[cite: 1]."
+  },
+  {
+    "id": 149,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "In a Diesel cycle, at which process does heat rejection occur?",
+    "gujaratiQuestion": "0149. ડીઝલ સાયકલ (Diesel cycle) માં હીટ રિજેક્શન (Heat rejection) કઈ પ્રોસેસ પર થાય છે?",
+    "options": [
+      "કોન્સ્ટન્ટ પ્રેશર",
+      "કોન્સ્ટન્ટ વૉલ્યુમ",
+      "કોન્સ્ટન્ટ ટેમ્પરેચર",
+      "આઈસેન્ટ્રોપિક"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડીઝલ સાયકલમાં હીટ રિજેક્શન કોન્સ્ટન્ટ વોલ્યુમ પર થાય છે[cite: 1]."
+  },
+  {
+    "id": 150,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "Which cycle is used in aircraft refrigeration system?",
+    "gujaratiQuestion": "0150. એરક્રાફ્ટ રેફ્રિજરેશન સિસ્ટમ (Aircraft refrigeration system) માં કઈ સાયકલનો ઉપયોગ થાય છે?",
+    "options": [
+      "રેન્કિન સાયકલ",
+      "રિવર્સ્ડ બ્રેટન સાયકલ",
+      "કાર્નોટ સાયકલ",
+      "ઓટો સાયકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એરક્રાફ્ટ રેફ્રિજરેશનમાં રિવર્સ્ડ બ્રેટન (બેલ-કોલમેન) સાયકલ વપરાય છે[cite: 1]."
+  },
+  {
+    "id": 151,
+    "subject": "Thermodynamics",
+    "subTopic": "Properties, Process & State",
+    "question": "In which process is heat absorbed or released by the system equal to zero?",
+    "gujaratiQuestion": "0151. કઈ પ્રક્રિયામાં સિસ્ટમ દ્વારા શોષાયેલી કે મુક્ત થયેલી હીટ શૂન્ય હોય છે?",
+    "options": [
+      "આઈસોબેરિક પ્રોસેસ",
+      "આઇસોથર્મિક પ્રોસેસ",
+      "એડિઆબેટિક પ્રોસેસ",
+      "આઈસોકોરિક પ્રોસેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એડિઆબેટિક પ્રક્રિયામાં સિસ્ટમ દ્વારા શોષાયેલી કે મુક્ત થયેલી હીટ શૂન્ય હોય છે[cite: 1]."
+  },
+  {
+    "id": 152,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "Reversed Brayton cycle is also known by which name?",
+    "gujaratiQuestion": "0152. રિવર્સ્ડ બ્રેટન સાયકલ (Reversed Brayton cycle) ને બીજા કયા નામથી ઓળખવામાં આવે છે?",
+    "options": [
+      "બેલ-કોલમેન સાયકલ",
+      "સ્ટર્લિંગ સાયકલ",
+      "એરિક્સન સાયકલ",
+      "રિવર્સ્ડ રેન્કિન સાયકલ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રિવર્સ્ડ બ્રેટન સાયકલને બેલ-કોલમેન સાયકલ તરીકે પણ ઓળખવામાં આવે છે[cite: 1]."
+  },
+  {
+    "id": 153,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "In Vapour compression refrigeration cycle, which process occurs in expansion valve?",
+    "gujaratiQuestion": "0153. વેપર કમ્પ્રેશન રેફ્રિજરેશન સાયકલ (Vapour compression cycle) માં એક્સપાન્શન વાલ્વ (Expansion valve) માં કઈ પ્રોસેસ થાય છે?",
+    "options": [
+      "આઈસેન્ટ્રોપિક એક્સપાન્શન",
+      "આઈસોથર્મલ એક્સપાન્શન",
+      "આઈસેન્થાલ્પિક એક્સપાન્શન / થ્રોટલિંગ",
+      "આઈસોબેરિક એક્સપાન્શન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એક્સપાન્શન વાલ્વમાં આઈસેન્થાલ્પિક વિસ્તરણ (થ્રોટલિંગ) થાય છે[cite: 1]."
+  },
+  {
+    "id": 154,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "Efficiency of Carnot cycle depends upon:",
+    "gujaratiQuestion": "0154. કાર્નોટ સાયકલ (Carnot cycle) ની એફિશિયન્સી (Efficiency) કોના પર આધાર રાખે છે?",
+    "options": [
+      "વર્કિંગ ફ્લુઇડની પ્રોપર્ટી પર",
+      "ટેમ્પરેચર રેન્જ પર",
+      "એન્જિનની કન્ડિશન પર",
+      "પ્રેશર રેશિયો પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કાર્નોટ કાર્યક્ષમતા માત્ર સોર્સ અને સિંકની ટેમ્પરેચર રેન્જ પર આધાર રાખે છે[cite: 1]."
+  },
+  {
+    "id": 155,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "Carnot engine operates between 227°C and 127°C. If work output is 10^4 J, heat rejected to sink is:",
+    "gujaratiQuestion": "0155. એક કાર્નોટ એન્જિન 227° C અને 127°C તાપમાન વચ્ચે કાર્ય કરે છે. જો એન્જિનનું વર્ક આઉટપુટ 10^4 J હોય, તો સિંકમાં રિજેક્ટ થતી હીટની માત્રા કેટલી હશે?",
+    "options": [
+      "1 × 10^4 J",
+      "2 × 10^4 J",
+      "5 × 10^4 J",
+      "4 × 10^4 J"
+    ],
+    "correctAnswer": 2,
+    "explanation": "TH = 500 K, TL = 400 K. η = 0.2. Q_supplied = 10^4 / 0.2 = 5 × 10^4 J[cite: 1]."
+  },
+  {
+    "id": 156,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "Which 4 processes are in an ideal Carnot cycle?",
+    "gujaratiQuestion": "0156. આદર્શ કાર્નોટ સાયકલ (Carnot cycle) માં કઈ 4 પ્રોસેસ હોય છે?",
+    "options": [
+      "2 આઇસોથર્મલ અને 2 આઈસેન્ટ્રોપિક",
+      "2 આઈસોબેરિક અને 2 આઈસોકોરિક",
+      "2 આઈસોબેરિક અને 2 આઈસેન્ટ્રોપિક",
+      "2 આઇસોથર્મલ અને 2 આઈસોબેરિક"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કાર્નોટ સાયકલમાં 2 આઇસોથર્મલ અને 2 આઈસેન્ટ્રોપિક પ્રક્રિયાઓ હોય છે[cite: 1]."
+  },
+  {
+    "id": 157,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "In which cycle is heat addition partly at constant volume and partly at constant pressure?",
+    "gujaratiQuestion": "0157. નીચેનામાંથી કઈ સાયકલમાં હીટ એડિશન (Heat addition) અંશત: કોન્સ્ટન્ટ વૉલ્યુમ પર અને અંશતઃ કોન્સ્ટન્ટ પ્રેશર પર થાય છે?",
+    "options": [
+      "ઓટો સાયકલ",
+      "ડીઝલ સાયકલ",
+      "ડ્યુઅલ સાયકલ",
+      "બ્રેટન સાયકલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડ્યુઅલ સાયકલમાં હીટ એડિશન અંશતઃ અચળ કદે અને અંશતઃ અચળ દબાણે થાય છે[cite: 1]."
+  },
+  {
+    "id": 158,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "In isothermal condition, heat supplied to ideal gas is used for:",
+    "gujaratiQuestion": "0158. આઈસોથર્મલ સ્થિતિમાં આદર્શ વાયુને આપવામાં આવતી હીટનો ઉપયોગ શેના માટે થાય છે?",
+    "options": [
+      "તાપમાન વધારવા માટે",
+      "બાહ્ય વર્ક કરવા માટે",
+      "તાપમાન વધારવા અને બાહ્ય વર્ક કરવા માટે",
+      "ઇન્ટરનલ એનર્જી વધારવા માટે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આઈસોથર્મલ સ્થિતિમાં ΔU = 0 હોવાથી બધી જ હીટ બાહ્ય વર્ક કરવામાં વપરાય છે[cite: 1]."
+  },
+  {
+    "id": 159,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "Among cycles working between same temperature limits, maximum efficiency is of:",
+    "gujaratiQuestion": "0159. સમાન ટેમ્પરેચર લિમિટ્સ (same temperature limits) વચ્ચે કાર્ય કરતી સાયકલોમાં સૌથી મહત્તમ (maximum) એફિશિયન્સી કઈ સાયકલની હોય છે?",
+    "options": [
+      "રેન્કિન સાયકલ",
+      "બ્રેટન સાયકલ",
+      "કાર્નોટ સાયકલ",
+      "ઓટો સાયકલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સમાન તાપમાન મર્યાદા વચ્ચે કાર્નોટ સાયકલની કાર્યક્ષમતા મહત્તમ હોય છે[cite: 1]."
+  },
+  {
+    "id": 160,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "In Rankine cycle, expansion of steam in turbine is assumed as:",
+    "gujaratiQuestion": "0160. રેન્કિન સાયકલમાં ટર્બાઈનમાં થતું સ્ટીમનું એક્સપાન્શન (Expansion) કઈ પ્રોસેસ તરીકે ધારવામાં આવે છે?",
+    "options": [
+      "આઈસોથર્મલ",
+      "આઈસેન્ટ્રોપિક",
+      "પોલિટ્રોપિક",
+      "હાઈપરબોલિક"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આદર્શ રેન્કિન સાયકલમાં ટર્બાઇન વિસ્તરણ આઈસેન્ટ્રોપિક ધારવામાં આવે છે[cite: 1]."
+  },
+  {
+    "id": 161,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "110 J heat added to gas system with internal energy 40 J. External work done is:",
+    "gujaratiQuestion": "0161. એક વાયુ સિસ્ટમમાં 110 જુલ હીટ ઉમેરવામાં આવે છે, જેની ઈન્ટરનલ એનર્જી 40 J છે. તો બાહ્ય વર્ક ડનની (External work done) માત્રા કેટલી હશે?",
+    "options": [
+      "150 J",
+      "70 J",
+      "110 J",
+      "40 J"
+    ],
+    "correctAnswer": 1,
+    "explanation": "W = Q - ΔU = 110 - 40 = 70 J[cite: 1]."
+  },
+  {
+    "id": 162,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "In a Rankine cycle turbine work is 1000 kJ/kg and pump work is 50 kJ/kg. Work ratio is:",
+    "gujaratiQuestion": "0162. એક રેન્કિન સાયકલમાં ટર્બાઈન દ્વારા થતું વર્ક 1000 kJ/kg છે અને પંપમાં અપાતું વર્ક 50 kJ/kg છે. તો તેનો વર્ક રેશિયો (Work ratio) કેટલો થશે?",
+    "options": [
+      "0.99",
+      "0.97",
+      "0.95",
+      "0.90"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Work ratio = (1000 - 50) / 1000 = 0.95[cite: 1]."
+  },
+  {
+    "id": 163,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "In Otto cycle, heat addition occurs during which process?",
+    "gujaratiQuestion": "0163. ઓટો સાયકલ (Otto cycle) માં હીટ એડિશન (Heat addition) કઈ પ્રોસેસ દરમિયાન થાય છે?",
+    "options": [
+      "કોન્સ્ટન્ટ પ્રેશર",
+      "કોન્સ્ટન્ટ વૉલ્યુમ",
+      "કોન્સ્ટન્ટ ટેમ્પરેચર",
+      "આઈસેન્ટ્રોપિક"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓટો સાયકલમાં હીટ એડિશન કોન્સ્ટન્ટ વોલ્યુમ પર થાય છે[cite: 1]."
+  },
+  {
+    "id": 164,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "To get 70% efficiency in Carnot engine with sink at 27°C, source temperature in K should be:",
+    "gujaratiQuestion": "0164. કાર્નોટ એન્જિનની 70% એફિશિયન્સી મેળવવા માટે જરૂરી સોર્સનું તાપમાન K માં કેટલું હોવું જોઈએ? જો સિંકનું તાપમાન 27°C આપેલું હોય.",
+    "options": [
+      "1000 K",
+      "90 K",
+      "270 K",
+      "727 K"
+    ],
+    "correctAnswer": 0,
+    "explanation": "TL = 300 K. 0.70 = 1 - 300/TH => TH = 300 / 0.3 = 1000 K[cite: 1]."
+  },
+  {
+    "id": 165,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "In ideal Brayton cycle without regeneration, increasing pressure ratio affects efficiency by:",
+    "gujaratiQuestion": "0165. રિજનરેશન (Regeneration) વગરની આદર્શ બ્રેટન સાયકલમાં (Brayton cycle) પ્રેશર રેશિયો વધારવાથી એફિશિયન્સી પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "અનપેક્ષિત રહે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પ્રેશર રેશિયો વધારવાથી બ્રેટન સાયકલની કાર્યક્ષમતા વધે છે[cite: 1]."
+  },
+  {
+    "id": 166,
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "Efficiency of Rankine cycle can be increased by:",
+    "gujaratiQuestion": "0166. રેન્કિન સાયકલની (Rankine cycle) એફિશિયન્સી કઈ રીતે વધારી શકાય છે?",
+    "options": [
+      "બોઈલરનું પ્રેશર ઘટાડીને",
+      "સ્ટીમનું સુપરહીટિંગ ઘટાડીને",
+      "કન્ડેન્સરનું પ્રેશર ઘટાડીને",
+      "ફીડ પંપનું વર્ક વધારીને"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કન્ડેન્સરનું પ્રેશર ઘટાડવાથી એન્થાલ્પી ડ્રોપ વધે છે અને કાર્યક્ષમતા સુધરે છે[cite: 1]."
+  },
+  {
+    "id": 167,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "In Carnot engine, when working substance gives heat to sink:",
+    "gujaratiQuestion": "0167. કાર્નોટ એન્જિનમાં, જ્યારે વર્કિંગ સબસ્ટન્સ સિંકને હીટ આપે છે ત્યારે:",
+    "options": [
+      "સિંકનું તાપમાન વધે છે",
+      "સિંકનું તાપમાન સમાન રહે છે",
+      "સોર્સનું તાપમાન ઘટે છે",
+      "સિંક અને સોર્સ બંનેનું તાપમાન ઘટે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રિઝર્વોયર હોવાથી સિંકનું તાપમાન અચળ (સમાન) રહે છે[cite: 1]."
+  },
+  {
+    "id": 168,
+    "subject": "Thermodynamics",
+    "subTopic": "Second Law - Heat Engines & COP",
+    "question": "Operation of heat pump is based on which cycle?",
+    "gujaratiQuestion": "0168. હીટ પંપ (Heat pump) નું કાર્ય કઈ સાયકલ પર આધારિત છે?",
+    "options": [
+      "ફોરવર્ડ કાર્નોટ સાયકલ",
+      "રિવર્સ્ડ કાર્નોટ સાયકલ",
+      "રેન્કિન સાયકલ",
+      "ડીઝલ સાયકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હીટ પંપ રિવર્સ્ડ કાર્નોટ સાયકલ પર આધારિત છે[cite: 1]."
+  },
+  {
+    "id": 169,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "For highest efficiency, an engine should work on which ideal cycle?",
+    "gujaratiQuestion": "0169. જો કોઈ એન્જિનની એફિશિયન્સી સૌથી વધુ જોઈતી હોય, તો તે કઈ આદર્શ સાયકલ પર કાર્ય કરતું હોવું જોઈએ?",
+    "options": [
+      "બ્રેટન સાયકલ",
+      "રેન્કિન સાયકલ",
+      "કાર્નોટ સાયકલ",
+      "ઓટો સાયકલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મહત્તમ સૈદ્ધાંતિક કાર્યક્ષમતા માટે કાર્નોટ સાયકલ આદર્શ છે[cite: 1]."
+  },
+  {
+    "id": 170,
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "Formula for heat absorbed or rejected during polytropic process is:",
+    "gujaratiQuestion": "0170. પોલિટ્રોપિક પ્રોસેસ દરમિયાન શોષાયેલી કે રિજેક્ટ થયેલી હીટનું સૂત્ર શું છે?",
+    "options": [
+      "((γ - n) / (γ - 1)) × work done",
+      "((γ - n) / (γ - 1))^2 × work done",
+      "((γ - n) / (γ - 1))^(1/2) × work done",
+      "((γ - n) / (γ - 1))^3 × work done"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પોલિટ્રોપિક પ્રોસેસ માટે Q = ((γ - n) / (γ - 1)) × Work done[cite: 1]."
+  },
+  {
+    "id": 171,
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "What is true for Ericsson and Stirling cycles?",
+    "gujaratiQuestion": "0171. એરિક્સન સાયકલ (Ericsson cycle) અને સ્ટર્લિંગ સાયકલ (Stirling cycle) માટે નીચેનામાંથી શું સાચું છે?",
+    "options": [
+      "તે રિવર્સિબલ સાયકલ છે",
+      "તે ઇરરિવર્સિબલ સાયકલ છે",
+      "તે માત્ર આઇસોથર્મલ પ્રોસેસ ધરાવે છે",
+      "તે માત્ર એડિઆબેટિક પ્રોસેસ ધરાવે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "એરિક્સન અને સ્ટર્લિંગ સાયકલ બંને સંપૂર્ણ રિવર્સિબલ સાયકલ છે[cite: 1]."
+  },
+  {
+    "id": 172,
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "For a thermodynamic cycle if ∮ dQ/T = 0, this equation represents which cycle?",
+    "gujaratiQuestion": "0172. થર્મોડાયનેમિક સાયકલ માટે જો ∮ dQ/T = 0 હોય, તો આ સમીકરણ કઈ સાયકલ દર્શાવે છે?",
+    "options": [
+      "ઈરરિવર્સિબલ સાયકલ",
+      "રિવર્સિબલ સાયકલ",
+      "ઈમ્પોસિબલ સાયકલ",
+      "રેન્કિન સાયકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "∮(dQ/T) = 0 રિવર્સિબલ સાયકલ દર્શાવે છે[cite: 1]."
+  },
+  {
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "Why is an ideal regenerative Rankine cycle practically difficult to realize?",
+    "gujaratiQuestion": "Ideal regenerative Rankine cycle practical રીતે શા માટે મુશ્કેલ છે?",
+    "options": [
+      "Reversible heat transfer requires infinite time",
+      "Heat exchange becomes mechanically impossible",
+      "Turbine moisture must always be very high",
+      "All of the above"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Perfectly reversible heat transfer requires an infinitesimal temperature difference and therefore an impractically large area/time.",
+    "id": 173
+  },
+  {
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "Which cycle has constant-volume heat addition and constant-volume heat rejection, with isentropic compression and expansion?",
+    "gujaratiQuestion": "કયા cycleમાં heat addition અને rejection બંને constant volume પર થાય છે અને compression/expansion isentropic છે?",
+    "options": [
+      "Otto cycle",
+      "Diesel cycle",
+      "Dual cycle",
+      "Brayton cycle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. This is the defining ideal Otto-cycle sequence.",
+    "id": 174
+  },
+  {
+    "subject": "Thermodynamics",
+    "subTopic": "Rankine, Brayton & Vapor Compression Cycles",
+    "question": "For the ideal Otto cycle, efficiency is higher than the ideal Diesel cycle at the same compression ratio because heat is added at:",
+    "gujaratiQuestion": "સમાન compression ratio પર Otto cycle ની efficiency Diesel cycle કરતાં વધુ કેમ હોય છે?",
+    "options": [
+      "Constant volume",
+      "Constant pressure",
+      "Higher maximum temperature only",
+      "Lower heat rejection"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Constant-volume heat addition yields the higher ideal efficiency at equal compression ratio.",
+    "id": 175
+  },
+  {
+    "subject": "Thermodynamics",
+    "subTopic": "Second Law - Heat Engines & COP",
+    "question": "The ideal Stirling cycle consists of:",
+    "gujaratiQuestion": "Ideal Stirling cycleમાં કઈ processes હોય છે?",
+    "options": [
+      "Two constant-volume and two isentropic",
+      "Two constant-volume and two isothermal",
+      "Two constant-pressure and two isothermal",
+      "One constant-volume, one constant-pressure and two isentropic"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Stirling cycle consists of two isothermal and two constant-volume regenerative processes.",
+    "id": 176
+  },
+  {
+    "subject": "Thermodynamics",
+    "subTopic": "First Law - Energy & Enthalpy",
+    "question": "For a steady-flow device with negligible KE and PE changes, the specific enthalpy drop of an adiabatic turbine approximately equals the specific work output.",
+    "gujaratiQuestion": "Steady-flow adiabatic turbineમાં KE અને PE negligible હોય તો specific work output કયા જેટલું હોય છે?",
+    "options": [
+      "Enthalpy rise",
+      "Enthalpy drop",
+      "Pressure drop only",
+      "Entropy rise"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: For an adiabatic turbine, w≈h1−h2 when KE/PE changes are negligible.",
+    "id": 177
+  },
+  {
+    "subject": "Thermodynamics",
+    "subTopic": "Pure Substances & Ideal/Real Gases",
+    "question": "For an ideal gas, which relation is correct?",
+    "gujaratiQuestion": "Ideal gas માટે કયું relation સાચું છે?",
+    "options": [
+      "pv=RT",
+      "p/v=RT",
+      "pT=Rv",
+      "pv=R/T"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: The characteristic gas equation is pv=RT on a mass basis.",
+    "id": 178
+  },
+  {
+    "subject": "Thermodynamics",
+    "subTopic": "Entropy & Clausius Inequality",
+    "question": "For a reversible adiabatic process of a simple compressible system, entropy change is:",
+    "gujaratiQuestion": "Reversible adiabatic processમાં entropy change કેટલો હોય છે?",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Infinite"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Expected MCQ: Reversible adiabatic means isentropic.",
+    "id": 179
+  },
+  {
+    "subject": "Thermodynamics",
+    "subTopic": "Carnot Cycle & Reversibility",
+    "question": "The efficiency of a Carnot engine depends only on:",
+    "gujaratiQuestion": "Carnot engineની efficiency કયા પર આધારિત છે?",
+    "options": [
+      "Working-fluid mass",
+      "Source and sink absolute temperatures",
+      "Engine speed",
+      "Cylinder size"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: η=1−TL/TH for the reversible Carnot cycle.",
+    "id": 180
+  }
+]

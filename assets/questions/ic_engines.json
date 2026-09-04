@@ -1,0 +1,3572 @@
+[
+  {
+    "id": 1,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "What is the nature of the air-petrol mixture in the cylinder during the combustion process in an S.I. engine?",
+    "gujaratiQuestion": "01. એસ.આઈ. એન્જિનમાં કમ્બશન પ્રક્રિયા દરમિયાન સિલિન્ડરમાં હવાનું અને પેટ્રોલનું મિશ્રણ કેવું હોય છે?",
+    "options": [
+      "હોમોજીનિયસ",
+      "હિટરોજીનિયસ",
+      "સ્ટ્રેટિફાઇડ",
+      "અસ્થિર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "એસ.આઈ. (પેટ્રોલ) એન્જિનમાં કાર્બ્યુરેટર અથવા ઇન્જેક્શન દ્વારા સિલિન્ડરમાં પ્રવેશતું હવા અને ઇંધણનું મિશ્રણ એકસરખું એટલે કે હોમોજીનિયસ (Homogeneous) હોય છે[cite: 8]."
+  },
+  {
+    "id": 2,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "Which type of mixture combustion is considered in a C.I. engine?",
+    "gujaratiQuestion": "02. સી.આઈ. એન્જિનમાં કમ્બશન કયા પ્રકારનું ગણવામાં આવે છે?",
+    "options": [
+      "હોમોજીનિયસ",
+      "હિટરોજીનિયસ",
+      "આઇસોથર્મલ",
+      "આઈસેન્ટ્રોપિક"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સી.આઈ. (ડીઝલ) એન્જિનમાં સંકુચિત હવામાં ડીઝલનો સ્પ્રે થવાથી સમગ્ર ચેમ્બરમાં મિશ્રણ અસમાન એટલે કે હિટરોજીનિયસ (Heterogeneous) હોય છે[cite: 8]."
+  },
+  {
+    "id": 3,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "What causes knocking in a diesel engine?",
+    "gujaratiQuestion": "Q3. ડીઝલ એન્જિનમાં નોકિંગ શાના કારણે થાય છે?",
+    "options": [
+      "પ્રથમ ભાગના અચાનક અને ઝડપી દહનથી",
+      "અંતિમ ભાગના ઓટો-ઈગ્નિશનથી",
+      "પ્રી-ઇગ્નિશનથી",
+      "ઓછા કમ્પ્રેશન રેશિયોથી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ડીઝલ એન્જિનમાં લાંબા ઇગ્નીશન ડીલેને કારણે એકઠા થયેલા ઇંધણના પ્રથમ ભાગનું એકાએક અને અતિ ઝડપી દહન થવાથી નોકિંગ સર્જાય છે[cite: 8]."
+  },
+  {
+    "id": 4,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "Which of the following types are included in constant choke carburetors?",
+    "gujaratiQuestion": "Q4. કોન્સ્ટન્ટ ચોક કાર્બ્યુરેટરમાં નીચેનામાંથી કયા પ્રકારોનો સમાવેશ થાય છે?",
+    "options": [
+      "સોલેક્સ અને ઝેનિથ કાર્બ્યુરેટર",
+      "SU અને કાર્ટર કાર્બ્યુરેટર",
+      "મલ્ટિપલ વેન્ચ્યુરી કાર્બ્યુરેટર",
+      "મલ્ટિપલ જેટ કાર્બ્યુરેટર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સોલેક્સ (Solex) અને ઝેનિથ (Zenith) કાર્બ્યુરેટર્સ એ ફિક્સ્ડ વેન્ચ્યુરી એરિયા ધરાવતા કોન્સ્ટન્ટ ચોક પ્રકારના કાર્બ્યુરેટર્સ છે[cite: 8]."
+  },
+  {
+    "id": 5,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "What is the primary cause of detonation in a petrol engine?",
+    "gujaratiQuestion": "05. પેટ્રોલ એન્જિનમાં ડિટોનેશનનું મુખ્ય કારણ શું છે?",
+    "options": [
+      "શરૂઆતના ચાર્જનું ઝડપી દહન",
+      "અંતિમ ચાર્જ (End gas) નું સ્વયંસ્ફુરિત દહન",
+      "વધુ પડતું ટર્બ્યુલન્સ",
+      "સ્પાર્ક પ્લગની ખરાબી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પેટ્રોલ એન્જિનમાં ફ્લેમ ફ્રન્ટ પહોંચે તે પહેલાં જ બાકી રહેલા અંતિમ અનબર્ન્ટ ચાર્જ (End gas) ના ઓટો-ઇગ્નિશન થવાથી ડિટોનેશન થાય છે[cite: 8]."
+  },
+  {
+    "id": 6,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "Which of the following is a suitable method to reduce detonation in an S.I. engine?",
+    "gujaratiQuestion": "Q6. એસ.આઈ. એન્જિનમાં ડિટોનેશન ઘટાડવા માટે નીચેનામાંથી કયો ઉપાય યોગ્ય છે?",
+    "options": [
+      "કમ્પ્રેશન રેશિયો વધારવો",
+      "સ્પાર્ક ટાઈમિંગ એડવાન્સ કરવું",
+      "સ્પાર્ક ટાઇમિંગ રિટાર્ડ કરવું",
+      "લીન મિશ્રણનો ઉપયોગ કરવો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્પાર્ક ટાઇમિંગ રિટાર્ડ (Retard) કરવાથી પીક સિલિન્ડર પ્રેશર અને તાપમાન ઘટે છે, જેથી ડિટોનેશન અટકે છે[cite: 8]."
+  },
+  {
+    "id": 7,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "How many main circuits are there in an automobile starting system?",
+    "gujaratiQuestion": "07. સ્ટાર્ટિંગ સિસ્ટમમાં મુખ્યત્વે કેટલી સર્કિટ હોય છે?",
+    "options": [
+      "એક – સ્ટાર્ટર સર્કિટ",
+      "બે – સ્ટાર્ટર સર્કિટ અને કંટ્રોલ સર્કિટ",
+      "ત્રણ – સ્ટાર્ટર, કંટ્રોલ અને ઇગ્નિશન સર્કિટ",
+      "ચાર – સ્ટાર્ટર, કંટ્રોલ, ઇગ્નિશન અને ફયુઅલ સર્કિટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટાર્ટિંગ સિસ્ટમમાં મુખ્ય બે સર્કિટ હોય છે: હેવી કરંટ વહન કરતી સ્ટાર્ટર મોટર સર્કિટ અને સ્વીચિંગ માટેની કંટ્રોલ સર્કિટ[cite: 8]."
+  },
+  {
+    "id": 8,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "Which of the following conditions is required to reduce knocking in a diesel engine?",
+    "gujaratiQuestion": "Q8. ડીઝલ એન્જિનમાં નોક ઘટાડવા માટે નીચેનામાંથી કઈ શરત હોવી જોઈએ?",
+    "options": [
+      "લાંબો ડિલે પિરિયડ",
+      "ટૂંકો ડિલે પિરિયડ",
+      "ઓછો કમ્પ્રેશન રેશિયો",
+      "ઓછું ઇનલેટ તાપમાન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇગ્નિશન ડીલે પિરિયડ ટૂંકો રાખવાથી ચેમ્બરમાં અનિયંત્રિત ઇંધણ જમા થતું નથી અને નોકિંગ ઘટે છે[cite: 8]."
+  },
+  {
+    "id": 9,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "What is it called when the charge ignites due to a hot spot in the combustion chamber before the spark plug fires?",
+    "gujaratiQuestion": "09. સ્પાર્ક પ્લગ દ્વારા ઇગ્નિશન થતા પહેલા જ, કમ્બશન ચેમ્બરની કોઈ ગરમ સપાટી દ્વારા ચાર્જ સળગી ઉઠે તેને શું કહેવાય છે?",
+    "options": [
+      "ડિટોનેશન",
+      "પ્રી-ઈગ્નિશન",
+      "નોકિંગ",
+      "મિસફાયર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્પાર્ક પ્લગ સ્પાર્ક આપે તે પહેલાં જ હોટ સ્પોટ કે કાર્બન ડિપોઝિટના સંપર્કથી ચાર્જ સળગી ઉઠવાની ક્રિયાને પ્રી-ઇગ્નિશન કહે છે[cite: 8]."
+  },
+  {
+    "id": 10,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "In which of the following vehicles is an air cooling system generally used to remove excess heat?",
+    "gujaratiQuestion": "010. વધારાની હીટને દૂર કરવા માટે નીચેનામાંથી કયા વાહનોમાં સામાન્ય રીતે એર કૂલિંગ સિસ્ટમનો ઉપયોગ થાય છે?",
+    "options": [
+      "નાના સ્કૂટર અથવા મોટરસાઈકલ",
+      "મોટા કોમર્શિયલ ટ્રક",
+      "સ્પોર્ટ્સ અને રેસિંગ કાર",
+      "પેસેન્જર વાહનો"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મોટરસાઇકલ અને સ્કૂટર જેવા નાના અને હળવા વાહનોમાં સરળ રચના માટે એર કૂલિંગ (ફિન્સ) વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 11,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "What is the time interval between the start of fuel injection and the actual start of combustion called?",
+    "gujaratiQuestion": "011. ફયુઅલ ઈન્જેક્શનની શરૂઆત અને ખરેખર કમ્બશન શરૂ થાય તે બે વચ્ચેના સમયગાળાને શું કહેવામાં આવે છે?",
+    "options": [
+      "ફ્લેમ પ્રોપેગેશન પિરિયડ",
+      "આફ્ટર બર્નિંગ",
+      "ડિલે પિરિયડ",
+      "કમ્બશન પિરિયડ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇન્જેક્શનની શરૂઆતથી ઇગ્નિશન શરૂ થવા વચ્ચેના સમયગાળાને ઇગ્નિશન લેગ અથવા ડિલે પિરિયડ (Delay period) કહેવાય છે[cite: 8]."
+  },
+  {
+    "id": 12,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "If the compression ratio of an S.I. engine is increased, what is the effect on the possibility of detonation?",
+    "gujaratiQuestion": "012. જો એસ.આઈ. એન્જિનનો કમ્પ્રેશન રેશિયો વધારવામાં આવે, તો ડિટોનેશનની શક્યતા પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "શૂન્ય થાય છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કમ્પ્રેશન રેશિયો વધતાં કમ્પ્રેશનના અંતે તાપમાન અને દબાણ વધે છે, જેથી એન્ડ ગેસ ઝડપથી ઓટો-ઇગ્નાઇટ થઈ ડિટોનેશનની શક્યતા વધારે છે[cite: 8]."
+  },
+  {
+    "id": 13,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "Cetane number of diesel fuel is a measure of:",
+    "gujaratiQuestion": "013. ડીઝલ ફયુઅલનો સિટેન નંબર એ શેનું માપ છે?",
+    "options": [
+      "ફ્યુઅલનો નોકિંગ સામેનો અવરોધ",
+      "ફ્યુઅલની ઓટો-ઈગ્નાઈટ થવાની વૃત્તિ (ઇગ્નિશન ક્વોલિટી)",
+      "ફ્યુઅલની વોલેટિલિટી",
+      "ફ્યુઅલની કેલરીફિક વેલ્યુ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સિટેન નંબર એ ડીઝલ ઇંધણની ઇગ્નિશન ક્વોલિટી અને ઝડપથી ઓટો-ઇગ્નાઇટ થવાની ક્ષમતાનું માપ છે[cite: 8]."
+  },
+  {
+    "id": 14,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "If the compression ratio of a C.I. engine is increased, what is the effect on the tendency to knock?",
+    "gujaratiQuestion": "014. જો સી.આઈ. એન્જિનનો કમ્પ્રેશન રેશિયો વધારવામાં આવે, તો નોકિંગની શક્યતા પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "શરૂઆતમાં વધે પછી ઘટે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સી.આઈ. એન્જિનમાં કમ્પ્રેશન રેશિયો વધતાં તાપમાન વધે છે, જેથી ડિલે પિરિયડ ટૂંકો થાય છે અને નોકિંગ ઘટે છે[cite: 8]."
+  },
+  {
+    "id": 15,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "What is the primary function of a carburetor?",
+    "gujaratiQuestion": "015. કાર્બ્યુરેટરનું પ્રાથમિક કાર્ય શું છે?",
+    "options": [
+      "ઇલેક્ટ્રિક સ્પાર્ક ઉત્પન્ન કરવો",
+      "એક્ઝોસ્ટ વાયુઓને સાફ કરવા",
+      "હવા અને પેટ્રોલનું યોગ્ય પ્રમાણમાં મિશ્રણ તૈયાર કરવું",
+      "ફયુઅલને ઉચ્ચ દબાણે પમ્પ કરવું"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કાર્બ્યુરેટર એન્જિનના વિવિધ લોડ અને સ્પીડ મુજબ હવા અને પેટ્રોલનું સૈદ્ધાંતિક મિશ્રણ તૈયાર કરી સિલિન્ડરમાં સપ્લાય કરે છે[cite: 8]."
+  },
+  {
+    "id": 16,
+    "subject": "I.C. Engines",
+    "subTopic": "Fuel Supply Systems in SI & CI Engines",
+    "question": "In modern fuel injection systems, fuel filters are generally made of:",
+    "gujaratiQuestion": "016. આધુનિક ફ્યુઅલ ઇન્જેક્શન સિસ્ટમમાં ફ્યુઅલ ફિલ્ટર સામાન્ય રીતે શાના બનેલા હોય છે?",
+    "options": [
+      "બરછટ મેટલ મેશ",
+      "કોટન વૂલ",
+      "સિરામિક",
+      "ફાઈન નાયલોન મેશ અથવા પ્લીટેડ પેપર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "અતિ બારીક કચરો રોકવા માટે આધુનિક ફ્યુઅલ ફિલ્ટર્સ પ્લીટેડ પેપર (Pleated paper) અથવા ફાઇન નાયલોન મેશમાંથી બનાવાય છે[cite: 8]."
+  },
+  {
+    "id": 17,
+    "subject": "I.C. Engines",
+    "subTopic": "Fuel Supply Systems in SI & CI Engines",
+    "question": "What is the function of a fuel injector in a C.I. engine?",
+    "gujaratiQuestion": "017. સી.આઈ. એન્જિનમાં ફયુઅલ ઇન્જેક્ટરનું કાર્ય શું છે?",
+    "options": [
+      "ફયુઅલને બાષ્પીભવન કરવું",
+      "ફ્યુઅલનું ઉચ્ચ દબાણે એટોમાઇઝેશન કરીને સ્પ્રે કરવું",
+      "હવા અને ફયુઅલ મિક્સ કરવા",
+      "ઇગ્નિશન માટે સ્પાર્ક આપવો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇન્જેક્ટર ઉચ્ચ દબાણે ડીઝલનું ઝીણા સ્પ્રે (Atomization) સ્વરૂપે કમ્બશન ચેમ્બરમાં વિતરણ કરે છે[cite: 8]."
+  },
+  {
+    "id": 18,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "What is the approximate stoichiometric air-fuel ratio theoretically for a petrol engine?",
+    "gujaratiQuestion": "018. પેટ્રોલ એન્જિન માટે સૈદ્ધાંતિક રીતે સાચો સ્ટોઈકિયોમેટ્રિક એર-ફયુઅલ રેશિયો આશરે કેટલો હોય છે?",
+    "options": [
+      "10:1",
+      "12:1",
+      "15:1",
+      "20:1"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પેટ્રોલના સંપૂર્ણ રાસાયણિક દહન માટે સૈદ્ધાંતિક સ્ટોઇકિયોમેટ્રિક એર-ફ્યુઅલ ગુણોત્તર 14.7:1 (લગભગ 15:1) હોય છે[cite: 8]."
+  },
+  {
+    "id": 19,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "Why is the injector spray directed towards the back of the intake valve in port fuel injection?",
+    "gujaratiQuestion": "Q19. ઈન્જેક્ટર સ્પ્રેને ઇન્ટેક વાલ્વની પાછળની તરફ શા માટે ડિરેક્ટ કરવામાં આવે છે?",
+    "options": [
+      "વાલ્વને લ્યુબ્રિકેટ કરવા",
+      "ફ્યુઅલના ઈવોપરેશનને વધારવા અને વાલ્વને ઠંડો કરવામાં મદદ કરવા",
+      "વાલ્વ કાર્બોનાઇઝેશન અટકાવવા",
+      "અવાજ ઘટાડવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગરમ ઇન્ટેક વાલ્વની પાછળ સ્પ્રે કરવાથી ઇંધણનું ઝડપી બાષ્પીભવન થાય છે અને વાલ્વ ઠંડો રહે છે[cite: 8]."
+  },
+  {
+    "id": 20,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "What enters the cylinder during the suction stroke in a diesel engine?",
+    "gujaratiQuestion": "020. ડીઝલ એન્જિનમાં સક્શન સ્ટ્રોક દરમિયાન સિલિન્ડરમાં શું દાખલ થાય છે?",
+    "options": [
+      "હવા અને ડીઝલનું મિશ્રણ",
+      "માત્ર શુદ્ધ હવા",
+      "માત્ર ડીઝલ",
+      "હવા અને એક્ઝોસ્ટ ગેસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડીઝલ એન્જિનમાં સક્શન સ્ટ્રોક વખતે સિલિન્ડરમાં માત્ર વાતાવરણની શુદ્ધ હવા દાખલ થાય છે[cite: 8]."
+  },
+  {
+    "id": 21,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "What enters the cylinder during the suction stroke in an S.I. engine?",
+    "gujaratiQuestion": "021. એસ.આઈ. એન્જિનમાં સક્શન સ્ટ્રોક દરમિયાન સિલિન્ડરમાં શું દાખલ થાય છે?",
+    "options": [
+      "માત્ર હવા",
+      "માત્ર પેટ્રોલ",
+      "હવા અને પેટ્રોલનું મિશ્રણ",
+      "ડીઝલ અને હવાનું મિશ્રણ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એસ.આઈ. એન્જિનમાં સક્શન દરમિયાન કાર્બ્યુરેટર કે મેનિફોલ્ડમાંથી હવા અને પેટ્રોલનું હોમોજીનિયસ મિશ્રણ દાખલ થાય છે[cite: 8]."
+  },
+  {
+    "id": 22,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "In a two-stroke engine, when is the power stroke produced?",
+    "gujaratiQuestion": "022. ટુ-સ્ટ્રોક એન્જિનમાં, પાવર સ્ટ્રોક ક્યારે મળે છે?",
+    "options": [
+      "ક્રેન્કશાફ્ટના એક રિવોલ્યુશનમાં",
+      "ક્રેન્કશાફ્ટના બે રિવોલ્યુશનમાં",
+      "ક્રેન્કશાફ્ટના ત્રણ રિવોલ્યુશનમાં",
+      "ક્રેન્કશાફ્ટના અડધા રિવોલ્યુશનમાં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ટુ-સ્ટ્રોક એન્જિનમાં પિસ્ટનના દરેક બે સ્ટ્રોકે એટલે કે ક્રેન્કશાફ્ટના દરેક એક ચક્કરે (1 Revolution) એક પાવર સ્ટ્રોક મળે છે[cite: 8]."
+  },
+  {
+    "id": 23,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "The anti-knock quality of petrol fuel is indicated by which number?",
+    "gujaratiQuestion": "023. પેટ્રોલ ફયુઅલની એન્ટી-નોક ગુણવત્તા કયા નંબર દ્વારા દર્શાવવામાં આવે છે?",
+    "options": [
+      "સિટેન નંબર",
+      "ઓક્ટેન નંબર",
+      "મેક નંબર",
+      "રેનોલ્ડ્સ નંબર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પેટ્રોલની નોકિંગ સામે પ્રતિકાર કરવાની ક્ષમતા ઓક્ટેન નંબર (Octane number) વડે દર્શાવાય છે[cite: 8]."
+  },
+  {
+    "id": 24,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "The ignition quality of diesel fuel is measured by which rating?",
+    "gujaratiQuestion": "024. ડીઝલ ફયુઅલની ઇગ્નિશન ક્વોલિટી કયા નંબર દ્વારા માપવામાં આવે છે?",
+    "options": [
+      "ઓક્ટેન નંબર",
+      "કેલરીફિક વેલ્યુ",
+      "સિટેન નંબર",
+      "વિસ્કોસિટી નંબર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડીઝલ ઇંધણની ઇગ્નિશન ઝડપ સિટેન નંબર (Cetane number) વડે માપવામાં આવે છે[cite: 8]."
+  },
+  {
+    "id": 25,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "In an air standard Diesel cycle, heat addition occurs at constant:",
+    "gujaratiQuestion": "025. એર સ્ટાન્ડર્ડ ડીઝલ સાયકલમાં, હીટ એડિશન અચળ _____ પર થાય છે.",
+    "options": [
+      "વોલ્યુમ",
+      "ટેમ્પરેચર",
+      "એન્ટ્રોપી",
+      "પ્રેશર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ડીઝલ સાયકલમાં ઉષ્માનો ઉમેરો અચળ દબાણે (Constant Pressure) થાય છે[cite: 8]."
+  },
+  {
+    "id": 26,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "The process of creating rotational/circular motion in the air inside a C.I. engine cylinder is called:",
+    "gujaratiQuestion": "026. સી.આઈ. એન્જિનમાં હવાને ગોળાકાર ગતિ આપવાની પ્રક્રિયાને શું કહેવામાં આવે છે?",
+    "options": [
+      "સ્કિવેશ",
+      "ક્વેન્ચિંગ",
+      "સ્વર્લ",
+      "ફ્લેમ પ્રોપેગેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સિલિન્ડર અક્ષની આસપાસ હવાની પરિભ્રમણીય ગતિને સ્વર્લ (Swirl) કહે છે, જે હવા-ઇંધણ મિશ્રણ સુધારે છે[cite: 8]."
+  },
+  {
+    "id": 27,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "How many main stages of combustion are there in an S.I. engine?",
+    "gujaratiQuestion": "027. એસ.આઈ. એન્જિનમાં કમ્બશનના મુખ્ય કેટલા તબક્કા હોય છે?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એસ.આઈ. એન્જિન કમ્બશનના 3 તબક્કા છે: 1. ઇગ્નિશન લેગ, 2. ફ્લેમ પ્રોપેગેશન, 3. આફ્ટર બર્નિંગ[cite: 8]."
+  },
+  {
+    "id": 28,
+    "subject": "I.C. Engines",
+    "subTopic": "Common Rail Direct Injection (CRDI)",
+    "question": "Which statement is true regarding a Common Rail Diesel Injection system?",
+    "gujaratiQuestion": "028. કોમન રેલ સિસ્ટમ વિશે કયું વિધાન સાચું છે?",
+    "options": [
+      "દરેક ઈન્જેક્ટર પાસે તેનો પોતાનો અલગ ફયુઅલ પંપ હોય છે.",
+      "હાઇ-પ્રેશર પંપ કોમન હેડરને ફયુઅલ સપ્લાય કરે છે.",
+      "એક્ઝોસ્ટ વાલ્વ ખુલ્લો હોય ત્યારે જ ફયુઅલ ઇન્જેક્ટ થાય છે.",
+      "ફ્યુઅલ લો પ્રેશર પર સપ્લાય થાય છે અને ઈન્જેક્ટર દ્વારા બુસ્ટ થાય છે."
+    ],
+    "correctAnswer": 1,
+    "explanation": "CRDI માં એક હાઇ પ્રેશર પંપ કોમન રેલ (હેડર) માં સતત ઉચ્ચ દબાણે ઇંધણ સંગ્રહે છે, જ્યાંથી ઇલેક્ટ્રોનિક ઇન્જેક્ટર્સ દ્વારા સ્પ્રે થાય છે[cite: 8]."
+  },
+  {
+    "id": 29,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "How many total stages of combustion are there in a diesel engine?",
+    "gujaratiQuestion": "029. ડીઝલ એન્જિનમાં કમ્બશન પ્રક્રિયાના કુલ કેટલા તબક્કા હોય છે?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડીઝલ કમ્બશનના 4 તબક્કા છે: 1. ઇગ્નિશન ડિલે, 2. અનકંટ્રોલ્ડ કમ્બશન, 3. કંટ્રોલ્ડ કમ્બશન, 4. આફ્ટર બર્નિંગ[cite: 8]."
+  },
+  {
+    "id": 30,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "What is required to increase flame propagation speed in an S.I. engine?",
+    "gujaratiQuestion": "030. એસ.આઈ. એન્જિનમાં ફ્લેમ પ્રોપેગેશનની ઝડપ વધારવા માટે નીચેનામાંથી શું જરૂરી છે?",
+    "options": [
+      "નીચું તાપમાન",
+      "ટર્બ્યુલન્સ",
+      "લીન મિશ્રણ",
+      "રિચ મિશ્રણ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કમ્બશન ચેમ્બરમાં યોગ્ય ટર્બ્યુલન્સ (વમળ) હોવાથી ફ્લેમ ફ્રન્ટ ઝડપથી ફેલાય છે અને કમ્બશન ઝડપી બને છે[cite: 8]."
+  },
+  {
+    "id": 31,
+    "subject": "I.C. Engines",
+    "subTopic": "Heavy Earth Movers & Construction Equipment",
+    "question": "What is the main difference between a dumper and a dump truck?",
+    "gujaratiQuestion": "031. ડમ્પર અને ડમ્પ ટ્રક વચ્ચે મુખ્ય તફાવત શું છે?",
+    "options": [
+      "ડમ્પરનો વ્હીલબેઝ ટૂંકો હોય છે અને તેનો ઉપયોગ ઓફ-રોડ થાય છે.",
+      "ડમ્પર માત્ર બાજુની તરફ જ નમી શકે છે.",
+      "ડમ્પર જથ્થાબંધ મટિરિયલ લઇ જઇ શકતા નથી.",
+      "ડમ્પરનો ઉપયોગ લિક્વિડ ટ્રાન્સપોર્ટ માટે થાય છે."
+    ],
+    "correctAnswer": 0,
+    "explanation": "ડમ્પર ટૂંકો વ્હીલબેઝ ધરાવે છે અને કઠણ કન્સ્ટ્રક્શન સાઇટ્સ પર ઓફ-રોડ સામગ્રી વહન કરવા માટે ઉપયોગી છે[cite: 8]."
+  },
+  {
+    "id": 32,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "Due to detonation, which parameter increases suddenly and extremely in the engine cylinder?",
+    "gujaratiQuestion": "032. ડિટોનેશનના કારણે એન્જિનના સિલિન્ડરમાં કયા પરિમાણમાં અચાનક અને ખૂબ ઊંચો વધારો થાય છે?",
+    "options": [
+      "દબાણ વધવાના દરમાં (Rate of pressure rise)",
+      "એન્જિન સ્પીડમાં",
+      "ફ્યુઅલ વપરાશમાં",
+      "ટોર્કમાં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ડિટોનેશન દરમિયાન તીવ્ર શોક વેવ્સ ઉત્પન્ન થતાં દબાણ વધવાનો દર (dp/dθ) અતિશય વધી જાય છે[cite: 8]."
+  },
+  {
+    "id": 33,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "What is the effect of increasing S.I. engine speed on the possibility of detonation?",
+    "gujaratiQuestion": "033. એસ.આઈ. એન્જિનની ઝડપ વધારવાથી ડિટોનેશનની શક્યતા પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "કોઈ અસર થતી નથી",
+      "બમણી થાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્પીડ વધતાં ટર્બ્યુલન્સ વધે છે અને ફ્લેમ પ્રોપેગેશન ઝડપી બનવાથી એન્ડ ગેસને ઓટો-ઇગ્નાઇટ થવાનો સમય મળતો નથી, જેથી ડિટોનેશન ઘટે છે[cite: 8]."
+  },
+  {
+    "id": 34,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "What is the effect of increasing C.I. engine speed on the tendency to knock?",
+    "gujaratiQuestion": "034. સી.આઈ. એન્જિનની ઝડપ વધારવાથી નોકિંગની શક્યતા પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "કોઈ અસર થતી નથી",
+      "શૂન્ય થાય છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સી.આઈ. એન્જિનમાં સ્પીડ વધારવાથી ક્રેન્ક એંગલ ડિગ્રીના સંદર્ભમાં ઇગ્નિશન ડિલે વધે છે, જેથી નોકિંગની શક્યતા વધે છે[cite: 8]."
+  },
+  {
+    "id": 35,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "A turbocharged 4-stroke direct injection diesel engine has displacement volume 0.0259 m³ (25.9 L). It delivers 950 kW at 2200 rpm. Its Mean Effective Pressure (in MPa) is closest to:",
+    "gujaratiQuestion": "035. એક ટર્બો ચાર્જ્ડ ફોર સ્ટ્રોક ડાયરેક્ટ ઈન્જેક્શન ડીઝલ એન્જિનનું ડિસ્પ્લેસમેન્ટ વોલ્યુમ 0.0259 m³ (25.9 લીટર) છે. આ એન્જિન 2200 rpm પર 950 kW આઉટપુટ આપે છે. તેનું મીન ઈફેક્ટિવ પ્રેશર (MPa માં) કોની સૌથી નજીક છે?",
+    "options": [
+      "2",
+      "1",
+      "0.2",
+      "0.1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Power P = (pm · Vs · N) / (60 × 2) => 950 × 10³ = (pm × 0.0259 × 2200) / 120 => pm ≈ 2.0 × 10^6 Pa = 2.0 MPa[cite: 8]."
+  },
+  {
+    "id": 36,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "What is the main advantage of an Open Combustion Chamber in C.I. engines?",
+    "gujaratiQuestion": "036. ઓપન કમ્બશન ચેમ્બરનો મુખ્ય ફાયદો શું છે?",
+    "options": [
+      "ઓછી થર્મલ એફિશિયન્સી",
+      "ઉચ્ચ થર્મલ એફિશિયન્સી અને સરળ કોલ્ડ સ્ટાર્ટિંગ",
+      "ધીમું કમ્બશન",
+      "કોમ્પ્લેક્સ ડિઝાઈન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓપન ચેમ્બરમાં ઓછી હીટ લોસ થતી હોવાથી ઊંચી થર્મલ કાર્યક્ષમતા અને સરળ કોલ્ડ સ્ટાર્ટિંગ મળે છે[cite: 8]."
+  },
+  {
+    "id": 37,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "Pre-combustion chamber design is mainly used in which type of engines?",
+    "gujaratiQuestion": "037. પ્રી-કમ્બશન ચેમ્બર ડિઝાઈનનો ઉપયોગ મુખ્યત્વે કયા પ્રકારના ઍન્જિનમાં થાય છે?",
+    "options": [
+      "પેટ્રોલ એન્જિન",
+      "ગેસ ટર્બાઈન",
+      "સી.આઈ. એન્જિન",
+      "સ્ટીમ એન્જિન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇનડાયરેક્ટ ઇન્જેક્શન ધરાવતા સી.આઈ. (ડીઝલ) એન્જિનોમાં પ્રી-કમ્બશન ચેમ્બર વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 38,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "For the same compression ratio and heat input, why is Otto cycle efficiency higher than Diesel cycle efficiency?",
+    "gujaratiQuestion": "038. સમાન કમ્પ્રેશન રેશિયો અને હીટ ઈનપુટ માટે ઓટો સાયકલની ઍફિશિયન્સી ડીઝલ સાયકલની એફિશિયન્સી કરતા વધારે હોય છે કારણ કે ઓટો સાયકલમાં:",
+    "options": [
+      "કમ્બશન કોન્સ્ટન્ટ વોલ્યુમ પર થાય છે",
+      "એક્સપાન્શન અને કમ્પ્રેશન આઈસેન્ટ્રોપિક હોય છે",
+      "મહત્તમ ટેમ્પરેચર વધારે હોય છે",
+      "હીટ રિજેક્શન ઓછું હોય છે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સમાન કમ્પ્રેશન રેશિયો પર ઓટો સાયકલમાં કોન્સ્ટન્ટ વોલ્યુમ હીટ એડિશન થવાથી હીટ રિજેક્શન ઓછું થાય છે[cite: 8]."
+  },
+  {
+    "id": 39,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "If the air-petrol mixture is leaner than 20:1, what will be the effect on the engine?",
+    "gujaratiQuestion": "039. જો હવા અને પેટ્રોલનું મિશ્રણ 20:1 કરતા વધારે પાતળું હોય, તો એન્જિન પર શું અસર થાય?",
+    "options": [
+      "વધુ પાવર આપશે",
+      "સરળતાથી સ્ટાર્ટ થશે",
+      "કામ કરી શકશે નહીં (મિસફાયર થશે)",
+      "ઓછો ધુમાડો આપશે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "20:1 કરતાં વધુ લીન મિશ્રણ ફ્લેમેબિલિટી લિમિટની બહાર જતું રહેવાથી સ્પાર્ક દ્વારા સળગી શકતું નથી[cite: 8]."
+  },
+  {
+    "id": 40,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "What type of mixture is required during idling or low speed operation in a petrol engine?",
+    "gujaratiQuestion": "040. પેટ્રોલ એન્જિનમાં આઈડલિંગ અથવા લો સ્પીડ ઓપરેશન દરમિયાન કેવા મિશ્રણની જરૂર પડે છે?",
+    "options": [
+      "લીન મિશ્રણ",
+      "સૈદ્ધાંતિક મિશ્રણ",
+      "રિચ મિશ્રણ",
+      "કોઈ પણ મિશ્રણ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આઇડલિંગ વખતે એક્ઝોસ્ટ ગેસ ડાઇલ્યુશન સરભર કરવા માટે રિચ મિશ્રણ (લગભગ 12:1) ની જરૂર પડે છે[cite: 8]."
+  },
+  {
+    "id": 41,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "An IC engine has bore and stroke both equal to 2 units. What is the surface area for heat loss calculation?",
+    "gujaratiQuestion": "041. એક IC ઍન્જિનનો બોર અને સ્ટ્રોક બંને 2 યુનિટ છે. હીટ લોસની ગણતરી કરવા માટે કયો એરિયા લઈ શકાય?",
+    "options": [
+      "4π",
+      "5π",
+      "6π",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સિલિન્ડ્રિકલ સરફેસ એરિયા = π · D · L = π × 2 × 2 = 4π[cite: 8]."
+  },
+  {
+    "id": 42,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "What kind of mixture is supplied for fuel economy during cruising in a petrol engine?",
+    "gujaratiQuestion": "042. પેટ્રોલ એન્જિનમાં ક્રુઝિંગ દરમિયાન ફયુઅલ ઈકોનોમી માટે કેવું મિશ્રણ સપ્લાય કરવામાં આવે છે?",
+    "options": [
+      "રિચ મિશ્રણ",
+      "લીન મિશ્રણ",
+      "અત્યંત રિચ મિશ્રણ",
+      "10:1 રેશિયો વાળું મિશ્રણ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ક્રૂઝિંગ (મીડિયમ લોડ) દરમિયાન મહત્તમ ઇંધણ કાર્યક્ષમતા મેળવવા લીન મિશ્રણ (લગભગ 16:1) પૂરું પડાય છે[cite: 8]."
+  },
+  {
+    "id": 43,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "What type of mixture is required during cold starting of an engine in winter?",
+    "gujaratiQuestion": "043. શિયાળામાં એન્જિનને કોલ્ડ સ્ટાર્ટ કરતી વખતે કેવા મિશ્રણની જરૂર પડે છે?",
+    "options": [
+      "લીન મિશ્રણ",
+      "રિચ મિશ્રણ",
+      "સામાન્ય મિશ્રણ",
+      "20:1 મિશ્રણ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઠંડીમાં પેટ્રોલનું બાષ્પીભવન ઓછું થતું હોવાથી દહનક્ષમ મિશ્રણ મેળવવા અત્યંત રિચ મિશ્રણ (લગભગ 3:1 થી 5:1) જરૂરી બને છે[cite: 8]."
+  },
+  {
+    "id": 44,
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "On a beam axle, around what does the stub axle pivot?",
+    "gujaratiQuestion": "Q44. બીમ એક્સલ પર સ્ટબ એક્સલ કોની આસપાસ પિવોટ (ફરે) થાય છે?",
+    "options": [
+      "કિંગ પિન",
+      "બોલ જોઇન્ટ",
+      "ટ્રેક રોડ",
+      "ટ્રેક આર્મ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્ટિયરિંગ માટે સ્ટબ એક્સલ મુખ્ય બીમ એક્સલ સાથે કિંગ પિન (Kingpin) દ્વારા પિવોટ થાય છે[cite: 8]."
+  },
+  {
+    "id": 45,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "Which provision is provided in a carburetor to supply rich mixture during cold starting?",
+    "gujaratiQuestion": "045. કોલ્ડ સ્ટાટિંગ વખતે રિચ મિશ્રણ પૂરું પાડવા માટે કાર્બ્યુરેટરમાં કઈ વ્યવસ્થા હોય છે?",
+    "options": [
+      "થ્રોટલ વાલ્વ",
+      "ચોક વાલ્વ",
+      "ફ્લોટ",
+      "મીટરિંગ જેટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ચોક વાલ્વ એર ઇનલેટને બંધ કરીને વેન્ચ્યુરી આગળ મોટું વેક્યુમ રચી વધુ પેટ્રોલ ખેંચી રિચ મિશ્રણ આપે છે[cite: 8]."
+  },
+  {
+    "id": 46,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "Which component maintains a constant fuel level in the carburetor?",
+    "gujaratiQuestion": "Q46. કાર્બ્યુરેટરમાં ફયુઅલનું અચળ લેવલ જાળવી રાખવાનું કાર્ય કયો ભાગ કરે છે?",
+    "options": [
+      "વેન્ચ્યુરી",
+      "ચોક વાલ્વ",
+      "ફ્લોટ ચેમ્બર",
+      "આઈડલિંગ જેટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફ્લોટ ચેમ્બર અને નીડલ વાલ્વ કાર્બ્યુરેટર જેટ આગળ પેટ્રોલનું સ્તર અચળ જાળવી રાખે છે[cite: 8]."
+  },
+  {
+    "id": 47,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "Crankshaft main-bearing journals are inspected for:",
+    "gujaratiQuestion": "Q47. ક્રેન્ક શાફ્ટ મેઈન-બેરિંગ જર્નલને શેના માટે ચેક કરવામાં આવે છે?",
+    "options": [
+      "બેન્ડ અને સ્ટ્રેચ",
+      "ટેપર, રિજિસ અને આઉટ-ઓફ-રાઉન્ડ",
+      "સ્પોટ્સ અને કલર",
+      "ઉપરના તમામ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ક્રેન્કશાફ્ટ જર્નલનો અસમાન ઘસારો ચકાસવા માટે ટેપર, રીજિસ અને આઉટ-ઓફ-રાઉન્ડનેસ (અંડાકારતા) ચેક કરાય છે[cite: 8]."
+  },
+  {
+    "id": 48,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "Which component in a carburetor increases air velocity and decreases pressure?",
+    "gujaratiQuestion": "048. કાર્બ્યુરેટરમાં હવાનો વેગ વધારવા અને દબાણ ઘટાડવા માટે કયો ભાગ હોય છે?",
+    "options": [
+      "વેન્ચ્યુરી",
+      "થ્રોટલ વાલ્વ",
+      "ફ્લોટ",
+      "એક્સિલરેટિંગ પંપ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વેન્ચ્યુરી (કન્વર્જિંગ-ડાઇવર્જિંગ પેસેજ) હવાનો વેગ વધારીને બર્નોલીના સિદ્ધાંત મુજબ દબાણ ઘટાડે છે[cite: 8]."
+  },
+  {
+    "id": 49,
+    "subject": "I.C. Engines",
+    "subTopic": "Fuel Supply Systems in SI & CI Engines",
+    "question": "What is the system called where an individual fuel pump is provided for each cylinder in a diesel engine?",
+    "gujaratiQuestion": "Q49. ડીઝલ એન્જિનમાં દરેક સિલિન્ડર માટે અલગ ફયુઅલ પંપ હોય, તે સિસ્ટમને શું કહેવામાં આવે છે?",
+    "options": [
+      "કોમન રેલ સિસ્ટમ",
+      "ઇન્ડિવિજ્યુઅલ પંપ સિસ્ટમ",
+      "ડિસ્ટ્રિબ્યુટર સિસ્ટમ",
+      "કાર્બ્યુરેટર સિસ્ટમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "દરેક સિલિન્ડર માટે સ્વતંત્ર પમ્પિંગ એલિમેન્ટ ધરાવતી સિસ્ટમને ઇન્ડિવિજ્યુઅલ પંપ સિસ્ટમ કહે છે[cite: 8]."
+  },
+  {
+    "id": 50,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "When does the vacuum advance mechanism operate in an ignition system?",
+    "gujaratiQuestion": "050. વેક્યુમ એડવાન્સ મિકેનિઝમ ક્યારે ઓપરેટ થાય છે?",
+    "options": [
+      "લાઈટ એન્જિન લોડ (પાર્ટ લોડ) પર",
+      "હેવી એન્જિન લોડ પર",
+      "હાઈ એન્જિન સ્પીડ પર",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પાર્ટ લોડ (લાઇટ લોડ) પર મેનિફોલ્ડ વેક્યુમ ઊંચું હોય ત્યારે મિશ્રણ ધીમે સળગતું હોવાથી વેક્યુમ એડવાન્સ મિકેનિઝમ સ્પાર્ક ટાઇમિંગ એડવાન્સ કરે છે[cite: 8]."
+  },
+  {
+    "id": 51,
+    "subject": "I.C. Engines",
+    "subTopic": "Fuel Supply Systems in SI & CI Engines",
+    "question": "What is the process of breaking up liquid fuel under pressure into fine droplets called?",
+    "gujaratiQuestion": "051. ફયુઅલને દબાણપૂર્વક નાના ટીપાંઓમાં વિભાજિત કરવાની પ્રક્રિયાને શું કહે છે?",
+    "options": [
+      "વેપોરાઈઝેશન",
+      "કાર્બ્યુરેશન",
+      "એટોમાઈઝેશન",
+      "ઈગ્નિશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રવાહી ઇંધણને નોઝલ દ્વારા અતિ બારીક ટીપાંમાં ફેરવવાની ક્રિયાને એટોમાઇઝેશન (Atomization) કહે છે[cite: 8]."
+  },
+  {
+    "id": 52,
+    "subject": "I.C. Engines",
+    "subTopic": "Fuel Supply Systems in SI & CI Engines",
+    "question": "What does solid injection mean in I.C. engines?",
+    "gujaratiQuestion": "Q52. આઈ.સી. એન્જિનમાં સોલિડ ઇન્જેક્શન એટલે શું?",
+    "options": [
+      "માત્ર હવા અને લિક્વિડ ફયુઅલનું ઇન્જેક્શન",
+      "માત્ર લિક્વિડ ફયુઅલનું ઇન્જેક્શન",
+      "સોલિડ ફ્યુઅલનું ઇન્જેક્શન",
+      "સોલિડ અને હવાનું મિશ્રણ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હવાના ઉપયોગ વગર માત્ર હાઇ પ્રેશર લિક્વિડ ફ્યુઅલને ડાયરેક્ટ ઇન્જેક્ટ કરવાની પદ્ધતિને સોલિડ (અથવા એરલેસ) ઇન્જેક્શન કહે છે[cite: 8]."
+  },
+  {
+    "id": 53,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "For the same maximum pressure and heat supply, which cycle has the maximum efficiency?",
+    "gujaratiQuestion": "053. સમાન મેક્સિમમ પ્રેશર અને હીટ સપ્લાય માટે, કોની એફિશિયન્સી મહત્તમ હોય છે?",
+    "options": [
+      "ઓટો સાયકલ",
+      "ડીઝલ સાયકલ",
+      "ડ્યુઅલ સાયકલ",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સમાન મહત્તમ દબાણ અને સમાન હીટ ઇનપુટ માટે ડીઝલ સાયકલનો કમ્પ્રેશન રેશિયો વધુ મળતો હોવાથી તેની કાર્યક્ષમતા મહત્તમ હોય છે[cite: 8]."
+  },
+  {
+    "id": 54,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "If knocking occurs in a C.I. engine, the inlet air temperature should be:",
+    "gujaratiQuestion": "054. સી.આઈ. એન્જિનમાં જો નોકિંગ થતું હોય, તો ઈનલેટ હવાનું તાપમાન:",
+    "options": [
+      "વધારવું જોઇએ",
+      "ઘટાડવું જોઇએ",
+      "શૂન્ય કરવું જોઈએ",
+      "અચળ રાખવું જોઈએ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇનલેટ હવાનું તાપમાન વધારવાથી કમ્પ્રેશન તાપમાન વધે છે, જેથી ઇગ્નિશન ડિલે ઘટીને નોકિંગ અટકે છે[cite: 8]."
+  },
+  {
+    "id": 55,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "Who controls the quantity of mixture entering the engine cylinder in a carburetor?",
+    "gujaratiQuestion": "055. કાર્બ્યુરેટરમાં એન્જિનના સિલિન્ડરમાં જતા મિશ્રણના જથ્થાને કોણ નિયંત્રિત કરે છે?",
+    "options": [
+      "ચોક વાલ્વ",
+      "થ્રોટલ વાલ્વ",
+      "ફ્લોટ પિન",
+      "વેન્ચ્યુરી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "થ્રોટલ વાલ્વ (Throttle valve) એન્જિન સિલિન્ડરમાં પ્રવેશતા એર-ફ્યુઅલ મિશ્રણનો જથ્થો નિયંત્રિત કરી પાવર અને સ્પીડ કંટ્રોલ કરે છે[cite: 8]."
+  },
+  {
+    "id": 56,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "What is the mixture requirement of an S.I. engine during normal running conditions on road?",
+    "gujaratiQuestion": "Q56. રોડ પર નોર્મલ રનિંગ સ્થિતિમાં S.I. એન્જિનની મિક્સચર-જરૂરિયાત શું હોય છે?",
+    "options": [
+      "સ્ટોઈકિયોમેટ્રિક મિક્સચર",
+      "રિચ મિક્સચર",
+      "લીન મિક્સચર",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સામાન્ય નોર્મલ રનિંગ સ્થિતિમાં ઇંધણ બચાવવા માટે એન્જિન લીન મિક્સચર (લગભગ 16:1) પર ચાલે છે[cite: 8]."
+  },
+  {
+    "id": 57,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "Which component provides extra fuel during acceleration in a petrol engine carburetor?",
+    "gujaratiQuestion": "057. પેટ્રોલ એન્જિનમાં એક્સિલરેશન દરમિયાન વધારાનું ફયુઅલ કોણ આપે છે?",
+    "options": [
+      "ચોક વાલ્વ",
+      "એક્સિલરેટિંગ પંપ",
+      "આઈડલિંગ જેટ",
+      "ફ્લોટ ચેમ્બર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઝડપી એક્સિલરેશન વખતે થતા પાવર લેગને રોકવા એક્સિલરેટિંગ પંપ સર્કિટ વધારાનું પેટ્રોલ સપ્લાય કરે છે[cite: 8]."
+  },
+  {
+    "id": 58,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "When does fuel injection start in a diesel engine?",
+    "gujaratiQuestion": "Q58. ડીઝલ એન્જિનમાં ફયુઅલ ઈન્જેક્શન ક્યારે શરૂ થાય છે?",
+    "options": [
+      "સક્શન સ્ટ્રોકની શરૂઆતમાં",
+      "કમ્પ્રેશન સ્ટ્રોકના અંત પહેલાં",
+      "પાવર સ્ટ્રોકના અંતે",
+      "એક્ઝોસ્ટ સ્ટ્રોકમાં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કમ્પ્રેશન સ્ટ્રોક પૂરો થાય તે પહેલાં (TDC પહેલાં અમુક ડિગ્રી અગાઉ) ફ્યુઅલ ઇન્જેક્શન શરૂ થાય છે[cite: 8]."
+  },
+  {
+    "id": 59,
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "What is the meaning of 'reinstall'?",
+    "gujaratiQuestion": "059. રિ-ઈન્સ્ટોલ (reinstall) નો અર્થ શું છે?",
+    "options": [
+      "ડિસ-એસેમ્બલ કરેલા પાર્ટને રિપેર કરવો",
+      "જે પાર્ટ દૂર કર્યો હોય તેને પાછો લગાવવો",
+      "કમ્પોનન્ટને રિ-એસેમ્બલ કરવો",
+      "પાર્ટને દૂર કરવો અને રિપ્લેસ કરવો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રિ-ઇન્સ્ટોલ એટલે અગાઉ દૂર કરેલા પાર્ટ કે કમ્પોનન્ટને ફરીથી તેના મૂળ સ્થાને ફીટ કરવો[cite: 8]."
+  },
+  {
+    "id": 60,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "The property of petrol to evaporate quickly is called:",
+    "gujaratiQuestion": "060. પેટ્રોલની ઝડપથી બાષ્પીભવન થવાની ક્ષમતાને શું કહે છે?",
+    "options": [
+      "વિસ્કોસિટી",
+      "ડેન્સિટી",
+      "વોલેટિલિટી",
+      "ઓક્ટેન રેટિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇંધણની ઝડપથી વરાળ બની જવાની વૃત્તિ/ક્ષમતાને વોલેટિલિટી (Volatility) કહેવામાં આવે છે[cite: 8]."
+  },
+  {
+    "id": 61,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "What is the relation between auto-ignition temperature of fuel and detonation in S.I. engines?",
+    "gujaratiQuestion": "061. એસ.આઈ. એન્જિનમાં ફયુઅલના ઓટો-ઈગ્નિશન તાપમાન અને ડિટોનેશન વચ્ચે શું સંબંધ છે?",
+    "options": [
+      "ઓટો-ઈગ્નિશન તાપમાન ઊંચું હોય તો ડિટોનેશન ઓછું થાય",
+      "ઓટો-ઈગ્નિશન તાપમાન ઊંચું હોય તો ડિટોનેશન વધુ થાય",
+      "કોઈ સંબંધ નથી",
+      "બંને સમાન રહે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇંધણનું ઓટો-ઇગ્નિશન તાપમાન જેટલું ઊંચું હશે તેટલું એન્ડ ગેસનું સ્વયંસ્ફુરિત દહન મુશ્કેલ બનશે અને ડિટોનેશન ઓછું થશે[cite: 8]."
+  },
+  {
+    "id": 62,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "In a starter motor, the stationary magnetic field is produced by:",
+    "gujaratiQuestion": "Q62. સ્ટાર્ટિંગ મોટરમાં સ્ટેશનરી મેગ્નેટિક ફિલ્ડ કોના દ્વારા ઉત્પન્ન થાય છે?",
+    "options": [
+      "ફિલ્ડ વાઇન્ડિંગ્સ અથવા પરમેનન્ટ મેગ્નેટ્સ",
+      "બ્રશીસ અને કોમ્યુટેટર",
+      "આર્મેચર વાઇન્ડિંગ્સ અને કોમ્યુટેટર બાર્સ",
+      "રિલે અથવા સોલેનોઇડ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DC સ્ટાર્ટર મોટરના સ્ટેટરમાં સ્થિર ચુંબકીય ક્ષેત્ર પોલ શૂઝ પરની ફિલ્ડ કોઈલ્સ અથવા પરમેનન્ટ મેગ્નેટ દ્વારા સર્જાય છે[cite: 8]."
+  },
+  {
+    "id": 63,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "What can occur in an engine due to pre-ignition?",
+    "gujaratiQuestion": "063. પ્રી-ઇગ્નિશનના કારણે એન્જિનમાં શું થઈ શકે છે?",
+    "options": [
+      "એન્જિનની એફિશિયન્સી વધે",
+      "ઓવરહિટીંગ અને પાવર લોસ",
+      "પિસ્ટન ઠંડો પડે",
+      "ફયુઅલ વપરાશ ઘટે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રી-ઇગ્નિશન કમ્પ્રેશન સ્ટ્રોક સામે ઊંચું દબાણ પેદા કરે છે, જેનાથી અતિશય ગરમી (Overheating), પાવર લોસ અને પિસ્ટનને નુકસાન થાય છે[cite: 8]."
+  },
+  {
+    "id": 64,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "Where should the ideal location of a spark plug be in an S.I. engine combustion chamber?",
+    "gujaratiQuestion": "064. એસ.આઈ. એન્જિનના કમ્બશન ચેમ્બરમાં સ્પાર્ક પ્લગનું શ્રેષ્ઠ સ્થાન ક્યાં હોવું જોઈએ?",
+    "options": [
+      "સિલિન્ડરની દીવાલ પાસે",
+      "એક્ઝોસ્ટ વાલ્વની ઉપર",
+      "મધ્યમાં (Central position)",
+      "પિસ્ટનની નીચે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્પાર્ક પ્લગ મધ્યમાં હોવાથી ફ્લેમ ટ્રાવેલ ડિસ્ટન્સ લઘુત્તમ બને છે અને ડિટોનેશનની શક્યતા ઘટે છે[cite: 8]."
+  },
+  {
+    "id": 65,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "What is the inward motion of air generated as the piston approaches TDC called?",
+    "gujaratiQuestion": "065. કમ્બશન ચેમ્બરમાં પિસ્ટન જ્યારે TDC તરફ જાય છે ત્યારે હવાની જે અંદર તરફની ગતિ ઉત્પન્ન થાય છે તેને શું કહે છે?",
+    "options": [
+      "સ્કિવેશ",
+      "સ્વર્લ",
+      "નોક",
+      "મિસફાયર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પિસ્ટન ક્રાઉન અને સિલિન્ડર હેડ વચ્ચેની સાંકડી જગ્યામાંથી હવા ઝડપથી સેન્ટર તરફ ધકેલાય તેને સ્કિવેશ (Squish) કહેવાય છે[cite: 8]."
+  },
+  {
+    "id": 66,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "To disconnect an automobile battery, first:",
+    "gujaratiQuestion": "066. બેટરીને ડિસ્કનેક્ટ કરવા માટે, સૌ પ્રથમ...",
+    "options": [
+      "વેન્ટ પ્લગ્સ દૂર કરો",
+      "બેટરીમાંથી ઇન્સ્યુલેટેડ કેબલ ડિસ્કનેક્ટ કરો",
+      "બેટરીમાંથી ગ્રાઉન્ડ કેબલ ડિસ્કનેક્ટ કરો",
+      "ટ્રાન્સમિશનને PARK અથવા REVERSE માં રાખો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "શોર્ટ સર્કિટ અને સ્પાર્કિંગ અટકાવવા માટે હંમેશા પહેલાં ગ્રાઉન્ડ/નેગેટિવ (-) કેબલ દૂર કરવો જોઈએ[cite: 8]."
+  },
+  {
+    "id": 67,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "In a C.I. engine, the smaller the fuel droplet size, the combustion will be:",
+    "gujaratiQuestion": "067. સી.આઈ. એન્જિનમાં ફયુઅલ ડ્રોપ્લેટનું કદ જેટલું નાનું હશે, તેટલું દહન કેવું થશે?",
+    "options": [
+      "ધીમું અને અપૂર્ણ",
+      "વધુ ઝડપી અને સંપૂર્ણ",
+      "ધુમાડાવાળું",
+      "નોકિંગ વાળું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નાના ટીપાં સપાટી ક્ષેત્રફળ વધારે છે, જેનાથી બાષ્પીભવન અને મિશ્રણ ઝડપી બની દહન વધુ ઝડપી અને સંપૂર્ણ થાય છે[cite: 8]."
+  },
+  {
+    "id": 68,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "What is the main disadvantage of a carburetor in multi-cylinder engines?",
+    "gujaratiQuestion": "Q68. કાર્બ્યુરેટરનો મુખ્ય ગેરફાયદો કયો છે?",
+    "options": [
+      "તે ફક્ત સિંગલ સિલિન્ડર માટે જ કામ કરે છે",
+      "તે મલ્ટી-સિલિન્ડર ઍન્જિનમાં મિશ્રણનું અસમાન વિતરણ કરે છે",
+      "તે ડીઝલ માટે ખૂબ સારું છે",
+      "તેનું વજન ખૂબ વધારે હોય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મેનિફોલ્ડ ડિઝાઇનના કારણે કાર્બ્યુરેટર દરેક સિલિન્ડરને બરાબર સરખા પ્રમાણમાં એર-ફ્યુઅલ મિશ્રણ પહોંચાડી શકતું નથી[cite: 8]."
+  },
+  {
+    "id": 69,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Why is a thermistor used in an alternator voltage regulator?",
+    "gujaratiQuestion": "069. અલ્ટરનેટર રેગ્યુલેટરમાં થર્મિસ્ટરનો ઉપયોગ શા માટે થાય છે?",
+    "options": [
+      "મેક્સિમમ વોલ્ટેજ કંટ્રોલ કરવા",
+      "મેક્સિમમ કરંટ કંટ્રોલ કરવા",
+      "ટેમ્પરેચરમાં થતા ફેરફારને કમ્પેન્સેટ કરવા",
+      "ઉપરના તમામ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "થર્મિસ્ટર તાપમાન આધારિત રેઝિસ્ટન્સ બદલીને વોલ્ટેજ રેગ્યુલેટરમાં તાપમાન વળતર (Temperature compensation) પૂરું પાડે છે[cite: 8]."
+  },
+  {
+    "id": 70,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "Detonation causes direct mechanical and thermal damage to:",
+    "gujaratiQuestion": "Q70. ડિટૉનેશનની સીધી અસર કોના પર પડે છે?",
+    "options": [
+      "પિસ્ટન અને સિલિન્ડર હેડ પર",
+      "ક્રેન્કશાફ્ટ બેરિંગ પર",
+      "ફયુઅલ પંપ પર",
+      "બંને (a) અને (b)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ડિટોનેશનથી ઉદભવતા શોક વેવ્સ પિસ્ટન ક્રાઉન, સિલિન્ડર હેડ અને ક્રેન્ક બેરિંગ્સ તમામ પર ભારે ઇમ્પેક્ટ લોડ આપે છે[cite: 8]."
+  },
+  {
+    "id": 71,
+    "subject": "I.C. Engines",
+    "subTopic": "Common Rail Direct Injection (CRDI)",
+    "question": "Which statement is true regarding Common Rail Injection System?",
+    "gujaratiQuestion": "071. કોમન રેલ ઈન્જેક્શન સિસ્ટમ વિશે કયું વિધાન સાચું છે?",
+    "options": [
+      "તેમાં દરેક ઈન્જેક્ટર માટે અલગ પંપ હોય છે",
+      "એક હાઈ પ્રેશર પંપ કોમન હેડરમાં ફયુઅલ પહોંચાડે છે",
+      "તે એસ.આઈ. એન્જિનમાં વપરાય છે",
+      "તેમાં ઈન્જેક્ટર દ્વારા દબાણ ઉત્પન્ન થાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CRDI માં સિંગલ હાઇ-પ્રેશર પંપ કોમન રેલ (એક સામાન્ય હેડર) માં ઇંધણ દબાણપૂર્વક સંગ્રહિત કરે છે[cite: 8]."
+  },
+  {
+    "id": 72,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "A battery is an electrochemical device. This means the battery:",
+    "gujaratiQuestion": "Q72. બેટરી એક ઈલેક્ટ્રોકેમિકલ ડિવાઈસ છે. આનો અર્થ એ છે કે બેટરી...",
+    "options": [
+      "ઈલેક્ટ્રોનિક માધ્યમથી કેમિકલ્સ બનાવે છે",
+      "ઇલેક્ટ્રિસિટી પૂરી પાડવા માટે કેમિકલ્સનો ઉપયોગ કરે છે",
+      "તેમાં નોન-કેમિકલ પ્લેટ્સ હોય છે",
+      "ઈલેક્ટ્રોલાઈટનો ઉપયોગ કરતી નથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બેટરી રાસાયણિક ઊર્જાનું વિદ્યુત ઊર્જામાં રૂપાંતર કરીને વીજળી પૂરી પાડે છે[cite: 8]."
+  },
+  {
+    "id": 73,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "In a diesel engine, what is primarily responsible for generating turbulence in the air charge?",
+    "gujaratiQuestion": "Q73. ડીઝલ એન્જિનમાં ટર્બ્યુલન્સ ઉત્પન્ન કરવાની મુખ્ય જવાબદારી કોની હોય છે?",
+    "options": [
+      "સ્પાર્ક પ્લગ",
+      "કાર્બ્યુરેટર",
+      "કમ્બશન ચેમ્બરની ડિઝાઈન",
+      "ફ્યુઅલ પંપ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કમ્બશન ચેમ્બરની વિશિષ્ટ ભૂમિતિ (પિસ્ટન કેવિટી અને ઇનલેટ પોર્ટ શેપ) ટર્બ્યુલન્સ પેદા કરે છે[cite: 8]."
+  },
+  {
+    "id": 74,
+    "subject": "I.C. Engines",
+    "subTopic": "Common Rail Direct Injection (CRDI)",
+    "question": "For a Common Rail System, which of the following statements is correct?",
+    "gujaratiQuestion": "074. કોમન રેલ ઈન્જેક્શન સિસ્ટમ (Common Rail System) માટે નીચેનામાંથી કયું વિધાન સાચું છે?",
+    "options": [
+      "દરેક ઇન્જેક્ટર પાસે પોતાનો અલગ પંપ હોય છે",
+      "ફયુઅલ નીચા દબાણે સપ્લાય કરવામાં આવે છે",
+      "ઉચ્ચ દબાણ ધરાવતો પંપ સામાન્ય હેડરને ઇંધણ પહોંચાડે છે",
+      "માત્ર એક્ઝોસ્ટ વાલ્વ ખુલ્લો હોય ત્યારે જ ઈન્જેક્શન થાય"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કોમન રેલ સિસ્ટમમાં એક હાઇ-પ્રેશર પંપ ઇંધણને સતત એક સામાન્ય રેલ (હેડર) માં પ્રેશરાઇઝ કરીને મોકલે છે[cite: 8]."
+  },
+  {
+    "id": 75,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "In a diesel engine with a turbulence chamber:",
+    "gujaratiQuestion": "075. ડીઝલ એન્જિનના ટર્બ્યુલન્સ ચેમ્બરમાં:",
+    "options": [
+      "પિસ્ટન ક્રાઉન, ઇનલેટ પોર્ટ અને વાલ્વનો આકાર અને લેઆઉટ ફયુઅલ મિક્સચરની ટર્બ્યુલન્ટ ઇફેક્ટ પેદા કરે છે",
+      "ફ્યુઅલને ઓક્ઝિલરી ચેમ્બરમાં ઇન્જેક્ટ કરવામાં આવે છે જે સિલિન્ડરથી ઑરિફિસ અથવા થ્રોટ દ્વારા અલગ પડે છે",
+      "એર ચાર્જનો માત્ર એક ભાગ ઓક્ઝિલરી ચેમ્બરમાં હોય છે જેમાં ફયુઅલ અપૂરતી હવાથી સળગવાનું શરૂ કરે છે, જે એક્સપ્લોઝનની ઊર્જાને લીધે મેઈન સિલિન્ડર ચાર્જમાં સારી રીતે મિશ્રિત થઈ જાય છે",
+      "તેમાં કોઈ વાલ્વ હોતા નથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટર્બ્યુલન્સ ચેમ્બર (Swirl chamber) માં સિલિન્ડરથી અલગ રાખેલી ઓક્ઝિલરી ચેમ્બરમાં ઇંધણ સ્પ્રે થાય છે જે સાંકડા થ્રોટ દ્વારા મુખ્ય સિલિન્ડર સાથે જોડાય છે[cite: 8]."
+  },
+  {
+    "id": 76,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "What is the primary function of a carburetor in a petrol engine?",
+    "gujaratiQuestion": "Q76. પેટ્રોલ એન્જિનમાં કાર્બ્યુરેટરનું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "માત્ર હવાને નિયંત્રિત કરવી",
+      "યોગ્ય પ્રમાણમાં હવા અને પેટ્રોલનું મિશ્રણ તૈયાર કરવું",
+      "એક્ઝોસ્ટ વાયુઓને સાફ કરવા",
+      "ફ્યુઅલનું દબાણ વધારવું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કાર્બ્યુરેટર એન્જિનની દરેક ઓપરેટિંગ સ્થિતિ મુજબ યોગ્ય પ્રમાણમાં હવા અને પેટ્રોલનું હોમોજીનિયસ મિશ્રણ તૈયાર કરે છે[cite: 7]."
+  },
+  {
+    "id": 77,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "The carburation process depends on which of the following?",
+    "gujaratiQuestion": "Q77. કાર્બ્યુરેશન પ્રક્રિયા નીચેનામાંથી કોના પર આધાર રાખે છે?",
+    "options": [
+      "એન્જિનના લ્યુબ્રિકેશન પર",
+      "ઇનકમિંગ હવાનું તાપમાન અને મિશ્રણ માટે મળતા સમય પર",
+      "સ્પાર્ક પ્લગના ગેપ પર",
+      "કૂલિંગ વોટરના તાપમાન પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કાર્બ્યુરેશનની ગુણવત્તા ઇનલેટ હવાનું તાપમાન, ઇંધણની વોલેટિલિટી અને બાષ્પીભવન માટે મળતા સમય પર આધારિત છે[cite: 7]."
+  },
+  {
+    "id": 78,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "Why is a coating like tin plating generally applied on pistons?",
+    "gujaratiQuestion": "078. પિસ્ટન પર સામાન્ય રીતે ટીન પ્લેટિંગ જેવું કોટિંગ શા માટે કરવામાં આવે છે?",
+    "options": [
+      "વજન ઘટાડવા",
+      "હીટને અસરકારક રીતે કન્ડક્ટ કરવા",
+      "સ્કોરિંગની શક્યતા ઘટાડવા",
+      "ફ્રિક્શન ઘટાડવા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બ્રેક-ઇન પિરિયડ દરમિયાન પિસ્ટન અને સિલિન્ડર વોલ વચ્ચે સ્કોરિંગ અને સિઝિંગ રોકવા માટે પિસ્ટન સ્કર્ટ પર ટીન કોટિંગ કરાય છે[cite: 7]."
+  },
+  {
+    "id": 79,
+    "subject": "I.C. Engines",
+    "subTopic": "Fuel Supply Systems in SI & CI Engines",
+    "question": "What is the primary objective of a fuel injection pump in a diesel engine?",
+    "gujaratiQuestion": "079. ડીઝલ એન્જિનમાં ફયુઅલ પંપનો મુખ્ય ઉદ્દેશ્ય શું છે?",
+    "options": [
+      "ઈન્જેક્ટરને ઉચ્ચ દબાણે ફયુઅલ પહોંચાડવું",
+      "હવાને સંકુચિત કરવી",
+      "ક્રેન્કકેસમાં ઓઈલ પહોંચાડવું",
+      "દહન પછી વાયુઓને બહાર કાઢવા"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ફ્યુઅલ ઇન્જેક્શન પંપ ચોક્કસ સમયે અને યોગ્ય માત્રામાં અતિ-ઉચ્ચ દબાણે ઇન્જેક્ટરને ડીઝલ પહોંચાડે છે[cite: 7]."
+  },
+  {
+    "id": 80,
+    "subject": "I.C. Engines",
+    "subTopic": "Fuel Supply Systems in SI & CI Engines",
+    "question": "In a diesel engine fuel injection pump, how is the effective stroke/delivery regulated?",
+    "gujaratiQuestion": "080. ડીઝલ એન્જિનના ફયુઅલ ઈન્જેક્શન પંપમાં પ્રેશર સ્ટ્રોકનું નિયમન કોના દ્વારા કરવામાં આવે છે?",
+    "options": [
+      "થ્રોટલ વાલ્વ",
+      "કંટ્રોલ રેક",
+      "ફ્લોટ પિન",
+      "નોઝલ પિન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કંટ્રોલ રેક (Control rack) પ્લન્જરને રોટેટ કરી તેના હેલિકલ ગ્રૂવની સ્થિતિ બદલીને અસરકારક ડિલિવરી સ્ટ્રોકનું નિયમન કરે છે[cite: 7]."
+  },
+  {
+    "id": 81,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "The purpose of a thermostat is to keep the engine:",
+    "gujaratiQuestion": "081. થર્મોસ્ટેટનો હેતુ એન્જિનને કેવું રાખવાનો છે?",
+    "options": [
+      "ગરમ",
+      "ઠંડુ",
+      "ઇચ્છિત ટેમ્પરેચર પર",
+      "ઓવરહીટેડ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "થર્મોસ્ટેટ કૂલન્ટના ફ્લોને કંટ્રોલ કરીને એન્જિનને તેના શ્રેષ્ઠ ઓપરેટિંગ તાપમાને (ઈચ્છિત તાપમાને) જાળવી રાખે છે[cite: 7]."
+  },
+  {
+    "id": 82,
+    "subject": "I.C. Engines",
+    "subTopic": "Fuel Supply Systems in SI & CI Engines",
+    "question": "In an I.C. engine, what is solid injection?",
+    "gujaratiQuestion": "Q82. આઈ.સી. એન્જિનમાં સોલિડ ઇન્જેક્શન (Solid injection) એટલે શું?",
+    "options": [
+      "ઘન ફયુઅલનો ઉપયોગ",
+      "માત્ર પ્રવાહી ફયુઅલનું ઇન્જેક્શન",
+      "પ્રવાહી ફયુઅલ અને હવાનું મિશ્રણ ઇન્જેક્ટ કરવું",
+      "ઘન ફયુઅલ અને હવાનું મિશ્રણ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હવાના બ્લાસ્ટ વગર માત્ર પ્રવાહી ઇંધણને મિકેનિકલ દબાણથી સ્પ્રે કરવાની પદ્ધતિને સોલિડ ઇન્જેક્શન કહે છે[cite: 7]."
+  },
+  {
+    "id": 83,
+    "subject": "I.C. Engines",
+    "subTopic": "Fuel Supply Systems in SI & CI Engines",
+    "question": "To prevent carbon deposits on the injector, what should be the approximate temperature of the nozzle tip?",
+    "gujaratiQuestion": "083. ઈન્જેક્ટર પર કાર્બન જમા થતો અટકાવવા માટે નોઝલની ટીપનું તાપમાન આશરે કેટલું હોવું જોઈએ?",
+    "options": [
+      "100°C થી ઓછું",
+      "100°C થી 250°C",
+      "250°C થી 300°C",
+      "400°C થી 500°C"
+    ],
+    "correctAnswer": 2,
+    "explanation": "નોઝલ ટીપ પર કાર્બન બ્લોકેજ અટકાવવા તેનું તાપમાન 250°C થી 300°C ની વચ્ચે જળવાવું જોઈએ[cite: 7]."
+  },
+  {
+    "id": 84,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "A pre-combustion chamber provides which of the following advantages?",
+    "gujaratiQuestion": "084. પ્રિ-કમ્બશન ચેમ્બર શું આપે છે?",
+    "options": [
+      "લો મિકેનિકલ એફિશિયન્સી",
+      "ક્લીન એક્ઝોસ્ટ",
+      "હાઈ બ્રેક થર્મલ એફિશિયન્સી",
+      "હાઈ વોલ્યુમેટ્રિક એફિશિયન્સી"
+    ],
+    "correctAnswer": 3,
+    "explanation": "પ્રિ-કમ્બશન ચેમ્બર ઉત્તમ હવા-ઇંધણ મિશ્રણ અને બહેતર વોલ્યુમેટ્રિક ક્ષમતા આપે છે[cite: 7]."
+  },
+  {
+    "id": 85,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "Multi-Point Fuel Injection (MPFI) system is mainly used in which engines?",
+    "gujaratiQuestion": "085. મલ્ટી-પોઈન્ટ ફ્યુઅલ ઇન્જેક્શન (MPFI) સિસ્ટમ મુખ્યત્વે કયા એન્જિનમાં વપરાય છે?",
+    "options": [
+      "ડીઝલ એન્જિન",
+      "સ્ટીમ એન્જિન",
+      "પેટ્રોલ એન્જિન",
+      "ગેસ ટર્બાઈન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આધુનિક પેટ્રોલ (S.I.) એન્જિનોમાં દરેક સિલિન્ડરના ઇન્ટેક પોર્ટ પર સ્વતંત્ર ઇન્જેક્ટર ધરાવતી MPFI સિસ્ટમ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 86,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "In a Direct Injection diesel engine, where is the fuel sprayed?",
+    "gujaratiQuestion": "086. ડાયરેક્ટ ઈન્જેક્શન ડીઝલ એન્જિનમાં ફયુઅલ ક્યાં સ્પ્રે કરવામાં આવે છે?",
+    "options": [
+      "ઇન્ટેક મેનિફોલ્ડમાં",
+      "કાર્બ્યુરેટરમાં",
+      "સીધું કમ્બશન ચેમ્બરમાં",
+      "એક્ઝોસ્ટ પોર્ટમાં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડાયરેક્ટ ઇન્જેક્શન (DI) માં ઇન્જેક્ટર ડીઝલને સીધું મુખ્ય કમ્બશન ચેમ્બર (પિસ્ટન કેવિટી) માં સ્પ્રે કરે છે[cite: 7]."
+  },
+  {
+    "id": 87,
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "In a rear-drive axle, to what is the ring gear (crown wheel) bolted?",
+    "gujaratiQuestion": "087. રિયર-ડ્રાઈવ એક્સલમાં, રિંગ ગિયર કોની સાથે બોલ્ટ કરેલ હોય છે?",
+    "options": [
+      "ડિફરન્શિયલ કેરિયર",
+      "ડિફરન્શિયલ કેસ",
+      "ડ્રાઇવ પિનિયન",
+      "એક્સલ હાઉસિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રિંગ ગિયર ડિફરન્શિયલ કેસ (Differential case) સાથે બોલ્ટ કરેલું હોય છે અને પિનિયન પાસેથી ટોર્ક મેળવે છે[cite: 7]."
+  },
+  {
+    "id": 88,
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "In a Port Fuel Injection system, where is the fuel injector located?",
+    "gujaratiQuestion": "088. પોર્ટ ફ્યુઅલ ઇન્જેક્શન સિસ્ટમમાં ફ્યુઅલ ઈન્જેક્ટર ક્યાં ગોઠવાયેલું હોય છે?",
+    "options": [
+      "સિલિન્ડરની અંદર",
+      "ઇન્ટેક વાલ્વની બરાબર પાછળ",
+      "એક્ઝોસ્ટ મેનિફોલ્ડમાં",
+      "ક્રેન્કકેસમાં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પોર્ટ ફ્યુઅલ ઇન્જેક્શનમાં ઇન્જેક્ટર ઇન્ટેક મેનિફોલ્ડ રનરમાં ઇન્ટેક વાલ્વની સહેજ આગળ/પાછળ ગોઠવાયેલું હોય છે[cite: 7]."
+  },
+  {
+    "id": 89,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Which statement is true regarding the comparison between Battery and Magneto ignition systems?",
+    "gujaratiQuestion": "089. બેટરી ઇગ્નિશન સિસ્ટમ અને મેગ્નેટો ઈગ્નિશન સિસ્ટમની તુલના માટે કયું વિધાન સાચું છે?",
+    "options": [
+      "બંને સિસ્ટમ બાહ્ય બેટરી પર આધાર રાખે છે",
+      "મેગ્નેટો સિસ્ટમમાં બેટરી જરૂરી છે, પરંતુ બેટરી સિસ્ટમમાં નહીં",
+      "બેટરી સિસ્ટમ સંગ્રહિત ઉર્જા વાપરે છે, જ્યારે મેગ્નેટો સિસ્ટમ માંગ પર વીજળી ઉત્પન્ન કરે છે",
+      "બંને સિસ્ટમ ડીઝલ એન્જિનમાં વપરાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બેટરી સિસ્ટમ બેટરીમાં સંગ્રહેલી વિદ્યુત વાપરે છે, જ્યારે મેગ્નેટો એન્જિન રોટેશન દ્વારા પોતાની વીજળી જાતે ઉત્પન્ન કરે છે[cite: 7]."
+  },
+  {
+    "id": 90,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "What does a white insulator tip on a spark plug indicate?",
+    "gujaratiQuestion": "090. સ્પાર્ક પ્લગની સફેદ ઈન્સ્યુલેટર ટિપ શું સૂચવે છે?",
+    "options": [
+      "ઓવર એડવાન્સ્ડ ઇગ્નિશન (અથવા ઓવરહીટિંગ)",
+      "રિટાર્ડેડ ઇગ્નિશન",
+      "લેડેડ ફયુઅલ",
+      "ગેસ લીક"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સફેદ અથવા સળગેલી ઇન્સ્યુલેટર ટીપ ચેમ્બરનું અતિશય ઊંચું તાપમાન, લીન મિશ્રણ અથવા ઓવર-એડવાન્સ્ડ ઇગ્નિશન ટાઇમિંગ દર્શાવે છે[cite: 7]."
+  },
+  {
+    "id": 91,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "What is the function of the ignition coil in a battery ignition system?",
+    "gujaratiQuestion": "091. બેટરી ઇગ્નિશન સિસ્ટમમાં ઇગ્નિશન કોઈલ (Ignition coil) નું કાર્ય શું છે?",
+    "options": [
+      "ફયુઅલનું દબાણ વધારવું",
+      "લો વોલ્ટેજને સ્પાર્ક માટે હાઈ વોલ્ટેજમાં ફેરવવું",
+      "બેટરીને ચાર્જ કરવી",
+      "એન્જિનને ઠંડુ રાખવું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇગ્નિશન કોઈલ સ્ટેપ-અપ ટ્રાન્સફોર્મર તરીકે કાર્ય કરી 12V બેટરી વોલ્ટેજને સ્પાર્ક પ્લગ માટે 15,000V થી 25,000V માં ફેરવે છે[cite: 7]."
+  },
+  {
+    "id": 92,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "What is the primary function of the distributor in an ignition system?",
+    "gujaratiQuestion": "092. ઈગ્નિશન સિસ્ટમમાં ડિસ્ટ્રીબ્યુટરનું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "સિલિન્ડરમાં સમાન પ્રમાણમાં ફ્યુઅલ મોકલવું",
+      "પાવરનું નિયમન કરવું",
+      "યોગ્ય સમયે યોગ્ય સ્પાર્ક પ્લગને કરંટ પૂરો પાડવો",
+      "લ્યુબ્રિકેટિંગ ઓઈલનું વિતરણ કરવું"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડિસ્ટ્રીબ્યુટર ફાયરિંગ ઓર્ડર મુજબ યોગ્ય ક્ષણે સંબંધિત સિલિન્ડરના સ્પાર્ક પ્લગને હાઇ-વોલ્ટેજ સ્પાર્ક પૂરો પાડે છે[cite: 7]."
+  },
+  {
+    "id": 93,
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "In a dual exhaust system, what is the function of a crossover pipe?",
+    "gujaratiQuestion": "093. ડ્યુઅલ એક્ઝોસ્ટ સિસ્ટમમાં ક્રોસઓવર પાઈપ...",
+    "options": [
+      "પાઇપ્સ ઢીલી કરે છે",
+      "પાઈપ્સ મજબૂત કરે છે",
+      "અવાજ ઘટાડવામાં મદદ કરે છે",
+      "કેટેલિટિક કન્વર્ટરમાં એક્ઝોસ્ટ ગેસ ફીડ કરે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ક્રોસઓવર (H-pipe અથવા X-pipe) બંને બાજુના એક્ઝોસ્ટ પલ્સને બેલેન્સ કરી એક્ઝોસ્ટ અવાજ અને બેકપ્રેશર ઘટાડે છે[cite: 7]."
+  },
+  {
+    "id": 94,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "With increasing engine speed, what must be done to the spark ignition timing in a petrol engine?",
+    "gujaratiQuestion": "094. એન્જિનની સ્પીડ વધવાની સાથે, પેટ્રોલ એન્જિનમાં સ્પાર્ક ઇગ્નિશન ટાઈમિંગને શું કરવું પડે છે?",
+    "options": [
+      "અચળ રાખવો પડે છે",
+      "રિટાર્ડ કરવો પડે છે",
+      "એડવાન્સ કરવો પડે છે",
+      "શૂન્ય કરવો પડે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્પીડ વધતાં કમ્બશન માટે ઓછો વાસ્તવિક સમય મળતો હોવાથી પીક પ્રેશર યોગ્ય સમયે મેળવવા સ્પાર્ક ટાઇમિંગ એડવાન્સ (Advance) કરવો પડે છે[cite: 7]."
+  },
+  {
+    "id": 95,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "The ignition timing of a multi-cylinder petrol engine can be adjusted by rotating:",
+    "gujaratiQuestion": "095. મલ્ટી-સિલિન્ડર પેટ્રોલ એન્જિનનું ઇગ્નિશન ટાઈમિંગ નીચેનામાંથી કોને એડજસ્ટ કરીને સેટ કરી શકાય છે?",
+    "options": [
+      "સ્પાર્ક પ્લગ ગેપ બદલીને",
+      "ડિસ્ટ્રીબ્યુટર બોડીને ફેરવીને",
+      "ઈગ્નિશન કોઈલ બદલીને",
+      "ક્રેન્કશાફ્ટને ફેરવીને"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડિસ્ટ્રીબ્યુટર હાઉસિંગને ક્લોકવાઇઝ કે એન્ટીક્લોકવાઇઝ ફેરવીને કોન્ટેક્ટ બ્રેકર પોઇન્ટ્સનું ટાઇમિંગ એડજસ્ટ કરાય છે[cite: 7]."
+  },
+  {
+    "id": 96,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "In which unit is the capacity of a lead-acid battery usually expressed?",
+    "gujaratiQuestion": "Q96. લીડ-એસિડ બેટરીની ક્ષમતા સામાન્ય રીતે કયા એકમમાં દર્શાવવામાં આવે છે?",
+    "options": [
+      "વોલ્ટ",
+      "એમ્પિયર",
+      "વોટ",
+      "એમ્પિયર અવર્સ (Ah)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "બેટરીની એનર્જી સંગ્રહ ક્ષમતા એમ્પિયર-અવર્સ (Ah) માં માપવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 97,
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "To change gears in a transmission, the gear shift lever requires two distinct motions which:",
+    "gujaratiQuestion": "097. ટ્રાન્સમિશન સિસ્ટમમાં ગિયર બદલવા માટે ગિયર શિફ્ટ લિવરને બે અલગ મોશનની જરૂર પડે છે, જે...",
+    "options": [
+      "સિન્ક્રોનાઈઝરને મૂવ કરે છે",
+      "સિન્ક્રોનાઈઝરને સિલેક્ટ કરે છે અને પછી તેને એન્ગેજ કરે છે",
+      "ગિયર્સને મેશ કરે છે",
+      "ક્લચને ઓપરેટ કરે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "શિફ્ટ લિવરની પ્રથમ મોશન ચોક્કસ ગિયર ફોર્ક સિલેક્ટ કરે છે અને બીજી મોશન સિન્ક્રોનાઇઝર સ્લીવને મૂવ કરી ગિયર જોડે છે[cite: 7]."
+  },
+  {
+    "id": 98,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "A spark plug is an essential part of which type of engine?",
+    "gujaratiQuestion": "098. સ્પાર્ક પ્લગ કયા પ્રકારના એન્જિનનો અવિભાજ્ય ભાગ છે?",
+    "options": [
+      "સી.આઈ. એન્જિન",
+      "એસ.આઈ. એન્જિન",
+      "સ્ટીમ એન્જિન",
+      "ગેસ ટર્બાઈન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્પાર્ક પ્લગ માત્ર સ્પાર્ક ઇગ્નિશન (S.I. / પેટ્રોલ) એન્જિનમાં હવા-ઇંધણ મિશ્રણને સળગાવવા માટે વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 99,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "Why is a spark plug not required for ignition in a C.I. engine?",
+    "gujaratiQuestion": "099. સી.આઈ. એન્જિનમાં ઈગ્નિશન માટે સ્પાર્ક પ્લગની કેમ જરૂર પડતી નથી?",
+    "options": [
+      "કારણ કે તેમાં ફ્યુઅલ અને હવાનું મિશ્રણ જાતે જ સળગી ઉઠે છે",
+      "કારણ કે તેમાં સંકુચિત હવાના ઉચ્ચ તાપમાન દ્વારા ડીઝલ સળગી જાય છે",
+      "કારણ કે ફ્યુઅલ પંપ સ્પાર્ક પેદા કરે છે",
+      "કારણ કે તેમાં કમ્બશન થતું નથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઊંચા કમ્પ્રેશન રેશિયોને લીધે સંકુચિત હવાનું તાપમાન ડીઝલના સેલ્ફ-ઇગ્નિશન તાપમાન કરતાં વધી જવાથી સ્પાર્કની જરૂર પડતી નથી[cite: 7]."
+  },
+  {
+    "id": 100,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "Scavenging is generally performed in two-stroke engines to increase:",
+    "gujaratiQuestion": "Q100. સ્કેવેન્જિંગ સામાન્ય રીતે શેમાં વધારો કરવા માટે કરવામાં આવે છે?",
+    "options": [
+      "થર્મલ એફિશિયન્સી",
+      "સ્પીડ",
+      "પાવર આઉટપુટ",
+      "ફયુઅલ કન્ઝમ્પશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બળેલા એક્ઝોસ્ટ વાયુઓને બહાર કાઢી તાજો ચાર્જ ભરવાથી એન્જિનનો પાવર આઉટપુટ અને ક્ષમતા વધે છે[cite: 7]."
+  },
+  {
+    "id": 101,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "What is the primary objective of an engine lubrication system?",
+    "gujaratiQuestion": "0101. એન્જિનમાં લ્યુબ્રિકેશન સિસ્ટમનો મુખ્ય હેતુ શું છે?",
+    "options": [
+      "પાવર આઉટપુટ ઘટાડવો",
+      "કમ્બશનમાં મદદ કરવી",
+      "ફરતા ભાગો વચ્ચેનું ઘર્ષણ અને ઘસારો ઘટાડવો",
+      "ઠંડક અટકાવવી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લ્યુબ્રિકેશન ફરતા યાંત્રિક ભાગો વચ્ચે ઓઇલ ફિલ્મ રચી ઘર્ષણ, ઘસારો ઘટાડે છે અને હીટ દૂર કરે છે[cite: 7]."
+  },
+  {
+    "id": 102,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Which lubrication system is used in small two-stroke petrol engines (e.g., scooters)?",
+    "gujaratiQuestion": "0102. ટુ-સ્ટ્રોક પેટ્રોલ એન્જિન (દા.ત. સ્કૂટર) માં કયા પ્રકારની લ્યુબ્રિકેશન સિસ્ટમનો ઉપયોગ થાય છે?",
+    "options": [
+      "ડ્રાય સમ્પ સિસ્ટમ",
+      "વેટ સમ્પ સિસ્ટમ",
+      "પ્રેશર લ્યુબ્રિકેશન સિસ્ટમ",
+      "પેટ્રોલ સાથે લ્યુબ ઓઈલ મિક્સ કરીને (મિસ્ટ સિસ્ટમ)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ટુ-સ્ટ્રોક એન્જિનમાં પેટ્રોઇલ અથવા મિસ્ટ સિસ્ટમ (પેટ્રોલમાં 2% થી 3% 2T ઓઇલ મિક્સ કરીને) વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 103,
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "Seat belt pretensioners are generally built into:",
+    "gujaratiQuestion": "0103. સીટ બેલ્ટ ટેન્શનર્સ શેમાં બિલ્ટ-ઇન (built-in) હોય છે?",
+    "options": [
+      "ફ્રન્ટ સીટ્સ",
+      "શોલ્ડર એન્કર્સ",
+      "સીટ બેલ્ટ રિટ્રેક્ટર્સ",
+      "સીટ બેલ્ટ બકલ્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સીટ બેલ્ટ પ્રિટેન્શનર્સ ઇમ્પેક્ટ વખતે બેલ્ટને ઝડપથી ખેંચવા સીટ બેલ્ટ રિટ્રેક્ટર્સ (Retractors) સાથે ઇન્ટિગ્રેટ થયેલા હોય છે[cite: 7]."
+  },
+  {
+    "id": 104,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "What does the Viscosity Index (VI) of a lubricating oil indicate?",
+    "gujaratiQuestion": "0104. લ્યુબ્રિકેટિંગ ઓઈલનો વિસ્કોસિટી ઈન્ડેક્સ (Viscosity Index) શું દર્શાવે છે?",
+    "options": [
+      "તાપમાન સાથે વિસ્કોસિટીમાં થતો ફેરફાર",
+      "દબાણ સાથે વિસ્કોસિટીમાં થતો ફેરફાર",
+      "કદમાં થતો ફેરફાર",
+      "ઘનતામાં થતો ફેરફાર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વિસ્કોસિટી ઇન્ડેક્સ એ તાપમાનના ફેરફાર સાથે લ્યુબ્રિકન્ટની વિસ્કોસિટીમાં થતા બદલાવનો દર દર્શાવે છે (ઊંચો VI એટલે ઓછો ફેરફાર)[cite: 7]."
+  },
+  {
+    "id": 105,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "What is the main feature of a Dry Sump lubrication system?",
+    "gujaratiQuestion": "0105. ડ્રાય સમ્પ (Dry sump) લ્યુબ્રિકેશન સિસ્ટમની મુખ્ય વિશેષતા શું છે?",
+    "options": [
+      "તેમાં લ્યુબ્રિકેટિંગ ઓઈલની જરૂર પડતી નથી",
+      "ઓઈલ એન્જિનના સમ્પને બદલે અલગ ટેન્કમાં સંગ્રહિત થાય છે",
+      "તેમાં ઓઇલ અને પાણી મિક્સ કરવામાં આવે છે",
+      "તે માત્ર ડીઝલ એન્જિનમાં જ વપરાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડ્રાય સમ્પ સિસ્ટમમાં સમ્પ હંમેશા ખાલી રખાય છે અને ઓઇલને સ્કેવેન્જિંગ પંપ દ્વારા બહારની અલગ ઓઇલ ટેન્કમાં સ્ટોર કરાય છે[cite: 7]."
+  },
+  {
+    "id": 106,
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "Damper fluid leakage generally occurs from:",
+    "gujaratiQuestion": "0106. ડેમ્પર ફ્લુઇડ લીકેજ સામાન્ય રીતે ક્યાંથી થાય છે?",
+    "options": [
+      "અપર ડેમ્પર માઉન્ટિંગ",
+      "ડેમ્પરના બોટમથી",
+      "ડેમ્પરની અંદરની અને બહારની ટ્યુબ્સ વચ્ચેના ક્લિયરન્સમાંથી (ઓઇલ સીલ આગળથી)",
+      "કોઈલ સ્પ્રિંગ માઉન્ટિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "શોક એબ્ઝોર્બર પિસ્ટન રોડ સીલ ઘસાઈ જતાં ઇનર અને આઉટર ટ્યુબના જોઇન્ટ/સીલ આગળથી ફ્લુઇડ લીક થાય છે[cite: 7]."
+  },
+  {
+    "id": 107,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "What is the effect on the viscosity of a liquid lubricant when its temperature increases?",
+    "gujaratiQuestion": "Q107. લ્યુબ્રિકન્ટનું તાપમાન વધવાની સાથે તેની વિસ્કોસિટી (સ્નિગ્ધતા) પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "પહેલા વધે અને પછી ઘટે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રવાહી લ્યુબ્રિકન્ટ્સનું તાપમાન વધતાં આંતરઆણ્વીય આકર્ષણ બળ ઘટે છે, જેથી વિસ્કોસિટી ઘટે છે[cite: 7]."
+  },
+  {
+    "id": 108,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Why is Crankcase Ventilation (PCV) necessary in an engine?",
+    "gujaratiQuestion": "0108. ક્રેન્કકેસ વેન્ટિલેશન (Crankcase ventilation) શા માટે જરૂરી છે?",
+    "options": [
+      "એન્જિનની શ્વાસ લેવાની ક્ષમતા વધારવા",
+      "એન્જિનમાંથી નુકસાનકારક કણો, બ્લો-બાય ગેસીસ અને ભેજ દૂર કરવા",
+      "એન્જિનને લ્યુબ્રિકેશન પૂરું પાડવા",
+      "એન્જિનનું તાપમાન વધારવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પિસ્ટન રિંગ્સમાંથી લીક થયેલા બ્લો-બાય વાયુઓ અને ભેજ ઓઇલને દૂષિત ન કરે તે માટે પોઝિટિવ ક્રેન્કકેસ વેન્ટિલેશન (PCV) કરાય છે[cite: 7]."
+  },
+  {
+    "id": 109,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "In a two-stroke engine, at the moment spark occurs, what is happening below the piston in the crankcase?",
+    "gujaratiQuestion": "0109. ટુ-સ્ટ્રોક એન્જિનમાં જે ક્ષણે સ્પાર્ક થાય છે, તે જ સમયે પિસ્ટનની નીચે શું થઈ રહ્યું હોય છે?",
+    "options": [
+      "નવો ગેસ કમ્પ્રેસ થઇ રહ્યો હોય છે",
+      "ટ્રાન્સફર પોર્ટ હમણાં જ ખૂલ્યો હોય છે",
+      "ઈનલેટ પોર્ટ મારફતે નવો ગેસ અંદર વહી રહ્યો હોય છે",
+      "ઇનલેટ પોર્ટ બંધ હોય છે અને ડિપ્રેશન (વેક્યુમ) બની રહ્યું હોય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પિસ્ટન TDC તરફ જતાં ક્રેન્કકેસમાં વેક્યુમ સર્જાઈને ઇનલેટ પોર્ટ ખૂલે છે અને કાર્બ્યુરેટરમાંથી નવો ચાર્જ ક્રેન્કકેસમાં પ્રવેશે છે[cite: 7]."
+  },
+  {
+    "id": 110,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Which of the following engine oils is the most viscous?",
+    "gujaratiQuestion": "Q110. નીચેનામાંથી કયું ઓઈલ સૌથી વધુ ઘટ્ટ (Viscous) છે?",
+    "options": [
+      "SAE 30",
+      "SAE 40",
+      "SAE 50",
+      "SAE 80"
+    ],
+    "correctAnswer": 3,
+    "explanation": "SAE વિસ્કોસિટી રેટિંગમાં નંબર જેટલો મોટો હોય તેટલું તે તેલ વધુ ઘટ્ટ (હાઇ વિસ્કોસિટી ધરાવતું) હોય છે, તેથી SAE 80 સૌથી ઘટ્ટ છે[cite: 7]."
+  },
+  {
+    "id": 111,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "What type of lubrication occurs between the piston rings and cylinder wall near dead centers?",
+    "gujaratiQuestion": "Q111. પિસ્ટન રિંગ અને સિલિન્ડરની દીવાલ વચ્ચે જોવા મળતું લ્યુબ્રિકેશન કયા પ્રકારનું હોય છે?",
+    "options": [
+      "જાડી ફિલ્મ લ્યુબ્રિકેશન",
+      "બાઉન્ડરી લ્યુબ્રિકેશન",
+      "હાઇડ્રોસ્ટેટિક લ્યુબ્રિકેશન",
+      "સોલિડ લ્યુબ્રિકેશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડેડ સેન્ટર્સ આગળ પિસ્ટનની ઝડપ શૂન્ય થતાં હાઇડ્રોડાયનેમિક ફિલ્મ તૂટે છે અને પાતળી બાઉન્ડરી લ્યુબ્રિકેશન સ્થિતિ સર્જાય છે[cite: 7]."
+  },
+  {
+    "id": 112,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "What is the crescent-shaped cavity on the top surface of a piston head called?",
+    "gujaratiQuestion": "Q112. પિસ્ટન હેડની ટોચની સપાટી પર આવેલી અર્ધચંદ્રાકાર કેવિટીને શું કહેવામાં આવે છે?",
+    "options": [
+      "પિસ્ટન ઓઇલ હોલ",
+      "સ્નેપ રિંગ",
+      "વાલ્વ રિસેસ (Valve recess)",
+      "વાલ્વ ક્લિયરન્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વાલ્વ ઓવરલેપ વખતે વાલ્વ પિસ્ટન હેડ સાથે ન અથડાય તે માટે પિસ્ટન ક્રાઉન પર બનાવેલા ખાંચાને વાલ્વ રિસેસ કહે છે[cite: 7]."
+  },
+  {
+    "id": 113,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "If the oil pressure suddenly drops to zero while the engine is running, what should be the immediate first step?",
+    "gujaratiQuestion": "0113. એન્જિન ચાલુ હોય ત્યારે જો અચાનક ઓઈલ પ્રેશર શૂન્ય થઈ જાય, તો સૌથી પહેલું પગલું શું હોવું જોઈએ?",
+    "options": [
+      "ઍન્જિનની સ્પીડ વધારવી",
+      "એન્જિન તરત જ બંધ કરવું",
+      "એન્જિનમાં પાણી ઉમેરવું",
+      "ચલાવવાનું ચાલુ રાખવું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓઇલ પ્રેશર શૂન્ય થવાથી બેરિંગ્સ અને પિસ્ટન સીઝ થવાનું ગંભીર જોખમ હોવાથી એન્જિન તાત્કાલિક બંધ કરવું જોઈએ[cite: 7]."
+  },
+  {
+    "id": 114,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Under normal operating conditions, the temperature of the inner surface of an I.C. engine cylinder wall should not exceed:",
+    "gujaratiQuestion": "0114. સામાન્ય કામગીરીમાં આઈ.સી. એન્જિનની સિલિન્ડર વૉલની અંદરની સપાટીનું તાપમાન કોનાથી વધુ ન હોવું જોઈએ?",
+    "options": [
+      "80°C",
+      "120°C",
+      "180°C થી 200°C",
+      "500°C"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લ્યુબ્રિકેટિંગ ઓઇલ ફિલ્મ બળી ન જાય અને પિસ્ટન સીઝ ન થાય તે માટે સિલિન્ડર વોલનું તાપમાન 180°C થી 200°C થી વધવું ન જોઈએ[cite: 7]."
+  },
+  {
+    "id": 115,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "An I.C. engine operates on a compression ratio of 16. If cut-off occurs at 8% of stroke, what is its cut-off ratio?",
+    "gujaratiQuestion": "0115. એક I.C. એન્જિન 16 ના કમ્પ્રેશન રેશિયો પર કામ કરે છે. જો કટ-ઓફ સ્ટ્રોકના 8% પર થાય, તો આ એન્જિનનો કટ-ઓફ રેશિયો શું હશે?",
+    "options": [
+      "1.2",
+      "2.2",
+      "4.2",
+      "3.2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "rc = 1 + [cut-off fraction × (r - 1)] = 1 + [0.08 × (16 - 1)] = 1 + (0.08 × 15) = 1 + 1.2 = 2.2[cite: 7]."
+  },
+  {
+    "id": 116,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "In a water cooling system, which natural circulation principle works without a water pump?",
+    "gujaratiQuestion": "0116. વોટર કૂલિંગ સિસ્ટમમાં, પાણીના કુદરતી પરિભ્રમણ (પંપ વિના) માટે કયો સિદ્ધાંત કામ કરે છે?",
+    "options": [
+      "થર્મો-સાઈફન સિસ્ટમ",
+      "પંપ સર્ક્યુલેશન સિસ્ટમ",
+      "પ્રેસરાઇઝ્ડ કૂલિંગ સિસ્ટમ",
+      "ઇવેપોરેટિવ કૂલિંગ સિસ્ટમ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ગરમ અને ઠંડા પાણીની ઘનતાના તફાવત પર કુદરતી પરિભ્રમણ કરતી સિસ્ટમને થર્મો-સાઇફન (Thermo-siphon) સિસ્ટમ કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 117,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "What is the primary function of a radiator in an engine cooling system?",
+    "gujaratiQuestion": "0117. એન્જિન કૂલિંગ સિસ્ટમમાં રેડિએટરનું કાર્ય શું છે?",
+    "options": [
+      "ગરમ પાણીને મોટા વિસ્તારમાં ફેલાવીને હવાથી ઠંડુ કરવું",
+      "કૂલન્ટનું દબાણ વધારવું",
+      "એન્જિન ઓઈલને ગરમ કરવું",
+      "હવાનું દબાણ ઘટાડવું"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રેડિએટર હીટ એક્સચેન્જર તરીકે કાર્ય કરી ગરમ કૂલન્ટમાંથી ઉષ્મા આસપાસની હવામાં મુક્ત કરે છે[cite: 7]."
+  },
+  {
+    "id": 118,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "A 4-stroke 4-cylinder engine has cylinder diameter 4 cm, stroke length 7 cm, and clearance volume 2 cm³. What is the engine capacity (in cc)?",
+    "gujaratiQuestion": "0118. એક 4-સ્ટ્રોક 4-સિલિન્ડર રેસિપ્રોકેટિંગ એન્જિનનો સિલિન્ડર વ્યાસ 4 cm, સ્ટ્રોક લંબાઈ 7 cm અને ક્લિયરન્સ વોલ્યુમ 2 cm³ છે. એન્જિનની કેપેસિટી (cc માં) કેટલી હશે?",
+    "options": [
+      "110",
+      "252",
+      "400",
+      "352"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Swept Volume Vs = (π/4) · d² · L = (22/28) × 16 × 7 = 88 cc. Total Engine Capacity = 4 × Vs = 4 × 88 = 352 cc[cite: 7]."
+  },
+  {
+    "id": 119,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Why are fins provided on the outer surface of air-cooled engine cylinders?",
+    "gujaratiQuestion": "0119. એર કૂલ્ડ એન્જિનમાં સિલિન્ડરની બહારની સપાટી પર ફિન્સ (Fins) શા માટે આપવામાં આવે છે?",
+    "options": [
+      "એન્જિનનું વજન વધારવા",
+      "હીટ ટ્રાન્સફરનો વિસ્તાર વધારવા અને કૂલિંગ સુધારવા",
+      "એન્જિનનો અવાજ ઘટાડવા",
+      "એન્જિનની મજબૂતી વધારવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફિન્સ સપાટી ક્ષેત્રફળ (Surface area) માં વધારો કરીને કન્વેક્શન દ્વારા હીટ ટ્રાન્સફર રેટ સુધારે છે[cite: 7]."
+  },
+  {
+    "id": 120,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Why is a thermostat used in an engine cooling system?",
+    "gujaratiQuestion": "0120. કૂલિંગ સિસ્ટમમાં થર્મોસ્ટેટ (Thermostat) નો ઉપયોગ શા માટે થાય છે?",
+    "options": [
+      "રેડિએટરમાં પાણીનું સ્તર માપવા",
+      "કૂલિંગ ફેનને બંધ કરવા",
+      "એન્જિનના પાણીનું તાપમાન નિયંત્રિત કરવા અને એન્જિનને ઝડપથી વોર્મ-અપ કરવા",
+      "વોટર પંપને રોકવા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "થર્મોસ્ટેટ શરૂઆતમાં કૂલન્ટને રેડિએટરમાં જતું રોકી ઝડપી વોર્મ-અપ આપે છે અને બાદમાં ઓપરેટિંગ તાપમાન જાળવે છે[cite: 7]."
+  },
+  {
+    "id": 121,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "In an air standard Dual cycle, if cut-off ratio approaches unity (rc -> 1), it degenerates into which cycle?",
+    "gujaratiQuestion": "Q121. જો એર સ્ટાન્ડર્ડ ડ્યુઅલ સાયકલમાં કટ-ઓફ રેશિયો એક (unity) ની નજીક પહોંચે, તો તે નીચેનામાંથી કઈ સાયકલમાં પરિણમશે?",
+    "options": [
+      "ડીઝલ સાયકલ",
+      "બ્રેટન સાયકલ",
+      "રેન્કાઈન સાયકલ",
+      "ઓટો સાયકલ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "કટ-ઓફ રેશિયો rc = 1 થતાં કોન્સ્ટન્ટ પ્રેશર હીટ એડિશન શૂન્ય બને છે અને સાયકલ ઓટો સાયકલમાં ફેરવાય છે[cite: 7]."
+  },
+  {
+    "id": 122,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Heat transfer from radiator tubes to the passing air in a motor car primarily occurs by:",
+    "gujaratiQuestion": "Q122. મોટર કારના રેડિએટરમાં હીટ ટ્રાન્સફર મુખ્યત્વે કઈ પ્રક્રિયા દ્વારા થાય છે?",
+    "options": [
+      "કન્ડક્શન",
+      "રેડિયેશન",
+      "કન્વેક્શન",
+      "આઈસોથર્મલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રેડિએટર ફિન્સ અને વહેતી હવા વચ્ચે ઉષ્માનું વહન ફોર્સ્ડ કન્વેક્શન (Convection) દ્વારા થાય છે[cite: 7]."
+  },
+  {
+    "id": 123,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Which excellent anti-freeze solution is used in cooling systems in cold regions to prevent water freezing?",
+    "gujaratiQuestion": "Q123. ઠંડા પ્રદેશોમાં કૂલિંગ સિસ્ટમમાં પાણીને જામી જતું અટકાવવા કયું ઉત્તમ ઍન્ટી-ફ્રીઝ સોલ્યુશન વપરાય છે?",
+    "options": [
+      "મિથેનોલ",
+      "ઇથિલીન ગ્લાયકોલ",
+      "ડીનેચર્ડ આલ્કોહોલ",
+      "ડીસ્ટિલ્ડ ગ્લિસરીન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇથિલીન ગ્લાયકોલ (Ethylene glycol) પાણીનું ફ્રીઝિંગ પોઇન્ટ ઘટાડવા અને બોઇલિંગ પોઇન્ટ વધારવા માટે શ્રેષ્ઠ એન્ટી-ફ્રીઝ છે[cite: 7]."
+  },
+  {
+    "id": 124,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "Combustion occurring at a very high flame speed is called:",
+    "gujaratiQuestion": "Q124. હાઈ સ્પીડ પર થતા કમ્બશનને _____ કહેવાય છે.",
+    "options": [
+      "સ્પોન્ટેનિયસ બર્નિંગ",
+      "એક્સપ્લોઝન",
+      "ઇનકમ્પ્લીટ બર્નિંગ",
+      "રેપિડ કમ્બશન"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઉચ્ચ ફ્લેમ ઝડપ સાથે ઝડપી ઊર્જા મુક્ત થતી કમ્બશન પ્રક્રિયાને રેપિડ કમ્બશન (Rapid combustion) કહે છે[cite: 7]."
+  },
+  {
+    "id": 125,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "What is the approximate cooling water requirement for a diesel engine?",
+    "gujaratiQuestion": "0125. ડીઝલ એન્જિન માટે કૂલિંગ વોટરની જરૂરિયાત આશરે કેટલી હોય છે?",
+    "options": [
+      "0.2 થી 1.0 લિટર પ્રતિ મિનિટ પ્રતિ HP",
+      "1 થી 3 લિટર પ્રતિ મિનિટ પ્રતિ HP",
+      "10 થી 20 લિટર પ્રતિ મિનિટ પ્રતિ HP",
+      "20 થી 30 લિટર પ્રતિ મિનિટ પ્રતિ HP"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડીઝલ એન્જિનમાં સામાન્ય રીતે 1 થી 3 લિટર પ્રતિ મિનિટ પ્રતિ બ્રેક હોર્સપાવર (L/min/HP) કૂલિંગ વોટર પરિભ્રમણ જરૂરી બને છે[cite: 7]."
+  },
+  {
+    "id": 126,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Where is the engine cooling fan generally fitted in a front-engine vehicle?",
+    "gujaratiQuestion": "Q126. કૂલિંગ ફેન (Cooling fan) ને સામાન્ય રીતે ક્યાં ફિટ કરવામાં આવે છે?",
+    "options": [
+      "એન્જિન અને ડેશબોર્ડની વચ્ચે",
+      "એન્જિન અને રેડિએટરની વચ્ચે",
+      "રેડિએટરની આગળ",
+      "એક્ઝોસ્ટ પાઈપ પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કૂલિંગ ફેન સામાન્ય રીતે રેડિએટર અને એન્જિન બ્લોકની વચ્ચે ફિટ કરાય છે જેથી રેડિએટર કોરમાંથી હવા ખેંચી શકાય[cite: 7]."
+  },
+  {
+    "id": 127,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "If an I.C. engine is overcooled (temperature drops below operating range), what is the result?",
+    "gujaratiQuestion": "0127. જો આઈ.સી. એન્જિનનું તાપમાન જરૂર કરતા વધારે ઘટી જાય (ઓવરકૂલિંગ થાય), તો શું પરિણામ આવે છે?",
+    "options": [
+      "થર્મલ એફિશિયન્સી વધે છે",
+      "થર્મલ એફિશિયન્સી ઘટે છે",
+      "ઘર્ષણ શૂન્ય થઇ જાય છે",
+      "પાવર આઉટપુટ ડબલ થાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓવરકૂલિંગથી કૂલન્ટમાં હીટ લોસ વધે છે, ઇંધણનું બાષ્પીભવન નબળું પડે છે અને થર્મલ કાર્યક્ષમતા ઘટે છે[cite: 7]."
+  },
+  {
+    "id": 128,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "An air standard cycle consisting of two isothermal and two constant volume processes is:",
+    "gujaratiQuestion": "Q128. એક એર સ્ટાન્ડર્ડ સાયકલ કે જે બે આઇસોથર્મલ અને બે કોન્સ્ટન્ટ વોલ્યુમ પ્રોસેસ ધરાવે છેઃ",
+    "options": [
+      "લેનોઈર સાયકલ",
+      "સ્ટર્લિંગ સાયકલ",
+      "ડીઝલ સાયકલ",
+      "ઓટો સાયકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટર્લિંગ સાયકલમાં 2 રિવર્સિબલ આઇસોથર્મલ અને 2 રિવર્સિબલ આઇસોકોરિક (કોન્સ્ટન્ટ વોલ્યુમ) પ્રક્રિયાઓ હોય છે[cite: 7]."
+  },
+  {
+    "id": 129,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Compared to an air cooling system, what is the main disadvantage of a water cooling system?",
+    "gujaratiQuestion": "0129. એર કૂલિંગ સિસ્ટમની સરખામણીમાં વૉટર કૂલિંગ સિસ્ટમનો મુખ્ય ગેરફાયદો કયો છે?",
+    "options": [
+      "તે વધુ સમાન કૂલિંગ આપે છે",
+      "સિસ્ટમનું વજન અને જાળવણી ખર્ચ વધારે હોય છે",
+      "તે એન્જિનનો અવાજ શોષી લે છે",
+      "તે પાવર આઉટપુટ વધારે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વોટર કૂલિંગમાં રેડિએટર, પંપ, પાઇપ્સ અને જેકેટને કારણે સિસ્ટમનું વજન, જટિલતા અને જાળવણી ખર્ચ વધે છે[cite: 7]."
+  },
+  {
+    "id": 130,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Which cooling system is commonly used in two-wheelers (motorcycles)?",
+    "gujaratiQuestion": "0130. ટુ-વ્હીલર (મોટરસાયકલ) ના એન્જિનમાં સામાન્ય રીતે કઈ કૂલિંગ સિસ્ટમનો ઉપયોગ થાય છે?",
+    "options": [
+      "વોટર કૂલિંગ",
+      "પ્રેસરાઇઝ્ડ વોટર કૂલિંગ",
+      "એર કૂલિંગ",
+      "ઓઇલ કૂલિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મોટરસાઇકલમાં કુદરતી હવાના પ્રવાહ અને ફિન્સ દ્વારા એર કૂલિંગ (Air cooling) પદ્ધતિ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 131,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "For the same maximum and minimum temperatures, a Rankine cycle has:",
+    "gujaratiQuestion": "0131. સમાન મેક્સિમમ અને મિનિમમ ટેમ્પરેચર માટે, રેન્કાઈન સાયકલ:",
+    "options": [
+      "કાર્નોટ સાયકલ કરતા વધારે એફિશિયન્સી હોય છે",
+      "કાર્નોટ સાયકલ જેટલી જ એફિશિયન્સી હોય છે",
+      "કાર્નોટ સાયકલ કરતા ઓછું સ્પેસિફિક વર્ક આઉટપુટ હોય છે",
+      "કાર્નોટ સાયકલ કરતા વધારે સ્પેસિફિક વર્ક આઉટપુટ હોય છે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "રેન્કિન સાયકલમાં પંપ વર્ક ઘણું ઓછું હોવાથી કાર્નોટ વેપર સાયકલ કરતાં વધુ સ્પેસિફિક વર્ક આઉટપુટ મળે છે[cite: 7]."
+  },
+  {
+    "id": 132,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Which type of thermostat valve contains a volatile liquid like alcohol or acetone in an expandable capsule?",
+    "gujaratiQuestion": "0132. થર્મોસ્ટેટ વાલ્વના જે પ્રકારમાં આલ્કોહોલ અથવા એસીટોન જેવું પ્રવાહી ભરેલું હોય છે, તેને કયો પ્રકાર કહેવાય છે?",
+    "options": [
+      "બટરફ્લાય પ્રકાર",
+      "બેલોઝ પ્રકાર",
+      "સ્લીવ પ્રકાર",
+      "વેક્યુમ પ્રકાર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બેલોઝ પ્રકારના થર્મોસ્ટેટમાં વોલેટાઇલ લિક્વિડ ગરમ થઈને વિસ્તરે છે અને વાલ્વ ખોલે છે[cite: 7]."
+  },
+  {
+    "id": 133,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "Which type of engine does NOT have a spark plug and carburetor?",
+    "gujaratiQuestion": "Q133. કયા પ્રકારના એન્જિનમાં સ્પાર્ક પ્લગ અને કાર્બ્યુરેટર હોતા નથી?",
+    "options": [
+      "પેટ્રોલ એન્જિન",
+      "સીએનજી એન્જિન",
+      "ડીઝલ એન્જિન",
+      "ગેસ એન્જિન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડીઝલ (C.I.) એન્જિનમાં કમ્પ્રેશન ઇગ્નિશન અને ફ્યુઅલ ઇન્જેક્ટર હોવાથી કાર્બ્યુરેટર કે સ્પાર્ક પ્લગ હોતા નથી[cite: 7]."
+  },
+  {
+    "id": 134,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "If dry saturated steam undergoes isentropic expansion in a steam turbine, what will its state be at the exit?",
+    "gujaratiQuestion": "0134. જો ડ્રાય સેચ્યુરેટેડ સ્ટીમને સ્ટીમ ટર્બાઈનમાં આઈસેન્ટ્રોપિક પ્રોસેસ હેઠળ દાખલ કરવામાં આવે, તો ટર્બાઈનની એક્ઝિટ પર તે કેવી હશે?",
+    "options": [
+      "સુપરહીટેડ સ્ટીમ",
+      "ડ્રાય સેચ્યુરેટેડ સ્ટીમ",
+      "લિક્વિડ કન્ડેન્સેટ",
+      "વેટ સ્ટીમ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "આઇસેન્ટ્રોપિક વિસ્તરણ થતાં સ્ટીમ ટુ-ફેઝ વેટ રીજનમાં દાખલ થાય છે અને વેટ સ્ટીમ બને છે[cite: 7]."
+  },
+  {
+    "id": 135,
+    "subject": "I.C. Engines",
+    "subTopic": "Fuel Supply Systems in SI & CI Engines",
+    "question": "When fuel is injected into the cylinder by an injector, what should its physical state be?",
+    "gujaratiQuestion": "Q135. ઈન્જેક્ટર દ્વારા સિલિન્ડરમાં ફયુઅલ દાખલ થાય ત્યારે તેનું સ્વરૂપ કેવું હોવું જોઈએ?",
+    "options": [
+      "પ્રવાહીના મોટા ટીપાં",
+      "ખૂબ જ ઝીણા કણો (ફાઈન સ્પ્રે અથવા મિસ્ટ)",
+      "સંપૂર્ણ ઘન",
+      "સંપૂર્ણ વાયુ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઝડપી બાષ્પીભવન અને મિશ્રણ માટે ઇંધણ અતિ બારીક સ્પ્રે કે મિસ્ટ (Fine spray) સ્વરૂપે હોવું જોઈએ[cite: 7]."
+  },
+  {
+    "id": 136,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "In automobiles, a V-belt drive is primarily used to drive which auxiliary components?",
+    "gujaratiQuestion": "0136. વાહનોમાં વી-બેલ્ટ (V-belt) નો ઉપયોગ મુખ્યત્વે કઈ સિસ્ટમ ચલાવવા માટે થાય છે?",
+    "options": [
+      "માત્ર વોટર પંપ",
+      "કૂલિંગ ફેન, વોટર પંપ અને ઓલ્ટરનેટર",
+      "ફ્યુઅલ પંપ",
+      "ઓઈલ પંપ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એન્જિન ક્રેન્કશાફ્ટ પુલીમાંથી વી-બેલ્ટ કૂલિંગ ફેન, વોટર પંપ અને ઓલ્ટરનેટર/જનરેટરને પાવર આપે છે[cite: 7]."
+  },
+  {
+    "id": 137,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "An engine has 75% mechanical efficiency and produces 40 kW Brake Power. Assuming constant friction power, what is its new mechanical efficiency at half load?",
+    "gujaratiQuestion": "0137. એક ઍન્જિનની મિકેનિકલ એફિશિયન્સી 75% છે અને તે 40 kW નો બ્રેક પાવર ઉત્પન્ન કરે છે. જો ફ્રિક્શન પાવર અચળ માનવામાં આવે, તો હાફ લોડ પર નવી મિકેનિકલ એફિશિયન્સી કેટલી હશે?",
+    "options": [
+      "65%",
+      "40%",
+      "60%",
+      "50%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "IP = BP / η_m = 40 / 0.75 = 53.33 kW. FP = IP - BP = 13.33 kW. At half load (BP = 20 kW): IP_new = 20 + 13.33 = 33.33 kW. η_m_new = 20 / 33.33 = 60%[cite: 7]."
+  },
+  {
+    "id": 138,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "When should lubricating oil level be checked in a four-stroke engine using a dipstick?",
+    "gujaratiQuestion": "0138. ફોર-સ્ટ્રોક એન્જિનમાં લ્યુબ્રિકેટિંગ ઓઈલનું લેવલ ક્યારે ચેક કરવું જોઈએ?",
+    "options": [
+      "એન્જિન ચાલુ હોય ત્યારે",
+      "એન્જિન સ્ટાર્ટ કરતા પહેલાં (અથવા બંધ કર્યાના થોડા સમય પછી)",
+      "એન્જિન આઈડલિંગ પર હોય ત્યારે",
+      "એન્જિન ફૂલ લોડ પર હોય ત્યારે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓઇલ સમ્પમાં સંપૂર્ણ સ્થિર જમા થયેલું હોય તે માટે એન્જિન શરૂ કરતાં પહેલાં સમતલ સપાટી પર લેવલ ચેક કરવું જોઈએ[cite: 7]."
+  },
+  {
+    "id": 139,
+    "subject": "I.C. Engines",
+    "subTopic": "Fuel Supply Systems in SI & CI Engines",
+    "question": "How does injection pressure in a diesel engine compare to the fuel pressure in a carbureted petrol engine?",
+    "gujaratiQuestion": "Q139. ડીઝલ એન્જિનમાં ઇન્જેક્શનનું પ્રેશર કાર્બ્યુરેટેડ પેટ્રોલ એન્જિનના ફ્યુઅલ પ્રેશર કરતા કેવું હોય છે?",
+    "options": [
+      "ખૂબ ઓછું",
+      "સમાન",
+      "ઘણું વધારે",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડીઝલ ઇન્જેક્શન પ્રેશર 100 થી 2000+ બાર હોય છે, જે કાર્બ્યુરેટરના 0.2 થી 0.5 બાર કરતાં ઘણું વધારે હોય છે[cite: 7]."
+  },
+  {
+    "id": 140,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "Which of the following is NOT an assumption for the air-standard Otto cycle?",
+    "gujaratiQuestion": "Q140. એર-સ્ટાન્ડર્ડ ઓટો સાયકલ માટે નીચેનામાંથી કઈ આવશ્યક ધારણા (assumption) નથી?",
+    "options": [
+      "તમામ પ્રોસેસ આંતરિક તેમજ બાહ્ય રીતે રિવર્સિબલ છે.",
+      "ઈન્ટેક અને એક્ઝોસ્ટ પ્રોસેસ એ કોન્સ્ટન્ટ વોલ્યુમ હીટ રિજેક્શન પ્રોસેસ છે.",
+      "કમ્બશન પ્રોસેસ એ કોન્સ્ટન્ટ વોલ્યુમ હીટ એડિશન પ્રોસેસ છે.",
+      "વર્કિંગ ફ્લુઇડ એ અચળ સ્પેસિફિક હીટ ધરાવતો આઇડિયલ ગેસ છે."
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓટો સાયકલમાં ક્લોઝ્ડ સિસ્ટમ માનવામાં આવે છે જ્યાં ઓપન ઇન્ટેક અને એક્ઝોસ્ટ પ્રોસેસ હોતી નથી[cite: 7]."
+  },
+  {
+    "id": 141,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "In an S.I. engine, what is the effect of increasing cooling water temperature on the tendency to knock?",
+    "gujaratiQuestion": "0141. એક ઍન્જિનમાં કૂલિંગ જળનું તાપમાન વધારવાથી સામાન્ય રીતે નોકિંગ (Knocking) ની વૃત્તિ પર શું અસર થાય છે? (એસ.આઈ.એન્જિનમાં)",
+    "options": [
+      "નોકિંગની વૃત્તિ ઘટે છે",
+      "નોકિંગની વૃત્તિ વધે છે",
+      "કોઈ અસર થતી નથી",
+      "એન્જિન અટકી જાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કૂલિંગ વોટર તાપમાન વધતાં સિલિન્ડર વોલ અને એન્ડ ગેસનું તાપમાન વધે છે, જેથી S.I. એન્જિનમાં નોકિંગ વધે છે[cite: 7]."
+  },
+  {
+    "id": 142,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Which type of water pump is generally used in an engine forced water cooling system?",
+    "gujaratiQuestion": "Q142. કૂલિંગ વોટર માટે જળ-પરિભ્રમણ સિસ્ટમમાં 'વોટર પંપ' સામાન્ય રીતે કયા પ્રકારનો હોય છે?",
+    "options": [
+      "ગિયર પંપ",
+      "સેન્ટ્રીફયુગલ પંપ",
+      "વેન પંપ",
+      "રેસીપ્રોકેટિંગ પંપ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોટા ડિસ્ચાર્જ અને સતત સર્ક્યુલેશન માટે એન્જિનમાં સેન્ટ્રીફ્યુગલ પંપ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 143,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "What is the typical compression ratio for a petrol (S.I.) engine?",
+    "gujaratiQuestion": "0143. પેટ્રોલ એન્જિન માટે કમ્પ્રેશન રેશિયો કેટલો હોય છે?",
+    "options": [
+      "3 થી 6",
+      "6 થી 10 (અથવા 5 થી 8)",
+      "15 થી 20",
+      "20 થી 30"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડિટોનેશન રોકવા માટે પેટ્રોલ એન્જિનનો કમ્પ્રેશન રેશિયો મર્યાદિત 6 થી 10 (આન્સર કી B મુજબ 5 થી 8) રાખવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 144,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "The gear pump commonly used in engine forced lubrication systems is driven by:",
+    "gujaratiQuestion": "0144. સામાન્ય રીતે લ્યુબ્રિકેશન સિસ્ટમમાં વપરાતા ગિયર પંપ (Gear pump) ને કોના દ્વારા ચલાવવામાં આવે છે?",
+    "options": [
+      "બેટરી",
+      "કેમશાફ્ટ અથવા ક્રેન્કશાફ્ટ",
+      "કૂલિંગ ફેન",
+      "સેલ્ફ સ્ટાર્ટર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓઇલ ગિયર પંપ એન્જિનની કેમશાફ્ટ અથવા ક્રેન્કશાફ્ટ સાથે ગિયર મેશ દ્વારા ડ્રાઇવ મેળવે છે[cite: 7]."
+  },
+  {
+    "id": 145,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "What is the primary purpose of an oil filter in a lubrication system?",
+    "gujaratiQuestion": "0145. લ્યુબ્રિકેશન સિસ્ટમમાં ઓઈલ ફિલ્ટર (Oil filter) નો મુખ્ય હેતુ શું છે?",
+    "options": [
+      "ઓઈલને ઠંડુ કરવું",
+      "ઓઈલમાંથી ધાતુના કણો અને કચરો દૂર કરવો",
+      "ઓઇલનું પ્રેશર ઘટાડવું",
+      "ઓઈલની વિસ્કોસિટી વધારવી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓઇલ ફિલ્ટર લ્યુબ્રિકન્ટમાં રહેલા ધાતુના બારીક કણો, કાર્બન અને અશુદ્ધિઓને ગાળીને શુદ્ધ ઓઇલ સપ્લાય કરે છે[cite: 7]."
+  },
+  {
+    "id": 146,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "What is the correct sequence of the four basic processes in a 4-stroke Otto cycle engine?",
+    "gujaratiQuestion": "0146. ઓટો સાયકલ એ સ્પાર્ક ઈગ્નિશન એન્જિનની એર સ્ટાન્ડર્ડ સાયકલ છે. એન્જિનની પ્રથમ ચાર પ્રોસેસનો ક્રમ કયો છે?",
+    "options": [
+      "ઈન્ટેક, એક્સપાન્શન, કમ્બશન, કમ્પ્રેશન",
+      "ઇન્ટેક, કમ્બશન, કમ્પ્રેશન, એક્સપાન્શન",
+      "ઈન્ટેક, કમ્પ્રેશન, કમ્બશન, એક્સપાન્શન",
+      "ઇન્ટેક, કમ્બશન, એક્સપાન્શન, કમ્પ્રેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સાચો ક્રમ: સક્શન (ઇન્ટેક) -> કમ્પ્રેશન -> કમ્બશન (હીટ એડિશન) -> એક્સપાન્શન (પાવર)[cite: 7]."
+  },
+  {
+    "id": 147,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "Where does the mixing of air and diesel fuel take place in a diesel engine?",
+    "gujaratiQuestion": "0147. ડીઝલ એન્જિનમાં હવા અને ડીઝલનું મિશ્રણ ક્યાં થાય છે?",
+    "options": [
+      "કાર્બ્યુરેટરમાં",
+      "ફયુઅલ પંપમાં",
+      "ઈન્ટેક મેનિફોલ્ડમાં",
+      "સિલિન્ડરની અંદર (દહન કક્ષમાં)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ડીઝલ એન્જિનમાં હવા અને ડીઝલનું મિશ્રણ સીધું સિલિન્ડરની અંદર કમ્બશન ચેમ્બરમાં થાય છે[cite: 7]."
+  },
+  {
+    "id": 148,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "Which four thermodynamic processes constitute an air standard Otto cycle?",
+    "gujaratiQuestion": "0148. ઓટો સાયકલમાં કઈ 4 મુખ્ય પ્રક્રિયાઓનો સમાવેશ થાય છે?",
+    "options": [
+      "2 અચળ દબાણ અને 2 આઈસેન્ટ્રોપિક",
+      "2 અચળ કદ અને 2 આઇસેન્ટ્રોપિક",
+      "2 આઇસોથર્મલ અને 2 અચળ કદ",
+      "2 આઇસોથર્મલ અને 2 અચળ દબાણ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓટો સાયકલમાં 2 રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક) અને 2 કોન્સ્ટન્ટ વોલ્યુમ (આઈસોકોરિક) પ્રક્રિયાઓ હોય છે[cite: 7]."
+  },
+  {
+    "id": 149,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "In an Otto cycle, maximum temperature during heat addition is 1200 K and exhaust temperature is 600 K. Find compression ratio (for γ = 1.4).",
+    "gujaratiQuestion": "0149. એક ઓટો સાયકલમાં હીટ એડિશન વખતે મહત્તમ ટેમ્પરેચર 1200 K અને ઍક્ઝોસ્ટ ટેમ્પરેચર 600 K છે. કમ્પ્રેશનની શરૂઆતમાં, હવાનું પ્રેશર 1 Bar અને ટેમ્પરેચર 27°C છે. હવાનો કમ્પ્રેશન રેશિયો શોધો. (હવા માટે γ = 1.4 ધારો)",
+    "options": [
+      "3.65",
+      "5.65",
+      "4.66",
+      "8.65"
+    ],
+    "correctAnswer": 1,
+    "explanation": "T3/T4 = r^(γ-1) => 1200 / 600 = 2 = r^0.4 => r = 2^(1/0.4) = 2^2.5 ≈ 5.656[cite: 7]."
+  },
+  {
+    "id": 150,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "During which thermodynamic process does heat addition occur in a Diesel cycle?",
+    "gujaratiQuestion": "0150. ડીઝલ સાયકલમાં ઉષ્માનો ઉમેરો કઈ પ્રક્રિયા દરમિયાન થાય છે?",
+    "options": [
+      "અચળ કદ",
+      "અચળ તાપમાન",
+      "અચળ દબાણ",
+      "આઈસેન્ટ્રોપિક"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડીઝલ સાયકલમાં ઉષ્માનો ઉમેરો અચળ દબાણે (Isobaric process) થાય છે[cite: 7]."
+  },
+  {
+    "id": 151,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "In an Otto cycle, heat addition and heat rejection occur during which process?",
+    "gujaratiQuestion": "0151. ઓટો સાયકલમાં ઉષ્માનો ઉમેરો અને નિકાલ કઈ પ્રક્રિયા દરમિયાન થાય છે?",
+    "options": [
+      "અચળ દબાણ",
+      "અચળ તાપમાન",
+      "આઈસેન્ટ્રોપિક",
+      "અચળ કદ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઓટો સાયકલ એ કોન્સ્ટન્ટ વોલ્યુમ સાયકલ છે જેમાં ઉષ્મા ઉમેરો (2-3) અને નિકાલ (4-1) બંને અચળ કદ (Isochoric) પર થાય છે[cite: 7]."
+  },
+  {
+    "id": 152,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "What is an air-standard Diesel cycle composed of?",
+    "gujaratiQuestion": "Q152. એર-સ્ટાન્ડર્ડ ડીઝલ સાયકલ શેની બનેલી હોય છે?",
+    "options": [
+      "બે એડિયાબેટિક અને બે કોન્સ્ટન્ટ વોલ્યુમ પ્રોસેસ",
+      "બે કોન્સ્ટન્ટ વોલ્યુમ અને બે આઈસોથર્મલ પ્રોસેસ",
+      "એક કોન્સ્ટન્ટ પ્રેશર, એક કોન્સ્ટન્ટ વોલ્યુમ અને બે એડિયાબેટિક પ્રોસેસ",
+      "એક કોન્સ્ટન્ટ પ્રેશર, એક કોન્સ્ટન્ટ વોલ્યુમ અને બે આઇસોથર્મલ પ્રોસેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડીઝલ સાયકલમાં બે રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક), એક કોન્સ્ટન્ટ પ્રેશર હીટ એડિશન અને એક કોન્સ્ટન્ટ વોલ્યુમ હીટ રિજેક્શન પ્રોસેસ હોય છે[cite: 7]."
+  },
+  {
+    "id": 153,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "For the same compression ratio and same heat addition, which cycle has the highest thermal efficiency?",
+    "gujaratiQuestion": "0153. સમાન કમ્પ્રેશન રેશિયો અને સમાન ઉષ્મા ઉમેરા માટે કઈ સાયકલની થર્મલ એફિશિયન્સી સૌથી વધુ હોય છે?",
+    "options": [
+      "ઓટો સાયકલ",
+      "ડીઝલ સાયકલ",
+      "ડ્યુઅલ સાયકલ",
+      "બ્રેટન સાયકલ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સમાન કમ્પ્રેશન રેશિયો અને સમાન હીટ ઇનપુટ પર ઓટો સાયકલમાં સૌથી ઓછું હીટ રિજેક્શન થતું હોવાથી તેની કાર્યક્ષમતા મહત્તમ હોય છે (η_Otto > η_Dual > η_Diesel)[cite: 7]."
+  },
+  {
+    "id": 154,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "For the same maximum pressure and maximum temperature, which cycle has the highest thermal efficiency?",
+    "gujaratiQuestion": "0154. સમાન મહત્તમ દબાણ અને મહત્તમ તાપમાન માટે કઈ સાયકલની થર્મલ એફિશિયન્સી સૌથી વધુ હોય છે?",
+    "options": [
+      "ઓટો સાયકલ",
+      "ડીઝલ સાયકલ",
+      "ડ્યુઅલ સાયકલ",
+      "કાર્નોટ સાયકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સમાન પીક પ્રેશર અને પીક ટેમ્પરેચર માટે ડીઝલ સાયકલનો કમ્પ્રેશન રેશિયો વધુ રાખવો શક્ય બનતો હોવાથી ડીઝલ સાયકલની કાર્યક્ષમતા સર્વોચ્ચ હોય છે[cite: 7]."
+  },
+  {
+    "id": 155,
+    "subject": "I.C. Engines",
+    "subTopic": "Fuel Supply Systems in SI & CI Engines",
+    "question": "What will happen if an air lock occurs in the diesel fuel supply line?",
+    "gujaratiQuestion": "0155. ફયુઅલ લાઇનમાં એર લોક થવાથી શું થશે?",
+    "options": [
+      "એન્જિન હાઈ આઈડલિંગ કરશે",
+      "ઇન્જેક્ટર પ્રેશર ખૂબ વધી જશે",
+      "મોડું સ્ટાર્ટિંગ અને અનિયમિત (erratic) રનિંગ અથવા એન્જિન બંધ થઈ જશે",
+      "FI પંપમાંથી વધુ પડતી ડિલિવરી થશે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફ્યુઅલ લાઇનમાં હવા ભરાવાથી ઇંધણનું પ્રેશરાઇઝેશન અટકી જાય છે, જેથી એન્જિન સ્ટાર્ટ થવામાં મુશ્કેલી પડે છે અથવા અનિયમિત રનિંગ થાય છે[cite: 7]."
+  },
+  {
+    "id": 156,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "On what does the thermal efficiency of an ideal Otto cycle primarily depend?",
+    "gujaratiQuestion": "Q156. આદર્શ ઓટો સાયકલની થર્મલ એફિશિયન્સી મુખ્યત્વે કોના પર આધાર રાખે છે?",
+    "options": [
+      "માત્ર ઉષ્માના ઉમેરા પર",
+      "માત્ર કમ્પ્રેશન રેશિયો પર",
+      "મહત્તમ તાપમાન પર",
+      "કટ-ઓફ રેશિયો પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓટો સાયકલની કાર્યક્ષમતા η = 1 - 1/(r^(γ-1)) માત્ર કમ્પ્રેશન રેશિયો (r) અને એડિઆબેટિક ઇન્ડેક્સ (γ) પર આધાર રાખે છે[cite: 7]."
+  },
+  {
+    "id": 157,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "What is the effect on the efficiency of an Otto cycle if the compression ratio is increased?",
+    "gujaratiQuestion": "0157. જો ઓટો સાયકલમાં કમ્પ્રેશન રેશિયો વધારવામાં આવે, તો તેની એફિશિયન્સી પર શું અસર થાય છે?",
+    "options": [
+      "ઘટે છે",
+      "વધે છે",
+      "અચળ રહે છે",
+      "શૂન્ય થાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કમ્પ્રેશન રેશિયો (r) વધવાથી 1/(r^(γ-1)) નું મૂલ્ય ઘટે છે, જેથી સાયકલની થર્મલ કાર્યક્ષમતા વધે છે[cite: 7]."
+  },
+  {
+    "id": 158,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "For a constant compression ratio, what happens to the thermal efficiency of a Diesel cycle when the cut-off ratio is increased?",
+    "gujaratiQuestion": "0158. ડીઝલ સાયકલની થર્મલ એફિશિયન્સી સમાન કમ્પ્રેશન રેશિયો પર કટ-ઓફ રેશિયો વધારવાથી શું થાય છે?",
+    "options": [
+      "વધે છે",
+      "અચળ રહે છે",
+      "ઘટે છે",
+      "શરૂઆતમાં વધે પછી ઘટે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કટ-ઓફ રેશિયો (rc) વધારવાથી હીટ રિજેક્શન વધે છે અને વિસ્તરણ રેશિયો ઘટે છે, જેથી ડીઝલ સાયકલની થર્મલ કાર્યક્ષમતા ઘટે છે[cite: 7]."
+  },
+  {
+    "id": 159,
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "Which of the following is the standard document format to record vehicle defects at a service station?",
+    "gujaratiQuestion": "Q159. સર્વિસ સ્ટેશન પર વાહનમાં રહેલી ખામીઓને રેકોર્ડ કરવા માટે નીચેનામાંથી કયું સ્ટાન્ડર્ડ ફોર્મેટ છે?",
+    "options": [
+      "જોબ કાર્ડ",
+      "વ્હીકલ મેન્યુઅલ",
+      "લોગ બુક",
+      "મેન્ટેનન્સ મેન્યુઅલ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સર્વિસ સ્ટેશન પર ગ્રાહકની ફરિયાદો, વાહનની ખામીઓ અને જરૂરી કામગીરીની નોંધ જોબ કાર્ડ (Job Card) પર કરવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 160,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "How does heat addition take place in a Dual combustion cycle?",
+    "gujaratiQuestion": "0160. ડ્યુઅલ સાયકલમાં ઉષ્માનો ઉમેરો કેવી રીતે થાય છે?",
+    "options": [
+      "માત્ર અચળ દબાણ પર",
+      "માત્ર અચળ કદ પર",
+      "અંશતઃ અચળ કદ પર અને અંશતઃ અચળ દબાણ પર",
+      "અચળ તાપમાન પર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડ્યુઅલ (સેમી-ડીઝલ) સાયકલમાં ઉષ્માનો પ્રથમ ભાગ અચળ કદ પર અને બાકીનો ભાગ અચળ દબાણ પર ઉમેરાય છે[cite: 7]."
+  },
+  {
+    "id": 161,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "High-speed Compression Ignition (C.I.) engines mainly operate on which thermodynamic cycle?",
+    "gujaratiQuestion": "0161. હાઈ સ્પીડ કમ્પ્રેશન ઇગ્નિશન એન્જિન મુખ્યત્વે કઈ સાયકલ પર કાર્ય કરે છે?",
+    "options": [
+      "ડીઝલ સાયકલ",
+      "ડ્યુઅલ સાયકલ",
+      "ઓટો સાયકલ",
+      "રેન્કાઈન સાયકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આધુનિક હાઇ સ્પીડ ડીઝલ એન્જિનો વ્યવહારમાં મર્યાદિત દબાણ સાયકલ એટલે કે ડ્યુઅલ કમ્બશન સાયકલ પર કાર્ય કરે છે[cite: 7]."
+  },
+  {
+    "id": 162,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Which of the following is a primary cause of engine overheating?",
+    "gujaratiQuestion": "0162. એન્જિન ઓવરહીટ થવા માટે નીચેનામાંથી કયું યોગ્ય કારણ છે?",
+    "options": [
+      "ક્લોગ્ડ રેડિએટર કોર",
+      "લો આઇડલ સ્પીડ સેટિંગ",
+      "અતિશય વાલ્વ ક્લિયરન્સ",
+      "ઓઈલની ખૂબ વધારે વિસ્કોસિટી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રેડિએટર કોર કે ટ્યુબ્સમાં ક્ષાર કે કાદવ જામવાથી (Clogged Radiator) કૂલન્ટનું પરિભ્રમણ અને હીટ ટ્રાન્સફર ઘટે છે, જેથી એન્જિન ઓવરહીટ થાય છે[cite: 7]."
+  },
+  {
+    "id": 163,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "If the cut-off ratio of a Diesel cycle becomes 1 (rc = 1), which cycle does it become?",
+    "gujaratiQuestion": "Q163. જો ડીઝલ સાયકલમાં કટ-ઓફ રેશિયો 1 થઈ જાય, તો તે કઈ સાયકલ બની જાય છે?",
+    "options": [
+      "કાર્નોટ સાયકલ",
+      "ડ્યુઅલ સાયકલ",
+      "ઓટો સાયકલ",
+      "બ્રેટન સાયકલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જ્યારે rc = 1 થાય ત્યારે અચળ દબાણે ઉષ્મા ઉમેરો શૂન્ય થાય છે અને ડીઝલ સાયકલ ઓટો સાયકલમાં ફેરવાય છે[cite: 7]."
+  },
+  {
+    "id": 164,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "What is the typical compression ratio range for a petrol (S.I.) engine?",
+    "gujaratiQuestion": "0164. પેટ્રોલ એન્જિનનો કમ્પ્રેશન રેશિયો સામાન્ય રીતે કેટલો હોય છે?",
+    "options": [
+      "6 થી 10",
+      "12 થી 15",
+      "16 થી 20",
+      "20 થી 24"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પેટ્રોલ એન્જિનમાં પ્રી-ઇગ્નિશન અને ડિટોનેશન અટકાવવા માટે કમ્પ્રેશન રેશિયો સામાન્ય રીતે 6 થી 10 ની મર્યાદામાં રખાય છે[cite: 7]."
+  },
+  {
+    "id": 165,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "If a customer complains of engine overheating, what should the mechanic check first as the most common external cause?",
+    "gujaratiQuestion": "0165. ગ્રાહક દ્વારા એન્જિન ઓવરહીટ થવાની ફરિયાદ કરવામાં આવે, તો મિકેનિકે ચેક કરવું જોઈએ કારણ કે આ સમસ્યા મોટેભાગે કોના કારણે થાય છે?",
+    "options": [
+      "અતિશય ટેપેટ ક્લિયરન્સ",
+      "ખામીયુક્ત પ્રેશર રિલીફ વાલ્વ",
+      "ઘસાઈ ગયેલા પિસ્ટન/લાઈનર/રિંગ્સ",
+      "લૂઝ ફેન બેલ્ટ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઢીલો ફેન બેલ્ટ સ્લિપ થવાથી કૂલિંગ ફેન અને વોટર પંપની ઝડપ ઘટી જાય છે, જે એન્જિન ઓવરહીટિંગનું સામાન્ય કારણ છે[cite: 7]."
+  },
+  {
+    "id": 166,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "What is the typical compression ratio range for a diesel (C.I.) engine?",
+    "gujaratiQuestion": "0166. ડીઝલ એન્જિનનો કમ્પ્રેશન રેશિયો સામાન્ય રીતે કેટલો હોય છે?",
+    "options": [
+      "4 થી 8",
+      "6 થી 10",
+      "10 થી 14",
+      "16 થી 22"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ડીઝલને સેલ્ફ-ઇગ્નાઇટ કરવા માટે પૂરતું ઊંચું તાપમાન મેળવવા કમ્પ્રેશન રેશિયો 16 થી 22 રાખવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 167,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "What is the actual power developed inside the engine cylinder by combustion of fuel called?",
+    "gujaratiQuestion": "Q167. એન્જિન સિલિન્ડરની અંદર દહન દ્વારા ઉત્પન્ન થતા વાસ્તવિક પાવરને શું કહેવાય છે?",
+    "options": [
+      "બ્રેક પાવર",
+      "ઈન્ડિકેટેડ પાવર",
+      "ફ્રિક્શન પાવર",
+      "મોર્સ પાવર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પિસ્ટન ક્રાઉન પર દહનથી સીધો પેદા થતો કુલ પાવર ઈન્ડિકેટેડ પાવર (Indicated Power - IP) કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 168,
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "What does PHEV stand for in automotive terminology?",
+    "gujaratiQuestion": "Q168. PHEV નું પૂરું નામ શું છે?",
+    "options": [
+      "Plug-in Hybrid Electronic Vehicles",
+      "Plug-in Hybrid Electric Vehicles",
+      "Plug-out Hybrid Electronic Vehicles",
+      "Plug-out Hybrid Electric Vehicles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PHEV એટલે Plug-in Hybrid Electric Vehicles[cite: 7]."
+  },
+  {
+    "id": 169,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "What is the useful power available at the engine crankshaft output shaft called?",
+    "gujaratiQuestion": "Q169. એન્જિનની ક્રેન્કશાફ્ટ પર મળતા ઉપયોગી પાવરને શું કહેવાય છે?",
+    "options": [
+      "બ્રેક પાવર",
+      "ઈન્ડિકેટેડ પાવર",
+      "ફ્રિક્શન પાવર",
+      "ફ્લુઇડ પાવર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઘર્ષણ લોસ બાદ કરતાં ફ્લાયવ્હીલ/ક્રેન્કશાફ્ટ પર મળતા ઉપયોગી પાવરને બ્રેક પાવર (Brake Power - BP) કહે છે[cite: 7]."
+  },
+  {
+    "id": 170,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "What is the difference between Indicated Power (IP) and Brake Power (BP) called?",
+    "gujaratiQuestion": "0170. ઈન્ડિકેટેડ પાવર અને બ્રેક પાવર વચ્ચેના તફાવતને શું કહેવાય છે?",
+    "options": [
+      "હીટ લોસ",
+      "ફ્રિક્શન પાવર",
+      "ઉપયોગી પાવર",
+      "એક્ઝોસ્ટ પાવર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "યાંત્રિક ભાગોના ઘર્ષણમાં વેડફાતા પાવરને ફ્રિક્શન પાવર કહે છે (FP = IP - BP)[cite: 7]."
+  },
+  {
+    "id": 171,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "For the same output, speed, and compression ratio, the thermal efficiency of a two-stroke petrol engine compared to a four-stroke petrol engine is:",
+    "gujaratiQuestion": "0171. સમાન આઉટપુટ, સમાન સ્પીડ અને સમાન કમ્પ્રેશન રેશિયો માટે, ફોર-સ્ટ્રોક સાયકલ પેટ્રોલ એન્જિનની સરખામણીમાં ટુ-સ્ટ્રોક સાયકલ પેટ્રોલ એન્જિનની થર્મલ એફિશિયન્સી કેટલી હોય છે?",
+    "options": [
+      "વધારે",
+      "ઓછી",
+      "સમાન",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટુ-સ્ટ્રોકમાં સ્કેવેન્જિંગ દરમિયાન તાજો ચાર્જ એક્ઝોસ્ટ પોર્ટમાંથી બહાર નીકળી જતો હોવાથી તેની થર્મલ કાર્યક્ષમતા ઓછી હોય છે[cite: 7]."
+  },
+  {
+    "id": 172,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "Mechanical efficiency of an engine is the ratio of:",
+    "gujaratiQuestion": "Q172. એન્જિનની મિકેનિકલ એફિશિયન્સી એ કોનો ગુણોત્તર છે?",
+    "options": [
+      "બ્રેક પાવર અને ઈન્ડિકેટેડ પાવર",
+      "ઈન્ડિકેટેડ પાવર અને બ્રેક પાવર",
+      "ઈન્ડિકેટેડ પાવર અને ફ્રિક્શન પાવર",
+      "બ્રેક પાવર અને ફયુઅલ પાવર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મિકેનિકલ કાર્યક્ષમતા η_m = બ્રેક પાવર / ઈન્ડિકેટેડ પાવર (BP / IP) થાય છે[cite: 7]."
+  },
+  {
+    "id": 173,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "Which test is used to determine the Indicated Power of each cylinder in a multi-cylinder I.C. engine?",
+    "gujaratiQuestion": "0173, મલ્ટી-સિલિન્ડર આઈ.સી. ઍન્જિનમાં દરેક સિલિન્ડરનો ઈન્ડિકેટેડ પાવર શોધવા માટે કયો ટેસ્ટ વપરાય છે?",
+    "options": [
+      "મોટરીંગ ટેસ્ટ",
+      "મોર્સ ટેસ્ટ",
+      "હીટ બેલેન્સ ટેસ્ટ",
+      "એક્ઝોસ્ટ ગેસ ટેસ્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વારાફરતી એક-એક સિલિન્ડરનો સ્પાર્ક/ઇન્જેક્શન કટ કરીને વ્યક્તિગત IP માપવા માટે મોર્સ ટેસ્ટ (Morse Test) વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 174,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "Theoretically, a four-stroke petrol engine works on which thermodynamic cycle?",
+    "gujaratiQuestion": "0174. ફોર-સ્ટ્રોક પેટ્રોલ એન્જિન સૈદ્ધાંતિક રીતે કઈ સાયકલ પર કામ કરે છે?",
+    "options": [
+      "ઓટો સાયકલ",
+      "બ્રેટન સાયકલ",
+      "જૂલ સાયકલ",
+      "બેલ કોલમેન સાયકલ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પેટ્રોલ એન્જિન માટે સૈદ્ધાંતિક પ્રમાણભૂત સાયકલ કોન્સ્ટન્ટ વોલ્યુમ ઓટો સાયકલ (Otto cycle) છે[cite: 7]."
+  },
+  {
+    "id": 175,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "The Morse test can only be applied to which type of engines?",
+    "gujaratiQuestion": "0175. મોર્સ ટેસ્ટ કયા પ્રકારના એન્જિન માટે લાગુ પાડી શકાય છે?",
+    "options": [
+      "માત્ર સિંગલ સિલિન્ડર એન્જિન",
+      "માત્ર સ્ટીમ એન્જિન",
+      "માત્ર ગેસ ટર્બાઈન",
+      "માત્ર મલ્ટી-સિલિન્ડર એન્જિન"
+    ],
+    "correctAnswer": 3,
+    "explanation": "મોર્સ ટેસ્ટ માટે ઓછામાં ઓછા બે અથવા વધુ સિલિન્ડર્સ (Multi-cylinder engine) હોવા જરૂરી છે[cite: 7]."
+  },
+  {
+    "id": 176,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "Brake Specific Fuel Consumption (BSFC) is generally measured in which unit?",
+    "gujaratiQuestion": "Q176. વિશિષ્ટ ઇંધણ વપરાશ સામાન્ય રીતે કયા એકમમાં મપાય છે?",
+    "options": [
+      "kg/s",
+      "kg/kW-hr",
+      "kW/kg-hr",
+      "J/kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "BSFC નો પ્રમાણિત એકમ કિલોગ્રામ પ્રતિ કિલોવોટ-અવર (kg/kW-hr) છે[cite: 7]."
+  },
+  {
+    "id": 177,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "In a diesel engine, what is the time interval between the start of injection and the start of ignition called?",
+    "gujaratiQuestion": "0177. ડીઝલ એન્જિનમાં, ઈન્જેક્શનના સમય અને ઈગ્નિશનના સમય વચ્ચેના ગાળાને શું કહેવાય છે?",
+    "options": [
+      "પિરિયડ ઓફ ઇગ્નિશન",
+      "એક્સપ્લોઝન પિરિયડ",
+      "પ્રિ-ઇગ્નિશન પિરિયડ",
+      "ડીલે પિરિયડ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઇન્જેક્શન શરૂ થવાથી દહન શરૂ થવા વચ્ચેના સમયગાળાને ઇગ્નિશન ડીલે પિરિયડ (Ignition delay period) કહે છે[cite: 7]."
+  },
+  {
+    "id": 178,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "Indicated thermal efficiency is the ratio of:",
+    "gujaratiQuestion": "Q178. ઈન્ડિકેટેડ થર્મલ એફિશિયન્સી એ કોનો ગુણોત્તર છે?",
+    "options": [
+      "બ્રેક પાવર અને ફયુઅલ પાવર",
+      "ઈન્ડિકેટેડ પાવર અને ફયુઅલ પાવર",
+      "ઇન્ડિકેટેડ પાવર અને બ્રેક પાવર",
+      "બ્રેક પાવર અને ફ્રિક્શન પાવર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇન્ડિકેટેડ થર્મલ કાર્યક્ષમતા η_ith = Indicated Power / Fuel Power = IP / (mf × CV)[cite: 7]."
+  },
+  {
+    "id": 179,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "Volumetric efficiency represents which of the following ratios?",
+    "gujaratiQuestion": "0179. વોલ્યુમેટ્રિક એફિશિયન્સી નીચેનામાંથી કોનો ગુણોત્તર દર્શાવે છે?",
+    "options": [
+      "એક્ચ્યુઅલ વોલ્યુમ અને ક્લિયરન્સ વોલ્યુમ",
+      "સ્વેપ્ટ વોલ્યુમ અને એક્ચ્યુઅલ વોલ્યુમ",
+      "એક્ચ્યુઅલ વોલ્યુમ અને સ્વેપ્ટ વોલ્યુમ",
+      "ક્લિયરન્સ વોલ્યુમ અને સ્વેપ્ટ વોલ્યુમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વોલ્યુમેટ્રિક કાર્યક્ષમતા = સક્શન દરમિયાન ખેંચાયેલી હવાનું વાસ્તવિક કદ (NTP પર) / પિસ્ટનનું સ્વેપ્ટ વોલ્યુમ (Actual air volume / Swept volume)[cite: 7]."
+  },
+  {
+    "id": 180,
+    "subject": "I.C. Engines",
+    "subTopic": "Heavy Earth Movers & Construction Equipment",
+    "question": "Which of the following is NOT an excavating equipment?",
+    "gujaratiQuestion": "Q180. નીચેનામાંથી કયું એક્સકેવેટિંગ (ખોદકામ) ઈક્વિપમેન્ટનો પ્રકાર નથી?",
+    "options": [
+      "બુલડોઝર",
+      "ડ્રેગલાઈન",
+      "પાવર શોવેલ",
+      "ક્રેન"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ક્રેન લિફ્ટિંગ અને મટિરિયલ હેન્ડલિંગ સાધન છે, ઉત્ખનન (Excavating) સાધન નથી[cite: 7]."
+  },
+  {
+    "id": 181,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "Which instrument is commonly used to measure the Brake Power (BP) of an engine?",
+    "gujaratiQuestion": "Q181. બ્રેક પાવર માપવા માટે સામાન્ય રીતે કયા સાધનનો ઉપયોગ થાય છે?",
+    "options": [
+      "ટેકોમીટર",
+      "ડાયનેમોમીટર",
+      "કેલરીમીટર",
+      "એનિમોમીટર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એન્જિનનો બ્રેક ટોર્ક અને બ્રેક પાવર માપવા માટે ડાયનેમોમીટર (Dynamometer) વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 182,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "Which instrument is used to measure the rotational speed (rpm) of an engine?",
+    "gujaratiQuestion": "Q182. એન્જિનની ઝડપ માપવા માટે કયા સાધનનો ઉપયોગ થાય છે?",
+    "options": [
+      "ટેકોમીટર",
+      "ડાયનેમોમીટર",
+      "પિઝોમીટર",
+      "રોટામીટર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "શાફ્ટની રોટેશનલ ઝડપ (RPM) માપવા માટે ટેકોમીટર (Tachometer) વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 183,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "At approximately what temperature does an engine cooling system thermostat valve begin to open?",
+    "gujaratiQuestion": "0183. એન્જિન કૂલિંગ સિસ્ટમનો થર્મોસ્ટેટ વાલ્વ આશરે કયા તાપમાને ખૂલવાનું શરૂ કરે છે?",
+    "options": [
+      "95°C",
+      "80°C",
+      "50°C",
+      "20°C"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોટાભાગના ઓટોમોબાઇલ થર્મોસ્ટેટ વાલ્વ આશરે 75°C થી 82°C (લગભગ 80°C) તાપમાને ખૂલવાનું શરૂ કરે છે[cite: 7]."
+  },
+  {
+    "id": 184,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "Which parameter can be directly determined from an indicator diagram?",
+    "gujaratiQuestion": "0184. ઇન્ડિકેટર ડાયાગ્રામ પરથી નીચેનામાંથી કઈ વસ્તુ માપી શકાય છે?",
+    "options": [
+      "બ્રેક પાવર",
+      "ફયુઅલ કન્ઝમ્પશન",
+      "ઈન્ડિકેટેડ મીન ઇફેક્ટિવ પ્રેશર (imep)",
+      "મિકેનિકલ એફિશિયન્સી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇન્ડિકેટર p-V ડાયાગ્રામના વિસ્તાર પરથી ઇન્ડિકેટેડ મીન ઇફેક્ટિવ પ્રેશર (imep) શોધાય છે[cite: 7]."
+  },
+  {
+    "id": 185,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "Approximately what percentage of the total heat energy supplied to an engine is converted into useful brake power?",
+    "gujaratiQuestion": "0185. એન્જિનમાં ઉત્પન્ન થતી કુલ ઉષ્મા ઉર્જામાંથી કેટલી ઉર્જા ઉપયોગી બ્રેક પાવર તરીકે મળે છે?",
+    "options": [
+      "10 થી 15%",
+      "30 થી 35%",
+      "60 થી 70%",
+      "90 થી 95%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હીટ બેલેન્સ શીટ મુજબ માત્ર 30% થી 35% ઉષ્મા બ્રેક પાવરમાં ફેરવાય છે; બાકીની ઉષ્મા કૂલિંગ, એક્ઝોસ્ટ અને રેડિયેશનમાં ગુમાવાય છે[cite: 7]."
+  },
+  {
+    "id": 186,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Which is the single most important property of an engine lubricating oil?",
+    "gujaratiQuestion": "0186. લ્યુબ્રિકેટિંગ ઓઈલની સૌથી અગત્યની લાક્ષણિકતા કઈ છે?",
+    "options": [
+      "વિસ્કોસિટી",
+      "ફિઝિકલ સ્ટેબિલિટી",
+      "કેમિકલ સ્ટેબિલિટી",
+      "કોરોઝન સામેનો અવરોધ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "લ્યુબ્રિકેટિંગ ઓઇલની સૌથી મહત્વપૂર્ણ લાક્ષણિકતા તેની વિસ્કોસિટી (Viscosity) છે જે લોડ વહન ક્ષમતા નક્કી કરે છે[cite: 7]."
+  },
+  {
+    "id": 187,
+    "subject": "I.C. Engines",
+    "subTopic": "Engine Emissions & Emission Control",
+    "question": "Which is the main toxic gas emitted in the exhaust of a petrol engine running on rich mixture?",
+    "gujaratiQuestion": "0187. પેટ્રોલ એન્જિનના એક્ઝોસ્ટમાં મુખ્ય ઝેરી વાયુ કયો હોય છે?",
+    "options": [
+      "ઓક્સિજન",
+      "નાઈટ્રોજન",
+      "કાર્બન મોનોક્સાઈડ",
+      "પાણીની વરાળ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઓક્સિજનની અછતને લીધે પેટ્રોલના અપૂર્ણ દહનથી ઝેરી કાર્બન મોનોક્સાઇડ (CO) વાયુ ઉત્પન્ન થાય છે[cite: 7]."
+  },
+  {
+    "id": 188,
+    "subject": "I.C. Engines",
+    "subTopic": "Engine Emissions & Emission Control",
+    "question": "When is unburnt hydrocarbon (HC) emission generally lowest in automobiles?",
+    "gujaratiQuestion": "Q188. વાહનોમાં હાઈડ્રોકાર્બન ઉત્સર્જન ક્યારે સૌથી ઓછું હોય છે?",
+    "options": [
+      "આઈડલિંગ વખતે",
+      "એક્સિલરેશન વખતે",
+      "ક્રુઝિંગ વખતે",
+      "ડીસિલરેશન વખતે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ક્રૂઝિંગ દરમિયાન સ્થિર લોડ અને પૂર્ણ દહન થતું હોવાથી હાઇડ્રોકાર્બન ઉત્સર્જન લઘુત્તમ હોય છે[cite: 7]."
+  },
+  {
+    "id": 189,
+    "subject": "I.C. Engines",
+    "subTopic": "Engine Emissions & Emission Control",
+    "question": "Which device is used in automobile exhaust systems to reduce toxic exhaust emissions?",
+    "gujaratiQuestion": "Q189. ઓટોમોબાઈલ વાહનોમાં એક્ઝોસ્ટ પ્રદૂષણ ઘટાડવા માટે કયા સાધનનો ઉપયોગ થાય છે?",
+    "options": [
+      "કાર્બ્યુરેટર",
+      "કેટાલીટીક કન્વર્ટર",
+      "સુપરચાર્જર",
+      "ઈન્ટરકૂલર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કેટાલીટીક કન્વર્ટર (Catalytic Converter) એક્ઝોસ્ટમાંથી CO, HC અને NOx નું રૂપાંતર હાનિરહિત વાયુઓમાં કરે છે[cite: 7]."
+  },
+  {
+    "id": 190,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "What is the theoretical stoichiometric air-fuel ratio by mass for petrol?",
+    "gujaratiQuestion": "0190. હવા અને પેટ્રોલનું સૈદ્ધાંતિક રીતે યોગ્ય મિશ્રણ કયું છે?",
+    "options": [
+      "10:1",
+      "15:1",
+      "20:1",
+      "25:1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સૈદ્ધાંતિક સ્ટોઇકિયોમેટ્રિક ગુણોત્તર 14.7:1 (આશરે 15:1) છે[cite: 7]."
+  },
+  {
+    "id": 191,
+    "subject": "I.C. Engines",
+    "subTopic": "Engine Emissions & Emission Control",
+    "question": "What is the primary cause of Carbon Monoxide (CO) emissions from an engine?",
+    "gujaratiQuestion": "0191. એન્જિનમાં કાર્બન મોનોક્સાઈડ ઉત્સર્જનનું મુખ્ય કારણ શું છે?",
+    "options": [
+      "અપૂર્ણ દહન",
+      "સંપૂર્ણ દહન",
+      "ઉચ્ચ તાપમાન",
+      "ઉચ્ચ દબાણ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "હવાની અપૂરતી માત્રાને કારણે ઇંધણનું અપૂર્ણ દહન (Incomplete combustion) થવાથી CO બને છે[cite: 7]."
+  },
+  {
+    "id": 192,
+    "subject": "I.C. Engines",
+    "subTopic": "Engine Emissions & Emission Control",
+    "question": "Which pollutant concentration is found to be highest in petrol engine exhaust during idling conditions?",
+    "gujaratiQuestion": "0192. જ્યારે વાહન આઇડલિંગ કન્ડિશનમાં હોય ત્યારે એક્ઝોસ્ટમાં કયા પ્રદૂષકનું પ્રમાણ સૌથી વધુ જોવા મળે છે?",
+    "options": [
+      "નાઈટ્રોજન ડાયોક્સાઈડ",
+      "કાર્બન મોનોક્સાઈડ",
+      "ઓઝોન",
+      "સલ્ફર ડાયોક્સાઇડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આઇડલિંગ વખતે રિચ મિશ્રણ અને ઓછું ઓક્સિજન હોવાથી કાર્બન મોનોક્સાઇડ (CO) ઉત્સર્જન સૌથી વધુ હોય છે[cite: 7]."
+  },
+  {
+    "id": 193,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "What is the most common cause of premature bearing failure in engines?",
+    "gujaratiQuestion": "0193. એન્જિનોના કિસ્સામાં પ્રિમેચ્યોર બેરિંગ ફેલ્યોરનું સૌથી સામાન્ય કારણ કયું છે?",
+    "options": [
+      "મિસ-એસેમ્બલ",
+      "ડર્ટ (ધૂળ/કચરો)",
+      "લ્યુબ્રિકેશનનો અભાવ",
+      "ઓવર લોડિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓઇલમાં ધૂળ અને ઘર્ષક કણો (Dirt/Contamination) નો પ્રવેશ બેરિંગ જર્નલ સપાટીને ઘસી નાખી વહેલી નિષ્ફળતા નોતરે છે[cite: 7]."
+  },
+  {
+    "id": 194,
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "Which system is used to remove harmful blow-by gases that leak into the crankcase?",
+    "gujaratiQuestion": "0194. ઍન્જિન સિલિન્ડરમાંથી લીક થઈને ક્રેન્કકેસમાં આવતા હાનિકારક વાયુઓને દૂર કરવા માટે કઈ સિસ્ટમ વપરાય છે?",
+    "options": [
+      "સુપરચાર્જિંગ",
+      "ટર્બોચાર્જિંગ",
+      "ક્રેન્કકેસ વેન્ટિલેશન (PCV)",
+      "એક્ઝોસ્ટ મેનિફોલ્ડ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ક્રેન્કકેસ વેન્ટિલેશન (PCV સિસ્ટમ) બ્લો-બાય વાયુઓને ફરી ઇન્ટેક મેનિફોલ્ડમાં મોકલી બાળી નાખે છે[cite: 7]."
+  },
+  {
+    "id": 195,
+    "subject": "I.C. Engines",
+    "subTopic": "Engine Emissions & Emission Control",
+    "question": "Which noble metals are used as catalysts in a catalytic converter?",
+    "gujaratiQuestion": "Q195. કેટાલીટીક કન્વર્ટરમાં ઉત્સેચક તરીકે કઈ ઉમદા ધાતુઓનો ઉપયોગ થાય છે?",
+    "options": [
+      "આયર્ન અને કોપર",
+      "એલ્યુમિનિયમ અને ઝીંક",
+      "પ્લેટિનમ, પેલેડિયમ અને રોડિયમ",
+      "સિલ્વર અને ગોલ્ડ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઓક્સિડેશન અને રિડક્શન પ્રક્રિયાઓ ઝડપી બનાવવા પ્લેટિનમ (Pt), પેલેડિયમ (Pd) અને રોડિયમ (Rh) ઉદ્દીપક તરીકે વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 196,
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "Why are diesel engines widely preferred for heavy road commercial transport?",
+    "gujaratiQuestion": "0196. રોડ ટ્રાન્સપોર્ટ માટે ડીઝલ એન્જિનોની પસંદગી શેના કારણે થાય છે?",
+    "options": [
+      "સરળ સ્ટાર્ટિંગ",
+      "લોડની મોટી રેન્જમાં ઓછું સ્પેસિફિક ફયુઅલ કન્ઝમ્પશન",
+      "ચાર્જનું સંપૂર્ણ કમ્બશન",
+      "હાનિરહિત એક્ઝોસ્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડીઝલ એન્જિન ઊંચી થર્મલ કાર્યક્ષમતા અને વિશાળ લોડ રેન્જમાં ઓછો સ્પેસિફિક ઇંધણ વપરાશ (Low BSFC) ધરાવે છે[cite: 7]."
+  },
+  {
+    "id": 197,
+    "subject": "I.C. Engines",
+    "subTopic": "Engine Emissions & Emission Control",
+    "question": "What is the primary cause of Nitrogen Oxides (NOx) formation in an engine?",
+    "gujaratiQuestion": "0197. એન્જિનમાં NOx ઉત્સર્જનનું મુખ્ય કારણ શું છે?",
+    "options": [
+      "ઓછું તાપમાન",
+      "કમ્બશન ચેમ્બરનું અતિ ઉચ્ચ તાપમાન (2000 K થી વધુ)",
+      "રિચ મિશ્રણ",
+      "અપૂર્ણ દહન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હવામાં રહેલા નાઇટ્રોજન અને ઓક્સિજન 1800-2000 K થી ઊંચા કમ્બશન તાપમાને પ્રક્રિયા કરી થર્મલ NOx બનાવે છે[cite: 7]."
+  },
+  {
+    "id": 198,
+    "subject": "I.C. Engines",
+    "subTopic": "Engine Emissions & Emission Control",
+    "question": "Exhaust Gas Recirculation (EGR) system is primarily used to reduce which pollutant?",
+    "gujaratiQuestion": "0198. એક્ઝોસ્ટ ગેસ રિસર્ક્યુલેશન સિસ્ટમનો ઉપયોગ મુખ્યત્વે કયા પ્રદૂષકને ઘટાડવા માટે થાય છે?",
+    "options": [
+      "CO",
+      "HC",
+      "NOx",
+      "પાર્ટિક્યુલેટ મેટર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "EGR એક્ઝોસ્ટ વાયુઓને ઇન્ટેકમાં પાછા ભેળવી પીક કમ્બશન તાપમાન ઘટાડે છે, જેથી NOx ઉત્સર્જન ઘટે છે[cite: 7]."
+  },
+  {
+    "id": 199,
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "In a C.I. engine, the tendency to knock increases with:",
+    "gujaratiQuestion": "0199. CI એન્જિનમાં નોકિંગની વૃત્તિ શેનાથી વધે છે?",
+    "options": [
+      "કમ્પ્રેશન રેશિયો વધવાથી",
+      "ઇન્ટેક એર ટેમ્પરેચર વધવાથી",
+      "કમ્પ્રેશન રેશિયો ઘટવાથી",
+      "કૂલન્ટ વોટર ટેમ્પરેચર વધવાથી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કમ્પ્રેશન રેશિયો ઘટાડવાથી કમ્પ્રેશન તાપમાન ઘટે છે, જેથી ઇગ્નિશન ડિલે લંબાઈને નોકિંગ વધે છે[cite: 7]."
+  },
+  {
+    "id": 200,
+    "subject": "I.C. Engines",
+    "subTopic": "Engine Emissions & Emission Control",
+    "question": "Compared to a diesel engine, which pollutant is generally higher in a petrol engine exhaust?",
+    "gujaratiQuestion": "0200. ડીઝલ એન્જિન કરતાં પેટ્રોલ એન્જિનમાં કયા પ્રદૂષકનું પ્રમાણ સામાન્ય રીતે વધુ હોય છે?",
+    "options": [
+      "નાઈટ્રોજન ઓક્સાઈડ્સ",
+      "પાર્ટિક્યુલેટ મેટર (સુટ)",
+      "કાર્બન મોનોક્સાઈડ (CO)",
+      "સલ્ફર ડાયોક્સાઈડ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પેટ્રોલ એન્જિન સ્ટોઇકિયોમેટ્રિક કે રિચ મિશ્રણ પર ચાલતું હોવાથી ડીઝલ (લીન બર્ન) કરતાં CO ઉત્સર્જન ઘણું વધારે હોય છે[cite: 7]."
+  },
+  {
+    "id": 201,
+    "subject": "I.C. Engines",
+    "subTopic": "Engine Emissions & Emission Control",
+    "question": "What is the simplest way to reduce black smoke in a diesel engine?",
+    "gujaratiQuestion": "0201. ડીઝલ એન્જિનમાં સ્મોક ઘટાડવાનો સૌથી સરળ ઉપાય કયો છે?",
+    "options": [
+      "ઓવરલોડિંગ ટાળવું અને યોગ્ય ઈંધણ વાપરવું",
+      "કમ્પ્રેશન રેશિયો ઘટાડવો",
+      "એન્જિનની સ્પીડ વધારવી",
+      "વધારે ઇંધણ આપવું"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઓવરલોડિંગ ટાળવાથી અને યોગ્ય ઇગ્નિશન ક્વોલિટીવાળું ઇંધણ વાપરવાથી કાળો ધુમાડો (Soot) અટકે છે[cite: 7]."
+  },
+  {
+    "id": 202,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "A steam power plant operating fluid undergoes which type of process overall?",
+    "gujaratiQuestion": "0202. સ્ટીમ પાવર પ્લાન્ટ નીચેનામાંથી કયા પ્રકારની પ્રોસેસમાંથી પસાર થાય છે?",
+    "options": [
+      "સાયકિલક (Cyclic)",
+      "ઇર-રિવર્સિબલ",
+      "એક્સપાન્શન",
+      "એડિયાબેટિક"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્ટીમ પાવર પ્લાન્ટમાં વર્કિંગ ફ્લુઇડ બંધ ચક્રમાં સતત પરિભ્રમણ કરતું હોવાથી તે સાયકલિક પ્રોસેસ (Rankine Cycle) છે[cite: 7]."
+  },
+  {
+    "id": 203,
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "What is the primary objective of supercharging an I.C. engine?",
+    "gujaratiQuestion": "0203. સુપરચાર્જિંગનો મુખ્ય ઉદ્દેશ્ય શું છે?",
+    "options": [
+      "એન્જિનની એફિશિયન્સી ઘટાડવી",
+      "એન્જિનનું કદ અને વજન વધારવું",
+      "આપેલા કદ માટે પાવર આઉટપુટ વધારવો",
+      "ઈંધણનો વપરાશ ઘટાડવો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સિસ્ટમમાં હવાને દબાણપૂર્વક ભરીને ડેન્સિટી વધારવાથી સમાન એન્જિન કદમાંથી વધુ પાવર આઉટપુટ મળે છે[cite: 7]."
+  },
+  {
+    "id": 204,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "The scavenging process is primarily associated with which type of engine?",
+    "gujaratiQuestion": "0204. સ્કેવેન્જિંગ પ્રક્રિયા મુખ્યત્વે કયા એન્જિન સાથે સંકળાયેલી છે?",
+    "options": [
+      "ફોર-સ્ટ્રોક પેટ્રોલ એન્જિન",
+      "ટુ-સ્ટ્રોક એન્જિન",
+      "રોટરી એન્જિન",
+      "ગેસ ટર્બાઈન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટુ-સ્ટ્રોક એન્જિનમાં બળેલા એક્ઝોસ્ટ વાયુઓને બહાર કાઢી તાજો ચાર્જ ભરવાની ક્રિયાને સ્કેવેન્જિંગ (Scavenging) કહે છે[cite: 7]."
+  },
+  {
+    "id": 205,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "What is the air standard cycle for a gas turbine power plant called?",
+    "gujaratiQuestion": "0205. ગેસ-ટર્બાઈન માટેની એર સ્ટાન્ડર્ડ સાયકલને શું કહેવાય છે?",
+    "options": [
+      "રિહીટ સાયકલ",
+      "રેન્કાઈન સાયકલ",
+      "બ્રેટન સાયકલ (Joule cycle)",
+      "ડીઝલ સાયકલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગેસ ટર્બાઇન પ્લાન્ટ માટેની આદર્શ એર સ્ટાન્ડર્ડ સાયકલ બ્રેટન સાયકલ (Brayton cycle) છે[cite: 7]."
+  },
+  {
+    "id": 206,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "What is valve overlap in a four-stroke engine?",
+    "gujaratiQuestion": "0206. ફોર-સ્ટ્રોક એન્જિનમાં વાલ્વ ઓવરલેપ કોને કહેવાય છે?",
+    "options": [
+      "જ્યારે ઇનલેટ વાલ્વ સંપૂર્ણ બંધ હોય",
+      "જ્યારે એક્ઝોસ્ટ વાલ્વ સંપૂર્ણ બંધ હોય",
+      "જ્યારે ઈનલેટ અને એક્ઝોસ્ટ બંને વાલ્વ એકસાથે બંધ હોય",
+      "જ્યારે ઇનલેટ અને એક્ઝોસ્ટ બંને વાલ્વ એકસાથે ખુલ્લા હોય"
+    ],
+    "correctAnswer": 3,
+    "explanation": "એક્ઝોસ્ટ સ્ટ્રોકના અંતે અને સક્શનની શરૂઆતમાં (TDC નજીક) ઇનલેટ અને એક્ઝોસ્ટ બંને વાલ્વ થોડા સમય માટે ખુલ્લા રહે તેને વાલ્વ ઓવરલેપ કહે છે[cite: 7]."
+  },
+  {
+    "id": 207,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "For the same power and same speed, how is the size of the flywheel of a four-stroke engine compared to a two-stroke engine?",
+    "gujaratiQuestion": "0207. સમાન પાવર અને સમાન ઝડપ માટે, ટુ-સ્ટ્રોક એન્જિનની સરખામણીમાં ફોર-સ્ટ્રોક એન્જિનના ફ્લાયવ્હીલનું કદ કેવું હોય છે?",
+    "options": [
+      "મોટું",
+      "નાનું",
+      "સમાન",
+      "એન્જિન ડિઝાઈન પર આધારિત નથી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ફોર-સ્ટ્રોકમાં બે રિવોલ્યુશને એક પાવર સ્ટ્રોક મળતો હોવાથી ટર્નિંગ મોમેન્ટનું ફ્લક્ચ્યુએશન વધુ હોય છે, જેથી મોટું ફ્લાયવ્હીલ જોઈએ[cite: 7]."
+  },
+  {
+    "id": 208,
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "Which of the following is a type of gas turbine plant configuration?",
+    "gujaratiQuestion": "0208. નીચેનામાંથી કયો ગેસ ટર્બાઈન પ્લાન્ટનો પ્રકાર છે?",
+    "options": [
+      "સિંગલ એક્ટિંગ",
+      "ડબલ એક્ટિંગ",
+      "ઓપન સાયકલ",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગેસ ટર્બાઇન પ્લાન્ટ્સ મુખ્યત્વે ઓપન સાયકલ અને ક્લોઝ્ડ સાયકલ પ્રકારના હોય છે[cite: 7]."
+  },
+  {
+    "id": 209,
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "In an ideal air-standard cycle, all thermodynamic processes are assumed to be:",
+    "gujaratiQuestion": "0209. એક આદર્શ એર સ્ટાન્ડર્ડ સાયકલમાં બધી પ્રક્રિયાઓને કેવી ધારવામાં આવે છે?",
+    "options": [
+      "ઇરરિવર્સિબલ",
+      "રિવર્સિબલ",
+      "આઇસોથર્મલ",
+      "આઈસોબેરિક"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એર સ્ટાન્ડર્ડ સાયકલમાં તમામ પ્રક્રિયાઓ આંતરિક અને બાહ્ય રીતે ઘર્ષણરહિત રિવર્સિબલ (Reversible) ધારવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 210,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "For an I.C. engine, which of the following efficiencies is the highest?",
+    "gujaratiQuestion": "0210. આઈ.સી. એન્જિન માટે નીચેનામાંથી કઈ એફિશિયન્સી સૌથી વધુ હોય છે?",
+    "options": [
+      "બ્રેક થર્મલ એફિશિયન્સી",
+      "ઇન્ડિકેટેડ થર્મલ એફિશિયન્સી",
+      "એર સ્ટાન્ડર્ડ એફિશિયન્સી",
+      "વૉલ્યુમેટ્રિક એફિશિયન્સી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કોઈપણ વાસ્તવિક લોસ વગર ગણાતી સૈદ્ધાંતિક એર સ્ટાન્ડર્ડ કાર્યક્ષમતા (Air Standard Efficiency) હંમેશા સર્વોચ્ચ હોય છે[cite: 7]."
+  },
+  {
+    "id": 211,
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "Which of the following is NOT an advantage of a fire-tube boiler?",
+    "gujaratiQuestion": "0211. નીચેનામાંથી કયો ફાયર-ટ્યુબ બોઈલરનો ફાયદો નથી?",
+    "options": [
+      "ઓછી પ્રાથમિક કિંમત",
+      "ઓપરેશનમાં વિશ્વસનીયતા",
+      "વધારે ડ્રાફ્ટ (draught) ની જરૂરિયાત",
+      "લોડમાં થતા ફેરફાર સામે ઝડપી પ્રતિભાવ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મોટો ડ્રાફ્ટ લોસ થવો એ ફાયર ટ્યુબ બોઇલરની મર્યાદા/ખામી છે, ફાયદો નથી[cite: 7]."
+  },
+  {
+    "id": 212,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion Stages & Combustion Chambers",
+    "question": "What is the result of carbon deposits forming inside the engine cylinder combustion chamber?",
+    "gujaratiQuestion": "0212. એન્જિનના સિલિન્ડરમાં કાર્બન જમા થવાને કારણે શું પરિણામ આવે છે?",
+    "options": [
+      "વોલ્યુમેટ્રિક એફિશિયન્સી વધે છે",
+      "ક્લિયરન્સ વોલ્યુમ વધે છે",
+      "કમ્પ્રેશન રેશિયો વધે છે",
+      "એન્જિન સ્પીડ વધે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કાર્બન જમા થવાથી ક્લિયરન્સ વોલ્યુમ (Vc) ઘટે છે, જેથી અસરકારક કમ્પ્રેશન રેશિયો r = (Vs + Vc)/Vc વધે છે અને નોકિંગ થાય છે[cite: 7]."
+  },
+  {
+    "id": 213,
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "How is a turbocharger driven in an automobile engine?",
+    "gujaratiQuestion": "0213. ટર્બોચાર્જર કોના દ્વારા ચલાવવામાં આવે છે?",
+    "options": [
+      "એન્જિનની ક્રેન્કશાફ્ટ દ્વારા",
+      "ઇલેક્ટ્રિક મોટર દ્વારા",
+      "એક્ઝોસ્ટ ગેસ દ્વારા",
+      "બેટરી દ્વારા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટર્બોચાર્જર એન્જિનમાંથી નીકળતા ઊંચી ઊર્જાવાળા એક્ઝોસ્ટ વાયુઓ (Exhaust gas energy) દ્વારા સંચાલિત ટર્બાઇનથી ફરે છે[cite: 7]."
+  },
+  {
+    "id": 214,
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "What is the function of a fusible plug installed in a boiler furnace crown?",
+    "gujaratiQuestion": "0214. ફર્નેસમાં લગાવવામાં આવેલા ફ્યુઝિબલ પ્લગનું કાર્ય શું છે?",
+    "options": [
+      "વધારાના કરંટને ડિટેક્ટ કરવા",
+      "વધારાની હીટને ડિટેક્ટ કરવા",
+      "ટ્યુબમાં પાણીનું સ્તર ડિટેક્ટ કરવા",
+      "શેલમાં પાણીનું સ્તર જોખમી રીતે ઘટે ત્યારે ઓગળીને આગ બુઝાવવી"
+    ],
+    "correctAnswer": 3,
+    "explanation": "વોટર લેવલ ઘટી જતાં ફ્યુઝિબલ પ્લગનું ગનમેટલ ઓગળી સ્ટીમ ફર્નેસમાં પ્રવેશે છે અને બોઇલરને ફાટતું બચાવે છે[cite: 7]."
+  },
+  {
+    "id": 215,
+    "subject": "I.C. Engines",
+    "subTopic": "Fuel Supply Systems in SI & CI Engines",
+    "question": "How does fuel injection pressure in a diesel engine compare to the fuel pressure in a petrol engine?",
+    "gujaratiQuestion": "0215. ડીઝલ એન્જિનમાં ફ્યુઅલ ઇન્જેક્શનનું પ્રેશર પેટ્રોલ એન્જિનના ફ્યુઅલ પ્રેશર કરતા કેવું હોય છે?",
+    "options": [
+      "ખૂબ ઓછું",
+      "સમાન",
+      "ઘણું વધારે",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડીઝલ ઇન્જેક્શન પ્રેશર 100 થી 2000 બાર જેટલું ઘણું વધારે હોય છે[cite: 7]."
+  },
+  {
+    "id": 216,
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "In an engine heat balance sheet, the total heat energy supplied is considered equal to:",
+    "gujaratiQuestion": "0216. હીટ બેલેન્સ શીટમાં એન્જિનને અપાતી કુલ ઉષ્મા ઉર્જા કોના બરાબર ગણવામાં આવે છે?",
+    "options": [
+      "બ્રેક પાવર ઉર્જા",
+      "એક્ઝોસ્ટ ગેસમાં જતી ઉર્જા",
+      "કૂલિંગ વોટરમાં જતી ઉર્જા",
+      "ઈંધણના દહનથી મળતી કુલ ઉષ્મા ઉર્જા (mf × CV)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સપ્લાય કરેલી કુલ ઉષ્મા Q_in = બળતણનો માસ ફ્લો રેટ × કેલરીફિક વેલ્યુ (mf × CV) બરાબર હોય છે[cite: 7]."
+  },
+  {
+    "id": 217,
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "Which property indicates the minimum temperature at which a fuel oil gives off enough vapor to ignite momentarily?",
+    "gujaratiQuestion": "0217. આમાંથી કઈ પ્રોપર્ટી લઘુત્તમ ટેમ્પરેચર દર્શાવે છે કે જેના પર ફયુઅલ ઓઈલ સળગી શકે છે?",
+    "options": [
+      "પોર પોઇન્ટ",
+      "ફ્લેશ પોઈન્ટ",
+      "હીટિંગ વેલ્યુ",
+      "વિસ્કોસિટી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફ્લેશ પોઇન્ટ (Flash point) એ લઘુત્તમ તાપમાન છે કે જ્યાં ઇંધણની વરાળ જ્યોત નજીક લાવતાં ક્ષણિક ઝબકારો આપી સળગી ઊઠે છે[cite: 7]."
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "For the same maximum pressure and heat supplied, which ideal cycle has the highest efficiency among Otto, Diesel and Dual?",
+    "gujaratiQuestion": "સમાન maximum pressure અને heat supplied માટે Otto, Diesel અને Dual માં કયા ideal cycle ની efficiency સૌથી વધુ છે?",
+    "options": [
+      "Otto cycle",
+      "Diesel cycle",
+      "Dual cycle",
+      "All are equal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Under the stated comparison, the Diesel-cycle result is the intended answer in the cited GSSSB paper.",
+    "id": 218
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "A turbocharged four-stroke diesel engine has swept volume 0.0259 m³, produces about 950 kW at 2200 rpm. The indicated mean effective pressure is closest to:",
+    "gujaratiQuestion": "0.0259 m³ swept volume અને 950 kW output ધરાવતા 4-stroke diesel engine (2200 rpm) માટે mean effective pressure લગભગ કેટલું?",
+    "options": [
+      "2 MPa",
+      "1 MPa",
+      "0.2 MPa",
+      "0.1 MPa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Using P=power/(swept volume × power strokes per second) gives approximately 2 MPa.",
+    "id": 219
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "The purpose of a thermostat in an engine cooling system is to keep the engine:",
+    "gujaratiQuestion": "Engine cooling systemમાં thermostat નો હેતુ engineને શું રાખવાનો છે?",
+    "options": [
+      "Always hot",
+      "Always cool",
+      "At the desired operating temperature",
+      "At ambient temperature"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Thermostat regulates coolant flow to maintain the desired operating temperature.",
+    "id": 220
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "A white spark-plug insulator tip in an SI engine can indicate:",
+    "gujaratiQuestion": "SI engineમાં spark-plug insulator tip સફેદ દેખાય તો તે શું સૂચવી શકે?",
+    "options": [
+      "Over-advanced ignition",
+      "Retarded ignition",
+      "Leaded fuel only",
+      "Gas leak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. A very white insulator can be associated with an over-advanced/hot combustion condition.",
+    "id": 221
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "Scavenging in a two-stroke engine is mainly carried out to improve:",
+    "gujaratiQuestion": "Two-stroke engineમાં scavenging મુખ્યત્વે શેમાં સુધારો કરવા માટે થાય છે?",
+    "options": [
+      "Thermal efficiency only",
+      "Speed only",
+      "Power output",
+      "Fuel consumption only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Effective removal of burnt gases and replacement by fresh charge increases the useful charge and power potential.",
+    "id": 222
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "At the instant of spark in a two-stroke SI engine, below the piston the inlet-port condition is best represented by:",
+    "gujaratiQuestion": "Two-stroke SI engineમાં spark સમયે pistonની નીચે inlet-portની સ્થિતિ કેવી હોય છે?",
+    "options": [
+      "New gas is being compressed",
+      "Transfer port has just opened",
+      "New gas is flowing through inlet port",
+      "Inlet port is closed and depression is being formed"
+    ],
+    "correctAnswer": 3,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The source keyed the closed-inlet/depression condition for this crank position.",
+    "id": 223
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "The crescent-shaped cavity on the piston crown used for oil control is called a:",
+    "gujaratiQuestion": "Piston crown પર oil-control માટેની crescent-shaped cavityને શું કહે છે?",
+    "options": [
+      "Piston oil hole",
+      "Snap ring",
+      "Valve recess",
+      "Valve clearance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The cited paper identifies the piston oil hole.",
+    "id": 224
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
+    "question": "The vacuum advance mechanism of an SI-engine ignition system mainly operates under:",
+    "gujaratiQuestion": "SI engineના ignition systemમાં vacuum advance mechanism મુખ્યત્વે કઈ સ્થિતિમાં કાર્ય કરે છે?",
+    "options": [
+      "Light engine load",
+      "Heavy engine load",
+      "High engine speed only",
+      "None"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. High manifold vacuum at light load is used for additional spark advance.",
+    "id": 225
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "A crossover pipe in a dual exhaust system is primarily intended to:",
+    "gujaratiQuestion": "Dual exhaust systemમાં crossover pipeનો મુખ્ય હેતુ શું છે?",
+    "options": [
+      "Loosen pipes",
+      "Strengthen pipes",
+      "Reduce noise",
+      "Feed exhaust to catalytic converter"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Crossover balancing/communication between exhaust banks can reduce pulsation/noise and improve scavenging characteristics.",
+    "id": 226
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Fuel Supply Systems in SI & CI Engines",
+    "question": "A gear-shift lever typically performs two separate motions to select gears: it moves and selects the:",
+    "gujaratiQuestion": "Gear-shift lever gear selection માટે સામાન્ય રીતે બે motions કરે છે, જેમાં તે શું move અને select કરે છે?",
+    "options": [
+      "Synchronizer and clutch",
+      "Synchronizer",
+      "Gears directly",
+      "Clutch"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The cited item describes movement and selection of the synchronizer.",
+    "id": 227
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Advanced IC Engine Concepts",
+    "question": "The main purpose of supercharging an IC engine is to:",
+    "gujaratiQuestion": "IC engineમાં superchargingનો મુખ્ય હેતુ શું છે?",
+    "options": [
+      "Reduce mass only",
+      "Reduce space only",
+      "Increase power output",
+      "Reduce lubrication requirement"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Increasing the mass of air inducted per cycle permits more fuel and therefore higher power output.",
+    "id": 228
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Combustion in SI & CI Engines",
+    "question": "In a two-stroke engine, scavenging refers to:",
+    "gujaratiQuestion": "Two-stroke engineમાં scavengingનો અર્થ શું છે?",
+    "options": [
+      "Ignition delay",
+      "Removal of burnt gases",
+      "Fuel injection",
+      "Lubrication"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Scavenging is the removal of exhaust gases and replacement by fresh charge.",
+    "id": 229
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Ignition, Lubrication & Cooling Systems",
+    "question": "The correct purpose of a thermostat is to maintain the engine near its:",
+    "gujaratiQuestion": "Thermostat engineને કયા conditionની નજીક રાખે છે?",
+    "options": [
+      "Maximum possible temperature",
+      "Minimum possible temperature",
+      "Desired operating temperature",
+      "Ambient temperature"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The thermostat controls coolant flow to maintain the designed operating range.",
+    "id": 230
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
+    "question": "In an ideal four-stroke engine, one power stroke occurs for every:",
+    "gujaratiQuestion": "Ideal four-stroke engineમાં એક power stroke કેટલા crankshaft revolutions દીઠ થાય છે?",
+    "options": [
+      "One revolution",
+      "Two revolutions",
+      "Three revolutions",
+      "Four revolutions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: A four-stroke cycle requires two crankshaft revolutions.",
+    "id": 231
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Common Rail Direct Injection (CRDI)",
+    "question": "CRDI mainly enables:",
+    "gujaratiQuestion": "CRDI system મુખ્યત્વે શું શક્ય બનાવે છે?",
+    "options": [
+      "Only carburetion",
+      "High-pressure electronically controlled fuel injection",
+      "No fuel atomization",
+      "Only mechanical governor control"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Common rail systems maintain high rail pressure and electronically control injection timing/quantity.",
+    "id": 232
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Testing & Performance of IC Engines",
+    "question": "Brake power is the power available at the engine:",
+    "gujaratiQuestion": "Brake power engineના કયા point પર ઉપલબ્ધ power છે?",
+    "options": [
+      "Combustion chamber",
+      "Crankshaft output shaft",
+      "Fuel tank",
+      "Radiator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Brake power is shaft output power.",
+    "id": 233
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Abnormal Combustion (Knocking & Detonation)",
+    "question": "In a CI engine, a shorter ignition delay generally tends to:",
+    "gujaratiQuestion": "CI engineમાં shorter ignition delay સામાન્ય રીતે શું કરે છે?",
+    "options": [
+      "Increase accumulated premixed fuel",
+      "Reduce accumulated premixed fuel",
+      "Stop injection",
+      "Increase cooling-water flow"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Less fuel accumulates before ignition, reducing the severity of the initial premixed burn.",
+    "id": 234
+  },
+  {
+    "subject": "I.C. Engines",
+    "subTopic": "Engine Emissions & Emission Control",
+    "question": "A catalytic converter is mainly used to reduce:",
+    "gujaratiQuestion": "Catalytic converter મુખ્યત્વે કયા pollutants ઘટાડે છે?",
+    "options": [
+      "Only water vapour",
+      "HC, CO and NOx",
+      "Only nitrogen",
+      "Only soot in all engines"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Three-way catalytic converters target HC, CO and NOx in suitable SI-engine conditions.",
+    "id": 235
+  },
+  {
+    "id": 236,
+    "subject": "I.C. Engines",
+    "subTopic": "Excavators, Dumpers, Draggers, Cranes & Drilling Rigs (D.R. & D.T.H.)",
+    "question": "Which machine is primarily used for digging and earth excavation?",
+    "gujaratiQuestion": "Which machine is primarily used for digging and earth excavation?",
+    "options": [
+      "Excavator",
+      "Dumper",
+      "Trailer",
+      "Compressor"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An excavator combines digging, lifting and swinging functions for earthwork."
+  },
+  {
+    "id": 237,
+    "subject": "I.C. Engines",
+    "subTopic": "Excavators, Dumpers, Draggers, Cranes & Drilling Rigs (D.R. & D.T.H.)",
+    "question": "A dumper is mainly used for:",
+    "gujaratiQuestion": "A dumper is mainly used for:",
+    "options": [
+      "material transportation",
+      "precision grinding",
+      "metal casting",
+      "shaft alignment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dumpers carry and discharge bulk materials such as soil, rock and aggregates."
+  },
+  {
+    "id": 238,
+    "subject": "I.C. Engines",
+    "subTopic": "Excavators, Dumpers, Draggers, Cranes & Drilling Rigs (D.R. & D.T.H.)",
+    "question": "DTH in drilling rigs commonly stands for:",
+    "gujaratiQuestion": "DTH in drilling rigs commonly stands for:",
+    "options": [
+      "Down-The-Hole",
+      "Drive-The-Hydraulic",
+      "Deep-Torque-Head",
+      "Direct-Tool-Hammer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DTH drilling places the hammer near the bottom of the hole for rock drilling."
+  }
+]

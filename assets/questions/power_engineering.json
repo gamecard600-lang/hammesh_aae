@@ -1,0 +1,2117 @@
+[
+  {
+    "id": 1,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "What is the machine used to increase the pressure of air or gas called?",
+    "gujaratiQuestion": "01. હવા કે ગેસનું દબાણ વધારવા માટે વપરાતા મશીનને શું કહેવામાં આવે છે?",
+    "options": [
+      "ટર્બાઇન",
+      "કમ્પ્રેસર",
+      "પંપ",
+      "બોઈલર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હવા કે ગેસ જેવા સંકોચાઈ શકે તેવા (compressible) ફ્લુઇડનું દબાણ વધારવા માટે કમ્પ્રેસર વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 2,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "When is minimum work input required for an air compressor?",
+    "gujaratiQuestion": "02. એર કમ્પ્રેસર માટે સૌથી ઓછું વર્ક ઈનપુટ ક્યારે જોઈએ?",
+    "options": [
+      "આઈસેન્ટ્રોપિક કમ્પ્રેશન",
+      "પોલિટ્રોપિક કમ્પ્રેશન",
+      "આઇસોથર્મલ કમ્પ્રેશન",
+      "એડિઆબેટિક કમ્પ્રેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આઇસોથર્મલ પ્રક્રિયા દરમિયાન તાપમાન અચળ રહેતું હોવાથી કમ્પ્રેશન માટે જરૂરી કાર્ય ન્યૂનતમ હોય છે[cite: 6]."
+  },
+  {
+    "id": 3,
+    "subject": "Power Engineering",
+    "subTopic": "Compressor Classification",
+    "question": "Which of the following is an intermittent flow positive displacement compressor?",
+    "gujaratiQuestion": "03. નીચેનામાંથી કયું કમ્પ્રેસર ઈન્ટરમીટન્ટ ફ્લો પ્રકારનું પોઝિટિવ ડિસ્પ્લેસમેન્ટ કમ્પ્રેસર છે?",
+    "options": [
+      "સેન્ટ્રિફ્યુગલ કમ્પ્રેસર",
+      "રિસીપ્રોકેટિંગ કમ્પ્રેસર",
+      "ઍક્ષિયલ કમ્પ્રેસર",
+      "રેડિયલ કમ્પ્રેસર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રિસીપ્રોકેટિંગ કમ્પ્રેસરમાં પિસ્ટનની આગળ-પાછળ ગતિને કારણે હવાનો પ્રવાહ અટક્યા પછી (Intermittent) મળે છે[cite: 6]."
+  },
+  {
+    "id": 4,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "What is the main advantage of multi-stage compression?",
+    "gujaratiQuestion": "04. મલ્ટીસ્ટેજ કમ્પ્રેશનનો મુખ્ય ફાયદો શું છે?",
+    "options": [
+      "વોલ્યુમેટ્રિક એફિશિયન્સી ઘટે છે",
+      "વર્ક ઈનપુટ વધે છે",
+      "પ્રતિ યુનિટ હવાનું વર્ક ઇનપુટ ઘટે છે",
+      "ડિસ્ચાર્જ તાપમાન વધે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇન્ટરકૂલિંગ સાથે મલ્ટીસ્ટેજ કમ્પ્રેશન કરવાથી પ્રતિ યુનિટ માસ માટે જરૂરી કમ્પ્રેશન વર્ક ઘટે છે[cite: 6]."
+  },
+  {
+    "id": 5,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "In a two-stage air compressor, inlet pressure is 1 bar and discharge is 36 bar. What is ideal intercooler pressure for minimum work?",
+    "gujaratiQuestion": "05. ટુ-સ્ટેજ એર કમ્પ્રેસરમાં ઇનલેટ પ્રેશર 1 બાર અને ડિસ્ચાર્જ પ્રેશર 36 બાર છે. તો ન્યૂનતમ વર્ક માટે આદર્શ ઈન્ટરકૂલર પ્રેશર કેટલું હોવું જોઈએ?",
+    "options": [
+      "6 બાર",
+      "18 બાર",
+      "12 બાર",
+      "9 બાર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આદર્શ ઇન્ટરકૂલર પ્રેશર P2 = √(P1 × P3) = √(1 × 36) = 6 બાર થાય છે[cite: 6]."
+  },
+  {
+    "id": 6,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "Which of the following is not a function of compressed air?",
+    "gujaratiQuestion": "06. નીચેનામાંથી કયું સંકુચિત હવા (compressed air) નું કાર્ય નથી?",
+    "options": [
+      "સંકુચિત હવાનો ઉપયોગ વાહનના ટાયરમાં થાય છે",
+      "સંકુચિત હવાનો ઉપયોગ ટર્બાઈન અને પ્રોપલ્ઝન યુનિટ્સમાં થાય છે",
+      "સંકુચિત હવાનો ઉપયોગ હાઇડ્રોલિક પ્રેસ ચલાવવા માટે થાય છે",
+      "સંકુચિત હવાનો ઉપયોગ ન્યુમેટિક બ્રેક્સમાં થાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હાઇડ્રોલિક પ્રેસ ચલાવવા માટે તેલ અથવા પાણી જેવા પ્રવાહી વપરાય છે, સંકુચિત હવા નહીં[cite: 6]."
+  },
+  {
+    "id": 7,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "In a reciprocating compressor, what is the effect of increasing compression ratio on volumetric efficiency?",
+    "gujaratiQuestion": "07. રિસીપ્રોકેટિંગ કમ્પ્રેસરમાં કમ્પ્રેશન રેશિયો વધારવાથી વોલ્યુમેટ્રિક એફિશિયન્સી પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "સમાન રહે છે",
+      "પહેલા વધે અને પછી ઘટે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "η_vol = 1 + C - C(P2/P1)^(1/n) સૂત્ર મુજબ કમ્પ્રેશન રેશિયો વધવાથી વોલ્યુમેટ્રિક કાર્યક્ષમતા ઘટે છે[cite: 6]."
+  },
+  {
+    "id": 8,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "Why is clearance volume provided in a reciprocating compressor?",
+    "gujaratiQuestion": "08. રિસીપ્રોકેટિંગ કમ્પ્રેસરમાં ક્લિયરન્સ વોલ્યુમ શા માટે રાખવામાં આવે છે?",
+    "options": [
+      "વર્ક ઘટાડવા",
+      "પિસ્ટનને સિલિન્ડર હેડ સાથે અથડાતો અટકાવવા",
+      "વોલ્યુમેટ્રિક એફિશિયન્સી વધારવા",
+      "આઈસોથર્મલ એફિશિયન્સી વધારવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પિસ્ટન સિલિન્ડર કવર સાથે અથડાય નહીં અને વાલ્વ સરળતાથી ખુલી-બંધ થઈ શકે તે માટે ક્લિયરન્સ વોલ્યુમ અપાય છે[cite: 6]."
+  },
+  {
+    "id": 9,
+    "subject": "Power Engineering",
+    "subTopic": "Compressor Classification",
+    "question": "A compressor having rows of rotor and stator blades where air flows parallel to the axis of rotation is called:",
+    "gujaratiQuestion": "09. એવું કમ્પ્રેસર જેમાં રોટર અને સ્ટેટર બ્લેડની હરોળ હોય અને હવાનો પ્રવાહ પરિભ્રમણની ધરીને સમાંતર વહેતો હોય તેને શું કહેવાય છે?",
+    "options": [
+      "રિસીપ્રોકેટિંગ કમ્પ્રેસર",
+      "સેન્ટ્રિફ્યુગલ કમ્પ્રેસર",
+      "રોટરી સ્ક્રુ કમ્પ્રેસર",
+      "એક્ષિયલ ફ્લો કમ્પ્રેસર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "હવાનો પ્રવાહ અક્ષને સમાંતર વહેતો હોવાથી તેને એક્સિયલ ફ્લો કમ્પ્રેસર (Axial flow compressor) કહે છે[cite: 6]."
+  },
+  {
+    "id": 10,
+    "subject": "Power Engineering",
+    "subTopic": "Compressor Classification",
+    "question": "Which compressor is most suitable for supplying large volume of air at low pressure?",
+    "gujaratiQuestion": "010. મોટા જથ્થામાં અને નીચા દબાણે હવા સપ્લાય કરવા માટે કયું કમ્પ્રેસર સૌથી વધુ યોગ્ય છે?",
+    "options": [
+      "રિસીપ્રોકેટિંગ કમ્પ્રેસર",
+      "રોટરી કમ્પ્રેસર",
+      "સ્ક્રુ કમ્પ્રેસર",
+      "હાઈ પ્રેશર કમ્પ્રેસર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોટા ડિસ્ચાર્જ અને નીચાથી મધ્યમ દબાણ માટે રોટરી/સેન્ટ્રિફ્યુગલ કમ્પ્રેસર સૌથી યોગ્ય છે[cite: 6]."
+  },
+  {
+    "id": 11,
+    "subject": "Power Engineering",
+    "subTopic": "Compressor Classification",
+    "question": "What is slip factor in a centrifugal compressor?",
+    "gujaratiQuestion": "011. સેન્ટ્રિફ્યુગલ કમ્પ્રેસરમાં સ્લિપ ફેક્ટર એટલે શું?",
+    "options": [
+      "ઇનલેટ વ્હર્લ વેલોસિટી અને બ્લેડ વેલોસિટીનો ગુણોત્તર",
+      "આઉટલેટ વ્હર્લ વેલોસિટી અને બ્લેડ વેલોસિટીનો ગુણોત્તર",
+      "વેલોસિટી ઓફ ફ્લો અને બ્લેડ વેલોસિટીનો ગુણોત્તર",
+      "ફ્લો રેટ અને બ્લેડ વેલોસિટીનો ગુણોત્તર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્લિપ ફેક્ટર એ એક્ચ્યુઅલ વ્હર્લ વેલોસિટી (Vw2) અને બ્લેડ વેલોસિટી (u2) નો ગુણોત્તર છે[cite: 6]."
+  },
+  {
+    "id": 12,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "If suction pressure is 100 kPa and delivery pressure is 800 kPa, what is the pressure ratio?",
+    "gujaratiQuestion": "012. જો સક્શન પ્રેશર 100 KPa અને ડિલિવરી પ્રેશર 800 KPa હોય, તો કમ્પ્રેસરનો પ્રેશર રેશિયો શોધો.",
+    "options": [
+      "0.8",
+      "8",
+      "1",
+      "0.1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pressure ratio = Delivery Pressure / Suction Pressure = 800 / 100 = 8[cite: 6]."
+  },
+  {
+    "id": 13,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "On which cycle does a gas turbine operate?",
+    "gujaratiQuestion": "013. ગેસ ટર્બાઈન કઈ સાયકલ પર કાર્ય કરે છે?",
+    "options": [
+      "રેન્કિન સાયકલ",
+      "ઓટો સાયકલ",
+      "બ્રેટન સાયકલ",
+      "ડીઝલ સાયકલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગેસ ટર્બાઇન પ્લાન્ટ બ્રેટન (અથવા જૂલ) સાયકલ પર કાર્ય કરે છે[cite: 6]."
+  },
+  {
+    "id": 14,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "Which four main processes are present in a Brayton cycle?",
+    "gujaratiQuestion": "014. બ્રેટન સાયકલમાં કઈ ચાર મુખ્ય પ્રક્રિયાઓ હોય છે?",
+    "options": [
+      "બે આઈસેન્ટ્રોપિક અને બે આઈસોબેરિક",
+      "બે આઈસેન્ટ્રોપિક અને બે આઇસોકોરિક",
+      "બે આઇસોથર્મલ અને બે આઈસોબેરિક",
+      "બે આઈસોથર્મલ અને બે આઈસોકોરિક"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બ્રેટન સાયકલમાં 2 રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક) અને 2 આઈસોબારિક (અચળ દબાણ) પ્રક્રિયાઓ હોય છે[cite: 6]."
+  },
+  {
+    "id": 15,
+    "subject": "Power Engineering",
+    "subTopic": "Regeneration",
+    "question": "In a regenerative Rankine cycle, what is the extracted steam from turbine used for?",
+    "gujaratiQuestion": "015. રિજનરેટિવ રેન્કિન સાયકલમાં, સ્ટીમ ટર્બાઇનમાંથી કાઢવામાં આવેલી સ્ટીમનો ઉપયોગ શેના માટે થાય છે?",
+    "options": [
+      "બોઈલરમાં બળતણ સળગતા પહેલા તેને પ્રીહીટ કરવા",
+      "ફીડ પંપ ચલાવવા અને સ્ટીમનું દબાણ વધારવા",
+      "ફીડ વોટર બોઈલરમાં પ્રવેશે તે પહેલા તેને પ્રીહીટ કરવા",
+      "ટર્બાઈન સ્ટેજીસ વચ્ચે સ્ટીમને રિહીટ કરવા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટર્બાઇનમાંથી બ્લીડ કરેલી સ્ટીમ બોઇલરમાં પ્રવેશતા પહેલા ફીડ વોટરને પ્રીહીટ કરવા માટે વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 16,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "What is the correct thermal efficiency formula of an ideal Brayton cycle? (where rp is pressure ratio)",
+    "gujaratiQuestion": "016. આદર્શ બ્રેટન સાયકલની થર્મલ એફિશિયન્સીનું સાચું સૂત્ર કયું છે? (જ્યાં rp પ્રેશર રેશિયો)",
+    "options": [
+      "1 - 1 / (rp^(γ - 1))",
+      "1 - 1 / (rp^((γ - 1)/γ))",
+      "1 - 1 / (rp^γ)",
+      "1 - rp^((γ - 1)/γ)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બ્રેટન સાયકલની કાર્યક્ષમતાનું સૂત્ર η = 1 - 1 / [rp^((γ-1)/γ)] છે[cite: 6]."
+  },
+  {
+    "id": 17,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "What is the effect on thermal efficiency if pressure ratio is increased in an ideal Brayton cycle?",
+    "gujaratiQuestion": "017. આદર્શ બ્રેટન સાયકલમાં પ્રેશર રેશિયો વધારવામાં આવે તો તેની થર્મલ એફિશિયન્સીમાં શું ફેરફાર થાય છે?",
+    "options": [
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "વધે છે",
+      "શૂન્ય થાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રેશર રેશિયો rp વધવાથી બ્રેટન સાયકલની થર્મલ કાર્યક્ષમતા વધે છે[cite: 6]."
+  },
+  {
+    "id": 18,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "In which thermodynamic process is minimum theoretical work required to compress gas between two given pressures?",
+    "gujaratiQuestion": "Q18. નીચેનામાંથી કઈ થર્મોડાયનેમિક પ્રક્રિયામાં આપેલા બે દબાણ વચ્ચે ગેસને સંકુચિત કરવા માટે ન્યૂનતમ સૈદ્ધાંતિક કાર્યની જરૂર પડે છે?",
+    "options": [
+      "આઇસોકોરિક પ્રક્રિયા",
+      "એડિયાબેટિક પ્રક્રિયા",
+      "પોલિટ્રોપિક પ્રક્રિયા",
+      "આઇસોથર્મલ પ્રક્રિયા"
+    ],
+    "correctAnswer": 3,
+    "explanation": "આઇસોથર્મલ કમ્પ્રેશનમાં p-v ડાયાગ્રામ નીચેનો વિસ્તાર સૌથી ઓછો હોવાથી કાર્ય ન્યૂનતમ થાય છે[cite: 6]."
+  },
+  {
+    "id": 19,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "In a closed cycle gas turbine, by which process is the gas cooled in the cooling chamber?",
+    "gujaratiQuestion": "019. ક્લોઝડ સાયકલ ગેસ ટર્બાઈનમાં કૂલિંગ ચેમ્બરમાં ગેસને કઈ પ્રક્રિયા દ્વારા ઠંડો કરવામાં આવે છે?",
+    "options": [
+      "આઈસોકોરિક પ્રક્રિયા",
+      "આઇસોથર્મલ પ્રક્રિયા",
+      "આઈસેન્ટ્રોપિક પ્રક્રિયા",
+      "આઇસોબેરિક પ્રક્રિયા"
+    ],
+    "correctAnswer": 3,
+    "explanation": "કૂલિંગ ચેમ્બરમાં ગેસને અચળ દબાણે (Isobaric process) ઉષ્મા મુક્ત કરીને ઠંડો પાડવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 20,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "Which of the following is a pressure compounded turbine?",
+    "gujaratiQuestion": "020. નીચેનામાંથી કયું પ્રેશર કમ્પાઉન્ડેડ ટર્બાઈન છે?",
+    "options": [
+      "પાર્સન્સ",
+      "કર્ટિસ",
+      "રેટો (Rateau)",
+      "ઉપરોક્ત તમામ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રેટો (Rateau) ટર્બાઇન એ પ્રેશર કમ્પાઉન્ડેડ ઇમ્પલ્સ ટર્બાઇન છે (કર્ટિસ એ વેલોસિટી કમ્પાઉન્ડેડ છે)[cite: 6]."
+  },
+  {
+    "id": 21,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "What is the typical clearance ratio in a reciprocating compressor?",
+    "gujaratiQuestion": "021. રિસીપ્રોકેટિંગ કમ્પ્રેસરમાં ક્લિયરન્સ રેશિયો સામાન્ય રીતે કેટલો હોય છે?",
+    "options": [
+      "1% થી 2%",
+      "4% થી 10%",
+      "15% થી 20%",
+      "20% થી 30%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રિસીપ્રોકેટિંગ કમ્પ્રેસરમાં ક્લિયરન્સ રેશિયો સામાન્ય રીતે 4% થી 10% ની વચ્ચે રાખવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 22,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "What is the main purpose of an intercooler in multi-stage compression?",
+    "gujaratiQuestion": "022. મલ્ટીસ્ટેજ કમ્પ્રેશરમાં ઇન્ટરકૂલરનો મુખ્ય હેતુ શું છે?",
+    "options": [
+      "હવાનું દબાણ વધારવું",
+      "હવાનું કદ વધારવું",
+      "હવાને અચળ દબાણે ઠંડી કરવી",
+      "હવાની ભેજ દૂર કરવી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇન્ટરકૂલરનું કાર્ય બે સ્ટેજ વચ્ચે હવાને અચળ દબાણે ઠંડી પાડી તેનું કદ અને કમ્પ્રેશન વર્ક ઘટાડવાનું છે[cite: 6]."
+  },
+  {
+    "id": 23,
+    "subject": "Power Engineering",
+    "subTopic": "Regeneration",
+    "question": "Why is an ideal regenerative cycle not practically feasible?",
+    "gujaratiQuestion": "023. આદર્શ રિજનરેટિવ સાયકલ વ્યાવહારિક રીતે શક્ય નથી તેનું કારણ શું છે?",
+    "options": [
+      "રિવર્સિબલ હીટ ટ્રાન્સફરમાં અનંત સમય લાગે છે",
+      "ટર્બાઇનમાં હીટ એક્સચેન્જ કરવી યાંત્રિક રીતે અશક્ય છે",
+      "ટર્બાઇનમાં સ્ટીમનું ભેજ પ્રમાણ ઊંચું હશે",
+      "આપેલ તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ટર્બાઇનમાં રિવર્સિબલ હીટ ટ્રાન્સફરની અશક્યતા અને સ્ટીમનું ઊંચું ભેજ પ્રમાણ જેવા તમામ કારણો જવાબદાર છે[cite: 6]."
+  },
+  {
+    "id": 24,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "An open cycle gas turbine is considered which type of engine?",
+    "gujaratiQuestion": "024. ઓપન સાયકલ ગેસ ટર્બાઇન એ કયા પ્રકારનું એન્જિન ગણાય છે?",
+    "options": [
+      "એક્સટર્નલ કમ્બશન એન્જિન",
+      "રોટરી ઇન્ટરનલ કમ્બશન એન્જિન",
+      "રિસીપ્રોકેટિંગ એન્જિન",
+      "સ્ટીમ એન્જિન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બળતણનું દહન વર્કિંગ ગેસમાં અંદર જ થતું હોવાથી અને રોટરી ગતિ હોવાથી તે રોટરી IC એન્જિન ગણાય છે[cite: 6]."
+  },
+  {
+    "id": 25,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "On what does the work ratio of a simple gas turbine cycle depend?",
+    "gujaratiQuestion": "025. સિમ્પલ ગેસ ટર્બાઇન સાયકલનો વર્ક રેશિયો કોના પર આધાર રાખે છે?",
+    "options": [
+      "માત્ર પ્રેશર રેશિયો",
+      "માત્ર મહત્તમ સાયકલ તાપમાન",
+      "માત્ર ન્યૂનતમ સાયકલ તાપમાન",
+      "આપેલ તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "વર્ક રેશિયો rw = Wnet / WT એ પ્રેશર રેશિયો અને મહત્તમ/ન્યૂનતમ તાપમાન ગુણોત્તર પર આધારિત છે[cite: 6]."
+  },
+  {
+    "id": 26,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "All heat engines make use of which calorific value of fuel?",
+    "gujaratiQuestion": "026. તમામ હીટ એન્જિન શેનો ઉપયોગ કરે છે?",
+    "options": [
+      "તેલની લો હીટ વેલ્યુ",
+      "તેલની હાઈ હીટ વેલ્યુ",
+      "તેલની નેટ કેલરીફિક વેલ્યુ",
+      "બળતણની કેલરીફિક વેલ્યુ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રાયોગિક રીતે એન્જિનમાં એક્ઝોસ્ટમાંથી પાણીની વરાળ નીકળી જતી હોવાથી નેટ કેલરીફિક વેલ્યુ (LCV) વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 27,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "Volumetric efficiency of a reciprocating compressor does not depend on:",
+    "gujaratiQuestion": "027. રિસીપ્રોકેટિંગ કમ્પ્રેસરની વોલ્યુમેટ્રિક એફિશિયન્સી કોના પર આધારિત નથી?",
+    "options": [
+      "ક્લિયરન્સ વોલ્યુમ",
+      "પ્રેશર રેશિયો",
+      "ઇન્ડેક્સ ઓફ કમ્પ્રેશન",
+      "સિલિન્ડરની જાડાઈ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "વોલ્યુમેટ્રિક કાર્યક્ષમતા ક્લિયરન્સ, પ્રેશર રેશિયો અને ઇન્ડેક્સ પર આધાર રાખે છે, સિલિન્ડરની જાડાઈ પર નહીં[cite: 6]."
+  },
+  {
+    "id": 28,
+    "subject": "Power Engineering",
+    "subTopic": "Compressor Classification",
+    "question": "Which of the following is not a positive displacement type compressor?",
+    "gujaratiQuestion": "028. નીચેનામાંથી કયું પોઝિટિવ ડિસ્પ્લેસમેન્ટ પ્રકારનું કમ્પ્રેસર નથી?",
+    "options": [
+      "રિસીપ્રોકેટિંગ કમ્પ્રેસર",
+      "રૂટ બ્લોઅર",
+      "વેન કમ્પ્રેસર",
+      "સેન્ટ્રિફ્યુગલ કમ્પ્રેસર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સેન્ટ્રિફ્યુગલ કમ્પ્રેસર એ ડાયનેમિક (રોટોડાયનેમિક) કમ્પ્રેસર છે, પોઝિટિવ ડિસ્પ્લેસમેન્ટ નથી[cite: 6]."
+  },
+  {
+    "id": 29,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "What is the difference between Rankine cycle and Brayton cycle?",
+    "gujaratiQuestion": "029. રેન્કિન સાયકલ અને બ્રેટન સાયકલ વચ્ચે શું તફાવત છે?",
+    "options": [
+      "બ્રેટન સાયકલમાં વર્કિંગ ફ્લુઇડ ફેઝ ચેન્જમાંથી પસાર થાય છે જ્યારે રેન્કિન સાયકલમાં થતું નથી",
+      "બ્રેટન સાયકલમાં વર્કિંગ ફ્લુઇડ ફેઝ ચેન્જમાંથી પસાર થતું નથી જ્યારે રેન્કિન સાયકલમાં થાય છે",
+      "બંને સમાન છે",
+      "દર્શાવેલ પૈકી કોઈ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રેન્કિન સાયકલમાં પાણીમાંથી વરાળ ફેઝ ચેન્જ થાય છે, જ્યારે બ્રેટન સાયકલમાં ગેસ માત્ર વાયુ સ્વરૂપે રહે છે[cite: 6]."
+  },
+  {
+    "id": 30,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "To increase the efficiency of an air compressor, from where should air be drawn?",
+    "gujaratiQuestion": "030. એર કમ્પ્રેસરની કાર્યક્ષમતા વધારવા માટે હવા ક્યાંથી ખેંચવી જોઇએ?",
+    "options": [
+      "ગરમ રૂમમાંથી",
+      "ઠંડા વાતાવરણમાંથી",
+      "બોઈલર પાસેની જગ્યાએથી",
+      "સીલબંધ રૂમમાંથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઠંડી હવાની ઘનતા વધારે હોય છે, જેથી ઓછું કમ્પ્રેશન વર્ક લાગે છે અને કાર્યક્ષમતા સુધરે છે[cite: 6]."
+  },
+  {
+    "id": 31,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "What is the work done formula for polytropic compression?",
+    "gujaratiQuestion": "031. પોલિટ્રોપિક કમ્પ્રેશન માટે વર્ક ડનનું સૂત્ર કયું છે?",
+    "options": [
+      "[n / (n - 1)] * mR(T2 - T1)",
+      "[(n - 1) / n] * mR(T2 - T1)",
+      "mR * ln(P2 / P1)",
+      "mCv * (T2 - T1)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પોલિટ્રોપિક પ્રક્રિયા માટે વર્ક ડન W = [n / (n - 1)] * mR(T2 - T1) થાય છે[cite: 6]."
+  },
+  {
+    "id": 32,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "Which type of compressor is used in a gas turbine plant?",
+    "gujaratiQuestion": "Q32. ગેસ ટર્બાઇન પ્લાન્ટમાં કયા પ્રકારના કમ્પ્રેસરનો ઉપયોગ થાય છે?",
+    "options": [
+      "રિસીપ્રોકેટિંગ કમ્પ્રેસર",
+      "સ્ક્રુ કમ્પ્રેસર",
+      "મલ્ટિસ્ટેજ ઍક્ષિયલ ફ્લો કમ્પ્રેસર",
+      "રિસીપ્રોકેટિંગ અથવા સ્ક્રુ કમ્પ્રેસર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મોટા જથ્થામાં હવાના પ્રવાહ માટે ગેસ ટર્બાઇનમાં મલ્ટિસ્ટેજ એક્સિયલ ફ્લો કમ્પ્રેસર વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 33,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "At which condition is Free Air Delivery (FAD) always measured?",
+    "gujaratiQuestion": "033. ફ્રી એર ડિલિવરી (FAD) હંમેશા કઈ કન્ડિશન પર માપવામાં આવે છે?",
+    "options": [
+      "કમ્પ્રેસરના ડિસ્ચાર્જ પ્રેશર પર",
+      "ઇન્ટેક તાપમાન અને વાતાવરણીય દબાણ પર",
+      "NTP કન્ડિશન પર",
+      "સ્ટાન્ડર્ડ ટેમ્પરેચર અને પ્રેશર પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "FAD એટલે કમ્પ્રેસર દ્વારા બહાર નીકળેલી હવાનું કદ, જે ઇનલેટ તાપમાન અને એમ્બિયન્ટ પ્રેશરે માપવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 34,
+    "subject": "Power Engineering",
+    "subTopic": "Compressor Classification",
+    "question": "At a given pressure ratio, what happens when the speed of a centrifugal compressor is increased?",
+    "gujaratiQuestion": "034. આપેલા પ્રેશર રેશિયો પર સેન્ટ્રિફ્યુગલ કમ્પ્રેસરની સ્પીડ વધારવાથી શું થાય છે?",
+    "options": [
+      "ફ્લો વધે છે",
+      "ફ્લો ઘટે છે",
+      "એફિશિયન્સી વધે છે",
+      "ફ્લો અને એફિશિયન્સી ઘટે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સેન્ટ્રિફ્યુગલ કમ્પ્રેસરની ગતિ વધારવાથી માસ ફ્લો રેટ વધે છે[cite: 6]."
+  },
+  {
+    "id": 35,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "In high and medium head power plants, when is a surge tank generally provided?",
+    "gujaratiQuestion": "035. હાઈ અને મીડીયમ હેડ પાવર પ્લાન્ટમાં સર્જ ટેન્ક સામાન્ય રીતે ક્યારે આપવામાં આવે છે?",
+    "options": [
+      "હાઇડ્રો-ઇલેક્ટ્રિક, ટૂંકો પેનસ્ટોક",
+      "હાઈડ્રો-ઇલેક્ટ્રિક, લાંબો પેનસ્ટોક",
+      "થર્મલ, ટૂંકો પેનસ્ટોક",
+      "થર્મલ, મોટું સ્ટીમ ટર્બાઇન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હાઈડ્રો પાવર પ્લાન્ટમાં લાંબા પેનસ્ટોકમાં વોટર હેમરિંગ ઘટાડવા માટે સર્જ ટેન્ક મૂકાય છે[cite: 6]."
+  },
+  {
+    "id": 36,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "What is Isothermal Efficiency of a compressor?",
+    "gujaratiQuestion": "036. આઇસોથર્મલ એફિશિયન્સી એટલે શું?",
+    "options": [
+      "આઇસોથર્મલ વર્ક અને ઍક્ચ્યુઅલ વર્કનો ગુણોત્તર",
+      "એક્ચ્યુઅલ વર્ક અને આઇસોથર્મલ વર્કનો ગુણોત્તર",
+      "આઉટપુટ અને ઈનપુટનો ગુણોત્તર",
+      "બ્રેક પાવર અને ઈન્ડિકેટેડ પાવરનો ગુણોત્તર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આઇસોથર્મલ કાર્યક્ષમતા = આઇસોથર્મલ વર્ક / એક્ચ્યુઅલ વર્ક (Isothermal Work / Actual Work)[cite: 6]."
+  },
+  {
+    "id": 37,
+    "subject": "Power Engineering",
+    "subTopic": "Compressor Classification",
+    "question": "How does air flow occur in an axial flow compressor?",
+    "gujaratiQuestion": "037. એક્સિયલ ફ્લો કમ્પ્રેસરમાં હવાનો ફ્લો કેવી રીતે થાય છે?",
+    "options": [
+      "શાફ્ટની ધરીને લંબરૂપ",
+      "શાફ્ટની ધરીને સમાંતર",
+      "સ્પર્શક દિશામાં",
+      "ત્રિજ્યા દિશામાં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એક્સિયલ ફ્લો કમ્પ્રેસરમાં હવા શાફ્ટની ધરીને સમાંતર (Parallel to axis) વહે છે[cite: 6]."
+  },
+  {
+    "id": 38,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "What is the function of an economizer in a thermal power plant?",
+    "gujaratiQuestion": "038. થર્મલ પાવર પ્લાન્ટમાં ઈકોનોમાઈઝરનું કાર્ય શું છે?",
+    "options": [
+      "બોઈલરમાંથી સ્ટીમને ગરમ કરવી",
+      "ફ્લુ ગેસનો ઉપયોગ કરીને ફીડ વોટરને ગરમ કરવું",
+      "હવા-બળતણના મિશ્રણને ગરમ કરવું",
+      "ટર્બાઇન આઉટલેટમાંથી લીધેલી સ્ટીમને ગરમ કરવી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇકોનોમાઇઝર એક્ઝોસ્ટ ફ્લુ ગેસની ઉષ્માનો ઉપયોગ કરીને બોઇલર ફીડ વોટરને ગરમ કરે છે[cite: 6]."
+  },
+  {
+    "id": 39,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "What is the primary effect of intercooling in a Brayton cycle?",
+    "gujaratiQuestion": "039. બ્રેટન સાયકલમાં ઇન્ટરકૂલિંગ કરવાથી મુખ્યત્વે શું થાય છે?",
+    "options": [
+      "કમ્પ્રેસર વર્ક ઘટે છે",
+      "ટર્બાઇન વર્ક વધે છે",
+      "ટર્બાઇન વર્ક ઘટે છે",
+      "કમ્પ્રેસર વર્ક વધે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇન્ટરકૂલિંગ કરવાથી કમ્પ્રેસર માટે જરૂરી વર્ક ઇનપુટ ઘટે છે, જેથી નેટ વર્ક આઉટપુટ વધે છે[cite: 6]."
+  },
+  {
+    "id": 40,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "What is the average ash content in Indian coal approximately?",
+    "gujaratiQuestion": "040. ભારતીય કોલસામાં સરેરાશ રાખનું પ્રમાણ લગભગ કેટલું હોય છે?",
+    "options": [
+      "5%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ભારતીય કોલસામાં રાખ (Ash) નું પ્રમાણ વધારે (સામાન્ય રીતે 20% થી 40%) હોય છે[cite: 6]."
+  },
+  {
+    "id": 41,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "What is the unit of Brake Specific Fuel Consumption (BSFC)?",
+    "gujaratiQuestion": "041. બ્રેક સ્પેસિફિક ફ્યુઅલ કન્ઝમ્પશન (BSFC) નો એકમ કયો છે?",
+    "options": [
+      "kg/hr",
+      "kg/kW-hr",
+      "kW/kg-hr",
+      "J/kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "BSFC નો એકમ કિલોગ્રામ પ્રતિ કિલોવોટ-કલાક (kg/kW-hr) છે[cite: 6]."
+  },
+  {
+    "id": 42,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "What is the effect of using multi-stage compression on volumetric efficiency?",
+    "gujaratiQuestion": "042. મલ્ટીસ્ટેજ કમ્પ્રેશનનો ઉપયોગ કરવાથી વોલ્યુમેટ્રિક એફિશિયન્સી પર શું અસર થાય છે?",
+    "options": [
+      "ઘટે છે",
+      "વધે છે",
+      "અચળ રહે છે",
+      "શૂન્ય થાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "દરેક સ્ટેજનો પ્રેશર રેશિયો ઘટવાથી ક્લિયરન્સ ગેસનું વિસ્તરણ ઘટે છે, જેથી વોલ્યુમેટ્રિક કાર્યક્ષમતા વધે છે[cite: 6]."
+  },
+  {
+    "id": 43,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "In an evaporative type condenser, what is present?",
+    "gujaratiQuestion": "043. ઈવેપોરેટિવ પ્રકારના કન્ડેન્સરમાં શું હોય છે?",
+    "options": [
+      "પાઈપમાં સ્ટીમ જેની આસપાસ પાણી હોય છે",
+      "પાઈપમાં પાણી જેની આસપાસ સ્ટીમ હોય છે",
+      "(a) અથવા (b)",
+      "ઉપરોક્ત પૈકી કોઈ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇવેપોરેટિવ કન્ડેન્સરમાં કોઈલની અંદર સ્ટીમ વહે છે અને બહારથી પાણીનો સ્પ્રે તથા હવા પસાર થાય છે[cite: 6]."
+  },
+  {
+    "id": 44,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "If 1st stage inlet is 1 bar and 3rd stage delivery is 64 bar, what is ideal pressure ratio per stage?",
+    "gujaratiQuestion": "Q44. જો પ્રથમ સ્ટેજનું ઇનલેટ પ્રેશર 1 બાર અને ત્રીજા સ્ટેજનું ડિલિવરી પ્રેશર 64 બાર હોય, તો પ્રત્યેક સ્ટેજનો આદર્શ પ્રેશર રેશિયો કેટલો હોવો જોઈએ?",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "64"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્ટેજ પ્રેશર રેશિયો r = (P_final / P_initial)^(1/3) = (64 / 1)^(1/3) = 4[cite: 6]."
+  },
+  {
+    "id": 45,
+    "subject": "Power Engineering",
+    "subTopic": "Regeneration",
+    "question": "What happens when a regenerator is used in a gas turbine?",
+    "gujaratiQuestion": "045. ગેસ ટર્બાઈનમાં રિજનરેટરનો ઉપયોગ કરવાથી શું થાય છે?",
+    "options": [
+      "વર્ક આઉટપુટ વધે છે",
+      "વર્ક આઉટપુટ ઘટે છે",
+      "થર્મલ એફિશિયન્સી વધે છે",
+      "કમ્પ્રેસર વર્ક ઘટે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રિજનરેટર એક્ઝોસ્ટ હીટનો ઉપયોગ કરી બળતણનો વપરાશ ઘટાડે છે, જેથી થર્મલ કાર્યક્ષમતા વધે છે[cite: 6]."
+  },
+  {
+    "id": 46,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "Which of the following plants is cheapest in operation and maintenance?",
+    "gujaratiQuestion": "Q46. નીચેનામાંથી કયો પ્લાન્ટ ઓપરેશન અને મેન્ટેનન્સમાં સૌથી સસ્તો છે?",
+    "options": [
+      "થર્મલ પાવર પ્લાન્ટ",
+      "ન્યુક્લિયર પાવર પ્લાન્ટ",
+      "હાઈડ્રો પાવર પ્લાન્ટ",
+      "દર્શાવેલ તમામ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હાઈડ્રો પાવર પ્લાન્ટમાં કોઈ બળતણ ખર્ચ ન હોવાથી તેનો ઓપરેશન અને મેન્ટેનન્સ ખર્ચ સૌથી ઓછો હોય છે[cite: 6]."
+  },
+  {
+    "id": 47,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "When is minimum work obtained in a compression process?",
+    "gujaratiQuestion": "047. કમ્પ્રેશન પ્રક્રિયામાં ન્યૂનતમ વર્ક ક્યારે મળે છે?",
+    "options": [
+      "જ્યારે પ્રક્રિયા એડિઆબેટિક હોય",
+      "જ્યારે પ્રક્રિયા આઇસોથર્મલ હોય",
+      "જ્યારે પ્રક્રિયા આઇસોકોરિક હોય",
+      "જ્યારે પ્રક્રિયા આઇસોબેરિક હોય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આઇસોથર્મલ કમ્પ્રેશન દરમિયાન જરૂરી વર્ક ઇનપુટ લઘુત્તમ હોય છે[cite: 6]."
+  },
+  {
+    "id": 48,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "What are the main components of a simple open cycle gas turbine?",
+    "gujaratiQuestion": "048. સિમ્પલ ઓપન સાયકલ ગેસ ટર્બાઈનમાં કયા મુખ્ય ઘટકો હોય છે?",
+    "options": [
+      "કમ્પ્રેસર, કમ્બશન ચેમ્બર અને ટર્બાઈન",
+      "કમ્પ્રેસર, બોઇલર અને ટર્બાઈન",
+      "પંપ, કમ્બશન ચેમ્બર અને ટર્બાઈન",
+      "કમ્પ્રેસર, ઇવેપોરેટર અને ટર્બાઈન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઓપન સાયકલ ગેસ ટર્બાઇનમાં મુખ્યત્વે કમ્પ્રેસર, કમ્બશન ચેમ્બર અને ટર્બાઇન હોય છે[cite: 6]."
+  },
+  {
+    "id": 49,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "Coal used in power plants is also known by which name?",
+    "gujaratiQuestion": "049. પાવર પ્લાન્ટમાં વપરાતા કોલસાને બીજા કયા નામે ઓળખવામાં આવે છે?",
+    "options": [
+      "સ્ટીમ કોલ",
+      "સોફ્ટ કોલ",
+      "ચારકોલ",
+      "હાર્ડ કોલ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "પાવર જનરેશનમાં વપરાતા કોલસાને બોઈલર કોલ અથવા સ્ટીમ/હાર્ડ કોલ કહે છે (આન્સર કી D મુજબ)[cite: 6]."
+  },
+  {
+    "id": 50,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "In a two-stage compressor with suction P1 and delivery P3, formula for ideal intercooler pressure (P2) is:",
+    "gujaratiQuestion": "050. ટુ-સ્ટેજ કમ્પ્રેસરમાં જો P1 સક્શન પ્રેશર અને P3 ડિલિવરી પ્રેશર હોય, તો પરફેક્ટ ઈન્ટરકૂલિંગ માટે આદર્શ ઈન્ટરકૂલર પ્રેશર (P2) નું સૂત્ર શું છે?",
+    "options": [
+      "P2 = P1 + P3",
+      "P2 = (P1 × P3) / 2",
+      "P2 = √(P1 × P3)",
+      "P2 = P1 / P3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ન્યૂનતમ કાર્ય માટે આદર્શ ઇન્ટરમીડિયેટ પ્રેશર P2 = √(P1 × P3) થાય છે[cite: 6]."
+  },
+  {
+    "id": 51,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "Which of the following is an application of an air compressor?",
+    "gujaratiQuestion": "051. નીચેનામાંથી કયું એર કમ્પ્રેસરનું એપ્લિકેશન છે?",
+    "options": [
+      "ન્યુમેટિક ડ્રિલ ચલાવવા",
+      "ગેસ ટર્બાઈનમાં કમ્બશન માટે",
+      "સ્પ્રે પેઇન્ટિંગ માટે",
+      "આપેલ તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સંકુચિત હવા ન્યુમેટિક ટૂલ્સ, ગેસ ટર્બાઇન અને સ્પ્રે પેઇન્ટિંગ તમામમાં વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 52,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "Steam leaving the steam generator of a nuclear power plant is best described as:",
+    "gujaratiQuestion": "052. ન્યુક્લિયર પાવર પ્લાન્ટના સ્ટીમ જનરેટરમાંથી નીકળતી સ્ટીમને શ્રેષ્ઠ રીતે કઈ કહી શકાય?",
+    "options": [
+      "સેચ્યુરેટેડ ડ્રાય સ્ટીમ",
+      "સેચ્યુરેટેડ વેટ સ્ટીમ",
+      "સુપરક્રિટિકલ સ્ટીમ",
+      "સુપરહીટેડ સ્ટીમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ન્યુક્લિયર રિએક્ટર સ્ટીમ જનરેટરમાંથી નીકળતી સ્ટીમ સામાન્ય રીતે સેચ્યુરેટેડ વેટ સ્ટીમ હોય છે[cite: 6]."
+  },
+  {
+    "id": 53,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "Volumetric efficiency of a compressor is the ratio of:",
+    "gujaratiQuestion": "053. કમ્પ્રેસરની વોલ્યુમેટ્રિક એફિશિયન્સી કોનો ગુણોત્તર છે?",
+    "options": [
+      "એક્ચ્યુઅલ વોલ્યુમ અને સ્વેપ્ટ વોલ્યુમ",
+      "ક્લિયરન્સ વોલ્યુમ અને સ્વેપ્ટ વોલ્યુમ",
+      "એક્ચ્યુઅલ વર્ક અને આઇસોથર્મલ વર્ક",
+      "સ્વેપ્ટ વોલ્યુમ અને ક્લિયરન્સ વોલ્યુમ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વોલ્યુમેટ્રિક કાર્યક્ષમતા = એક્ચ્યુઅલ ફ્રી એર વોલ્યુમ / સ્વેપ્ટ વોલ્યુમ (Actual volume / Swept volume)[cite: 6]."
+  },
+  {
+    "id": 54,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "Which heating value of fuel is considered for fuel consumption calculation in gas turbines?",
+    "gujaratiQuestion": "054. ગેસ ટર્બાઈનમાં ફ્યુઅલ કન્ઝમ્પશનની ગણતરી માટે ફયુઅલની કઈ હીટિંગ વેલ્યુ ધ્યાનમાં લેવાય છે?",
+    "options": [
+      "હાયર હીટિંગ વેલ્યુ",
+      "લોઅર હીટિંગ વેલ્યુ",
+      "સ્ટાન્ડર્ડ હીટિંગ વેલ્યુ",
+      "સુપિરિયર કેલરીફિક વેલ્યુ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગેસ ટર્બાઇનમાં એક્ઝોસ્ટ વાયુઓ સાથે વરાળ બહાર જતી હોવાથી લોઅર હીટિંગ વેલ્યુ (LHV) લેવાય છે[cite: 6]."
+  },
+  {
+    "id": 55,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "Gas turbine power plants primarily use which of the following fuels?",
+    "gujaratiQuestion": "055. ગેસ ટર્બાઈન પાવર પ્લાન્ટ મુખ્યત્વે નીચેનામાંથી કયા બળતણનો ઉપયોગ કરે છે?",
+    "options": [
+      "કેરોસીન તેલ, ડીઝલ તેલ અને રેસિડ્યુઅલ તેલ",
+      "નેચરલ ગેસ અને લિક્વિડ પેટ્રોલિયમ ફ્યુઅલ",
+      "કોલસો અને પીટ",
+      "ગેસ ઓઈલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગેસ ટર્બાઇન મુખ્યત્વે નેચરલ ગેસ અને લાઇટ લિક્વિડ હાઇડ્રોકાર્બન ફ્યુઅલ પર ચાલે છે[cite: 6]."
+  },
+  {
+    "id": 56,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "During which process does heat addition occur in a Brayton cycle?",
+    "gujaratiQuestion": "056. બ્રેટન સાયકલમાં હીટ એડિશન કઈ પ્રક્રિયા દરમિયાન થાય છે?",
+    "options": [
+      "આઇસોથર્મલ",
+      "આઇસોકોરિક",
+      "આઇસોબેરિક",
+      "આઈસેન્ટ્રોપિક"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બ્રેટન સાયકલની કમ્બશન ચેમ્બરમાં અચળ દબાણે (Isobaric process) ઉષ્મા ઉમેરાય છે[cite: 6]."
+  },
+  {
+    "id": 57,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "What is the purpose of using an open heater in a steam power plant?",
+    "gujaratiQuestion": "057. સ્ટીમ પાવર પ્લાન્ટમાં ઓપન હીટરનો ઉપયોગ કરવાનો હેતુ શું છે?",
+    "options": [
+      "ફીડવોટર ડીએરેશન",
+      "ફીડવોટર કાર્બોનાઇઝેશન",
+      "ફીડવોટર એસ્ટરિફિકેશન",
+      "ફીડવોટર પ્યુરિફિકેશન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઓપન ફીડવોટર હીટર પાણીને ગરમ કરવાની સાથે ઓગળેલા વાયુઓ દૂર કરવાનું (Deaeration) કાર્ય કરે છે[cite: 6]."
+  },
+  {
+    "id": 58,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "If compression process follows PV^n = C and n = 1, which process is it?",
+    "gujaratiQuestion": "058. જો કમ્પ્રેશન પ્રક્રિયા PV^n = C ને અનુસરતી હોય અને n=1 હોય, તો તે કઈ પ્રક્રિયા છે?",
+    "options": [
+      "આઇસોથર્મલ",
+      "એડિઆબેટિક",
+      "પોલિટ્રોપિક",
+      "આઇસોકોરિક"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PV = C એ આદર્શ વાયુ માટે આઇસોથર્મલ (કોન્સ્ટન્ટ ટેમ્પરેચર) પ્રક્રિયા દર્શાવે છે[cite: 6]."
+  },
+  {
+    "id": 59,
+    "subject": "Power Engineering",
+    "subTopic": "Reheat",
+    "question": "What is the result of reheating in a gas turbine?",
+    "gujaratiQuestion": "059. ગેસ ટર્બાઈનમાં રિહીટિંગ કરવાથી શું પરિણામ મળે છે?",
+    "options": [
+      "કમ્પ્રેસર વર્ક ઘટે છે",
+      "ટર્બાઈન વર્ક આઉટપુટ વધે છે",
+      "થર્મલ એફિશિયન્સી હંમેશા વધે છે",
+      "પ્રેશર રેશિયો ઘટે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રિહીટિંગ કરવાથી વિસ્તરણ કાર્ય વધે છે, જેથી ટર્બાઇન વર્ક આઉટપુટમાં વધારો થાય છે[cite: 6]."
+  },
+  {
+    "id": 60,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "Why is compounding done in steam turbines?",
+    "gujaratiQuestion": "060. સ્ટીમ ટર્બાઈનનું કમ્પાઉન્ડિંગ શા માટે કરવામાં આવે છે?",
+    "options": [
+      "થયેલ કાર્ય ઘટાડવા માટે",
+      "રોટરની ગતિ વધારવા માટે",
+      "રોટરની ગતિ ઘટાડવા માટે",
+      "ટર્બાઈનને બેલેન્સ કરવા માટે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કમ્પાઉન્ડિંગ કરવાથી સ્ટીમનો વેગ કે દબાણ તબક્કાવાર ઘટે છે, જેથી રોટરની સ્પીડ ઘટીને વ્યવહારુ બને છે[cite: 6]."
+  },
+  {
+    "id": 61,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "Compression in actual air compressors generally follows which process?",
+    "gujaratiQuestion": "061. વાસ્તવિક એર કમ્પ્રેસરમાં થતું કમ્પ્રેશન સામાન્ય રીતે કઈ પ્રક્રિયાને અનુસરે છે?",
+    "options": [
+      "આઇસોથર્મલ",
+      "આઈસેન્ટ્રોપિક",
+      "પોલિટ્રોપિક",
+      "આઇસોબેરિક"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વાસ્તવિક કમ્પ્રેસરમાં ઘર્ષણ અને આંશિક હીટ ટ્રાન્સફરને કારણે કમ્પ્રેશન પોલિટ્રોપિક (PV^n = C) હોય છે[cite: 6]."
+  },
+  {
+    "id": 62,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "If bore diameter is D and stroke length is L, what is the swept volume (Vs) of reciprocating compressor?",
+    "gujaratiQuestion": "Q62. જો રિસીપ્રોકેટિંગ કમ્પ્રેસરનો બોર ડાયામીટર D અને સ્ટ્રોક લંબાઈ L હોય, તો તેનું સ્વેપ્ટ વૉલ્યુમ (Vs) કેટલું થશે?",
+    "options": [
+      "(π/2) * D²L",
+      "(π/4) * D²L",
+      "πDL",
+      "πD²L"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્વેપ્ટ વોલ્યુમ Vs = સિલિન્ડર એરિયા × સ્ટ્રોક લંબાઈ = (π/4) * D² * L થાય છે[cite: 6]."
+  },
+  {
+    "id": 63,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "What is the Rankine cycle efficiency range of a good steam power plant?",
+    "gujaratiQuestion": "063. સારા સ્ટીમ પાવર પ્લાન્ટની રેન્કિન સાયકલની કાર્યક્ષમતા કેટલી રેન્જમાં હોય છે?",
+    "options": [
+      "15% થી 20%",
+      "35% થી 45%",
+      "70% થી 80%",
+      "90% થી 95%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આધુનિક સ્ટીમ પાવર પ્લાન્ટની રેન્કિન કાર્યક્ષમતા સામાન્ય રીતે 35% થી 45% ની રેન્જમાં હોય છે[cite: 6]."
+  },
+  {
+    "id": 64,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "How is work ratio defined for a gas turbine plant?",
+    "gujaratiQuestion": "Q64. ગેસ ટર્બાઇન પ્લાન્ટનો વર્ક રેશિયો કેવી રીતે વ્યાખ્યાયિત થાય છે?",
+    "options": [
+      "નેટ વર્ક આઉટપુટ / ટર્બાઇન વર્ક",
+      "ટર્બાઇન વર્ક / કમ્પ્રેસર વર્ક",
+      "કમ્પ્રેસર વર્ક / ટર્બાઇન વર્ક",
+      "નેટ વર્ક આઉટપુટ / હીટ ઈનપુટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વર્ક રેશિયો rw = Net Work Output / Turbine Work (Wnet / WT) થાય છે[cite: 6]."
+  },
+  {
+    "id": 65,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "In a gas turbine, maximum temperature is limited by:",
+    "gujaratiQuestion": "065. ગેસ ટર્બાઈનમાં મહત્તમ તાપમાન કોના દ્વારા મર્યાદિત (limited) કરવામાં આવે છે?",
+    "options": [
+      "કમ્પ્રેસર બ્લેડ મટિરિયલ",
+      "ટર્બાઈન બ્લેડ અને નોઝલ મટિરિયલ",
+      "કમ્બશન ચેમ્બર વોલ્યુમ",
+      "હવાનું પ્રમાણ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટર્બાઇન બ્લેડ મટીરીયલની ઊંચા તાપમાને સહનશક્તિ (Thermal stress limits) મહત્તમ તાપમાનને મર્યાદિત કરે છે[cite: 6]."
+  },
+  {
+    "id": 66,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "An economizer is used to heat:",
+    "gujaratiQuestion": "066. ઈકોનોમાઇઝરનો ઉપયોગ શેને ગરમ કરવા માટે થાય છે?",
+    "options": [
+      "હવા",
+      "ફીડ વોટર",
+      "ફ્લુ ગેસ",
+      "ઉપરોક્ત તમામ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇકોનોમાઇઝર બોઇલરમાં પ્રવેશતા ફીડ વોટર (Feed water) ને ગરમ કરવા માટે વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 67,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "In a reciprocating compressor, what is the effect of increasing clearance volume on work input per kg of air?",
+    "gujaratiQuestion": "067. રિસીપ્રોકેટિંગ કમ્પ્રેસરમાં ક્લિયરન્સ વોલ્યુમ વધારવાથી પ્રતિ કિલોગ્રામ હવાના વર્ક ઈનપુટ પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "કોઈ ફેરફાર થતો નથી",
+      "શૂન્ય થઈ જાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ક્લિયરન્સ વધવાથી ક્ષમતા ઘટે છે પરંતુ પ્રતિ kg હવાના સૈદ્ધાંતિક વર્ક ઇનપુટ પર કોઈ અસર થતી નથી[cite: 6]."
+  },
+  {
+    "id": 68,
+    "subject": "Power Engineering",
+    "subTopic": "Compressor Classification",
+    "question": "In which type of compressor does air enter parallel to shaft axis and exit radially?",
+    "gujaratiQuestion": "068. કયા પ્રકારના કમ્પ્રેસરમાં હવા શાફ્ટના અક્ષને સમાંતર પ્રવેશે છે અને ત્રિજ્યા દિશામાં બહાર નીકળે છે?",
+    "options": [
+      "એક્સિયલ ફ્લો કમ્પ્રેસર",
+      "સેન્ટ્રિફ્યુગલ કમ્પ્રેસર",
+      "રિસીપ્રોકેટિંગ કમ્પ્રેસર",
+      "રૂટ બ્લોઅર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સેન્ટ્રિફ્યુગલ કમ્પ્રેસરમાં હવા અક્ષીય દિશામાં પ્રવેશી ઇમ્પેલર દ્વારા રેડિયલ (ત્રિજ્યા) દિશામાં બહાર ફેંકાય છે[cite: 6]."
+  },
+  {
+    "id": 69,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "Artificial draft is produced by:",
+    "gujaratiQuestion": "069. આર્ટિફિશિયલ ડ્રાફ્ટ શેના દ્વારા ઉત્પન્ન કરવામાં આવે છે?",
+    "options": [
+      "ઈન્ડ્યુસ્ડ ફેન",
+      "ફોર્સ્ડ ફેન",
+      "ઈન્ડ્યુસ્ડ અને ફોર્સ્ડ ફેન",
+      "ઉપરોક્ત તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "મિકેનિકલ આર્ટિફિશિયલ ડ્રાફ્ટ FD ફેન, ID ફેન અથવા બેલેન્સ્ડ ડ્રાફ્ટ ફેન દ્વારા ઉત્પન્ન કરાય છે[cite: 6]."
+  },
+  {
+    "id": 70,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "A steam power plant operates on which ideal cycle?",
+    "gujaratiQuestion": "Q70. સ્ટીમ પાવર પ્લાન્ટ કઈ આદર્શ સાયકલ પર કાર્ય કરે છે?",
+    "options": [
+      "ઓટો સાયકલ",
+      "બ્રેટન સાયકલ",
+      "રેન્કિન સાયકલ",
+      "ડીઝલ સાયકલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્ટીમ પાવર પ્લાન્ટ માટે સ્ટાન્ડર્ડ રેફરન્સ સાયકલ રેન્કિન સાયકલ (Rankine cycle) છે[cite: 6]."
+  },
+  {
+    "id": 71,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "Which four processes are mainly present in a Rankine cycle?",
+    "gujaratiQuestion": "071. રેન્કિન સાયકલમાં મુખ્યત્વે કઈ ચાર પ્રક્રિયાઓ હોય છે?",
+    "options": [
+      "બે આઈસેન્ટ્રોપિક અને બે અચળ કદની પ્રક્રિયાઓ",
+      "બે આઈસેન્ટ્રોપિક અને બે અચળ દબાણની પ્રક્રિયાઓ",
+      "બે આઇસોથર્મલ અને બે અચળ દબાણની પ્રક્રિયાઓ",
+      "બે આઇસોથર્મલ અને બે અચળ કદની પ્રક્રિયાઓ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રેન્કિન સાયકલમાં 2 આઈસેન્ટ્રોપિક (પંપ અને ટર્બાઇન) અને 2 આઈસોબારિક (બોઇલર અને કન્ડેન્સર) પ્રક્રિયાઓ હોય છે[cite: 6]."
+  },
+  {
+    "id": 72,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "For the same maximum and minimum temperatures, what does Rankine cycle have compared to Carnot cycle?",
+    "gujaratiQuestion": "072. સમાન મહત્તમ અને ન્યૂનતમ તાપમાન માટે, રેન્કિન સાયકલમાં કાર્નોટ સાયકલની સરખામણીએ શું હોય છે?",
+    "options": [
+      "કાર્નોટ સાયકલ કરતા વધુ કાર્યક્ષમતા",
+      "કાર્નોટ સાયકલ જેટલી જ કાર્યક્ષમતા",
+      "કાર્નોટ સાયકલ કરતા ઓછું સ્પેસિફિક વર્ક આઉટપુટ",
+      "કાર્નોટ સાયકલ કરતા વધુ સ્પેસિફિક વર્ક આઉટપુટ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "રેન્કિન સાયકલમાં પંપ વર્ક ઘણું ઓછું હોવાથી કાર્નોટ વેપર સાયકલ કરતાં વધુ સ્પેસિફિક વર્ક આઉટપુટ મળે છે[cite: 6]."
+  },
+  {
+    "id": 73,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "In a Rankine cycle, work output obtained from turbine is equal to the change in:",
+    "gujaratiQuestion": "Q73. રેન્કિન સાયકલમાં ટર્બાઇન દ્વારા મળતું વર્ક આઉટપુટ કોના ફેરફાર બરાબર હોય છે?",
+    "options": [
+      "એન્ટ્રોપી",
+      "ઇન્ટરનલ એનર્જી",
+      "કદ (વોલ્યુમ)",
+      "એન્થેલ્પી"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સ્ટીડી ફ્લો એનર્જી ઇક્વેશન મુજબ ટર્બાઇન વર્ક WT = h1 - h2 (એન્થાલ્પી ડ્રોપ) બરાબર હોય છે[cite: 6]."
+  },
+  {
+    "id": 74,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "What is the main function of a condenser in a Rankine cycle?",
+    "gujaratiQuestion": "074. રેન્કિન સાયકલમાં કન્ડેન્સરનું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "અચળ દબાણે ઉષ્મા ઉમેરવી",
+      "અચળ દબાણે ઉષ્મા દૂર કરવી",
+      "આઇસેન્ટ્રોપિક વિસ્તરણ કરવું",
+      "પાણીનું દબાણ વધારવું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કન્ડેન્સરમાં ટર્બાઇનમાંથી નીકળતી સ્ટીમમાંથી અચળ દબાણે ઉષ્મા દૂર કરીને પાણી બનાવવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 75,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "If dry saturated steam enters a turbine following an isentropic process, what will it be at the turbine outlet?",
+    "gujaratiQuestion": "075. જો આઈસેન્ટ્રોપિક પ્રક્રિયાને અનુસરીને ડ્રાય સેચ્યુરેટેડ સ્ટીમને સ્ટીમ ટર્બાઇનમાં દાખલ કરવામાં આવે, તો ટર્બાઈનના આઉટલેટ પર તે કેવી હશે?",
+    "options": [
+      "સુપરહીટેડ સ્ટીમ",
+      "ડ્રાય સેચ્યુરેટેડ સ્ટીમ",
+      "લિક્વિડ કન્ડેન્સેટ",
+      "વેટ સ્ટીમ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "h-s અથવા T-s ડાયાગ્રામ મુજબ આઇસેન્ટ્રોપિક વિસ્તરણ થતાં સ્ટીમ ટુ-ફેઝ વેટ રીજનમાં આવીને વેટ સ્ટીમ બને છે[cite: 6]."
+  },
+  {
+    "id": 76,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "In a Rankine cycle, turbine work is 1000 kJ/kg and pump work input is 50 kJ/kg. What is the work ratio?",
+    "gujaratiQuestion": "076. એક રેન્કિન સાયકલમાં ટર્બાઈન દ્વારા થતું વર્ક 1000 kJ/kg છે અને પંપનું વર્ક ઈનપુટ 50 kJ/kg છે. આ સાયકલનો વર્ક રેશિયો કેટલો થશે?",
+    "options": [
+      "0.90",
+      "0.95",
+      "0.97",
+      "0.99"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Work ratio = (WT - WP) / WT = (1000 - 50) / 1000 = 950 / 1000 = 0.95[cite: 6]."
+  },
+  {
+    "id": 77,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "Electron-volt is a unit of:",
+    "gujaratiQuestion": "077. ઈલેક્ટ્રોન-વોલ્ટ શેનો એકમ છે?",
+    "options": [
+      "એટોમિક પાવર",
+      "એનર્જી",
+      "વોલ્ટેજ",
+      "રેડિયોએક્ટિવિટી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇલેક્ટ્રોન-વોલ્ટ (eV) એ પરમાણુ અને ન્યુક્લિયર સ્તરે ઊર્જા (Energy) નો એકમ છે[cite: 6]."
+  },
+  {
+    "id": 78,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "What is the correct relation between Heat Rate and Thermal Efficiency?",
+    "gujaratiQuestion": "Q78. હીટ રેટ અને થર્મલ એફિશિયન્સી વચ્ચેનો સાચો સંબંધ કયો છે?",
+    "options": [
+      "હીટ રેટ = 3600 / થર્મલ એફિશિયન્સી",
+      "હીટ રેટ = 3600 × થર્મલ એફિશિયન્સી",
+      "હીટ રેટ = 1 / થર્મલ એફિશિયન્સી",
+      "હીટ રેટ = થર્મલ એફિશિયન્સી / 3600"
+    ],
+    "correctAnswer": 0,
+    "explanation": "હીટ રેટ (kJ/kWh) = 3600 / η_th થાય છે[cite: 6]."
+  },
+  {
+    "id": 79,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "Which of the following is the best measure to increase the efficiency of a Rankine cycle?",
+    "gujaratiQuestion": "Q79. રેન્કિન સાયકલની કાર્યક્ષમતા વધારવા માટે નીચેનામાંથી કયો ઉપાય શ્રેષ્ઠ છે?",
+    "options": [
+      "બોઈલરનું દબાણ ઘટાડવું",
+      "સ્ટીમનું સુપરહીટિંગ ઘટાડવું",
+      "કન્ડેન્સરનું દબાણ ઘટાડવું",
+      "એક્સપાન્શન રેશિયો ઘટાડવો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કન્ડેન્સરનું દબાણ ઘટાડવાથી હીટ રિજેક્શનનું સરેરાશ તાપમાન ઘટે છે અને કાર્યક્ષમતા વધે છે[cite: 6]."
+  },
+  {
+    "id": 80,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "Which of the following can be used as a coolant in a nuclear power plant?",
+    "gujaratiQuestion": "080. ન્યુક્લિયર પ્લાન્ટમાં કૂલન્ટ તરીકે નીચેનામાંથી શેનો ઉપયોગ કરી શકાય છે?",
+    "options": [
+      "લાઈટ અથવા હેવી વોટર",
+      "પીગળેલું સીસું",
+      "કાર્બન ડાયોક્સાઈડ",
+      "ફ્રીઓન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ન્યુક્લિયર રિએક્ટરમાં લિક્વિડ મેટલ કૂલન્ટ તરીકે પીગળેલું સોડિયમ અથવા સીસું (Lead) વપરાય છે (Answer Key B મુજબ)[cite: 6]."
+  },
+  {
+    "id": 81,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "Approximately what is the back work ratio in a steam turbine power plant?",
+    "gujaratiQuestion": "Q81. સ્ટીમ ટર્બાઈન પાવર પ્લાન્ટમાં બેક વર્ક રેશિયો આશરે કેટલો હોય છે?",
+    "options": [
+      "1% થી 2%",
+      "10% થી 20%",
+      "40% થી 60%",
+      "80% થી 90%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્ટીમ પ્લાન્ટમાં પંપ વર્ક ઘણું ઓછું હોવાથી બેક વર્ક રેશિયો (WP / WT) માત્ર 1% થી 2% ની આસપાસ હોય છે[cite: 6]."
+  },
+  {
+    "id": 82,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "In a Rankine cycle, pump work is represented by which process?",
+    "gujaratiQuestion": "082. રેન્કિન સાયકલમાં પંપનું કાર્ય કઈ પ્રક્રિયા દ્વારા દર્શાવવામાં આવે છે?",
+    "options": [
+      "આઈસોથર્મલ કમ્પ્રેશન",
+      "આઇસોબેરિક કમ્પ્રેશન",
+      "આઈસેન્ટ્રોપિક કમ્પ્રેશન",
+      "આઇસોકોરિક કમ્પ્રેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આદર્શ રેન્કિન સાયકલમાં ફીડ પંપનું કાર્ય રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક) કમ્પ્રેશન દ્વારા દર્શાવાય છે[cite: 6]."
+  },
+  {
+    "id": 83,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "What is the process of carbonization of coal?",
+    "gujaratiQuestion": "083. કોલસાનું કાર્બોનાઇઝેશન કઈ પ્રક્રિયા છે?",
+    "options": [
+      "નિષ્ક્રિય વાતાવરણમાં કોલસાને પલ્વેરાઈઝ કરવો",
+      "300°C થી નીચેના તાપમાને હવાની મર્યાદિત સપ્લાયમાં લાકડાને ગરમ કરવું",
+      "બંધ વાસણમાં હવાની ગેરહાજરીમાં લગભગ 48 કલાક સુધી કોલસાને સતત સખત રીતે ગરમ કરવો",
+      "કોલસામાં કાર્બનનું પ્રમાણ વધારવું"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હવાની ગેરહાજરીમાં કોલસાને ઊંચા તાપમાને ગરમ કરીને કોક બનાવવાની પ્રક્રિયાને કાર્બોનાઇઝેશન કહે છે[cite: 6]."
+  },
+  {
+    "id": 84,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "In a boiler, how is heat added while converting water into steam?",
+    "gujaratiQuestion": "Q84. બોઈલરમાં પાણીને વરાળમાં ફેરવતી વખતે ઉષ્મા કઈ રીતે ઉમેરવામાં આવે છે?",
+    "options": [
+      "અચળ કદ પર",
+      "અચળ દબાણ પર",
+      "અચળ તાપમાન પર",
+      "અચળ એન્ટ્રોપી પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બોઇલરમાં સ્ટીમ જનરેશન અચળ દબાણે (Isobaric process) થાય છે[cite: 6]."
+  },
+  {
+    "id": 85,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "A gas turbine plant is primarily based on which cycle?",
+    "gujaratiQuestion": "085. ગેસ ટર્બાઈન પ્લાન્ટ મુખ્યત્વે કઈ સાયકલ પર આધારિત છે?",
+    "options": [
+      "રેન્કિન સાયકલ",
+      "બ્રેટન સાયકલ",
+      "કાર્નોટ સાયકલ",
+      "એરિક્સન સાયકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગેસ ટર્બાઇન પાવર પ્લાન્ટ આદર્શ બ્રેટન સાયકલ પર આધારિત છે[cite: 6]."
+  },
+  {
+    "id": 86,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "How much coal is required per kWh generation in a thermal power plant?",
+    "gujaratiQuestion": "086. થર્મલ પાવર પ્લાન્ટમાં પ્રતિ kW hour જનરેશન માટે કોલસાની કેટલી જરૂરિયાત હોય છે?",
+    "options": [
+      "0.1 થી 0.2 kg",
+      "0.2 થી 0.4 kg",
+      "0.6 થી 0.8 kg",
+      "1.0 થી 1.5 kg"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સામાન્ય ભારતીય થર્મલ પાવર પ્લાન્ટમાં 1 kWh વીજળી માટે આશરે 0.6 થી 0.8 kg કોલસો વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 87,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "In a Brayton cycle, thermal efficiency mainly depends on:",
+    "gujaratiQuestion": "087. બ્રેટન સાયકલમાં થર્મલ એફિશિયન્સી મુખ્યત્વે કોના પર આધાર રાખે છે?",
+    "options": [
+      "માત્ર મહત્તમ તાપમાન પર",
+      "માત્ર ન્યૂનતમ તાપમાન પર",
+      "પ્રેશર રેશિયો પર",
+      "કટ-ઓફ રેશિયો પર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આદર્શ બ્રેટન સાયકલની કાર્યક્ષમતા η = 1 - (1 / rp^((γ-1)/γ)) માત્ર પ્રેશર રેશિયો (rp) પર આધાર રાખે છે[cite: 6]."
+  },
+  {
+    "id": 88,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "What is the approximate back work ratio observed in a gas turbine?",
+    "gujaratiQuestion": "088. ગેસ ટર્બાઈનમાં બેક વર્ક રેશિયો આશરે કેટલો જોવા મળે છે?",
+    "options": [
+      "1% થી 2%",
+      "15% થી 25%",
+      "40% થી 60%",
+      "98% થી 99%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગેસ ટર્બાઇનમાં હવાને કમ્પ્રેસ કરવા માટે ટર્બાઇન વર્કનો મોટો ભાગ (40% થી 60%) કમ્પ્રેસર વાપરી નાખે છે[cite: 6]."
+  },
+  {
+    "id": 89,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "A locomotive boiler is which type of boiler?",
+    "gujaratiQuestion": "089. લોકોમોટિવ પ્રકારનું બોઈલર કયું છે?",
+    "options": [
+      "હોરિઝોન્ટલ મલ્ટિટ્યુબ્યુલર વોટર ટ્યુબ બોઈલર",
+      "વોટર વોલ એન્ક્લોઝ્ડ ફર્નેસ પ્રકાર",
+      "વર્ટિકલ ટ્યુબ્યુલર ફાયર ટ્યુબ બોઇલર",
+      "હોરિઝોન્ટલ મલ્ટિટ્યુબ્યુલર ફાયર ટ્યુબ બોઈલર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "લોકોમોટિવ બોઇલર એ આડું (Horizontal), બહુનળીય (Multi-tubular) ફાયર ટ્યુબ મોબાઈલ બોઇલર છે[cite: 6]."
+  },
+  {
+    "id": 90,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "An open cycle gas turbine is what type of engine?",
+    "gujaratiQuestion": "090. ઓપન સાયકલ ગેસ ટર્બાઇન એ કયા પ્રકારનું એન્જિન છે?",
+    "options": [
+      "એક્સટર્નલ કમ્બશન એન્જિન",
+      "રોટરી ઇન્ટરનલ કમ્બશન એન્જિન",
+      "રિસીપ્રોકેટિંગ ઇન્ટરનલ કમ્બશન એન્જિન",
+      "સ્ટીમ એન્જિન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓપન સાયકલ ગેસ ટર્બાઇન રોટરી મોશન ધરાવતું ઇન્ટરનલ કમ્બશન (IC) એન્જિન છે[cite: 6]."
+  },
+  {
+    "id": 91,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "What is the main advantage of a closed cycle gas turbine?",
+    "gujaratiQuestion": "091. ક્લોઝડ સાયકલ ગેસ ટર્બાઈનનો મુખ્ય ફાયદો કયો છે?",
+    "options": [
+      "હળવું વજન",
+      "કાર્યકારી પ્રવાહીનો વારંવાર ઉપયોગ",
+      "ઓછો પ્રારંભિક ખર્ચ",
+      "સીધી વાતાવરણમાં એક્ઝોસ્ટ નિકાલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ક્લોઝ્ડ સાયકલમાં વર્કિંગ ફ્લુઇડ (જેમ કે હિલિયમ કે હવા) સતત પુનઃ પરિભ્રમણ પામે છે અને ફરી વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 92,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "Lancashire boiler is of which type?",
+    "gujaratiQuestion": "092. લંકાશાયર બોઈલર કયા પ્રકારનું છે?",
+    "options": [
+      "સ્ટેશનરી ફાયર-ટ્યુબ પ્રકાર",
+      "હોરિઝોન્ટલ પ્રકાર",
+      "નેચરલ સર્ક્યુલેશન પ્રકાર",
+      "ઉપરોક્ત તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "લંકાશાયર બોઇલર સ્ટેશનરી, હોરિઝોન્ટલ, ફાયર-ટ્યુબ અને નેચરલ સર્ક્યુલેશન ધરાવતું બોઇલર છે[cite: 6]."
+  },
+  {
+    "id": 93,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "What is the correct efficiency equation for an air standard Brayton cycle?",
+    "gujaratiQuestion": "093. એર સ્ટાન્ડર્ડ બ્રેટન સાયકલની કાર્યક્ષમતાનું સાચું સમીકરણ કયું છે?",
+    "options": [
+      "1 - (1 / rp)",
+      "1 - 1 / (rp^(γ - 1))",
+      "1 - 1 / (rp^((γ - 1)/γ))",
+      "1 - rp^((γ - 1)/γ)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બ્રેટન સાયકલની થર્મલ કાર્યક્ષમતા η = 1 - 1 / [rp^((γ-1)/γ)] છે[cite: 6]."
+  },
+  {
+    "id": 94,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "Impurities are removed from a boiler with the help of which mountings?",
+    "gujaratiQuestion": "094. બોઈલરમાંથી અશુદ્ધિઓ શેની મદદથી દૂર કરવામાં આવે છે?",
+    "options": [
+      "સ્ટોપ વાલ્વ",
+      "બ્લો-ઓફ કોક",
+      "સેફ્ટી વાલ્વ",
+      "ફ્યુઝિબલ પ્લગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બોઇલરના તળિયે જમા થયેલા ક્ષાર અને કાદવ (sludge) બ્લો-ઓફ કોક (Blow-off cock) દ્વારા બહાર કઢાય છે[cite: 6]."
+  },
+  {
+    "id": 95,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "In a gas turbine, if pressure ratio is increased, what is the effect on thermal efficiency of ideal Brayton cycle?",
+    "gujaratiQuestion": "095. ગેસ ટર્બાઈનમાં જો પ્રેશર રેશિયો વધારવામાં આવે તો આદર્શ બ્રેટન સાયકલની થર્મલ એફિશિયન્સી પર શું અસર થાય છે?",
+    "options": [
+      "ઘટે છે",
+      "વધે છે",
+      "સમાન રહે છે",
+      "અનિશ્ચિત છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રેશર રેશિયો વધવાથી આદર્શ બ્રેટન સાયકલની કાર્યક્ષમતા વધે છે[cite: 6]."
+  },
+  {
+    "id": 96,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "Reversed Brayton cycle (Bell-Coleman cycle) is generally used in:",
+    "gujaratiQuestion": "096. રિવર્સ્ડ બ્રેટન સાયકલ (બેલ-કોલમેન સાયકલ) નો ઉપયોગ સામાન્ય રીતે ક્યાં થાય છે?",
+    "options": [
+      "ગેસ પાવર પ્લાન્ટમાં",
+      "સ્ટીમ પાવર પ્લાન્ટમાં",
+      "એરક્રાફ્ટ રેફ્રિજરેશનમાં",
+      "મરીન એન્જિનમાં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હળવા વજનના ફાયદાને લીધે રિવર્સ્ડ બ્રેટન સાયકલ એરક્રાફ્ટ રેફ્રિજરેશન સિસ્ટમમાં વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 97,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "In a closed cycle gas turbine, under what condition is the gas cooled in the cooling chamber?",
+    "gujaratiQuestion": "Q97. ક્લોઝડ સાયકલ ગેસ ટર્બાઈનની કૂલિંગ ચેમ્બરમાં ગેસને કઈ સ્થિતિમાં ઠંડો કરવામાં આવે છે?",
+    "options": [
+      "અચળ કદ",
+      "અચળ દબાણ",
+      "અચળ તાપમાન",
+      "આમાંથી કોઈ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કૂલિંગ ચેમ્બરમાં ઉષ્મા નિકાલ અચળ દબાણે (Constant pressure) થાય છે[cite: 6]."
+  },
+  {
+    "id": 98,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "Where does heat addition take place in a Brayton cycle?",
+    "gujaratiQuestion": "098. બ્રેટન સાયકલમાં ઉષ્મા ઉમેરવાની પ્રક્રિયા ક્યાં થાય છે?",
+    "options": [
+      "કમ્પ્રેસરમાં",
+      "કમ્બશન ચેમ્બરમાં",
+      "ટર્બાઈનમાં",
+      "નોઝલમાં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બ્રેટન સાયકલમાં કમ્બશન ચેમ્બરમાં બળતણ બાળીને ઉષ્મા ઉમેરવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 99,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "Which method is useful to improve the work ratio in gas power cycles?",
+    "gujaratiQuestion": "099. ગેસ પાવર સાયકલમાં વર્ક રેશિયો સુધારવા માટે કઈ પદ્ધતિ ઉપયોગી છે?",
+    "options": [
+      "ટર્બાઇનનું વર્ક ઘટાડવું",
+      "કમ્પ્રેસરનું વર્ક વધારવું",
+      "કમ્પ્રેસરનું વર્ક ઘટાડવું",
+      "ઉષ્મા ઉમેરો ઘટાડવો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇન્ટરકૂલિંગ દ્વારા કમ્પ્રેસરનું વર્ક ઘટાડવાથી વર્ક રેશિયો (Wnet / WT) સુધરે છે[cite: 6]."
+  },
+  {
+    "id": 100,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "What is the result of intercooling in a gas turbine?",
+    "gujaratiQuestion": "0100. ગેસ ટર્બાઈનમાં ઈન્ટરકૂલિંગનું પરિણામ શું આવે છે?",
+    "options": [
+      "નેટ આઉટપુટમાં વધારો પણ થર્મલ કાર્યક્ષમતામાં ઘટાડો",
+      "થર્મલ કાર્યક્ષમતામાં વધારો પણ નેટ આઉટપુટમાં ઘટાડો",
+      "થર્મલ કાર્યક્ષમતા અને નેટ આઉટપુટ બંનેમાં વધારો",
+      "થર્મલ કાર્યક્ષમતા અને નેટ આઉટપુટ બંનેમાં ઘટાડો"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇન્ટરકૂલિંગથી કમ્પ્રેસર વર્ક ઘટીને નેટ આઉટપુટ વધે છે, પરંતુ સરેરાશ હીટ એડિશન તાપમાન ઘટતાં થર્મલ કાર્યક્ષમતા સહેજ ઘટે છે[cite: 6]."
+  },
+  {
+    "id": 101,
+    "subject": "Power Engineering",
+    "subTopic": "Reheat",
+    "question": "What is the main objective of Reheat in a gas turbine?",
+    "gujaratiQuestion": "0101. ગેસ ટર્બાઇનમાં રિહીટ (Reheat) નો મુખ્ય ઉદ્દેશ્ય શું છે?",
+    "options": [
+      "થર્મલ એફિશિયન્સી ઘટાડવી",
+      "કમ્પ્રેસર વર્ક ઘટાડવું",
+      "પાવર આઉટપુટ (ટર્બાઈન વર્ક) વધારવું",
+      "પ્રેશર રેશિયો ઘટાડવો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રિહીટિંગથી ટર્બાઇન વિસ્તરણ કાર્ય વધે છે, જેનાથી એકંદર પાવર આઉટપુટ વધે છે[cite: 6]."
+  },
+  {
+    "id": 102,
+    "subject": "Power Engineering",
+    "subTopic": "Reheat",
+    "question": "In a steam power plant, what is the effect of reheating on the moisture content of steam in the last stage of the turbine?",
+    "gujaratiQuestion": "Q102. સ્ટીમ પાવર પ્લાન્ટમાં રિહીટિંગ કરવાથી ટર્બાઈનના છેલ્લા સ્ટેજમાં સ્ટીમની ભેજ (Moisture) પર શું અસર થાય છે?",
+    "options": [
+      "ભેજ વધે છે",
+      "ભેજ ઘટે છે",
+      "ભેજ સમાન રહે છે",
+      "સ્ટીમ પ્રવાહી બની જાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રિહીટિંગ કરવાથી એક્ઝોસ્ટ સ્ટીમની ડ્રાયનેસ ફ્રેક્શન સુધરે છે અને ભેજનું પ્રમાણ ઘટે છે, જેથી બ્લેડનું ઇરોઝન અટકે છે[cite: 6]."
+  },
+  {
+    "id": 103,
+    "subject": "Power Engineering",
+    "subTopic": "Compressor Classification",
+    "question": "Due to what does pressure increase in a centrifugal compressor?",
+    "gujaratiQuestion": "0103. સેન્ટ્રિફ્યુગલ કમ્પ્રેસરમાં દબાણ શેના કારણે વધે છે?",
+    "options": [
+      "ડિફ્યુઝન પ્રક્રિયા",
+      "સેન્ટ્રિફ્યુગલ પ્રક્રિયા",
+      "સેન્ટ્રિફ્યુગલ અને ડિફ્યુઝન પ્રક્રિયા બંને",
+      "ઉપરોક્ત પૈકી કોઈ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇમ્પેલરમાં સેન્ટ્રિફ્યુગલ એક્શનથી અને ત્યારબાદ ડિફ્યુઝરમાં ગતિજ ઊર્જાનું દબાણમાં રૂપાંતર થવાથી પ્રેશર વધે છે[cite: 6]."
+  },
+  {
+    "id": 104,
+    "subject": "Power Engineering",
+    "subTopic": "Regeneration",
+    "question": "What happens in the regeneration process in a gas turbine?",
+    "gujaratiQuestion": "0104. ગેસ ટર્બાઈનમાં રિજનરેશન પ્રક્રિયામાં શું થાય છે?",
+    "options": [
+      "ટર્બાઈનમાંથી નીકળતા ગરમ ગેસ દ્વારા કોમ્પ્રેસ્ડ હવાને ગરમ કરવામાં આવે છે",
+      "હવાને કમ્પ્રેસરમાં ઠંડી પાડવામાં આવે છે",
+      "ટર્બાઈન વચ્ચે ગેસને ફરીથી ગરમ કરવામાં આવે છે",
+      "એક્ઝોસ્ટ ગેસને સીધો વાતાવરણમાં છોડવામાં આવે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રિજનરેટરમાં ટર્બાઇન એક્ઝોસ્ટ ગેસની ઉષ્માનો ઉપયોગ કરીને કમ્પ્રેસ્ડ હવાને કમ્બશન ચેમ્બરમાં પ્રવેશતા પહેલા ગરમ કરાય છે[cite: 6]."
+  },
+  {
+    "id": 105,
+    "subject": "Power Engineering",
+    "subTopic": "Regeneration",
+    "question": "What is the biggest advantage of regeneration in a gas turbine?",
+    "gujaratiQuestion": "0105. ગેસ ટર્બાઈનમાં રિજનરેશનનો સૌથી મોટો ફાયદો કયો છે?",
+    "options": [
+      "ટર્બાઇન વર્ક વધે છે",
+      "કમ્પ્રેસર વર્ક ઘટે છે",
+      "થર્મલ એફિશિયન્સી વધે છે",
+      "પ્રેશર રેશિયો વધે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બહારથી આપવી પડતી ઉષ્મા (બળતણ) ઘટી જવાથી પ્લાન્ટની થર્મલ કાર્યક્ષમતા નોંધપાત્ર વધે છે[cite: 6]."
+  },
+  {
+    "id": 106,
+    "subject": "Power Engineering",
+    "subTopic": "Compressor Classification",
+    "question": "What phenomenon is 'blade stalling' in an axial flow compressor?",
+    "gujaratiQuestion": "0106. ઍક્ષિયલ ફ્લો કમ્પ્રેસરમાં બ્લેડનું 'સ્ટોલિંગ' કઈ ઘટના છે?",
+    "options": [
+      "હવાનો પ્રવાહ માર્ગને અવરોધે",
+      "સોનિક વેગ પર હવાની ગતિ",
+      "અસ્થિર, સમયાંતરે અને વિપરીત પ્રવાહ",
+      "હવાનો પ્રવાહ બ્લેડના આકારને અનુસરી ન શકે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "જ્યારે એંગલ ઓફ એટેક વધવાથી હવાનો પ્રવાહ બ્લેડની એરોફોઇલ સપાટી પરથી અલગ (flow separation) થઈ જાય તેને સ્ટોલિંગ કહે છે[cite: 6]."
+  },
+  {
+    "id": 107,
+    "subject": "Power Engineering",
+    "subTopic": "Regeneration",
+    "question": "What change occurs in the amount of fuel supplied to combustion chamber due to regeneration?",
+    "gujaratiQuestion": "Q107. રિજનરેશનને કારણે કમ્બશન ચેમ્બરમાં સપ્લાય કરવા પડતા બળતણની માત્રામાં શું ફેરફાર થાય છે?",
+    "options": [
+      "વધારો થાય છે",
+      "ઘટાડો થાય છે",
+      "કોઈ ફેરફાર થતો નથી",
+      "બમણી થાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કમ્પ્રેસ્ડ હવા પહેલાથી ગરમ થઈને આવતી હોવાથી કમ્બશન ચેમ્બરમાં જરૂરી બળતણની માત્રામાં ઘટાડો થાય છે[cite: 6]."
+  },
+  {
+    "id": 108,
+    "subject": "Power Engineering",
+    "subTopic": "Reheat",
+    "question": "If only reheating is done in a cycle, what effect can it generally have on thermal efficiency?",
+    "gujaratiQuestion": "Q108. જો કોઈ સાયકલમાં માત્ર રિહીટિંગ કરવામાં આવે, તો સામાન્ય રીતે તેની થર્મલ એફિશિયન્સી પર શું અસર પડી શકે છે?",
+    "options": [
+      "હંમેશા બમણી થાય છે",
+      "હંમેશા વધે છે",
+      "ઘટી શકે છે અથવા નજીવો ફેરફાર થાય છે",
+      "શૂન્ય થઈ જાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગેસ ટર્બાઇનમાં માત્ર રિહીટ કરવાથી ઉષ્મા ઉમેરો વધે છે, જેથી કાર્યક્ષમતા ઘટી શકે છે અથવા નજીવો ફેરફાર થાય છે[cite: 6]."
+  },
+  {
+    "id": 109,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "When a static mass of fluid comes in contact with a surface, what is the point of application of total pressure called?",
+    "gujaratiQuestion": "Q109. જ્યારે પ્રવાહીનો સ્થિર જથ્થો કોઇ સપાટીના સંપર્કમાં આવે છે, ત્યારે સપાટી પર કુલ દબાણ લાગુ પડવાનાં બિંદુને શું કહે છે?",
+    "options": [
+      "સેન્ટર ઓફ પ્રેશર",
+      "સેન્ટર ઓફ માસ",
+      "મેટા સેન્ટર",
+      "સેન્ટર ઓફ બોયન્સી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "હાઇડ્રોસ્ટેટિક દબાણનું પરિણામી બળ જે બિંદુ પર લાગે તેને સેન્ટર ઓફ પ્રેશર (Center of Pressure) કહે છે[cite: 6]."
+  },
+  {
+    "id": 110,
+    "subject": "Power Engineering",
+    "subTopic": "Regeneration",
+    "question": "In a power plant, for what purpose is a feed water heater used?",
+    "gujaratiQuestion": "0110. પાવર પ્લાન્ટમાં ફીડ વોટર હીટરનો ઉપયોગ કયા હેતુ માટે થાય છે?",
+    "options": [
+      "રિહીટિંગ",
+      "ઇન્ટરકૂલિંગ",
+      "રિજનરેશન",
+      "સુપરહીટિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફીડ વોટર હીટર દ્વારા બોઇલર વોટરને ગરમ કરવાની પ્રક્રિયા રિજનરેશન (Regeneration) નો ભાગ છે[cite: 6]."
+  },
+  {
+    "id": 111,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "What happens in a gas turbine plant when intercooling, reheating, and regeneration are all used together?",
+    "gujaratiQuestion": "0111. ઈન્ટરકૂલિંગ, રિહીટિંગ અને રિજનરેશન ત્રણેયનો એકસાથે ઉપયોગ કરવાથી ગેસ ટર્બાઈન પ્લાન્ટમાં શું થાય છે?",
+    "options": [
+      "વર્ક આઉટપુટ અને થર્મલ એફિશિયન્સી બંને ઘટે છે",
+      "માત્ર વર્ક આઉટપુટ વધે છે, એફિશિયન્સી ઘટે છે",
+      "વર્ક આઉટપુટ અને થર્મલ એફિશિયન્સી બંને વધે છે",
+      "માત્ર એફિશિયન્સી વધે છે, વર્ક આઉટપુટ ઘટે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇન્ટરકૂલિંગ અને રિહીટિંગ વર્ક આઉટપુટ વધારે છે, જ્યારે રિજનરેટર થર્મલ કાર્યક્ષમતામાં મોટો વધારો કરે છે[cite: 6]."
+  },
+  {
+    "id": 112,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "For a floating body, if meta-center coincides with the center of gravity, in what state will the body remain?",
+    "gujaratiQuestion": "Q112. જો તરતા પદાર્થ માટે, મેટા સેન્ટર પદાર્થના ગુરુત્વકેન્દ્ર (centre of gravity) સાથે એકરૂપ થતું હોય, તો પદાર્થ કઈ સ્થિતિમાં રહેશે?",
+    "options": [
+      "ન્યુટ્રલ ઇક્વિલિબ્રિયમ",
+      "સ્ટેબલ ઇક્વિલિબ્રિયમ",
+      "અનસ્ટેબલ ઇક્વિલિબ્રિયમ",
+      "કશું જ કહી શકાય નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "જ્યારે મેટાસેન્ટ્રિક હાઇટ GM = 0 થાય (M અને G એકરૂપ બને) ત્યારે પદાર્થ ન્યુટ્રલ સંતુલનમાં રહે છે[cite: 6]."
+  },
+  {
+    "id": 113,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "What is the main objective of multi-stage compression with intercooling in a gas turbine?",
+    "gujaratiQuestion": "0113. ગેસ ટર્બાઈનમાં મલ્ટીસ્ટેજ કમ્પ્રેશન સાથે ઈન્ટરકૂલિંગનો મુખ્ય હેતુ શું છે?",
+    "options": [
+      "ટર્બાઇન વર્ક વધારવું",
+      "કમ્પ્રેસર વર્ક ઘટાડવું",
+      "ગરમીનો નિકાલ ઘટાડવો",
+      "તાપમાન વધારવું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મલ્ટિસ્ટેજ કમ્પ્રેશન અને ઇન્ટરકૂલિંગનો મુખ્ય ઉદ્દેશ્ય કમ્પ્રેસર વર્ક ઇનપુટ ઘટાડવાનો છે[cite: 6]."
+  },
+  {
+    "id": 114,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "If streamlines are straight and parallel in a steady flow, then:",
+    "gujaratiQuestion": "0114. જો સ્ટીડી ફ્લોમાં સ્ટ્રીમલાઈન સીધી અને એકબીજાને સમાંતર હોય તો:",
+    "options": [
+      "ત્યાં પ્રવેગ (acceleration) હોતો નથી",
+      "ત્યાં નોર્મલ કન્વેક્ટિવ પ્રવેગ હોય છે",
+      "ત્યાં ટેન્જેન્શિયલ કન્વેક્ટિવ પ્રવેગ હોય છે",
+      "(b) અને (c) બંને"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્ટ્રીમલાઇન સીધી (વક્રતા શૂન્ય) અને સમાંતર હોવાથી કન્વેક્ટિવ અને નોર્મલ બંને પ્રવેગ શૂન્ય થાય છે[cite: 6]."
+  },
+  {
+    "id": 115,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "In a combined cycle power plant, which two cycles are combined?",
+    "gujaratiQuestion": "0115. કમ્બાઈન્ડ સાયકલ પાવર પ્લાન્ટમાં કઈ બે સાયકલનું સંયોજન જોવા મળે છે?",
+    "options": [
+      "ઓટો અને ડીઝલ સાયકલ",
+      "બ્રેટન અને રેન્કિન સાયકલ",
+      "કાર્નોટ અને બ્રેટન સાયકલ",
+      "રેન્કિન અને સ્ટર્લિંગ સાયકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કમ્બાઇન્ડ સાયકલમાં ટોપિંગ સાયકલ તરીકે ગેસ ટર્બાઇન (બ્રેટન) અને બોટમિંગ સાયકલ તરીકે સ્ટીમ ટર્બાઇન (રેન્કિન) વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 116,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "Which of the following boilers is an example of a high-pressure boiler?",
+    "gujaratiQuestion": "0116. નીચેનામાંથી કયું બોઈલર હાઈ-પ્રેશર બોઈલરનું ઉદાહરણ છે?",
+    "options": [
+      "કોકરન બોઈલર",
+      "લંકાશાયર બોઈલર",
+      "કોર્નિશ બોઈલર",
+      "વેલોક્સ બોઈલર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "વેલોક્સ (Velox) બોઇલર એ ફોર્સ્ડ સર્ક્યુલેશન ધરાવતું હાઈ-પ્રેશર વોટર ટ્યુબ બોઇલર છે[cite: 6]."
+  },
+  {
+    "id": 117,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "Bernoulli's equation can be derived from which principle?",
+    "gujaratiQuestion": "0117. બર્નોલીનું સમીકરણ કયા સિદ્ધાંત પરથી તારવી શકાય છે?",
+    "options": [
+      "કન્ઝર્વેશન ઓફ વોલ્યુમ",
+      "કન્ઝર્વેશન ઓફ માસ",
+      "કન્ઝર્વેશન ઓફ મોમેન્ટમ",
+      "કન્ઝર્વેશન ઓફ એનર્જી"
+    ],
+    "correctAnswer": 3,
+    "explanation": "બર્નોલીનું સમીકરણ ફ્લુઇડ ફ્લો માટે કન્ઝર્વેશન ઓફ એનર્જી (ઊર્જા સંરક્ષણ) પર આધારિત છે[cite: 6]."
+  },
+  {
+    "id": 118,
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "What is the correct formula for dryness fraction (x) of a mixture of liquid (m1) and vapor (m2)?",
+    "gujaratiQuestion": "0118. લિક્વિડ (m1) અને વેપર (m2) ના મિશ્રણ માટે ડ્રાયનેસ ફ્રેક્શન (x) નું સાચું સૂત્ર કયું છે?",
+    "options": [
+      "m1 / (m1 + m2)",
+      "m2 / (m1 + m2)",
+      "(m1 + m2) / m1",
+      "(m1 + m2) / m2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડ્રાયનેસ ફ્રેક્શન x = ડ્રાય સ્ટીમનું દળ / કુલ દળ = m2 / (m1 + m2) થાય છે[cite: 6]."
+  },
+  {
+    "id": 119,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "How is work ratio of a gas turbine plant defined?",
+    "gujaratiQuestion": "0119. ગેસ ટર્બાઈન પ્લાન્ટનો વર્ક રેશિયો કઈ રીતે વ્યાખ્યાયિત થાય છે?",
+    "options": [
+      "નેટ વર્ક આઉટપુટ / ટર્બાઈન વર્ક",
+      "ટર્બાઇન વર્ક / નેટ વર્ક આઉટપુટ",
+      "કમ્પ્રેસર વર્ક / ટર્બાઇન વર્ક",
+      "નેટ વર્ક આઉટપુટ / હીટ સપ્લાય"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વર્ક રેશિયો = નેટ વર્ક આઉટપુટ / ટર્બાઇન વર્ક (Wnet / WT)[cite: 6]."
+  },
+  {
+    "id": 120,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "What is the phenomenon resulting from the formation of vapor and air pockets in a liquid called?",
+    "gujaratiQuestion": "Q120. પ્રવાહીમાં વરાળ અને હવાના પોકેટ્સ બનવાનાં પરિણામે થતી ઘટનાને શું કહેવાય છે?",
+    "options": [
+      "ઇરોઝન",
+      "કેવિટેશન",
+      "ટર્બ્યુલન્સ",
+      "વ્હર્લિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નીચા દબાણે વરાળના પરપોટા બનવા અને ઊંચા દબાણે ફૂટવાની ઘટનાને કેવિટેશન (Cavitation) કહે છે[cite: 6]."
+  },
+  {
+    "id": 121,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "If in a gas turbine, turbine work is 800 kJ/kg and compressor work is 400 kJ/kg, what is the net work output?",
+    "gujaratiQuestion": "0121. જો એક ગેસ ટર્બાઇનમાં ટર્બાઇન વર્ક 800 kJ/kg હોય અને કમ્પ્રેસર વર્ક 400 kJ/kg હોય, તો નેટ વર્ક આઉટપુટ કેટલું થશે?",
+    "options": [
+      "1200 kJ/kg",
+      "400 kJ/kg",
+      "2 kJ/kg",
+      "0.5 kJ/kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wnet = WT - WC = 800 - 400 = 400 kJ/kg[cite: 6]."
+  },
+  {
+    "id": 122,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "Based on previous question data (WT = 800, WC = 400), what is the work ratio of the gas turbine?",
+    "gujaratiQuestion": "Q122. ઉપરના પ્રશ્નની માહિતી મુજબ, તે ગેસ ટર્બાઇનનો વર્ક રેશિયો કેટલો થશે?",
+    "options": [
+      "0.5",
+      "2.0",
+      "0.33",
+      "1.5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Work ratio = Wnet / WT = 400 / 800 = 0.5[cite: 6]."
+  },
+  {
+    "id": 123,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "Which of the following applications is based on Bernoulli's equation?",
+    "gujaratiQuestion": "0123. બર્નોલીના સમીકરણ પર આધારિત એપ્લિકેશન કઈ છે?",
+    "options": [
+      "વેન્ચ્યુરી મીટર",
+      "ઓરિફિસ મીટર",
+      "નોઝલ મીટર",
+      "ઉપરોક્ત તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "વેન્ચ્યુરીમીટર, ઓરિફિસમીટર અને નોઝલ મીટર તમામ બર્નોલીના સિદ્ધાંત પર કાર્ય કરે છે[cite: 6]."
+  },
+  {
+    "id": 124,
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "To increase the efficiency of an air compressor, compression of air should ideally be close to which process?",
+    "gujaratiQuestion": "0124. એર કમ્પ્રેસરની કાર્યક્ષમતા વધારવા માટે, હવાનું કમ્પ્રેશન આદર્શ રીતે કઈ પ્રક્રિયાની નજીક હોવું જોઈએ?",
+    "options": [
+      "આઇસેન્ટ્રોપિક",
+      "આઇસોબેરિક",
+      "આઇસોથર્મલ",
+      "આઇસોકોરિક"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આઇસોથર્મલ કમ્પ્રેશનમાં સૌથી ઓછી ઊર્જા વપરાતી હોવાથી કમ્પ્રેશન આઇસોથર્મલની નજીક હોવું જોઈએ[cite: 6]."
+  },
+  {
+    "id": 125,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "By which process does heat rejection occur in an ideal gas power cycle?",
+    "gujaratiQuestion": "0125. કઈ પ્રક્રિયા દ્વારા ગેસ પાવર સાયકલમાં ઉષ્માનો નિકાલ (Heat rejection) થાય છે?",
+    "options": [
+      "અચળ દબાણે",
+      "અચળ કદ પર",
+      "આઇસેન્ટ્રોપિક વિસ્તરણથી",
+      "આઇસોથર્મલ કમ્પ્રેશનથી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બ્રેટન સાયકલમાં હીટ રિજેક્શન અચળ દબાણે (Constant pressure) થાય છે[cite: 6]."
+  },
+  {
+    "id": 126,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "Darcy-Weisbach equation is generally used to calculate:",
+    "gujaratiQuestion": "Q126. ડાર્સી-વેઈસબેક (Darcy-Weisbach) સમીકરણનો ઉપયોગ સામાન્ય રીતે શેની ગણતરી માટે થાય છે?",
+    "options": [
+      "પાઈપમાં વહેતા પ્રવાહીનો વેગ",
+      "પાઈપમાં ઘર્ષણને કારણે થતો હેડ લોસ",
+      "પાઈપમાં સ્ટ્રીમલાઈન ફ્લોનો લોસ",
+      "ઉપરોક્ત પૈકી કોઈ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પાઇપમાં ઘર્ષણને લીધે થતા હેડ લોસની ગણતરી માટે hf = (4fLV²) / (2gd) ડાર્સી સમીકરણ વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 127,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "What is a major advantage of a gas turbine over a steam turbine?",
+    "gujaratiQuestion": "Q127. સ્ટીમ ટર્બાઈન કરતાં ગેસ ટર્બાઈનનો એક મોટો ફાયદો કયો છે?",
+    "options": [
+      "બેક વર્ક રેશિયો ઓછો હોય છે",
+      "થર્મલ એફિશિયન્સી ખૂબ વધારે હોય છે",
+      "સ્ટાર્ટ-અપ સમય ખૂબ ઓછો હોય છે",
+      "ભારે વજન ધરાવે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગેસ ટર્બાઇન ખૂબ ઝડપથી (અમુક મિનિટોમાં) શરૂ થઈને પૂર્ણ લોડ લઈ શકે છે, જેથી પીક લોડ માટે ઉત્તમ છે[cite: 6]."
+  },
+  {
+    "id": 128,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "Which of the following cycles is considered an ideal theoretical cycle used only for comparison?",
+    "gujaratiQuestion": "Q128. નીચેનામાંથી કઈ સાયકલ આદર્શ (Ideal) સાયકલ ગણાય છે, જેનો ઉપયોગ માત્ર સરખામણી માટે થાય છે?",
+    "options": [
+      "રેન્કિન સાયકલ",
+      "બ્રેટન સાયકલ",
+      "ડીઝલ સાયકલ",
+      "કાર્નોટ સાયકલ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "કાર્નોટ સાયકલ વ્યવહારમાં અશક્ય છે અને તેનો ઉપયોગ મહત્તમ મર્યાદાની સરખામણી માટે થાય છે[cite: 6]."
+  },
+  {
+    "id": 130,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "1 Ton of Refrigeration (1 TR) is equal to how many kilowatts (kW)?",
+    "gujaratiQuestion": "0130. 1 ટન ઓફ રેફ્રિજરેશન (1 TR) બરાબર કેટલા કિલોવોટ (kW) થાય છે?",
+    "options": [
+      "1.0 kW",
+      "3.51 kW",
+      "4.18 kW",
+      "2.50 kW"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1 TR = 3.517 kW થાય છે[cite: 6]."
+  },
+  {
+    "id": 131,
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "For complete dynamic similarity between a model and its prototype, what must be present?",
+    "gujaratiQuestion": "0131. મોડેલ અને તેના પ્રોટોટાઈપ વચ્ચે સંપૂર્ણ સમાનતા હોવા માટે, તેમાં શું હોવું જોઈએ?",
+    "options": [
+      "જિયોમેટ્રિક સિમિલારિટી",
+      "કાઈનેમેટિક સિમિલારિટી",
+      "ડાયનેમિક સિમિલારિટી",
+      "ઉપરોક્ત તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સંપૂર્ણ સમાનતા માટે જિયોમેટ્રિક (પરિમાણ), કાઇનેમેટિક (વેગ/પ્રવેગ) અને ડાયનેમિક (બળ) ત્રણેય સમાનતા હોવી જરૂરી છે[cite: 6]."
+  },
+  {
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "Which turbine is a pressure-compounded turbine?",
+    "gujaratiQuestion": "નીચેનામાંથી કયું pressure-compounded turbine છે?",
+    "options": [
+      "Parsons",
+      "Curtis",
+      "Rateau",
+      "All of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Rateau is a pressure-compounding turbine; Curtis is velocity-compounded and Parsons is reaction.",
+    "id": 132
+  },
+  {
+    "subject": "Power Engineering",
+    "subTopic": "Vapor Power Cycles",
+    "question": "Kaplan turbine is normally selected for:",
+    "gujaratiQuestion": "Kaplan turbine સામાન્ય રીતે કયા operating condition માટે પસંદ થાય છે?",
+    "options": [
+      "Axial flow and head above 100 m",
+      "Axial flow and head below about 10 m",
+      "Radial flow and head above 100 m",
+      "Mixed flow and head about 50 m"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Kaplan turbines are axial-flow machines suited to low head and high discharge.",
+    "id": 133
+  },
+  {
+    "subject": "Power Engineering",
+    "subTopic": "Gas Power Cycles",
+    "question": "For an ideal cycle, the sequence reversible adiabatic compression → constant-pressure heat addition → reversible adiabatic expansion → constant-volume heat rejection represents:",
+    "gujaratiQuestion": "Reversible adiabatic compression → constant-pressure heat addition → reversible adiabatic expansion → constant-volume rejection કયા cycleનું sequence છે?",
+    "options": [
+      "Otto",
+      "Diesel",
+      "Dual",
+      "Brayton"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Constant-pressure heat addition with isentropic compression/expansion and constant-volume rejection is the ideal Diesel sequence.",
+    "id": 134
+  },
+  {
+    "subject": "Power Engineering",
+    "subTopic": "Air Compressors",
+    "question": "Intercooling in multistage compression primarily reduces:",
+    "gujaratiQuestion": "Multistage compressorમાં intercooling મુખ્યત્વે શું ઘટાડે છે?",
+    "options": [
+      "Volumetric efficiency",
+      "Work input",
+      "Delivery pressure",
+      "Mass flow to zero"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Cooling between stages reduces compression work and lowers delivery temperature.",
+    "id": 135
+  },
+  {
+    "subject": "Power Engineering",
+    "subTopic": "Compressor Classification",
+    "question": "A reciprocating compressor is generally classified as a:",
+    "gujaratiQuestion": "Reciprocating compressor સામાન્ય રીતે કયા પ્રકારનું compressor છે?",
+    "options": [
+      "Dynamic compressor",
+      "Positive-displacement compressor",
+      "Jet compressor",
+      "Ejector only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: It traps and compresses a finite volume of gas.",
+    "id": 136
+  },
+  {
+    "subject": "Power Engineering",
+    "subTopic": "Regeneration",
+    "question": "Regeneration in a steam power cycle is used mainly to:",
+    "gujaratiQuestion": "Steam power cycleમાં regenerationનો મુખ્ય હેતુ શું છે?",
+    "options": [
+      "Lower mean temperature of heat addition",
+      "Increase mean temperature of heat addition",
+      "Increase condenser pressure",
+      "Eliminate the turbine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Feedwater heating raises the average temperature at which heat is supplied.",
+    "id": 137
+  },
+  {
+    "subject": "Power Engineering",
+    "subTopic": "Reheat",
+    "question": "Reheating in a Rankine cycle is primarily used to:",
+    "gujaratiQuestion": "Rankine cycleમાં reheating મુખ્યત્વે શા માટે થાય છે?",
+    "options": [
+      "Increase turbine exhaust moisture",
+      "Reduce turbine exhaust moisture",
+      "Stop feedwater heating",
+      "Reduce boiler pressure to zero"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Reheat reduces moisture at later turbine stages and can improve work output.",
+    "id": 138
+  },
+  {
+    "subject": "Power Engineering",
+    "subTopic": "Thermal Efficiency Concepts",
+    "question": "Thermal efficiency of a heat engine is the ratio of:",
+    "gujaratiQuestion": "Heat engineની thermal efficiency કયા ratio બરાબર છે?",
+    "options": [
+      "Qout/Qin",
+      "Wnet/Qin",
+      "Qin/Wnet",
+      "Wnet/Qout"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: ηth=Wnet/Qin.",
+    "id": 139
+  },
+  {
+    "id": 140,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Compressors",
+    "question": "For a reciprocating air compressor, clearance volume mainly causes:",
+    "gujaratiQuestion": "For a reciprocating air compressor, clearance volume mainly causes:",
+    "options": [
+      "higher volumetric efficiency",
+      "lower volumetric efficiency",
+      "zero pressure ratio",
+      "constant mass flow"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Clearance gas re-expands during suction, reducing the fresh charge admitted."
+  },
+  {
+    "id": 141,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Compressors",
+    "question": "In an ideal compressor, isothermal compression requires work that is:",
+    "gujaratiQuestion": "In an ideal compressor, isothermal compression requires work that is:",
+    "options": [
+      "minimum among reversible paths between the same end states",
+      "maximum",
+      "equal to throttling work",
+      "zero"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For the same pressure limits, reversible isothermal compression gives minimum work input."
+  },
+  {
+    "id": 142,
+    "subject": "Power Engineering",
+    "subTopic": "Gas Compressors",
+    "question": "The volumetric efficiency of a reciprocating compressor generally decreases when:",
+    "gujaratiQuestion": "The volumetric efficiency of a reciprocating compressor generally decreases when:",
+    "options": [
+      "clearance ratio increases",
+      "suction pressure increases only",
+      "piston area decreases only",
+      "speed is zero"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Higher clearance causes more re-expansion of trapped air and reduces fresh-air intake."
+  }
+]

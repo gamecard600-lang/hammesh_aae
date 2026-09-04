@@ -1,0 +1,3422 @@
+[
+  {
+    "id": 1,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "What is the ratio of deformation to original length called?",
+    "gujaratiQuestion": "01. ડિફોર્મેરાન અને મૂળ લંબાઈના ગુણોત્તરને શું કહેવાય છે?",
+    "options": [
+      "સ્ટ્રેસ",
+      "સ્ટ્રેન",
+      "પ્રેશર",
+      "મોડ્યુલસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "લંબાઈમાં થતા ફેરફાર (ડિફોર્મેશન) અને મૂળ લંબાઈના ગુણોત્તરને સ્ટ્રેઈન કહેવાય છે[cite: 3]."
+  },
+  {
+    "id": 2,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "What is the S.I. unit of stress?",
+    "gujaratiQuestion": "02. સ્ટ્રેસ નો S.I. એકમ કયો છે?",
+    "options": [
+      "N/m",
+      "N/m²",
+      "N·m",
+      "N"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટ્રેસ એ એકમ ક્ષેત્રફળ દીઠ લાગતું આંતરિક બળ હોવાથી તેનો S.I. એકમ N/m² (પાસ્કલ) છે[cite: 3]."
+  },
+  {
+    "id": 3,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "For a simply supported beam with point load (P) at mid-span, what is the shear force at both supports?",
+    "gujaratiQuestion": "03. મિડ સ્પાન પર પોઇન્ટ લોડ (P) ધરાવતા સિમ્પલી સપોર્ટેડ બીમના બંને સપોર્ટ પર શિયર ફોર્સ કેટલો હોય છે?",
+    "options": [
+      "P/2",
+      "P",
+      "શૂન્ય",
+      "P/4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સેન્ટ્રલ પોઈન્ટ લોડ P માટે બંને સપોર્ટ પર રિએક્શન P/2 મળે છે, તેથી સપોર્ટ આગળ શીયર ફોર્સ P/2 થાય છે[cite: 3]."
+  },
+  {
+    "id": 4,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "Hooke's law is valid up to which limit?",
+    "gujaratiQuestion": "04. હૂકનો નિયમ ક્યાં સુધી સાચો છે?",
+    "options": [
+      "ચીલ્ડ પોઈન્ટ",
+      "ઇલાસ્ટિક લિમિટ",
+      "લિમિટ ઓફ પ્રપોશનાલિટી",
+      "બ્રેકિંગ પોઈન્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હૂકનો નિયમ (સ્ટ્રેસ ∝ સ્ટ્રેઈન) પ્રમાણસરતાની મર્યાદા (Limit of Proportionality) સુધી જ માન્ય છે[cite: 3]."
+  },
+  {
+    "id": 5,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "If an external tensile force acts on a body, what is the induced stress called?",
+    "gujaratiQuestion": "05. જો કોઈ પદાર્થ પર બાહ્ય ખેંચાણ બળ લાગે, તો તેમાં ઉત્પન્ન થતા સ્ટ્રેસને શું કહે છે?",
+    "options": [
+      "કોમ્પ્રેસિવ સ્ટ્રેસ",
+      "શીયર સ્ટ્રેસ",
+      "ટેન્સાઈલ સ્ટ્રેસ",
+      "વોલ્યુમેટ્રિક સ્ટ્રેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ખેંચાણ બળથી ઉદભવતા સ્ટ્રેસને ટેન્સાઈલ સ્ટ્રેસ કહે છે[cite: 3]."
+  },
+  {
+    "id": 6,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "What is the bending moment at center of a 5m simply supported beam carrying 15 kN central point load?",
+    "gujaratiQuestion": "06. બરાબર મધ્યમાં 15 KN પોઇન્ટ લોડ ધરાવતા 5 મીટરના સિમ્પલી સપોર્ટેડ બીમના સેન્ટર પર કેટલો બૅન્ડિંગ મોમેન્ટ ઉત્પન્ન થશે?",
+    "options": [
+      "0 Nm",
+      "30 Nm",
+      "15 kNm",
+      "18.75 kN-m"
+    ],
+    "correctAnswer": 3,
+    "explanation": "મહત્તમ બેન્ડિંગ મોમેન્ટ M = WL/4 = (15 × 5)/4 = 18.75 kN-m થાય છે[cite: 3]."
+  },
+  {
+    "id": 7,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "When a body is heated and prevented from expanding freely, what stress is induced?",
+    "gujaratiQuestion": "07. જ્યારે કોઈ પદાર્થને ગરમ કરવામાં આવે અને તેને મુક્ત રીતે વિસ્તરણ થતાં રોકવામાં આવે, તો તેમાં કયો સ્ટ્રેસ ઉત્પન્ન થાય છે?",
+    "options": [
+      "ટેન્સાઈલ સ્ટ્રેસ",
+      "શીયર સ્ટ્રેસ",
+      "કોમ્પ્રેસિવ સ્ટ્રેસ",
+      "પ્રિન્સિપલ સ્ટ્રેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વિસ્તરણ અટકાવવાથી પદાર્થમાં કોમ્પ્રેસિવ (સંકોચન) સ્ટ્રેસ પેદા થાય છે[cite: 3]."
+  },
+  {
+    "id": 8,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "If a steel rod is heated and allowed to expand freely, what stress will be induced?",
+    "gujaratiQuestion": "08. જો સ્ટીલના સળિયાને ગરમ કરવામાં આવે અને તેને મુક્ત રીતે વિસ્તરણ થવા દેવામાં આવે, તો તેમાં કયો સ્ટ્રેસ ઉત્પન્ન થશે?",
+    "options": [
+      "ટેન્સાઈલ સ્ટ્રેસ",
+      "કોમ્પ્રેસિવ સ્ટ્રેસ",
+      "કોઈ સ્ટ્રેસ ઉત્પન્ન થશે નહીં",
+      "શીયર સ્ટ્રેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "અવરોધ વિના મુક્ત વિસ્તરણ થવાથી તેમાં કોઈ સ્ટ્રેસ ઉત્પન્ન થતો નથી[cite: 3]."
+  },
+  {
+    "id": 9,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "Between two point loads on a simply supported beam with no other load, the shear force is:",
+    "gujaratiQuestion": "09. સિમ્પલી સપોર્ટેડ બીમ પર બે પોઈન્ટ લોડ વચ્ચે અન્ય કોઈ લોડ ન હોય ત્યારે તેમની વચ્ચેનો શિયર ફોર્સ કેવો હોય છે?",
+    "options": [
+      "કોન્સ્ટન્ટ",
+      "લિનિયર",
+      "પેરાબોલિક",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કોઈ લોડ ન હોવાથી બે પોઈન્ટ લોડ વચ્ચે શીયર ફોર્સ અચળ (કોન્સ્ટન્ટ) રહે છે[cite: 3]."
+  },
+  {
+    "id": 10,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "What is the ratio of direct stress to corresponding volumetric strain called?",
+    "gujaratiQuestion": "010. ડાયરેક્ટ સ્ટ્રેસ અને તેને અનુરૂપ વોલ્યુમેટ્રિક સ્ટ્રેન ના ગુણોત્તરને શું કહેવાય છે?",
+    "options": [
+      "યંગ્સ મોડ્યુલસ",
+      "બલ્ક મોડ્યુલસ",
+      "શીયર મોડ્યુલસ",
+      "પોઈસન રેશિયો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડાયરેક્ટ સ્ટ્રેસ અને વોલ્યુમેટ્રિક સ્ટ્રેઈનનો ગુણોત્તર બલ્ક મોડ્યુલસ (K) કહેવાય છે[cite: 3]."
+  },
+  {
+    "id": 11,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "The strain produced in the direction of applied force is called:",
+    "gujaratiQuestion": "011. જે સ્ટ્રેન બળની દિશામાં ઉત્પન્ન થાય છે, તેને કયો સ્ટ્રેન કહેવાય છે?",
+    "options": [
+      "લેટરલ સ્ટ્રેન",
+      "વોલ્યુમેટ્રિક સ્ટ્રેન",
+      "લીનિયર સ્ટ્રેન",
+      "શીયર સ્ટ્રેન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લાગતા બળની દિશામાં ઉત્પન્ન થતા સ્ટ્રેઈનને લીનિયર સ્ટ્રેઈન કહે છે[cite: 3]."
+  },
+  {
+    "id": 12,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "What is the polar moment of inertia for a solid circular shaft of radius r?",
+    "gujaratiQuestion": "012. સૉલિડ સર્ક્યુલર શાફ્ટ માટે પોલર મોમેન્ટ ઓફ ઈનર્શિયા કેટલો હોય છે?",
+    "options": [
+      "J = πr³/3",
+      "I = πr⁴/4",
+      "J = πr⁴/2",
+      "I = πr²/2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સૉલિડ વર્તુળાકાર શાફ્ટ માટે પોલર મોમેન્ટ ઓફ ઈનર્શિયા J = πr⁴/2 થાય છે[cite: 3]."
+  },
+  {
+    "id": 13,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "The strain produced perpendicular to the direction of applied force is called:",
+    "gujaratiQuestion": "013. જે સ્ટ્રેન બળની દિશાને લંબરૂપ દિશામાં ઉત્પન્ન થાય છે, તેને શું કહેવાય છે?",
+    "options": [
+      "લીનિયર સ્ટ્રેન",
+      "લેટરલ સ્ટ્રેન",
+      "શીયર સ્ટ્રેન",
+      "વોલ્યુમેટ્રિક સ્ટ્રેન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બળની લંબ દિશામાં પેદા થતા સ્ટ્રેઈનને લેટરલ સ્ટ્રેઈન કહેવામાં આવે છે[cite: 3]."
+  },
+  {
+    "id": 14,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "At which point on stress-strain diagram of mild steel does plastic deformation start?",
+    "gujaratiQuestion": "014. માઈલ્ડ સ્ટીલના સ્ટ્રેસ-સ્ટ્રેન ડાયાગ્રામમાં કયા પોઈન્ટ પર મટીરીયલ પ્લાસ્ટિક ડિફોર્મેશન શરૂ કરે છે?",
+    "options": [
+      "અલ્ટીમેટ પોઇન્ટ",
+      "યીલ્ડ પોઇન્ટ",
+      "ફ્રેક્ચર પોઇન્ટ",
+      "ઈલાસ્ટિક લિમિટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "યીલ્ડ પોઈન્ટ પછી મટીરીયલમાં કાયમી પ્લાસ્ટિક ડિફોર્મેશન શરૂ થાય છે[cite: 3]."
+  },
+  {
+    "id": 15,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "Which material property most affects the torsional rigidity of a shaft?",
+    "gujaratiQuestion": "015. કઈ મટિરિયલ પ્રોપર્ટી શાફ્ટની ટોર્શનલ રિજિડિટીને સૌથી વધુ અસર કરે છે?",
+    "options": [
+      "યંગ્સ મોડ્યુલસ",
+      "શિયર મોડયુલસ",
+      "પોઈઝન્સ રેશિયો",
+      "યીલ્ડ સ્ટ્રેન્થ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટોર્શનલ રિજિડિટી = G × J હોવાથી તે શિયર મોડ્યુલસ પર આધારિત છે[cite: 3]."
+  },
+  {
+    "id": 16,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "Total elongation of a bar due to self-weight compared to elongation caused by same weight applied at end is:",
+    "gujaratiQuestion": "016. એકસમાન આડછેદવાળા સળિયામાં તેના પોતાના વજનને કારણે થતું કુલ વિસ્તરણ, તે જ વજન છેડે લટકાવવાથી થતા વિસ્તરણ કરતા કેટલું હોય છે?",
+    "options": [
+      "સમાન",
+      "અડધું",
+      "બમણું",
+      "ચોથા ભાગનું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પોતાના વજનથી થતું વિસ્તરણ WL/(2AE) એ છેડે વજન લટકાવવાના વિસ્તરણ WL/(AE) કરતાં અડધું હોય છે[cite: 3]."
+  },
+  {
+    "id": 17,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "Dividing the maximum load by original cross-sectional area during a tensile test gives:",
+    "gujaratiQuestion": "017. ટેન્સાઈલ ટેસ્ટ દરમિયાન મટીરીયલના મહત્તમ લોડને મૂળ આડછેદના ક્ષેત્રફળ વડે ભાગવાથી શું મળે છે?",
+    "options": [
+      "યીલ્ડ સ્ટ્રેસ",
+      "બ્રેકિંગ સ્ટ્રેસ",
+      "અલ્ટીમેટ ટેન્સાઈલ સ્ટ્રેસ",
+      "વર્કિંગ સ્ટ્રેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મહત્તમ લોડ / મૂળ ક્ષેત્રફળ = અલ્ટીમેટ ટેન્સાઈલ સ્ટ્રેસ[cite: 3]."
+  },
+  {
+    "id": 18,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "What is the deflection at midpoint for a simply supported beam with UDL (w)?",
+    "gujaratiQuestion": "018. યુનિફોર્મ ડિસ્ટ્રિબ્યુટેડ લોડ (UDL) ધરાવતા સિમ્પલી સપોર્ટેડ બીમ માટે મિડપોઈન્ટ પર ડિફ્લેક્શન કેટલું હોય છે?",
+    "options": [
+      "5wL⁴ / (384EI)",
+      "wL³ / (48EI)",
+      "wL⁴ / (384EI)",
+      "wL² / 8"
+    ],
+    "correctAnswer": 0,
+    "explanation": "UDL ધરાવતા સિમ્પલી સપોર્ટેડ બીમનું સેન્ટ્રલ ડિફ્લેક્શન δ = 5wL⁴/(384EI) થાય[cite: 3]."
+  },
+  {
+    "id": 19,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "What is the unit of strain?",
+    "gujaratiQuestion": "019. સ્ટ્રેનનો એકમ કયો છે?",
+    "options": [
+      "N/m²",
+      "mm",
+      "એકમ રહિત",
+      "m/s"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્ટ્રેઈન એ સમાન પરિમાણોનો ગુણોત્તર હોવાથી એકમ રહિત છે[cite: 3]."
+  },
+  {
+    "id": 20,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "What is considered the main cause of failure for ductile materials?",
+    "gujaratiQuestion": "020. ડક્ટાઈલ મટીરીયલ માટે ફેલ્યોરનું મુખ્ય કારણ કયો સ્ટ્રેસ માનવામાં આવે છે?",
+    "options": [
+      "નોર્મલ સ્ટ્રેસ",
+      "શીયર સ્ટ્રેસ",
+      "વોલ્યુમેટ્રિક સ્ટ્રેસ",
+      "બેન્ડિંગ સ્ટ્રેસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડક્ટાઈલ મટીરીયલ મુખ્યત્વે શીયર સ્ટ્રેસના કારણે ફેલ થાય છે[cite: 3]."
+  },
+  {
+    "id": 21,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "Find torsional rigidity ratio K1/K2 of two shafts of same material and length with diameters 40 mm and 60 mm.",
+    "gujaratiQuestion": "021. સમાન લંબાઈ અને સમાન મટિરિયલ ધરાવતા 40 mm અને 60 mm વ્યાસના બે શાફ્ટની ટોર્શનલ રિજિડિટીનો ગુણોત્તર K1/K2 શોધો.",
+    "options": [
+      "4:9",
+      "16:81",
+      "1:3",
+      "1:5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટોર્શનલ રિજિડિટી d⁴ ના સમપ્રમાણમાં હોવાથી: (40/60)⁴ = (2/3)⁴ = 16:81[cite: 3]."
+  },
+  {
+    "id": 22,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "If a material has identical elastic properties in all directions, it is called:",
+    "gujaratiQuestion": "022 જો મટીરીયલ બધી જ દિશામાં સમાન ઇલાસ્ટિક ગુણધર્મો ધરાવતું હોય, તો તેને શું કહેવાય છે?",
+    "options": [
+      "આઇસોટ્રોપિક",
+      "ઓર્થોટ્રોપિક",
+      "એનિસોટ્રોપિક",
+      "પ્લાસ્ટિક"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બધી જ દિશામાં સમાન ગુણધર્મો ધરાવતા પદાર્થને આઇસોટ્રોપિક કહેવાય છે[cite: 3]."
+  },
+  {
+    "id": 23,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "According to Hooke's law, within limit of proportionality, relation between stress and strain is:",
+    "gujaratiQuestion": "023. હૂકના નિયમ મુજબ, લિમિટ ઓફ પ્રપોરશનાલિટીની અંદર સ્ટ્રેસ અને સ્ટ્રેન વચ્ચે કેવો સંબંધ હોય છે?",
+    "options": [
+      "વ્યસ્ત પ્રમાણ",
+      "સમપ્રમાણ",
+      "વર્ગના સમપ્રમાણ",
+      "કોઈ સંબંધ નથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હૂકના નિયમ અનુસાર સ્ટ્રેસ એ સ્ટ્રેઈનના સીધા સમપ્રમાણમાં હોય છે[cite: 3]."
+  },
+  {
+    "id": 24,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "In a Universal Testing Machine (UTM), along which axis does crosshead displacement occur?",
+    "gujaratiQuestion": "024. યુનિવર્સલ ટેસ્ટિંગ મશીન (UTM) માં ક્રૉસહેડ ડિસ્પ્લેસમેન્ટ કઈ એક્સિસમાં થાય છે.",
+    "options": [
+      "ઉપર અને નીચે (અપ અને ડાઉન)",
+      "બાજુઓ પર (સાઈડવેઝ)",
+      "રોટેશનલી",
+      "ફિક્સ્ડ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "UTM માં ક્રોસહેડ શિરોલંબ ઉપર અને નીચે (Up and Down) ગતિ કરે છે[cite: 3]."
+  },
+  {
+    "id": 25,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "Change in shape of a material under the influence of shear stress is which strain?",
+    "gujaratiQuestion": "025. શીયર સ્ટ્રેસની અસર હેઠળ મટીરીયલના આકારમાં થતા ફેરફારને કયો સ્ટ્રેન કહેવાય છે?",
+    "options": [
+      "લીનિયર સ્ટ્રેન",
+      "લેટરલ સ્ટ્રેન",
+      "વોલ્યુમેટ્રિક સ્ટ્રેન",
+      "શીયર સ્ટ્રેન"
+    ],
+    "correctAnswer": 3,
+    "explanation": "શીયર સ્ટ્રેસથી આકારમાં થતા કોણીય ફેરફારને શીયર સ્ટ્રેઈન કહે છે[cite: 3]."
+  },
+  {
+    "id": 26,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "Young's modulus of mild steel is approximately:",
+    "gujaratiQuestion": "026. માઈલ્ડ સ્ટીલનો યંગ્સ મોડયુલસ આશરે કેટલો હોય છે?",
+    "options": [
+      "200 MPa",
+      "210 GPa",
+      "100 GPa",
+      "400 MPa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "માઈલ્ડ સ્ટીલનો યંગ્સ મોડ્યુલસ આશરે 210 GPa (2.1 × 10⁵ N/mm²) હોય છે[cite: 3]."
+  },
+  {
+    "id": 27,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "What is the effective length factor for a column with one end fixed and other end free?",
+    "gujaratiQuestion": "027. જેનો એક છેડો ફિક્સ્ડ અને બીજો છેડો ફ્રી હોય તેવી કોલમ માટે ઈફેક્ટિવ લેન્થ ફેક્ટર કેટલું હોય છે?",
+    "options": [
+      "1",
+      "0.7",
+      "2",
+      "4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એક છેડે ફિક્સ અને બીજે ફ્રી કોલમ માટે Le = 2L હોવાથી ફેક્ટર 2 થાય છે[cite: 3]."
+  },
+  {
+    "id": 28,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "If equal tensile stress (P) acts in all 3 directions on a solid, what is the volumetric strain?",
+    "gujaratiQuestion": "028. જો કોઈ ઘન પદાર્થ પર ત્રણેય દિશામાં સમાન ટેન્સાઈલ સ્ટ્રેસ (P) લાગતો હોય, તો વોલ્યુમેટ્રિક સ્ટ્રેન કેટલો થશે?",
+    "options": [
+      "P/E * (1 - 2μ)",
+      "3P/E * (1 - 2μ)",
+      "P/E * (1 + μ)",
+      "3P/E * (1 + μ)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ત્રિ-પરિમાણીય સમાન સ્ટ્રેસ માટે વોલ્યુમેટ્રિક સ્ટ્રેઈન = (3P/E)(1 - 2μ) થાય[cite: 3]."
+  },
+  {
+    "id": 29,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "For equal applied force and cross-section, value of stress depends on:",
+    "gujaratiQuestion": "029. સમાન બળ અને સમાન આડછેદ માટે, સ્ટ્રેસનું મૂલ્ય કોના પર આધાર રાખે છે?",
+    "options": [
+      "મટીરીયલના પ્રકાર પર",
+      "લંબાઈ પર",
+      "તાપમાન પર",
+      "લાગતા બળ અને ક્ષેત્રફળ પર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સ્ટ્રેસ = બળ / ક્ષેત્રફળ (P/A) હોવાથી તે લાગતા બળ અને ક્ષેત્રફળ પર આધાર રાખે છે[cite: 3]."
+  },
+  {
+    "id": 30,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "Rockwell indentation size is inversely related to:",
+    "gujaratiQuestion": "030. રોકવેલ ઇન્ડેન્ટેશનની સાઈઝ કોના વ્યસ્ત પ્રમાણમાં (inversely related) હોય છે?",
+    "options": [
+      "સોફ્ટર મટિરિયલ",
+      "હાર્ડર મટિરિયલ",
+      "સમાન મટિરિયલ",
+      "રફ સરફેસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પદાર્થ જેટલો વધુ હાર્ડ હશે ઇન્ડેન્ટેશનની સાઈઝ તેટલી જ ઓછી હશે[cite: 3]."
+  },
+  {
+    "id": 31,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "What is the ratio of linear stress to linear strain called?",
+    "gujaratiQuestion": "031. લીનિયર સ્ટ્રેસ અને લીનિયર સ્ટ્રેનના ગુણોત્તરને શું કહેવાય છે?",
+    "options": [
+      "યંગ્સ મોડ્યુલસ",
+      "બલ્ક મોડ્યુલસ",
+      "મોડ્યુલસ ઓફ રિજિડિટી",
+      "પોઈસન રેશિયો"
+    ],
+    "correctAnswer": 0,
+    "explanation": "લીનિયર સ્ટ્રેસ અને લીનિયર સ્ટ્રેઈનના ગુણોત્તરને યંગ્સ મોડ્યુલસ કહે છે[cite: 3]."
+  },
+  {
+    "id": 32,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "What is the ratio of shear stress to shear strain called?",
+    "gujaratiQuestion": "032. શીયર સ્ટ્રેસ અને શીયર સ્ટ્રેનના ગુણોત્તરને શું કહેવાય છે?",
+    "options": [
+      "બલ્ક મોડ્યુલસ",
+      "યંગ્સ મોડ્યુલસ",
+      "મોડ્યુલસ ઓફ રિજિડિટી",
+      "પોઈસન રેશિયો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "શીયર સ્ટ્રેસ / શીયર સ્ટ્રેઈન = મોડ્યુલસ ઓફ રિજિડિટી (G)[cite: 3]."
+  },
+  {
+    "id": 33,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "Which of the following sections provides highest resistance against torsion?",
+    "gujaratiQuestion": "033. નીચેનામાંથી કયો સેક્શન ટોર્શન સામે સૌથી વધુ અવરોધ (resistance) આપે છે?",
+    "options": [
+      "ફ્લેટ",
+      "ટ્યુબ્યુલર",
+      "ચેનલ",
+      "બોક્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વર્તુળાકાર ટ્યુબ્યુલર સેક્શન ટોર્શનલ સ્ટ્રેસ સામે ઉત્તમ અવરોધ પૂરો પાડે છે[cite: 3]."
+  },
+  {
+    "id": 34,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "What is the ratio of lateral strain to linear strain called?",
+    "gujaratiQuestion": "034. લેટરલ સ્ટ્રેન અને લીનિયર સ્ટ્રેનના ગુણોત્તરને શું કહે છે?",
+    "options": [
+      "યંગ્સ મોડ્યુલસ",
+      "પોઈસન રેશિયો",
+      "મોડ્યુલસ ઓફ રિજિડિટી",
+      "બલ્ક મોડ્યુલસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "લેટરલ સ્ટ્રેઈન અને લીનિયર સ્ટ્રેઈનના ગુણોત્તરને પોઈસન રેશિયો કહેવાય છે[cite: 3]."
+  },
+  {
+    "id": 35,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "In a 3D stress system, what is the ratio of direct stress to volumetric strain called?",
+    "gujaratiQuestion": "035. 3D સ્ટ્રેસ સિસ્ટમમાં, ડાયરેક્ટ સ્ટ્રેસ અને વોલ્યુમેટ્રિક સ્ટ્રેનના ગુણોત્તરને શું કહેવાય છે?",
+    "options": [
+      "યંગ્સ મોડ્યુલસ",
+      "શીયર મોડ્યુલસ",
+      "બલ્ક મોડ્યુલસ",
+      "પોઇસન રેશિયો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડાયરેક્ટ સ્ટ્રેસ અને વોલ્યુમેટ્રિક સ્ટ્રેઈનનો ગુણોત્તર બલ્ક મોડ્યુલસ કહેવાય છે[cite: 3]."
+  },
+  {
+    "id": 36,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "If Poisson's ratio value is zero, what does it mean?",
+    "gujaratiQuestion": "036. જો પોઈઝન્સ રેશિયોનું મૂલ્ય શૂન્ય હોય, તો તેનો અર્થ શું થાય?",
+    "options": [
+      "મટિરિયલ રિજિડ છે",
+      "મટિરિયલ સંપૂર્ણપણે પ્લાસ્ટિક છે",
+      "મટિરિયલમાં કોઈ લોન્ગિટ્યુડિનલ સ્ટ્રેઇન નથી",
+      "મટિરિયલમાં લોન્ગિટ્યુડિનલ સ્ટ્રેઇન અનંત છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પોઈસન રેશિયો શૂન્ય હોય તેનો અર્થ પદાર્થમાં કોઈ લેટરલ ડિફોર્મેશન થતું નથી (રિજિડ વર્તણૂક)[cite: 3]."
+  },
+  {
+    "id": 37,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "For most engineering metals, what is the usual value of Poisson's ratio?",
+    "gujaratiQuestion": "037. મોટાભાગની એન્જિનિયરિંગ ધાતુઓ માટે પોઈસન રેશિયોનું મૂલ્ય સામાન્ય રીતે કેટલું હોય છે?",
+    "options": [
+      "0 થી 0.2",
+      "0.25 થી 0.33",
+      "0.5 થી 1.0",
+      "1.0 થી 1.5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એન્જિનિયરિંગ ધાતુઓ માટે પોઈસન રેશિયો સામાન્ય રીતે 0.25 થી 0.33 હોય છે[cite: 3]."
+  },
+  {
+    "id": 38,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "What is the correct relation between E, G, and Poisson's ratio (μ)?",
+    "gujaratiQuestion": "038. યંગ્સ મોડયુલસ (E), મોડયુલસ ઓફ રિજિડિટી (G) અને પોઈસન રેશિયો (μ) વચ્ચેનો સાચો સંબંધ કયો છે?",
+    "options": [
+      "E = 2G(1 - μ)",
+      "E = 2G(1 + μ)",
+      "E = 3G(1 + μ)",
+      "E = 2G(1 + 2μ)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇલાસ્ટિક કોન્સ્ટન્ટ્સ વચ્ચેનો સાચો સંબંધ E = 2G(1 + μ) છે[cite: 3]."
+  },
+  {
+    "id": 39,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "When a bar of length l is fixed at top and hangs freely, elongation due to self-weight is (w = weight per unit volume):",
+    "gujaratiQuestion": "039, જ્યારે l લંબાઈ અને d વ્યાસ ધરાવતા બારને ઉપરના છેડે ફિક્સ કરીને મુક્ત રીતે લટકાવવામાં આવે, ત્યારે તેના પોતાના વજનને કારણે બારમાં કેટલું કુલ ઇલોન્ગેશન ઉત્પન્ન થાય છે?",
+    "options": [
+      "wl / 2E",
+      "wl² / 2E",
+      "wl³ / 2E",
+      "wl⁴ / 2E"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એકમ કદના વજન w માટે સ્વ-વજનથી ઇલોન્ગેશન δ = wl² / (2E) થાય છે[cite: 3]."
+  },
+  {
+    "id": 40,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "What is the correct relation between E, K, and Poisson's ratio (μ)?",
+    "gujaratiQuestion": "040. યંગ્સ મોડ્યુલસ (E), બલ્ક મોડયુલસ (K) અને પોઇસન રેશિયો (μ) વચ્ચેનો સાચો સંબંધ કયો છે?",
+    "options": [
+      "E = 3K(1 - 2μ)",
+      "E = 3K(1 - μ)",
+      "E = 2K(1 - 2μ)",
+      "E = 3K(1 + 2μ)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "E અને K વચ્ચેનો સાચો સંબંધ E = 3K(1 - 2μ) છે[cite: 3]."
+  },
+  {
+    "id": 41,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "What is the correct relation between Young's Modulus (E), Bulk Modulus (K), and Modulus of Rigidity (G)?",
+    "gujaratiQuestion": "Q41. યંગ્સ મોડ્યુલસ (E), બલ્ક મોડ્યુલસ (K) અને મોડ્યુલસ ઓફ રિજિડિટી (G) વચ્ચેનો સાચો સંબંધ કયો છે?",
+    "options": [
+      "E = (9KG) / (3K + G)",
+      "E = (3KG) / (9K + G)",
+      "E = (9KG) / (K + 3G)",
+      "E = (3KG) / (K + 9G)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "E, K અને G વચ્ચેનો સાચો સંબંધ E = (9KG) / (3K + G) છે[cite: 3]."
+  },
+  {
+    "id": 42,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "A steel rod fixed at both ends is heated uniformly to temperature T. Thermal stress in rod is:",
+    "gujaratiQuestion": "Q42. બંને છેડે ફિક્સ કરેલા L લંબાઈ અને D વ્યાસના સ્ટીલ રોડને સમાન રીતે T ટેમ્પરેચર સુધી ગરમ કરવામાં આવે છે. જો યંગ્સ મોડ્યુલસ E અને કોઍફિશિયન્ટ ઑફ લિનિયર-એક્સપાન્શન α હોય, તો રોડમાં થર્મલ સ્ટ્રેસ કેટલો હશે?",
+    "options": [
+      "αT",
+      "αTE",
+      "αTEL",
+      "0"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બંને છેડે ફિક્સ રોડ માટે થર્મલ સ્ટ્રેસ σ = α · T · E થાય છે[cite: 3]."
+  },
+  {
+    "id": 43,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "If Poisson's ratio of a material is 0.5, the material is considered:",
+    "gujaratiQuestion": "Q43. જો કોઈ મટીરીયલનો પોઈસન રેશિયો 0.5 હોય, તો તે મટીરીયલ કેવું ગણાય?",
+    "options": [
+      "સંપૂર્ણ ઇલાસ્ટિક",
+      "સંપૂર્ણ ઈનકોમ્પ્રેસિબલ",
+      "અત્યંત બરડ",
+      "દળદાર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "μ = 0.5 હોય ત્યારે વોલ્યુમેટ્રિક સ્ટ્રેઈન શૂન્ય બને છે, એટલે કે મટીરીયલ સંપૂર્ણ ઇનકોમ્પ્રેસિબલ (દા.ત. રબર) ગણાય છે[cite: 3]."
+  },
+  {
+    "id": 44,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "For a material, Young's modulus and Bulk modulus are equal. What is its Poisson's ratio?",
+    "gujaratiQuestion": "044. એક મટીરીયલ માટે યંગ્સ મોડ્યુલસ અને બલ્ક મોડ્યુલસ સમાન છે, તો તેનો પોઈસન રેશિયો કેટલો થશે?",
+    "options": [
+      "0.25",
+      "0.33",
+      "0.50",
+      "0.125"
+    ],
+    "correctAnswer": 1,
+    "explanation": "E = 3K(1 - 2μ) માં E = K મૂકતાં: 1 = 3(1 - 2μ) => 1 - 2μ = 1/3 => 2μ = 2/3 => μ = 1/3 ≈ 0.33[cite: 3]."
+  },
+  {
+    "id": 45,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "Which of the following is the correct relation between Young's Modulus (E) and Bulk Modulus (K)?",
+    "gujaratiQuestion": "Q45. મટિરિયલના યંગ્સ મોડયુલસ (E) અને બલ્ક મોડ્યુલસ (K) વચ્ચેનો સાચો સંબંધ નીચેનામાંથી કયો છે? (અહીં: μ = પોઈઝન્સ રેશિયો)",
+    "options": [
+      "E = 3K(1 - 2μ)",
+      "K = 4E(1 - 2μ)",
+      "K = 3E(1 - 2μ)",
+      "E = 2K(1 - 2μ)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "E અને K વચ્ચેનો સાચો સંબંધ E = 3K(1 - 2μ) છે[cite: 3]."
+  },
+  {
+    "id": 46,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "If Poisson's ratio for a material is 0.25, what is the ratio of Young's Modulus to Modulus of Rigidity?",
+    "gujaratiQuestion": "046. જો કોઈ મટીરીયલ માટે પોઈસન રેશિયો 0.25 હોય, તો યંગ્સ મોડ્યુલસ અને મોડ્યુલસ ઓફ રિજિડિટી નો ગુણોત્તર કેટલો થશે?",
+    "options": [
+      "2.0",
+      "2.5",
+      "3.0",
+      "1.5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "E/G = 2(1 + μ) = 2(1 + 0.25) = 2.5[cite: 3]."
+  },
+  {
+    "id": 47,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "For a material E = 200 GPa and G = 80 GPa, what is Poisson's ratio?",
+    "gujaratiQuestion": "047. એક મટીરીયલ માટે યંગ્સ મોડ્યુલસ 200 GPa છે અને મૉડ્યુલસ ઓફ રિજિડિટી 80 GPa છે, તો પોઈસન રેશિયો કેટલો થશે?",
+    "options": [
+      "0.15",
+      "0.25",
+      "0.30",
+      "0.33"
+    ],
+    "correctAnswer": 1,
+    "explanation": "E = 2G(1 + μ) => 200 = 2(80)(1 + μ) => 1 + μ = 200/160 = 1.25 => μ = 0.25[cite: 3]."
+  },
+  {
+    "id": 48,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "A 5 mm steel bar is heated from 12°C to 50°C and allowed to expand freely. Induced stress is:",
+    "gujaratiQuestion": "048. 5 mm ના સ્ટીલ બારને 12°C થી 50°C સુધી ગરમ કરવામાં આવે છે અને તે મુક્ત રીતે ઍક્સપાન્ડ થઈ શકે છે. બારમાં કયો સ્ટ્રેસ ઉત્પન્ન થશે?",
+    "options": [
+      "કોઈ સ્ટ્રેસ નહિ",
+      "શિયર સ્ટ્રેસ",
+      "ટેન્સાઈલ સ્ટ્રેસ",
+      "કોમ્પ્રેસિવ સ્ટ્રેસ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કોઈ અવરોધ ન હોવાથી મુક્ત વિસ્તરણમાં કોઈ સ્ટ્રેસ ઉત્પન્ન થતો નથી[cite: 3]."
+  },
+  {
+    "id": 49,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "If modulus of rigidity and bulk modulus are equal for a material, Poisson's ratio is:",
+    "gujaratiQuestion": "Q49. જો કોઈ મટીરીયલ માટે મોડયુલસ ઓફ રિજિડિટી અને બલ્ક મોડયુલસ સમાન હોય, તો તેનો પોઈસન રેશિયો કેટલો હશે?",
+    "options": [
+      "0.125",
+      "0.25",
+      "0.33",
+      "0.50"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2G(1 + μ) = 3K(1 - 2μ). G = K મૂકતાં: 2 + 2μ = 3 - 6μ => 8μ = 1 => μ = 1/8 = 0.125[cite: 3]."
+  },
+  {
+    "id": 50,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "Which elastic constant indicates the ability to resist change in volume?",
+    "gujaratiQuestion": "050. પદાર્થના વોલ્યુમમાં થતા ફેરફારને રોકવાની ક્ષમતા કયો ઇલાસ્ટિક કૉન્સ્ટન્ટ દર્શાવે છે?",
+    "options": [
+      "યંગ્સ મોડ્યુલસ",
+      "મોડ્યુલસ ઓફ રિજિડિટી",
+      "બલ્ક મોડ્યુલસ",
+      "પોઈસન રેશિયો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વોલ્યુમમાં ફેરફારનો વિરોધ કરવાની ક્ષમતા બલ્ક મોડ્યુલસ (K) દર્શાવે છે[cite: 3]."
+  },
+  {
+    "id": 51,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "Two tapering bars of same length and material have major diameter D. Bar A minor diameter is D/2, Bar B is D/3. Find ratio of elongations.",
+    "gujaratiQuestion": "051. સમાન મટિરિયલના બે ટેપરિંગ બાર પર ટેન્સાઈલ લોડ P લાગે છે. બંને બારની લંબાઈ સમાન છે. દરેક બારનો મોટો વ્યાસ D છે. બાર A ના નાના છેડાનો વ્યાસ D/2 છે અને બાર B નો D/3 છે. બાર A અને બાર B ના ઇલોન્ગેશનનો ગુણોત્તર શું હશે?",
+    "options": [
+      "3:2",
+      "2:3",
+      "4:9",
+      "1:3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટેપરિંગ બારનું ઇલોન્ગેશન δ ∝ 1/d₂ હોવાથી: δA/δB = (D/3) / (D/2) = 2/3 એટલે કે 2:3[cite: 3]."
+  },
+  {
+    "id": 52,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "Which of the following quantities is dimensionless?",
+    "gujaratiQuestion": "052. નીચેનામાંથી કઈ રાશિ ડાયમેન્શનલેસ (પરિમાણ રહિત) છે?",
+    "options": [
+      "શીયર સ્ટ્રેસ",
+      "યંગ્સ મોડ્યુલસ",
+      "પોઈસન રેશિયો",
+      "પ્રેશર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પોઈસન રેશિયો એ બે સ્ટ્રેઈનનો ગુણોત્તર હોવાથી પરિમાણરહિત (ડાયમેન્શનલેસ) છે[cite: 3]."
+  },
+  {
+    "id": 53,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "Value of Poisson's ratio for rubber is approximately:",
+    "gujaratiQuestion": "053. રબર માટે પોઈસન રેશિયોનું મૂલ્ય આશરે કેટલું હોય છે?",
+    "options": [
+      "0.25",
+      "0.33",
+      "0.10",
+      "0.45 થી 0.50"
+    ],
+    "correctAnswer": 3,
+    "explanation": "રબર સંપૂર્ણપણે ઇનકોમ્પ્રેસિબલ હોવાથી તેનો પોઈસન રેશિયો 0.45 થી 0.50 હોય છે[cite: 3]."
+  },
+  {
+    "id": 54,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "The stress value corresponding to a specified permanent set remaining after unloading is called:",
+    "gujaratiQuestion": "054. સ્પેસિમેનને અનલોડ કરતી વખતે જ્યાં સુધી સ્ટ્રેઈનની ટકાવારીમાં ચોક્કસ પરમેનન્ટ સેટ (permanent set) બાકી રહે તે સ્ટ્રેસના મૂલ્યને શું કહેવાય છે?",
+    "options": [
+      "અલ્ટીમેટ સ્ટ્રેસ",
+      "પ્રૂફ સ્ટ્રેસ",
+      "કોન્સન્ટ્રેશન સ્ટ્રેસ",
+      "બ્રેકિંગ સ્ટ્રેસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ચોક્કસ પરમેનન્ટ સેટ (દા.ત. 0.2%) માટેના સ્ટ્રેસને પ્રૂફ સ્ટ્રેસ (Proof Stress) કહે છે[cite: 3]."
+  },
+  {
+    "id": 55,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "How many independent elastic constants are there for an isotropic material?",
+    "gujaratiQuestion": "055. આઈસોટ્રોપિક મટીરીયલ માટે સ્વતંત્ર ઈલાસ્ટિક કૉન્સ્ટન્ટ્સની સંખ્યા કેટલી હોય છે?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "9"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આઈસોટ્રોપિક મટીરીયલ માટે સ્વતંત્ર ઇલાસ્ટિક કોન્સ્ટન્ટ્સની સંખ્યા 2 હોય છે (દા.ત. E અને μ)[cite: 3]."
+  },
+  {
+    "id": 56,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "Factor of Safety is the ratio of:",
+    "gujaratiQuestion": "056. ફેક્ટર ઓફ સેફ્ટી એ કોનો ગુણોત્તર છે?",
+    "options": [
+      "અલ્ટીમેટ સ્ટ્રેસ અને વર્કિંગ સ્ટ્રેસ",
+      "વર્કિંગ સ્ટ્રેસ અને યીલ્ડ સ્ટ્રેસ",
+      "બ્રેકિંગ સ્ટ્રેસ અને યીલ્ડ સ્ટ્રેસ",
+      "ઇલાસ્ટિક સ્ટ્રેસ અને વર્કિંગ સ્ટ્રેસ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ફેક્ટર ઓફ સેફ્ટી = અલ્ટીમેટ સ્ટ્રેસ / વર્કિંગ સ્ટ્રેસ[cite: 3]."
+  },
+  {
+    "id": 57,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "A beam with hinge support at one end and roller support at other end is called:",
+    "gujaratiQuestion": "Q57. એવો બીમ કે જેના એક છેડે હિન્જ સપોર્ટ અને બીજા છેડે રોલર સપોર્ટ હોય અને હિન્જ સપોર્ટમાં બે રિએક્શન કમ્પોનન્ટ (વર્ટિકલ અને હોરિઝોન્ટલ) હોઈ શકે, તેને શું કહેવાય છે?",
+    "options": [
+      "ડબલ ઓવરહેંગિંગ બીમ",
+      "કેન્ટિલિવર બીમ",
+      "ઓવરહેંગિંગ બીમ",
+      "સિમ્પલી સપોર્ટેડ બીમ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "એક છેડે હિન્જ અને બીજા છેડે રોલર સપોર્ટ ધરાવતા બીમને સિમ્પલી સપોર્ટેડ બીમ કહે છે[cite: 3]."
+  },
+  {
+    "id": 58,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "What is the approximate Poisson's ratio for cork material?",
+    "gujaratiQuestion": "058. કોર્ક મટીરીયલ માટે પોઈસન રેશિયો આશરે કેટલો હોય છે?",
+    "options": [
+      "0",
+      "0.25",
+      "0.50",
+      "1.0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કોર્ક માટે લેટરલ સ્ટ્રેઈન લગભગ શૂન્ય હોવાથી પોઈસન રેશિયો 0 હોય છે[cite: 3]."
+  },
+  {
+    "id": 59,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "What is the unit of Bulk Modulus?",
+    "gujaratiQuestion": "059. બલ્ક મોડ્યુલસનો એકમ શું છે?",
+    "options": [
+      "એકમ રહિત",
+      "N/m²",
+      "N/m³",
+      "N/m"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બલ્ક મોડ્યુલસનો એકમ સ્ટ્રેસ જેવો જ N/m² (પાસ્કલ) હોય છે[cite: 3]."
+  },
+  {
+    "id": 60,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "For a cantilever beam of length l with UVL varying from 0 at free end to w at fixed end, bending moment at fixed end is:",
+    "gujaratiQuestion": "060. l લંબાઈના કેન્ટિલિવર બીમ પર ફ્રી ઍન્ડ પર શૂન્યથી શરૂ થઈને ફિક્સ્ડ એન્ડ તરફ w પ્રતિ યુનિટ લંબાઈનો ગ્રેજ્યુઅલી વેરિંગ લોડ (UVL) લાગતો હોય, તો ફિક્સ્ડ એન્ડ પર બેન્ડિંગ મોમેન્ટ કેટલો થશે?",
+    "options": [
+      "wl / 2",
+      "wl² / 2",
+      "wl² / 6",
+      "wl³ / 2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "UVL માટે કુલ ભાર = wl/2 અને સેન્ટ્રોઇડ = l/3 હોવાથી M = (wl/2) × (l/3) = wl²/6 થાય છે[cite: 3]."
+  },
+  {
+    "id": 61,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Stress",
+    "question": "What is the value of shear stress on a principal plane?",
+    "gujaratiQuestion": "061. પ્રિન્સિપલ પ્લેન પર શીયર સ્ટ્રેસનું મૂલ્ય કેટલું હોય છે?",
+    "options": [
+      "મહત્તમ",
+      "લઘુત્તમ",
+      "શૂન્ય",
+      "નોર્મલ સ્ટ્રેસ જેટલું"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રિન્સિપલ પ્લેન પર શીયર સ્ટ્રેસ હંમેશા શૂન્ય હોય છે[cite: 3]."
+  },
+  {
+    "id": 62,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Stress",
+    "question": "What does the radius of Mohr's circle represent?",
+    "gujaratiQuestion": "062. મોહર્સ સર્કલમાં સર્કલની ત્રિજ્યા શું દર્શાવે છે?",
+    "options": [
+      "મેક્સિમમ નોર્મલ સ્ટ્રેસ",
+      "મિનિમમ નોર્મલ સ્ટ્રેસ",
+      "મેક્સિમમ શીયર સ્ટ્રેસ",
+      "પ્રિન્સિપલ સ્ટ્રેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મોહર્સ સર્કલની ત્રિજ્યા મેક્સિમમ શીયર સ્ટ્રેસ (τ_max) દર્શાવે છે[cite: 3]."
+  },
+  {
+    "id": 63,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "In the double integration method, what does the first integration give?",
+    "gujaratiQuestion": "063. ડબલ ઇન્ટિગ્રેશન મેથડમાં, પ્રથમ ઇન્ટિગ્રેશન શેનું મૂલ્ય આપે છે?",
+    "options": [
+      "ડિફ્લેક્શન",
+      "સ્લોપ",
+      "ટ્વિસ્ટિંગ એંગલ",
+      "વ્યાસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "EI(d²y/dx²) નું પ્રથમ ઇન્ટિગ્રેશન સ્લોપ (dy/dx) આપે છે[cite: 3]."
+  },
+  {
+    "id": 64,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Stress",
+    "question": "What do the end points of any diameter in Mohr's circle represent?",
+    "gujaratiQuestion": "Q64. મોહર્સ સર્કલમાં કોઈપણ વ્યાસના બે છેડાના બિંદુઓ શું દર્શાવે છે?",
+    "options": [
+      "મેક્સિમમ શીયર સ્ટ્રેસ",
+      "પ્રિન્સિપલ સ્ટ્રેસ",
+      "નોર્મલ સ્ટ્રેસ",
+      "એવરેજ સ્ટ્રેસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કોઈપણ વ્યાસના છેડા પરસ્પર લંબ સમતલો પરના સ્ટ્રેસ દર્શાવે છે, જે પ્રિન્સિપલ સ્ટ્રેસ સાથે સંબંધિત છે[cite: 3]."
+  },
+  {
+    "id": 65,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Stress",
+    "question": "If normal stresses σx and σy act in two mutually perpendicular directions, where is center of Mohr's circle?",
+    "gujaratiQuestion": "065. જો બે પરસ્પર લંબરૂપ દિશામાં નોર્મલ સ્ટ્રેસ σx અને σy લાગતા હોય, તો મોહર્સ સર્કલનું કેન્દ્ર ક્યાં હશે?",
+    "options": [
+      "(σx + σy) / 2",
+      "(σx - σy) / 2",
+      "√(σx · σy)",
+      "σx + σy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મોહર્સ સર્કલના કેન્દ્રના યામ ((σx + σy)/2, 0) હોય છે[cite: 3]."
+  },
+  {
+    "id": 66,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "A moment M is applied at free end of cantilever of length l. What is the maximum deflection?",
+    "gujaratiQuestion": "066. l લંબાઈના કેન્ટિલિવર બીમના ફ્રી એન્ડ પર M મોમૅન્ટ લાગુ કરવામાં આવે છે. ન્યુટ્રલ એક્સિસ પર બીમના ક્રોસ-સેક્શનનો મોમેન્ટ ઓફ ઇનર્શિયા I અને યંગ્સ મોડયુલસ E છે. તેના મૅક્સિમમ ડિફ્લેક્શનનું મૂલ્ય કેટલું હશે?",
+    "options": [
+      "Ml² / (2EI)",
+      "Ml² / EI",
+      "2Ml² / EI",
+      "4Ml² / (2EI)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "છેડે મોમેન્ટ M લાગતા કેન્ટિલિવરનું મહત્તમ ડિફ્લેક્શન δ = Ml² / (2EI) થાય છે[cite: 3]."
+  },
+  {
+    "id": 67,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Stress",
+    "question": "If σx = 100 MPa (tensile) and σy = 20 MPa (tensile), what is the radius of Mohr's circle?",
+    "gujaratiQuestion": "067. જો કોઈ પદાર્થ પર x-દિશામાં 100 MPa (ટેન્સાઈલ) અને y-દિશામાં 20 MPa (ટેન્સાઈલ) નોર્મલ સ્ટ્રેસ લાગતો હોય, તો મોહર્સ સર્કલની ત્રિજ્યા કેટલી હશે?",
+    "options": [
+      "120 MPa",
+      "60 MPa",
+      "40 MPa",
+      "80 MPa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ત્રિજ્યા R = (σx - σy)/2 = (100 - 20)/2 = 40 MPa[cite: 3]."
+  },
+  {
+    "id": 68,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Stress",
+    "question": "In pure shear state, where is the center of Mohr's circle located?",
+    "gujaratiQuestion": "068. પ્યોર શીયરની સ્થિતિમાં મોડર્સ સર્કલનું કેન્દ્ર ક્યાં આવેલું હોય છે?",
+    "options": [
+      "y-અક્ષ પર",
+      "ઉગમબિંદુ પર",
+      "x-અક્ષના પોઝિટિવ ભાગ પર",
+      "x-અક્ષના નેગેટિવ ભાગ પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્યોર શીયરમાં σx = -σy = 0 હોવાથી કેન્દ્ર ઉગમબિંદુ (Origin) પર આવેલું હોય છે[cite: 3]."
+  },
+  {
+    "id": 69,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Energy Methods",
+    "question": "Maxwell's reciprocal theorem is based on:",
+    "gujaratiQuestion": "069. મેક્સવેલનો રેસિપ્રોકલ થિયરમ (Maxwell's reciprocal theorem) શેના પર આધારિત છે?",
+    "options": [
+      "(i), (ii) અને (iii)",
+      "(i) અને (iii)",
+      "(i)",
+      "(i) અને (ii)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મેક્સવેલનો પ્રમેય ઊર્જા સંરક્ષણ અને સુપરપોઝિશનના સિદ્ધાંત પર આધારિત છે[cite: 3]."
+  },
+  {
+    "id": 70,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Stress",
+    "question": "In plane stress condition, stress in third direction (z-direction) is assumed as:",
+    "gujaratiQuestion": "070. પ્લેન સ્ટ્રેસની સ્થિતિમાં ત્રીજી દિશા (z-દિશા) નો સ્ટ્રેસ કેટલો માનવામાં આવે છે?",
+    "options": [
+      "શૂન્ય",
+      "σx જેટલો",
+      "σy જેટલો",
+      "મહત્તમ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પ્લેન સ્ટ્રેસ કન્ડિશનમાં σz = τxz = τyz = 0 (શૂન્ય) લેવામાં આવે છે[cite: 3]."
+  },
+  {
+    "id": 71,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Stress",
+    "question": "When two principal stresses are equal and like (σ1 = σ2), Mohr's circle becomes:",
+    "gujaratiQuestion": "071. જ્યારે બે પ્રિન્સિપલ સ્ટ્રેસ સમાન અને સજાતીય હોય (σ1 = σ2), ત્યારે મોડર્સ સર્કલ કેવું બને છે?",
+    "options": [
+      "એક બિંદુ",
+      "અનંત ત્રિજ્યાવાળું વર્તુળ",
+      "ઉપવલય",
+      "પરવલય"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ત્રિજ્યા R = (σ1 - σ2)/2 = 0 થતાં મોહર્સ સર્કલ એક બિંદુ (Point) બની જાય છે[cite: 3]."
+  },
+  {
+    "id": 72,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "How much power is transmitted by 80 mm diameter shaft rotating at 150 rpm with maximum shear stress of 60 N/mm²?",
+    "gujaratiQuestion": "Q72. 60 N/mm² ના મેક્સિમમ શિયર સ્ટ્રેસ પર 150 rpm ની ઝડપે ફરતા 80 mm વ્યાસના શાફ્ટ દ્વારા કેટલો પાવર ટ્રાન્સમિટ થશે?",
+    "options": [
+      "35.65 kW",
+      "54.65 kW",
+      "74.65 kW",
+      "94.65 kW"
+    ],
+    "correctAnswer": 3,
+    "explanation": "T = (π/16) × τ × d³ = (π/16) × 60 × 80³ = 6031.85 Nm. Power P = 2πNT/60 = (2π × 150 × 6031.85)/60 ≈ 94.74 kW[cite: 3]."
+  },
+  {
+    "id": 73,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Stress",
+    "question": "What does the horizontal axis (x-axis) represent in Mohr's circle?",
+    "gujaratiQuestion": "Q73. મોડર્સ સર્કલમાં આડી ધરી (x-axis) શું દર્શાવે છે?",
+    "options": [
+      "શીયર સ્ટ્રેસ",
+      "નોર્મલ સ્ટ્રેસ",
+      "પ્રિન્સિપલ એન્ગલ",
+      "સ્ટ્રેન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોહર્સ સર્કલમાં x-ધરી નોર્મલ સ્ટ્રેસ (σ) દર્શાવે છે[cite: 3]."
+  },
+  {
+    "id": 74,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "Max shear stress on solid shaft in pure torsion is 240 MPa. If diameter is doubled with same torque, max shear stress is:",
+    "gujaratiQuestion": "074. પ્યોર ટોર્શન હેઠળ સોલિડ સર્ક્યુલર શાફ્ટની સપાટી પર ઉત્પન્ન થતો મેક્સિમમ શિયર સ્ટ્રેસ 240 MPa છે. જો ટોર્ક સમાન રાખીને શાફ્ટનો વ્યાસ બમણો કરવામાં આવે, તો મેક્સિમમ શિયર સ્ટ્રેસ કેટલો થશે?",
+    "options": [
+      "30 MPa",
+      "60 MPa",
+      "20 MPa",
+      "15 MPa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "τ ∝ 1/d³. વ્યાસ બમણો કરતાં τ' = 240 / 2³ = 240 / 8 = 30 MPa[cite: 3]."
+  },
+  {
+    "id": 75,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Stress",
+    "question": "What is the angle between maximum shear stress plane and principal plane?",
+    "gujaratiQuestion": "Q75. મેક્સિમમ શીયર સ્ટ્રેસ પ્લેન અને પ્રિન્સિપલ પ્લેન વચ્ચેનો ખૂણો કેટલો હોય છે?",
+    "options": [
+      "0°",
+      "45°",
+      "90°",
+      "180°"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વાસ્તવિક પ્લેન પર પ્રિન્સિપલ પ્લેન અને મેક્સિમમ શીયર પ્લેન વચ્ચેનો ખૂણો 45° હોય છે[cite: 3]."
+  },
+  {
+    "id": 76,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "What is the formula to find Hoop stress in a thin cylinder? (P = internal pressure, d = diameter, t = thickness)",
+    "gujaratiQuestion": "076. થિન સિલિન્ડરમાં હૂપ સ્ટ્રેસ (Hoop stress) શોધવાનું સૂત્ર કયું છે? (P = આંતરિક દબાણ, d = વ્યાસ, t = જાડાઈ)",
+    "options": [
+      "Pd / t",
+      "Pd / (2t)",
+      "Pd / (4t)",
+      "2Pd / t"
+    ],
+    "correctAnswer": 1,
+    "explanation": "થિન સિલિન્ડરમાં સર્કમફરન્શિયલ અથવા હૂપ સ્ટ્રેસ σ_h = Pd / (2t) સૂત્ર દ્વારા મળે છે[cite: 3]."
+  },
+  {
+    "id": 77,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "Which theory is applicable for the analysis of thick cylinders?",
+    "gujaratiQuestion": "077. થીક સિલિન્ડરના એનાલિસિસ માટે કઈ થિયરી લાગુ પડે છે?",
+    "options": [
+      "પોઈઝન્સ થિયરી",
+      "લામેની થિયરી (Lame's theory)",
+      "મેક્સવેલની થિયરી",
+      "આમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "થીક સિલિન્ડરમાં સ્ટ્રેસ એનાલિસિસ માટે લામેની થિયરી (Lame's Theory) નો ઉપયોગ થાય છે[cite: 3]."
+  },
+  {
+    "id": 78,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "What is the formula to find Longitudinal stress in a thin cylinder?",
+    "gujaratiQuestion": "078. થિન સિલિન્ડરમાં લોન્ગિટ્યુડિનલ સ્ટ્રેસ (Longitudinal stress) શોધવાનું સૂત્ર કયું છે?",
+    "options": [
+      "Pd / t",
+      "Pd / (2t)",
+      "Pd / (4t)",
+      "Pd / (8t)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "થિન સિલિન્ડરમાં લોન્ગિટ્યુડિનલ સ્ટ્રેસ σ_l = Pd / (4t) થાય છે[cite: 3]."
+  },
+  {
+    "id": 79,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "What is the ratio of Hoop stress to Longitudinal stress in a thin cylinder?",
+    "gujaratiQuestion": "079. થિન સિલિન્ડરમાં હૂપ સ્ટ્રેસ અને લોન્ગિટ્યુડિનલ સ્ટ્રેસનો ગુણોત્તર કેટલો હોય છે?",
+    "options": [
+      "1:2",
+      "2:1",
+      "1:1",
+      "4:1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હૂપ સ્ટ્રેસ [Pd/(2t)] એ લોન્ગિટ્યુડિનલ સ્ટ્રેસ [Pd/(4t)] કરતાં બમણો હોવાથી ગુણોત્તર 2:1 થાય છે[cite: 3]."
+  },
+  {
+    "id": 80,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "A thick cylinder with 10 mm internal dia and 20 mm external dia is subjected to 60 MPa internal fluid pressure. What is the hoop stress at inside surface?",
+    "gujaratiQuestion": "080. 10 mm ઇન્ટરનલ વ્યાસ અને 20 mm એક્સ્ટર્નલ વ્યાસ ધરાવતા થીક સિલિન્ડર પર 60 MPa નું ઈન્ટરનલ ફ્લુઈડ પ્રેશર લાગે છે. તેની અંદરની સપાટી પર હૂપ સ્ટ્રેસ કેટલો હશે?",
+    "options": [
+      "140 MPa",
+      "-60 MPa",
+      "100 MPa",
+      "40 MPa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લામેના સમીકરણ મુજબ અંદરની સપાટી પર હૂપ સ્ટ્રેસ σ_h = P*(r2² + r1²)/(r2² - r1²) = 60*(10² + 5²)/(10² - 5²) = 60*(125/75) = 100 MPa[cite: 3]."
+  },
+  {
+    "id": 81,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "When is a cylindrical shell called a 'Thin cylinder'? (t = thickness, d = diameter)",
+    "gujaratiQuestion": "081. સિલિન્ડ્રિકલ શેલને 'થિન સિલિન્ડર' ક્યારે કહેવામાં આવે છે? (t = જાડાઈ, d = વ્યાસ)",
+    "options": [
+      "t/d < 1/20",
+      "t/d >= 1/20",
+      "t/d = 1/10",
+      "t/d > 1/10"
+    ],
+    "correctAnswer": 0,
+    "explanation": "જ્યારે જાડાઈ અને વ્યાસનો ગુણોત્તર (t/d) 1/20 કરતાં ઓછો હોય, ત્યારે તેને થિન સિલિન્ડર ગણવામાં આવે છે[cite: 3]."
+  },
+  {
+    "id": 82,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "What is the stress produced in a thin spherical shell?",
+    "gujaratiQuestion": "082. થિન સ્ફેરિકલ શેલ (Spherical shell) માં ઉત્પન્ન થતો સ્ટ્રેસ કેટલો હોય છે?",
+    "options": [
+      "Pd / (2t)",
+      "Pd / (4t)",
+      "Pd / t",
+      "2Pd / t"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગોળાકાર થિન શેલમાં દરેક દિશામાં સમાન ટેન્સાઈલ સ્ટ્રેસ σ = Pd / (4t) ઉત્પન્ન થાય છે[cite: 3]."
+  },
+  {
+    "id": 83,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "If a thick cylindrical shell is subjected to internal pressure, what are hoop, radial, and longitudinal stresses across the thickness?",
+    "gujaratiQuestion": "083. જો કોઈ થીક સિલિન્ડ્રિકલ શેલ પર ઈન્ટરનલ પ્રેશર લાગે, તો તેની જાડાઈમાં કોઈ બિંદુ પર હૂપ સ્ટ્રેસ, રેડિયલ સ્ટ્રેસ અને લોન્ગિટ્યુડિનલ સ્ટ્રેસ અનુક્રમે કેવા હશે?",
+    "options": [
+      "ટેન્સાઈલ, કોમ્પ્રેસિવ અને કોમ્પ્રેસિવ",
+      "કોમ્પ્રેસિવ, ટેન્સાઈલ અને ટેન્સાઈલ",
+      "તમામ ટેન્સાઈલ",
+      "ટેન્સાઈલ, કોમ્પ્રેસિવ અને ટેન્સાઈલ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "આંતરિક દબાણવાળા થીક સિલિન્ડરમાં હૂપ સ્ટ્રેસ ટેન્સાઈલ, રેડિયલ સ્ટ્રેસ કોમ્પ્રેસિવ અને લોન્ગિટ્યુડિનલ સ્ટ્રેસ ટેન્સાઈલ હોય છે[cite: 3]."
+  },
+  {
+    "id": 84,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "What type of stress is produced in a thin cylinder due to internal pressure?",
+    "gujaratiQuestion": "084. થિન સિલિન્ડરમાં આંતરિક દબાણને કારણે કયા પ્રકારના સ્ટ્રેસ ઉત્પન્ન થાય છે?",
+    "options": [
+      "માત્ર કોમ્પ્રેસિવ સ્ટ્રેસ",
+      "માત્ર શીયર સ્ટ્રેસ",
+      "ટેન્સાઈલ સ્ટ્રેસ",
+      "બેન્ડિંગ સ્ટ્રેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આંતરિક દબાણને લીધે સિલિન્ડરની દીવાલ પર મુખ્યત્વે ટેન્સાઈલ (ખેંચાણ) સ્ટ્રેસ પેદા થાય છે[cite: 3]."
+  },
+  {
+    "id": 85,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "What is the maximum shear stress in a thin cylinder?",
+    "gujaratiQuestion": "085. થિન સિલિન્ડરમાં મહત્તમ શીયર સ્ટ્રેસ કેટલો હોય છે?",
+    "options": [
+      "Pd / (2t)",
+      "Pd / (4t)",
+      "Pd / (8t)",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇન-પ્લેન મહત્તમ શીયર સ્ટ્રેસ τ_max = (σ_h - σ_l) / 2 = [Pd/(2t) - Pd/(4t)] / 2 = Pd / (8t) થાય છે[cite: 3]."
+  },
+  {
+    "id": 86,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "For a given material, on what does the buckling load depend?",
+    "gujaratiQuestion": "086. આપેલ મટિરિયલ માટે બકલિંગ લોડ શેના પર આધાર રાખે છે?",
+    "options": [
+      "સ્લેન્ડરનેસ રેશિયો અને મોડ્યુલસ ઓફ ઇલાસ્ટિસિટી",
+      "પોઇઝન્સ રેશિયો અને મોડ્યુલસ ઓફ ઇલાસ્ટિસિટી",
+      "પોઈઝન્સ રેશિયો અને સ્લેન્ડરનેસ રેશિયો",
+      "સ્લેન્ડરનેસ રેશિયો અને ક્રોસ સેક્શનલ એરિયા"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઓઈલરના બકલિંગ સ્ટ્રેસ સૂત્ર σ_cr = π²E / λ² મુજબ તે મોડ્યુલસ ઓફ ઇલાસ્ટિસિટી (E) અને સ્લેન્ડરનેસ રેશિયો (λ) પર આધાર રાખે છે[cite: 3]."
+  },
+  {
+    "id": 87,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "What is a cylinder without any joint called?",
+    "gujaratiQuestion": "087. જે સિલિન્ડરમાં કોઈ સાંધો (joint) ન હોય, તેને શું કહેવાય છે?",
+    "options": [
+      "રિવેટેડ સિલિન્ડર",
+      "વેલ્ડેડ સિલિન્ડર",
+      "સીમલેસ સિલિન્ડર",
+      "હોલો સિલિન્ડર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કોઈપણ સાંધા કે વેલ્ડ વગર સીધા ધાતુમાંથી ખેંચીને બનાવેલા સિલિન્ડરને સીમલેસ સિલિન્ડર કહે છે[cite: 3]."
+  },
+  {
+    "id": 88,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "If diameter of a thin cylinder is doubled keeping thickness same, what is the effect on hoop stress?",
+    "gujaratiQuestion": "088. જો થિન સિલિન્ડરનો વ્યાસ બમણો કરવામાં આવે અને જાડાઈ સમાન રહે, તો હૂપ સ્ટ્રેસ પર શું અસર થાય?",
+    "options": [
+      "અડધો થશે",
+      "બમણો થશે",
+      "ચાર ગણો થશે",
+      "સમાન રહેશે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હૂપ સ્ટ્રેસ σ_h = Pd / (2t) હોવાથી વ્યાસ d બમણો થતાં સ્ટ્રેસ પણ બમણો થાય છે[cite: 3]."
+  },
+  {
+    "id": 89,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "A circular rod of length L, area A, modulus E, and thermal coefficient α has one end fixed and other free. If temperature increases by ΔT:",
+    "gujaratiQuestion": "089. 'L' લંબાઈ અને 'A' ક્રોસ-સેક્શનલ એરિયા ધરાવતા સર્ક્યુલર રોડનો મોડ્યુલસ ઓફ ઇલાસ્ટિસિટી 'E' અને કોએફિશિયન્ટ ઓફ થર્મલ એક્સપાન્શન 'α' છે. રોડનો એક છેડો ફિક્સ અને બીજો છેડો ફ્રી છે. જો રોડનું તાપમાન ΔT જેટલું વધારવામાં આવે, તોઃ",
+    "options": [
+      "રોડમાં EαΔT સ્ટ્રેસ અને αΔT સ્ટ્રેઈન ઉત્પન્ન થશે",
+      "ઉત્પન્ન થયેલ સ્ટ્રેસ અને સ્ટ્રેઇન બંને શૂન્ય હશે",
+      "રોડમાં શૂન્ય સ્ટ્રેસ અને αΔT સ્ટ્રેઈન ઉત્પન્ન થશે",
+      "રોડમાં EαΔT સ્ટ્રેસ અને શૂન્ય સ્ટ્રેઇન ઉત્પન્ન થશે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "છેડો ફ્રી હોવાથી મુક્ત વિસ્તરણ થશે જેથી સ્ટ્રેઈન ε = αΔT મળશે, પરંતુ કોઈ અવરોધ ન હોવાથી થર્મલ સ્ટ્રેસ શૂન્ય રહેશે[cite: 3]."
+  },
+  {
+    "id": 90,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "To prevent leakage in thin cylinders, on the basis of which stress is the cylinder designed?",
+    "gujaratiQuestion": "090. થિન સિલિન્ડરમાં લિકેજ અટકાવવા માટે સિલિન્ડરની ડિઝાઈન કયા સ્ટ્રેસના આધારે કરવામાં આવે છે?",
+    "options": [
+      "શીયર સ્ટ્રેસ",
+      "લોન્ગિટ્યુડિનલ સ્ટ્રેસ",
+      "હૂપ સ્ટ્રેસ",
+      "વોલ્યુમેટ્રિક સ્ટ્રેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હૂપ સ્ટ્રેસ એ લોન્ગિટ્યુડિનલ કરતાં બમણો (મહત્તમ) હોવાથી લિકેજ અને ફાટવાથી બચવા ડિઝાઈન હૂપ સ્ટ્રેસના આધારે થાય છે[cite: 3]."
+  },
+  {
+    "id": 91,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "At the point where shear force changes sign or becomes zero, what is the bending moment?",
+    "gujaratiQuestion": "091. બીમના જે બિંદુએ શીયર ફોર્સ પોતાનું ચિહ્ન (sign) બદલે છે અથવા શૂન્ય થાય છે, ત્યાં બેન્ડિંગ મોમેન્ટ કેટલી હોય છે?",
+    "options": [
+      "શૂન્ય",
+      "લઘુત્તમ",
+      "મહત્તમ",
+      "અનંત"
+    ],
+    "correctAnswer": 2,
+    "explanation": "dM/dx = V હોવાથી જ્યારે શીયર ફોર્સ V = 0 થાય ત્યારે બેન્ડિંગ મોમેન્ટ મહત્તમ (Maximum) બને છે[cite: 3]."
+  },
+  {
+    "id": 92,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "A torque of 4 Nm is applied to a slotted head screw using a screwdriver with a 5 mm blade width. What is the couple force exerted by blade edges on screw slot?",
+    "gujaratiQuestion": "092. 5 mm ની પહોળાઈવાળી બ્લેડ ધરાવતા સ્ક્રુડ્રાઈવરનો ઉપયોગ કરીને સ્લોટેડ હેડ સ્ક્રૂ પર 4 Nm નો ટોર્ક લગાવવામાં આવે છે. બ્લેડની કિનારીઓ દ્વારા સ્ક્રૂના સ્લોટ પર લાગતો કપલ ફોર્સ કેટલો હશે?",
+    "options": [
+      "40 N",
+      "800 N",
+      "400 N",
+      "100 N"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટોર્ક T = F × d => 4 Nm = F × 0.005 m => F = 4 / 0.005 = 800 N[cite: 3]."
+  },
+  {
+    "id": 93,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "The point where bending moment becomes zero or changes its sign is called:",
+    "gujaratiQuestion": "093. જે બિંદુએ બેન્ડિંગ મોમેન્ટ શૂન્ય થાય છે અથવા પોતાનું ચિહ્ન બદલે છે, તેને શું કહેવાય છે?",
+    "options": [
+      "પોઈન્ટ ઓફ ઇન્ફ્લેક્શન",
+      "પોઈન્ટ ઑફ કોન્ટ્રાફ્લેક્સર",
+      "ન્યુટ્રલ પોઈન્ટ",
+      "યીલ્ડ પોઈન્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બેન્ડિંગ મોમેન્ટ પોતાનું ચિહ્ન બદલે તે બિંદુને પોઈન્ટ ઓફ કોન્ટ્રાફ્લેક્સર (Point of Contraflexure) કહે છે[cite: 3]."
+  },
+  {
+    "id": 94,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "If UDL (w) acts over the entire length of a simply supported beam, what is the maximum bending moment?",
+    "gujaratiQuestion": "094. સિમ્પલી સપોર્ટેડ બીમની પૂરી લંબાઈ પર યુનિફોર્મલી ડિસ્ટ્રિબ્યુટેડ લોડ (w) લાગતો હોય, તો મહત્તમ બેન્ડિંગ મોમેન્ટ કેટલી થશે?",
+    "options": [
+      "wL / 2",
+      "wL² / 4",
+      "wL² / 8",
+      "wL² / 12"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આખી લંબાઈ પર UDL ધરાવતા સિમ્પલી સપોર્ટેડ બીમ માટે મહત્તમ બેન્ડિંગ મોમેન્ટ M_max = wL² / 8 થાય છે[cite: 3]."
+  },
+  {
+    "id": 95,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "What is the ratio of normal stress on each surface of a solid cube to volumetric strain called?",
+    "gujaratiQuestion": "095. સોલિડ ક્યુબની દરેક સપાટી પર લાગતા નોર્મલ સ્ટ્રેસ અને વોલ્યુમેટ્રિક સ્ટ્રેઈનના ગુણોત્તર (ratio) ને શું કહેવાય છે?",
+    "options": [
+      "પોઈઝન્સ રેશિયો",
+      "બલ્ક મોડ્યુલસ",
+      "મોડ્યુલસ ઓફ રિજિડિટી",
+      "મોડ્યુલસ ઓફ ઈલાસ્ટિસિટી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હાઇડ્રોસ્ટેટિક નોર્મલ સ્ટ્રેસ અને વોલ્યુમેટ્રિક સ્ટ્રેઈનના ગુણોત્તરને બલ્ક મોડ્યુલસ કહેવાય છે[cite: 3]."
+  },
+  {
+    "id": 96,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "If a point load (W) acts at free end of a cantilever beam, what is the bending moment at fixed end?",
+    "gujaratiQuestion": "096. કેન્ટીલિવર બીમના મુક્ત છેડે બિંદુ ભાર (W) લાગતો હોય, તો ફિક્સ છેડે બેન્ડિંગ મોમેન્ટ કેટલી થશે?",
+    "options": [
+      "WL / 2",
+      "WL",
+      "WL / 3",
+      "2WL"
+    ],
+    "correctAnswer": 1,
+    "explanation": "છેડે બિંદુ ભાર W ધરાવતા કેન્ટિલિવર માટે ફિક્સ છેડે મોમેન્ટ M = W × L થાય છે[cite: 3]."
+  },
+  {
+    "id": 97,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "If there is no load on a portion of a beam, what does the Shear Force Diagram (SFD) look like for that portion?",
+    "gujaratiQuestion": "097. જો બીમના કોઈ ભાગ પર કોઈ ભાર (load) ન હોય, તો તે ભાગનો શીયર ફોર્સ ડાયાગ્રામ (SFD) કેવો બને છે?",
+    "options": [
+      "આડી સીધી રેખા",
+      "ત્રાંસી સીધી રેખા",
+      "પેરાબોલા",
+      "ક્યુબિક વળાંક"
+    ],
+    "correctAnswer": 0,
+    "explanation": "લોડિંગ શૂન્ય હોવાથી dV/dx = 0 બને છે, જેથી SFD એક આડી સીધી રેખા (Horizontal straight line) બને છે[cite: 3]."
+  },
+  {
+    "id": 98,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "A rod of length L tapers uniformly from diameter D1 to D2 and is subjected to axial load P. What is its extension?",
+    "gujaratiQuestion": "098. L લંબાઈનો એક રોડ D1 વ્યાસથી D2 વ્યાસ સુધી સમાન રીતે ટેપર થાય છે અને તેના પર P એક્સિયલ ટેન્સાઈલ લોડ લાગે છે. રોડનું એક્સટેન્શન કેટલું હશે?",
+    "options": [
+      "πPL / (4ED1D2)",
+      "4PL / (πED1D2)",
+      "πEL / (4D1D2)",
+      "4PEL / (πD1D2)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટેપરિંગ સર્ક્યુલર બાર માટે વિસ્તરણ δ = 4PL / (π · E · D1 · D2) થાય છે[cite: 3]."
+  },
+  {
+    "id": 99,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "Where will maximum bending moment occur for a simply supported beam with central point load (W)?",
+    "gujaratiQuestion": "099. સિમ્પલી સપોર્ટેડ બીમના મધ્યમાં બિંદુ ભાર (W) લાગતો હોય, તો મહત્તમ બેન્ડિંગ મોમેન્ટ ક્યાં મળશે?",
+    "options": [
+      "બંને સપોર્ટ પર",
+      "કોઇપણ એક સપોર્ટ પર",
+      "બીમના બરાબર મધ્યમાં",
+      "ગમે ત્યાં મળી શકે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કેન્દ્રિય પોઇન્ટ લોડ માટે શીયર ફોર્સ મધ્યમાં શૂન્ય થતો હોવાથી મહત્તમ બેન્ડિંગ મોમેન્ટ બીમના બરાબર મધ્યમાં મળે છે[cite: 3]."
+  },
+  {
+    "id": 100,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "What is the value of maximum bending moment for a simply supported beam with central point load (W)?",
+    "gujaratiQuestion": "0100. સિમ્પલી સપોર્ટેડ બીમના મધ્યમાં બિંદુ ભાર (W) લાગતો હોય, તો મહત્તમ બેન્ડિંગ મોમેન્ટનું મૂલ્ય કેટલું હશે?",
+    "options": [
+      "WL / 2",
+      "WL / 4",
+      "WL / 8",
+      "WL"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સેન્ટ્રલ પોઈન્ટ લોડ ધરાવતા સિમ્પલી સપોર્ટેડ બીમ માટે મહત્તમ બેન્ડિંગ મોમેન્ટ M_max = WL / 4 થાય છે[cite: 3]."
+  },
+  {
+    "id": 101,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "A simply supported beam of span (l) has a point load (W) at its center. What will its bending moment diagram look like?",
+    "gujaratiQuestion": "0101. સ્પાન (l) ધરાવતો સિમ્પલી સપોર્ટેડ બીમ તેના સેન્ટર પર પોઈન્ટ લોડ (W) ધરાવે છે. તેનો બેન્ડિંગ મોમેન્ટ ડાયાગ્રામ કેવો હશે?",
+    "options": [
+      "પેરાબોલા, જેમાં બીમના સેન્ટર પર ઓર્ડિનેટ મહત્તમ હશે",
+      "પેરાબોલા, જેમાં બીમના એક છેડે ઓર્ડિનેટ મહત્તમ હશે",
+      "ત્રિકોણ (triangle), જેમાં બીમના સેન્ટર પર ઓર્ડિનેટ મહત્તમ હશે",
+      "ત્રિકોણ, જેમાં બીમના એક છેડે ઓર્ડિનેટ મહત્તમ હશે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સેન્ટ્રલ પોઇન્ટ લોડ માટે BMD ત્રિકોણાકાર બને છે, જેમાં મધ્યમાં ઓર્ડિનેટ WL/4 મહત્તમ હોય છે[cite: 3]."
+  },
+  {
+    "id": 102,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "If a beam is subjected to a uniformly distributed load (UDL), what shape will its bending moment diagram (BMD) be?",
+    "gujaratiQuestion": "0102. જો બીમ પર યુનિફોર્મલી ડિસ્ટ્રિબ્યુટેડ લોડ (UDL) લાગતો હોય, તો તેનો બેન્ડિંગ મોમેન્ટ ડાયાગ્રામ (BMD) કેવો બનશે?",
+    "options": [
+      "લંબચોરસ",
+      "ત્રિકોણ",
+      "પેરાબોલા",
+      "વર્તુળ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "UDL હેઠળ મોમેન્ટ સમીકરણ બીજા ઘાતનું (2nd order) હોવાથી BMD પેરાબોલિક વળાંક બને છે[cite: 3]."
+  },
+  {
+    "id": 103,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "If a pure bending moment (M) acts at the free end of a cantilever beam, what is the shear force?",
+    "gujaratiQuestion": "Q103. કેન્ટીલિવર બીમના મુક્ત છેડે શુદ્ધ બેન્ડિંગ મોમેન્ટ (M) લાગતી હોય, તો તેનો શીયર ફોર્સ કેટલો થશે?",
+    "options": [
+      "M / L",
+      "M",
+      "શૂન્ય",
+      "M / 2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "માત્ર પ્યોર મોમેન્ટ લાગતી હોય ત્યારે કોઈ ટ્રાન્સવર્સ લોડ ન હોવાથી શીયર ફોર્સ સમગ્ર બીમમાં શૂન્ય રહે છે[cite: 3]."
+  },
+  {
+    "id": 104,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "A simply supported beam carries UDL of w N/m over its entire span (l). What is the bending moment at supported ends?",
+    "gujaratiQuestion": "Q104. એક સિમ્પલી સપોર્ટેડ બીમ તેના આખા સ્પાન (l) પર w N પ્રતિ યુનિટ લંબાઈનો યુનિફોર્મલી ડિસ્ટ્રિબ્યુટેડ લોડ (UDL) ધરાવે છે. તેના સપોર્ટેડ છેડા પર બેન્ડિંગ મોમેન્ટ કેટલી હશે?",
+    "options": [
+      "wl / 2",
+      "wl² / 8",
+      "wl² / 24",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સિમ્પલી સપોર્ટેડ બીમના બંને છેડા મુક્ત રીતે ફરી શકતા હોવાથી સપોર્ટ આગળ બેન્ડિંગ મોમેન્ટ શૂન્ય હોય છે[cite: 3]."
+  },
+  {
+    "id": 105,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "If SFD has a curve of degree x, what will be the degree of curve in BMD?",
+    "gujaratiQuestion": "0105. જો શીયર ફોર્સ ડાયાગ્રામ (SFD) માં x ઘાત વાળો વળાંક હોય, તો બેન્ડિંગ મોમેન્ટ ડાયાગ્રામમાં વળાંકની ઘાત કેટલી હશે?",
+    "options": [
+      "x - 1",
+      "x",
+      "x + 1",
+      "x + 2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "dM/dx = V હોવાથી ઇન્ટિગ્રેશન કરવાથી BMD ની ઘાત SFD કરતાં એક વધારે (x + 1) થાય છે[cite: 3]."
+  },
+  {
+    "id": 106,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "What does the area under the Shear Force Diagram (SFD) between two points represent?",
+    "gujaratiQuestion": "0106. બે બિંદુઓ વચ્ચેના શીયર ફોર્સ ડાયાગ્રામ (SFD) હેઠળનું ક્ષેત્રફળ શું દર્શાવે છે?",
+    "options": [
+      "બેન્ડિંગ મોમેન્ટમાં થતો ફેરફાર",
+      "કુલ ભાર (Total load)",
+      "મહત્તમ શીયર ફોર્સ",
+      "ડિફ્લેક્શન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SFD નો એરિયા ∫V dx એ તે બે બિંદુઓ વચ્ચેના બેન્ડિંગ મોમેન્ટમાં થતો ફેરફાર દર્શાવે છે[cite: 3]."
+  },
+  {
+    "id": 107,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "During tensile test, piece 1 shows 40% elongation while piece 2 of same dimensions shows 25%. Ductility of piece 1 compared to piece 2 is:",
+    "gujaratiQuestion": "0107. ટેન્સાઈલ ટેસ્ટ દરમિયાન, એક મટિરિયલનો ટેસ્ટ પીસ 40% ઇલોન્ગેશન દર્શાવે છે જ્યારે સમાન ડાયમેન્શન પરંતુ અલગ મટિરિયલનો બીજો ટેસ્ટ પીસ 25% ઇલોન્ગેશન દર્શાવે છે. તો બીજા મટિરિયલની સરખામણીમાં પ્રથમ મટિરિયલની ડક્ટિલિટી કેવી કહેવાય?",
+    "options": [
+      "ઓછી",
+      "સમાન",
+      "વધારે",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટકાવારી ઇલોન્ગેશન વધુ હોવાનો અર્થ એ છે કે તે પદાર્થની ડક્ટિલિટી (તનનીયતા) વધારે છે[cite: 3]."
+  },
+  {
+    "id": 108,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "For a cantilever beam carrying UDL (w) over its entire length, what is maximum shear force at fixed end?",
+    "gujaratiQuestion": "0108. કેન્ટીલિવર બીમ પર પૂરી લંબાઈમાં UDL (w) લાગતો હોય, તો ફિક્સ છેડે મહત્તમ શીયર ફોર્સ કેટલો થશે?",
+    "options": [
+      "wL / 2",
+      "wL",
+      "wL²",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કેન્ટિલિવર પર ફિક્સ છેડે મહત્તમ શીયર ફોર્સ કુલ ભાર w × L જેટલો થાય છે[cite: 3]."
+  },
+  {
+    "id": 109,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "For a cantilever beam carrying UDL (w) over its entire length, what is maximum bending moment at fixed end?",
+    "gujaratiQuestion": "0109. કેન્ટીલિવર બીમ પર પૂરી લંબાઈમાં UDL (w) લાગતો હોય, તો ફિક્સ છેડે મહત્તમ બેન્ડિંગ મોમેન્ટ કેટલી થશે?",
+    "options": [
+      "wL² / 2",
+      "wL²",
+      "wL² / 3",
+      "wL² / 8"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આખી લંબાઈ પર UDL ધરાવતા કેન્ટિલિવર માટે ફિક્સ છેડે મહત્તમ મોમેન્ટ M = (wL) × (L/2) = wL² / 2 થાય છે[cite: 3]."
+  },
+  {
+    "id": 110,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "What does the expression EI (d³y / dx³) represent at a section of a member?",
+    "gujaratiQuestion": "0110. મેમ્બરના કોઈ સેક્શન પર એક્સપ્રેશન EI (d³y/dx³) શું દર્શાવે છે?",
+    "options": [
+      "શિયર ફોર્સ",
+      "રેટ ઓફ લોડિંગ",
+      "બેન્ડિંગ મોમેન્ટ",
+      "સ્લોપ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "EI (d²y/dx²) = મોમેન્ટ હોવાથી તેનું વિકલન EI (d³y/dx³) એ શીયર ફોર્સ (Shear force) દર્શાવે છે[cite: 3]."
+  },
+  {
+    "id": 111,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "Which point is generally observed in an overhanging beam?",
+    "gujaratiQuestion": "Q111. ઓવરહેંગિંગ બીમમાં સામાન્ય રીતે કયો પોઈન્ટ હંમેશા જોવા મળે છે?",
+    "options": [
+      "યીલ્ડ પોઈન્ટ",
+      "પોઈન્ટ ઓફ કોન્ટ્રાફ્લેક્સર",
+      "પ્લાસ્ટિક હિંજ",
+      "સેન્ટર ઑફ ગ્રેવિટી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓવરહેંગિંગ બીમમાં સેગિંગ અને હોગિંગ બંને મોમેન્ટ થતી હોવાથી પોઇન્ટ ઓફ કોન્ટ્રાફ્લેક્સર જોવા મળે છે[cite: 3]."
+  },
+  {
+    "id": 112,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "If a uniformly varying load (UVL) acts on a beam, what shape will its shear force diagram be?",
+    "gujaratiQuestion": "Q112. જો બીમ પર યુનિફોર્મલી વેરીઇંગ લોડ (UVL) લાગતો હોય, તો તેનો શીયર ફોર્સ ડાયાગ્રામ કેવો બનશે?",
+    "options": [
+      "આડી રેખા",
+      "ત્રાંસી સીધી રેખા",
+      "પેરાબોલિક વળાંક",
+      "ક્યુબિક વળાંક"
+    ],
+    "correctAnswer": 2,
+    "explanation": "UVL (1st degree load) માટે શીયર ફોર્સ ઇક્વેશન 2nd degree હોવાથી SFD પેરાબોલિક વળાંક બને છે[cite: 3]."
+  },
+  {
+    "id": 113,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "If deflection at free end of 1m uniformly loaded cantilever beam is 7.5 mm, what is the slope at free end?",
+    "gujaratiQuestion": "Q113. જો 1 m લંબાઈના યુનિફોર્મલી લોડેડ (UDL) કેન્ટિલિવર બીમના ફ્રી એન્ડ પર ડિફ્લેક્શન 7.5 mm હોય, તો ફ્રી એન્ડ પર સ્લોપ કેટલો હશે?",
+    "options": [
+      "0.015 રેડિયન્સ",
+      "0.01 રેડિયન્સ",
+      "0.02 રેડિયન્સ",
+      "0.03 રેડિયન્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "UDL માટે δ = wL⁴/(8EI) અને θ = wL³/(6EI) => θ = (4/3) × (δ / L) = (4/3) × (0.0075 / 1) = 0.01 રેડિયન્સ[cite: 3]."
+  },
+  {
+    "id": 114,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "What is the correct equation for pure bending of a beam?",
+    "gujaratiQuestion": "0114. બીમના શુદ્ધ બેન્ડિંગ (Pure bending) માટેનું સાચું સમીકરણ કયું છે?",
+    "options": [
+      "M/I = σ/y = E/R",
+      "M/y = σ/I = E/R",
+      "M/R = σ/y = E/I",
+      "M/I = y/σ = R/E"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બેન્ડિંગનું મૂળભૂત સમીકરણ M/I = σ/y = E/R છે[cite: 3]."
+  },
+  {
+    "id": 115,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "What is the value of bending stress at the neutral axis of a beam?",
+    "gujaratiQuestion": "0115. બીમના ન્યુટ્રલ ઍક્સિસ (Neutral axis) પર બેન્ડિંગ સ્ટ્રેસનું મૂલ્ય કેટલું હોય છે?",
+    "options": [
+      "મહત્તમ",
+      "સરેરાશ",
+      "શૂન્ય",
+      "લઘુત્તમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ન્યુટ્રલ એક્સિસ પર y = 0 હોવાથી બેન્ડિંગ સ્ટ્રેસ σ = (M/I) × y = 0 (શૂન્ય) હોય છે[cite: 3]."
+  },
+  {
+    "id": 116,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "Every cross-section of a shaft under twisting moment is subjected to which stress?",
+    "gujaratiQuestion": "0116. ટ્વિસ્ટિંગ મોમેન્ટ હેઠળ રહેલા શાફ્ટનો દરેક ક્રોસ-સેક્શન કયા સ્ટ્રેસ હેઠળ હોય છે?",
+    "options": [
+      "કોમ્પ્રેસિવ સ્ટ્રેસ",
+      "શિયર સ્ટ્રેસ",
+      "ટેન્સાઈલ સ્ટ્રેસ",
+      "બેન્ડિંગ સ્ટ્રેસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટ્વિસ્ટિંગ મોમેન્ટ (ટોર્ક) શાફ્ટના આડછેદ પર શીયર સ્ટ્રેસ પેદા કરે છે[cite: 3]."
+  },
+  {
+    "id": 117,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "During bending, what happens to the length of the neutral axis of a beam?",
+    "gujaratiQuestion": "0117. બૅન્ડિંગ દરમિયાન બીમના ન્યુટ્રલ ઍક્સિસની લંબાઈ પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "કોઈ ફેરફાર થતો નથી",
+      "શૂન્ય થઈ જાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ન્યુટ્રલ લેયરમાં ખેંચાણ કે સંકોચન ન થતું હોવાથી તેની લંબાઈમાં કોઈ ફેરફાર થતો નથી[cite: 3]."
+  },
+  {
+    "id": 118,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "What is the formula to find Section Modulus (Z)?",
+    "gujaratiQuestion": "0118. સેક્શન મોડ્યુલસ (Section modulus) Z શોધવાનું સૂત્ર કયું છે?",
+    "options": [
+      "I · y_max",
+      "I / y_max",
+      "y_max / I",
+      "E / R"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સેક્શન મોડ્યુલસ Z = I / y_max સૂત્ર વડે વ્યાખ્યાયિત થાય છે[cite: 3]."
+  },
+  {
+    "id": 119,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "Polar moment of inertia of a hollow circular shaft is equal to:",
+    "gujaratiQuestion": "0119. હોલો સર્ક્યુલર શાફ્ટનો પોલર મોમેન્ટ ઓફ ઈનર્શિયા કોના બરાબર હોય છે?",
+    "options": [
+      "π(D³ - d³) / 32",
+      "π(D⁴ - d⁴) / 32",
+      "π(D³ - d³) / 64",
+      "π(D⁴ - d⁴) / 64"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હોલો શાફ્ટ માટે પોલર મોમેન્ટ ઓફ ઈનર્શિયા J = π(D⁴ - d⁴) / 32 થાય છે[cite: 3]."
+  },
+  {
+    "id": 120,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "If downward load acts on simply supported beam, what stress is induced in top fibers?",
+    "gujaratiQuestion": "Q120. સિમ્પલી સપોર્ટેડ બીમ પર નીચેની તરફ ભાર લાગતો હોય, તો ઉપરના ફાઈબરમાં કયો સ્ટ્રેસ ઉત્પન્ન થાય છે?",
+    "options": [
+      "ટેન્સાઈલ સ્ટ્રેસ",
+      "શીયર સ્ટ્રેસ",
+      "કોમ્પ્રેસિવ સ્ટ્રેસ",
+      "વોલ્યુમેટ્રિક સ્ટ્રેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "નીચે તરફના ભારથી સેગિંગ થાય છે, જેના લીધે ન્યુટ્રલ એક્સિસની ઉપરના ફાઈબરમાં કોમ્પ્રેસિવ સ્ટ્રેસ ઉત્પન્ન થાય છે[cite: 3]."
+  },
+  {
+    "id": 121,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "If downward load acts on simply supported beam, what stress is induced in bottom fibers?",
+    "gujaratiQuestion": "Q121. સિમ્પલી સપોર્ટેડ બીમ પર નીચેની તરફ ભાર લાગતો હોય, તો નીચેના ફાઈબરમાં કયો સ્ટ્રેસ ઉત્પન્ન થાય છે?",
+    "options": [
+      "કોમ્પ્રેસિવ સ્ટ્રેસ",
+      "ટેન્સાઈલ સ્ટ્રેસ",
+      "શીયર સ્ટ્રેસ",
+      "બેન્ડિંગ શૂન્ય હોય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સેગિંગ બેન્ડિંગને કારણે નીચેના ફાઈબરમાં ખેંચાણ પેદા થવાથી ટેન્સાઈલ સ્ટ્રેસ ઉત્પન્ન થાય છે[cite: 3]."
+  },
+  {
+    "id": 122,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "Select the correct statement:",
+    "gujaratiQuestion": "Q122. સાચું વિધાન પસંદ કરો",
+    "options": [
+      "સમાન મટિરિયલ, સમાન લંબાઈ અને સમાન પોલર મોડ્યુલસ ધરાવતા શાફ્ટની સ્ટ્રેન્થ સમાન હોય છે.",
+      "આપેલ મટિરિયલના શાફ્ટ માટે, પોલર મોડ્યુલસનું મૂલ્ય એ ટોર્શનનો સામનો કરવાની તેની સ્ટ્રેન્થનું માપ છે.",
+      "સમાન લંબાઈ અને સમાન મટિરિયલના અનેક શાફ્ટમાંથી, સૌથી વધુ પોલર મોડ્યુલસ ધરાવતો શાફ્ટ મહત્તમ ટ્વિસ્ટિંગ મોમેન્ટનો સામનો કરશે.",
+      "ઉપરના તમામ."
+    ],
+    "correctAnswer": 3,
+    "explanation": "ટોર્શનલ સ્ટ્રેન્થ પોલર મોડ્યુલસ (Z_p) ના સીધા સમપ્રમાણમાં હોવાથી આપેલા તમામ વિધાનો સાચા છે[cite: 3]."
+  },
+  {
+    "id": 123,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "What is ratio of maximum shear stress to average shear stress in a beam of rectangular cross-section?",
+    "gujaratiQuestion": "Q123. લંબચોરસ આડછેદ (Rectangular cross-section) વાળા બીમમાં મહત્તમ શીયર સ્ટ્રેસ અને સરેરાશ શીયર સ્ટ્રેસનો ગુણોત્તર કેટલો હોય છે?",
+    "options": [
+      "1.2",
+      "1.33",
+      "1.5",
+      "2.0"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લંબચોરસ આડછેદ માટે τ_max = 1.5 × τ_avg (એટલે કે ગુણોત્તર 1.5) થાય છે[cite: 3]."
+  },
+  {
+    "id": 124,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "What is ratio of maximum shear stress to average shear stress in a beam of circular cross-section?",
+    "gujaratiQuestion": "Q124. વર્તુળાકાર આડછેદ (Circular cross-section) વાળા બીમમાં મહત્તમ શીયર સ્ટ્રેસ અને સરેરાશ શીયર સ્ટ્રેસનો ગુણોત્તર કેટલો હોય છે?",
+    "options": [
+      "1.33",
+      "1.5",
+      "2.0",
+      "2.5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વર્તુળાકાર આડછેદ માટે τ_max = (4/3) × τ_avg = 1.33 × τ_avg થાય છે[cite: 3]."
+  },
+  {
+    "id": 125,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "In case of thick cylinders, hoop stress:",
+    "gujaratiQuestion": "0125. થીક સિલિન્ડરોના કિસ્સામાં હૂપ સ્ટ્રેસ:",
+    "options": [
+      "સમાન રીતે વિતરિત (uniformly distributed) હોય છે",
+      "બહારના પરિઘ (circumference) પર મહત્તમથી અંદરના પરિઘ પર ન્યૂનતમ સુધી બદલાય છે",
+      "અંદરના પરિઘ પર મહત્તમથી બહારના પરિઘ પર ન્યૂનતમ સુધી બદલાય છે",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "થીક સિલિન્ડરમાં હૂપ સ્ટ્રેસ અંદરની સપાટી પર મહત્તમ હોય છે અને બહાર તરફ જતાં ઘટીને ન્યૂનતમ થાય છે[cite: 3]."
+  },
+  {
+    "id": 126,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "Where is maximum shear stress observed in an I-section beam?",
+    "gujaratiQuestion": "Q126. I-સેક્શન વાળા બીમમાં મહત્તમ શીયર સ્ટ્રેસ ક્યાં જોવા મળે છે?",
+    "options": [
+      "ફ્લેન્જની ઉપરની સપાટી પર",
+      "ફ્લેન્જની નીચેની સપાટી પર",
+      "ન્યુટ્રલ એક્સિસ પર",
+      "વેબ અને ફ્લેન્જના જોડાણ પર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "I-સેક્શન બીમમાં શીયર સ્ટ્રેસ વેબના મધ્યમાં ન્યુટ્રલ એક્સિસ પર મહત્તમ હોય છે[cite: 3]."
+  },
+  {
+    "id": 127,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "Bending strength of a beam mainly depends on:",
+    "gujaratiQuestion": "Q127. બીમની બેન્ડિંગ મજબૂતી (Strength) મુખ્યત્વે કોના પર આધાર રાખે છે?",
+    "options": [
+      "સેક્શન મોડ્યુલસ",
+      "ન્યુટ્રલ ઍક્સિસ",
+      "શીયર ફોર્સ",
+      "યંગ્સ મોડ્યુલસ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મોમેન્ટ ઓફ રેઝિસ્ટન્સ M = σ × Z હોવાથી બેન્ડિંગ સ્ટ્રેન્થ સેક્શન મોડ્યુલસ (Z) પર આધાર રાખે છે[cite: 3]."
+  },
+  {
+    "id": 128,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "The maximum axial compressive load a column can take without failing by lateral deflection is called:",
+    "gujaratiQuestion": "Q128. લેટરલ ડિફ્લેક્શન દ્વારા ફેલ થયા વિના કોલમ જે મહત્તમ એક્સિયલ કોમ્પ્રેસિવ લોડ લઈ શકે તેને શું કહેવાય છે?",
+    "options": [
+      "ક્રિટિકલ લોડ",
+      "બકલિંગ લોડ",
+      "ક્રિપલિંગ લોડ",
+      "ઉપરનામાંથી કોઇપણ એક"
+    ],
+    "correctAnswer": 3,
+    "explanation": "આ લિમિટિંગ લોડને ક્રિટિકલ લોડ, બકલિંગ લોડ અથવા ક્રિપલિંગ લોડ તરીકે ઓળખવામાં આવે છે[cite: 3]."
+  },
+  {
+    "id": 129,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "What is Flexural Rigidity?",
+    "gujaratiQuestion": "0129. ફ્લેક્સરલ રિજિડિટી (Flexural rigidity) કોને કહેવાય છે?",
+    "options": [
+      "E અને R નો ગુણાકાર",
+      "E અને I નો ગુણાકાર",
+      "G અને I નો ગુણાકાર",
+      "σ અને y નો ગુણાકાર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "યંગ્સ મોડ્યુલસ (E) અને મોમેન્ટ ઓફ ઈનર્શિયા (I) ના ગુણાકાર (EI) ને ફ્લેક્સરલ રિજિડિટી કહે છે[cite: 3]."
+  },
+  {
+    "id": 130,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "If depth of a rectangular beam is doubled keeping width same, its bending strength becomes:",
+    "gujaratiQuestion": "Q130. જો લંબચોરસ બીમની પહોળાઈ સમાન રાખીને ઊંડાઈ (depth) બમણી કરવામાં આવે, તો તેની બેન્ડિંગ મજબૂતી (Strength) કેટલી થશે?",
+    "options": [
+      "અડધી",
+      "બમણી",
+      "ચાર ગણી",
+      "આઠ ગણી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સેક્શન મોડ્યુલસ Z = bd² / 6 હોવાથી ઊંડાઈ d બમણી કરતાં Z ચાર ગણો (2² = 4) થાય છે[cite: 3]."
+  },
+  {
+    "id": 131,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "Slenderness ratio is the ratio of:",
+    "gujaratiQuestion": "0131. સ્લેન્ડરનેસ રેશિયો એ કોનો ગુણોત્તર (ratio) છે?",
+    "options": [
+      "કોલમની ઇક્વિવેલેન્ટ લંબાઈ અને ન્યૂનતમ રેડિયસ ઓફ ગાયરેશન",
+      "કોલમની લંબાઈ અને ન્યૂનતમ રેડિયસ ઓફ ગાયરેશન",
+      "કોલમની લંબાઈ અને કોલમના ક્રોસ-સેક્શનનો એરિયા",
+      "ન્યૂનતમ રેડિયસ ઓફ ગાયરેશન અને કોલમના ક્રોસ-સેક્શનનો એરિયા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્લેન્ડરનેસ રેશિયો λ = લંબાઈ (અથવા અસરકારક લંબાઈ) / લઘુત્તમ રેડિયસ ઓફ ગાયરેશન (k_min)[cite: 3]."
+  },
+  {
+    "id": 132,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "What is the nature of Shear stress distribution for a rectangular beam?",
+    "gujaratiQuestion": "Q132. શીયર સ્ટ્રેસનું વિતરણ (Shear stress distribution) લંબચોરસ બીમ માટે કેવું હોય છે?",
+    "options": [
+      "રેખીય",
+      "પેરાબોલિક",
+      "હાઇપરબોલિક",
+      "લંબચોરસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "લંબચોરસ બીમમાં શીયર સ્ટ્રેસ વિતરણ પેરાબોલિક (Parabolic) હોય છે, જે ન્યુટ્રલ એક્સિસ પર મહત્તમ બને છે[cite: 3]."
+  },
+  {
+    "id": 133,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "Neutral axis passes through which point of a beam cross-section?",
+    "gujaratiQuestion": "0133. ન્યુટ્રલ ઍક્સિસ બીમના કયા બિંદુમાંથી પસાર થાય છે?",
+    "options": [
+      "સૌથી બહારના બિંદુમાંથી",
+      "આડછેદના સેન્ટ્રોઇડ (Centroid) માંથી",
+      "સપોર્ટમાંથી",
+      "છેડામાંથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બીમની ન્યુટ્રલ એક્સિસ હંમેશા તેના ક્રોસ-સેક્શનના સેન્ટ્રોઇડ (Centroid) માંથી પસાર થાય છે[cite: 3]."
+  },
+  {
+    "id": 134,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Energy Methods",
+    "question": "Two identical springs 1 and 2 with stiffness k are in series under force F. What is the strain energy stored in spring 1?",
+    "gujaratiQuestion": "0134. 1 અને 2 લેબલવાળી બે સમાન સ્પ્રિંગ્સને શ્રેણીમાં (series) ગોઠવીને તેના પર ફોર્સ F લગાવવામાં આવે છે. ધારો કે દરેક સ્પ્રિંગનો કોન્સ્ટન્ટ k છે. સ્પ્રિંગ 1 માં સંગ્રહિત સ્ટ્રેઇન એનર્જી કેટલી હશે?",
+    "options": [
+      "F² / (2k)",
+      "F² / (4k)",
+      "F² / (8k)",
+      "F² / (16k)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "દરેક સ્પ્રિંગ પર સમાન બળ F લાગે છે, તેથી એક સ્પ્રિંગમાં સ્ટ્રેઈન એનર્જી U = F² / (2k) થાય (આન્સર કી C મુજબ)[cite: 3]."
+  },
+  {
+    "id": 135,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "Where does maximum bending stress occur in a beam?",
+    "gujaratiQuestion": "Q135. બીમમાં મહત્તમ બેન્ડિંગ સ્ટ્રેસ ક્યાં ઉદભવે છે?",
+    "options": [
+      "ન્યુટ્રલ ઍક્સિસ પર",
+      "સૌથી બહારના ફાઈબરમાં",
+      "સપોર્ટની બરાબર ઉપર",
+      "બીમના સેન્ટ્રોઈડ પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બેન્ડિંગ સ્ટ્રેસ σ ∝ y હોવાથી તે ન્યુટ્રલ એક્સિસથી સૌથી દૂરના (સૌથી બહારના) ફાઇબરમાં મહત્તમ હોય છે[cite: 3]."
+  },
+  {
+    "id": 136,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "Deflection of a beam is inversely proportional to:",
+    "gujaratiQuestion": "0136. બીમનું ડિફ્લેક્શન (Deflection) કોના વ્યસ્ત પ્રમાણમાં (inversely proportional) હોય છે?",
+    "options": [
+      "ભાર",
+      "લંબાઈ",
+      "ફ્લેક્સરલ રિજિડિટી (EI)",
+      "બેન્ડિંગ મોમેન્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડિફ્લેક્શનનું સામાન્ય સૂત્ર δ ∝ 1/EI હોવાથી તે ફ્લેક્સરલ રિજિડિટીના વ્યસ્ત પ્રમાણમાં હોય છે[cite: 3]."
+  },
+  {
+    "id": 137,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Stress",
+    "question": "Principal stresses at a point are σ1 = 80 MPa, σ2 = 30 MPa, and σ3 = -40 MPa. What is maximum shear stress?",
+    "gujaratiQuestion": "0137. એક પોઈન્ટ પર પ્રિન્સિપલ સ્ટ્રેસ σ1, σ2 અને σ3 અનુક્રમે 80 MPa, 30 MPa અને -40 MPa છે. મેક્સિમમ શિયર સ્ટ્રેસ કેટલો હશે?",
+    "options": [
+      "25 MPa",
+      "35 MPa",
+      "55 MPa",
+      "60 MPa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "મહત્તમ શીયર સ્ટ્રેસ τ_max = (σ_max - σ_min) / 2 = [80 - (-40)] / 2 = 120 / 2 = 60 MPa થાય[cite: 3]."
+  },
+  {
+    "id": 138,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "What is the maximum deflection at free end of a cantilever beam with point load (W) at free end?",
+    "gujaratiQuestion": "0138. કેન્ટીલિવર બીમના મુક્ત છેડે બિંદુ ભાર (W) લાગતો હોય, તો મુક્ત છેડે મહત્તમ ડિફ્લેક્શન કેટલું થશે?",
+    "options": [
+      "WL³ / (3EI)",
+      "WL³ / (8EI)",
+      "WL³ / (48EI)",
+      "WL² / (2EI)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મુક્ત છેડે બિંદુ ભાર ધરાવતા કેન્ટિલિવર માટે મહત્તમ ડિફ્લેક્શન δ = WL³ / (3EI) થાય છે[cite: 3]."
+  },
+  {
+    "id": 139,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "What is the maximum deflection at free end of a cantilever beam carrying UDL (w) over full length?",
+    "gujaratiQuestion": "0139. કેન્ટીલિવર બીમ પર પૂરી લંબાઈમાં UDL (w) લાગતો હોય, તો મુક્ત છેડે મહત્તમ ડિફ્લેક્શન કેટલું થશે?",
+    "options": [
+      "wL⁴ / (3EI)",
+      "wL⁴ / (8EI)",
+      "wL³ / (6EI)",
+      "wL³ / (8EI)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આખી લંબાઈ પર UDL ધરાવતા કેન્ટિલિવર માટે મુક્ત છેડે ડિફ્લેક્શન δ = wL⁴ / (8EI) થાય છે[cite: 3]."
+  },
+  {
+    "id": 140,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "If diameter of a long column is reduced by 20%, what is the percentage reduction in Euler's buckling load?",
+    "gujaratiQuestion": "0140. જો લોંગ કોલમનો વ્યાસ 20% ઘટાડવામાં આવે, તો ઓઈલરના બકલિંગ લોડમાં કેટલા ટકાનો ઘટાડો થશે?",
+    "options": [
+      "4%",
+      "36%",
+      "49%",
+      "59%"
+    ],
+    "correctAnswer": 3,
+    "explanation": "P ∝ I ∝ d⁴. નવો વ્યાસ = 0.8d => નવો લોડ = (0.8)⁴ = 0.4096P. ઘટાડો = 1 - 0.4096 = 59.04% ≈ 59%[cite: 3]."
+  },
+  {
+    "id": 141,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "What is maximum deflection for simply supported beam with central point load (W)?",
+    "gujaratiQuestion": "0141. સિમ્પલી સપોર્ટેડ બીમના મધ્યમાં બિંદુ ભાર (W) લાગતો હોય, તો મહત્તમ ડિફ્લેક્શન કેટલું થશે?",
+    "options": [
+      "WL³ / (3EI)",
+      "WL³ / (16EI)",
+      "WL³ / (48EI)",
+      "5WL³ / (384EI)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સેન્ટ્રલ પોઈન્ટ લોડ ધરાવતા સિમ્પલી સપોર્ટેડ બીમ માટે મહત્તમ ડિફ્લેક્શન δ = WL³ / (48EI) થાય છે[cite: 3]."
+  },
+  {
+    "id": 142,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "What is maximum deflection for simply supported beam carrying UDL (w) over full length?",
+    "gujaratiQuestion": "Q142. સિમ્પલી સપોર્ટેડ બીમ પર પૂરી લંબાઈમાં UDL (w) લાગતો હોય, તો મહત્તમ ડિફ્લેક્શન કેટલું થશે?",
+    "options": [
+      "5wL⁴ / (384EI)",
+      "wL⁴ / (48EI)",
+      "wL⁴ / (8EI)",
+      "5wL³ / (384EI)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આખી લંબાઈ પર UDL માટે સિમ્પલી સપોર્ટેડ બીમનું મહત્તમ ડિફ્લેક્શન δ = 5wL⁴ / (384EI) થાય છે[cite: 3]."
+  },
+  {
+    "id": 143,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Energy Methods",
+    "question": "In a perfectly elastic collision:",
+    "gujaratiQuestion": "0143. પર્ફેક્ટલી ઇલાસ્ટિક કોલિઝન (અથડામણ) માં:",
+    "options": [
+      "લિનિયર મોમેન્ટમ અને કાઈનેટિક એનર્જી બંને સંરક્ષિત રહે છે",
+      "માત્ર મોમેન્ટમ સંરક્ષિત રહે છે",
+      "માત્ર કાઈનેટિક એનર્જી સંરક્ષિત રહે છે",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સંપૂર્ણ સ્થિતિસ્થાપક અથડામણમાં રૈખીય વેગમાન અને ગતિજ ઊર્જા બંને સંરક્ષિત રહે છે[cite: 3]."
+  },
+  {
+    "id": 144,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "If length of a cantilever beam is doubled, deflection due to end point load becomes:",
+    "gujaratiQuestion": "0144. જો બીમની લંબાઈ બમણી કરવામાં આવે અને અન્ય પરિબળો સમાન રહે, તો કેન્ટીલિવર બીમના મુક્ત છેડે બિંદુ ભારથી થતું ડિફ્લેક્શન કેટલું થશે?",
+    "options": [
+      "બમણું",
+      "ચાર ગણું",
+      "આઠ ગણું",
+      "સોળ ગણું"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડિફ્લેક્શન δ ∝ L³ હોવાથી લંબાઈ બમણી કરવાથી ડિફ્લેક્શન 2³ = 8 ગણું થાય છે[cite: 3]."
+  },
+  {
+    "id": 145,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "Which method is commonly used to find slope and deflection of a beam?",
+    "gujaratiQuestion": "0145. બીમના ઢાળ (Slope) અને ડિફ્લેક્શન શોધવા માટે સામાન્ય રીતે કઈ રીત વપરાય છે?",
+    "options": [
+      "મેકાઉલેની રીત",
+      "મોહરની રીત",
+      "સ્ટ્રેન એનર્જી રીત",
+      "આપેલ તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "બીમનો સ્લોપ અને ડિફ્લેક્શન શોધવા મેકાઉલે, મોહર અને સ્ટ્રેઈન એનર્જી તમામ રીતો વપરાય છે[cite: 3]."
+  },
+  {
+    "id": 146,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "On the basis of which stress is the thickness of a thin cylinder determined?",
+    "gujaratiQuestion": "0146. થીન સિલિન્ડરની જાડાઈ કોના આધારે નક્કી કરવામાં આવે છે?",
+    "options": [
+      "રેડિયલ સ્ટ્રેસ",
+      "લોન્ગિટ્યુડિનલ સ્ટ્રેસ",
+      "હૂપ સ્ટ્રેસ",
+      "પ્રિન્સિપલ શિયર સ્ટ્રેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હૂપ સ્ટ્રેસ સિલિન્ડરમાં સૌથી મોટો સ્ટ્રેસ હોવાથી જાડાઈ t = Pd / (2σ_permissible) મુજબ નક્કી થાય છે[cite: 3]."
+  },
+  {
+    "id": 147,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "Mohr's theorem uses which diagram to find slope and deflection of a beam?",
+    "gujaratiQuestion": "Q147. મોહરની રીત (Mohr's theorem) બીમનો ઢાળ અને ડિફ્લેક્શન શોધવા માટે કયા ડાયાગ્રામનો ઉપયોગ કરે છે?",
+    "options": [
+      "શીયર ફોર્સ ડાયાગ્રામ",
+      "M/EI ડાયાગ્રામ (બેન્ડિંગ મોમેન્ટ ડાયાગ્રામ)",
+      "સ્ટ્રેસ-સ્ટ્રેન ડાયાગ્રામ",
+      "લોડ ડાયાગ્રામ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોહર્સ થિયરમ (મોમેન્ટ-એરિયા મેથડ) માં M/EI ડાયાગ્રામના ક્ષેત્રફળ અને સેન્ટ્રોઇડનો ઉપયોગ થાય છે[cite: 3]."
+  },
+  {
+    "id": 148,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "How does shear stress vary in a solid shaft due to applied torque?",
+    "gujaratiQuestion": "0148. લગાવેલા ટોર્કને કારણે સોલિડ શાફ્ટમાં ઉત્પન્ન થતા શિયર સ્ટ્રેસનું મૂલ્ય કઈ રીતે બદલાય છે?",
+    "options": [
+      "સેન્ટર પર મહત્તમથી પરિઘ પર શૂન્ય",
+      "સેન્ટર પર શૂન્યથી પરિઘ પર મહત્તમ",
+      "સેન્ટર પર મહત્તમથી પરિઘ પર ન્યૂનતમ (પરંતુ શૂન્ય નહિ)",
+      "સેન્ટર પર ન્યૂનતમ (શૂન્ય નહિ) થી પરિઘ પર મહત્તમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટોર્શન સૂત્ર τ ∝ r મુજબ શીયર સ્ટ્રેસ કેન્દ્ર પર શૂન્ય અને બહારની સપાટી (પરિઘ) પર મહત્તમ હોય છે[cite: 3]."
+  },
+  {
+    "id": 149,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "What is the deflection at both supports of a simply supported beam?",
+    "gujaratiQuestion": "0149. સિમ્પલી સપોર્ટેડ બીમના બંને સપોર્ટ (Supports) પર ડિફ્લેક્શન કેટલું હોય છે?",
+    "options": [
+      "મહત્તમ",
+      "લઘુત્તમ",
+      "શૂન્ય",
+      "અનંત"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સપોર્ટ આગળ બીમ નીચે ખસી શકતો ન હોવાથી ડિફ્લેક્શન હંમેશા શૂન્ય હોય છે[cite: 3]."
+  },
+  {
+    "id": 150,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "What are slope and deflection at fixed support of a beam?",
+    "gujaratiQuestion": "0150. બીમના છેડે જ્યાં ફિક્સ સપોર્ટ (Fixed support) હોય ત્યાં ઢાળ (Slope) અને ડિફ્લેક્શન કેટલા હોય છે?",
+    "options": [
+      "બંને મહત્તમ",
+      "ઢાળ મહત્તમ, ડિફ્લેક્શન શૂન્ય",
+      "ઢાળ શૂન્ય, ડિફ્લેક્શન મહત્તમ",
+      "બંને શૂન્ય"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ફિક્સ સપોર્ટ પર રોટેશન અને ડિસ્પ્લેસમેન્ટ બંને પ્રતિબંધિત હોવાથી સ્લોપ અને ડિફ્લેક્શન બંને શૂન્ય હોય છે[cite: 3]."
+  },
+  {
+    "id": 151,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "When a shaft of diameter (D) is subjected to twisting moment (T) and bending moment (M), what is the formula for equivalent bending moment (Me)?",
+    "gujaratiQuestion": "Q151. જ્યારે વ્યાસ (D) ના શાફ્ટ પર ટ્વિસ્ટિંગ મોમેન્ટ (T) અને બેન્ડિંગ મોમેન્ટ (M) લાગે, ત્યારે ઇક્વિવેલેન્ટ બેન્ડિંગ મોમેન્ટ (Me) નું સૂત્ર શું છે?",
+    "options": [
+      "√(M² + T²)",
+      "√(M² - T²)",
+      "½(M + √(M² + T²))",
+      "½(M + √(M² - T²))"
+    ],
+    "correctAnswer": 2,
+    "explanation": "શાફ્ટ માટે ઇક્વિવેલેન્ટ બેન્ડિંગ મોમેન્ટ Me = ½ [M + √(M² + T²)] થાય છે[cite: 3]."
+  },
+  {
+    "id": 152,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "Which is the correct torsion equation for circular shafts?",
+    "gujaratiQuestion": "0152. સકર્ક્યુલર શાફ્ટ માટે ટોર્શન ઈક્વેશન (Torsion equation) કયું છે?",
+    "options": [
+      "T/J = τ/R = Cθ/L",
+      "T/J = τ/R = Gθ/L",
+      "P/A = σ = Eε",
+      "T/J = R/τ = Gθ/L"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટોર્શનનું મૂળભૂત સમીકરણ T/J = τ/R = Gθ/L છે[cite: 3]."
+  },
+  {
+    "id": 153,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "What is the formula for polar moment of inertia (J) for a solid circular shaft?",
+    "gujaratiQuestion": "0153. સોલિડ સર્ક્યુલર શાફ્ટ માટે પોલર મોમેન્ટ ઓફ ઈનર્શિયા (J) નું સૂત્ર કયું છે?",
+    "options": [
+      "πd⁴ / 64",
+      "πd⁴ / 32",
+      "πd³ / 16",
+      "πd³ / 32"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સોલિડ સર્ક્યુલર શાફ્ટ માટે પોલર મોમેન્ટ ઓફ ઈનર્શિયા J = πd⁴ / 32 થાય છે[cite: 3]."
+  },
+  {
+    "id": 154,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "What type of stress is hoop stress in a thin cylindrical shell?",
+    "gujaratiQuestion": "0154. થીન સિલિન્ડ્રિકલ શેલમાં હૂપ સ્ટ્રેસ કેવો હોય છે?",
+    "options": [
+      "લોન્ગિટ્યુડિનલ સ્ટ્રેસ",
+      "કોમ્પ્રેસિવ સ્ટ્રેસ",
+      "રેડિયલ સ્ટ્રેસ",
+      "સર્કમફરન્શિયલ ટેન્સાઈલ સ્ટ્રેસ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "હૂપ સ્ટ્રેસ પરિઘની દિશામાં લાગતો સર્કમફરન્શિયલ ટેન્સાઈલ સ્ટ્રેસ છે[cite: 3]."
+  },
+  {
+    "id": 155,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "Where does maximum shear stress occur in a circular shaft subjected to torsion?",
+    "gujaratiQuestion": "Q155. ટોર્શન હેઠળ રહેલા સકર્ક્યુલર શાફ્ટમાં મહત્તમ શીયર સ્ટ્રેસ ક્યાં ઉત્પન્ન થાય છે?",
+    "options": [
+      "કેન્દ્ર પર",
+      "અડધી ત્રિજ્યા પર",
+      "શાફ્ટની બહારની સપાટી પર",
+      "લંબાઈની મધ્યમાં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટોર્શનમાં શીયર સ્ટ્રેસ ત્રિજ્યાના સમપ્રમાણમાં હોવાથી બહારની સપાટી પર મહત્તમ હોય છે[cite: 3]."
+  },
+  {
+    "id": 156,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "What is the value of shear stress at the center of a solid circular shaft under torsion?",
+    "gujaratiQuestion": "0156. સોલિડ સર્ક્યુલર શાફ્ટના કેન્દ્ર પર શીયર સ્ટ્રેસનું મૂલ્ય કેટલું હોય છે?",
+    "options": [
+      "મહત્તમ",
+      "સરેરાશ",
+      "શૂન્ય",
+      "અનંત"
+    ],
+    "correctAnswer": 2,
+    "explanation": "શાફ્ટના કેન્દ્ર પર ત્રિજ્યા r = 0 હોવાથી શીયર સ્ટ્રેસ શૂન્ય થાય છે[cite: 3]."
+  },
+  {
+    "id": 157,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Elastic Constants & Poisson's Ratio",
+    "question": "What is the relation between Young's Modulus (E), Poisson's ratio (μ), and Bulk Modulus (K)?",
+    "gujaratiQuestion": "0157. યંગ્સ મોડયુલસ (E), પોઈઝન્સ રેશિયો (μ) અને બલ્ક મોડયુલસ (K) વચ્ચેનો સંબંધ કયો છે?",
+    "options": [
+      "E = 3K(1 - 2μ)",
+      "E = 3K / (1 - 2μ)",
+      "E = 2K(1 + μ)",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "E, K અને μ વચ્ચેનો સાચો સંબંધ E = 3K(1 - 2μ) છે[cite: 3]."
+  },
+  {
+    "id": 158,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "What is the correct formula for power (P) transmitted by a shaft? (N = rpm, T = Torque in N-m)",
+    "gujaratiQuestion": "0158. શાફ્ટ દ્વારા ટ્રાન્સમિટ થતા પાવર (P) નું સાચું સૂત્ર કયું છે? (N = rpm, T = ટોર્ક)",
+    "options": [
+      "2πNT / 60",
+      "πNT / 60",
+      "2πNT / 1000",
+      "πNT / 1000"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પાવર P = 2πNT / 60 વોટ (W) થાય છે[cite: 3]."
+  },
+  {
+    "id": 159,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "For the same material and weight, which shaft can transmit more torque?",
+    "gujaratiQuestion": "Q159. સમાન દ્રવ્ય અને સમાન વજન માટે કયો શાફ્ટ વધુ ટોર્ક ટ્રાન્સમિટ કરી શકે છે?",
+    "options": [
+      "સોલિડ શાફ્ટ",
+      "હોલો શાફ્ટ",
+      "બંને સમાન ટોર્ક ટ્રાન્સમિટ કરે",
+      "કહી શકાય નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હોલો શાફ્ટમાં દ્રવ્ય કેન્દ્રથી વધુ દૂર હોવાથી તેનો પોલર મોડ્યુલસ વધારે હોય છે, તેથી તે વધુ ટોર્ક સહન કરે છે[cite: 3]."
+  },
+  {
+    "id": 160,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "A 1 m diameter metal pipe carries fluid at 1 N/mm² pressure. If permissible tensile stress is 20 N/mm², what thickness is required?",
+    "gujaratiQuestion": "0160. 1 m વ્યાસની મેટલ પાઈપમાં 1 N/mm² પ્રેશર ધરાવતું ફ્લુઇડ ભરેલું છે. જો મેટલનો પરમિસિબલ ટેન્સાઈલ સ્ટ્રેસ 20 N/mm² હોય, તો પાઈપ બનાવવા માટે મેટલની કેટલી જાડાઈ જરૂરી છે?",
+    "options": [
+      "5 mm",
+      "10 mm",
+      "20 mm",
+      "25 mm"
+    ],
+    "correctAnswer": 3,
+    "explanation": "t = Pd / (2σ) = (1 × 1000) / (2 × 20) = 1000 / 40 = 25 mm[cite: 3]."
+  },
+  {
+    "id": 161,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "Torsional rigidity is the product of which of the following?",
+    "gujaratiQuestion": "0161. ટોર્શનલ રિજિડિટી નીચેનામાંથી કોનો ગુણાકાર છે?",
+    "options": [
+      "G અને I",
+      "E અને I",
+      "G અને J",
+      "E અને J"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટોર્શનલ રિજિડિટી = G × J (મોડ્યુલસ ઓફ રિજિડિટી અને પોલર મોમેન્ટ ઓફ ઈનર્શિયાનો ગુણાકાર)[cite: 3]."
+  },
+  {
+    "id": 162,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "What is the relationship between angle of twist (θ) and shaft length (L)?",
+    "gujaratiQuestion": "0162. શાફ્ટનો એન્ગલ ઓફ ટ્વિસ્ટ (θ) શાફ્ટની લંબાઈ (L) સાથે કેવો સંબંધ ધરાવે છે?",
+    "options": [
+      "વ્યસ્ત પ્રમાણ",
+      "સમપ્રમાણ",
+      "વર્ગના સમપ્રમાણ",
+      "કોઈ સંબંધ નથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "θ = TL / (GJ) હોવાથી એન્ગલ ઓફ ટ્વિસ્ટ લંબાઈ L ના સીધા સમપ્રમાણમાં હોય છે[cite: 3]."
+  },
+  {
+    "id": 163,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "A 5 mm steel bar is heated from 15°C to 40°C and allowed to expand freely. What will be induced in the bar?",
+    "gujaratiQuestion": "Q163. 5 mm ના સ્ટીલ બારને 15°C થી 40°C સુધી ગરમ કરવામાં આવે છે અને તે મુક્ત રીતે એક્સપાન્ડ થઈ શકે છે. બારમાં શું ઉત્પન્ન થશે?",
+    "options": [
+      "કોઈ સ્ટ્રેસ નહિ",
+      "શિયર સ્ટ્રેસ",
+      "ટેન્સાઈલ સ્ટ્રેસ",
+      "કોમ્પ્રેસિવ સ્ટ્રેસ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મુક્ત વિસ્તરણ થવાથી કોઈ થર્મલ સ્ટ્રેસ ઉત્પન્ન થતો નથી[cite: 3]."
+  },
+  {
+    "id": 164,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "What is the formula to find maximum shear stress (τ) in a solid circular shaft?",
+    "gujaratiQuestion": "0164. સોલિડ શાફ્ટમાં મહત્તમ શીયર સ્ટ્રેસ (τ) શોધવાનું સૂત્ર કયું છે?",
+    "options": [
+      "16T / (πd³)",
+      "16T / (πd⁴)",
+      "32T / (πd³)",
+      "32T / (πd⁴)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સોલિડ શાફ્ટ માટે મહત્તમ શીયર સ્ટ્રેસ τ = 16T / (πd³) થાય છે[cite: 3]."
+  },
+  {
+    "id": 165,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "When both bending moment (M) and torque (T) act on a shaft, what is the value of equivalent torque (Te)?",
+    "gujaratiQuestion": "0165, જ્યારે શાફ્ટ પર બેન્ડિંગ મોમેન્ટ (M) અને ટોર્ક (T) બંને લાગતા હોય, ત્યારે ઇક્વિવેલેન્ટ ટોર્ક (Te) નું મૂલ્ય કેટલું થાય?",
+    "options": [
+      "M + T",
+      "M² + T²",
+      "√(M² + T²)",
+      "0.5√(M² + T²)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇક્વિવેલેન્ટ ટોર્ક Te = √(M² + T²) થાય છે[cite: 3]."
+  },
+  {
+    "id": 166,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "A copper and steel composite bar is heated to 40°C. What type of stress is induced in the copper bar?",
+    "gujaratiQuestion": "0166. કોપર અને સ્ટીલનો બાર મળીને એક કોમ્પોઝિટ સિસ્ટમ બનાવે છે, જેને 40°C તાપમાન સુધી ગરમ કરવામાં આવે છે. કોપર બારમાં કયો સ્ટ્રેસ ઉત્પન્ન થશે?",
+    "options": [
+      "ટેન્સાઈલ",
+      "કોમ્પ્રેસિવ",
+      "શિયર",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કોપરનો થર્મલ એક્સપાન્શન ગુણાંક સ્ટીલ કરતાં વધુ હોવાથી કોપર વિસ્તરણ રોકાતાં કોમ્પ્રેસિવ સ્ટ્રેસ અનુભવે છે[cite: 3]."
+  },
+  {
+    "id": 167,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "What is the formula for equivalent bending moment (Me)?",
+    "gujaratiQuestion": "0167. ઇક્વિવેલેન્ટ બેન્ડિંગ મોમેન્ટ (Me) નું સૂત્ર કયું છે?",
+    "options": [
+      "0.5[M + √(M² + T²)]",
+      "0.5[M - √(M² + T²)]",
+      "M + √(M² + T²)",
+      "√(M² + T²)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇક્વિવેલેન્ટ બેન્ડિંગ મોમેન્ટ Me = 0.5[M + √(M² + T²)] છે[cite: 3]."
+  },
+  {
+    "id": 168,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "Under torsion, the strength of a shaft mainly depends on:",
+    "gujaratiQuestion": "0168. ટોર્શન હેઠળ શાફ્ટની સ્ટ્રેન્થ મુખ્યત્વે કોના પર આધાર રાખે છે?",
+    "options": [
+      "યંગ્સ મોડ્યુલસ",
+      "સેક્શન મોડ્યુલસ",
+      "પોલર મોડ્યુલસ",
+      "રેડિયસ ઓફ ગાયરેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટોર્શનલ સ્ટ્રેન્થ T = τ × Z_p હોવાથી પોલર મોડ્યુલસ પર આધાર રાખે છે[cite: 3]."
+  },
+  {
+    "id": 169,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "Simply supported beam A has central load W, beam B has total UDL = W. What is ratio of max deflection of A to B?",
+    "gujaratiQuestion": "Q169. સિમ્પલી સપોર્ટેડ બીમ 'A' પર સેન્ટ્રલ પૉઈન્ટ લોડ W લાગે છે. બીજા બીમ 'B' પર એવો યુનિફોર્મલી ડિસ્ટ્રિબ્યુટેડ લૉડ (UDL) લાગે છે કે જેથી બીમ પરનો કુલ લોડ W થાય. બીમ A અને B ના મેક્સિમમ ડિફ્લેક્શનનો ગુણોત્તર (ratio) કેટલો હશે?",
+    "options": [
+      "5/8",
+      "8/5",
+      "5/4",
+      "4/5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "δA = WL³/(48EI) અને δB = 5WL³/(384EI). δA/δB = (1/48) / (5/384) = 384 / 240 = 8/5[cite: 3]."
+  },
+  {
+    "id": 170,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "A vertical member subjected to an axial compressive load is called:",
+    "gujaratiQuestion": "0170. શિરોલંબ દિશામાં રહેલા મેમ્બર પર એક્સિયલ કોમ્પ્રેસિવ લોડ લાગતો હોય, તો તેને શું કહેવાય છે?",
+    "options": [
+      "બીમ",
+      "શાફ્ટ",
+      "કોલમ",
+      "સ્ટ્રટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "શિરોલંબ એક્સિયલ કોમ્પ્રેસિવ મેમ્બરને કોલમ કહેવાય છે[cite: 3]."
+  },
+  {
+    "id": 171,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "Long columns mainly fail by which mechanism?",
+    "gujaratiQuestion": "0171. લોંગ કોલમ મુખ્યત્વે કઈ રીતે ફેલ થાય છે?",
+    "options": [
+      "ડાયરેક્ટ ક્રશિંગ દ્વારા",
+      "માત્ર શીયર દ્વારા",
+      "બકલિંગ દ્વારા",
+      "ટેન્શન દ્વારા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લોંગ કોલમ ક્રશિંગ સ્ટ્રેસ સુધી પહોંચ્યા વિના બકલિંગ (વળવા) ને લીધે ફેલ થાય છે[cite: 3]."
+  },
+  {
+    "id": 172,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "For a fixed beam of length L carrying central point load W, what is the maximum deflection?",
+    "gujaratiQuestion": "Q172. L લંબાઈના ફિક્સ્ડ બીમ પર સેન્ટ્રલ પોઈન્ટ લોડ W લાગતો હોય, તો તેનું મહત્તમ ડિફ્લેક્શન કેટલું હશે?",
+    "options": [
+      "WL³ / (48EI)",
+      "WL³ / (96EI)",
+      "WL³ / (192EI)",
+      "WL³ / (384EI)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફિક્સ્ડ બીમમાં સેન્ટ્રલ પોઈન્ટ લોડ માટે મહત્તમ ડિફ્લેક્શન δ = WL³ / (192EI) થાય છે[cite: 3]."
+  },
+  {
+    "id": 173,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "Short columns generally fail by which mechanism?",
+    "gujaratiQuestion": "Q173. શોર્ટ કોલમ સામાન્ય રીતે કઈ રીતે ફેલ થાય છે?",
+    "options": [
+      "ડાયરેક્ટ ક્રશિંગ દ્વારા",
+      "બકલિંગ દ્વારા",
+      "બેન્ડિંગ દ્વારા",
+      "ટોર્શન દ્વારા"
+    ],
+    "correctAnswer": 0,
+    "explanation": "શોર્ટ કોલમ બકલ થયા વિના સીધા ક્રશિંગ (Direct crushing) દ્વારા ફેલ થાય છે[cite: 3]."
+  },
+  {
+    "id": 174,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "Euler's theory can be applied to which type of column?",
+    "gujaratiQuestion": "Q174. યૂલરની થીયરી (Euler's theory) કયા પ્રકારના કોલમ માટે લાગુ પાડી શકાય છે?",
+    "options": [
+      "શોર્ટ કોલમ",
+      "મીડિયમ કોલમ",
+      "લોંગ કોલમ",
+      "આપેલ તમામ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઓઈલરની થીયરી માત્ર લોંગ કોલમ (જે બકલિંગ દ્વારા ફેલ થાય છે) માટે લાગુ પડે છે[cite: 3]."
+  },
+  {
+    "id": 175,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "Diameter of shaft A is twice that of shaft B of same material and speed. Maximum power transmitted by shaft B is:",
+    "gujaratiQuestion": "Q175. શાફ્ટ A નો વ્યાસ શાફ્ટ B ના વ્યાસ કરતા બમણો છે અને બંને સમાન મટિરિયલમાંથી બનેલા છે. ધારો કે બંને શાફ્ટ સમાન સ્પીડ પર ફરે છે, તો શાફ્ટ B દ્વારા ટ્રાન્સમિટ થતો મેક્સિમમ પાવર કેટલો હશે?",
+    "options": [
+      "શાફ્ટ A જેટલો જ",
+      "શાફ્ટ A ના અડધો",
+      "શાફ્ટ A ના 1/8 જેટલો",
+      "શાફ્ટ A ના 1/4 જેટલો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પાવર P ∝ T ∝ d³. dB = dA/2 હોવાથી PB = PA / 2³ = PA / 8 થાય છે[cite: 3]."
+  },
+  {
+    "id": 176,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "Rankine's theory can be used for which columns?",
+    "gujaratiQuestion": "Q176. રેન્કિનની થીયરી (Rankine's theory) કયા કોલમ માટે વાપરી શકાય છે?",
+    "options": [
+      "માત્ર લોંગ કોલમ",
+      "માત્ર શોર્ટ કોલમ",
+      "શોર્ટ અને લોંગ બંને માટે",
+      "માત્ર આડા મેમ્બર માટે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રેન્કિન-ગોર્ડન ફોર્મ્યુલા શોર્ટ અને લોંગ બંને પ્રકારની કોલમ માટે વાપરી શકાય છે[cite: 3]."
+  },
+  {
+    "id": 179,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "When both ends of a column are hinged, what is its effective length?",
+    "gujaratiQuestion": "Q179. જ્યારે કોલમના બંને છેડા હિંજ હોય, ત્યારે તેની ઈફેક્ટિવ લંબાઈ કેટલી થાય છે?",
+    "options": [
+      "L",
+      "L / 2",
+      "L / √2",
+      "2L"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બંને છેડે હિન્જ્ડ કોલમ માટે ઇફેક્ટિવ લંબાઈ Le = L થાય છે[cite: 3]."
+  },
+  {
+    "id": 180,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "When both ends of a column are fixed, what is its effective length?",
+    "gujaratiQuestion": "0180. જ્યારે કોલમના બંને છેડા ફિક્સ હોય, ત્યારે તેની ઇફેક્ટિવ લંબાઈ કેટલી થાય છે?",
+    "options": [
+      "L",
+      "L / 2",
+      "L / √2",
+      "2L"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બંને છેડે ફિક્સ કોલમ માટે ઇફેક્ટિવ લંબાઈ Le = L / 2 થાય છે[cite: 3]."
+  },
+  {
+    "id": 181,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "Torsional rigidity of a shaft is equal to:",
+    "gujaratiQuestion": "Q181. શાફ્ટની ટોર્શનલ રિજિડિટી કોના બરાબર હોય છે?",
+    "options": [
+      "મોડ્યુલસ ઓફ રિજિડિટી અને પોલર મોમેન્ટ ઓફ ઇનર્શિયાનો ગુણાકાર (product)",
+      "મોડ્યુલસ ઓફ રિજિડિટી અને પોલર મોમેન્ટ ઓફ ઈનર્શિયાનો સરવાળો",
+      "મોડ્યુલસ ઓફ રિજિડિટી અને પોલર મોમેન્ટ ઓફ ઇનર્શિયાનો તફાવત",
+      "મોડ્યુલસ ઓફ રિજિડિટી અને પોલર મોમેન્ટ ઓફ ઇનર્શિયાનો ગુણોત્તર (ratio)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ટોર્શનલ રિજિડિટી એટલે G અને J નો ગુણાકાર[cite: 3]."
+  },
+  {
+    "id": 182,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "When one end of a column is fixed and other end is free, its effective length is:",
+    "gujaratiQuestion": "Q182. જ્યારે કોલમનો એક છેડો ફિક્સ અને બીજો છેડો ફ્રી હોય, ત્યારે તેની ઈફેક્ટિવ લંબાઈ કેટલી ગણાય છે?",
+    "options": [
+      "L",
+      "L / 2",
+      "L / √2",
+      "2L"
+    ],
+    "correctAnswer": 3,
+    "explanation": "એક છેડે ફિક્સ અને બીજે ફ્રી કોલમ માટે Le = 2L ગણાય છે[cite: 3]."
+  },
+  {
+    "id": 183,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "When one end of a column is fixed and other end is hinged, its effective length is:",
+    "gujaratiQuestion": "Q183. જ્યારે કોલમનો એક છેડો ફિક્સ અને બીજો છેડો હિંજ હોય, ત્યારે ઇફેક્ટિવ લંબાઈ કેટલી ગણાય છે?",
+    "options": [
+      "L",
+      "L / 2",
+      "L / √2",
+      "2L"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એક છેડે ફિક્સ અને બીજે હિન્જ્ડ કોલમ માટે Le = L / √2 થાય છે[cite: 3]."
+  },
+  {
+    "id": 184,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Stress",
+    "question": "Principal stresses at a point are 80 MPa, 30 MPa, and -40 MPa. What is maximum shear stress?",
+    "gujaratiQuestion": "Q184. એક પોઈન્ટ પર પ્રિન્સિપલ સ્ટ્રેસ 1, 2 અને 3 અનુક્રમે 80 MPa, 30 MPa અને – 40 MPa છે. મેક્સિમમ શિયર સ્ટ્રેસ કેટલો હશે?",
+    "options": [
+      "25 MPa",
+      "35 MPa",
+      "55 MPa",
+      "60 MPa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "τ_max = (80 - (-40)) / 2 = 120 / 2 = 60 MPa[cite: 3]."
+  },
+  {
+    "id": 185,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "What is the general formula for Euler's Critical load?",
+    "gujaratiQuestion": "Q185. યૂલરના ક્રિટિકલ લોડ (Critical load) નું સામાન્ય સૂત્ર કયું છે?",
+    "options": [
+      "π²EI / Le²",
+      "πEI / Le²",
+      "π²EI / Le",
+      "πE / (I²Le)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઓઈલર ક્રિટિકલ લોડ P_cr = π²EI / Le² છે[cite: 3]."
+  },
+  {
+    "id": 186,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "What is the effect of increasing slenderness ratio on load carrying capacity of a column?",
+    "gujaratiQuestion": "0186. સ્લેન્ડરનેસ રેશિયો વધવાથી કોલમની લોડ સહન કરવાની ક્ષમતા પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "પહેલા વધે છે પછી ઘટે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "P_cr ∝ 1/λ² હોવાથી સ્લેન્ડરનેસ રેશિયો વધતાં કોલમની ભાર વહન ક્ષમતા ઘટે છે[cite: 3]."
+  },
+  {
+    "id": 187,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "Which cross-section of a beam is preferred for bending loads?",
+    "gujaratiQuestion": "0187. બેન્ડિંગ લોડ્સ માટે બીમનો કયો ક્રોસ-સેક્શન વધુ પસંદ કરવામાં આવે છે (preferable)?",
+    "options": [
+      "સર્ક્યુલર",
+      "એન્યુલર સર્ક્યુલર",
+      "રેક્ટેગ્યુલર",
+      "I-સેક્શન"
+    ],
+    "correctAnswer": 3,
+    "explanation": "I-સેક્શનમાં ફ્લેન્જ્સ વધુ દૂર હોવાથી ઓછું વજન રાખીને મોટો સેક્શન મોડ્યુલસ મળે છે[cite: 3]."
+  },
+  {
+    "id": 188,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Energy Methods",
+    "question": "Energy stored in a body by applying external force within elastic limit is called:",
+    "gujaratiQuestion": "0188. ઈલાસ્ટિક લિમિટની અંદર પદાર્થ પર બાહ્ય બળ લગાડવાથી પદાર્થમાં સંગ્રહિત થતી ઊર્જાને શું કહેવાય છે?",
+    "options": [
+      "કાઈનેટિક એનર્જી",
+      "પોટેન્શિયલ એનર્જી",
+      "સ્ટ્રેન એનર્જી",
+      "હીટ એનર્જી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્થિતિસ્થાપક સીમાની અંદર વિરૂપણ દરમિયાન સંગ્રહિત થતી ઊર્જાને સ્ટ્રેઈન એનર્જી (Strain energy) કહે છે[cite: 3]."
+  },
+  {
+    "id": 189,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Energy Methods",
+    "question": "What is the formula for strain energy stored due to gradually applied load? (V = volume)",
+    "gujaratiQuestion": "0189. ગ્રેજ્યુઅલી એપ્લાઈડ લોડને કારણે સંગ્રહિત સ્ટ્રેન એનર્જીનું સૂત્ર કયું છે? (V = વોલ્યુમ)",
+    "options": [
+      "(σ / ε)V",
+      "(σ² / 2E)V",
+      "(σ² / E)V",
+      "(σ / 2E)V"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટ્રેઈન એનર્જી U = (σ² / 2E) × V થાય છે[cite: 3]."
+  },
+  {
+    "id": 190,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "In a given material, strain is the ratio of:",
+    "gujaratiQuestion": "0190. આપેલ મટિરિયલમાં સ્ટ્રેઈન એ કોનો ગુણોત્તર (ratio) છે?",
+    "options": [
+      "એપ્લાઇડ લોડ અને લોડનો વિરોધ કરતા ક્રોસ-સેક્શનલ એરિયાનો",
+      "ડાયમેન્શનમાં થતા ફેરફાર અને ઓરિજિનલ ડાયમેન્શનનો",
+      "એપ્લાઇડ લોડ અને ઓરિજિનલ ડાયમેન્શનનો",
+      "ડાયમેન્શનમાં થતા ફેરફાર અને લોડનો વિરોધ કરતા ક્રોસ-સેક્શનલ એરિયાનો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટ્રેઈન એ પરિમાણમાં થતા ફેરફાર અને મૂળ પરિમાણનો ગુણોત્તર (ΔL/L) છે[cite: 3]."
+  },
+  {
+    "id": 191,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Energy Methods",
+    "question": "Maximum strain energy stored in a body up to the elastic limit is called:",
+    "gujaratiQuestion": "0191. ઈલાસ્ટિક લિમિટ સુધી પદાર્થમાં સંગ્રહિત થતી મહત્તમ સ્ટ્રેન એનર્જીને શું કહેવાય છે?",
+    "options": [
+      "રેઝિલિયન્સ",
+      "પ્રૂફ રેઝિલિયન્સ",
+      "ટફનેસ",
+      "મોડ્યુલસ ઓફ ટફનેસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્થિતિસ્થાપક સીમા સુધી સંગ્રહિત મહત્તમ સ્ટ્રેઈન ઊર્જાને પ્રૂફ રેઝિલિયન્સ (Proof resilience) કહેવાય છે[cite: 3]."
+  },
+  {
+    "id": 192,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Energy Methods",
+    "question": "What is Modulus of Resilience?",
+    "gujaratiQuestion": "0192. મોડયુલસ ઓફ રેઝિલિયન્સ કોને કહેવાય છે?",
+    "options": [
+      "પ્રૂફ રેઝિલિયન્સ પ્રતિ યુનિટ લંબાઈ",
+      "પ્રૂફ રેઝિલિયન્સ પ્રતિ યુનિટ વોલ્યુમ",
+      "પ્રૂફ રેઝિલિયન્સ પ્રતિ યુનિટ એરિયા",
+      "પ્રૂફ રેઝિલિયન્સનો વર્ગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એકમ કદ દીઠ પ્રૂફ રેઝિલિયન્સને મોડ્યુલસ ઓફ રેઝિલિયન્સ કહે છે[cite: 3]."
+  },
+  {
+    "id": 193,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "Match List-I (Beam condition) with List-II (Bending Moment Diagram shape):",
+    "gujaratiQuestion": "Q193. Match List-I with List-II and select the answer from the codes given below:\nList-I (બીમની સ્થિતિ):\na. કેન્ટિલિવરના છેડે બેન્ડિંગ મોમેન્ટ લાગતી હોય\nb. કેન્ટિલિવર આખી લંબાઈ પર UDL ધરાવતો હોય\nc. કેન્ટિલિવર આખી લંબાઈ પર UVL ધરાવતો હોય\nd. સિમ્પલી સપૉર્ટેડ બીમમાં સેન્ટર પર લોડ હોય\nList-II (બેન્ડિંગ મોમેન્ટ ડાયાગ્રામ):\n1. ત્રિકોણ (Triangle)\n2. ક્યુબિક કર્વ (Cubic curve)\n3. પેરાબોલા (Parabola)\n4. લંબચોરસ (Rectangle)",
+    "options": [
+      "a-4, b-1, c-2, d-3",
+      "a-4, b-3, c-2, d-1",
+      "a-3, b-4, c-2, d-1",
+      "a-3, b-4, c-1, d-2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "છેડે મોમેન્ટ => લંબચોરસ (4), UDL => પેરાબોલા (3), UVL => ક્યુબિક (2), સેન્ટ્રલ પોઈન્ટ લોડ => ત્રિકોણ (1). સાચો કોડ: a-4, b-3, c-2, d-1[cite: 3]."
+  },
+  {
+    "id": 194,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Energy Methods",
+    "question": "Stress produced due to suddenly applied load is how many times the stress due to gradually applied load?",
+    "gujaratiQuestion": "0194. સડનલી એપ્લાઈડ લોડ (અચાનક લાગતા ભાર) ને કારણે ઉત્પન્ન થતો સ્ટ્રેસ ગ્રેજ્યુઅલી એપ્લાઈડ લોડ કરતા કેટલા ગણો હોય છે?",
+    "options": [
+      "સમાન",
+      "બમણો",
+      "ત્રણ ગણો",
+      "અડધો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અચાનક લાગતા ભારને લીધે પેદા થતો સ્ટ્રેસ ક્રમિક લાગતા ભાર કરતાં બમણો (2 ગણો) હોય છે[cite: 3]."
+  },
+  {
+    "id": 195,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Energy Methods",
+    "question": "Stress produced due to impact load compared to stress due to suddenly applied load is:",
+    "gujaratiQuestion": "0195. ઈમ્પેક્ટ લોડ લાગવાથી પદાર્થમાં ઉત્પન્ન થતો સ્ટ્રેસ સડનલી એપ્લાઈડ લોડના સ્ટ્રેસ કરતા કેવો હોય છે?",
+    "options": [
+      "ઓછો",
+      "સમાન",
+      "વધુ",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 2,
+    "explanation": "અમુક ઊંચાઈથી પડતા ઈમ્પેક્ટ લોડનો સ્ટ્રેસ સડન લોડ કરતાં પણ ઘણો વધારે હોય છે[cite: 3]."
+  },
+  {
+    "id": 196,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "What is the correct chronological order of points appearing during tensile test of mild steel?",
+    "gujaratiQuestion": "0196. સામાન્ય રીતે, સ્ટીલ માટે સ્ટ્રેસ-સ્ટ્રેઈન પ્લોટ પર નીચેના પોઇન્ટ્સ જોવા મળે છે: a. ઈલાસ્ટિક લિમિટ, b. યીલ્ડ પોઈન્ટ, c. અલ્ટિમેટ સ્ટ્રેન્થ, d. રપ્ચર સ્ટ્રેન્થ. સાચો ક્રમ કયો છે?",
+    "options": [
+      "d-a-b-c",
+      "a-c-b-d",
+      "a-c-d-b",
+      "a-b-c-d"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સાચો ક્રમ: ઈલાસ્ટિક લિમિટ (a) -> યીલ્ડ પોઈન્ટ (b) -> અલ્ટિમેટ સ્ટ્રેન્થ (c) -> રપ્ચર/ફ્રેક્ચર સ્ટ્રેન્થ (d)[cite: 3]."
+  },
+  {
+    "id": 197,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Energy Methods",
+    "question": "Total strain energy absorbed up to fracture of a material is called:",
+    "gujaratiQuestion": "0197. પદાર્થમાં ફ્રેક્ચર થાય ત્યાં સુધી શોષાયેલી કુલ સ્ટ્રેન એનર્જીને શું કહેવાય છે?",
+    "options": [
+      "પ્રૂફ રેઝિલિયન્સ",
+      "ટફનેસ",
+      "હાર્ડનેસ",
+      "ફટિગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફ્રેક્ચર પોઈન્ટ સુધી શોષાયેલી કુલ ઊર્જાને ટફનેસ (Toughness) કહેવામાં આવે છે[cite: 3]."
+  },
+  {
+    "id": 198,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Energy Methods",
+    "question": "What is the unit of strain energy?",
+    "gujaratiQuestion": "0198. સ્ટ્રેન એનર્જીનો એકમ કયો છે?",
+    "options": [
+      "ન્યૂટન",
+      "વોટ",
+      "જૂલ",
+      "પાસ્કલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્ટ્રેઈન એનર્જી એ ઊર્જાનું સ્વરૂપ હોવાથી તેનો એકમ જૂલ (Joule અથવા N-m) છે[cite: 3]."
+  },
+  {
+    "id": 199,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "After tensile test on a round bar, diameter at fracture remains almost unchanged. The material tested was:",
+    "gujaratiQuestion": "0199. રાઉન્ડ બાર પર ટેન્સાઈલ ટેસ્ટ કરવામાં આવે છે. ફ્રેક્ચર પછી એવું જોવા મળે છે કે ફ્રેક્ચરના સ્થાને વ્યાસ લગભગ સમાન રહે છે. આ ટેસ્ટ હેઠળનું મટિરિયલ કયું હતું?",
+    "options": [
+      "માઇલ્ડ સ્ટીલ",
+      "કાસ્ટ આયર્ન",
+      "કોપર",
+      "એલ્યુમિનિયમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કાસ્ટ આયર્ન બરડ (Brittle) હોવાથી તેમાં નેકિંગ થતું નથી અને વ્યાસ લગભગ સમાન રહે છે[cite: 3]."
+  },
+  {
+    "id": 200,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Energy Methods",
+    "question": "Resilience indicates which property of a material?",
+    "gujaratiQuestion": "0200. રેઝિલિયન્સ પદાર્થનો કયો ગુણધર્મ દર્શાવે છે?",
+    "options": [
+      "આંચકા (શોક) સહન કરવાની ક્ષમતા",
+      "કપાવાની ક્ષમતા",
+      "ઘસાવાની ક્ષમતા",
+      "ઉષ્મા સહન કરવાની ક્ષમતા"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રેઝિલિયન્સ એ સ્થિતિસ્થાપક સીમામાં આંચકા કે શોક લોડ સહન કરવાની ક્ષમતા દર્શાવે છે[cite: 3]."
+  },
+  {
+    "id": 201,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Energy Methods",
+    "question": "Strain energy is directly proportional to:",
+    "gujaratiQuestion": "0201. સ્ટ્રેન એનર્જી કોના સમપ્રમાણમાં હોય છે?",
+    "options": [
+      "સ્ટ્રેસના",
+      "સ્ટ્રેસના વર્ગના",
+      "સ્ટ્રેસના ઘનના",
+      "સ્ટ્રેનના વર્ગમૂળના"
+    ],
+    "correctAnswer": 1,
+    "explanation": "U = (σ² / 2E) × V મુજબ સ્ટ્રેઈન એનર્જી સ્ટ્રેસના વર્ગ (σ²) ના સમપ્રમાણમાં હોય છે[cite: 3]."
+  },
+  {
+    "id": 202,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "For given cantilever carrying UVL of w kN/m at fixed end A to 0 at B, maximum bending moment at A is:",
+    "gujaratiQuestion": "0202. આપેલ બીમ માટે 'A' પર મહત્તમ બેન્ડિંગ મોમેન્ટ કેટલું હશે?",
+    "options": [
+      "wL⁴ / 6",
+      "-wL³ / 6",
+      "-wL² / 6",
+      "wL² / 6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફિક્સ છેડે મહત્તમ મોમેન્ટ હોગિંગ હોવાથી M = - (wL/2) × (L/3) = -wL² / 6 થાય[cite: 3]."
+  },
+  {
+    "id": 203,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "Which test is mainly performed on a Universal Testing Machine (UTM)?",
+    "gujaratiQuestion": "Q203. યુનિવર્સલ ટેસ્ટિંગ મશીન (UTM) પર મુખ્યત્વે કયો ટેસ્ટ કરવામાં આવે છે?",
+    "options": [
+      "હાર્ડનેસ ટેસ્ટ",
+      "ઈમ્પેક્ટ ટેસ્ટ",
+      "ટેન્સાઈલ ટેસ્ટ",
+      "ફટિગ ટેસ્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "UTM પર મુખ્યત્વે ટેન્સાઈલ ટેસ્ટ અને કોમ્પ્રેશન ટેસ્ટ કરવામાં આવે છે[cite: 3]."
+  },
+  {
+    "id": 204,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "What is commonly used as an indenter in Brinell Hardness Test?",
+    "gujaratiQuestion": "0204. બ્રિનેલ હાર્ડનેસ ટેસ્ટમાં ઈન્ડેન્ટર તરીકે સામાન્ય રીતે શાનો ઉપયોગ થાય છે?",
+    "options": [
+      "ડાયમંડ કોન",
+      "ડાયમંડ પિરામિડ",
+      "હાર્ડન સ્ટીલ બોલ",
+      "કટીંગ ટૂલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બ્રિનેલ ટેસ્ટમાં 10 mm વ્યાસનો હાર્ડન સ્ટીલ બોલ અથવા ટંગસ્ટન કાર્બાઈડ બોલ વપરાય છે[cite: 3]."
+  },
+  {
+    "id": 205,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Deflection of Beams",
+    "question": "What is the formula for maximum deflection of a cantilever beam of length L carrying force P at free end?",
+    "gujaratiQuestion": "0205. ફ્રી એન્ડ પર ફોર્સ P ધરાવતા L લંબાઈના કેન્ટિલિવર બીમ માટે મેક્સિમમ ડિફ્લેક્શનનું સૂત્ર કયું છે?",
+    "options": [
+      "PL³ / (3EI)",
+      "PL² / (6EI)",
+      "PL³ / (8EI)",
+      "PL³ / (48EI)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "છેડે પોઈન્ટ લોડ P ધરાવતા કેન્ટિલિવરનું મહત્તમ ડિફ્લેક્શન δ = PL³ / (3EI) થાય છે[cite: 3]."
+  },
+  {
+    "id": 206,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "What is the shape of the indenter in Vickers Hardness Test?",
+    "gujaratiQuestion": "0206. વિકર્સ હાર્ડનેસ ટેસ્ટમાં ઇન્ડેન્ટર કયા આકારનો હોય છે?",
+    "options": [
+      "ગોળાકાર",
+      "શંકુ આકાર",
+      "ચોરસ પાયાવાળો પિરામિડ આકાર",
+      "નળાકાર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વિકર્સ હાર્ડનેસ ટેસ્ટમાં 136° ખૂણાવાળો ચોરસ પાયા ધરાવતો ડાયમંડ પિરામિડ વપરાય છે[cite: 3]."
+  },
+  {
+    "id": 207,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "Which indenter is used for Scale C in Rockwell Hardness Test?",
+    "gujaratiQuestion": "0207. રોકવેલ હાર્ડનેસ ટેસ્ટમાં સ્કેલ C માટે કયો ઈન્ડેન્ટર વપરાય છે?",
+    "options": [
+      "સ્ટીલ બોલ",
+      "ડાયમંડ કોન",
+      "ડાયમંડ પિરામિડ",
+      "ટંગસ્ટન કાર્બાઈડ બોલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રોકવેલ C સ્કેલ (HRC) માટે 120° નો ડાયમંડ કોન (Brale indenter) વપરાય છે[cite: 3]."
+  },
+  {
+    "id": 208,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Stress",
+    "question": "In a plane stress problem, if σ1 = 100 MPa and σ2 = 40 MPa, what is maximum shear stress (in MPa)?",
+    "gujaratiQuestion": "0208. જો પ્લેન સ્ટ્રેસ પ્રોબ્લેમમાં પ્રિન્સિપલ સ્ટ્રેસ σ1 = 100 MPa અને σ2 = 40 MPa હોય, તો મેક્સિમમ શિયર સ્ટ્રેસનું મૂલ્ય (MPa માં) કેટલું હશે?",
+    "options": [
+      "60",
+      "50",
+      "30",
+      "20"
+    ],
+    "correctAnswer": 2,
+    "explanation": "τ_max = (σ1 - σ2) / 2 = (100 - 40) / 2 = 60 / 2 = 30 MPa[cite: 3]."
+  },
+  {
+    "id": 209,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "Which test is used to measure impact strength (toughness) of a material?",
+    "gujaratiQuestion": "0209. પદાર્થની ઈમ્પેક્ટ સ્ટ્રેન્થ (ટફનેસ) માપવા માટે કયો ટેસ્ટ વપરાય છે?",
+    "options": [
+      "બ્રિનેલ ટેસ્ટ",
+      "આઈઝોડ અને ચાર્પી ટેસ્ટ",
+      "ટેન્સાઈલ ટેસ્ટ",
+      "કપિંગ ટેસ્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઈમ્પેક્ટ સ્ટ્રેન્થ માપવા માટે ચાર્પી અને આઈઝોડ ઈમ્પેક્ટ ટેસ્ટ વપરાય છે[cite: 3]."
+  },
+  {
+    "id": 210,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "How is the specimen held in Izod Impact Test?",
+    "gujaratiQuestion": "0210. આઈઝોડ ઈમ્પેક્ટ ટેસ્ટમાં સ્પેસિમેનને કઈ રીતે પકડવામાં આવે છે?",
+    "options": [
+      "સિમ્પલી સપોર્ટેડ તરીકે",
+      "કેન્ટીલિવર તરીકે",
+      "મુક્ત રીતે",
+      "બંને છેડેથી ખેંચીને"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આઈઝોડ ટેસ્ટમાં સ્પેસિમેનને ઊભું રાખીને કેન્ટિલિવર બીમ તરીકે પકડવામાં આવે છે[cite: 3]."
+  },
+  {
+    "id": 212,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "How is the specimen placed in Charpy Impact Test?",
+    "gujaratiQuestion": "Q212. ચાર્પી ઇમ્પેક્ટ ટેસ્ટમાં સ્પેસિમેનને કઈ રીતે રાખવામાં આવે છે?",
+    "options": [
+      "સિમ્પલી સપોર્ટેડ તરીકે",
+      "કેન્ટીલિવર તરીકે",
+      "શિરોલંબ લટકાવીને",
+      "કોઈ પણ રીતે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ચાર્પી ટેસ્ટમાં સ્પેસિમેનને આડું સિમ્પલી સપોર્ટેડ બીમ તરીકે રાખવામાં આવે છે[cite: 3]."
+  },
+  {
+    "id": 213,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "Ability of a material to resist scratching or indentation is called:",
+    "gujaratiQuestion": "0213. મટીરીયલની સ્ક્રેચિંગ અથવા ઈન્ડેન્ટેશનનો વિરોધ કરવાની ક્ષમતાને શું કહેવાય છે?",
+    "options": [
+      "ટફનેસ",
+      "હાર્ડનેસ",
+      "મેલિએબિલિટી",
+      "ડક્ટિલિટી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ક્રેચિંગ, ઘસારા કે ઈન્ડેન્ટેશન સામેનો અવરોધ હાર્ડનેસ (Hardness) કહેવાય છે[cite: 3]."
+  },
+  {
+    "id": 214,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "Match List-I (Beam condition) with List-II (BMD shape):",
+    "gujaratiQuestion": "Q214. Match List-I with List-II and select the answer from the codes given below:\nList-I (બીમની સ્થિતિ):\na. કેન્ટિલિવરના છેડે બેન્ડિંગ મોમેન્ટ લાગતી હોય\nb. કેન્ટિલિવર આખી લંબાઈ પર UDL ધરાવતો હોય\nc. કેન્ટિલિવર આખી લંબાઈ પર UVL ધરાવતો હોય\nd. સિમ્પલી સપૉર્ટેડ બીમમાં સેન્ટર પર લોડ હોય\nList-II (બેન્ડિંગ મોમેન્ટ ડાયાગ્રામ):\n1. ત્રિકોણ (Triangle)\n2. ક્યુબિક કર્વ (Cubic curve)\n3. પેરાબોલા (Parabola)\n4. લંબચોરસ (Rectangle)",
+    "options": [
+      "(a-4), (b-1), (c-2), (d-3)",
+      "(a-4), (b-3), (c-2), (d-1)",
+      "(a-3), (b-4), (c-2), (d-1)",
+      "(a-3), (b-4), (c-1), (d-2)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સાચો જોડકો ક્રમ: a-4, b-3, c-2, d-1 છે[cite: 3]."
+  },
+  {
+    "id": 215,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "Which test is used to measure ductility and formability of sheet metal?",
+    "gujaratiQuestion": "0215. શીટ મેટલની ડક્ટિલિટી અને ફોર્મેબિલિટી માપવા માટે કયો ટેસ્ટ થાય છે?",
+    "options": [
+      "ચાર્પી ટેસ્ટ",
+      "રોકવેલ ટેસ્ટ",
+      "કપિંગ ટેસ્ટ (એરિક્સન ટેસ્ટ)",
+      "ફટિગ ટેસ્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "શીટ મેટલની ફોર્મેબિલિટી માપવા એરિક્સન કપિંગ ટેસ્ટ (Cupping test) વપરાય છે[cite: 3]."
+  },
+  {
+    "id": 216,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "Which property of material is checked by Fatigue Test?",
+    "gujaratiQuestion": "0216. ફટિગ ટેસ્ટથી મટીરીયલની કઈ પ્રોપર્ટી ચેક થાય છે?",
+    "options": [
+      "યીલ્ડ સ્ટ્રેન્થ",
+      "અલ્ટીમેટ સ્ટ્રેન્થ",
+      "એન્ડ્યોરન્સ લિમિટ",
+      "હાર્ડનેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સાયક્લિક લોડિંગ હેઠળ ફટિગ ટેસ્ટ દ્વારા એન્ડ્યોરન્સ લિમિટ (Endurance limit) નક્કી થાય છે[cite: 3]."
+  },
+  {
+    "id": 217,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Shear Force & Bending Moment Diagrams",
+    "question": "Bending moment is maximum at a section when shear force is:",
+    "gujaratiQuestion": "0217. જ્યારે શિયર ફોર્સ _____ હોય ત્યારે સેક્શન પર બેન્ડિંગ મોમેન્ટ મહત્તમ હોય છે.",
+    "options": [
+      "ન્યૂનતમ (minimum)",
+      "મહત્તમ (maximum)",
+      "સમાન (equal)",
+      "પોતાની સાઈન (ચિહ્ન) બદલતો હોય (changing sign)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "જ્યારે શીયર ફોર્સ પોતાનું ચિહ્ન બદલે (શૂન્યમાંથી પસાર થાય) ત્યારે બેન્ડિંગ મોમેન્ટ મહત્તમ થાય છે[cite: 3]."
+  },
+  {
+    "id": 218,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "In Non-Destructive Testing (NDT), which test is used to detect internal cracks in material?",
+    "gujaratiQuestion": "0218. નોન-ડિસ્ટ્રક્ટિવ ટેસ્ટ (NDT) માં મટીરીયલની અંદરની ખામીઓ (cracks) જાણવા કયો ટેસ્ટ થાય છે?",
+    "options": [
+      "અલ્ટ્રાસોનિક ટેસ્ટ",
+      "ટેન્સાઈલ ટેસ્ટ",
+      "ઈમ્પેક્ટ ટેસ્ટ",
+      "હાર્ડનેસ ટેસ્ટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "અલ્ટ્રાસોનિક ટેસ્ટ એ આંતરિક ક્રેક્સ શોધવા માટે વપરાતી NDT પદ્ધતિ છે[cite: 3]."
+  },
+  {
+    "id": 219,
+    "subject": "Mechanics of Materials",
+    "subTopic": "UTM, Hardness & Impact Testing",
+    "question": "After which test can the specimen still be used in future?",
+    "gujaratiQuestion": "Q219. કયા ટેસ્ટ પછી સ્પેસિમેનનો ભવિષ્યમાં પણ ઉપયોગ કરી શકાય છે?",
+    "options": [
+      "નોન-ડિસ્ટ્રક્ટિવ ટેસ્ટ",
+      "ડિસ્ટ્રક્ટિવ ટેસ્ટ",
+      "ટેન્સાઈલ ટેસ્ટ",
+      "ચાર્પી ટેસ્ટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "નોન-ડિસ્ટ્રક્ટિવ ટેસ્ટિંગમાં સ્પેસિમેન તૂટતું ન હોવાથી તેનો ભવિષ્યમાં ઉપયોગ થઈ શકે છે[cite: 3]."
+  },
+  {
+    "id": 220,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "When a bending moment acts on a beam, strain produced in a layer is _____ to distance from neutral axis.",
+    "gujaratiQuestion": "0220. જ્યારે બીમ પર બેન્ડિંગ મોમેન્ટ લાગે છે, ત્યારે લેયરમાં ઉત્પન્ન થતો સ્ટ્રેઈન એ ન્યુટ્રલ એક્સિસથી અંતરના _____ હોય છે.",
+    "options": [
+      "સમાન (equal to)",
+      "સમપ્રમાણમાં (directly proportional to)",
+      "વ્યસ્ત પ્રમાણમાં (inversely proportional to)",
+      "થી સ્વતંત્ર (independent of)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બર્નોલીના સિદ્ધાંત મુજબ બેન્ડિંગ સ્ટ્રેઈન ε = y / R એટલે કે ન્યુટ્રલ એક્સિસથી અંતર y ના સમપ્રમાણમાં હોય છે[cite: 3]."
+  },
+  {
+    "id": 221,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "Which factor is mainly responsible for Creep in materials?",
+    "gujaratiQuestion": "0221. મટીરીયલના ક્રીપ (Creep) ગુણધર્મ માટે મુખ્યત્વે કયું પરિબળ જવાબદાર છે?",
+    "options": [
+      "નીચું તાપમાન અને શૂન્ય ભાર",
+      "ઉચ્ચ તાપમાન અને સતત ભાર",
+      "માત્ર અચાનક લાગતો ભાર",
+      "માત્ર વાઇબ્રેશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "લાંબા સમય સુધી ઊંચા તાપમાને સતત સ્ટેટિક લોડ લાગવાથી ધીમું કાયમી વિરૂપણ (Creep) થાય છે[cite: 3]."
+  },
+  {
+    "id": 222,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "A simply supported beam of 100mm width, 200mm depth, and 4m length carries 10 kN/m UDL over entire span. What is maximum bending stress (in MPa)?",
+    "gujaratiQuestion": "0222. 100 mm પહોળાઈ, 200 mm ઊંચાઈ અને 4 m લંબાઈ ધરાવતા સિમ્પલી સપોર્ટેડ બીમની સમગ્ર લંબાઈ પર 10 kN/m ની ઇન્ટેન્સિટીનો યુનિફોર્મલી ડિસ્ટ્રિબ્યુટેડ લોડ (UDL) લાગે છે. બીમમાં મહત્તમ બેન્ડિંગ સ્ટ્રેસ (MPa માં) કેટલો હશે?",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "M = wL²/8 = 10 × 4² / 8 = 20 kN-m = 20 × 10⁶ N-mm. Z = bd²/6 = 100 × 200² / 6 = 666.67 × 10³ mm³. σ = M/Z = 20 × 10⁶ / (666.67 × 10³) = 30 MPa[cite: 3]."
+  },
+  {
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "Which cross-section generally gives the highest torsional resistance for the same material and area among flat, channel, box and tubular sections?",
+    "gujaratiQuestion": "સમાન material અને area માટે flat, channel, box અને tubular sectionsમાં torsional resistance સામાન્ય રીતે કયા sectionની વધુ હોય છે?",
+    "options": [
+      "Flat",
+      "Tubular",
+      "Channel",
+      "Box"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. A closed thin-walled tubular section places material efficiently around the torsion-resisting perimeter.",
+    "id": 223
+  },
+  {
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "Young’s modulus is the ratio of:",
+    "gujaratiQuestion": "Young’s modulus કયા ratio બરાબર છે?",
+    "options": [
+      "Shear stress/shear strain",
+      "Normal stress/normal strain",
+      "Load/volume",
+      "Moment/area"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: E=σ/ε within elastic range.",
+    "id": 224
+  },
+  {
+    "subject": "Mechanics of Materials",
+    "subTopic": "Torsion of Circular Shafts",
+    "question": "For a solid circular shaft, polar moment of inertia is:",
+    "gujaratiQuestion": "Solid circular shaft માટે polar moment of inertia શું છે?",
+    "options": [
+      "πd⁴/64",
+      "πd⁴/32",
+      "πd³/32",
+      "πd²/4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: J=πd⁴/32.",
+    "id": 225
+  },
+  {
+    "subject": "Mechanics of Materials",
+    "subTopic": "Euler's Theory of Columns",
+    "question": "Euler buckling theory is most applicable to:",
+    "gujaratiQuestion": "Euler buckling theory મુખ્યત્વે કયા columns માટે યોગ્ય છે?",
+    "options": [
+      "Very short columns",
+      "Long slender columns",
+      "Only thick plates",
+      "Only shafts in torsion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Euler theory assumes slender elastic columns.",
+    "id": 226
+  },
+  {
+    "subject": "Mechanics of Materials",
+    "subTopic": "Bending & Shear Stresses",
+    "question": "At the neutral axis of a homogeneous beam under pure bending, bending stress is:",
+    "gujaratiQuestion": "Pure bendingમાં homogeneous beamના neutral axis પર bending stress કેટલું છે?",
+    "options": [
+      "Maximum",
+      "Zero",
+      "Infinite",
+      "Equal to shear stress"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: σ=My/I and y=0 at the neutral axis.",
+    "id": 227
+  },
+  {
+    "subject": "Mechanics of Materials",
+    "subTopic": "Thin Cylinders",
+    "question": "For a thin cylindrical pressure vessel, hoop stress is approximately:",
+    "gujaratiQuestion": "Thin cylindrical pressure vessel માટે hoop stress શું છે?",
+    "options": [
+      "pd/4t",
+      "pd/2t",
+      "2pd/t",
+      "pt/2d"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: σh=pd/(2t).",
+    "id": 228
+  },
+  {
+    "id": 229,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Strain",
+    "question": "Mohr's circle for plane strain is used to determine:",
+    "gujaratiQuestion": "Mohr's circle for plane strain is used to determine:",
+    "options": [
+      "principal strains and maximum shear strain",
+      "only bending moment",
+      "only torque",
+      "fluid pressure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mohr's circle graphically gives principal strain states and maximum in-plane shear strain."
+  },
+  {
+    "id": 230,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Strain",
+    "question": "The centre of the strain Mohr circle for plane strain is located at:",
+    "gujaratiQuestion": "The centre of the strain Mohr circle for plane strain is located at:",
+    "options": [
+      "average normal strain",
+      "maximum shear strain",
+      "zero strain always",
+      "principal stress"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The centre is at the average of the two normal strains."
+  },
+  {
+    "id": 231,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Mohr's Circle for Plane Strain",
+    "question": "On a strain Mohr circle, the radius represents:",
+    "gujaratiQuestion": "On a strain Mohr circle, the radius represents:",
+    "options": [
+      "maximum in-plane shear strain",
+      "mean normal strain",
+      "Poisson ratio",
+      "Young modulus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The radius equals half the principal-strain difference and equals maximum in-plane shear strain."
+  }
+]

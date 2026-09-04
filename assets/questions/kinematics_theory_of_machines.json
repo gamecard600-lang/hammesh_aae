@@ -1,0 +1,2777 @@
+[
+  {
+    "id": 1,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Basic Kinematic Concepts & Definitions",
+    "question": "What is the branch of engineering science that deals with the study of relative motion between machine parts called?",
+    "gujaratiQuestion": "01. મશીનના ભાગો વચ્ચેની સાપેક્ષ ગતિનો અભ્યાસ કરતી શાખાને શું કહેવાય છે?",
+    "options": [
+      "કાઈનેટિક્સ",
+      "ડાયનેમિક્સ",
+      "કિનેમેટિક્સ",
+      "સ્ટેટિક્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બળોને ધ્યાનમાં લીધા વિના માત્ર ગતિ (relative motion) નો અભ્યાસ કરતી શાખાને કાઈનેમેટિક્સ (Kinematics) કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 2,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Basic Kinematic Concepts & Definitions",
+    "question": "If two links have surface contact between them, which pair do they form?",
+    "gujaratiQuestion": "02. જો બે લિંક વચ્ચે સરફેસ કોન્ટેક્ટ હોય, તો તે કઈ પેર બનાવે છે?",
+    "options": [
+      "હાયર પેર",
+      "લોઅર પેર",
+      "રોલિંગ પેર",
+      "સ્ફેરિકલ પેર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સપાટી અથવા એરિયા કોન્ટેક્ટ (Surface/Area contact) ધરાવતી પેરને લોઅર પેર (Lower pair) કહે છે[cite: 7]."
+  },
+  {
+    "id": 3,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Basic Kinematic Concepts & Definitions",
+    "question": "Ball and socket joint is an example of which type of pair?",
+    "gujaratiQuestion": "03. બોલ અને સોકેટ જોઈન્ટ એ કયા પ્રકારની પેરનું ઉદાહરણ છે?",
+    "options": [
+      "રોલિંગ પેર",
+      "ટર્નિંગ પેર",
+      "સ્ક્રૂ પેર",
+      "સ્ફેરિકલ પેર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ત્રિ-પરિમાણીય પરિભ્રમણ આપતો બોલ અને સોકેટ જોઈન્ટ એ સ્ફેરિકલ પેર (Spherical pair) નું ઉદાહરણ છે[cite: 7]."
+  },
+  {
+    "id": 4,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "Which follower provides accurate motion but experiences higher wear?",
+    "gujaratiQuestion": "04. કયો ફોલોઅર સચોટ મોશન આપે છે પરંતું તેમાં ઘસારો (wear) વધારે થાય છે?",
+    "options": [
+      "નાઈફ-એજ",
+      "રોલર",
+      "ફ્લેટ-ફેસ્ડ",
+      "મશરૂમ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "નાઈફ-એજ (Knife-edge) ફોલોઅર નાની સંપર્ક સપાટીને લીધે ચોક્કસ મોશન આપે છે પરંતુ ઊંચા સાઇડ થ્રસ્ટથી ઘસારો વધારે થાય છે[cite: 7]."
+  },
+  {
+    "id": 5,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "What type of pair is formed by the connection between a cam and a follower?",
+    "gujaratiQuestion": "05. કેમ અને ફોલોઅર વચ્ચેના જોડાણને કઈ પેર કહેવામાં આવે છે?",
+    "options": [
+      "હાયર પેર",
+      "લોઅર પેર",
+      "સ્ફેરિકલ પેર",
+      "ટર્નિંગ પેર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કેમ અને ફોલોઅર વચ્ચે પોઇન્ટ અથવા લાઇન કોન્ટેક્ટ હોવાથી તે હાયર પેર (Higher pair) બનાવે છે[cite: 7]."
+  },
+  {
+    "id": 6,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Basic Kinematic Concepts & Definitions",
+    "question": "A shaft rotating inside a bearing forms which type of pair?",
+    "gujaratiQuestion": "06. બેરિંગમાં ફરતો શાફ્ટ કઈ પેર બનાવે છે?",
+    "options": [
+      "સ્લાઈડિંગ પેર",
+      "રોલિંગ પેર",
+      "ટર્નિંગ પેર",
+      "સ્ફેરિકલ પેર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એક લિંક બીજી લિંકની સાપેક્ષે માત્ર પરિભ્રમણ કરતી હોવાથી તે ટર્નિંગ પેર (Turning pair / Revolute pair) છે[cite: 7]."
+  },
+  {
+    "id": 7,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "By which formula is the energy stored in a flywheel calculated?",
+    "gujaratiQuestion": "07. ફ્લાયવ્હીલમાં સંગ્રહિત એનર્જીની ગણતરી શેના દ્વારા કરી શકાય છે? (જ્યાં I = મોમેન્ટ ઓફ ઇનર્શિયા, m = માસ, v = વેલોસિટી અને ω = ફ્લાયવ્હીલની એંગ્યુલર વેલોસિટી)",
+    "options": [
+      "1/2 mv²",
+      "1/2 Iω²",
+      "Iω",
+      "F · a"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રોટેશનલ ગતિ કરતી બોડીમાં સંગ્રહિત કાઇનેટિક એનર્જી E = 1/2 Iω² થાય છે[cite: 7]."
+  },
+  {
+    "id": 8,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Basic Kinematic Concepts & Definitions",
+    "question": "When two links have point or line contact between them, which pair is formed?",
+    "gujaratiQuestion": "08. જ્યારે બે લિંક વચ્ચે પોઇન્ટ અથવા લાઈન કોન્ટેક્ટ હોય, ત્યારે કઈ પેર બને છે?",
+    "options": [
+      "હાયર પેર",
+      "લોઅર પેર",
+      "ઓપન પેર",
+      "ક્લોઝ્ડ પેર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બિંદુ અથવા રેખા સંપર્ક ધરાવતી કાઈનેમેટિક પેરને હાયર પેર (Higher pair) કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 9,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "In a kinematic chain, if one link is fixed, what does it become?",
+    "gujaratiQuestion": "09. કાઈનેમેટિક ચેઈનમાં જો એક લિંક ફિક્સ કરવામાં આવે, તો તે શું બની જાય છે?",
+    "options": [
+      "સ્ટ્રક્ચર",
+      "મશીન",
+      "મિકેનિઝમ",
+      "ફ્રેમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કાઈનેમેટિક ચેઇનની કોઈ એક લિંકને ફિક્સ કરવાથી મિકેનિઝમ (Mechanism) બને છે[cite: 7]."
+  },
+  {
+    "id": 10,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "If a cam drives its follower at a constant speed, what will its velocity diagram look like?",
+    "gujaratiQuestion": "010. જો કેમ તેના ફોલોઅરને કોન્સ્ટન્ટ સ્પીડ પર ચલાવતો હોય, તો તેનો વેલોસિટી ડાયાગ્રામ કેવો હશે?",
+    "options": [
+      "લંબચોરસ",
+      "ત્રિકોણ",
+      "પેરાબોલા",
+      "વર્તુળ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કોન્સ્ટન્ટ વેલોસિટી દરમિયાન વેગનું મૂલ્ય અચળ રહેવાથી તેનો વેલોસિટી ડાયાગ્રામ લંબચોરસ (Rectangular) બને છે[cite: 7]."
+  },
+  {
+    "id": 11,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Degree of Freedom & Mobility",
+    "question": "How many degrees of freedom does an unconstrained rigid body have in 3D space?",
+    "gujaratiQuestion": "011. અવકાશમાં એક મુક્ત રિજિડ બોડીને કેટલી ડિગ્રી ઓફ ફ્રીડમ હોય છે?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctAnswer": 3,
+    "explanation": "3D અવકાશમાં મુક્ત બોડીને 3 ટ્રાન્સલેશન અને 3 રોટેશન એમ કુલ 6 ડિગ્રી ઓફ ફ્રીડમ હોય છે[cite: 7]."
+  },
+  {
+    "id": 12,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Degree of Freedom & Mobility",
+    "question": "If the degree of freedom of a mechanism is zero (0), what is it called?",
+    "gujaratiQuestion": "012. જો મિકેનિઝમની ડિગ્રી ઓફ ફ્રીડમ શૂન્ય (0) હોય, તો તેને શું કહેવાય છે?",
+    "options": [
+      "મિકેનિઝમ",
+      "મશીન",
+      "સ્ટ્રક્ચર",
+      "કિનેમેટિક ચેઇન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "DOF = 0 હોય ત્યારે સાપેક્ષ ગતિ શક્ય બનતી નથી અને તે લોડ સહન કરતું સ્ટ્રક્ચર (Structure / Frame) બને છે[cite: 7]."
+  },
+  {
+    "id": 13,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "What is the combined function of a flywheel and a governor in an engine?",
+    "gujaratiQuestion": "013. ફ્લાયવ્હીલ અને ગવર્નરનું સંયુક્ત કાર્ય શું સુનિશ્ચિત કરવાનું છે?",
+    "options": [
+      "યુનિફોર્મ અને કંટ્રોલ્ડ સ્પીડ",
+      "વધેલો એન્જિન ટોર્ક",
+      "ઓછું ટેમ્પરેચર",
+      "કોઈ વાઈબ્રેશન નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ફ્લાયવ્હીલ સાયકલ દરમિયાન અને ગવર્નર લોડ બદલાતાં સ્પીડ નિયંત્રિત કરી એકંદર યુનિફોર્મ અને કંટ્રોલ્ડ સ્પીડ આપે છે[cite: 7]."
+  },
+  {
+    "id": 14,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Degree of Freedom & Mobility",
+    "question": "What is Kutzbach's criterion equation for finding the degree of freedom of a planar mechanism?",
+    "gujaratiQuestion": "014. પ્લેન મિકેનિઝમ માટે ડિગ્રી ઓફ ફ્રીડમ શોધવાનું કુત્ઝબેક સમીકરણ કયું છે?",
+    "options": [
+      "3(l - 1) - 2j - h",
+      "3(l - 1) - j - 2h",
+      "2(l - 1) - 3j - h",
+      "3(l - 1) - 2j + h"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પ્લેનર મિકેનિઝમ માટે કુત્ઝબેક સમીકરણ n = 3(l - 1) - 2j - h છે[cite: 7]."
+  },
+  {
+    "id": 15,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Basic Kinematic Concepts & Definitions",
+    "question": "If number of links is L and number of pairs is P, what is the relation for a kinematic chain?",
+    "gujaratiQuestion": "Q15. જો લિંક્સની સંખ્યા L અને પેરની સંખ્યા P હોય, તો કાઈનેમેટિક ચેઈન માટેનો સંબંધ કયો છે?",
+    "options": [
+      "L = 2P - 2",
+      "L = 2P - 4",
+      "L = 2P + 4",
+      "L = P - 2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કાઈનેમેટિક ચેઇન માટે લિંક્સ અને લોઅર પેર વચ્ચેનો સંબંધ L = 2P - 4 છે[cite: 7]."
+  },
+  {
+    "id": 16,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Degree of Freedom & Mobility",
+    "question": "How many degrees of freedom does a free particle have in space?",
+    "gujaratiQuestion": "016. ફ્રી પાર્ટીકલ (મુક્ત કણ) ને કેટલી ડિગ્રી ઓફ ફીડમ હોય છે?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "અવકાશમાં મુક્ત કણ (Point mass) માત્ર X, Y, Z દિશામાં ટ્રાન્સલેટ થઈ શકે છે, તેથી તેને 3 ડિગ્રી ઓફ ફ્રીડમ હોય છે[cite: 7]."
+  },
+  {
+    "id": 17,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "Can a chain having 5 links and 5 joints form a completely constrained kinematic chain?",
+    "gujaratiQuestion": "017. 5 લિંક અને 5 જોઈન્ટ ધરાવતી ચેઈન કાઈનેમેટિક ચેઈન બની શકે?",
+    "options": [
+      "હા",
+      "ના",
+      "ફક્ત શરતો આધારિત",
+      "હંમેશા બને"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L = 2P - 4 માં 5 ≠ 2(5) - 4 = 6 થવાથી અને DOF = 3(5-1)-2(5) = 2 થતાં તે અનકન્સ્ટ્રેઇન્ડ ચેઇન બને છે, કાઈનેમેટિક ચેઇન નહીં[cite: 7]."
+  },
+  {
+    "id": 18,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Degree of Freedom & Mobility",
+    "question": "According to Grubler's criterion for a constrained plane mechanism, what is the degree of freedom?",
+    "gujaratiQuestion": "018. ગ્રેબલર્સ ક્રાઇટેરિયન મુજબ પ્લેન મિકેનિઝમની ડિગ્રી ઑફ ફ્રીડમ કેટલી હોય છે?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગ્રેબલર ક્રાઇટેરિયન એવા પ્લેનર મિકેનિઝમ માટે છે જેની ડિગ્રી ઓફ ફ્રીડમ 1 (F = 1) હોય[cite: 7]."
+  },
+  {
+    "id": 19,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Displacement, Velocity & Acceleration Analysis",
+    "question": "In a slider-crank mechanism, when is the velocity of the slider maximum?",
+    "gujaratiQuestion": "Q19. સ્લાઈડર-ક્રેન્ક મિકેનિઝમમાં સ્લાઈડરની વેલોસિટી ક્યારે મહત્તમ હોય છે?",
+    "options": [
+      "ડેડ સેન્ટર્સ પર",
+      "મિડ-સ્ટ્રોકની નજીક",
+      "શરૂઆતમાં",
+      "અંતમાં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યારે ક્રેન્ક અને કનેક્ટિંગ રોડ એકબીજાને લગભગ લંબરૂપ હોય (મિડ-સ્ટ્રોકની નજીક), ત્યારે પિસ્ટનની વેલોસિટી મહત્તમ બને છે[cite: 7]."
+  },
+  {
+    "id": 20,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Degree of Freedom & Mobility",
+    "question": "What is the maximum degrees of freedom of a rigid body moving in a 2-D plane?",
+    "gujaratiQuestion": "Q20. 2-D પ્લેનમાં ફરતા રિજિડ બોડીની મહત્તમ ડિગ્રી ઓફ ફ્રીડમ કેટલી હોય છે?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2D સમતલમાં રિજિડ બોડી 2 ટ્રાન્સલેશન (X, Y) અને 1 રોટેશન (θ) મળીને મહત્તમ 3 ડિગ્રી ઓફ ફ્રીડમ ધરાવે છે[cite: 7]."
+  },
+  {
+    "id": 21,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "In a kinematic chain having L links, what is the maximum number of possible inversions?",
+    "gujaratiQuestion": "021. જો L લિંક ધરાવતી કાઈનેમેટિક ચેઈન હોય, તો તેમાં શક્ય ઇન્વર્ઝનની મહત્તમ સંખ્યા કેટલી હોય છે?",
+    "options": [
+      "L - 1",
+      "L",
+      "L + 1",
+      "2L"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વારાફરતી દરેક લિંકને ફિક્સ કરવાથી મહત્તમ L જેટલા ઇન્વર્ઝન (Inversions) મેળવી શકાય છે[cite: 7]."
+  },
+  {
+    "id": 22,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "How many total turning pairs are present in a four-bar chain mechanism?",
+    "gujaratiQuestion": "022. ફોર-બાર ચેઈન મિકેનિઝમમાં કુલ કેટલી ટર્નિંગ પેર હોય છે?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સરળ 4-બાર લિન્કેજમાં 4 લિંક અને 4 રિવોલ્યુટ/ટર્નિંગ પેર (4R) હોય છે[cite: 7]."
+  },
+  {
+    "id": 23,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "What is the floating link (link without fixed support) in a four-bar mechanism called?",
+    "gujaratiQuestion": "023. ફોર-બાર મિકેનિઝમમાં ફ્લોટિંગ લિન્કને શું કહેવાય છે?",
+    "options": [
+      "ક્રેન્ક",
+      "ફિક્સ લિંક",
+      "કપલર",
+      "રોકર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇનપુટ અને આઉટપુટ લિંકને જોડતી મુક્ત લિંકને કપલર (Coupler / Connecting link) કહે છે[cite: 7]."
+  },
+  {
+    "id": 24,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Universal Joint & Rocker Mechanisms",
+    "question": "Crank and slotted lever mechanism is mainly used in which machine?",
+    "gujaratiQuestion": "024. ક્રેન્ક અને સ્લોટેડ લીવર મિકેનિઝમનો ઉપયોગ મુખ્યત્વે કયા મશીનમાં છે?",
+    "options": [
+      "લેથ",
+      "શેપર",
+      "મિલિંગ",
+      "ડ્રિલિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "શેપિંગ અને સ્લોટિંગ મશીનમાં કટિંગ વખતે ધીમી અને રિટર્ન વખતે ઝડપી ગતિ મેળવવા ક્વિક રિટર્ન મિકેનિઝમ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 25,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "The coupling rod of a locomotive is an inversion of which kinematic chain?",
+    "gujaratiQuestion": "025. લોકોમોટિવનો કપલિંગ રોડ એ કઈ ચેઈનનું ઈન્વર્ઝન છે?",
+    "options": [
+      "સિંગલ સ્લાઇડર ક્રેન્ક ચેઈન",
+      "ડબલ સ્લાઈડર ક્રેન્ક ચેઈન",
+      "ફોર-બાર ચેઈન",
+      "ક્રોસ્ડ સ્લાઈડર ચેઇન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લોકોમોટિવના પૈડાં જોડતો કપલિંગ રોડ એ 4-બાર ચેઇનનું પેરેલલોગ્રામ (Double crank) ઇન્વર્ઝન છે[cite: 7]."
+  },
+  {
+    "id": 26,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Universal Joint & Rocker Mechanisms",
+    "question": "Which joint connects the gearbox to the propeller shaft in automobiles?",
+    "gujaratiQuestion": "026. કયો જોઈન્ટ ગિયરબોક્સને પ્રોપેલર શાફ્ટ સાથે જોડે છે?",
+    "options": [
+      "યુનિવર્સલ જોઈન્ટ",
+      "ઓલ્ડહામ કપલિંગ",
+      "ગિયર કપલિંગ",
+      "સ્લીવ જોઈન્ટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કોણીય વિચલન ધરાવતા શાફ્ટ વચ્ચે પાવર ટ્રાન્સમિટ કરવા માટે યુનિવર્સલ (હૂક્સ) જોઈન્ટ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 27,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "Oldham's coupling is an inversion of which kinematic chain?",
+    "gujaratiQuestion": "027. ઓલ્ડહામ કપલિંગ એ કઈ ચેઈનનું ઈન્વર્ઝન છે?",
+    "options": [
+      "ફોર-બાર ચેઈન",
+      "સિંગલ સ્લાઇડર ક્રેન્ક ચેઈન",
+      "ડબલ સ્લાઇડર ક્રેન્ક ચેઈન",
+      "ગિયર ચેઈન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઓલ્ડહામ કપલિંગ એ ડબલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન છે[cite: 7]."
+  },
+  {
+    "id": 28,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "Beam engine is an inversion of which mechanism?",
+    "gujaratiQuestion": "028. બીમ એન્જિન એ કઈ મિકેનિઝમનું ઈન્વર્ઝન છે?",
+    "options": [
+      "ફોર-બાર ચેઈન",
+      "ડબલ સ્લાઈડર ક્રેન્ક ચેઈન",
+      "સિંગલ સ્લાઈડર ક્રેન્ક ચેઈન",
+      "વ્હીટવર્થ મિકેનિઝમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બીમ એન્જિન (ક્રેન્ક અને લીવર મિકેનિઝમ) સિંગલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન છે[cite: 7]."
+  },
+  {
+    "id": 29,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "What load/force acts on the bolts of a rigid flange coupling connecting two power transmitting shafts?",
+    "gujaratiQuestion": "029. પાવર ટ્રાન્સમિટ કરતા બે શાફ્ટને જોડતા રિજિડ ફ્લેન્જ કપલિંગના બોલ્ટ્સ પર કયો લોડ/ફોર્સ લાગે છે?",
+    "options": [
+      "શિયર ફોર્સ અને બેન્ડિંગ મોમેન્ટ",
+      "એક્સિયલ ફોર્સ",
+      "ટોર્શન",
+      "ટોર્શન અને બેન્ડિંગ મોમેન્ટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ટોર્ક ટ્રાન્સમિશન દરમિયાન બોલ્ટ્સ પર શિયર સ્ટ્રેસ અને બેન્ડિંગ મોમેન્ટ બંને લાગે છે[cite: 7]."
+  },
+  {
+    "id": 30,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Universal Joint & Rocker Mechanisms",
+    "question": "Whitworth quick return motion mechanism is an inversion of which kinematic chain?",
+    "gujaratiQuestion": "030, વ્હીટવર્થ ક્વિક રિટર્ન મિકેનિઝમ કઈ કાઈનેમેટિક ચેઈનનું ઇન્વર્ઝન છે?",
+    "options": [
+      "ડબલ સ્લાઈડર ક્રેન્ક ચેઈન",
+      "સિંગલ સ્લાઈડર ક્રેન્ક ચેઈન",
+      "ફોર-બાર ચેઈન",
+      "રોકર મિકેનિઝમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વ્હીટવર્થ ક્વિક રિટર્ન મિકેનિઝમ એ સિંગલ સ્લાઇડર ક્રેન્ક ચેઇનનું બીજું ઇન્વર્ઝન (ક્રેન્ક ફિક્સ કરીને) છે[cite: 7]."
+  },
+  {
+    "id": 31,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "Oscillating cylinder engine mechanism is an inversion of which chain?",
+    "gujaratiQuestion": "031. ઓસિલેટિંગ સિલિન્ડર એન્જિન કઈ ચેઈનનું ઇન્વર્ઝન છે?",
+    "options": [
+      "સિંગલ સ્લાઇડર ક્રેન્ક ચેઈન",
+      "ડબલ સ્લાઈડર ક્રેન્ક ચેઈન",
+      "ફોર-બાર ચેઈન",
+      "ક્રોસ્ડ બાર ચેઈન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઓસિલેટિંગ સિલિન્ડર એન્જિન એ સિંગલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન છે[cite: 7]."
+  },
+  {
+    "id": 32,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "A flywheel fitted to a punching machine delivers 400 Nm of energy at mean angular speed of 20 rad/s. If total fluctuation of speed is within ±2%, what is its mass moment of inertia (in kg-m²)?",
+    "gujaratiQuestion": "Q32. પંચિંગ મશીન સાથે જોડાયેલું એક ફ્લાયવ્હીલ 20 rad/s ની મીન એંગ્યુલર સ્પીડ પર ફરતી વખતે 400 Nm ની એનર્જી પૂરી પાડે છે. જો સ્પીડનું કુલ ફલક્ચ્યુએશન ±2% થી વધુ ન હોવું જોઈએ, તો ફ્લાયવ્હીલનો માસ મોમેન્ટ ઓફ ઇનર્શિયા (kg-m² માં) કેટલો હશે?",
+    "options": [
+      "25",
+      "50",
+      "100",
+      "125"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ΔE = I · ω² · Cs. અહીં Cs = 2 × 2% = 0.04. 400 = I × (20)² × 0.04 = I × 400 × 0.04 => I = 1 / 0.04 = 25 kg-m²[cite: 7]."
+  },
+  {
+    "id": 33,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "Elliptical trammel is an inversion of which kinematic chain?",
+    "gujaratiQuestion": "033. ઇલિપ્ટિકલ ટ્રેમલ કોનું ઈન્વર્ઝન છે?",
+    "options": [
+      "સિંગલ સ્લાઈડર ક્રેન્ક ચેઈન",
+      "ડબલ સ્લાઈડર ક્રેન્ક ચેઈન",
+      "ફોર-બાર ચેઈન",
+      "રોકર ચેઈન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇલિપ્ટિકલ ટ્રેમલ એ ડબલ સ્લાઇડર ક્રેન્ક ચેઇનનું પ્રથમ ઇન્વર્ઝન (સ્લોટેડ પ્લેટ ફિક્સ કરીને) છે[cite: 7]."
+  },
+  {
+    "id": 34,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "Which of the following is an exact straight line motion mechanism?",
+    "gujaratiQuestion": "034. એક્ઝેક્ટ સ્ટ્રેટ લાઈન મોશન આપતું મિકેનિઝમ કયું છે?",
+    "options": [
+      "વોટ્સ મિકેનિઝમ",
+      "ગ્રાસહોપર મિકેનિઝમ",
+      "પૌસેલિયર મિકેનિઝમ",
+      "એકરમેન મિકેનિઝમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પૌસેલિયર (Peaucellier) મિકેનિઝમ 8 લિંક્સ ધરાવે છે અને સંપૂર્ણ ચોક્કસ સીધી રેખા ગતિ આપે છે[cite: 7]."
+  },
+  {
+    "id": 35,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gyroscope",
+    "question": "A car travels at 20 m/s around a curve of 100 m radius. The engine rotating masses rotate clockwise at 100 rad/s viewed from front with combined moment of inertia 10 kg-m². What is the gyroscopic couple (in N-m)?",
+    "gujaratiQuestion": "035. એક કાર 100 m ની ત્રિજ્યા (radius) વાળા વળાંકવાળા હોરિઝોન્ટલ રસ્તા પર 20 m/s ની સ્પીડથી ગતિ કરી રહી છે. કારની આગળથી જોતા ઍન્જિનના રોટેટિંગ માસિસની એંગ્યુલર સ્પીડ 100 rad/s ક્લોકવાઈઝ દિશામાં છે. રોટેટિંગ માસિસનો કમ્બાઈન્ડ મૉમેન્ટ ઑફ ઈનર્શિયા 10 kg-m² છે. ગાયરોસ્કોપિક મોમેન્ટનું મૂલ્ય (N-m માં) કેટલું હશે?",
+    "options": [
+      "200 Nm",
+      "100 Nm",
+      "210 Nm",
+      "250 Nm"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ωp = v / R = 20 / 100 = 0.2 rad/s. C = I · ω · ωp = 10 × 100 × 0.2 = 200 N-m[cite: 7]."
+  },
+  {
+    "id": 36,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "Scotch yoke mechanism is an inversion of which kinematic chain?",
+    "gujaratiQuestion": "036. સ્કૉચ યોક મિકેનિઝમ કોનું ઈન્વર્ઝન છે?",
+    "options": [
+      "ફોર-બાર ચેઈન",
+      "સિંગલ સ્લાઈડર ક્રેન્ક ચેઈન",
+      "ડબલ સ્લાઈડર ક્રેન્ક ચેઈન",
+      "રોટરી મિકેનિઝમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્કોચ યોક મિકેનિઝમ સરળ હાર્મોનિક મોશન આપતું ડબલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન છે[cite: 7]."
+  },
+  {
+    "id": 37,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "Which of the following mechanisms produces approximate straight line motion?",
+    "gujaratiQuestion": "037. નીચેનામાંથી કયું મિકેનિઝમ અંદાજિત સ્ટ્રેટ લાઈન મોશન આપે છે?",
+    "options": [
+      "વોટ્સ મિકેનિઝમ",
+      "પૌસેલિયર મિકેનિઝમ",
+      "હાર્ટ્સ મિકેનિઝમ",
+      "સ્કોચ યોક મિકેનિઝમ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વોટ (Watt's) મિકેનિઝમ એ એપ્રોક્સિમેટ (અંદાજિત) સ્ટ્રેટ લાઇન મોશન મિકેનિઝમ છે[cite: 7]."
+  },
+  {
+    "id": 38,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "Consider a rotating disc cam with zero offset and a translating roller follower rotating at center (0,0). Which pitch curve is associated with maximum translation of the follower?",
+    "gujaratiQuestion": "038. ઝીરો ઓફસેટ ધરાવતા રોટેટિંગ ડિસ્ક કેમ અને ટ્રાન્સલેટિંગ રોલર ફોલોઅરનો વિચાર કરો. સેન્ટર (x,y)=(0,0) પર ફરતા કેમના એક સંપૂર્ણ રોટેશન દરમિયાન, નીચેનામાંથી કયો પિચ કર્વ ફોલોઅરના મહત્તમ ટ્રાન્સલેશન (સ્થાનાંતર) સાથે સંકળાયેલો છે?",
+    "options": [
+      "x(t) = cos t, y(t) = sin t",
+      "x(t) = cos t, y(t) = 2 sin t",
+      "x(t) = 1/2 + cos t, y(t) = 2 sin t",
+      "x(t) = 1/2 + cos t, y(t) = sin t"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પિચ કર્વ x(t) = 1/2 + cos t, y(t) = 2 sin t માટે મહત્તમ અને લઘુત્તમ ત્રિજ્યા વચ્ચેનો તફાવત સૌથી વધુ હોવાથી તે મહત્તમ લિફ્ટ આપે છે[cite: 7]."
+  },
+  {
+    "id": 39,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "Which type of pairs are used in Davis / Ackermann steering gear?",
+    "gujaratiQuestion": "039. એકરમેન સ્ટીયરિંગ ગિયરમાં કઈ પેરનો ઉપયોગ થાય છે?",
+    "options": [
+      "માત્ર સ્લાઈડિંગ પેર",
+      "માત્ર ટર્નિંગ પેર",
+      "માત્ર રોલિંગ પેર",
+      "ટર્નિંગ અને સ્લાઈડિંગ પેર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એકરમેન સ્ટીયરિંગ ગિયરમાં માત્ર ટર્નિંગ પેર (Revolute pairs) હોય છે[cite: 7]."
+  },
+  {
+    "id": 40,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "Which mechanism converts reciprocating motion into rotary motion?",
+    "gujaratiQuestion": "040. કઈ મિકેનિઝમ રેસીપ્રોકેટિંગ મોશનને રોટરી મોશનમાં ફેરવે છે?",
+    "options": [
+      "સ્લાઈડર ક્રેન્ક મિકેનિઝમ",
+      "ઓલ્ડહામ કપલિંગ",
+      "વ્હીટવર્થ મિકેનિઝમ",
+      "ડબલ સ્લાઈડર ચેઈન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "IC એન્જિનમાં સ્લાઇડર ક્રેન્ક મિકેનિઝમ પિસ્ટનની રેસીપ્રોકેટિંગ ગતિને ક્રેન્કની રોટરી ગતિમાં ફેરવે છે[cite: 7]."
+  },
+  {
+    "id": 41,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "Which of the following bearings should NOT be subjected to any thrust load?",
+    "gujaratiQuestion": "041. નીચે આપેલી બેરિંગ્સમાંથી કઈ બેરિંગ પર થ્રસ્ટ લૉડ ન લાગવો જોઈએ?",
+    "options": [
+      "ડીપ ગ્રુવ બોલ બેરિંગ",
+      "એંગ્યુલર કોન્ટેક્ટ બોલ બેરિંગ",
+      "સિલિન્ડ્રિકલ (સ્ટ્રેટ) રોલર બેરિંગ",
+      "સિંગલ રો ટેપર્ડ રોલર બેરિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સિલિન્ડ્રિકલ રોલર બેરિંગ માત્ર ભારે રેડિયલ લોડ લઈ શકે છે, તે કોઈ થ્રસ્ટ/એક્સિયલ લોડ સહન કરી શકતી નથી[cite: 7]."
+  },
+  {
+    "id": 42,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Grashof's Law",
+    "question": "According to Grashof's law, what is the condition for continuous relative motion in a four-bar linkage?",
+    "gujaratiQuestion": "042. ગ્રેશોફ્સ લૉ મુજબ ચાર-બાર મિકેનિઝમમાં સતત સાપેક્ષ ગતિ માટેની શરત કઈ છે?",
+    "options": [
+      "સૌથી નાની અને મોટી લિંકનો સરવાળો બાકીની બે લિંકના સરવાળા કરતા વધુ હોવો જોઈએ",
+      "સૌથી નાની અને મોટી લિંકનો સરવાળો બાકીની બે લિંકના સરવાળા જેટલો અથવા ઓછો હોવો જોઇએ",
+      "ચારેય લિંક સમાન હોવી જોઈએ",
+      "કોઈ લિંક ફિક્સ ન હોવી જોઇએ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગ્રેશોફના નિયમ મુજબ s + l ≤ p + q હોવું જરૂરી છે[cite: 7]."
+  },
+  {
+    "id": 43,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Grashof's Law",
+    "question": "In a Grashofian four-bar linkage, if the shortest link is fixed, which mechanism is formed?",
+    "gujaratiQuestion": "043. જો ગ્રેશોફ્સ લો પળાતો હોય અને સૌથી નાની લિંકને ફિક્સ કરવામાં આવે, તો કયું મિકેનિઝમ બને છે?",
+    "options": [
+      "ક્રેન્ક-રોકર મિકેનિઝમ",
+      "ડબલ રોકર મિકેનિઝમ",
+      "ડબલ ક્રેન્ક મિકેનિઝમ",
+      "સ્લાઈડર ક્રેન્ક મિકેનિઝમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સૌથી નાની લિંક (s) ફિક્સ કરવાથી બંને સંલગ્ન લિંક્સ 360° ફરી શકે છે, જેથી ડબલ ક્રેન્ક (Drag link) મિકેનિઝમ બને છે[cite: 7]."
+  },
+  {
+    "id": 44,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Grashof's Law",
+    "question": "In a Grashofian four-bar linkage, if a link adjacent to the shortest link is fixed, what is formed?",
+    "gujaratiQuestion": "044. જો ગ્રેશોફ્સ લૉ પળાતો હોય અને સૌથી નાની લિંકની બાજુની લિંક ફિક્સ કરવામાં આવે, તો શું બને છે?",
+    "options": [
+      "ડબલ ક્રેન્ક મિકેનિઝમ",
+      "ક્રેન્ક-રોકર મિકેનિઝમ",
+      "ડબલ રોકર મિકેનિઝમ",
+      "ટર્નિંગ રોકર મિકેનિઝમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સૌથી નાની લિંકની બાજુની લિંક ફિક્સ કરવાથી ક્રેન્ક-રોકર (Crank-rocker) મિકેનિઝમ રચાય છે[cite: 7]."
+  },
+  {
+    "id": 45,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Universal Joint & Rocker Mechanisms",
+    "question": "Which mechanism is used in a shaping machine?",
+    "gujaratiQuestion": "045. શેપિંગ મશીનમાં કયા મિકેનિઝમનો ઉપયોગ થાય છે?",
+    "options": [
+      "4 રિવોલ્યુટ પેર ધરાવતી ક્લોઝ્ડ 4-બાર ચેઇન",
+      "6 રિવોલ્યુટ પેર ધરાવતી ક્લોઝ્ડ 6-બાર ચેઈન",
+      "2 રિવોલ્યુટ પેર અને 2 સ્લાઈડિંગ પેર ધરાવતી ક્લોઝ્ડ 4-બાર ચેઈન",
+      "સિંગલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન"
+    ],
+    "correctAnswer": 3,
+    "explanation": "શેપરમાં ક્વિક રિટર્ન માટે સિંગલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન (ક્રેન્ક અને સ્લોટેડ લીવર) વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 46,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Grashof's Law",
+    "question": "In a Grashofian four-bar linkage, if the link opposite to the shortest link is fixed, which mechanism is formed?",
+    "gujaratiQuestion": "046. જો ગ્રેશોફ્સ લૉ પળાતો હોય અને સૌથી નાની લિંકની સામેની લિંક ફિક્સ કરવામાં આવે, તો કયું મિકેનિઝમ બને છે?",
+    "options": [
+      "ક્રેન્ક-રોકર મિકેનિઝમ",
+      "ડબલ ક્રેન્ક મિકેનિઝમ",
+      "ડબલ રોકર મિકેનિઝમ",
+      "ઓસિલેટિંગ મિકેનિઝમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સૌથી નાની લિંકની સામેની લિંક (Coupler) ફિક્સ કરતાં બંને ઇનપુટ/આઉટપુટ લિંક્સ માત્ર ઓસિલેટ કરે છે, જેથી ડબલ રોકર બને છે[cite: 7]."
+  },
+  {
+    "id": 47,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Grashof's Law",
+    "question": "If Grashof's condition is not satisfied (s + l > p + q), fixing any link always yields:",
+    "gujaratiQuestion": "047. જો ગ્રેશોફ્સની શરત સંતોષાતી ન હોય, તો કોઈપણ લિંક ફિક્સ કરવાથી હંમેશા કયું મિકેનિઝમ બનશે?",
+    "options": [
+      "ડબલ ક્રેન્ક",
+      "ડબલ રોકર",
+      "ક્રેન્ક-રોકર",
+      "સ્ટ્રક્ચર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નોન-ગ્રેશોફિયન લિન્કેજમાં કોઈપણ લિંક પૂર્ણ 360° ફરી શકતી નથી, તેથી તમામ ઇન્વર્ઝન ડબલ રોકર (Double rocker / Triple rocker) બને છે[cite: 7]."
+  },
+  {
+    "id": 48,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "What is the contact ratio in gears?",
+    "gujaratiQuestion": "048. ગિયર્સમાં કોન્ટેક્ટ રેશિયોનો અર્થ શું છે?",
+    "options": [
+      "આર્ક ઓફ એપ્રોચની લંબાઈ અને સર્ક્યુલર પિચનો ગુણોત્તર",
+      "સર્ક્યુલર પિચ અને આર્ક ઓફ કોન્ટેક્ટની લંબાઈનો ગુણોત્તર",
+      "આર્ક ઓફ રિસેસની લંબાઈ અને સર્ક્યુલર પિચનો ગુણોત્તર",
+      "આર્ક ઓફ કોન્ટેક્ટની લંબાઈ અને સર્ક્યુલર પિચનો ગુણોત્તર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "કોન્ટેક્ટ રેશિયો = આર્ક ઓફ કોન્ટેક્ટની લંબાઈ / સર્ક્યુલર પિચ (Arc of contact / Circular pitch)[cite: 7]."
+  },
+  {
+    "id": 49,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Universal Joint & Rocker Mechanisms",
+    "question": "Universal joint is used to connect which type of shafts?",
+    "gujaratiQuestion": "049. યુનિવર્સલ જૉઇન્ટ નો ઉપયોગ કયા પ્રકારના શાફ્ટને જોડવા માટે થાય છે?",
+    "options": [
+      "પેરેલલ અને કો-એક્સિયલ",
+      "પેરેલલ પરંતુ કો-એક્સિયલ ન હોય તેવા",
+      "છેદતા હોય પરંતુ પેરેલલ ન હોય તેવા",
+      "છેદતા ન હોય તેવા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "યુનિવર્સલ જોઈન્ટ નાના ખૂણે એકબીજાને છેદતા (Intersecting non-parallel) શાફ્ટ વચ્ચે પાવર ટ્રાન્સમિટ કરે છે[cite: 7]."
+  },
+  {
+    "id": 50,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Universal Joint & Rocker Mechanisms",
+    "question": "Which joint is used to transmit power from engine gearbox to rear axle in automobiles?",
+    "gujaratiQuestion": "050. ઓટોમોબાઈલ વાહનોમાં એન્જિનથી રિયર એક્સલ સુધી પાવર ટ્રાન્સમિટ કરવા માટે કયા જોઈન્ટનો ઉપયોગ થાય છે?",
+    "options": [
+      "નકલ જોઈન્ટ",
+      "કોટર જોઈન્ટ",
+      "હુક્સ જોઈન્ટ",
+      "સ્લીવ જોઈન્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રોપેલર શાફ્ટના છેડા પર વેરિયેબલ એંગલ સમાવવા હૂક્સ જોઈન્ટ (Universal joint) વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 51,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "In a simple epicyclic gear set, what is always the output member for increasing torque in reverse?",
+    "gujaratiQuestion": "051. સિમ્પલ એપિસાઇક્લિક ગિયર સેટમાં, રિવર્સમાં ટોર્ક વધારવા માટેનું આઉટપુટ મેમ્બર હંમેશા કયું હોય છે?",
+    "options": [
+      "રિંગ ગિયર",
+      "પ્લેનેટ કેરિયર",
+      "સન ગિયર",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રિવર્સ રિડક્શન માટે સન ગિયર ઇનપુટ હોય અને કેરિયર ફિક્સ હોય ત્યારે રિંગ ગિયર વિરુદ્ધ દિશામાં ધીમી ગતિએ આઉટપુટ આપે છે[cite: 7]."
+  },
+  {
+    "id": 52,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Universal Joint & Rocker Mechanisms",
+    "question": "By which other name is a Universal joint known?",
+    "gujaratiQuestion": "052. યુનિવર્સલ જૉઇન્ટ બીજું કયા નામે ઓળખાય છે?",
+    "options": [
+      "નકલ જોઈન્ટ",
+      "ઓલ્ડહામ જોઈન્ટ",
+      "હુક્સ જોઈન્ટ",
+      "ફ્લેન્જ જોઈન્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "યુનિવર્સલ જોઈન્ટને હૂક્સ જોઈન્ટ (Hooke's joint) અથવા કાર્ડન જોઈન્ટ કહે છે[cite: 7]."
+  },
+  {
+    "id": 53,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Universal Joint & Rocker Mechanisms",
+    "question": "In Hooke's joint, which pair exists between the cross and shaft ends?",
+    "gujaratiQuestion": "053. હુક્સ જૉઇન્ટમાં ક્રોસ અને શાફ્ટના છેડા વચ્ચે કઈ પેર હોય છે?",
+    "options": [
+      "સ્લાઈડિંગ પેર",
+      "ટર્નિંગ પેર",
+      "રોલિંગ પેર",
+      "હાયર પેર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હુક્સ જોઈન્ટના સેન્ટ્રલ ક્રોસ (સ્પાઈડર) અને શાફ્ટ યોક વચ્ચે ટર્નિંગ પેર (Revolute pair) હોય છે[cite: 7]."
+  },
+  {
+    "id": 54,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "Two meshing spur gears have 70 and 30 teeth with common module of 5 mm. What is the center distance between gear axes?",
+    "gujaratiQuestion": "054. એકબીજા સાથે મેશ થતા બે સ્પુર ગિયર્સમાં 70 અને 30 દાંતા (teeth) છે. તેમનો કોમન મોડ્યુલ 5 mm છે. ગિયરની એક્સિસ વચ્ચેનું સેન્ટર ટુ સેન્ટર અંતર કેટલું હશે?",
+    "options": [
+      "150 mm",
+      "250 mm",
+      "300 mm",
+      "500 mm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સેન્ટર ડિસ્ટન્સ C = m · (T1 + T2) / 2 = 5 · (70 + 30) / 2 = 5 · 100 / 2 = 250 mm[cite: 7]."
+  },
+  {
+    "id": 55,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "What is the typewriter keyboard mechanism considered as?",
+    "gujaratiQuestion": "055. ટાઈપરાઈટરના કીબોર્ડની મિકેનિઝમ શું છે?",
+    "options": [
+      "સ્ટ્રક્ચર",
+      "મિકેનિઝમ",
+      "મશીન",
+      "ફ્રેમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટાઇપરાઇટર કીબોર્ડ એ કી દબાવવાથી ટાઇપ-બાર સુધી મોશન ટ્રાન્સફર કરતી મિકેનિઝમ (Mechanism) છે[cite: 7]."
+  },
+  {
+    "id": 56,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "A mechanism with one fixed link that transmits power and performs useful work is called:",
+    "gujaratiQuestion": "Q56. એક મિકેનિઝમ જેમાં એક લિંક ફિક્સ હોય અને તે પાવર ટ્રાન્સમિટ કરી વર્ક આપે તો તેને શું કહેવાય?",
+    "options": [
+      "કાઈનેમેટિક ચેઈન",
+      "સ્ટ્રક્ચર",
+      "મશીન",
+      "ઇન્વર્ઝન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જ્યારે મિકેનિઝમ ઉપલબ્ધ ઊર્જાનું રૂપાંતર કરી ઉપયોગી યાંત્રિક કાર્ય કરે ત્યારે તેને મશીન (Machine) કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 57,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "A pair of involute spur gears has 16° pressure angle, 6 mm module, 16 pinion teeth at 240 rpm and gear ratio 1.75. What is the addendum to avoid interference?",
+    "gujaratiQuestion": "057. 16° પ્રેશર એંગલ અને 6 mm મોડ્યુલ ધરાવતા ઇન્વોલ્યુટ સ્પુર ગિયર્સની જોડી મેશમાં છે. પિનિયન પર દાંતાની સંખ્યા 16 છે અને તેની રોટેશનલ સ્પીડ 240 rpm છે. જ્યારે ગિયર રેશિયો 1.75 હોય, ત્યારે ઇન્ટરફિયરન્સ ટાળવા માટે પિનિયન અને ગિયર વ્હીલ પર એડેન્ડા (addenda) કેટલું હશે?",
+    "options": [
+      "5.46 mm",
+      "4.9 mm",
+      "4.56 mm",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇન્ટરફિયરન્સ વિનાનું મહત્તમ સ્ટાન્ડર્ડ એડેન્ડમ ગણતરી મુજબ 4.9 mm (અથવા 5.46 mm) મળે છે[cite: 7]."
+  },
+  {
+    "id": 58,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Basic Kinematic Concepts & Definitions",
+    "question": "If a link has three nodes connecting to three other links, what is it called?",
+    "gujaratiQuestion": "058. જો કોઈ લિંકને અન્ય ત્રણ લિંક્સ સાથે જોડવામાં આવે, તો તે લિંકને કયા નામથી ઓળખવામાં આવે છે?",
+    "options": [
+      "બાઈનરી લિંક",
+      "ટર્નરી લિંક",
+      "ક્વાટર્નરી લિંક",
+      "સિંગલ લિંક"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ત્રણ કનેક્શન પોઇન્ટ્સ ધરાવતી લિંકને ટર્નરી લિંક (Ternary link) કહે છે[cite: 7]."
+  },
+  {
+    "id": 59,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Basic Kinematic Concepts & Definitions",
+    "question": "What is the minimum number of links required to form a kinematic pair?",
+    "gujaratiQuestion": "059. મિકેનિઝમમાં કાઈનેમેટિક પેર બનાવવા માટે ઓછામાં ઓછી કેટલી લિંક જરૂરી છે?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કાઈનેમેટિક પેર એ બે લિંક્સ વચ્ચેનો સંપર્ક અને સાપેક્ષ જોડાણ હોવાથી ઓછામાં ઓછી 2 લિંક જરૂરી છે[cite: 7]."
+  },
+  {
+    "id": 60,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "Which of the following is NOT a basis for classification of cams?",
+    "gujaratiQuestion": "060. કેમ્સના વર્ગીકરણ (classification) માટે નીચેનામાંથી કયો આધાર (basis) નથી?",
+    "options": [
+      "ફોલોઅરના કન્સ્ટ્રેઈન્ટની રીત",
+      "કેમમાં ફોલોઅરની મૂવમેન્ટ",
+      "કેમનું વજન",
+      "કેમનો આકાર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કેમનું વર્ગીકરણ આકાર, ફોલોઅરની મોશન અને ફોલોઅરના પ્રકાર મુજબ થાય છે, કેમના વજન પર નહીં[cite: 7]."
+  },
+  {
+    "id": 61,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "In a pin-jointed four-bar mechanism, if opposite links are equal in length, what shape do they always form?",
+    "gujaratiQuestion": "Q61. પીન-જૉઇન્ટેડ ફોર-બાર મિકેનિઝમમાં સામસામેની લિંક્સ સમાન લંબાઈની હોય, તો તે હંમેશા કેવો આકાર બનાવે છે?",
+    "options": [
+      "ત્રિકોણ",
+      "સમાંતરબાજુ ચતુષ્કોણ",
+      "સમલંબ ચતુષ્કોણ",
+      "પંચકોણ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સામસામેની લિંક્સ સમાન લંબાઈની હોવાથી તે સમાંતરબાજુ ચતુષ્કોણ (Parallelogram linkage) બનાવે છે[cite: 7]."
+  },
+  {
+    "id": 62,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Universal Joint & Rocker Mechanisms",
+    "question": "What type of motion does the rocker execute in a crank-rocker mechanism?",
+    "gujaratiQuestion": "062. ક્રેન્ક-રોકર મિકેનિઝમમાં રોકર કેવી ગતિ કરે છે?",
+    "options": [
+      "રોટરી ગતિ",
+      "ટ્રાન્સલેટરી ગતિ",
+      "ઓસિલેટરી ગતિ",
+      "જનરલ પ્લેન મોશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ક્રેન્ક-રોકરમાં ક્રેન્ક 360° પરિભ્રમણ કરે છે જ્યારે રોકર ચોક્કસ ખૂણા વચ્ચે દોલિત ગતિ (Oscillatory motion) કરે છે[cite: 7]."
+  },
+  {
+    "id": 63,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Displacement, Velocity & Acceleration Analysis",
+    "question": "What is Klein's construction primarily used for?",
+    "gujaratiQuestion": "063. ક્લેઈન કન્સ્ટ્રક્શન (Klein's construction) નો ઉપયોગ મુખ્યત્વે શેના માટે થાય છે?",
+    "options": [
+      "પિસ્ટનની લિનિયર વેલોસિટી શોધવા",
+      "પિસ્ટનનું લિનિયર એક્સેલરેશન શોધવા",
+      "પિસ્ટનનું લિનિયર ડિસ્પ્લેસમેન્ટ શોધવા",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ક્લેઈન કન્સ્ટ્રક્શન સિંગલ સ્લાઇડર ક્રેન્ક મિકેનિઝમમાં પિસ્ટનનો પ્રવેગ (Acceleration) અને વેગ ગ્રાફિકલી શોધવા વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 64,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "In a double slider-crank chain, what path is traced by any point on the connecting link?",
+    "gujaratiQuestion": "Q64, ડબલ સ્લાઈડર ક્રેન્ક ચેઈનમાં લિંક કનેક્ટ કરતો કોઈ પણ પોઈન્ટ શું ટ્રેસ કરે છે?",
+    "options": [
+      "સર્કલ",
+      "સ્ટ્રેટ લાઈન",
+      "પેરાબોલા",
+      "ઇલિપ્સ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઇલિપ્ટિકલ ટ્રેમલ સિદ્ધાંત મુજબ કનેક્ટિંગ લિંક પરનું કોઈપણ બિંદુ ઉપવલય (Ellipse) ટ્રેસ કરે છે[cite: 7]."
+  },
+  {
+    "id": 65,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "How many sliding pairs and turning pairs are present in a double slider-crank chain?",
+    "gujaratiQuestion": "065. ડબલ સ્લાઈડર ક્રેન્ક ચેઈનમાં કેટલી સ્લાઈડિંગ પેર અને કેટલી ટર્નિંગ પેર હોય છે?",
+    "options": [
+      "3 સ્લાઈડિંગ અને 1 ટર્નિંગ",
+      "2 ટર્નિંગ અને 2 સ્લાઈડિંગ",
+      "1 ટર્નિંગ અને 3 સ્લાઇડિંગ",
+      "4 ટર્નિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડબલ સ્લાઇડર ચેઇનમાં 2 ટર્નિંગ પેર અને 2 સ્લાઇડિંગ પેર (2R + 2P) હોય છે[cite: 7]."
+  },
+  {
+    "id": 66,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Displacement, Velocity & Acceleration Analysis",
+    "question": "What is the formula to find the number of instantaneous centers in a mechanism having n links?",
+    "gujaratiQuestion": "Q66. n લિંક ધરાવતા મિકેનિઝમમાં ઇન્સ્ટન્ટેનિયસ સેન્ટરની સંખ્યા શોધવાનું સૂત્ર કયું છે?",
+    "options": [
+      "n(n - 1) / 2",
+      "2n(n - 1) / 3",
+      "n(2n - 1) / 2",
+      "3n(n - 1) / 2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇન્સ્ટન્ટેનિયસ સેન્ટર્સની સંખ્યા N = n(n - 1) / 2 સૂત્ર વડે મળે છે[cite: 7]."
+  },
+  {
+    "id": 67,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Balancing of Reciprocating & Rotating Masses",
+    "question": "An unbalanced couple of 300 N-m is observed on a 200 cm long shaft. What are the dynamic reactions at the bearings?",
+    "gujaratiQuestion": "067. 200 cm લંબાઈના શાફ્ટ પર 300 N-m મૂલ્યનું અનબૅલેન્સ્ડ કપલ જોવા મળે છે. બેરિંગ્સ પર ડાયનેમિક રિએક્શન કેટલા હશે?",
+    "options": [
+      "300 N અને -300 N",
+      "300 N અને 300 N",
+      "150 N અને 150 N",
+      "150 N અને -150 N"
+    ],
+    "correctAnswer": 3,
+    "explanation": "રિએક્શન બળ R = Couple / Span = 300 N-m / 2.0 m = 150 N. સંતુલન માટે બંને છેડે સમાન અને વિરુદ્ધ (150 N અને -150 N) રિએક્શન લાગે છે[cite: 7]."
+  },
+  {
+    "id": 68,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Displacement, Velocity & Acceleration Analysis",
+    "question": "If a mechanism has 4 links, how many instantaneous centers will it have?",
+    "gujaratiQuestion": "068. જો કોઈ મિકેનિઝમમાં 4 લિંક હોય, તો તેમાં કેટલા ઇન્સ્ટન્ટેનિયસ સેન્ટર ઉદભવશે?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "N = n(n - 1) / 2 = 4(3) / 2 = 6[cite: 7]."
+  },
+  {
+    "id": 69,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Displacement, Velocity & Acceleration Analysis",
+    "question": "According to Kennedy's theorem, where do the three instantaneous centers of three bodies in planar relative motion lie?",
+    "gujaratiQuestion": "069. કેનેડીના પ્રમેય મુજબ, પ્લેન મોશન કરતી ત્રણ બોડીના ત્રણ ઈન્સ્ટન્ટેનિયસ સેન્ટર ક્યાં આવેલા હોય છે?",
+    "options": [
+      "ત્રિકોણના શિરોબિંદુ પર",
+      "એકબીજાને લંબરૂપ",
+      "એક જ સીધી રેખા પર",
+      "વર્તુળના પરિઘ પર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કેનેડીના થિયરમ મુજબ ત્રણ બોડીના સંબંધિત ત્રણ ઇન્સ્ટન્ટેનિયસ સેન્ટર્સ એક જ સીધી રેખા પર (Collinear) આવેલા હોય છે[cite: 7]."
+  },
+  {
+    "id": 70,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "Find the efficiency of a pulley system having mechanical advantage 2.5 where pulling the rope by 10 m lifts the load by 2.5 m.",
+    "gujaratiQuestion": "070. એક પુલી સિસ્ટમની એફિશિયન્સી શોધો કે જેનો મિકેનિકલ એડવાન્ટેજ 2.5 છે અને દોરડાને 10 m ખેંચતા લોડ 2.5 મીટર જેટલો ઊંચકાય છે.",
+    "options": [
+      "62.50%",
+      "25.00%",
+      "40.00%",
+      "100.00%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "VR = y / x = 10 / 2.5 = 4. Efficiency η = MA / VR = 2.5 / 4 = 0.625 = 62.50%[cite: 7]."
+  },
+  {
+    "id": 71,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Displacement, Velocity & Acceleration Analysis",
+    "question": "Which graphical construction method is widely used to draw velocity and acceleration diagrams for slider-crank mechanisms?",
+    "gujaratiQuestion": "Q71. સ્લાઈડર ક્રેન્ક મિકેનિઝમમાં વેલોસિટી અને એક્સેલરેશન ડાયાગ્રામ દોરવા માટે કઈ ગ્રાફિકલ પદ્ધતિ વધુ વપરાય છે?",
+    "options": [
+      "મોહર સર્કલ પદ્ધતિ",
+      "ક્લેઈનનું કન્સ્ટ્રક્શન",
+      "કેનેડીનું કન્સ્ટ્રક્શન",
+      "યુલર પદ્ધતિ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ક્લેઈન કન્સ્ટ્રક્શન (Klein's construction) સ્લાઇડર ક્રેન્ક મિકેનિઝમ માટે સૌથી ઝડપી ગ્રાફિકલ પદ્ધતિ છે[cite: 7]."
+  },
+  {
+    "id": 72,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Displacement, Velocity & Acceleration Analysis",
+    "question": "When a slider moves along a rotating link, which additional acceleration component is generated?",
+    "gujaratiQuestion": "072. જ્યારે કોઈ સ્લાઈડર ફરતી લિંક પર ગતિ કરતું હોય, ત્યારે કયો વધારાનો એક્સેલરેશન ઘટક ઉદભવે છે?",
+    "options": [
+      "નોર્મલ એક્સેલરેશન",
+      "ટેન્જેન્શિયલ એક્સેલરેશન",
+      "કોરિઓલિસ એક્સેલરેશન",
+      "સેન્ટ્રીપેટલ એક્સેલરેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફરતી લિંક પર સ્લાઇડરની સાપેક્ષ રેખીય ગતિને કારણે કોરિઓલિસ એક્સેલરેશન (Coriolis component) ઉદભવે છે[cite: 7]."
+  },
+  {
+    "id": 73,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "For a Watt governor, what angular speed corresponds to a height of 15 cm?",
+    "gujaratiQuestion": "073. વૉટ ગવર્નર માટે, 15 cm ની ઊંચાઈ કઈ એંગ્યુલર સ્પીડને અનુરૂપ (corresponds) છે?",
+    "options": [
+      "9.2 rad/sec",
+      "8.1 rad/sec",
+      "6.5 rad/sec",
+      "7.0 rad/sec"
+    ],
+    "correctAnswer": 1,
+    "explanation": "h = g / ω² => ω = √(g / h) = √(9.81 / 0.15) = √65.4 = 8.087 ≈ 8.1 rad/sec[cite: 7]."
+  },
+  {
+    "id": 75,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Displacement, Velocity & Acceleration Analysis",
+    "question": "In a mechanism, in which direction is the velocity vector of any point on a link relative to another?",
+    "gujaratiQuestion": "Q75. મિકેનિઝમમાં કોઈપણ લિંક માટે વેલોસિટી વેક્ટર તે લિંકને કઈ દિશામાં હોય છે?",
+    "options": [
+      "સમાંતર",
+      "લંબરૂપ",
+      "45 ડિગ્રી પર",
+      "સમાન દિશામાં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કોઈપણ કઠણ લિંક માટે બે બિંદુઓ વચ્ચેનો સાપેક્ષ વેગ વેક્ટર હંમેશા તે લિંકને લંબરૂપ (Perpendicular) દિશામાં હોય છે[cite: 7]."
+  },
+  {
+    "id": 76,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "If the load on a ball bearing is reduced to half, its life will increase by how many times?",
+    "gujaratiQuestion": "Q76. જો બોલ બેરિંગ પરનો લોડ ઘટાડીને અડધો કરવામાં આવે, તો તેની લાઈફ (આયુષ્ય) વધીને કેટલી થશે?",
+    "options": [
+      "8 ગણી",
+      "16 ગણી",
+      "32 ગણી",
+      "64 ગણી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બોલ બેરિંગ માટે Life L ∝ (1/P)³ થાય છે. લોડ P અડધો (P/2) કરતાં લાઈફ (2)³ = 8 ગણી વધશે[cite: 7]."
+  },
+  {
+    "id": 77,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Displacement, Velocity & Acceleration Analysis",
+    "question": "In a four-bar mechanism, what is the velocity of the instantaneous center of the fixed link?",
+    "gujaratiQuestion": "077. ફોર-બાર મિકેનિઝમમાં ફિક્સ લિંકના ઇન્સ્ટન્ટેનિયસ સેન્ટરનો વેગ કેટલો હોય છે?",
+    "options": [
+      "મહત્તમ",
+      "અનંત",
+      "શૂન્ય",
+      "ઈનપુટ વેગ જેટલો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફિક્સ લિંક સાથે જોડાયેલા કાયમી ઇન્સ્ટન્ટેનિયસ સેન્ટર્સ સ્થિર હોવાથી તેમનો વેગ શૂન્ય (Zero) હોય છે[cite: 7]."
+  },
+  {
+    "id": 78,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Displacement, Velocity & Acceleration Analysis",
+    "question": "When a particle moves along a curved path in a mechanism, which two components are drawn in its acceleration diagram?",
+    "gujaratiQuestion": "078. મિકેનિઝમમાં કોઈ કણ વક્ર પથ પર ગતિ કરતો હોય, ત્યારે તેના એક્સેલરેશન ડાયાગ્રામમાં કયા બે ઘટક દોરવામાં આવે છે?",
+    "options": [
+      "નોર્મલ અને ટેન્જેન્શિયલ",
+      "રેડિયલ અને કોરિઓલિસ",
+      "ટેન્જેન્શિયલ અને રિલેટિવ",
+      "પેરેલલ અને નોર્મલ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વક્ર ગતિમાં વેગની દિશા બદલાવાથી સેન્ટ્રીપીટલ/નોર્મલ ઘટક (an) અને મૂલ્ય બદલાવાથી ટેન્જેન્શિયલ ઘટક (at) દોરાય છે[cite: 7]."
+  },
+  {
+    "id": 79,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "In spur gears, what is the circle called on which the involute profile is generated?",
+    "gujaratiQuestion": "079. સ્પુર ગિયર્સમાં, જે સર્કલ પર ઈન્વોલ્યુટ જનરેટ થાય છે તેને શું કહેવાય છે?",
+    "options": [
+      "બેઝ સર્કલ",
+      "ક્લિયરન્સ એંગલ",
+      "પિચ સર્કલ",
+      "એડેન્ડમ સર્કલ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇન્વોલ્યુટ ટૂથ પ્રોફાઇલ હંમેશા બેઝ સર્કલ (Base circle) પરથી જનરેટ કરવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 80,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Displacement, Velocity & Acceleration Analysis",
+    "question": "In a slider-crank mechanism, at which position is the piston velocity zero?",
+    "gujaratiQuestion": "Q80. સ્લાઈડર ક્રેન્ક મિકેનિઝમમાં પિસ્ટનનો વેગ કયા સ્થાને શૂન્ય હોય છે?",
+    "options": [
+      "સ્ટ્રોકની મધ્યમાં",
+      "ક્રેન્ક જ્યારે 90 ડિગ્રી હોય",
+      "ઈનર અને આઉટર ડેડ સેન્ટર પર",
+      "ક્રેન્ક જ્યારે 45 ડિગ્રી હોય"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પિસ્ટનની ગતિ દિશા બદલતી વખતે ઈનર ડેડ સેન્ટર (IDC) અને આઉટર ડેડ સેન્ટર (ODC) પર વેગ શૂન્ય થાય છે[cite: 7]."
+  },
+  {
+    "id": 81,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Displacement, Velocity & Acceleration Analysis",
+    "question": "In a reciprocating engine, what is the piston acceleration at the Inner Dead Center (IDC)?",
+    "gujaratiQuestion": "Q81. રેસીપ્રોક્રેટિંગ એન્જિનમાં પિસ્ટનનું એક્સેલરેશન ઈનર ડેડ સેન્ટર (IDC) પર કેટલું હોય છે?",
+    "options": [
+      "શૂન્ય",
+      "લઘુત્તમ",
+      "મહત્તમ",
+      "અચળ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "IDC (θ = 0°) પર પિસ્ટન પ્રવેગ a = ω²r(1 + 1/n) મહત્તમ (Maximum) હોય છે[cite: 7]."
+  },
+  {
+    "id": 82,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "While replacing V-belts, why is a complete new set of belts used instead of replacing only one damaged belt?",
+    "gujaratiQuestion": "Q82. V-બેલ્ટ્સ બદલતી વખતે, માત્ર એક ક્ષતિગ્રસ્ત બેલ્ટ બદલવાને બદલે નવા બેલ્ટનો આખો સેટ વાપરવામાં આવે છે કારણ કે...",
+    "options": [
+      "બેલ્ટ્સ સેટમાં જ ઉપલબ્ધ હોય છે",
+      "માત્ર એક જ બેલ્ટ અન્ય વપરાયેલા બેલ્ટ્સ સાથે ફીટ કરવામાં આવે છે",
+      "નવો બેલ્ટ તેના ભાગ કરતા વધારે લોડ વહન કરશે અને પરિણામે આયુષ્ય ઘટશે",
+      "નવા અને જૂના બેલ્ટ વાઈબ્રેશન પેદા કરશે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "નવો બેલ્ટ ટૂંકો હોવાથી તમામ લોડ તેના પર આવશે અને તે ઝડપથી ક્ષતિગ્રસ્ત થઈ જશે[cite: 7]."
+  },
+  {
+    "id": 83,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "For dynamic analysis, the method of assuming a moving body in dynamic equilibrium with inertia forces is based on which principle?",
+    "gujaratiQuestion": "083. પદાર્થની ગતિના ડાયનેમિક વિશ્લેષણ માટે ગતિમાન પદાર્થને કાલ્પનિક રીતે સ્થિર ધારીને સમીકરણ ઉકેલવાની રીત કયા સિદ્ધાંત પર આધારિત છે?",
+    "options": [
+      "ન્યુટનનો ત્રીજો નિયમ",
+      "ડી-એલમ્બર્ટનો સિદ્ધાંત",
+      "જુલનો સિદ્ધાંત",
+      "પાસ્કલનો સિદ્ધાંત"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગતિશીલ સમસ્યાને સ્ટેટિક સમકક્ષ બનાવી ઉકેલવાના સિદ્ધાંતને ડી-એલમ્બર્ટનો સિદ્ધાંત (D'Alembert's Principle) કહે છે[cite: 7]."
+  },
+  {
+    "id": 84,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "According to D'Alembert's principle, the sum of all external forces and which force acting on a body is zero?",
+    "gujaratiQuestion": "Q84. ડી-એલમ્બર્ટના સિદ્ધાંત મુજબ, પદાર્થ પર લાગતા તમામ બાહ્ય બળો અને કયા બળનો સરવાળો શૂન્ય થાય છે?",
+    "options": [
+      "ગ્રેવિટી ફોર્સ",
+      "ફ્રિક્શન ફોર્સ",
+      "ઇનર્શિયા ફોર્સ",
+      "સેન્ટ્રીફ્યુગલ ફોર્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બાહ્ય પરિણામી બળ અને રિવર્સ્ડ ઇફેક્ટિવ બળ (ઇનર્શિયા ફોર્સ: -m·a) નો સરવાળો શૂન્ય થાય છે (ΣF - ma = 0)[cite: 7]."
+  },
+  {
+    "id": 85,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "The product of circular pitch (pc) and diametral pitch (P) is equal to:",
+    "gujaratiQuestion": "085. સકર્ક્યુલર પિચ અને ડાયમેટ્રલ પિચનો ગુણાકાર (product) કોના બરાબર થાય છે?",
+    "options": [
+      "1",
+      "1.57",
+      "π",
+      "અનંત (Infinite)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "pc = (π·D)/T અને P = T/D હોવાથી pc × P = π થાય છે[cite: 7]."
+  },
+  {
+    "id": 86,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "In a mechanism, what is the direction of the inertia force relative to the acceleration of the body?",
+    "gujaratiQuestion": "086. મિકેનિઝમમાં ઇનર્શિયા ફોર્સની દિશા પદાર્થના એક્સેલરેશનની દિશાથી કેવી હોય છે?",
+    "options": [
+      "સમાન દિશામાં",
+      "વિરુદ્ધ દિશામાં",
+      "લંબરૂપ દિશામાં",
+      "કોઈપણ દિશામાં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇનર્શિયા ફોર્સ (Fi = -m·a) હંમેશા પ્રવેગની દિશાની બરાબર વિરુદ્ધ દિશામાં લાગે છે[cite: 7]."
+  },
+  {
+    "id": 87,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "Which component is used to balance dynamic loads in a power press or punching machine?",
+    "gujaratiQuestion": "Q87. પાવર પ્રેસ અથવા પંચિંગ મશીનમાં ડાયનેમિક લોડનું સંતુલન કરવા માટે કયા ઘટકનો ઉપયોગ થાય છે?",
+    "options": [
+      "ગિયર ટ્રેન",
+      "ફ્લાયવ્હીલ",
+      "ગવર્નર",
+      "કેમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પંચિંગ જેવા ઇન્ટરમીટન્ટ લોડમાં ઊર્જાનો સંગ્રહ અને મુક્તિ કરવા ફ્લાયવ્હીલ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 88,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "A turning moment diagram is a graphical representation between which parameters?",
+    "gujaratiQuestion": "Q88. ટર્નિંગ મોમેન્ટ ડાયાગ્રામ કોની વચ્ચેનો આલેખ છે?",
+    "options": [
+      "ટર્નિંગ મોમેન્ટ અને ક્રેન્ક એન્ગલ",
+      "પાવર અને સમય",
+      "વેલોસિટી અને એક્સેલરેશન",
+      "ટોર્ક અને સ્પીડ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ટર્નિંગ મોમેન્ટ ડાયાગ્રામ એ ક્રેન્ક એન્ગલ (θ) ની સાપેક્ષે ટર્નિંગ મોમેન્ટ (T) નો આલેખ છે[cite: 7]."
+  },
+  {
+    "id": 89,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "On what does the theoretical stress concentration factor for a machine component depend?",
+    "gujaratiQuestion": "Q89. મશીન કમ્પોનન્ટ માટે સ્ટ્રેસ કોન્સન્ટ્રેશન ફેક્ટર શેના પર આધારિત છે?",
+    "options": [
+      "માત્ર કમ્પોનન્ટની જિયોમેટ્રી (ભૂમિતિ) પર",
+      "માત્ર કમ્પોનન્ટના મટિરિયલ પર",
+      "કમ્પોનન્ટની જિયોમેટ્રી તેમજ મટિરિયલ પર",
+      "કમ્પોનન્ટની જિયોમેટ્રી અને મટિરિયલ સિવાયના અન્ય પરિબળો પર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્ટ્રેસ કોન્સન્ટ્રેશન ફેક્ટર ઘટકના ભૌમિતિક આકાર (ખાંચા, છિદ્રો) અને મટિરિયલની નોચ સેન્સિટિવિટી પર આધારિત છે[cite: 7]."
+  },
+  {
+    "id": 90,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "What does the area enclosed under the turning moment diagram represent?",
+    "gujaratiQuestion": "Q90. ટર્નિંગ મોમેન્ટ ડાયાગ્રામ નીચે ઘેરાયેલો વિસ્તાર શું દર્શાવે છે?",
+    "options": [
+      "વર્ક ડન પ્રતિ ક્રાંતિ",
+      "મહત્તમ વેલોસિટી",
+      "ટોર્ક",
+      "સરેરાશ પાવર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "T-θ ડાયાગ્રામ હેઠળનો વિસ્તાર કાર્ય એટલે કે વર્ક ડન પ્રતિ ક્રાંતિ (Work done per cycle/revolution) દર્શાવે છે[cite: 7]."
+  },
+  {
+    "id": 91,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "Which mechanism converts rotary motion into linear or oscillatory motion of a follower?",
+    "gujaratiQuestion": "091. કઈ મિકેનિઝમ દ્વારા રોટરી મોશનને ફોલોઅરની લાઈનર યા ઓસિલેટરી મોશનમાં ફેરવવામાં આવે છે?",
+    "options": [
+      "ગિયર મિકેનિઝમ",
+      "કેમ અને ફોલોઅર",
+      "ઓલ્ડહામ કપલિંગ",
+      "સ્કોચ યોક મિકેનિઝમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કેમ અને ફોલોઅર મિકેનિઝમ રોટરી મોશનનું પ્રી-ડિટર્માઇન્ડ રેખીય કે ઓસિલેટિંગ મોશનમાં રૂપાંતર કરે છે[cite: 7]."
+  },
+  {
+    "id": 92,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "In a flange coupling, how are the flanges coupled together?",
+    "gujaratiQuestion": "092. ફ્લેન્જ કપલિંગમાં, ફ્લેન્જીસને એકસાથે કોના દ્વારા જોડવામાં (couple) આવે છે?",
+    "options": [
+      "બોલ્ટ્સ અને નટ્સ",
+      "સ્ટડ્સ",
+      "હેડલેસ ટેપર બોલ્ટ્સ",
+      "આમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ફ્લેન્જ કપલિંગના બંને અર્ધભાગને પરિઘ પર બોલ્ટ્સ અને નટ્સ (Fitted bolts) વડે જોડવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 93,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "What type of pair is formed due to contact between cam and follower?",
+    "gujaratiQuestion": "093. કેમ અને ફોલોઅર વચ્ચેના સંપર્કને લીધે કયા પ્રકારની પેર બને છે?",
+    "options": [
+      "સ્લાઈડિંગ પેર",
+      "ટર્નિંગ પેર",
+      "હાયર પેર",
+      "લોઅર પેર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "તેમની વચ્ચે પોઇન્ટ અથવા લાઇન સંપર્ક હોવાથી તે હાયર પેર (Higher pair) છે[cite: 7]."
+  },
+  {
+    "id": 94,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "What is the point on the cam profile where the pressure angle is maximum called?",
+    "gujaratiQuestion": "094. કેમ પ્રોફાઈલ પર આવેલું એવું બિંદુ જ્યાં પ્રેશર ઍન્ગલ મહત્તમ હોય તેને શું કહેવાય છે?",
+    "options": [
+      "પિચ પોઈન્ટ",
+      "ટ્રેસ પોઈન્ટ",
+      "બેઝ પોઇન્ટ",
+      "પ્રાઈમ પોઈન્ટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પિચ કર્વ પર જે બિંદુએ પ્રેશર એંગલ મહત્તમ હોય તેને પિચ પોઇન્ટ (Pitch point) કહે છે[cite: 7]."
+  },
+  {
+    "id": 95,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "In a multiple V-belt drive, when one belt is damaged, why is it recommended to replace the entire set?",
+    "gujaratiQuestion": "095. મલ્ટિપલ V બેલ્ટ ડ્રાઈવમાં, જ્યારે એક બેલ્ટ ક્ષતિગ્રસ્ત થાય, ત્યારે આખો સેટ બદલવાનું વધુ હિતાવહ છે જેથી...",
+    "options": [
+      "વાઇબ્રેશન ઘટાડી શકાય",
+      "સ્લિપ ઘટાડી શકાય",
+      "સમાન લોડિંગ (uniform loading) સુનિશ્ચિત કરી શકાય",
+      "યોગ્ય એલાઈનમેન્ટ સુનિશ્ચિત કરી શકાય"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બધા બેલ્ટ પર સમાન ખેંચાણ અને એકસમાન લોડ વહેંચણી (Uniform loading) સુનિશ્ચિત કરવા આખો સેટ બદલાય છે[cite: 7]."
+  },
+  {
+    "id": 96,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "What does the displacement diagram of a follower moving with uniform velocity look like?",
+    "gujaratiQuestion": "096. યુનિફોર્મ વેલોસિટીથી ગતિ કરતા ફોલોઅરનો ડિસ્પ્લેસમેન્ટ ડાયાગ્રામ કેવો બને છે?",
+    "options": [
+      "પેરાબોલા",
+      "સીધી રેખા",
+      "સાઈન કર્વ",
+      "હાઈપરબોલા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અચળ વેગ માટે સ્થાનાંતર સમયના સમપ્રમાણમાં વધતું હોવાથી ડાયાગ્રામ સીધી રેખા (Straight line) બને છે[cite: 7]."
+  },
+  {
+    "id": 97,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "Which follower motion is most preferred in high-speed engines?",
+    "gujaratiQuestion": "097. હાઈ સ્પીડ ઍન્જિનમાં ફોલોઅર માટે કઈ ગતિ સૌથી વધુ અનુકૂળ છે?",
+    "options": [
+      "યુનિફોર્મ વેલોસિટી",
+      "સિમ્પલ હાર્મોનિક મોશન",
+      "યુનિફોર્મ એક્સેલરેશન અને રિટાર્ડેશન",
+      "સાયક્લોઇડલ મોશન"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સાયક્લોઇડલ મોશનમાં કોઈ ઝર્ક (Jerk) કે પ્રવેગમાં અચાનક ઉછાળો ન હોવાથી હાઈ સ્પીડ કેમ માટે તે સર્વશ્રેષ્ઠ છે[cite: 7]."
+  },
+  {
+    "id": 98,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "What is the primary function of a washer?",
+    "gujaratiQuestion": "098. વોશરનું કાર્ય શું છે?",
+    "options": [
+      "કુશનિંગ ઇફેક્ટ પૂરી પાડવી",
+      "બેરિંગ એરિયા પૂરો પાડવો",
+      "આંચકા (shocks) અને વાઈબ્રેશનને શોષવા",
+      "ખરબચડી સપાટીને બદલે લીસી સપાટી પૂરી પાડવી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વોશર નટ કે બોલ્ટના ક્લેમ્પિંગ લોડને મોટા વિસ્તાર પર વહેંચવા બેરિંગ એરિયા પૂરો પાડે છે[cite: 7]."
+  },
+  {
+    "id": 99,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "Which type of follower is most useful to reduce surface wear on the cam?",
+    "gujaratiQuestion": "099. કેમની સપાટી પર વેર (ઘસારો) ઘટાડવા માટે કયા પ્રકારનું ફોલોઅર વધુ ઉપયોગી છે?",
+    "options": [
+      "નાઈફ એજ ફોલોઅર",
+      "રોલર ફોલોઅર",
+      "પોઈન્ટ ફોલોઅર",
+      "સ્ફેરિકલ ફોલોઅર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રોલર ફોલોઅરમાં રોલિંગ કોન્ટેક્ટ થતો હોવાથી સ્લાઇડિંગ ઘર્ષણ અને ઘસારો અત્યંત ઘટી જાય છે[cite: 7]."
+  },
+  {
+    "id": 100,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "Where is the trace point located in a roller follower?",
+    "gujaratiQuestion": "0100. રોલર ફોલોઅરમાં ટ્રેસ પોઈન્ટ ક્યાં આવેલો હોય છે?",
+    "options": [
+      "રોલરની ધાર પર",
+      "રોલરના કેન્દ્ર પર",
+      "બેઝ સર્કલ પર",
+      "પિચ સર્કલ પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રોલર ફોલોઅર માટે પિચ કર્વ જનરેટ કરતો ટ્રેસ પોઇન્ટ રોલર પિનના કેન્દ્ર (Center of roller) પર હોય છે[cite: 7]."
+  },
+  {
+    "id": 101,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "Transverse fillet welded joints are designed for:",
+    "gujaratiQuestion": "0101. ટ્રાન્સવર્સ ફિલેટ વેલ્ડેડ જોઇન્ટ્સ શેના માટે ડિઝાઈન કરવામાં આવે છે?",
+    "options": [
+      "ટેન્સાઈલ સ્ટ્રેન્થ",
+      "કોમ્પ્રેસિવ સ્ટ્રેન્થ",
+      "શિયર સ્ટ્રેન્થ",
+      "બેન્ડિંગ સ્ટ્રેન્થ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ટ્રાન્સવર્સ ફિલેટ વેલ્ડ્સ લોડની દિશાને લંબ હોવાથી મુખ્યત્વે ટેન્સાઇલ સ્ટ્રેન્થ માટે ડિઝાઈન કરાય છે[cite: 7]."
+  },
+  {
+    "id": 102,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "What problem can occur if the pressure angle between cam and follower is too large?",
+    "gujaratiQuestion": "0102. જો કેમ અને ફોલોઅરમાં પ્રેશર એન્ગલ ખૂબ મોટો હોય, તો શું સમસ્યા થઈ શકે છે?",
+    "options": [
+      "ફોલોઅર ઝડપથી ફરે છે",
+      "કેમનું કદ વધે છે",
+      "ફોલોઅર તેની ગાઈડમાં જામ થઇ શકે છે",
+      "પાવર વધુ ઉત્પન્ન થાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મોટો પ્રેશર એંગલ સાઇડ થ્રસ્ટ વધારે છે, જેથી ફોલોઅર તેની ગાઇડ વેઝમાં જામ (Jamming in guide) થઈ શકે છે[cite: 7]."
+  },
+  {
+    "id": 103,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "Which circle is drawn first while drawing a cam profile?",
+    "gujaratiQuestion": "0103. કેમ પ્રોફાઈલ દોરતી વખતે સૌપ્રથમ કયું વર્તુળ દોરવામાં આવે છે?",
+    "options": [
+      "પિચ સર્કલ",
+      "બેઝ સર્કલ",
+      "પ્રાઈમ સર્કલ",
+      "કેમ સર્કલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કેમ પ્રોફાઇલ દોરવા માટે સૌથી નાનું અને પાયાનું બેઝ સર્કલ (Base circle) સૌપ્રથમ દોરાય છે[cite: 7]."
+  },
+  {
+    "id": 104,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "Aircraft bodies are generally fabricated by which method?",
+    "gujaratiQuestion": "Q104. એરક્રાફ્ટની બોડી સામાન્ય રીતે કઈ રીતે ફેબ્રિકેટ કરવામાં આવે છે?",
+    "options": [
+      "વેલ્ડિંગ",
+      "પ્રિ-કાસ્ટિંગ",
+      "રિવેટિંગ",
+      "કાસ્ટિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એરક્રાફ્ટ સ્ટ્રક્ચરમાં એલ્યુમિનિયમ શીટ્સ જોડવા વાઇબ્રેશન અને થાક સામે ટકાઉ રિવેટિંગ (Riveting) પદ્ધતિ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 105,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "If the line of motion of the follower passes through the axis of the cam, what is the follower called?",
+    "gujaratiQuestion": "0105. જો ફોલોઅરની ગતિની ધરી કેમની અક્ષમાંથી પસાર થતી હોય, તો તેને કયું ફોલોઅર કહેવાય છે?",
+    "options": [
+      "રેડિયલ ફોલોઅર",
+      "ઓફસેટ ફોલોઅર",
+      "ઓસિલેટિંગ ફોલોઅર",
+      "ફ્લેટ ફોલોઅર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "જ્યારે મોશન અક્ષ કેમ સેન્ટરમાંથી પસાર થાય ત્યારે તેને રેડિયલ ફોલોઅર (Radial follower) કહે છે[cite: 7]."
+  },
+  {
+    "id": 106,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "If the line of motion of the follower is slightly away from the cam center, what is it called?",
+    "gujaratiQuestion": "0106. જો ફોલોઅરની ગતિની ધરી કેમની અક્ષથી થોડી દૂર હોય, તો તેને શું કહેવાય છે?",
+    "options": [
+      "રેડિયલ ફોલોઅર",
+      "ઓફસેટ ફોલોઅર",
+      "પેરેલલ ફોલોઅર",
+      "નાઈફ એજ ફોલોઅર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગતિ રેખા કેમ અક્ષથી અમુક અંતરે ખસેલી હોય તેને ઓફસેટ ફોલોઅર (Offset follower) કહે છે[cite: 7]."
+  },
+  {
+    "id": 107,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "How is the sleeve of a muff coupling designed?",
+    "gujaratiQuestion": "0107. મફ (Muff) કપલિંગની સ્લીવની ડિઝાઈન કેવી રીતે કરવામાં આવે છે?",
+    "options": [
+      "થીન સિલિન્ડર તરીકે",
+      "થીક સિલિન્ડર તરીકે",
+      "સોલિડ શાફ્ટ તરીકે",
+      "હોલો શાફ્ટ તરીકે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "મફ કપલિંગની કાસ્ટ આયર્ન સ્લીવ ટોર્ક ટ્રાન્સમિટ કરતો હોલો શાફ્ટ (Hollow shaft) ગણીને ડિઝાઈન કરાય છે[cite: 7]."
+  },
+  {
+    "id": 108,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "What is the shape of the velocity diagram of a follower moving with uniform velocity?",
+    "gujaratiQuestion": "0108. સમાન વેગથી ચાલતા ફૉલોઅરના વેલોસિટી ડાયાગ્રામનો આકાર કેવો હોય છે?",
+    "options": [
+      "ત્રિકોણ",
+      "પેરાબોલા",
+      "લંબચોરસ",
+      "વળાંકવાળો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "અચળ વેગ દરમિયાન વેલોસિટી સમય સાથે અચળ રહેતી હોવાથી ડાયાગ્રામ લંબચોરસ (Rectangular) બને છે[cite: 7]."
+  },
+  {
+    "id": 109,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "Which gear tooth profile is most widely used for power transmission?",
+    "gujaratiQuestion": "0109. પાવર ટ્રાન્સમિટ કરવા માટે સૌથી વધુ ઉપયોગમાં લેવાતી ગિયર ટૂથ પ્રોફાઈલ કઈ છે?",
+    "options": [
+      "સાયક્લોઈડલ",
+      "ઈન્વોલ્યુટ",
+      "હાઈપરબોલિક",
+      "એલિપ્ટિકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બનાવટમાં સરળતા અને સેન્ટર ડિસ્ટન્સના નાના ફેરફાર સામે અચળ વેલોસિટી રેશિયો આપવા ઇન્વોલ્યુટ (Involute) પ્રોફાઇલ સૌથી વધુ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 110,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "Which gears are used to transmit power between two parallel shafts?",
+    "gujaratiQuestion": "Q110. બે સમાંતર શાફ્ટ વચ્ચે પાવર ટ્રાન્સમિટ કરવા માટે કયો ગિયર ઉપયોગમાં લેવાય છે?",
+    "options": [
+      "બેવલ ગિયર",
+      "સ્પર ગિયર",
+      "વોર્મ ગિયર",
+      "ક્રોસ્ડ હેલિકલ ગિયર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સમાંતર શાફ્ટ વચ્ચે પાવર ટ્રાન્સમિશન માટે સ્પર ગિયર અથવા હેલિકલ ગિયર વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 111,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "On what does the surface endurance limit of a gear material depend?",
+    "gujaratiQuestion": "Q111. ગિયર મટિરિયલની સરફેસ એન્ડ્યોરન્સ લિમિટ શેના પર આધાર રાખે છે?",
+    "options": [
+      "ઇલાસ્ટિક સ્ટ્રેન્થ",
+      "યીલ્ડ સ્ટ્રેન્થ",
+      "બ્રિનેલ હાર્ડનેસ નંબર",
+      "ટફનેસ (Toughness)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગિયર દાંતાની સપાટી પર થતા પિટિંગ સામેની એન્ડ્યોરન્સ લિમિટ બ્રિનેલ હાર્ડનેસ નંબર (BHN) પર આધાર રાખે છે[cite: 7]."
+  },
+  {
+    "id": 112,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "Which gear is used to transmit power between two intersecting shafts?",
+    "gujaratiQuestion": "0112. બે છેદતી (intersecting) શાફ્ટ વચ્ચે પાવર ટ્રાન્સમિટ કરવા માટે કયો ગિયર વપરાય છે?",
+    "options": [
+      "સ્પર ગિયર",
+      "હેલિકલ ગિયર",
+      "બેવલ ગિયર",
+      "વોર્મ ગિયર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એકબીજાને છેદતા શાફ્ટ વચ્ચે પાવર ટ્રાન્સમિશન માટે બેવલ ગિયર્સ (Bevel gears) વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 113,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "Which gear is used to transmit power between non-intersecting and non-parallel shafts?",
+    "gujaratiQuestion": "Q113. બે શાફ્ટ જે એકબીજાને છેદતી ન હોય અને સમાંતર પણ ન હોય, તેમની વચ્ચે પાવર ટ્રાન્સમિટ કરવા કયો ગિયર વપરાય છે?",
+    "options": [
+      "સ્પર ગિયર",
+      "ક્રોસ્ડ હેલિકલ અથવા વોર્મ ગિયર",
+      "સ્ટ્રેટ બેવલ ગિયર",
+      "ઇન્ટરનલ ગિયર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નોન-ઇન્ટરસેક્ટિંગ અને નોન-પેરેલલ શાફ્ટ માટે વોર્મ ગિયર અથવા ક્રોસ્ડ હેલિકલ ગિયર (Spiral gears) વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 114,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "According to Indian Standard Specification, what does 100 H6/g5 mean?",
+    "gujaratiQuestion": "0114. ઇન્ડિયન સ્ટાન્ડર્ડ સ્પેસિફિકેશન મુજબ, 100 H6/g5 નો અર્થ શું થાય છે?",
+    "options": [
+      "હોલ માટે ટોલરન્સ ગ્રેડ 6 અને શાફ્ટ માટે 5 છે",
+      "શાફ્ટ માટે ટોલરન્સ ગ્રેડ 6 અને હોલ માટે 5 છે",
+      "શાફ્ટ માટે ટોલરન્સ ગ્રેડ 4 થી 8 અને હોલ માટે 3 થી 7 છે",
+      "હોલ માટે ટોલરન્સ ગ્રેડ 4 થી 8 અને શાફ્ટ માટે 3 થી 7 છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "H6 હોલ માટે ગ્રેડ IT6 અને g5 શાફ્ટ માટે ગ્રેડ IT5 દર્શાવે છે[cite: 7]."
+  },
+  {
+    "id": 115,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "If module is m and number of teeth on gear is T, what is the pitch circle diameter (D)?",
+    "gujaratiQuestion": "Q115. જો મોડયુલ m હોય અને ગિયર પરના દાંતાની સંખ્યા T હોય, તો ગિયરનો પિચ સર્કલ વ્યાસ (D) કેટલો થાય?",
+    "options": [
+      "m + T",
+      "m / T",
+      "T / m",
+      "m × T"
+    ],
+    "correctAnswer": 3,
+    "explanation": "મોડ્યુલ m = D / T હોવાથી પિચ સર્કલ વ્યાસ D = m × T થાય[cite: 7]."
+  },
+  {
+    "id": 116,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "What is the radial distance between pitch circle and addendum circle of a gear called?",
+    "gujaratiQuestion": "Q116. ગિયરના પિચ સર્કલ અને એડેન્ડમ સર્કલ વચ્ચેના રેડિયલ અંતરને શું કહેવાય છે?",
+    "options": [
+      "ક્લિયરન્સ",
+      "ડિડેન્ડમ",
+      "એડેન્ડમ",
+      "વર્કિંગ ડેપ્થ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પિચ સર્કલથી દાંતાની ટોચ (એડેન્ડમ સર્કલ) વચ્ચેના ત્રિજ્યાવર્તી અંતરને એડેન્ડમ (Addendum) કહે છે[cite: 7]."
+  },
+  {
+    "id": 117,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "If the load on a ball bearing is reduced to one-third (1/3), its life will increase by how many times?",
+    "gujaratiQuestion": "Q117. જો બોલ બેરિંગ પરનો લોડ ઘટાડીને ત્રીજા ભાગનો (1/3) કરવામાં આવે, તો તેની લાઈફ (આયુષ્ય) કેટલી વધશે?",
+    "options": [
+      "3 ગણી",
+      "27 ગણી",
+      "9 ગણી",
+      "81 ગણી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L ∝ (1/P)³ હોવાથી લોડ 1/3 કરતાં લાઈફ (3)³ = 27 ગણી વધશે[cite: 7]."
+  },
+  {
+    "id": 118,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "Where does interference occur in a gear drive?",
+    "gujaratiQuestion": "0118. ગિયર ડ્રાઈવમાં ઈન્ટરફિયરન્સ ક્યાં જોવા મળે છે?",
+    "options": [
+      "પિચ પોઇન્ટ પાસે",
+      "દાંતાના રૂટ પાસે",
+      "દાંતાની ટોચ પર",
+      "ક્લિયરન્સ સર્કલ પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇન્ટરફિયરન્સમાં મેટિંગ ગિયરની એડેન્ડમ ટીપ પિનિયનના બેઝ સર્કલ નીચે ફ્લેન્ક/રૂટ ભાગમાં ખોતરાય છે[cite: 7]."
+  },
+  {
+    "id": 119,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "In which gear train are the first driving gear and last driven gear shafts co-axial?",
+    "gujaratiQuestion": "0119. કઈ ગિયર ટ્રેનમાં પ્રથમ ડ્રાઈવિંગ ગિયર અને છેલ્લી ડ્રિવન ગિયરની શાફ્ટ કો-એક્સિયલ (એક જ ધરી પર) હોય છે?",
+    "options": [
+      "સિમ્પલ ગિયર ટ્રેન",
+      "કમ્પાઉન્ડ ગિયર ટ્રેન",
+      "રિવર્ટેડ ગિયર ટ્રેન",
+      "એપિસાઇક્લિક ગિયર ટ્રેન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જ્યારે પ્રથમ અને અંતિમ શાફ્ટની અક્ષો એકરૂપ/કો-એક્સિયલ હોય ત્યારે તેને રિવર્ટેડ ગિયર ટ્રેન (Reverted gear train) કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 120,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "For smooth power transmission in gears, what should the contact ratio be?",
+    "gujaratiQuestion": "0120. ગિયર્સ માટે કોન્ટેક્ટ રેશિયો કેવો હોય છે?",
+    "options": [
+      "શૂન્ય",
+      "એક કરતાં ઓછો",
+      "એક અથવા તેના કરતાં વધારે",
+      "આમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સતત પાવર ટ્રાન્સમિશન માટે કોન્ટેક્ટ રેશિયો હંમેશા 1 કરતાં વધારે (CR > 1, સામાન્ય રીતે 1.2 થી 1.8) હોવો જોઈએ[cite: 7]."
+  },
+  {
+    "id": 121,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "Which gear train is commonly used in clockwork mechanisms to connect hour and minute hands?",
+    "gujaratiQuestion": "Q121. ઘડિયાળના મિકેનિઝમમાં કલાક અને મિનિટના કાંટાને જોડવા માટે સામાન્ય રીતે કઈ ગિયર ટ્રેન વપરાય છે?",
+    "options": [
+      "સિમ્પલ ગિયર ટ્રેન",
+      "રિવર્ટેડ ગિયર ટ્રેન",
+      "એપિસાઈક્લિક ગિયર ટ્રેન",
+      "ક્રોસ્ડ ગિયર ટ્રેન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બંને કાંટા એક જ કેન્દ્રિય અક્ષ પર ફરતા હોવાથી ઘડિયાળમાં રિવર્ટેડ ગિયર ટ્રેન વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 122,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "Which gear train is used in automobile differential gearboxes?",
+    "gujaratiQuestion": "Q122. ઓટોમોબાઈલ વાહનોના ડિફરન્શિયલ ગિયરબોક્સમાં કઈ ગિયર ટ્રેનનો ઉપયોગ થાય છે?",
+    "options": [
+      "રિવર્ટેડ ગિયર ટ્રેન",
+      "સિમ્પલ ગિયર ટ્રેન",
+      "એપિસાઇક્લિક ગિયર ટ્રેન",
+      "કમ્પાઉન્ડ ગિયર ટ્રેન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડિફરન્શિયલ ગિયરબોક્સ સન અને પ્લેનેટ ગિયર્સ ધરાવતી એપિસાઇક્લિક ગિયર ટ્રેન (Epicyclic gear train) છે[cite: 7]."
+  },
+  {
+    "id": 123,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "When bevel gears with equal number of teeth connect two shafts having perpendicular axes, what are they called?",
+    "gujaratiQuestion": "Q123. જ્યારે સમાન દાંતા ધરાવતા બેવલ ગિયર્સ એવા બે શાફ્ટને જોડે છે જેની એક્સિસ એકબીજાને લંબ (perpendicular) હોય, ત્યારે તે બેવલ ગિયર્સને શું કહેવાય છે?",
+    "options": [
+      "સ્ક્યૂ બેવલ ગિયર્સ",
+      "સ્પાઇરલ ગિયર્સ",
+      "માઇટર ગિયર્સ",
+      "ઝીરો બેવલ ગિયર્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "90° ના ખૂણે સમાન દાંતા (1:1 સ્પીડ રેશિયો) ધરાવતા બેવલ ગિયર્સને માઇટર ગિયર્સ (Miter gears) કહે છે[cite: 7]."
+  },
+  {
+    "id": 124,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "In a simple gear train, if the number of intermediate idler gears is odd, what is the direction of rotation of the driven gear relative to driver?",
+    "gujaratiQuestion": "0124. સિમ્પલ ગિયર ટ્રેનમાં જો આઈડલર ગિયરની સંખ્યા એકી હોય, તો ડ્રાઈવર અને ડ્રિવન ગિયરની ફરવાની દિશા કેવી હશે?",
+    "options": [
+      "વિરુદ્ધ દિશામાં",
+      "સમાન દિશામાં",
+      "એકબીજાને લંબરૂપ",
+      "દિશા નક્કી ન થઇ શકે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એકી સંખ્યામાં (Odd) આઇડલર ગિયર્સ હોય ત્યારે ડ્રાઇવર અને ડ્રિવન બંને સમાન દિશામાં (Same direction) ફરે છે[cite: 7]."
+  },
+  {
+    "id": 125,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "What is the relation between Train Value and Speed/Velocity Ratio of a gear train?",
+    "gujaratiQuestion": "0125. ગિયર ટ્રેનની ટ્રેન વેલ્યુ અને વેલોસિટી રેશિયો વચ્ચે શું સંબંધ છે?",
+    "options": [
+      "બંને સમાન હોય છે",
+      "એકબીજાના વ્યસ્ત હોય છે",
+      "ટ્રેન વેલ્યુ વેલોસિટી રેશિયોથી બમણી હોય છે",
+      "કોઈ સંબંધ નથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટ્રેન વેલ્યુ = N_output / N_input, જે સ્પીડ રેશિયો (N_input / N_output) નો વ્યસ્ત (Reciprocal) છે[cite: 7]."
+  },
+  {
+    "id": 126,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "Which of the following is an analytical method for finding member forces in a truss/frame?",
+    "gujaratiQuestion": "0126. ફ્રેમમાં ફોર્સિસ શોધવા માટે નીચેનામાંથી કઈ એનાલિટિકલ મેથડ છે?",
+    "options": [
+      "મેથડ ઓફ પિન્સ",
+      "મેથડ ઓફ ફ્રેમ્સ",
+      "મેથડ ઓફ જોઇન્ટ્સ",
+      "મેથડ ઓફ હિન્જીસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટ્રસના સભ્યોમાં આંતરિક બળો શોધવા મેથડ ઓફ જોઈન્ટ્સ (Method of Joints) અને મેથડ ઓફ સેક્શન્સ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 127,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "Which gear is used to eliminate axial thrust inherent in helical gears?",
+    "gujaratiQuestion": "0127. એક્સીયલ થ્રસ્ટ દૂર કરવા માટે કયા ગિયરનો ઉપયોગ થાય છે?",
+    "options": [
+      "સ્પર ગિયર",
+      "હેરિંગબોન ગિયર (ડબલ હેલિકલ ગિયર)",
+      "સિંગલ હેલિકલ ગિયર",
+      "બેવલ ગિયર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હેરિંગબોન (ડબલ હેલિકલ) ગિયરમાં બંને બાજુના વિરુદ્ધ હેલિક્સ એંગલ સામસામેનો એક્સિયલ થ્રસ્ટ કેન્સલ કરે છે[cite: 7]."
+  },
+  {
+    "id": 128,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "What is the biggest advantage of a worm and worm wheel drive?",
+    "gujaratiQuestion": "0128. વોર્મ અને વોર્મ વ્હીલ ડ્રાઈવનો સૌથી મોટો ફાયદો શું છે?",
+    "options": [
+      "100% કાર્યક્ષમતા",
+      "ખૂબ મોટો વેલોસિટી રેશિયો",
+      "સમાંતર શાફ્ટ પર વપરાય છે",
+      "પાવર લોસ હોતો નથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વોર્મ ડ્રાઇવ કોમ્પેક્ટ સ્પેસમાં ખૂબ મોટો સ્પીડ રિડક્શન રેશિયો (સામાન્ય રીતે 100:1 સુધી) પૂરો પાડે છે[cite: 7]."
+  },
+  {
+    "id": 129,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Basic Kinematic Concepts & Definitions",
+    "question": "When two elements of a pair are connected such that they can only turn about a fixed axis of the other, what is it called?",
+    "gujaratiQuestion": "0129. જ્યારે કોઈ પેરના બે એલિમેન્ટ્સ એવી રીતે જોડાયેલા હોય કે તેઓ માત્ર બીજા એલિમેન્ટની ફિક્સ્ડ એક્સિસ પર જ ફરી (turn) શકે, તો તેને શું કહેવાય છે?",
+    "options": [
+      "ટર્નિંગ પેર",
+      "સ્ફેરિકલ પેર",
+      "સ્ક્રૂ પેર",
+      "સ્લાઈડિંગ પેર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "માત્ર એક અક્ષ પર પરિભ્રમણની છૂટ આપતી પેરને ટર્નિંગ પેર (Turning pair) કહે છે[cite: 7]."
+  },
+  {
+    "id": 130,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "For two gears to mesh correctly, which parameter must be identical in both?",
+    "gujaratiQuestion": "Q130. બે ગિયર યોગ્ય રીતે મેશ થાય તે માટે કયું પરિમાણ બંનેમાં સમાન હોવું જરૂરી છે?",
+    "options": [
+      "દાંતાની સંખ્યા",
+      "પિચ સર્કલ વ્યાસ",
+      "મોડ્યુલ",
+      "ફેસ વિડ્થ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગિયર્સ યોગ્ય રીતે મેશ થવા માટે બંનેનો મોડ્યુલ (Module m) અને પ્રેશર એંગલ સમાન હોવા અનિવાર્ય છે[cite: 7]."
+  },
+  {
+    "id": 131,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "A Rack is considered as what type of gear?",
+    "gujaratiQuestion": "Q131. રેક (Rack) એ કયા પ્રકારનો ગિયર ગણવામાં આવે છે?",
+    "options": [
+      "અનંત પિચ સર્કલ વ્યાસ વાળો સ્પર ગિયર",
+      "શૂન્ય પિચ સર્કલ વાળો ગિયર",
+      "બેવલ ગિયરનો એક પ્રકાર",
+      "ઇન્ટરનલ ગિયર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રેક એ અનંત પિચ સર્કલ ડાયામીટર (Infinite pitch circle diameter) ધરાવતો સ્પર ગિયર છે[cite: 7]."
+  },
+  {
+    "id": 132,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "What is the primary function of a flywheel in an engine?",
+    "gujaratiQuestion": "0132. એન્જિનમાં ફ્લાયવ્હીલનું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "એન્જિનની સરેરાશ સ્પીડ જાળવવી",
+      "સાયકિલક ઊર્જાના ફેરફારને કારણે થતી સ્પીડની વધઘટને કંટ્રોલ કરવી",
+      "પાવર વધારવો",
+      "ફ્રિક્શન ઘટાડવું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફ્લાયવ્હીલ એક સાયકલ દરમિયાન ટર્નિંગ મોમેન્ટના ફ્લક્ચ્યુએશનથી થતી સ્પીડ વધઘટને નિયંત્રિત કરે છે[cite: 7]."
+  },
+  {
+    "id": 133,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Basic Kinematic Concepts & Definitions",
+    "question": "Which of the following is a higher pair?",
+    "gujaratiQuestion": "0133. નીચેનામાંથી કઈ હાયર પેર (higher pair) છે?",
+    "options": [
+      "ટર્નિંગ પેર",
+      "સ્ક્રૂ પેર",
+      "સ્લાઈડિંગ પેર",
+      "બેલ્ટ અને પુલી"
+    ],
+    "correctAnswer": 3,
+    "explanation": "બેલ્ટ અને પુલી વચ્ચે લાઇન સંપર્ક હોવાથી તે હાયર પેર (Higher pair) છે[cite: 7]."
+  },
+  {
+    "id": 134,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "In what form does a flywheel store energy?",
+    "gujaratiQuestion": "0134. ફ્લાયવ્હીલ કયા સ્વરૂપમાં ઊર્જાનો સંગ્રહ કરે છે?",
+    "options": [
+      "પોટેન્શિયલ એનર્જી",
+      "પ્રેશર એનર્જી",
+      "કાઇનેટિક એનર્જી",
+      "હીટ એનર્જી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફ્લાયવ્હીલ રોટેશનલ કાઇનેટિક એનર્જી (Kinetic energy) સ્વરૂપે વધારાની ઊર્જા સંગ્રહે છે[cite: 7]."
+  },
+  {
+    "id": 135,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "What is the formula to calculate kinetic energy stored in a flywheel?",
+    "gujaratiQuestion": "0135. ફ્લાયવ્હીલમાં સંગ્રહિત ઊર્જા (Stored energy) ની ગણતરી માટેનું સૂત્ર કયું છે?",
+    "options": [
+      "0.5 mv²",
+      "0.5 Iω²",
+      "Iω",
+      "I²ω"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સંગ્રહિત ગતિજ ઊર્જા E = 0.5 · I · ω² થાય છે[cite: 7]."
+  },
+  {
+    "id": 136,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Basic Kinematic Concepts & Definitions",
+    "question": "Which of the following parts together constitute a single resistant link in an IC engine?",
+    "gujaratiQuestion": "0136. નીચેનામાંથી કયા ભાગો મળીને એક લિન્ક બનાવશે?",
+    "options": [
+      "પિસ્ટન, પિસ્ટન રિંગ્સ અને ગજન પિન",
+      "પિસ્ટન રોડ અને ક્રોસ હેડ",
+      "પિસ્ટન, ક્રેન્કપિન અને ક્રેન્કશાફ્ટ",
+      "પિસ્ટન, પિસ્ટન રોડ અને ક્રોસ હેડ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સ્ટીમ એન્જિનમાં પિસ્ટન, પિસ્ટન રોડ અને ક્રોસહેડ વચ્ચે કોઈ સાપેક્ષ ગતિ ન હોવાથી તેઓ મળીને એક જ લિંક બનાવે છે[cite: 7]."
+  },
+  {
+    "id": 137,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "What is the equation for maximum fluctuation of energy for a flywheel? (where Cs = coefficient of fluctuation of speed)",
+    "gujaratiQuestion": "0137. ફ્લાયવ્હીલ માટે મહત્તમ ઊર્જાના ફેરફારનું સમીકરણ કયું છે? (Cs = સ્પીડના ફ્લકચ્યુએશનનો ગુણાંક)",
+    "options": [
+      "Iω Cs",
+      "Iω² Cs",
+      "0.5 Iω² Cs",
+      "I²ω Cs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મહત્તમ ઊર્જા વધઘટ ΔE = I · ω² · Cs થાય છે[cite: 7]."
+  },
+  {
+    "id": 138,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "What is the primary function of a governor in an engine?",
+    "gujaratiQuestion": "0138. એન્જિનમાં ગવર્નરનું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "ઊર્જાનો સંગ્રહ કરવો",
+      "એક સાઈકલ દરમિયાન સ્પીડ કંટ્રોલ કરવી",
+      "લોડમાં ફેરફાર થાય ત્યારે એન્જિનની સરેરાશ સ્પીડ જાળવી રાખવી",
+      "કાઈનેમેટિક લિંકને સપોર્ટ કરવો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગવર્નર બાહ્ય લોડમાં ફેરફાર થાય ત્યારે ફ્યુઅલ સપ્લાય કંટ્રોલ કરીને એન્જિનની સરેરાશ સ્પીડ જાળવી રાખે છે[cite: 7]."
+  },
+  {
+    "id": 140,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "A Watt governor belongs to which type of governor?",
+    "gujaratiQuestion": "Q140. વોટ ગવર્નર નીચેનામાંથી કયા પ્રકારનું ગવર્નર છે?",
+    "options": [
+      "સ્પ્રિંગ કંટ્રોલ્ડ",
+      "ડેડ-વેટ",
+      "પેન્ડુલમ",
+      "ઈનર્શિયા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વોટ ગવર્નર એ ગુરુત્વાકર્ષણ આધારિત સાદું પેન્ડુલમ ટાઇપ (Pendulum type) ગવર્નર છે[cite: 7]."
+  },
+  {
+    "id": 141,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "Porter governor and Proell governor are examples of which type of governor?",
+    "gujaratiQuestion": "Q141. પોર્ટર ગવર્નર અને પ્રોએલ ગવર્નર કયા પ્રકારના ગવર્નરનું ઉદાહરણ છે?",
+    "options": [
+      "પેન્ડુલમ ગવર્નર",
+      "ડેડ-વેઇટ ગવર્નર",
+      "સ્પ્રિંગ કંટ્રોલ્ડ ગવર્નર",
+      "હાઈડ્રોલિક ગવર્નર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્લીવ પર વધારાનો સેન્ટ્રલ લોડ હોવાથી પોર્ટર અને પ્રોએલ ડેડ-વેઇટ (Dead-weight loaded) ગવર્નર્સ છે[cite: 7]."
+  },
+  {
+    "id": 142,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "In an involute gear, the normal to the involute profile at any point is tangent to which circle?",
+    "gujaratiQuestion": "0142. ઇન્વોલ્યુટ ગિયરમાં, ઇન્વોલ્યુટનો નોર્મલ (લંબ) એ કોને ટેન્જેન્ટ (સ્પર્શક) હોય છે?",
+    "options": [
+      "પિચ સર્કલ",
+      "બેઝ સર્કલ",
+      "એડેન્ડમ સર્કલ",
+      "ડિડેન્ડમ સર્કલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇન્વોલ્યુટ વક્ર પર દોરેલો નોર્મલ હંમેશા બેઝ સર્કલ (Base circle) નો સ્પર્શક બને છે[cite: 7]."
+  },
+  {
+    "id": 143,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "A Hartnell governor is which type of governor?",
+    "gujaratiQuestion": "Q143. હાર્ટનેલ ગવર્નર કયા પ્રકારનું ગવર્નર છે?",
+    "options": [
+      "ડેડ-વેટ ટાઈપ",
+      "પેન્ડુલમ ટાઈપ",
+      "ઈનર્શિયા ટાઈપ",
+      "સ્પ્રિંગ કંટ્રોલ્ડ ટાઈપ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "હાર્ટનેલ ગવર્નર એ બેલ ક્રેન્ક લીવર અને હેલિકલ સ્પ્રિંગ ધરાવતું સ્પ્રિંગ કંટ્રોલ્ડ ગવર્નર છે[cite: 7]."
+  },
+  {
+    "id": 144,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "If the equilibrium speed is constant for all radii of rotation in the working range of a governor, it is called:",
+    "gujaratiQuestion": "Q144. જો ગવર્નરની વર્કિંગ રેન્જમાં રોટેશનની તમામ ત્રિજ્યા માટે ઇક્વિલિબ્રિયમ સ્પીડ સમાન રહેતી હોય, તો તે ગવર્નરને શું કહેવાય છે?",
+    "options": [
+      "સેન્સિટિવ",
+      "આઇસોક્રોનસ",
+      "સ્ટેબલ",
+      "અનસ્ટેબલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "તમામ સ્થિતિમાં એક જ સંતુલન ઝડપ ધરાવતા અનંત સંવેદનશીલ ગવર્નરને આઇસોક્રોનસ (Isochronous governor) કહે છે[cite: 7]."
+  },
+  {
+    "id": 145,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "Power can be transmitted between non-parallel and non-intersecting shafts using:",
+    "gujaratiQuestion": "0145. નોન-પેરેલલ અને નોન-ઇન્ટરસેક્ટિંગ શાફ્ટ માટે પાવર કોની મદદથી ટ્રાન્સમિટ કરી શકાય છે?",
+    "options": [
+      "હેલિકલ ગિયરની જોડી",
+      "સ્પુર ગિયરની જોડી",
+      "સ્પાઈરલ ગિયરની જોડી",
+      "ઓલ્ડહામ કપલિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "નોન-પેરેલલ અને નોન-ઇન્ટરસેક્ટિંગ (Skew shafts) માટે સ્પાઇરલ / ક્રોસ્ડ હેલિકલ ગિયર્સ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 146,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "When a governor is too sensitive and the engine speed continuously fluctuates above and below mean speed, this defect is called:",
+    "gujaratiQuestion": "Q146. જ્યારે ગવર્નર વધુ પડતું સેન્સિટિવ હોય અને એન્જિનની સ્પીડ સતત વધઘટ થતી હોય, તો આ ખામીને શું કહેવાય છે?",
+    "options": [
+      "હન્ટિંગ",
+      "આઇસોક્રોનિઝમ",
+      "સ્ટેબિલિટી",
+      "બેલેન્સિંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "અતિશય સેન્સિટિવિટીને લીધે સ્લીવનું સતત ઉપર-નીચે ઓસિલેશન થવું હન્ટિંગ (Hunting) કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 147,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "What is the combined function of a flywheel and a governor in a mechanical system?",
+    "gujaratiQuestion": "0147. ફ્લાયવ્હીલ અને ગવર્નરનું સંયુક્ત કાર્ય સિસ્ટમમાં શું સુનિશ્ચિત કરવાનું છે?",
+    "options": [
+      "એન્જિન ટોર્કમાં વધારો",
+      "તાપમાનમાં ઘટાડો",
+      "એકસમાન અને નિયંત્રિત સ્પીડ",
+      "ઘર્ષણ ઘટાડવું"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફ્લાયવ્હીલ અને ગવર્નર બંને મળીને એન્જિનની ઝડપને સંપૂર્ણ નિયંત્રિત અને યુનિફોર્મ રાખે છે[cite: 7]."
+  },
+  {
+    "id": 148,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "How are the teeth arranged in helical gears?",
+    "gujaratiQuestion": "0148. હેલિકલ ગિયર્સમાં દાંતા (teeth) કેવા હોય છે?",
+    "options": [
+      "વ્હીલની રીમ પર સીધા (Straight)",
+      "વ્હીલની રીમ પર ત્રાંસા (Inclined)",
+      "વ્હીલની રીમ પર વળાંકવાળા (Curved)",
+      "શંકુના ફ્રસ્ટમ (frustum) ની સપાટી પર કાપેલા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હેલિકલ ગિયરમાં દાંતા પરિભ્રમણ અક્ષની સાપેક્ષે ચોક્કસ હેલિક્સ એંગલ પર ત્રાંસા (Inclined) કાપેલા હોય છે[cite: 7]."
+  },
+  {
+    "id": 149,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Balancing of Reciprocating & Rotating Masses",
+    "question": "Which condition must be satisfied for static balancing of rotating masses?",
+    "gujaratiQuestion": "0149. રૉટેટિંગ માસનું સ્ટેટિક બેલેન્સિંગ કરતી વખતે કઈ શરત પૂરી થવી જોઈએ?",
+    "options": [
+      "તમામ ડાયનેમિક ફોર્સનું પરિણામી મૂલ્ય શૂન્ય હોવું જોઇએ",
+      "પરિણામી કપલ શૂન્ય હોવું જોઈએ",
+      "ફક્ત ગુરુત્વાકર્ષણ બળ શૂન્ય હોવું જોઈએ",
+      "માસનું કદ સમાન હોવું જોઈએ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્ટેટિક બેલેન્સિંગ માટે સેન્ટ્રીફ્યુગલ બળોનો પરિણામી સરવાળો (Net Dynamic Force ΣF) શૂન્ય થવો જોઈએ[cite: 7]."
+  },
+  {
+    "id": 150,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Balancing of Reciprocating & Rotating Masses",
+    "question": "What is required for complete dynamic balancing of a rotating shaft?",
+    "gujaratiQuestion": "Q150. શાફ્ટના સંપૂર્ણ ડાયનેમિક બેલેન્સિંગ માટે નીચેનામાંથી શું જરૂરી છે?",
+    "options": [
+      "માત્ર નેટ ડાયનેમિક ફોર્સ શૂન્ય હોવો જોઈએ",
+      "માત્ર નેટ ડાયનેમિક કપલ શૂન્ય હોવો જોઈએ",
+      "નેટ ડાયનેમિક ફોર્સ અને નેટ ડાયનેમિક કપલ બંને શૂન્ય હોવા જોઈએ",
+      "શાફ્ટની લંબાઈ ટૂંકી હોવી જોઇએ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સંપૂર્ણ ડાયનેમિક સંતુલન માટે પરિણામી બળ (ΣF = 0) અને પરિણામી કપલ (ΣC = 0) બંને શૂન્ય હોવા અનિવાર્ય છે[cite: 7]."
+  },
+  {
+    "id": 151,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "The height of a simple Watt governor is proportional to:",
+    "gujaratiQuestion": "Q151. સિમ્પલ વોટ ગવર્નરની ઊંચાઈ કોના સમપ્રમાણમાં હોય છે? (જ્યાં N = સ્પીડ છે)",
+    "options": [
+      "N",
+      "1 / N",
+      "N²",
+      "1 / N²"
+    ],
+    "correctAnswer": 3,
+    "explanation": "વોટ ગવર્નરની ઊંચાઈ h = 895 / N² હોવાથી તે સ્પીડના વર્ગના વ્યસ્ત પ્રમાણમાં (h ∝ 1/N²) હોય છે[cite: 7]."
+  },
+  {
+    "id": 152,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Balancing of Reciprocating & Rotating Masses",
+    "question": "What is the minimum number of balancing masses required for complete dynamic balancing of masses rotating in different planes?",
+    "gujaratiQuestion": "Q152. અલગ અલગ પ્લેનમાં ફરતા માસનું સંપૂર્ણ ડાયનેમિક બેલેન્સિંગ કરવા માટે ઓછામાં ઓછા કેટલા બેલેન્સિંગ માસની જરૂર પડે છે?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જુદા જુદા સમતલના અસંતુલિત બળો અને કપલ્સ બંનેને સંતુલિત કરવા ઓછામાં ઓછા બે બેલેન્સિંગ માસ (2 masses in 2 reference planes) જરૂરી છે[cite: 7]."
+  },
+  {
+    "id": 153,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Balancing of Reciprocating & Rotating Masses",
+    "question": "Why cannot the primary unbalanced force in a reciprocating engine be completely balanced by a rotating counter-mass?",
+    "gujaratiQuestion": "0153. રેસીપ્રોકેટિંગ એન્જિનમાં પ્રાઈમરી અનબેલેન્સ્ડ ફોર્સને સંપૂર્ણ રીતે કેમ બેલેન્સ કરી શકાતો નથી?",
+    "options": [
+      "કારણ કે તે દિશા બદલતો રહે છે",
+      "કારણ કે તેને સંપૂર્ણ બેલેન્સ કરવાથી લાઈન ઓફ સ્ટ્રોકને લંબરૂપ દિશામાં નવો અનબેલેન્સ્ડ ફોર્સ પેદા થાય છે",
+      "કારણ કે તે ક્રેન્ક કરતા બમણી ઝડપે ફરે છે",
+      "કારણ કે તે હંમેશા શૂન્ય હોય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રોટેટિંગ માસ વડે સંપૂર્ણ બેલેન્સ કરતાં લાઇન ઓફ સ્ટ્રોકને લંબ દિશામાં તેટલો જ નવો અનબેલેન્સ્ડ ફોર્સ પેદા થાય છે[cite: 7]."
+  },
+  {
+    "id": 154,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Balancing of Reciprocating & Rotating Masses",
+    "question": "What is Hammer Blow in locomotives?",
+    "gujaratiQuestion": "0154. હેમર બ્લો એટલે શું?",
+    "options": [
+      "રેસીપ્રોકેટિંગ માસને બેલેન્સ કરવા માટે ઉમેરેલા માસને કારણે ઉત્પન્ન થતો મહત્તમ વર્ટિકલ અનબેલેન્સ્ડ ફોર્સ",
+      "હોરિઝોન્ટલ અનબેલેન્સ્ડ ફોર્સ",
+      "ગેસ પ્રેશરને કારણે ઉત્પન્ન થતો ફોર્સ",
+      "ફ્રિક્શન ફોર્સ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "લોકોમોટિવમાં બેલેન્સિંગ માસના કારણે રેલ પાટા પર લાગતા વધારાના મહત્તમ શિરોલંબ અનબેલેન્સ્ડ બળને હેમર બ્લો કહે છે[cite: 7]."
+  },
+  {
+    "id": 155,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "Which of the following is also known as a dead-weight loaded governor?",
+    "gujaratiQuestion": "Q155. નીચેનામાંથી કયું ગવર્નર ડેડ વેઈટ ટાઈપ ગવર્નર તરીકે પણ ઓળખાય છે?",
+    "options": [
+      "પોર્ટર ગવર્નર",
+      "વોટ ગવર્નર",
+      "હાર્ટનેલ ગવર્નર",
+      "પિકરિંગ ગવર્નર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પોર્ટર ગવર્નર એ સ્લીવ પર સેન્ટ્રલ ડેડ-વેઇટ ધરાવતું ગવર્નર છે[cite: 7]."
+  },
+  {
+    "id": 156,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Balancing of Reciprocating & Rotating Masses",
+    "question": "When is the value of secondary unbalanced force maximum in a reciprocating engine? (where θ is crank angle with line of stroke)",
+    "gujaratiQuestion": "0156. સેકન્ડરી અનબેલેન્સ્ડ ફોર્સનું મૂલ્ય મહત્તમ ક્યારે હોય છે? (જ્યારે ક્રેન્કનો લાઈન ઓફ સ્ટ્રોક સાથેનો ખૂણો θ હોય)",
+    "options": [
+      "0° અને 90°",
+      "45° અને 135°",
+      "180° અને 360°",
+      "ફક્ત 0°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સેકન્ડરી ફોર્સ Fs = (m·ω²·r/n)·cos(2θ) હોવાથી cos(2θ) = ±1 થતાં θ = 0°, 90°, 180°, 270° પર તે મહત્તમ બને છે[cite: 7]."
+  },
+  {
+    "id": 157,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Balancing of Reciprocating & Rotating Masses",
+    "question": "Which method is commonly used for balancing of forces and couples in multi-cylinder engines?",
+    "gujaratiQuestion": "0157. મલ્ટિ-સિલિન્ડર એન્જિનમાં બળ અને કપલના બેલેન્સિંગ માટે સામાન્ય રીતે કઈ પદ્ધતિનો ઉપયોગ થાય છે?",
+    "options": [
+      "કેનેડીનો પ્રમેય",
+      "ડાયરેક્ટ અને રિવર્સ ક્રેન્ક મેથડ",
+      "મોહર સર્કલ પદ્ધતિ",
+      "ગ્રાફિકલ સ્ટેટિક મેથડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રેડીયલ અને V-એન્જિન્સમાં બેલેન્સિંગ માટે ડાયરેક્ટ અને રિવર્સ ક્રેન્ક મેથડ (Direct and Reverse Crank Method) વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 158,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Balancing of Reciprocating & Rotating Masses",
+    "question": "Partial balancing of reciprocating parts in locomotives results in:",
+    "gujaratiQuestion": "0158. લોકોમોટિવ્સમાં આંશિક (partial) બેલેન્સિંગના કારણે શું પરિણમે છે?",
+    "options": [
+      "હેમર બ્લો",
+      "ટ્રેક્ટિવ એફર્ટમાં ફેરફાર",
+      "સ્વેઇંગ કપલ",
+      "ઉપરના તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "આંશિક બેલેન્સિંગથી વર્ટિકલ હેમર બ્લો, અનબેલેન્સ્ડ ટ્રેક્ટિવ એફર્ટ અને સ્વેઇંગ કપલ ત્રણેય ઉત્પન્ન થાય છે[cite: 7]."
+  },
+  {
+    "id": 159,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Balancing of Reciprocating & Rotating Masses",
+    "question": "In a single cylinder reciprocating engine, the primary unbalanced force is equal to:",
+    "gujaratiQuestion": "0159. સિંગલ સિલિન્ડર રેસીપ્રોકેટિંગ એન્જિનમાં અનબેલેન્સ્ડ ફોર્સ કોના બરાબર હોય છે?",
+    "options": [
+      "ગેસના ફોર્સ બરાબર",
+      "ફ્રિક્શન ફોર્સ બરાબર",
+      "રેસીપ્રોકેટિંગ માસના ઈનર્શિયા ફોર્સ બરાબર",
+      "ગુરુત્વાકર્ષણ બળ બરાબર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "અનબેલેન્સ્ડ ફોર્સ રેસીપ્રોકેટિંગ પાર્ટ્સના લીનિયર ઇનર્શિયા ફોર્સ (m·a) બરાબર હોય છે[cite: 7]."
+  },
+  {
+    "id": 160,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gyroscope",
+    "question": "What is the formula for gyroscopic couple? (where I = mass moment of inertia, ω = angular velocity of spin, ωp = angular velocity of precession)",
+    "gujaratiQuestion": "0160. ગાયરોસ્કોપિક કપલનું સૂત્ર કયું છે? (I = માસ મોમેન્ટ ઓફ ઇનર્શિયા, ω = એન્ગ્યુલર વેલોસિટી ઓફ સ્પિન, ωp = એન્ગ્યુલર વેલોસિટી ઓફ પ્રિસિઝન)",
+    "options": [
+      "Iω",
+      "I · ω · ωp",
+      "Iωp",
+      "0.5 I · ω · ωp"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગાયરોસ્કોપિક કપલનું સૂત્ર C = I · ω · ωp થાય છે[cite: 7]."
+  },
+  {
+    "id": 161,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "What does the form coefficient of a spring represent?",
+    "gujaratiQuestion": "0161. સ્પ્રિંગનો ફોર્મ કોએફિશિયન્ટ (Form coefficient) શું દર્શાવે છે?",
+    "options": [
+      "કોઈલના વ્યાસ અને વાયરના વ્યાસનો ગુણોત્તર",
+      "યુનિટ ડિફ્લેક્શન ઉત્પન્ન કરવા માટે જરૂરી લોડ",
+      "તેની એનર્જી સંગ્રહિત કરવાની ક્ષમતા",
+      "સ્પ્રિંગના વાયરની સ્ટ્રેન્થ સાથે સંબંધિત બાબત"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્પ્રિંગનો ફોર્મ ફેક્ટર તેની પ્રતિ યુનિટ વોલ્યુમ દીઠ સ્ટ્રેઇન એનર્જી સંગ્રહવાની ક્ષમતા દર્શાવે છે[cite: 7]."
+  },
+  {
+    "id": 162,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gyroscope",
+    "question": "What is the gyroscopic effect during the rolling motion of a ship?",
+    "gujaratiQuestion": "0162. શિપના રોલિંગ મોશન દરમિયાન ગાયરોસ્કોપિક અસર કેટલી હોય છે?",
+    "options": [
+      "મહત્તમ",
+      "લઘુત્તમ",
+      "શૂન્ય",
+      "પીચિંગ જેટલી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રોલિંગ દરમિયાન પ્રિસિઝન અક્ષ અને સ્પિન અક્ષ સમાંતર રહેતી હોવાથી કોઈ ગાયરોસ્કોપિક કપલ ઉત્પન્ન થતો નથી (Zero)[cite: 7]."
+  },
+  {
+    "id": 163,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gyroscope",
+    "question": "What is the angular motion called when a ship moves up and down at the bow and stern due to sea waves?",
+    "gujaratiQuestion": "Q163. શિપ જ્યારે દરિયાનાં મોજાંને કારણે આગળથી પાછળ ઊંચી-નીચી થાય, તેને કઈ ગતિ કહે છે?",
+    "options": [
+      "સ્ટિયરિંગ",
+      "પીચિંગ",
+      "રોલિંગ",
+      "ટર્નિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "શિપનું ટ્રાન્સવર્સ અક્ષની આસપાસ ઊર્ધ્વ સમતલમાં ઊંચા-નીચા થવાનું પીચિંગ (Pitching) કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 164,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "A riveted joint can fail due to which of the following modes?",
+    "gujaratiQuestion": "0164. રિવેટેડ જોઈન્ટ શેના કારણે ફેલ થઈ શકે છે?",
+    "options": [
+      "રિવેટના શિયરિંગથી",
+      "પ્લેટના કોઈ એંગલ પર ફાટવાથી (Tearing off)",
+      "રિવેટના ક્રશિંગથી",
+      "ઉપરના તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "રિવેટેડ જોઈન્ટ રિવેટ શિયરિંગ, પ્લેટ ટીઅરિંગ અને બેરિંગ/ક્રશિંગ તમામ રીતે ફેલ થઈ શકે છે[cite: 7]."
+  },
+  {
+    "id": 165,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gyroscope",
+    "question": "In which of the following vehicles is the gyroscopic principle used for stability and analysis?",
+    "gujaratiQuestion": "Q165. નીચેનામાંથી કયા વાહનમાં સ્થિરતા જાળવવા માટે ગાયરોસ્કોપિક સિદ્ધાંતનો ઉપયોગ થાય છે?",
+    "options": [
+      "ટુ-વ્હીલર",
+      "ફોર-વ્હીલર",
+      "એરોપ્લેન અને શિપ",
+      "આપેલ તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ટુ-વ્હીલર્સ, કાર, વિમાનો અને જહાજો તમામમાં ગાયરોસ્કોપિક ઇફેક્ટ સ્થિરતા માટે મહત્વપૂર્ણ છે[cite: 7]."
+  },
+  {
+    "id": 166,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gyroscope",
+    "question": "Which two motions must occur simultaneously to produce a gyroscopic couple on a rotor?",
+    "gujaratiQuestion": "Q166. એરોપ્લેન અથવા શિપના રોટરમાં ગાયરોસ્કોપિક કપલ ઉત્પન્ન થવા માટે કઈ બે ગતિ એકસાથે થવી જરૂરી છે?",
+    "options": [
+      "ટ્રાન્સલેશન અને રોલિંગ",
+      "સ્પિન અને પ્રિસિઝન",
+      "સ્લાઈડિંગ અને સ્પિન",
+      "ઓસિલેશન અને પ્રિસિઝન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગાયરોસ્કોપિક કપલ ઉત્પન્ન થવા રોટરનું પોતાની અક્ષ પર સ્પિન (Spin) અને તે અક્ષનું પ્રિસિઝન (Precession) બંને એકસાથે થવું જરૂરી છે[cite: 7]."
+  },
+  {
+    "id": 167,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "How can belt stretching be minimized/controlled in a drive?",
+    "gujaratiQuestion": "0167. બેલ્ટમાં થતા સ્ટ્રેચિંગ (ખેંચાણ) ને કેવી રીતે નિયંત્રિત કરી શકાય છે?",
+    "options": [
+      "બેલ્ટમાં સ્ટ્રેસ ઘટાડીને",
+      "બેલ્ટની લંબાઈ ઘટાડીને",
+      "સેન્ટર વચ્ચેનું અંતર વધારીને",
+      "બેલ્ટની વેલોસિટી ઘટાડીને"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બેલ્ટમાં કાર્યકારી વર્કિંગ સ્ટ્રેસ ઘટાડીને તેના ખેંચાણ અને ઇલાસ્ટિક ક્રીપને નિયંત્રિત કરી શકાય છે[cite: 7]."
+  },
+  {
+    "id": 168,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gyroscope",
+    "question": "When an airplane flying straight takes a sudden turn (steering), which couple is produced due to the engine rotor?",
+    "gujaratiQuestion": "0168. જો કોઈ એરોપ્લેન સીધી દિશામાં જઈ રહ્યું હોય અને અચાનક ડાબી કે જમણી બાજુ ટર્ન લે (સ્ટીયરિંગ), તો રોટરની ગતિને કારણે કયો નવો કપલ ઉત્પન્ન થશે?",
+    "options": [
+      "સેન્ટ્રીફયુગલ કપલ",
+      "ગાયરોસ્કોપિક કપલ",
+      "ફ્રિક્શનલ કપલ",
+      "બેન્ડિંગ કપલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટીયરિંગ વખતે સ્પિનિંગ રોટર પર ગાયરોસ્કોપિક કપલ ઉત્પન્ન થાય છે જે વિમાનના નાકને ઊંચું કે નીચું કરે છે[cite: 7]."
+  },
+  {
+    "id": 169,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Balancing of Reciprocating & Rotating Masses",
+    "question": "In a reciprocating engine, the magnitude of secondary unbalanced force compared to primary force is generally:",
+    "gujaratiQuestion": "0169. રેસીપ્રોકેટિંગ એન્જિનમાં સેકન્ડરી અનબેલેન્સ્ડ ફોર્સ, પ્રાઈમરી ફોર્સની સરખામણીમાં સામાન્ય રીતે કેવો હોય છે?",
+    "options": [
+      "બમણો",
+      "સમાન",
+      "ઓછો",
+      "અનંત"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fs = Fp / n (જ્યાં n = l/r = 4 થી 5) હોવાથી સેકન્ડરી ફોર્સ પ્રાઇમરી કરતાં ઘણો ઓછો હોય છે[cite: 7]."
+  },
+  {
+    "id": 170,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "Which tooth profile is used for gears in watches and clocks?",
+    "gujaratiQuestion": "Q170. ઘડિયાળો (watches and clocks) ના ગિયર્સ માટે કયા પ્રકારની ટૂથ પ્રોફાઈલનો ઉપયોગ થાય છે?",
+    "options": [
+      "ઈન્વોલ્યુટ",
+      "સાયક્લોઈડલ",
+      "હાઈપોસાયક્લોઇડ",
+      "એપિસાયક્લોઇડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓછા દાંતા સાથે ઇન્ટરફિયરન્સ વિના સરળ ગતિ આપવા ઘડિયાળોમાં સાયક્લોઇડલ (Cycloidal) પ્રોફાઇલ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 171,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gyroscope",
+    "question": "What is the angle between the axis of spin (ω) and axis of precession (ωp) of a spinning rotor?",
+    "gujaratiQuestion": "0171. સ્પિનિંગ રોટરની એન્ગ્યુલર વેલોસિટી (ω) અને પ્રિસિઝનની વેલોસિટી (ωp) ની અક્ષ સામાન્ય રીતે એકબીજા સાથે કેટલા ડિગ્રીના ખૂણે હોય છે?",
+    "options": [
+      "0°",
+      "45°",
+      "90°",
+      "180°"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગાયરોસ્કોપમાં સ્પિન અક્ષ, પ્રિસિઝન અક્ષ અને ગાયરોસ્કોપિક કપલ અક્ષ ત્રણેય પરસ્પર 90° ના ખૂણે લંબરૂપ હોય છે[cite: 7]."
+  },
+  {
+    "id": 172,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "Turning moment diagrams are primarily used in the design of which machine component?",
+    "gujaratiQuestion": "0172. ટર્નિંગ મોમેન્ટ ડાયાગ્રામનો ઉપયોગ મુખ્યત્વે કયા મશીન પાર્ટની ડિઝાઈન માટે થાય છે?",
+    "options": [
+      "ગવર્નર",
+      "ફ્લાયવ્હીલ",
+      "કનેક્ટિંગ રોડ",
+      "પિસ્ટન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મહત્તમ ઊર્જા વધઘટ (ΔE) શોધીને ફ્લાયવ્હીલનું માપ અને મોમેન્ટ ઓફ ઇનર્શિયા નક્કી કરવા T-θ ડાયાગ્રામ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 173,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Dynamic Analysis of Linkages",
+    "question": "In a simply supported beam, what is the bending moment at the point where shear force is zero?",
+    "gujaratiQuestion": "0173. સિમ્પલી સપોર્ટેડ બીમમાં જ્યાં શિયર ફોર્સ શૂન્ય હોય, ત્યાં બેન્ડિંગ મોમેન્ટ કેટલું હશે?",
+    "options": [
+      "શૂન્ય",
+      "મહત્તમ",
+      "ન્યૂનતમ",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "dM/dx = V = 0 હોવાથી જે બિંદુએ શીયર ફોર્સ શૂન્ય થાય ત્યાં બેન્ડિંગ મોમેન્ટ મહત્તમ (Maximum) હોય છે[cite: 7]."
+  },
+  {
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gyroscope",
+    "question": "A vehicle moves on a curved road of radius 100 m at 20 m/s. Rotating masses have angular speed 100 rad/s and moment of inertia 10 kg·m². What is the gyroscopic couple magnitude?",
+    "gujaratiQuestion": "100 m radiusના curved road પર 20 m/s ઝડપે vehicle ચાલે છે; rotating mass માટે ω=100 rad/s અને I=10 kg·m² હોય તો gyroscopic couple કેટલો?",
+    "options": [
+      "200 N·m",
+      "100 N·m",
+      "210 N·m",
+      "250 N·m"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Gyroscopic couple C=IωΩ, where precession speed Ω=v/R=0.2 rad/s, giving 200 N·m. The source option ordering is paraphrased.",
+    "id": 174
+  },
+  {
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Cams",
+    "question": "A translating roller follower with zero offset reaches maximum lift twice the basic harmonic displacement amplitude in one revolution. Which parametric form represents this?",
+    "gujaratiQuestion": "Zero-offset translating roller follower માટે maximum translation 2 units હોય તો કયું parametric form યોગ્ય છે?",
+    "options": [
+      "x=cos t, y=sin t",
+      "x=cos t, y=2sin t",
+      "x=1/2+cos t, y=2sin t",
+      "x=1/2-cos t, y=sin t"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The cited paper gives the parametric choice with y=2 sin t.",
+    "id": 175
+  },
+  {
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "In a simple epicyclic gear set, the member used to increase torque in reverse is the:",
+    "gujaratiQuestion": "Simple epicyclic gear setમાં reverseમાં torque વધારવા માટે output member કયું હોય છે?",
+    "options": [
+      "Ring gear",
+      "Planet carrier",
+      "Sun gear",
+      "None"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The cited GSSSB item keys the ring gear for the stated arrangement.",
+    "id": 176
+  },
+  {
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "In a rear-drive differential, the ring gear is bolted to the:",
+    "gujaratiQuestion": "Rear-drive differentialમાં ring gear કયા ભાગ સાથે bolted હોય છે?",
+    "options": [
+      "Differential carrier",
+      "Differential case",
+      "Drive pinion",
+      "Axle housing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The ring gear is mounted to the differential case/carrier assembly; the cited item uses differential case as the answer.",
+    "id": 177
+  },
+  {
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Classification of Mechanisms",
+    "question": "The mechanism used in a shaping machine is an inversion of the:",
+    "gujaratiQuestion": "Shaping machineમાં ઉપયોગ થતો mechanism કયા mechanismનું inversion છે?",
+    "options": [
+      "Closed four-bar chain",
+      "Closed six-bar chain",
+      "Four-bar with two sliding pairs",
+      "Single slider-crank chain"
+    ],
+    "correctAnswer": 3,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. A shaping mechanism is commonly treated as an inversion of a single slider-crank chain.",
+    "id": 178
+  },
+  {
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "Contact ratio of gears is the ratio of:",
+    "gujaratiQuestion": "Gearsનો contact ratio શું છે?",
+    "options": [
+      "Arc of approach / circular pitch",
+      "Circular pitch / arc of contact",
+      "Arc of recess / circular pitch",
+      "Length of arc of contact / circular pitch"
+    ],
+    "correctAnswer": 3,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Contact ratio = length of path/arc of contact divided by circular pitch in the cited formulation.",
+    "id": 179
+  },
+  {
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Degree of Freedom & Mobility",
+    "question": "A rigid body moving freely in a plane has how many degrees of freedom?",
+    "gujaratiQuestion": "Planeમાં freely moving rigid bodyના કેટલા degrees of freedom હોય છે?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Expected MCQ: Two translations and one rotation give 3 DOF.",
+    "id": 180
+  },
+  {
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Grashof's Law",
+    "question": "For a four-bar mechanism to have at least one link capable of full rotation, Grashof condition is:",
+    "gujaratiQuestion": "Four-bar mechanismમાં full rotation શક્ય બનાવવા Grashof condition શું છે?",
+    "options": [
+      "s+l>p+q",
+      "s+l=p−q",
+      "s+l≤p+q",
+      "s=l=p=q only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Expected MCQ: Grashof criterion is s+l≤p+q.",
+    "id": 181
+  },
+  {
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Flywheels & Governors",
+    "question": "A flywheel primarily controls:",
+    "gujaratiQuestion": "Flywheel મુખ્યત્વે શું control કરે છે?",
+    "options": [
+      "Mean speed due to load changes",
+      "Speed fluctuation within a cycle",
+      "Fuel composition",
+      "Bearing clearance"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Flywheel smooths cyclic speed fluctuations by storing/releasing energy.",
+    "id": 182
+  },
+  {
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Gears & Gear Trains",
+    "question": "Involute gear teeth are preferred mainly because they provide:",
+    "gujaratiQuestion": "Involute gear teeth મુખ્યત્વે શા માટે preferred છે?",
+    "options": [
+      "Constant velocity ratio",
+      "Zero contact",
+      "No normal force",
+      "Infinite backlash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: Involute gears maintain constant velocity ratio when correctly meshed.",
+    "id": 183
+  },
+  {
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Balancing of Reciprocating & Rotating Masses",
+    "question": "Complete balancing of a single-cylinder reciprocating engine is:",
+    "gujaratiQuestion": "Single-cylinder reciprocating engineનું complete balancing કેવું હોય છે?",
+    "options": [
+      "Always possible with one rotating mass",
+      "Impossible because reciprocating inertia varies in direction",
+      "Automatic",
+      "Independent of speed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Reciprocating inertia forces include primary/secondary components and cannot be completely balanced by a single rotating counterweight.",
+    "id": 184
+  },
+  {
+    "id": 185,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Design of Machine Elements",
+    "question": "The primary objective in machine element design is to ensure:",
+    "gujaratiQuestion": "The primary objective in machine element design is to ensure:",
+    "options": [
+      "safe and functional operation",
+      "maximum weight",
+      "minimum strength",
+      "zero factor of safety"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Design must satisfy strength, stiffness, reliability, manufacturability and service requirements."
+  },
+  {
+    "id": 186,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Design of Machine Elements",
+    "question": "Factor of safety is generally defined as:",
+    "gujaratiQuestion": "Factor of safety is generally defined as:",
+    "options": [
+      "failure strength/design strength",
+      "design strength/failure strength",
+      "load/deflection",
+      "stress/strain"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Factor of safety provides a margin between failure capacity and design level."
+  },
+  {
+    "id": 187,
+    "subject": "Kinematics & Theory of Machines",
+    "subTopic": "Design of Machine Elements",
+    "question": "A shaft transmitting torque is primarily designed against:",
+    "gujaratiQuestion": "A shaft transmitting torque is primarily designed against:",
+    "options": [
+      "torsional shear stress",
+      "fluid pressure",
+      "thermal radiation",
+      "compressive buckling only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Torque produces torsional shear stress in the shaft."
+  }
+]

@@ -1,0 +1,2027 @@
+[
+  {
+    "id": 1,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "What is the full form of CAD?",
+    "gujaratiQuestion": "Q1. CAD નું પૂરું નામ શું છે?",
+    "options": [
+      "Computer Aided Design",
+      "Computer Analysis Design",
+      "Computer Assisted Data",
+      "Computer Assembled Design"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CAD એટલે Computer Aided Design, જેનો ઉપયોગ એન્જિનિયરિંગ ડિઝાઇનિંગ અને ડ્રાફ્ટિંગ માટે થાય છે[cite: 8]."
+  },
+  {
+    "id": 2,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "What is the full form of CAM?",
+    "gujaratiQuestion": "Q2. CAM નું પૂરું નામ શું છે?",
+    "options": [
+      "Computer Aided Machine",
+      "Computer Aided Manufacturing",
+      "Computer Analysis Manufacturing",
+      "Computer Assisted Modeling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CAM એટલે Computer Aided Manufacturing, જે ઉત્પાદન પ્રક્રિયાઓને નિયંત્રિત કરવા માટે કમ્પ્યુટર સોફ્ટવેરનો ઉપયોગ કરે છે[cite: 8]."
+  },
+  {
+    "id": 3,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "The development of Numerical Control (NC) was primarily driven by which industry?",
+    "gujaratiQuestion": "Q3. ન્યુમેરિકલ કંટ્રોલ (NC) નો વિકાસ મુખ્યત્વે શેના કારણે થયો હતો?",
+    "options": [
+      "ડેકોરેટિવ ઇન્ડસ્ટ્રી",
+      "પ્રિસિઝન પાર્ટ્સ માટે એરોસ્પેસ અને ડિફેન્સની જરૂરિયાતો",
+      "માત્ર ટેક્સટાઈલ ઇન્ડસ્ટ્રી",
+      "એગ્રિકલ્ચર ઇન્ડસ્ટ્રી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NC મશીનિંગનો પ્રારંભિક વિકાસ યુએસ એરફોર્સ અને એરોસ્પેસ ઉદ્યોગમાં જટિલ અને ચોક્કસ પાર્ટ્સ બનાવવા માટે થયો હતો[cite: 8]."
+  },
+  {
+    "id": 4,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "Which of the following is NOT an example of geometric modeling?",
+    "gujaratiQuestion": "Q4. નીચેનામાંથી કયું Geometric modeling નું ઉદાહરણ નથી?",
+    "options": [
+      "Wireframe modeling",
+      "Surface modeling",
+      "Solid modeling",
+      "Thread modeling"
+    ],
+    "correctAnswer": 3,
+    "explanation": "જિયોમેટ્રિક મોડેલિંગના મુખ્ય ત્રણ પ્રકારો વાયરફ્રેમ, સરફેસ અને સોલિડ મોડેલિંગ છે; થ્રેડ મોડેલિંગ એ મૂળભૂત પ્રકાર નથી[cite: 8]."
+  },
+  {
+    "id": 5,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "What does B-Rep stand for in CAD solid modeling?",
+    "gujaratiQuestion": "Q5. B-Rep નું પૂરું નામ શું છે?",
+    "options": [
+      "Basic Representation",
+      "Boundary Representation",
+      "Base Representation",
+      "Binary Representation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "B-Rep એટલે Boundary Representation, જે સોલિડ ઓબ્જેક્ટને તેની બાઉન્ડ્રી ફેસિસ, એજીસ અને વર્ટાઈસિસ દ્વારા દર્શાવે છે[cite: 8]."
+  },
+  {
+    "id": 6,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CAD/CAM Integration Tools",
+    "question": "Which type of output device provides 3D physical models directly from CAD data?",
+    "gujaratiQuestion": "Q6. કયા પ્રકારનું આઉટપુટ ડિવાઈસ કોમ્પ્યુટર-એઇડેડ ડિઝાઈન (CAD) ડેટામાંથી 3D ફિઝિકલ મોડલ્સ પ્રદાન કરે છે?",
+    "options": [
+      "2D પ્લોટર",
+      "3D પ્રિન્ટર",
+      "CRT મોનિટર",
+      "કીબોર્ડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "3D પ્રિન્ટર એડિટિવ મેન્યુફેક્ચરિંગ દ્વારા ડિજિટલ CAD ફાઇલમાંથી ભૌતિક 3D પ્રોટોટાઇપ બનાવે છે[cite: 8]."
+  },
+  {
+    "id": 7,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "What is the full form of CSG in geometric modeling?",
+    "gujaratiQuestion": "Q7. CSG નું પૂરું નામ શું છે?",
+    "options": [
+      "Constructive Solid Geometry",
+      "Computed Solid Geometry",
+      "Computer Surface Geometry",
+      "Complex Solid Geometry"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CSG એટલે Constructive Solid Geometry, જે પ્રિમિટિવ શેપ્સ પર બુલિયન ઓપરેશન્સ (Union, Intersection, Difference) કરીને મોડેલ બનાવે છે[cite: 8]."
+  },
+  {
+    "id": 8,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "Which of the following is a method of 2D geometric transformation?",
+    "gujaratiQuestion": "Q8. નીચેનામાંથી કઈ 2D transformation ની પદ્ધતિ છે?",
+    "options": [
+      "Translation",
+      "Rotation",
+      "Scaling",
+      "ઉપરના બધા જ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ટ્રાન્સલેશન (સ્થળાંતર), રોટેશન (પરિભ્રમણ) અને સ્કેલિંગ (માપ બદલવું) એ તમામ પ્રમાણભૂત 2D ટ્રાન્સફોર્મેશન પદ્ધતિઓ છે[cite: 8]."
+  },
+  {
+    "id": 9,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CAD/CAM Integration Tools",
+    "question": "What is the major advantage associated with conducting analysis and validation in CAD/CAE?",
+    "gujaratiQuestion": "Q9. CAD/CAE માં એનાલિસિસ અને વેલિડેશન કરવાથી કયો ફાયદો સંકળાયેલો છે?",
+    "options": [
+      "ફિઝિકલ ટેસ્ટ માટે રાહ જોવાને કારણે ડિઝાઈન સાયકલમાં વધારો",
+      "ખામીઓ (errors) વહેલી પકડાવાથી ખર્ચમાં ઘટાડો",
+      "ડિઝાઈનને ઇટરેટ (iterate) કરવાની ઓછી ક્ષમતા",
+      "વધુ મટિરિયલનો બગાડ (waste)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વર્ચ્યુઅલ CAE સિમ્યુલેશન દ્વારા પ્રોટોટાઇપિંગ પહેલાં ખામીઓ વહેલી પકડી શકાય છે, જેથી ડિઝાઇન ખર્ચ અને સમય ઘટે છે[cite: 8]."
+  },
+  {
+    "id": 10,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "What is the very first step in the traditional design process in CAD?",
+    "gujaratiQuestion": "Q10. CAD સિસ્ટમમાં design process નું પહેલું સ્ટેપ કયું છે?",
+    "options": [
+      "Synthesis",
+      "Analysis",
+      "Recognition of need",
+      "Presentation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડિઝાઇન પ્રક્રિયાનું સર્વપ્રથમ પગથિયું જરૂરિયાતની ઓળખ (Recognition of need) છે[cite: 8]."
+  },
+  {
+    "id": 11,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "In geometric modeling, which method represents an object using only interconnected lines and vertices?",
+    "gujaratiQuestion": "Q11. Geometric modeling માં object ને લાઈનો દ્વારા દર્શાવવાની રીત કઈ છે?",
+    "options": [
+      "Surface modeling",
+      "Solid modeling",
+      "Wireframe modeling",
+      "Feature modeling"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વાયરફ્રેમ મોડેલિંગ માત્ર એજીસ અને વર્ટાઇસિસથી ઓબ્જેક્ટની કંકાલ રચના દર્શાવે છે[cite: 8]."
+  },
+  {
+    "id": 12,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "Which of the following is NOT one of the three basic geometric modeling categories taught in standard CAD courses?",
+    "gujaratiQuestion": "Q12. ઘણા CAD કોર્સમાં 3D મોડલ્સના ત્રણ મૂળભૂત પ્રકાર ભણાવવામાં આવે છે. નીચેનામાંથી કયો પ્રકાર તે ત્રણમાં આવતો નથી?",
+    "options": [
+      "વાયરફ્રેમ મોડલ",
+      "સરફેસ મોડલ",
+      "સોલિડ મોડલ",
+      "પેરામેટ્રિક મોડલ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "મૂળભૂત ત્રણ ભૌમિતિક મોડેલિંગ પ્રકાર વાયરફ્રેમ, સરફેસ અને સોલિડ છે; પેરામેટ્રિક એ મોડેલિંગ એપ્રોચ છે[cite: 8]."
+  },
+  {
+    "id": 13,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "Which geometric modeling technique possesses complete spatial addressability (distinguishing interior and exterior of an object)?",
+    "gujaratiQuestion": "Q13. કયું મોડેલિંગ object ના અંદરના અને બહારના ભાગને (Spatial addressability) સ્પષ્ટ રીતે દર્શાવવા સક્ષમ છે?",
+    "options": [
+      "Wireframe modeling",
+      "2D modeling",
+      "Surface modeling",
+      "Solid modeling"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સોલિડ મોડેલિંગ સંપૂર્ણ વોલ્યુમેટ્રિક અને માસ પ્રોપર્ટીઝ ધરાવે છે અને આંતરિક/બાહ્ય વોલ્યુમ સ્પષ્ટપણે ઓળખે છે[cite: 8]."
+  },
+  {
+    "id": 14,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "Which of the following curves is a synthetic (freeform) curve in CAD?",
+    "gujaratiQuestion": "Q14. CAD માં Synthetic curve કયો છે?",
+    "options": [
+      "Line",
+      "Circle",
+      "Bezier curve",
+      "Ellipse"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બેઝિયર (Bezier), બી-સ્પ્લાઇન અને નર્બ્સ (NURBS) કર્વ્સ સિન્થેટિક/ફ્રીફોર્મ કર્વ્સ છે, જ્યારે લાઇન અને સર્કલ એનાલિટિક કર્વ્સ છે[cite: 8]."
+  },
+  {
+    "id": 15,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CAD/CAM Integration Tools",
+    "question": "In the context of generative Computer Aided Process Planning (CAPP), what does the 'inference engine' refer to?",
+    "gujaratiQuestion": "Q15. જનરેટિવ કોમ્પ્યુટર એઈડેડ પ્રોસેસ પ્લાનિંગ (CAPP) ના સંદર્ભમાં, 'ઇન્ફરન્સ એન્જિન' (inference engine) કમ્પોનન્ટ શેનો સંદર્ભ આપે છે?",
+    "options": [
+      "પ્રોસેસ ચલાવતા ફિઝિકલ મશીન ટૂલ",
+      "CAD મોડેલર, જે બનાવવા, વ્યાખ્યાયિત કરવા અને મેનેજ કરવા માટે જવાબદાર છે",
+      "ઓપરેશન્સ વ્યાખ્યાયિત કરવા માટે લાગુ કરેલા મેન્યુફેક્ચરિંગ રૂલ્સ ધરાવતો મોડ્યુલ",
+      "ઓપરેટર જે મેન્યુઅલી પ્લાન ઈનપુટ કરે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જનરેટિવ CAPP માં ઇન્ફરન્સ એન્જિન મેન્યુફેક્ચરિંગ નોલેજ બેઝ અને લોજિકલ રૂલ્સ લાગુ કરીને પ્રોસેસ પ્લાન આપમેળે જનરેટ કરે છે[cite: 8]."
+  },
+  {
+    "id": 16,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "What does CIM stand for?",
+    "gujaratiQuestion": "Q16. CIM નું પૂરું નામ શું છે?",
+    "options": [
+      "Computer Integrated Manufacturing",
+      "Computer Internal Machine",
+      "Computer Included Manufacturing",
+      "Computer Interface Manufacturing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CIM એટલે Computer Integrated Manufacturing[cite: 8]."
+  },
+  {
+    "id": 17,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Industrial Integration",
+    "question": "The CIM Wheel framework was developed by which professional organization?",
+    "gujaratiQuestion": "Q17. CIM wheel કઈ સંસ્થા દ્વારા વિકસાવવામાં આવ્યું છે?",
+    "options": [
+      "IEEE",
+      "CASA/SME",
+      "ANSI",
+      "ISO"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CIM Wheel એ Computer and Automated Systems Association of SME (CASA/SME) દ્વારા વિકસાવવામાં આવ્યું છે[cite: 8]."
+  },
+  {
+    "id": 18,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "VAL (Variable Assembly Language) is a robot programming language primarily associated with:",
+    "gujaratiQuestion": "Q18. VAL (Variable Assembly Language) એ રોબોટ પ્રોગ્રામિંગ લેંગ્વેજ છે, જે મુખ્યત્વે કોની સાથે સંકળાયેલી છે?",
+    "options": [
+      "FANUC રોબોટ્સ",
+      "PUMA રોબોટ્સ",
+      "ABB રોબોટ્સ",
+      "KUKA રોબોટ્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "VAL લેંગ્વેજ મૂળરૂપે Unimation દ્વારા તેમના PUMA ઇન્ડસ્ટ્રીયલ રોબોટ્સ માટે વિકસાવવામાં આવી હતી[cite: 8]."
+  },
+  {
+    "id": 19,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Flexible Manufacturing Concepts",
+    "question": "What is the primary objective of Group Technology (GT)?",
+    "gujaratiQuestion": "Q19. Group Technology (GT) નો મુખ્ય ઉદ્દેશ્ય શું છે?",
+    "options": [
+      "મશીનોને છૂટા પાડવા",
+      "પાર્ટ્સને Part families માં વહેંચવા",
+      "મેન્યુઅલ કામ વધારવું",
+      "ટૂલિંગ ઘટાડવું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગ્રૂપ ટેકનોલોજી સમાન ડિઝાઇન અને ઉત્પાદન લાક્ષણિકતાઓ ધરાવતા પાર્ટ્સનું પાર્ટ ફેમિલીઝમાં વર્ગીકરણ કરે છે[cite: 8]."
+  },
+  {
+    "id": 20,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Flexible Manufacturing Concepts",
+    "question": "Which of the following is a widely recognized coding and classification system in Group Technology?",
+    "gujaratiQuestion": "Q20. પાર્ટ ક્લાસિફિકેશન અને કોડિંગ માટે જાણીતી સિસ્ટમ કઈ છે?",
+    "options": [
+      "Opitz system",
+      "Windows system",
+      "UNIX system",
+      "Binary system"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Opitz સિસ્ટમ એ ગ્રૂપ ટેકનોલોજીમાં પાર્ટ્સના વર્ગીકરણ અને કોડિંગ માટે સૌથી લોકપ્રિય સિસ્ટમ છે[cite: 8]."
+  },
+  {
+    "id": 21,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "In a 2D CAD package, what is the center of a clockwise circular arc of radius 5 units extending from A(15, 10) to B(10, 15)?",
+    "gujaratiQuestion": "Q21. 2D CAD પેકેજમાં, 5 યુનિટ ત્રિજ્યા (radius) ધરાવતી ક્લોકવાઇઝ સર્ક્યુલર આર્ક કે જે પોઈન્ટ A (15, 10) થી B (10, 15) સુધી સ્પષ્ટ કરેલ છે, તેનું સેન્ટર ક્યાં હશે?",
+    "options": [
+      "(10, 10)",
+      "(15, 10)",
+      "(15, 15)",
+      "(10, 15)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "(15, 15) કેન્દ્રથી (15, 10) અને (10, 15) બંનેનું અંતર 5 યુનિટ છે અને ક્લોકવાઇઝ દિશા સંતોષાય છે[cite: 8]."
+  },
+  {
+    "id": 22,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Flexible Manufacturing Concepts",
+    "question": "In the Opitz coding system, how many digits make up the primary 'form code'?",
+    "gujaratiQuestion": "Q22. Opitz કોડિંગ સિસ્ટમમાં 'form code' કેટલા અંકોનો (Digits) બનેલો હોય છે?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓપિટ્ઝ સિસ્ટમમાં પ્રથમ 5 અંકો ફોર્મ કોડ (ભૌમિતિક ડિઝાઇન લાક્ષણિકતાઓ) રચે છે[cite: 8]."
+  },
+  {
+    "id": 23,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Flexible Manufacturing Concepts",
+    "question": "How many digits comprise the basic universal code structure in the MICLASS coding system?",
+    "gujaratiQuestion": "Q23. MICLASS કોડિંગ સિસ્ટમ બેઝિક સ્વરૂપમાં કેટલા અંકોની બનેલી છે?",
+    "options": [
+      "5",
+      "8",
+      "12",
+      "16"
+    ],
+    "correctAnswer": 2,
+    "explanation": "MICLASS સિસ્ટમમાં મૂળભૂત સાર્વત્રિક કોડ 12 અંકોનો બનેલો હોય છે[cite: 8]."
+  },
+  {
+    "id": 24,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "In CNC programming, what instruction is represented by the miscellaneous code M06?",
+    "gujaratiQuestion": "Q24. CNC પ્રોગ્રામિંગમાં M06 કઈ ઈન્સ્ટ્રક્શન દર્શાવે છે?",
+    "options": [
+      "પ્રોગ્રામ સ્ટોપ",
+      "ટૂલ ચેન્જ",
+      "કૂલન્ટ ઓન",
+      "સ્પિન્ડલ ઓન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "M06 એ ઓટોમેટિક ટૂલ ચેન્જ (Automatic Tool Change - ATC) માટેનો મિસલેનિયસ કોડ છે[cite: 8]."
+  },
+  {
+    "id": 25,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CAD/CAM Integration Tools",
+    "question": "What is the full form of CAPP?",
+    "gujaratiQuestion": "Q25. CAPP નું પૂરું નામ શું છે?",
+    "options": [
+      "Computer Aided Production Planning",
+      "Computer Aided Process Planning",
+      "Computer Assisted Part Program",
+      "Computer Aided Product Planning"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CAPP એટલે Computer Aided Process Planning[cite: 8]."
+  },
+  {
+    "id": 26,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Digital Manufacturing Basics",
+    "question": "Consider the following 8086 assembly program: MOV AX, BB11H; MOV CX, 1122H; ADD AX, CX; HLT. What will be the final value in AX?",
+    "gujaratiQuestion": "Q26. નીચે દર્શાવેલા 8086 એસેમ્બલી લેંગ્વેજ પ્રોગ્રામનો વિચાર કરો: MOV AX, BB11H; MOV CX, 1122H; ADD AX, CX; HLT. આ પ્રોગ્રામનું પરિણામ શું હશે?",
+    "options": [
+      "CX = CC33H",
+      "AX = CC33H",
+      "CX = BB11H",
+      "AX = BB11H"
+    ],
+    "correctAnswer": 1,
+    "explanation": "BB11H + 1122H = CC33H, જે AX રજિસ્ટરમાં સ્ટોર થશે[cite: 8]."
+  },
+  {
+    "id": 27,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CAD/CAM Integration Tools",
+    "question": "What are the two primary approaches/types of CAPP systems?",
+    "gujaratiQuestion": "Q27. CAPP ના મુખ્ય બે પ્રકાર કયા છે?",
+    "options": [
+      "Manual અને Automatic",
+      "Variant અને Generative",
+      "Static અને Dynamic",
+      "Basic અને Advanced"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CAPP મુખ્ય બે અભિગમો ધરાવે છે: વેરિઅન્ટ (રીટ્રીવલ આધારિત) અને જનરેટિવ (રૂલ્સ/નોલેજ આધારિત)[cite: 8]."
+  },
+  {
+    "id": 28,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Flexible Manufacturing Concepts",
+    "question": "In Group Technology, what type of machine layout is standardly deployed?",
+    "gujaratiQuestion": "Q28. Group Technology માં મશીનોની ગોઠવણ (Layout) સામાન્ય રીતે કયા પ્રકારની હોય છે?",
+    "options": [
+      "Process layout",
+      "Product layout",
+      "Cellular layout",
+      "Fixed position layout"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગ્રૂપ ટેકનોલોજીમાં મશીનોને પાર્ટ ફેમિલીઝ મુજબ સેલ્યુલર લેઆઉટ (Manufacturing Cells) માં ગોઠવાય છે[cite: 8]."
+  },
+  {
+    "id": 29,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "NC contouring is an example of:",
+    "gujaratiQuestion": "Q29. NC કન્ટુરિંગ (contouring) એ કોનું ઉદાહરણ છે?",
+    "options": [
+      "કન્ટીન્યુઅસ પાથ પોઝિશનિંગ",
+      "પોઈન્ટ-ટુ-પોઈન્ટ પોઝિશનિંગ",
+      "એબ્સોલ્યુટ પોઝિશનિંગ",
+      "ઇન્ક્રિમેન્ટલ પોઝિશનિંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કન્ટુરિંગ એ કન્ટીન્યુઅસ પાથ કંટ્રોલ (Continuous-path positioning) છે જ્યાં બહુવિધ અક્ષોનું એકસાથે નિયંત્રણ થાય છે[cite: 8]."
+  },
+  {
+    "id": 30,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Computer-Based Production Control",
+    "question": "What is the full form of MRP in production planning?",
+    "gujaratiQuestion": "Q30. MRP નું પૂરું નામ શું છે?",
+    "options": [
+      "Machine Requirement Planning",
+      "Material Requirements Planning",
+      "Manufacturing Resource Planning",
+      "Master Route Planning"
+    ],
+    "correctAnswer": 1,
+    "explanation": "MRP એટલે Material Requirements Planning[cite: 8]."
+  },
+  {
+    "id": 31,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Computer-Based Production Control",
+    "question": "What is the full form of ERP?",
+    "gujaratiQuestion": "Q31. ERP નું પૂરું નામ શું છે?",
+    "options": [
+      "Enterprise Resource Planning",
+      "Engineering Resource Planning",
+      "Electronic Resource Planning",
+      "Entity Requirement Planning"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ERP એટલે Enterprise Resource Planning[cite: 8]."
+  },
+  {
+    "id": 32,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Production Planning Support",
+    "question": "In production planning and control, what is assigning start and completion times for each activity called?",
+    "gujaratiQuestion": "Q32. પ્રોડક્શન પ્લાનિંગ એન્ડ કંટ્રોલ પ્રોસેસ હેઠળ દરેક એક્ટિવિટી કરવા માટે લાગતા સમય સાથે શું સંબંધિત છે?",
+    "options": [
+      "લોડિંગ",
+      "સિક્વન્સિંગ",
+      "રૂટિંગ",
+      "શેડ્યુલિંગ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઓપરેશન્સના ચોક્કસ સમયપત્રક અને ટાઇમટેબલ નક્કી કરવાની ક્રિયાને શેડ્યુલિંગ (Scheduling) કહે છે[cite: 8]."
+  },
+  {
+    "id": 33,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Production Planning Support",
+    "question": "What is the primary operational benefit of the Just-In-Time (JIT) manufacturing system?",
+    "gujaratiQuestion": "Q33. JIT (Just-In-Time) સિસ્ટમ નો મુખ્ય ફાયદો શું છે?",
+    "options": [
+      "માર્કેટિંગ વધારવું",
+      "ઇન્વેન્ટરી (Inventory) ઘટાડવી",
+      "મશીનોની સંખ્યા વધારવી",
+      "કામદારો ઘટાડવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "JIT નો મુખ્ય ઉદ્દેશ્ય વેસ્ટ નાબૂદ કરીને વર્ક-ઇન-પ્રોસેસ અને કાચા માલની ઇન્વેન્ટરી ન્યૂનતમ કરવાનો છે[cite: 8]."
+  },
+  {
+    "id": 34,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Flexible Manufacturing Concepts",
+    "question": "What is the full form of FMS?",
+    "gujaratiQuestion": "Q34. FMS નું પૂરું નામ શું છે?",
+    "options": [
+      "Fast Manufacturing System",
+      "Fixed Manufacturing System",
+      "Flexible Manufacturing System",
+      "Factory Management System"
+    ],
+    "correctAnswer": 2,
+    "explanation": "FMS એટલે Flexible Manufacturing System[cite: 8]."
+  },
+  {
+    "id": 35,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "Computer-Integrated Manufacturing (CIM) encompasses automated management of:",
+    "gujaratiQuestion": "Q35. કોમ્પ્યુટર-ઇન્ટિગ્રેટેડ મેન્યુફેક્ચરિંગ (CIM) એ મોટાભાગે કયા કાર્યોના સંકલન (integration) માટેનું ઓટોમેટેડ મેન્યુફેક્ચરિંગ મૅનેજમેન્ટ છે?",
+    "options": [
+      "CAD/CAM, રોબોટિક્સ, મટિરિયલ હેન્ડલિંગ",
+      "CAD/CAM, રોબોટિક્સ, ઓટોમેટેડ મટિરિયલ હેન્ડલિંગ અને અન્ય ઘણા પ્રોડક્શન ફંક્શન્સ",
+      "તે માત્ર FMS મેન્યુફેક્ચરિંગ ટેકનોલોજીનું એક્સટેન્શન છે",
+      "આમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CIM એ એન્ટરપ્રાઇઝના તમામ કાર્યો (ડિઝાઇન, ઉત્પાદન, રોબોટિક્સ, મટિરિયલ હેન્ડલિંગ અને પ્લાનિંગ) નું કમ્પ્યુટર દ્વારા સંકલન છે[cite: 8]."
+  },
+  {
+    "id": 36,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Flexible Manufacturing Concepts",
+    "question": "Which of the following is an essential hardware/software component of an FMS?",
+    "gujaratiQuestion": "Q36. નીચેનામાંથી કયું FMS નું ઘટક છે?",
+    "options": [
+      "Workstations (CNC Machines)",
+      "Material handling system (AGVs/ASRS)",
+      "Computer control system",
+      "ઉપરના બધા જ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "FMS માં CNC વર્કસ્ટેશન્સ, ઓટોમેટેડ મટિરિયલ હેન્ડલિંગ અને સેન્ટ્રલ કમ્પ્યુટર કંટ્રોલ સિસ્ટમ ત્રણેયનો સમાવેશ થાય છે[cite: 8]."
+  },
+  {
+    "id": 37,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "What is the full form of NC?",
+    "gujaratiQuestion": "Q37. NC નું પૂરું નામ શું છે?",
+    "options": [
+      "Normal Control",
+      "Numerical Control",
+      "Network Control",
+      "Number Coding"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NC એટલે Numerical Control[cite: 8]."
+  },
+  {
+    "id": 38,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which preparatory G-code is used to set the programming mode to Absolute Coordinates?",
+    "gujaratiQuestion": "Q38. એબ્સોલ્યુટ કોઓર્ડિનેટ્સમાં પ્રોગ્રામિંગ કરવા માટે કયા કોડનો ઉપયોગ થાય છે?",
+    "options": [
+      "G90",
+      "G32",
+      "G54",
+      "G10"
+    ],
+    "correctAnswer": 0,
+    "explanation": "G90 એબ્સોલ્યુટ ડાયમેન્શનિંગ મોડ (ઓરિજિનથી માપ) સેટ કરે છે, જ્યારે G91 ઇન્ક્રિમેન્ટલ મોડ સેટ કરે છે[cite: 8]."
+  },
+  {
+    "id": 39,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "How many basic functional components make up a complete NC system?",
+    "gujaratiQuestion": "Q39. NC સિસ્ટમ ના મુખ્ય કેટલા ભાગ હોય છે?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NC સિસ્ટમના મુખ્ય 3 ઘટકો છે: 1. પ્રોગ્રામ ઓફ ઇન્સ્ટ્રક્શન્સ, 2. મશીન કંટ્રોલ યુનિટ (MCU), 3. પ્રોસેસિંગ ઇક્વિપમેન્ટ/મશીન ટૂલ[cite: 8]."
+  },
+  {
+    "id": 40,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "What is the full form of MCU in NC/CNC machine tools?",
+    "gujaratiQuestion": "Q40. MCU નું પૂરું નામ શું છે?",
+    "options": [
+      "Machine Control Unit",
+      "Motor Control Unit",
+      "Main Central Unit",
+      "Micro Control Unit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "MCU એટલે Machine Control Unit[cite: 8]."
+  },
+  {
+    "id": 41,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Industrial Integration",
+    "question": "In a series of repeated measurements of a constant quantity, the dispersion of measured values is quantified by:",
+    "gujaratiQuestion": "Q41. માપેલી ક્વોન્ટિટીની સમાન વેલ્યુના વારંવાર માપન (series of measurements) માં મળતા પરિણામોના ડિસ્પર્ઝન (dispersion) ને કોના દ્વારા દર્શાવવામાં આવે છે?",
+    "options": [
+      "એબ્સોલ્યુટ એરર",
+      "રિલેટિવ એરર",
+      "રૂટ મીન સ્ક્વેર ડેવિએશન (Standard Deviation)",
+      "વેરીએશન ઓફ ઈન્ડિકેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વારંવારના માપનમાં પરિણામોના ફેલાવા/ડિસ્પર્ઝનને સ્ટાન્ડર્ડ ડેવિએશન અથવા રૂટ મીન સ્ક્વેર ડેવિએશન (RMSD) વડે દર્શાવાય છે[cite: 8]."
+  },
+  {
+    "id": 42,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "On which storage medium was the part program stored in traditional hardwired NC machines?",
+    "gujaratiQuestion": "Q42. જૂના NC મશીનોમાં પ્રોગ્રામ કયા માધ્યમ પર સ્ટોર થતો હતો?",
+    "options": [
+      "Floppy disk",
+      "Punched tape",
+      "USB drive",
+      "CD-ROM"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પરંપરાગત NC મશીનોમાં પ્રોગ્રામ પંચ્ડ પેપર અથવા માયલર ટેપ (Punched Tape) પર સંગ્રહિત થતો હતો[cite: 8]."
+  },
+  {
+    "id": 43,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "What is the standard width of 8-track punched tape historically used in NC machines?",
+    "gujaratiQuestion": "Q43. NC મશીનોમાં વપરાતી Punched tape ની પહોળાઈ સામાન્ય રીતે કેટલી હોય છે?",
+    "options": [
+      "0.5 inch",
+      "1 inch",
+      "2 inches",
+      "3 inches"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NC મશીનોમાં સ્ટાન્ડર્ડ 8-ટ્રેક પંચ્ડ ટેપની પહોળાઈ 1 ઇંચ (25.4 mm) હોય છે[cite: 8]."
+  },
+  {
+    "id": 44,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "In CNC programming, what does the miscellaneous code M30 signify?",
+    "gujaratiQuestion": "Q44. M30 નો અર્થ શું થાય છે?",
+    "options": [
+      "એન્ડ ઓફ પ્રોગ્રામ એન્ડ રીસેટ/રીવાઇન્ડ",
+      "એન્ડ ઓફ બ્લોક",
+      "એન્ડ ઓફ ટેપ એન્ડ ટેપ રિવાઈન્ડ",
+      "કૂલન્ટ ઓન/ઓફ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "M30 પ્રોગ્રામનો અંત દર્શાવીને પ્રોગ્રામ પોઇન્ટરને ફરીથી શરૂઆતમાં રીવાઇન્ડ/રીસેટ કરે છે[cite: 8]."
+  },
+  {
+    "id": 45,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "Point-to-Point (PTP) motion control in NC systems is primarily deployed for which machining operation?",
+    "gujaratiQuestion": "Q45. NC સિસ્ટમમાં Point-to-Point (PTP) કંટ્રોલ નો ઉપયોગ મુખ્યત્વે કયા ઓપરેશન માટે થાય છે?",
+    "options": [
+      "Milling",
+      "Turning",
+      "Drilling",
+      "Contour cutting"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડ્રિલિંગ, ટેપિંગ અને સ્પોટ વેલ્ડિંગ જેવા ઓપરેશન્સમાં માત્ર લક્ષ્ય બિંદુનું સ્થાન મહત્વનું હોવાથી PTP કંટ્રોલ વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 46,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "In which type of NC motion control can the tool simultaneously interpolate along two or more axes along a defined curved path?",
+    "gujaratiQuestion": "Q46. કયા પ્રકારના NC કંટ્રોલમાં ટૂલ બે કે તેથી વધુ ધરીઓ (axes) પર એકસાથે ચોક્કસ ગતિ કરી શકે છે?",
+    "options": [
+      "Point-to-point",
+      "Straight cut",
+      "Contouring (Continuous path)",
+      "Linear tracking"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કન્ટુરિંગ કંટ્રોલ સિસ્ટમમાં બે કે તેથી વધુ અક્ષોનું એકસાથે ચોક્કસ ઇન્ટરપોલેશન કરીને વક્ર સપાટીઓ કાપી શકાય છે[cite: 8]."
+  },
+  {
+    "id": 47,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "While configuring a mechanical engineering drawing in AutoCAD, which unit format should be selected?",
+    "gujaratiQuestion": "Q47. ઑટોકેડ (AutoCAD) માં મિકેનિકલ ડ્રોઇંગ સેટ કરતી વખતે, ડ્રાફ્ટરે યુનિટ્સ કયા સેટ કરવા જોઈએ?",
+    "options": [
+      "મેટ્રિક",
+      "ડેસિમલ (Decimal)",
+      "ફ્રેક્શનલ",
+      "આર્કિટેક્ચરલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મિકેનિકલ એન્જિનિયરિંગ ડ્રોઇંગ્સમાં મિલિમીટર પરિમાણો માટે ડેસિમલ (Decimal) યુનિટ્સ સેટ કરાય છે[cite: 8]."
+  },
+  {
+    "id": 48,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "What is the full form of DNC?",
+    "gujaratiQuestion": "Q48. DNC નું પૂરું નામ શું છે?",
+    "options": [
+      "Direct Numerical Control",
+      "Digital Numerical Control",
+      "Distributed Network Control",
+      "Data Numerical Control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DNC એટલે Direct Numerical Control (અથવા Distributed Numerical Control)[cite: 8]."
+  },
+  {
+    "id": 49,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "In a traditional DNC system, where are part programs transmitted to the machines from?",
+    "gujaratiQuestion": "Q49. DNC સિસ્ટમમાં પ્રોગ્રામ ક્યાંથી મશીનમાં મોકલવામાં આવે છે?",
+    "options": [
+      "Tape reader માંથી",
+      "Central computer માંથી",
+      "Floppy drive માંથી",
+      "Manual input થી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DNC માં એક કેન્દ્રીય કમ્પ્યુટર (Central mainframe/host computer) નેટવર્ક દ્વારા અનેક મશીનોને રીયલ-ટાઇમમાં પ્રોગ્રામ્સ ફીડ કરે છે[cite: 8]."
+  },
+  {
+    "id": 50,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "In the CNC program block \"N10 G02 G91 X52 Z25\", what motion does G02 command?",
+    "gujaratiQuestion": "Q50. CNC પ્રોગ્રામ બ્લોક \"N10 G02 G91 X52 Z25\" માં... G02 શું દર્શાવે છે?",
+    "options": [
+      "લિનિયર ઇન્ટરપોલેશન",
+      "ક્લોકવાઇઝ સર્ક્યુલર ઇન્ટરપોલેશન",
+      "ઇન્ક્રિમેન્ટલ કમાન્ડ",
+      "એબ્સોલ્યુટ કમાન્ડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "G02 કોડ ક્લોકવાઇઝ (CW) સર્ક્યુલર ઇન્ટરપોલેશન ગતિ દર્શાવે છે[cite: 8]."
+  },
+  {
+    "id": 51,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CNC Technology",
+    "question": "Which spatial orientation convention is standardly used to designate coordinate axes in NC/CNC machine tools?",
+    "gujaratiQuestion": "Q51. NC/CNC મશીનમાં ધરી (Axis) સિલેક્શન માટે કયા નિયમનો ઉપયોગ થાય છે?",
+    "options": [
+      "Left-hand rule",
+      "Right-hand rule (Right Hand Cartesian Rule)",
+      "Thumb rule",
+      "Ampere's rule"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CNC મશીનોમાં X, Y, Z પ્રિન્સિપલ અક્ષો નક્કી કરવા રાઇટ-હેન્ડ કાર્ટેશિયન કોઓર્ડિનેટ રૂલ વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 52,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Digital Manufacturing Basics",
+    "question": "Which of the following is NOT an extrusion-based rapid prototyping system?",
+    "gujaratiQuestion": "Q52. નીચેનામાંથી કયું એક્સટ્રુઝન-આધારિત (Extrusion-based) રેપિડ પ્રોટોટાઈપિંગ સિસ્ટમ નથી?",
+    "options": [
+      "ફ્યુઝડ ડિપોઝિશન મોડેલિંગ",
+      "3D પ્રિન્ટિંગ",
+      "લેમિનેટેડ ઓબ્જેક્ટ મેન્યુફેક્ચરિંગ",
+      "ઈલેક્ટ્રોન બીમ મેલ્ટિંગ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઇલેક્ટ્રોન બીમ મેલ્ટિંગ (EBM) એ પાવડર બેડ ફ્યુઝન પ્રક્રિયા છે, એક્સટ્રુઝન-આધારિત નથી[cite: 8]."
+  },
+  {
+    "id": 53,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "In an NC machine tool architecture, in which subsystem does the tape reader reside?",
+    "gujaratiQuestion": "Q53. NC મશીન ટૂલમાં tape reader નું કાર્ય કયા યુનિટમાં આવે છે?",
+    "options": [
+      "Machine Tool",
+      "Feedback Unit",
+      "Machine Control Unit (MCU)",
+      "Display Unit"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટેપ રીડર એ મશીન કંટ્રોલ યુનિટ (MCU) નો ડેટા રીડિંગ ઇનપુટ ઘટક છે[cite: 8]."
+  },
+  {
+    "id": 54,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CNC Technology",
+    "question": "The principal vertical motion (parallel to the main cutting spindle) is designated by which axis?",
+    "gujaratiQuestion": "Q54. સ્પિન્ડલ ની ઉભી ગતિ (Vertical motion) સામાન્ય રીતે કઈ ધરી વડે દર્શાવાય છે?",
+    "options": [
+      "X-axis",
+      "Y-axis",
+      "Z-axis",
+      "C-axis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્પિન્ડલની અક્ષ અથવા ટૂલની મુખ્ય અક્ષીય ગતિ હંમેશા Z-અક્ષ (Z-axis) વડે દર્શાવાય છે[cite: 8]."
+  },
+  {
+    "id": 55,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Digital Manufacturing Basics",
+    "question": "What is the standard triangular mesh file format universally used by rapid prototyping / 3D printing machines?",
+    "gujaratiQuestion": "Q55. પ્રોટોટાઈપિંગ મશીન ફાઈલ માટેનું ફોર્મેટ કયું છે?",
+    "options": [
+      ".prt",
+      ".slt",
+      ".stl",
+      ".iges"
+    ],
+    "correctAnswer": 2,
+    "explanation": ".stl (Stereolithography / Standard Tessellation Language) એ 3D પ્રિન્ટિંગનું સ્ટાન્ડર્ડ ફાઇલ ફોર્મેટ છે[cite: 8]."
+  },
+  {
+    "id": 56,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CNC Technology",
+    "question": "In a standard vertical milling machine, in which principal plane does the worktable move?",
+    "gujaratiQuestion": "Q56. Milling મશીનમાં ટેબલની ગતિ (Table movement) કયા પ્લેનમાં થાય છે?",
+    "options": [
+      "X-Y plane",
+      "Y-Z plane",
+      "X-Z plane",
+      "A-B plane"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વર્ટિકલ મિલિંગ મશીનમાં વર્કટેબલ આડી સમક્ષિતિજ દિશામાં X અને Y અક્ષો પર એટલે કે X-Y પ્લેનમાં ગતિ કરે છે[cite: 8]."
+  },
+  {
+    "id": 57,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "In a Straight-cut NC control system, how is the cutting tool constrained to move during cutting?",
+    "gujaratiQuestion": "Q57. \"Straight-cut\" કંટ્રોલ સિસ્ટમમાં કટિંગ ટૂલ કેવી ગતિ કરી શકે છે?",
+    "options": [
+      "ગોળાકાર",
+      "ધરીને સમાંતર સીધી લાઈનમાં",
+      "કોઈપણ એન્ગલ પર 3D માં",
+      "અનિયમિત વળાંકમાં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટ્રેટ-કટ સિસ્ટમમાં કટિંગ કરતી વખતે ટૂલ કોઈપણ એક અક્ષને સમાંતર સીધી રેખામાં જ ગતિ કરી શકે છે[cite: 8]."
+  },
+  {
+    "id": 58,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "In machining terminology, in which units is feed rate (f) standardly measured in turning?",
+    "gujaratiQuestion": "Q58. ફીડ કયા એકમમાં માપવામાં આવે છે?",
+    "options": [
+      "લંબાઇ/રિવોલ્યુશન (mm/rev)",
+      "ડિગ્રી/રિવોલ્યુશન",
+      "સમય/લંબાઈ",
+      "વેલોસિટી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "લેથ ટર્નિંગમાં ફીડ દર mm/rev (લંબાઇ પ્રતિ રિવોલ્યુશન) અથવા મિલિંગમાં mm/min માં મપાય છે[cite: 8]."
+  },
+  {
+    "id": 59,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "Which NC motion control system has the capability to perform both Point-to-Point and Straight-cut operations in addition to contouring?",
+    "gujaratiQuestion": "Q59. કઈ કંટ્રોલ સિસ્ટમ Point-to-Point અને Straight-cut બંને ઓપરેશન સારી રીતે કરી શકે છે?",
+    "options": [
+      "Contouring NC (Continuous path)",
+      "Manual NC",
+      "Open-loop NC",
+      "Basic NC"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કન્ટુરિંગ NC સિસ્ટમ સૌથી અદ્યતન હોવાથી તે PTP અને સ્ટ્રેટ-કટ બંને પ્રકારની ગતિ સરળતાથી કરી શકે છે[cite: 8]."
+  },
+  {
+    "id": 60,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CNC Technology",
+    "question": "What is the full form of CNC?",
+    "gujaratiQuestion": "Q60. CNC નું પૂરું નામ શું છે?",
+    "options": [
+      "Computerized Normal Control",
+      "Computer Numerical Control",
+      "Central Network Control",
+      "Custom Numeric Code"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CNC એટલે Computer Numerical Control[cite: 8]."
+  },
+  {
+    "id": 61,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "NC contouring is a form of which positioning system?",
+    "gujaratiQuestion": "Q61. NC કન્ટુરિંગ (contouring) એ કોનું ઉદાહરણ છે?",
+    "options": [
+      "કન્ટીન્યુઅસ પાથ પોઝિશનિંગ",
+      "પોઈન્ટ-ટુ-પોઈન્ટ પોઝિશનિંગ",
+      "એબ્સોલ્યુટ પોઝિશનિંગ",
+      "ઇન્ક્રિમેન્ટલ પોઝિશનિંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કન્ટુરિંગ એટલે કન્ટીન્યુઅસ પાથ પોઝિશનિંગ[cite: 8]."
+  },
+  {
+    "id": 62,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CNC Technology",
+    "question": "Which feature on a CNC machine control panel allows the operator to manually enter and execute NC commands directly?",
+    "gujaratiQuestion": "Q62. CNC મશીનમાં મેન્યુઅલ ડેટા આપવા માટે કયું ફીચર હોય છે?",
+    "options": [
+      "DNC",
+      "FMS",
+      "MDI (Manual Data Input)",
+      "CAM"
+    ],
+    "correctAnswer": 2,
+    "explanation": "MDI એટલે Manual Data Input મોડ[cite: 8]."
+  },
+  {
+    "id": 63,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CNC Technology",
+    "question": "In a CNC system, a dedicated microcomputer functions as which integral subsystem?",
+    "gujaratiQuestion": "Q63. CNC સિસ્ટમમાં માઈક્રોકોમ્પ્યુટર નો ઉપયોગ કયા યુનિટ તરીકે થાય છે?",
+    "options": [
+      "Feedback Unit",
+      "Tape Reader",
+      "Tool Changer",
+      "Machine Control Unit (MCU)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CNC માં હાર્ડવાયર્ડ લોજિકને બદલે માઇક્રોકોમ્પ્યુટર MCU તરીકે પ્રોગ્રામ સ્ટોરેજ અને ગણતરીઓ કરે છે[cite: 8]."
+  },
+  {
+    "id": 64,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "What is the matrix form of the 2D geometric translation equation for new point P' from original point P and translation vector T?",
+    "gujaratiQuestion": "Q64, ટુ-ડાયમેન્શનલ ટ્રાન્સલેશન ઇક્વેશનનું મેટ્રિક્સ ફોર્મ કયું છે?",
+    "options": [
+      "P' = P + T",
+      "P' = P - T",
+      "P' = P • T",
+      "P' = P"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2D ટ્રાન્સલેશનમાં નવા કોઓર્ડિનેટ્સ P' = P + T (જ્યાં T = [tx, ty]^T) વડે મળે છે[cite: 8]."
+  },
+  {
+    "id": 65,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Machine Tool Automation",
+    "question": "What is the primary function of an Adaptive Control (AC) system in machine tools?",
+    "gujaratiQuestion": "Q65. Adaptive Control (AC) સિસ્ટમનું કાર્ય શું છે?",
+    "options": [
+      "પ્રોગ્રામ ડિલીટ કરવાનું",
+      "મશીનને રોકવાનું",
+      "Real-time માં સેન્સર દ્વારા cutting parameters ને એડજસ્ટ કરવાનું",
+      "ટૂલ બદલવાનું"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એડેપ્ટીવ કંટ્રોલ કટિંગ ફોર્સ/પાવર સેન્સ કરીને રીયલ-ટાઇમમાં ફીડ અને સ્પીડ ઓપ્ટિમાઇઝ કરે છે[cite: 8]."
+  },
+  {
+    "id": 66,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CNC Technology",
+    "question": "Which manual control device on a CNC machine is used for fine manual jogging/positioning of machine axes?",
+    "gujaratiQuestion": "Q66. CNC મશીનમાં મેન્યુઅલ એક્સિસ કંટ્રોલ (Manual axis control) માટે કઈ સિસ્ટમ વપરાય છે?",
+    "options": [
+      "MPG (Manual Pulse Generator) અથવા Jog",
+      "ATC",
+      "MDI",
+      "APC"
+    ],
+    "correctAnswer": 0,
+    "explanation": "MPG (Manual Pulse Generator / હેન્ડવ્હીલ) નો ઉપયોગ ચોકસાઈપૂર્વક એક્સિસ જોગિંગ અને વર્કપીસ સેટઅપ માટે થાય છે[cite: 8]."
+  },
+  {
+    "id": 67,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CAD/CAM Integration Tools",
+    "question": "Which major hardware component connects the user interactively with the integrated CAD/CAM software system?",
+    "gujaratiQuestion": "Q67. CAD/CAM સિસ્ટમને એકસાથે જોડતી મુખ્ય હાર્ડવેર આઈટમ કઈ છે?",
+    "options": [
+      "માઉસ",
+      "ગ્રાફિક્સ વર્કસ્ટેશન (Graphics Workstation)",
+      "ડિજિટાઇઝર",
+      "પ્લોટર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગ્રાફિક્સ વર્કસ્ટેશન એ CAD/CAM સોફ્ટવેર અને ડિસ્પ્લે/પ્રોસેસિંગને જોડતું મુખ્ય પ્લેટફોર્મ છે[cite: 8]."
+  },
+  {
+    "id": 68,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Machine Tool Automation",
+    "question": "Which automated mechanism is installed on CNC machines to automatically swap cutting tools in the spindle from a magazine?",
+    "gujaratiQuestion": "Q68. CNC મશીનમાં આપમેળે ટૂલ બદલવા માટે કઈ સિસ્ટમ હોય છે?",
+    "options": [
+      "APC (Automatic Pallet Changer)",
+      "ATC (Automatic Tool Changer)",
+      "MCU",
+      "PLC"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ATC એટલે Automatic Tool Changer[cite: 8]."
+  },
+  {
+    "id": 69,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CNC Technology",
+    "question": "In a standard CNC lathe, which axis designates the cross-slide radial motion perpendicular to the spindle axis?",
+    "gujaratiQuestion": "Q69. CNC લેથ મશીનમાં કટિંગ ટૂલની Radial પોઝિશન માટે સામાન્ય રીતે કઈ ધરી વપરાય છે?",
+    "options": [
+      "Z-axis",
+      "Y-axis",
+      "X-axis",
+      "B-axis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CNC લેથમાં સ્પિન્ડલ અક્ષ Z-અક્ષ છે અને ક્રોસ-સ્લાઇડની રેડિયલ (ડાયામીટર કંટ્રોલ) ગતિ X-અક્ષ છે[cite: 8]."
+  },
+  {
+    "id": 70,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Automation in Manufacturing",
+    "question": "What is the full form of SCADA in industrial automation?",
+    "gujaratiQuestion": "Q70. SCADA નું પૂરું નામ શું છે?",
+    "options": [
+      "Supervisory control and data acquisition system",
+      "Superior control and data acquisition system",
+      "Supervisory control and data appear system",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SCADA એટલે Supervisory Control And Data Acquisition[cite: 8]."
+  },
+  {
+    "id": 71,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Machine Tool Automation",
+    "question": "What is the primary function of a Servo Motor in a CNC machine axis drive?",
+    "gujaratiQuestion": "Q71. CNC માં સર્વો મોટર (Servo Motor) નું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "સ્પિન્ડલને પકડી રાખવું",
+      "મશીનનું કૂલિંગ કરવું",
+      "Axis (ધરી) ને ચોક્કસ ગતિ અને સ્થાન આપવાનું",
+      "ટૂલને સાફ કરવાનું"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સર્વો મોટર ફીડબેક કંટ્રોલ સાથે લીડસ્ક્રૂને ફેરવીને સ્લાઇડને ચોક્કસ સ્થિતિ (Position) અને વેલોસિટી આપે છે[cite: 8]."
+  },
+  {
+    "id": 72,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Machine Tool Automation",
+    "question": "What is the primary purpose of a Feedback System (encoders/scales) in CNC machine tools?",
+    "gujaratiQuestion": "Q72. CNC મશીનમાં ફીડબેક સિસ્ટમ (Feedback system) શેના માટે વપરાય છે?",
+    "options": [
+      "ટૂલનું તાપમાન જાણવા",
+      "ટૂલની ચોક્કસ પોઝિશન અને સ્પીડ જાણવા",
+      "ચિપ્સ દૂર કરવા",
+      "ઓપરેટરને એલાર્મ આપવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફીડબેક સિસ્ટમ સ્લાઇડની વાસ્તવિક સ્થિતિ અને ઝડપ માપીને MCU ને ક્લોઝ્ડ-લૂપ એરર કરેક્શન માટે ડેટા આપે છે[cite: 8]."
+  },
+  {
+    "id": 73,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which G-code is standardly used for XY plane selection in CNC programming?",
+    "gujaratiQuestion": "Q73. CNC મશીનિંગમાં XY પ્લેનનું સિલેક્શન કયા કોડ દ્વારા થાય છે?",
+    "options": [
+      "G16",
+      "G17",
+      "G18",
+      "G19"
+    ],
+    "correctAnswer": 1,
+    "explanation": "G17 = XY પ્લેન, G18 = XZ પ્લેન, અને G19 = YZ પ્લેન સિલેક્ટ કરે છે[cite: 8]."
+  },
+  {
+    "id": 74,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CNC Technology",
+    "question": "If a CNC machine employs position feedback transducers to continuously monitor and correct tool position, it is classified as a:",
+    "gujaratiQuestion": "Q74. જો CNC સિસ્ટમમાં પોઝિશન તપાસવા ફીડબેક સેન્સર હાજર હોય, તો તે કયા પ્રકારની કંટ્રોલ સિસ્ટમ કહેવાય?",
+    "options": [
+      "Open-loop system",
+      "Closed-loop system",
+      "Manual system",
+      "Point-to-point system"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફીડબેક સેન્સર્સ સાથે કમાન્ડ અને વાસ્તવિક સ્થિતિની સરખામણી કરતી સિસ્ટમ ક્લોઝ્ડ-લૂપ સિસ્ટમ (Closed-loop system) છે[cite: 8]."
+  },
+  {
+    "id": 75,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CNC Technology",
+    "question": "Which motor is standardly used as the drive element in an open-loop CNC control system?",
+    "gujaratiQuestion": "Q75. ઓપન-લૂપ કંટ્રોલ સિસ્ટમમાં કયા મોટરનો ઉપયોગ સામાન્ય રીતે થાય છે?",
+    "options": [
+      "Stepper motor",
+      "Servo motor",
+      "AC Induction motor",
+      "DC Shunt motor"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઓપન-લૂપ સિસ્ટમમાં ફીડબેક વિના પલ્સ દીઠ ચોક્કસ સ્ટેપ એંગલ ફરતી સ્ટેપર મોટર (Stepper motor) વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 76,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CNC Technology",
+    "question": "In which control system architecture is position/velocity feedback continuously provided to the controller?",
+    "gujaratiQuestion": "Q76. કઈ સિસ્ટમમાં આપણને ફીડબેક મળે છે?",
+    "options": [
+      "ઓપન-લૂપ સિસ્ટમ",
+      "મશીન કંટ્રોલ સિસ્ટમ",
+      "ક્લોઝ્ડ-લૂપ સિસ્ટમ",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ક્લોઝ્ડ-લૂપ સિસ્ટમમાં ફીડબેક ઉપલબ્ધ હોય છે[cite: 8]."
+  },
+  {
+    "id": 77,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which G-code is standardly used in CNC lathe turning to maintain a Constant Surface Speed (CSS)?",
+    "gujaratiQuestion": "Q77. સ્પિન્ડલ સ્પીડને Constant Surface Speed (CSS) રાખવા માટે CNC લેથમાં સામાન્ય રીતે કયો કોડ વપરાય છે?",
+    "options": [
+      "G90",
+      "G96",
+      "G97",
+      "G98"
+    ],
+    "correctAnswer": 1,
+    "explanation": "G96 કોન્સ્ટન્ટ સરફેસ સ્પીડ (m/min) કંટ્રોલ ચાલુ કરે છે અને વ્યાસ ઘટતાં આપોઆપ RPM વધારે છે[cite: 8]."
+  },
+  {
+    "id": 78,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Machine Tool Automation",
+    "question": "Lost motion in CNC machine tool feed drives can occur due to:",
+    "gujaratiQuestion": "Q78. CNC મશીન ટૂલમાં લોસ્ટ મોશન (lost motion) ના કારણે થાય છે?",
+    "options": [
+      "ગિયરિંગમાં બેકલેશ (Backlash)",
+      "ડ્રાઇવ શાફ્ટ્સનું વિન્ડ-અપ (Wind-up)",
+      "મશીન ટૂલ મેમ્બર્સનું ડિફ્લેક્શન",
+      "ઉપર દર્શાવેલ તમામ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "લોસ્ટ મોશન મુખ્યત્વે ગિયર્સ અને લીડસ્ક્રૂમાં રહેલા બેકલેશ (Backlash) ને કારણે ઉદભવે છે[cite: 8]."
+  },
+  {
+    "id": 79,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which letter address (word) is used to specify spindle speed (in RPM or m/min) in NC part programming?",
+    "gujaratiQuestion": "Q79. પ્રોગ્રામમાં Spindle speed (RPM માં) આપવા માટે કયો લેટર (Word) વપરાય છે?",
+    "options": [
+      "F-word",
+      "S-word",
+      "T-word",
+      "M-word"
+    ],
+    "correctAnswer": 1,
+    "explanation": "S-word (દા.ત. S1200) સ્પિન્ડલ સ્પીડ દર્શાવે છે[cite: 8]."
+  },
+  {
+    "id": 80,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which letter address is used to specify feed rate in CNC part programming?",
+    "gujaratiQuestion": "Q80. CNC મશીનમાં કટિંગ ફીડ (Feed rate) આપવા માટે કયો લેટર વપરાય છે?",
+    "options": [
+      "X",
+      "F",
+      "S",
+      "D"
+    ],
+    "correctAnswer": 1,
+    "explanation": "F-word (દા.ત. F150) ફીડ રેટ દર્શાવવા વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 81,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Automation in Manufacturing",
+    "question": "In robotics, what is the up-and-down rotational motion about a horizontal transverse axis called?",
+    "gujaratiQuestion": "Q81. રોબોટિક્સમાં કોઈ એક્સિસ પર થતી અપ અને ડાઉન મોશનને શું કહેવાય છે?",
+    "options": [
+      "પીચ (Pitch)",
+      "રોલ (Roll)",
+      "યૉ (Yaw)",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રોબોટ રિસ્ટમાં અપ-ડાઉન મોશન પીચ (Pitch), લેફ્ટ-રાઇટ મોશન યૉ (Yaw), અને રોટેશનલ મોશન રોલ (Roll) કહેવાય છે[cite: 8]."
+  },
+  {
+    "id": 82,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Machine Tool Automation",
+    "question": "What is the electronic communications bridge connecting the Machine Control Unit (MCU) with machine axes drives and sensors called?",
+    "gujaratiQuestion": "Q82. મશીન કંટ્રોલ યુનિટ (MCU) અને સેન્સર/ડ્રાઈવ્સ વચ્ચેના ઇલેક્ટ્રોનિક કનેક્શનને શું કહે છે?",
+    "options": [
+      "Postprocessor",
+      "Interpreter",
+      "Interface",
+      "DNC"
+    ],
+    "correctAnswer": 2,
+    "explanation": "MCU અને હાર્ડવેર ઘટકો વચ્ચે સંકેતોનું આદાનપ્રદાન કરતું સર્કિટ ઇન્ટરફેસ (Interface / I/O Interface) કહેવાય છે[cite: 8]."
+  },
+  {
+    "id": 83,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "By which other standard technical term is a G-code known?",
+    "gujaratiQuestion": "Q83. G-code ને અન્ય કયા નામથી ઓળખવામાં આવે છે?",
+    "options": [
+      "Preparatory word",
+      "Miscellaneous word",
+      "Tool word",
+      "Sequence word"
+    ],
+    "correctAnswer": 0,
+    "explanation": "G-codes ને પ્રિપેરેટરી ફંક્શન્સ અથવા પ્રિપેરેટરી વર્ડ્સ (Preparatory words) કહેવામાં આવે છે[cite: 8]."
+  },
+  {
+    "id": 84,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "Computer-Integrated Manufacturing (CIM) is primarily classified as a/an:",
+    "gujaratiQuestion": "Q84. CIM (કોમ્પ્યુટર ઈન્ટિગ્રેટેડ મેન્યુફેક્ચરિંગ) એ એક પ્રકારનું _____ છે.",
+    "options": [
+      "CAM નું એક્સટેન્શન",
+      "CAD અને CAM વચ્ચેની લિન્ક",
+      "મેનેજમેન્ટ ફિલોસોફી",
+      "ઇન્ડસ્ટ્રીયલ ફંક્શનિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CIM એ સંપૂર્ણ ઉત્પાદન પ્રક્રિયામાં કમ્પ્યુટર એપ્લિકેશન્સનું વ્યાપક સંકલન છે (Answer Key મુજબ B)[cite: 8]."
+  },
+  {
+    "id": 85,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "In CNC programming, what functional category do M-codes belong to?",
+    "gujaratiQuestion": "Q85. M-code કયા ફંક્શન માટે વપરાય છે?",
+    "options": [
+      "Movement function",
+      "Measurement function",
+      "Miscellaneous function",
+      "Main function"
+    ],
+    "correctAnswer": 2,
+    "explanation": "M-codes એ મિસલેનિયસ/ઓક્ઝિલરી ફંક્શન્સ (Miscellaneous functions) છે, જેમ કે સ્પિન્ડલ, કૂલન્ટ, ટૂલ ચેન્જ વગેરે[cite: 8]."
+  },
+  {
+    "id": 86,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which preparatory G-code is standardly used for rapid positioning (non-cutting traverse)?",
+    "gujaratiQuestion": "Q86. કયો G-code Rapid positioning (ઝડપી ગતિ, કટિંગ વગર) માટે વપરાય છે?",
+    "options": [
+      "G01",
+      "G02",
+      "G00",
+      "G03"
+    ],
+    "correctAnswer": 2,
+    "explanation": "G00 ઝડપી રેપિડ ટ્રાવર્સ મોશન આપે છે[cite: 8]."
+  },
+  {
+    "id": 87,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "While drafting mechanical components in AutoCAD, which linear unit format is standardly specified?",
+    "gujaratiQuestion": "Q87. ઑટોકેડ (AutoCAD) માં મિકેનિકલ ડ્રોઇંગ સેટ કરતી વખતે, ડ્રાફ્ટરે યુનિટ્સ કયા સેટ કરવા જોઈએ?",
+    "options": [
+      "મેટ્રિક",
+      "ડેસિમલ (Decimal)",
+      "ફ્રેક્શનલ",
+      "આર્કિટેક્ચરલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મિકેનિકલ ડ્રોઇંગ્સ માટે ડેસિમલ યુનિટ્સ પસંદ કરવામાં આવે છે[cite: 8]."
+  },
+  {
+    "id": 88,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which G-code commands linear interpolation (cutting along a straight line at programmed feed rate)?",
+    "gujaratiQuestion": "Q88. Linear interpolation (પ્રોગ્રામ્ડ ફીડ રેટ સાથે સીધી લાઈનમાં કટિંગ) માટે કયો G-code વપરાય છે?",
+    "options": [
+      "G00",
+      "G01",
+      "G02",
+      "G04"
+    ],
+    "correctAnswer": 1,
+    "explanation": "G01 એ નિયંત્રિત ફીડ રેટ પર સીધી રેખામાં લિનિયર ઇન્ટરપોલેશન કટિંગ કરે છે[cite: 8]."
+  },
+  {
+    "id": 89,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "What is the specific tool motion commanded by the G02 preparatory code?",
+    "gujaratiQuestion": "Q89. G02 કોડ નું કાર્ય શું છે?",
+    "options": [
+      "Circular interpolation clockwise (ઘડિયાળની દિશામાં વર્તુળાકાર ગતિ)",
+      "Circular interpolation counter-clockwise",
+      "Linear interpolation",
+      "Dwell"
+    ],
+    "correctAnswer": 0,
+    "explanation": "G02 એટલે ક્લોકવાઇઝ (CW) સર્ક્યુલર ઇન્ટરપોલેશન[cite: 8]."
+  },
+  {
+    "id": 90,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "In the CNC block \"N10 G02 G91 X52 Z25\", what does G02 specify?",
+    "gujaratiQuestion": "Q90. CNC પ્રોગ્રામ બ્લોક \"N10 G02 G91 X52 Z25\" માં... G02 શું દર્શાવે છે?",
+    "options": [
+      "લિનિયર ઇન્ટરપોલેશન",
+      "ક્લોકવાઇઝ સર્ક્યુલર ઇન્ટરપોલેશન",
+      "ઇન્ક્રિમેન્ટલ કમાન્ડ",
+      "એબ્સોલ્યુટ કમાન્ડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "G02 ક્લોકવાઇઝ સર્ક્યુલર આર્ક ઇન્ટરપોલેશન દર્શાવે છે[cite: 8]."
+  },
+  {
+    "id": 91,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "What is the specific tool motion commanded by the G03 preparatory code?",
+    "gujaratiQuestion": "Q91. G03 કોડ નું કાર્ય શું છે?",
+    "options": [
+      "Dwell",
+      "Linear move",
+      "Circular interpolation clockwise",
+      "Circular interpolation counter-clockwise (ઘડિયાળની વિરુદ્ધ દિશામાં વર્તુળાકાર ગતિ)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "G03 એટલે કાઉન્ટર-ક્લોકવાઇઝ (CCW) સર્ક્યુલર ઇન્ટરપોલેશન[cite: 8]."
+  },
+  {
+    "id": 92,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which miscellaneous code is used to perform an unconditional Program Stop during machining?",
+    "gujaratiQuestion": "Q92. પ્રોગ્રામને કામચલાઉ અટકાવવા (Program stop) માટે કયો M-code વપરાય છે?",
+    "options": [
+      "M03",
+      "M00",
+      "M06",
+      "M08"
+    ],
+    "correctAnswer": 1,
+    "explanation": "M00 એ અનકન્ડિશનલ પ્રોગ્રામ સ્ટોપ કમાન્ડ છે[cite: 8]."
+  },
+  {
+    "id": 93,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Digital Manufacturing Basics",
+    "question": "Which of the following processes does NOT operate on the extrusion-based 3D printing principle?",
+    "gujaratiQuestion": "Q93. નીચેનામાંથી કયું એક્સટ્રુઝન-આધારિત (Extrusion-based) રેપિડ પ્રોટોટાઈપિંગ સિસ્ટમ નથી?",
+    "options": [
+      "ફ્યુઝ્ડ ડિપોઝિશન મોડેલિંગ",
+      "3D પ્રિન્ટિંગ",
+      "લેમિનેટેડ ઓબ્જેક્ટ મેન્યુફેક્ચરિંગ",
+      "ઈલેક્ટ્રોન બીમ મેલ્ટિંગ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઇલેક્ટ્રોન બીમ મેલ્ટિંગ (EBM) એ પાવડર બેડ ફ્યુઝન પદ્ધતિ છે[cite: 8]."
+  },
+  {
+    "id": 94,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which M-code is used to start the main spindle rotation in the Clockwise (CW) direction?",
+    "gujaratiQuestion": "Q94. સ્પિન્ડલને ઘડિયાળની દિશામાં (Clockwise) શરુ કરવા કયો કોડ વપરાય છે?",
+    "options": [
+      "M03",
+      "M04",
+      "M05",
+      "M30"
+    ],
+    "correctAnswer": 0,
+    "explanation": "M03 = Spindle ON Clockwise (CW)[cite: 8]."
+  },
+  {
+    "id": 95,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which M-code is used to start the spindle rotation in the Counter-Clockwise (CCW) direction?",
+    "gujaratiQuestion": "Q95. સ્પિન્ડલને ઘડિયાળની વિરુદ્ધ દિશામાં (Counter-clockwise) શરુ કરવા કયો કોડ વપરાય છે?",
+    "options": [
+      "M02",
+      "M03",
+      "M04",
+      "M05"
+    ],
+    "correctAnswer": 2,
+    "explanation": "M04 = Spindle ON Counter-Clockwise (CCW)[cite: 8]."
+  },
+  {
+    "id": 96,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Digital Manufacturing Basics",
+    "question": "What is the standard file format universally generated by CAD systems for rapid prototyping and 3D printing?",
+    "gujaratiQuestion": "Q96. પ્રોટોટાઈપિંગ મશીન ફાઈલ માટેનું ફોર્મેટ કયું છે?",
+    "options": [
+      ".prt",
+      ".slt",
+      ".stl",
+      ".iges"
+    ],
+    "correctAnswer": 2,
+    "explanation": ".stl ફાઇલ ફોર્મેટ 3D પ્રિન્ટિંગ માટે વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 97,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which M-code is used to stop (brake) the rotating spindle?",
+    "gujaratiQuestion": "Q97. ફરતા સ્પિન્ડલને બંધ (Stop) કરવા કયો કોડ વપરાય છે?",
+    "options": [
+      "M00",
+      "M03",
+      "M04",
+      "M05"
+    ],
+    "correctAnswer": 3,
+    "explanation": "M05 = Spindle Stop[cite: 8]."
+  },
+  {
+    "id": 98,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which miscellaneous code is used to command an Automatic Tool Change (ATC)?",
+    "gujaratiQuestion": "Q98. ઓટોમેટિક ટૂલ ચેન્જ (Tool change) નો આદેશ આપવા કયો કોડ વપરાય છે?",
+    "options": [
+      "M06",
+      "M08",
+      "G06",
+      "T06"
+    ],
+    "correctAnswer": 0,
+    "explanation": "M06 = Tool Change[cite: 8]."
+  },
+  {
+    "id": 99,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "In turning operations, feed rate is standardly specified in which unit?",
+    "gujaratiQuestion": "Q99. ફીડ કયા એકમમાં માપવામાં આવે છે?",
+    "options": [
+      "લંબાઈ/રિવોલ્યુશન (mm/rev)",
+      "ડિગ્રી/રિવોલ્યુશન",
+      "સમય",
+      "વેલોસિટી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ટર્નિંગમાં ફીડ દર mm/rev (લંબાઇ પ્રતિ રિવોલ્યુશન) માં મપાય છે[cite: 8]."
+  },
+  {
+    "id": 100,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which M-code is standardly used to turn the flood coolant ON during machining?",
+    "gujaratiQuestion": "Q100. મશીનિંગ દરમિયાન Coolant ON કરવા કયો M-code વપરાય છે?",
+    "options": [
+      "M05",
+      "M08",
+      "M09",
+      "M10"
+    ],
+    "correctAnswer": 1,
+    "explanation": "M08 = Coolant ON (અને M09 = Coolant OFF)[cite: 8]."
+  },
+  {
+    "id": 101,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which M-code designates the end of program and automatically rewinds the memory to the start block?",
+    "gujaratiQuestion": "Q101. પ્રોગ્રામનો અંત (End of program) દર્શાવવા અને પ્રોગ્રામની શરુઆતમાં પાછા ફરવા કયો કોડ વપરાય છે?",
+    "options": [
+      "M00",
+      "M01",
+      "M02",
+      "M30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "M30 એન્ડ ઓફ પ્રોગ્રામ અને રીવાઇન્ડ દર્શાવે છે (M02 માત્ર એન્ડ ઓફ પ્રોગ્રામ કરે છે)[cite: 8]."
+  },
+  {
+    "id": 102,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "Contouring control in NC machining is an implementation of:",
+    "gujaratiQuestion": "Q102, NC કન્ટુરિંગ (contouring) એ કોનું ઉદાહરણ છે?",
+    "options": [
+      "કન્ટીન્યુઅસ પાથ પોઝિશનિંગ",
+      "પોઈન્ટ-ટુ-પોઈન્ટ પોઝિશનિંગ",
+      "એબ્સોલ્યુટ પોઝિશનિંગ",
+      "ઇન્ક્રિમેન્ટલ પોઝિશનિંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કન્ટુરિંગ એ કન્ટીન્યુઅસ પાથ કંટ્રોલ છે[cite: 8]."
+  },
+  {
+    "id": 103,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which G-code sets the coordinate system mode to Absolute Programming?",
+    "gujaratiQuestion": "Q103. Absolute positioning mode સેટ કરવા કયો G-code વપરાય છે?",
+    "options": [
+      "G90",
+      "G91",
+      "G92",
+      "G94"
+    ],
+    "correctAnswer": 0,
+    "explanation": "G90 = Absolute Programming[cite: 8]."
+  },
+  {
+    "id": 104,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "What is the matrix representation of a 2D translation of point vector P by displacement vector T?",
+    "gujaratiQuestion": "Q104. ટુ-ડાયમેન્શનલ ટ્રાન્સલેશન ઈક્વેશનનું મેટ્રિક્સ ફોર્મ કયું છે?",
+    "options": [
+      "P' = P + T",
+      "P' = P - T",
+      "P' = P • T",
+      "P' = P"
+    ],
+    "correctAnswer": 0,
+    "explanation": "P' = P + T[cite: 8]."
+  },
+  {
+    "id": 105,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which G-code sets the coordinate system mode to Incremental Programming?",
+    "gujaratiQuestion": "Q105. Incremental positioning mode સેટ કરવા કયો G-code વપરાય છે?",
+    "options": [
+      "G90",
+      "G91",
+      "G94",
+      "G95"
+    ],
+    "correctAnswer": 1,
+    "explanation": "G91 = Incremental Programming Mode[cite: 8]."
+  },
+  {
+    "id": 106,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which preparatory G-code commands a programmed Dwell (temporary pause of tool motion for specified time)?",
+    "gujaratiQuestion": "Q106. કયો કોડ Dwell (થોડો સમય એક જગ્યા પર ટૂલ ઊભું રાખવા) માટે વપરાય છે?",
+    "options": [
+      "G00",
+      "G01",
+      "G04",
+      "G10"
+    ],
+    "correctAnswer": 2,
+    "explanation": "G04 (દા.ત. G04 P2000 અથવા G04 X2.0) ડ્વેલ કમાન્ડ આપે છે[cite: 8]."
+  },
+  {
+    "id": 107,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CAD/CAM Integration Tools",
+    "question": "Which primary computer hardware terminal brings together the CAD design and CAM processing workflow?",
+    "gujaratiQuestion": "Q107. CAD/CAM સિસ્ટમને એકસાથે જોડતી મુખ્ય હાર્ડવેર આઈટમ કઈ છે?",
+    "options": [
+      "માઉસ",
+      "ગ્રાફિક્સ વર્કસ્ટેશન",
+      "ડિજિટાઇઝર",
+      "પ્લોટર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગ્રાફિક્સ વર્કસ્ટેશન એ CAD/CAM નું મુખ્ય હાર્ડવેર ઇન્ટરફેસ છે[cite: 8]."
+  },
+  {
+    "id": 108,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which G-code is standardly programmed to select the X-Y machining plane?",
+    "gujaratiQuestion": "Q108. G-code પ્રોગ્રામમાં X-Y plane સિલેક્ટ કરવા સામાન્ય રીતે કયો કોડ વપરાય છે?",
+    "options": [
+      "G17",
+      "G18",
+      "G19",
+      "G20"
+    ],
+    "correctAnswer": 0,
+    "explanation": "G17 એ X-Y પ્લેન સિલેક્શન કોડ છે[cite: 8]."
+  },
+  {
+    "id": 109,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which G-code activates Cutter Radius Compensation to the Left of the programmed workpiece contour?",
+    "gujaratiQuestion": "Q109. Cutter radius compensation left (કટરને પ્રોગ્રામ લાઈનની ડાબી બાજુ રાખવા) માટે કયો G-code વપરાય છે?",
+    "options": [
+      "G40",
+      "G41",
+      "G42",
+      "G43"
+    ],
+    "correctAnswer": 1,
+    "explanation": "G41 = Cutter Radius Compensation Left[cite: 8]."
+  },
+  {
+    "id": 110,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Automation in Manufacturing",
+    "question": "What is the full form of SCADA?",
+    "gujaratiQuestion": "Q110. SCADA નું પૂરું નામ શું છે?",
+    "options": [
+      "Supervisory control and data acquisition system",
+      "Superior control and data acquisition system",
+      "Supervisory control and data appear system",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SCADA એટલે Supervisory Control and Data Acquisition System[cite: 8]."
+  },
+  {
+    "id": 111,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which G-code activates Cutter Radius Compensation to the Right of the programmed path?",
+    "gujaratiQuestion": "Q111. Cutter radius compensation right (કટરને પ્રોગ્રામ લાઈનની જમણી બાજુ રાખવા) માટે કયો કોડ વપરાય છે?",
+    "options": [
+      "G40",
+      "G41",
+      "G42",
+      "G43"
+    ],
+    "correctAnswer": 2,
+    "explanation": "G42 = Cutter Radius Compensation Right[cite: 8]."
+  },
+  {
+    "id": 112,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which G-code is used to cancel cutter radius compensation (G41/G42)?",
+    "gujaratiQuestion": "Q112. Cutter compensation ને કેન્સલ (Cancel) કરવા માટે કયો કોડ વપરાય છે?",
+    "options": [
+      "G40",
+      "G41",
+      "G42",
+      "G49"
+    ],
+    "correctAnswer": 0,
+    "explanation": "G40 = Cutter Radius Compensation Cancel[cite: 8]."
+  },
+  {
+    "id": 113,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "In CNC milling, which G-code selects the primary horizontal XY interpolation plane?",
+    "gujaratiQuestion": "Q113. CNC મશીનિંગમાં XY પ્લેનનું સિલેક્શન કયા કોડ દ્વારા થાય છે?",
+    "options": [
+      "G16",
+      "G17",
+      "G18",
+      "G19"
+    ],
+    "correctAnswer": 1,
+    "explanation": "G17 = XY પ્લેન[cite: 8]."
+  },
+  {
+    "id": 114,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which G-code is programmed to activate Tool Length Compensation in the positive Z direction?",
+    "gujaratiQuestion": "Q114. Tool length offset એડ કરવા માટે (Positive direction માં) કયો કોડ વપરાય છે?",
+    "options": [
+      "G40",
+      "G41",
+      "G42",
+      "G43"
+    ],
+    "correctAnswer": 3,
+    "explanation": "G43 એ પોઝિટિવ ટૂલ લેન્થ ઓફસેટ કમ્પેન્સેશન કમાન્ડ છે[cite: 8]."
+  },
+  {
+    "id": 115,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which G-code specifies a standard fixed drilling canned cycle (simple spot/feed-in, rapid-out drilling)?",
+    "gujaratiQuestion": "Q115. Standard drilling cycle (સિમ્પલ ડ્રિલિંગ કેન્ડ સાયકલ) માટે કયો G-code વપરાય છે?",
+    "options": [
+      "G80",
+      "G81",
+      "G83",
+      "G84"
+    ],
+    "correctAnswer": 1,
+    "explanation": "G81 એ બેઝિક સિમ્પલ ડ્રિલિંગ કેન્ડ સાયકલ કોડ છે[cite: 8]."
+  },
+  {
+    "id": 116,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CNC Technology",
+    "question": "In which control system is real-time output feedback measured and fed back for error reduction?",
+    "gujaratiQuestion": "Q116. કઈ સિસ્ટમમાં આપણને ફીડબેક મળે છે?",
+    "options": [
+      "ઓપન-લૂપ સિસ્ટમ",
+      "મશીન કંટ્રોલ સિસ્ટમ",
+      "ક્લોઝ્ડ-લૂપ સિસ્ટમ",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ક્લોઝ્ડ-લૂપ સિસ્ટમમાં ફીડબેક સિગ્નલ મળે છે[cite: 8]."
+  },
+  {
+    "id": 117,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which canned cycle G-code is standardly programmed for deep hole Peck Drilling with chip breaking retractions?",
+    "gujaratiQuestion": "Q117. ઊંડા કાણાં પાડવા માટે વપરાતી Peck drilling cycle માટે કયો કોડ વપરાય છે?",
+    "options": [
+      "G81",
+      "G82",
+      "G83",
+      "G85"
+    ],
+    "correctAnswer": 2,
+    "explanation": "G83 એ ડીપ-હોલ પેક ડ્રિલિંગ સાયકલ (Peck drilling cycle) કોડ છે[cite: 8]."
+  },
+  {
+    "id": 118,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which G-code initiates a Boring canned cycle with feed-in and feed-out (spindle running during retract)?",
+    "gujaratiQuestion": "Q118. Boring cycle (ફીડ રેટમાં બહાર આવવા સાથે) માટે કયો G-code વપરાય છે?",
+    "options": [
+      "G81",
+      "G83",
+      "G84",
+      "G85"
+    ],
+    "correctAnswer": 3,
+    "explanation": "G85 એ બોરિંગ કેન્ડ સાયકલ છે જેમાં ટૂલ ફીડ રેટ પર અંદર જાય છે અને ફીડ રેટ પર જ બહાર આવે છે[cite: 8]."
+  },
+  {
+    "id": 119,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Machine Tool Automation",
+    "question": "Lost motion in CNC machine axes is primarily caused by:",
+    "gujaratiQuestion": "Q119. CNC મશીન ટૂલમાં લોસ્ટ મોશન (lost motion) શેના કારણે થાય છે?",
+    "options": [
+      "ગિયરિંગમાં બેકલેશ (Backlash)",
+      "ડ્રાઇવ શાફ્ટ્સનું વિન્ડ-અપ (Wind-up)",
+      "મશીન ટૂલ મેમ્બર્સનું ડિફ્લેક્શન",
+      "ઉપર દર્શાવેલ તમામ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ગિયર્સ અને ડ્રાઇવ મિકેનિઝમમાં બેકલેશ લોસ્ટ મોશનનું મુખ્ય કારણ છે (Answer Key મુજબ A)[cite: 8]."
+  },
+  {
+    "id": 120,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "Which G-code is programmed to cancel any active canned/drilling cycle (G81-G89)?",
+    "gujaratiQuestion": "Q120. કોઈ પણ Canned cycle ને કેન્સલ કરવા માટે કયો કોડ વપરાય છે?",
+    "options": [
+      "G40",
+      "G49",
+      "G80",
+      "G90"
+    ],
+    "correctAnswer": 2,
+    "explanation": "G80 = Canned Cycle Cancel[cite: 8]."
+  },
+  {
+    "id": 121,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "In CNC circular interpolation (G02/G03), which address letters designate the incremental vector offsets from start point to arc center along X, Y, and Z axes?",
+    "gujaratiQuestion": "Q121. G-code માં વર્તુળાકાર ગતિ (Circular arc) ના કેન્દ્ર બિંદુ (Center) ના incremental offset X, Y, Z અક્ષ પર દર્શાવવા કયા લેટર્સ વપરાય છે?",
+    "options": [
+      "A, B, C",
+      "U, V, W",
+      "I, J, K",
+      "P, Q, R"
+    ],
+    "correctAnswer": 2,
+    "explanation": "I, J, K એ અનુક્રમે X, Y, Z અક્ષોને સમાંતર આર્કના કેન્દ્રબિંદુના ઇન્ક્રિમેન્ટલ અંતર દર્શાવે છે[cite: 8]."
+  },
+  {
+    "id": 122,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "How many basic categories of 2D/3D CAD models are generally classified in geometric modeling theory?",
+    "gujaratiQuestion": "Q122. CAD ના કેટલા પ્રકાર છે?",
+    "options": [
+      "6",
+      "4",
+      "2",
+      "3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "મૂળભૂત જિયોમેટ્રિક મોડેલિંગના 3 પ્રકાર છે: વાયરફ્રેમ, સરફેસ અને સોલિડ મોડેલિંગ (Answer Key મુજબ 3 / 5)[cite: 8]."
+  },
+  {
+    "id": 123,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "What is the full form of the pioneer computer-assisted part programming language APT?",
+    "gujaratiQuestion": "Q123. કમ્પ્યુટર આસિસ્ટેડ પાર્ટ પ્રોગ્રામિંગમાં વપરાતી APT ભાષાનું પૂરું નામ શું છે?",
+    "options": [
+      "Automatic Part Tool",
+      "Automatically Programmed Tool",
+      "Advanced Programming Technique",
+      "Automated Process Tooling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "APT એટલે Automatically Programmed Tool, જે MIT દ્વારા 1956 માં વિકસાવવામાં આવી હતી[cite: 8]."
+  },
+  {
+    "id": 124,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CAD/CAM Integration Tools",
+    "question": "What is the full form of CMM used for high-precision dimensional inspection?",
+    "gujaratiQuestion": "Q124. CMM નું પૂરું નામ શું છે, જે Inspection માટે વપરાય છે?",
+    "options": [
+      "Computer Manufacturing Machine",
+      "Coordinate Measuring Machine",
+      "Custom Measuring Machine",
+      "Control Measuring Mechanism"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CMM એટલે Coordinate Measuring Machine[cite: 8]."
+  },
+  {
+    "id": 125,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "In AutoCAD, which drafting mode restricts cursor movement exclusively to horizontal and vertical (90°) directions?",
+    "gujaratiQuestion": "Q125. ઑટોકેડ (AutoCAD) માં કયો મોડ યુઝરને 90° ની સીધી રેખાઓ (straight lines) દોરવાની મંજૂરી આપે છે?",
+    "options": [
+      "Osnap",
+      "Ortho (Ortho Mode - F8)",
+      "Linear",
+      "Polar tracking"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ORTHO મોડ (F8) કર્સરની ગતિને માત્ર 0°, 90°, 180°, 270° ના કાટખૂણે મર્યાદિત કરે છે[cite: 8]."
+  },
+  {
+    "id": 126,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CAD/CAM Integration Tools",
+    "question": "What is the full form of CAQC in computer integrated quality systems?",
+    "gujaratiQuestion": "Q126. CAQC નું પૂરું નામ શું છે?",
+    "options": [
+      "Computer Aided Quality Control",
+      "Computer Assisted Quantity Control",
+      "Custom Aided Quality Check",
+      "Computer Aided Quick Control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CAQC એટલે Computer Aided Quality Control[cite: 8]."
+  },
+  {
+    "id": 127,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "In APT programming, which motion command defines the initial starting point (setup position) of the cutting tool?",
+    "gujaratiQuestion": "Q127. APT પ્રોગ્રામિંગમાં ટૂલને શરુઆતના પોઈન્ટ (Target point) પર દર્શાવવા કયો કમાન્ડ વપરાય છે?",
+    "options": [
+      "GOTO",
+      "FROM",
+      "GODLTA",
+      "GO/TO"
+    ],
+    "correctAnswer": 1,
+    "explanation": "FROM કમાન્ડ (દા.ત. FROM / POINT1) ટૂલના પ્રારંભિક પ્રારંભિક બિંદુનું સ્થાન સ્પષ્ટ કરે છે[cite: 8]."
+  },
+  {
+    "id": 128,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "How many default workspaces are available in modern AutoCAD environments (Drafting & Annotation, 3D Basics, 3D Modeling)?",
+    "gujaratiQuestion": "Q128. ઑટોકેડ (AutoCAD) માં કેટલા વર્કસ્પેસ ઉપલબ્ધ છે?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "AutoCAD માં સામાન્ય રીતે 3 મુખ્ય વર્કસ્પેસ હોય છે: Drafting & Annotation, 3D Basics, અને 3D Modeling[cite: 8]."
+  },
+  {
+    "id": 129,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CAD/CAM Integration Tools",
+    "question": "Which of the following inspection techniques operates on a strictly non-contact measurement basis?",
+    "gujaratiQuestion": "Q129. નીચેનામાંથી કઈ પદ્ધતિ Non-contact inspection માં આવે છે?",
+    "options": [
+      "CMM probe",
+      "Limit gauge",
+      "Machine vision (ઓપ્ટિકલ સિસ્ટમ)",
+      "Vernier caliper"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મશીન વિઝન (Machine Vision) કેમેરા અને ઇમેજ પ્રોસેસિંગ વડે પાર્ટને સ્પર્શ કર્યા વગર નોન-કોન્ટેક્ટ ઇન્સ્પેક્શન કરે છે[cite: 8]."
+  },
+  {
+    "id": 130,
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Basic CAD/CAM Concepts",
+    "question": "In AutoCAD, which command is used to divide an entity into segments of a specified predefined length?",
+    "gujaratiQuestion": "Q130. ઑટોકેડ (AutoCAD) માં ઓબ્જેક્ટને પૂર્વનિર્ધારિત લંબાઈ (predefined length) ધરાવતા સેગમેન્ટ્સમાં વિભાજિત કરવા માટે કયા કમાન્ડનો ઉપયોગ થાય છે?",
+    "options": [
+      "Divide",
+      "Chamfer",
+      "Trim",
+      "Measure"
+    ],
+    "correctAnswer": 3,
+    "explanation": "MEASURE કમાન્ડ આપેલ નિશ્ચિત લંબાઈના અંતરે પોઇન્ટ્સ મૂકે છે, જ્યારે DIVIDE કમાન્ડ સમાન ભાગોની સંખ્યામાં વિભાજિત કરે છે[cite: 8]."
+  },
+  {
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "NC Technology",
+    "question": "In NC systems, part instructions are represented primarily by:",
+    "gujaratiQuestion": "NC systemમાં part instructions મુખ્યત્વે કેવી રીતે represent થાય છે?",
+    "options": [
+      "Numerical/ coded data",
+      "Handwritten drawings only",
+      "Hydraulic pressure only",
+      "Sound waves"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: Numerical control uses coded numerical instructions.",
+    "id": 131
+  },
+  {
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "CNC Technology",
+    "question": "CNC stands for:",
+    "gujaratiQuestion": "CNCનું full form શું છે?",
+    "options": [
+      "Computer Numerical Control",
+      "Central Network Control",
+      "Computerized New Cutting",
+      "Controlled Numeric Circuit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: CNC = Computer Numerical Control.",
+    "id": 132
+  },
+  {
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Flexible Manufacturing Concepts",
+    "question": "An FMS is designed to handle:",
+    "gujaratiQuestion": "FMS મુખ્યત્વે કઈ production requirement માટે design થાય છે?",
+    "options": [
+      "Only one fixed part forever",
+      "A family of parts with flexibility",
+      "Only manual assembly",
+      "Only batch casting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Flexible manufacturing systems combine automation with product flexibility.",
+    "id": 133
+  },
+  {
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Part Programming",
+    "question": "G-code in CNC programming generally specifies:",
+    "gujaratiQuestion": "CNC programmingમાં G-code સામાન્ય રીતે શું specify કરે છે?",
+    "options": [
+      "Preparatory/motion functions",
+      "Only payroll data",
+      "Only material cost",
+      "Only tool purchase"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: G-codes commonly define preparatory functions such as interpolation and machining modes.",
+    "id": 134
+  },
+  {
+    "subject": "Computer Integrated Manufacturing",
+    "subTopic": "Automation in Manufacturing",
+    "question": "A PLC is widely used for:",
+    "gujaratiQuestion": "PLC manufacturingમાં મુખ્યત્વે શે માટે વપરાય છે?",
+    "options": [
+      "Industrial control logic",
+      "Only metrology",
+      "Only heat treatment",
+      "Only material testing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: PLCs execute industrial control sequences and logic.",
+    "id": 135
+  }
+]

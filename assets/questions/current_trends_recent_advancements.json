@@ -1,0 +1,1952 @@
+[
+  {
+    "id": 1,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "CIM & Smart Factory",
+    "question": "What is the full form of OEE, which is used to measure efficiency in smart manufacturing?",
+    "gujaratiQuestion": "01. OEE નું પૂરું નામ શું છે, જે સ્માર્ટ મેન્યુફેક્ચરિંગમાં કાર્યક્ષમતા માપવા વપરાય છે?",
+    "options": [
+      "Optical Error Estimation",
+      "Over All Engine Efficiency",
+      "Overall Equipment Effectiveness",
+      "Operation Energy Evaluation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "OEE એટલે Overall Equipment Effectiveness, જે મેન્યુફેક્ચરિંગ યુનિટની Availability, Performance અને Quality ના ગુણાકાર આધારિત કાર્યક્ષમતા માપે છે[cite: 8]."
+  },
+  {
+    "id": 2,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Refrigeration & HVAC Trends",
+    "question": "What is the refrigerant code for propane as a hydrocarbon refrigerant?",
+    "gujaratiQuestion": "02. હાઈડ્રોકાર્બન રેફ્રિજરેન્ટ તરીકે પ્રોપેન નો કોડ કયો છે?",
+    "options": [
+      "R134a",
+      "R744",
+      "R290",
+      "R717"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રોપેન (C3H8) એ ઇકો-ફ્રેન્ડલી હાઇડ્રોકાર્બન નેચરલ રેફ્રિજરેન્ટ છે, જેનો આંતરરાષ્ટ્રીય માનક કોડ R290 છે[cite: 8]."
+  },
+  {
+    "id": 3,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Materials & Composites",
+    "question": "What happens in the Solvolysis process used in CFRP recycling?",
+    "gujaratiQuestion": "03. CFRP રિસાયક્લિંગમાં વપરાતી Solvolysis પ્રક્રિયામાં શું થાય છે?",
+    "options": [
+      "મટિરિયલને બાળી નાખવામાં આવે છે",
+      "તેને મેગ્નેટથી અલગ કરાય છે",
+      "દ્રાવકનો ઉપયોગ કરીને પોલીમર મેટ્રિક્સને ઓગાળીને કાર્બન ફાઈબર અલગ કરવામાં આવે છે",
+      "તેને જમીનમાં દાટવામાં આવે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સોલ્વોલિસિસમાં ચોક્કસ રાસાયણિક દ્રાવકો (Solvents) નો ઉપયોગ કરી થર્મોસેટ રેઝિન મેટ્રિક્સને ઓગાળી શુદ્ધ કાર્બન ફાઇબર રિકવર કરવામાં આવે છે[cite: 8]."
+  },
+  {
+    "id": 4,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Refrigeration & HVAC Trends",
+    "question": "In a transcritical CO2 cycle, using which device instead of an expansion throttling valve increases system COP?",
+    "gujaratiQuestion": "Q4. ટ્રાન્સક્રિટિકલ CO2 સાયકલમાં થ્રોટલિંગ વાલ્વને બદલે કયા ડિવાઈસનો ઉપયોગ કરવાથી સિસ્ટમનો COP વધે છે?",
+    "options": [
+      "ટુ-ફેઝ ઈજેક્ટર",
+      "ઈવાપોરેટર",
+      "કન્ડેન્સર",
+      "કમ્પ્રેસર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ટ્રાન્સક્રિટિકલ R744 (CO2) સાયકલમાં ટુ-ફેઝ ઇજેક્ટર (Two-phase Ejector) થ્રોટલિંગ લોસ રિકવર કરી કમ્પ્રેસરનું સક્શન પ્રેશર વધારે છે અને COP સુધારે છે[cite: 8]."
+  },
+  {
+    "id": 5,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "In the FSW (Friction Stir Welding) process, what is the side called where the tool rotation direction and travel direction are the same?",
+    "gujaratiQuestion": "Q5. FSW પ્રક્રિયામાં જે બાજુ ટૂલના ફરવાની દિશા અને વેલ્ડિંગની દિશા સમાન હોય, તે બાજુને શું કહે છે?",
+    "options": [
+      "ટ્રાવેલ સાઈડ",
+      "ન્યુટ્રલ સાઈડ",
+      "એડવાન્સિંગ સાઇડ",
+      "રિટ્રીટિંગ સાઈડ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફ્રિક્શન સ્ટીર વેલ્ડિંગમાં જે બાજુ ટૂલ રોટેશનનો ટેન્જેન્શિયલ વેગ અને વેલ્ડિંગ ટ્રાવેલ વેગ બંને સમાન દિશામાં હોય તેને એડવાન્સિંગ સાઇડ (Advancing side) કહે છે[cite: 8]."
+  },
+  {
+    "id": 6,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "In the FSW process, what is the side called where the tool rotation direction opposes the welding travel direction?",
+    "gujaratiQuestion": "06. FSW પ્રક્રિયામાં જે બાજુ ટૂલના ફરવાની દિશા અને વેલ્ડિંગની દિશા વિરુદ્ધ હોય, તે બાજુને શું કહે છે?",
+    "options": [
+      "રિટ્રીટિંગ સાઇડ",
+      "એડવાન્સિંગ સાઈડ",
+      "ટોપ સાઈડ",
+      "બોટમ સાઈડ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "જે બાજુ ટૂલના પરિભ્રમણની દિશા અને વેલ્ડિંગ આગળ વધવાની દિશા પરસ્પર વિરુદ્ધ હોય તેને રિટ્રીટિંગ સાઇડ (Retreating side) કહેવાય છે[cite: 8]."
+  },
+  {
+    "id": 7,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "IC Engine Advancements",
+    "question": "Which type of emissions are completely absent or negligible in a hydrogen IC engine?",
+    "gujaratiQuestion": "Q7. હાઈડ્રોજન IC એન્જિનમાં કયા પ્રકારનું ઉત્સર્જન સંપૂર્ણપણે ગેરહાજર અથવા નહિવત્ હોય છે?",
+    "options": [
+      "NOx",
+      "પાણીની વરાળ",
+      "અવાજ",
+      "CO2 અને HC (હાઈડ્રોકાર્બન)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "હાઇડ્રોજન બળતણમાં કાર્બન અણુઓ હોતા નથી, તેથી દહન બાદ CO, CO2 અને અનબર્ન્ટ હાઇડ્રોકાર્બન્સ (HC) નું ઉત્સર્જન શૂન્ય/નહિવત હોય છે[cite: 8]."
+  },
+  {
+    "id": 8,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Thermodynamics & Power Updates",
+    "question": "Which modern device is used to preheat boiler feed-water by utilizing the waste heat of flue gases coming out of the chimney?",
+    "gujaratiQuestion": "08. બોઈલરની ચિમનીમાંથી નીકળતા ગરમ વાયુઓ (Flue gases) ની ઉષ્માનો ઉપયોગ કરીને ફીડ-વોટર ને ગરમ કરવા માટે કયું આધુનિક ઉપકરણ વપરાય છે?",
+    "options": [
+      "ડીસુપરહીટર",
+      "ઇકોનોમાઇઝર",
+      "સુપરહીટર",
+      "એર પ્રીહીટર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇકોનોમાઇઝર (Economiser) ફ્લૂ ગેસની બચેલી ગરમીનો ઉપયોગ કરીને બોઇલરમાં પ્રવેશતા ફીડ-વોટરનું તાપમાન વધારે છે, જેથી કાર્યક્ષમતા વધે છે[cite: 8]."
+  },
+  {
+    "id": 9,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Refrigeration & HVAC Trends",
+    "question": "What is the full form of GWP in the refrigeration and air conditioning (RAC) sector?",
+    "gujaratiQuestion": "09. RAC ક્ષેત્રમાં GWP નું પૂરું નામ શું છે?",
+    "options": [
+      "Green Working Process",
+      "Global Warming Potential",
+      "Gross Weight Potential",
+      "Global Weather Pattern"
+    ],
+    "correctAnswer": 1,
+    "explanation": "GWP એટલે Global Warming Potential, જે CO2 ની સાપેક્ષે રેફ્રિજરેન્ટ વાયુઓની ગ્રીનહાઉસ હીટ ટ્રેપિંગ ક્ષમતા દર્શાવે છે[cite: 8]."
+  },
+  {
+    "id": 10,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Thermodynamics & Power Updates",
+    "question": "Which waste heat recovery thermodynamic cycle uses an ammonia-water mixture as the working fluid?",
+    "gujaratiQuestion": "010. કઈ વેસ્ટ હીટ રિકવરી સાયકલમાં એમોનિયા-વોટર ના મિશ્રણનો વર્કિંગ ફ્લુઇડ તરીકે ઉપયોગ થાય છે?",
+    "options": [
+      "sCO2 સાયકલ",
+      "ORC",
+      "કાલિના સાયકલ (Kalina cycle)",
+      "બ્રેટન સાયકલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કાલિના સાયકલ (Kalina Cycle) માં એમોનિયા-પાણીના ઝીઓટ્રોપિક મિશ્રણનો ઉપયોગ થાય છે, જે બદલાતા તાપમાને બાષ્પીભવન પામી હીટ એક્સચેન્જ લોસ ઘટાડે છે[cite: 8]."
+  },
+  {
+    "id": 11,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Refrigeration & HVAC Trends",
+    "question": "What is the primary objective of an ejector in a transcritical CO2 refrigeration cycle?",
+    "gujaratiQuestion": "011. ઈજેક્ટરનો મુખ્ય હેતુ ટ્રાન્સક્રિટિકલ CO2 સાયકલમાં શું છે?",
+    "options": [
+      "થ્રોટલિંગ પ્રક્રિયા દરમિયાન વેડફાતી એક્સપાન્શન એનર્જી પાછી મેળવવી",
+      "રેફ્રિજરેન્ટને ગરમ કરવું",
+      "કોમ્પ્રેસરને બંધ કરવું",
+      "દબાણ શૂન્ય કરવું"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇજેક્ટર હાઇ-પ્રેશર વિસ્તરણ કાર્યને પુનઃપ્રાપ્ત કરી પ્રવાહીને પ્રી-કમ્પ્રેસ કરે છે, જેનાથી કમ્પ્રેસર વર્ક ઘટે છે[cite: 8]."
+  },
+  {
+    "id": 12,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Thermodynamics & Power Updates",
+    "question": "In an Organic Rankine Cycle (ORC) system, what is the major risk when using organic working fluids that necessitates strict sealing?",
+    "gujaratiQuestion": "Q12. ORC સિસ્ટમમાં ઓર્ગેનિક ફ્લુઇડનો ઉપયોગ કરતી વખતે સૌથી મોટું જોખમ કયું હોય છે, જેને રોકવા સીલિંગ જરૂરી છે?",
+    "options": [
+      "પ્લાન્ટનું વજન વધવું",
+      "પાણીનું બાષ્પીભવન",
+      "અતિશય અવાજ",
+      "ઊંચા તાપમાને ફ્લુઈડની જ્વલનશીલતા અને વિઘટન"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઓર્ગેનિક ફ્લુઇડ્સ ઊંચા તાપમાને થર્મલ ડિગ્રેડેશન પામે છે અને જ્વલનશીલ/ઝેરી હોવાથી લીકેજ અટકાવવા હર્મેટિક સીલિંગ અનિવાર્ય છે[cite: 8]."
+  },
+  {
+    "id": 13,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "IC Engine Advancements",
+    "question": "What is the primary cause of pre-ignition in a hydrogen-fueled internal combustion engine?",
+    "gujaratiQuestion": "013. હાઈડ્રોજન IC એન્જિનમાં 'પ્રિ-ઈગ્નિશન' (Pre-ignition) નું મુખ્ય કારણ શું હોય છે?",
+    "options": [
+      "વધુ પડતું કૂલિંગ",
+      "એન્જિનની ધીમી સ્પીડ",
+      "સ્પાર્ક પ્લગની ખરાબી",
+      "સિલિન્ડરમાં રહેલા હોટ સ્પોટ્સ અને હાઈડ્રોજનની નીચી ઇગ્નિશન એનર્જી"
+    ],
+    "correctAnswer": 3,
+    "explanation": "હાઇડ્રોજનની લઘુત્તમ ઇગ્નિશન એનર્જી (0.02 mJ) અત્યંત ઓછી હોવાથી ચેમ્બરમાં રહેલા ગરમ કાર્બન કણો કે વાલ્વ હોટ સ્પોટ્સથી પ્રી-ઇગ્નિશન થઈ જાય છે[cite: 8]."
+  },
+  {
+    "id": 14,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Predictive Maintenance",
+    "question": "Which parameter representing the mean time between equipment failures in a manufacturing line is improved through predictive maintenance?",
+    "gujaratiQuestion": "014. મેન્યુફેક્ચરિંગ લાઈનમાં સાધનોની નિષ્ફળતા વચ્ચેના સરેરાશ સમયને દર્શાવતો કયો પેરામીટર પ્રિડિક્ટિવ મેન્ટેનન્સથી સુધારી શકાય છે?",
+    "options": [
+      "MTTR",
+      "MTBF",
+      "RPM",
+      "OEE"
+    ],
+    "correctAnswer": 1,
+    "explanation": "MTBF એટલે Mean Time Between Failures; પ્રિડિક્ટિવ મોનિટરિંગથી બ્રેકડાઉન અટકાવી બે નિષ્ફળતાઓ વચ્ચેનો સમય વધારી શકાય છે[cite: 8]."
+  },
+  {
+    "id": 15,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Predictive Maintenance",
+    "question": "Predicting the Remaining Useful Life (RUL) of an industrial machine is a core part of which maintenance strategy?",
+    "gujaratiQuestion": "015. મશીનની RUL (Remaining Useful Life) નું અનુમાન લગાવવું એ કયા મેન્ટેનન્સનો ભાગ છે?",
+    "options": [
+      "બ્રેકડાઉન મેન્ટેનન્સ",
+      "રિએક્ટિવ મેન્ટેનન્સ",
+      "શેડ્યુલ મેન્ટેનન્સ",
+      "પ્રિડિક્ટિવ મેન્ટેનન્સ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "રિયલ-ટાઇમ સેન્સર ડેટા અને મશીન લર્નિંગ મોડેલ્સ વડે ઘટકની બાકી રહેલી ઉપયોગી આવરદા (RUL) ગણવી એ પ્રિડિક્ટિવ મેન્ટેનન્સ (PdM) છે[cite: 8]."
+  },
+  {
+    "id": 16,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Materials & Composites",
+    "question": "Nitinol is an alloy composed of which two metals?",
+    "gujaratiQuestion": "016. નિતિનોલ (Nitinol) કઈ બે ધાતુઓનો એલોય છે?",
+    "options": [
+      "નિકલ અને ટીન",
+      "નિકલ અને ટાઈટેનિયમ",
+      "નાઈટ્રોજન અને ટંગસ્ટન",
+      "નિયોન અને ટાઈટેનિયમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નિતિનોલ (Ni-Ti) એ નિકલ અને ટાઇટેનિયમનો શેપ મેમરી એલોય (SMA) છે[cite: 8]."
+  },
+  {
+    "id": 17,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "CIM & Smart Factory",
+    "question": "What is the core concept of Industry 4.0?",
+    "gujaratiQuestion": "017. ઈન્ડસ્ટ્રી 4.0 નો મુખ્ય કન્સેપ્ટ શું છે?",
+    "options": [
+      "માત્ર સ્ટીમ એન્જિનનો ઉપયોગ",
+      "મેન્યુફેક્ચરિંગ સિસ્ટમ્સમાં ડિજિટલ ટેક્નોલોજી, IoT અને સાયબર-ફિઝિકલ સિસ્ટમ્સનું સંકલન (સ્માર્ટ ફેક્ટરી)",
+      "મશીનોને મેન્યુઅલી ઓપરેટ કરવા",
+      "માસ પ્રોડક્શન માટે માત્ર લેબરનો ઉપયોગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઈન્ડસ્ટ્રી 4.0 એ ઔદ્યોગિક ઓટોમેશનમાં સાયબર-ફિઝિકલ સિસ્ટમ્સ, IIoT, ક્લાઉડ કમ્પ્યુટિંગ અને AI દ્વારા સ્માર્ટ ફેક્ટરી નિર્માણની ક્રાંતિ છે[cite: 8]."
+  },
+  {
+    "id": 18,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Sustainable Engineering",
+    "question": "What is the primary objective of a Waste Heat Recovery (WHR) system?",
+    "gujaratiQuestion": "Q18. વેસ્ટ હીટ રિકવરી (WHR) સિસ્ટમનો પ્રાથમિક ઉદ્દેશ્ય શું છે?",
+    "options": [
+      "એક્ઝોસ્ટ ગેસનું તાપમાન વધારવું",
+      "પર્યાવરણમાં હીટ રિજેક્શન અટકાવી તેમાંથી પાવર અથવા હીટિંગ મેળવવું",
+      "વધુ ઈંધણ બાળીને ઊર્જા ઉત્પન્ન કરવી",
+      "મશીનમાં ઘર્ષણ ઘટાડવું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઔદ્યોગિક પ્રક્રિયાઓમાંથી વાતાવરણમાં વેડફાતી ગરમીને પુનઃપ્રાપ્ત કરીને વીજ ઉત્પાદન કે પ્રોસેસ હીટિંગ મેળવવું તે WHR નો હેતુ છે[cite: 8]."
+  },
+  {
+    "id": 19,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Materials & Composites",
+    "question": "What is the full form of CAI testing in aerospace and advanced composites?",
+    "gujaratiQuestion": "019. એરોસ્પેસ અને એડવાન્સ્ડ કમ્પોઝિટ્સમાં CAI ટેસ્ટિંગનું પૂરું નામ શું છે?",
+    "options": [
+      "Carbon Analysis Inspection",
+      "Coated Area Inspection",
+      "Compression After Impact",
+      "Composite Area Index"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CAI એટલે Compression After Impact ટેસ્ટ, જે કમ્પોઝિટ પેનલ્સ પર ઇમ્પેક્ટ ડેમેજ થયા પછી તેની શેષ કમ્પ્રેસિવ તાકાત માપે છે[cite: 8]."
+  },
+  {
+    "id": 20,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Industrial Optimization",
+    "question": "What is the primary benefit of optimizing job-shop scheduling in production planning?",
+    "gujaratiQuestion": "020. ઉત્પાદન પ્લાનિંગમાં જોબ-શોપ શેડ્યુલિંગને ઓપ્ટિમાઈઝ કરવાથી મુખ્યત્વે કયો ફાયદો થાય છે?",
+    "options": [
+      "મેક્સપાન (કુલ ઉત્પાદન સમય) અને મશીનનો આઈડલ ટાઈમ ઘટે છે",
+      "મશીનની સાઈઝ ઘટે છે",
+      "લેબર વધે છે",
+      "ટૂલ તૂટી જાય છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઓપ્ટિમાઇઝ્ડ શેડ્યુલિંગથી કુલ ઉત્પાદન સમય (Makespan), મશીન આઇડલ ટાઇમ અને વર્ક-ઇન-પ્રોસેસ ઇન્વેન્ટરી ન્યૂનતમ થાય છે[cite: 8]."
+  },
+  {
+    "id": 21,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "What is the fundamental working principle of Friction Stir Welding (FSW)?",
+    "gujaratiQuestion": "021. FSW નો મૂળ સિદ્ધાંત કયો છે?",
+    "options": [
+      "ધાતુને સંપૂર્ણપણે ઓગાળીને જોડવી",
+      "લેસર બીમનો ઉપયોગ કરવો",
+      "ઇલેક્ટ્રિક આર્કનો ઉપયોગ કરવો",
+      "ફરતા ટૂલના ઘર્ષણથી ઉત્પન્ન થતી ગરમી અને મિકેનિકલ મિક્સિંગ દ્વારા ધાતુને પ્લાસ્ટિક અવસ્થામાં લાવીને પીગળ્યા વિના જોડવી"
+    ],
+    "correctAnswer": 3,
+    "explanation": "FSW એ સોલિડ-સ્ટેટ વેલ્ડિંગ પદ્ધતિ છે જેમાં રોટેટિંગ ટૂલના ઘર્ષણથી ધાતુ પ્લાસ્ટિસાઇઝ થઈને પીગળ્યા વિના જોડાઈ જાય છે[cite: 8]."
+  },
+  {
+    "id": 22,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "IC Engine Advancements",
+    "question": "How do the flammability limits of hydrogen compare to gasoline?",
+    "gujaratiQuestion": "022. હાઈડ્રોજનની Flammability limits (જ્વલનશીલતા મર્યાદા) પેટ્રોલની સરખામણીમાં કેવી હોય છે?",
+    "options": [
+      "ખૂબ જ સાંકડી",
+      "સમાન",
+      "ખૂબ જ વિશાળ (4% થી 75% સુધી)",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હવામાં હાઇડ્રોજનની જ્વલનશીલતા મર્યાદા 4% થી 75% સુધી અત્યંત વિશાળ છે, જેથી તે અલ્ટ્રા-લીન મિશ્રણ પર પણ દહન પામે છે[cite: 8]."
+  },
+  {
+    "id": 23,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Predictive Maintenance",
+    "question": "What is the fundamental difference between Predictive Maintenance and Preventive Maintenance?",
+    "gujaratiQuestion": "023. પ્રિડિક્ટિવ મેન્ટેનન્સ અને પ્રિવેન્ટિવ મેન્ટેનન્સ વચ્ચે શું તફાવત છે?",
+    "options": [
+      "પ્રિવેન્ટિવ ખરાબ થયા પછી થાય છે",
+      "બંને સમાન છે",
+      "પ્રિવેન્ટિવ ચોક્કસ સમયગાળે થાય છે, જ્યારે પ્રિડિક્ટિવ મશીનના રિયલ-ટાઈમ ડેટા પરથી ખરાબીની આગાહી કરીને થાય છે",
+      "પ્રિડિક્ટિવ મેન્ટેનન્સ ક્યારેય થતું નથી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રિવેન્ટિવ મેન્ટેનન્સ કેલેન્ડર સમય આધારિત હોય છે, જ્યારે પ્રિડિક્ટિવ મેન્ટેનન્સ સેન્સર્સના કન્ડિશન મોનિટરિંગ ડેટા પર આધારિત છે[cite: 8]."
+  },
+  {
+    "id": 24,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "IC Engine Advancements",
+    "question": "What is the minimum ignition energy required for hydrogen gas compared to other fuels?",
+    "gujaratiQuestion": "024. હાઈડ્રોજન એન્જિનમાં હાઈડ્રોજન ગેસની Minimum Ignition Energy કેટલી હોય છે?",
+    "options": [
+      "પેટ્રોલ જેટલી જ",
+      "ખૂબ જ વધુ",
+      "અત્યંત ઓછી (આશરે 0.02 mJ)",
+      "100 J"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હાઇડ્રોજનની મિનિમમ ઇગ્નિશન એનર્જી માત્ર 0.02 mJ જેટલી અતિશય ઓછી હોય છે (પેટ્રોલ કરતાં આશરે 10 ગણી ઓછી)[cite: 8]."
+  },
+  {
+    "id": 25,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Sustainable Engineering",
+    "question": "In the automotive industry, which green alternatives are currently trending alongside hydrogen?",
+    "gujaratiQuestion": "025. ઓટોમોબાઈલ ઈન્ડસ્ટ્રીમાં પેટ્રોલ/ડીઝલના વિકલ્પ તરીકે હાઇડ્રોજન સિવાય કયા વિકલ્પો પર રિસર્ચ ટ્રેન્ડમાં છે?",
+    "options": [
+      "સીએફસી (CFC)",
+      "કોલસો",
+      "બાયો-મિથેન, ઇથેનોલ અને ઈ-ફયુઅલ્સ (e-fuels)",
+      "યુરેનિયમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડીકાર્બોનાઇઝેશન માટે બાયો-મિથેન, હાઇ-બ્લેન્ડેડ ઇથેનોલ, બાયોડીઝલ અને સિન્થેટિક ઈ-ફ્યુઅલ્સ મહત્વના ટ્રેન્ડ્સ છે[cite: 8]."
+  },
+  {
+    "id": 26,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "What is used to cure and solidify the liquid material in Stereolithography (SLA)?",
+    "gujaratiQuestion": "026. SLA (Stereolithography) પ્રોસેસમાં મટિરિયલને ક્યોર કરવા શેનો ઉપયોગ થાય છે?",
+    "options": [
+      "મિકેનિકલ પ્રેસ",
+      "પાણી",
+      "હીટર",
+      "UV લેસર અને ફોટોપોલીમર રેઝીન"
+    ],
+    "correctAnswer": 3,
+    "explanation": "SLA પદ્ધતિમાં લિક્વિડ ફોટોપોલિમર રેઝિન પર અલ્ટ્રાવાયોલેટ (UV) લેસર બીમ સ્કેન કરીને લેયર-બાય-લેયર સોલિડિફિકેશન થાય છે[cite: 8]."
+  },
+  {
+    "id": 27,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "CIM & Smart Factory",
+    "question": "What does IoT stand for, which forms the core foundation of Industry 4.0?",
+    "gujaratiQuestion": "027. IoT નું પૂરું નામ શું છે જે ઈન્ડસ્ટ્રી 4.0 નો મુખ્ય આધાર છે?",
+    "options": [
+      "Industrial Output Track",
+      "Intranet of Technology",
+      "Internet of Things",
+      "Internal Operating Tool"
+    ],
+    "correctAnswer": 2,
+    "explanation": "IoT એટલે Internet of Things, જે ઇન્ટરનેટ દ્વારા મશીનો, સેન્સર્સ અને ક્લાઉડ નેટવર્કને જોડે છે[cite: 8]."
+  },
+  {
+    "id": 28,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "In metal 3D printing, what is the full form of the DED process?",
+    "gujaratiQuestion": "028. મેટલ 3D પ્રિન્ટિંગમાં DED પદ્ધતિનું પૂરું નામ શું છે?",
+    "options": [
+      "Direct Emission Deposition",
+      "Direct Energy Deposition",
+      "Dual Edge Design",
+      "Digital Engineering Device"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DED એટલે Directed Energy Deposition (અથવા Direct Energy Deposition), જેમાં નોઝલમાંથી આવતો પાવડર/વાયર કેન્દ્રિત લેસર/આર્કથી પીગળીને જમા થાય છે[cite: 8]."
+  },
+  {
+    "id": 29,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "CIM & Smart Factory",
+    "question": "What is the primary role of Cloud Computing in CIM and Industry 4.0?",
+    "gujaratiQuestion": "029. ક્લાઉડ કમ્પ્યુટિંગનો CIM અને ઈન્ડસ્ટ્રી 4.0 માં શું ઉપયોગ છે?",
+    "options": [
+      "મશીનને ઠંડુ રાખવા",
+      "રોબોટને પેઇન્ટ કરવા",
+      "ગમે ત્યાંથી રિયલ-ટાઈમમાં ફેક્ટરીનો વિશાળ ડેટા સ્ટોર, એનાલાઈઝ અને એક્સેસ કરવા",
+      "પાવર સપ્લાય આપવા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ક્લાઉડ પ્લેટફોર્મ્સ ફેક્ટરીના બિગ ડેટાનું સેન્ટ્રલાઇઝ્ડ સ્ટોરેજ, AI એનાલિટિક્સ અને રિમોટ એક્સેસિબિલિટી પૂરી પાડે છે[cite: 8]."
+  },
+  {
+    "id": 30,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Thermodynamics & Power Updates",
+    "question": "In an Organic Rankine Cycle (ORC), what type of working fluids are used instead of water?",
+    "gujaratiQuestion": "Q30. ઓર્ગેનિક રેન્કાઈન સાયકલ (ORC) માં વર્કિંગ ફ્લુઇડ તરીકે પાણીને બદલે કયા પ્રકારના ફ્લુઇડનો ઉપયોગ થાય છે?",
+    "options": [
+      "હાઈ-મોલેક્યુલર-માસ અને નીચા ઉત્કલનબિંદુવાળા ઓર્ગેનિક પ્રવાહી",
+      "માત્ર પ્રવાહી નાઇટ્રોજન",
+      "ઊંચા ઉત્કલનબિંદુવાળા પ્રવાહી",
+      "સુપરક્રિટિકલ વરાળ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ORC માં હાઇડ્રોકાર્બન્સ કે રેફ્રિજરેન્ટ્સ જેવા ઉચ્ચ પરમાણુ ભાર અને નીચું ઉત્કલનબિંદુ ધરાવતા ઓર્ગેનિક દ્રવ્યો વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 31,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "IC Engine Advancements",
+    "question": "Which computational technique is extensively used in modern IC engines to optimize in-cylinder combustion and fuel-air mixing?",
+    "gujaratiQuestion": "031. આધુનિક IC એન્જિનોમાં કમ્બશન અને ફયુઅલ મિક્સિંગને ઓપ્ટિમાઈઝ કરવા કઈ પદ્ધતિનો બહોળો ઉપયોગ થાય છે?",
+    "options": [
+      "થર્મોમીટર માપન",
+      "માત્ર મેન્યુઅલ ટેસ્ટિંગ",
+      "કોમ્પ્યુટેશનલ ફ્લુઇડ ડાયનેમિક્સ (CFD) સિમ્યુલેશન",
+      "ટ્રાયલ એન્ડ એરર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CFD સિમ્યુલેશન દ્વારા સિલિન્ડર અંદર થતા 3D સ્વર્લ, સ્કિવેશ, સ્પ્રે એટોમાઇઝેશન અને કમ્બશન ફ્લેમનું વિશ્લેષણ કરી ચેમ્બર ડિઝાઇન સુધારાય છે[cite: 8]."
+  },
+  {
+    "id": 32,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Thermodynamics & Power Updates",
+    "question": "For which heat source temperature range are ORC and Kalina cycles most suitable?",
+    "gujaratiQuestion": "032, ORC અને કાલિના સાયકલ બંને સામાન્ય રીતે કેવા તાપમાનવાળા હીટ સોર્સ માટે સૌથી વધુ અનુકૂળ છે?",
+    "options": [
+      "મધ્યમથી નીચા તાપમાન (Low-grade heat, < 300°C)",
+      "5000°C થી વધુ",
+      "માઈનસ તાપમાન (< 0°C)",
+      "અતિશય ઊંચા તાપમાન (> 1000°C)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પાણીની સ્ટીમ સાયકલ નીચા તાપમાને બિનકાર્યક્ષમ હોવાથી 80°C થી 300°C ની લો-ગ્રેડ વેસ્ટ હીટ માટે ORC/Kalina વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 33,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Thermodynamics & Power Updates",
+    "question": "What is the primary structural difference between direct-fired and indirect-fired sCO2 power cycles?",
+    "gujaratiQuestion": "033. ડાયરેક્ટ-ફાયર્ડ અને ઈનડાયરેક્ટ-ફાયર્ડ sCO2 સાયકલમાં મુખ્ય તફાવત શેનો હોય છે?",
+    "options": [
+      "ટર્બાઈનની સંખ્યા",
+      "હીટ સોર્સ ના જોડાણની પદ્ધતિ",
+      "કમ્પ્રેસરનો પ્રકાર",
+      "CO2 નું પ્રમાણ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડાયરેક્ટ-ફાયર્ડમાં ચેમ્બરમાં ઓક્સી-કમ્બશનથી ઉત્પન્ન થયેલ CO2 સીધું વર્કિંગ ફ્લુઇડ બને છે, જ્યારે ઇનડાયરેક્ટમાં હીટ એક્સચેન્જર દ્વારા હીટ ઉમેરાય છે[cite: 8]."
+  },
+  {
+    "id": 34,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Sustainable Engineering",
+    "question": "To reduce environmental impact, the use of which types of refrigerants has increased recently?",
+    "gujaratiQuestion": "034. પર્યાવરણને નુકસાન ઘટાડવા માટે વર્તમાન સમયમાં કયા પ્રકારના રેફ્રિજરેન્ટ્સનો ઉપયોગ વધ્યો છે?",
+    "options": [
+      "CFCs",
+      "લો-GWP અને નેચરલ રેફ્રિજરેન્ટ્સ",
+      "HCFCs",
+      "હાઈ-GWP HFCs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓઝોન ડિપ્લેશન અને ગ્લોબલ વોર્મિંગ અટકાવવા R290, R744, R717 અને HFOs જેવા લો-GWP અને નેચરલ રેફ્રિજરેન્ટ્સ અપનાવાયા છે[cite: 8]."
+  },
+  {
+    "id": 35,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "What is the full form of AM in modern manufacturing technology?",
+    "gujaratiQuestion": "035. મેન્યુફેક્ચરિંગમાં AM નું પૂરું નામ શું છે?",
+    "options": [
+      "Assembled Mechanism",
+      "Advanced Milling",
+      "Additive Manufacturing",
+      "Automated Machine"
+    ],
+    "correctAnswer": 2,
+    "explanation": "AM એટલે Additive Manufacturing (3D Printing), જેમાં ડિજિટલ મોડેલમાંથી સામગ્રી લેયર-બાય-લેયર ઉમેરીને પાર્ટ્સ બનાવાય છે[cite: 8]."
+  },
+  {
+    "id": 36,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Materials & Composites",
+    "question": "What is a Shape Memory Alloy (SMA)?",
+    "gujaratiQuestion": "036. શેપ મેમરી એલોય (SMA) કયા પ્રકારનું મટિરિયલ છે?",
+    "options": [
+      "જે માત્ર લાકડામાંથી બને છે",
+      "જે વીજળીનું અવાહક છે",
+      "જે તાપમાન વધવાથી ઓગળી જાય",
+      "સ્માર્ટ મટિરિયલ, જે તાપમાન અથવા સ્ટ્રેસના ફેરફારથી પોતાનો મૂળ આકાર પાછો મેળવી શકે છે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "SMA એવા સ્માર્ટ મટિરિયલ્સ છે જે પ્લાસ્ટિકલી વિકૃત થયા પછી ચોક્કસ તાપમાને ગરમ કરતાં માર્ટેન્સાઇટથી ઓસ્ટેનાઇટ ફેઝ રૂપાંતરણ પામી મૂળ આકાર ધારણ કરે છે[cite: 8]."
+  },
+  {
+    "id": 37,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Metrology & Inspection",
+    "question": "What is a Hybrid Coordinate Measuring Machine (CMM)?",
+    "gujaratiQuestion": "037. હાઇબ્રિડ CMM કોને કહેવાય છે?",
+    "options": [
+      "જે બે અલગ અલગ મશીનો છે",
+      "જેમાં પ્રોબ હોતો જ નથી",
+      "જે માત્ર મેન્યુઅલ ચાલે છે",
+      "જેમાં ટ્રેડિશનલ ટચ પ્રોબ અને ઓપ્ટિકલ/લેસર સેન્સર બંને સુવિધાઓ એક જ મશીનમાં હોય"
+    ],
+    "correctAnswer": 3,
+    "explanation": "હાઇબ્રિડ CMM સ્પર્શ આધારિત ટેક્ટાઇલ પ્રોબ અને નોન-કોન્ટેક્ટ લેસર/ઓપ્ટિકલ સેન્સર બંને સુવિધાઓ એકસાથે ધરાવે છે[cite: 8]."
+  },
+  {
+    "id": 38,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Industrial Optimization",
+    "question": "On what natural phenomenon is the PSO optimization algorithm based?",
+    "gujaratiQuestion": "038. PSO અલ્ગોરિધમ શેના પર આધારિત છે?",
+    "options": [
+      "પક્ષીઓના ટોળા અને માછલીઓના સમૂહના સામાજિક વર્તન પર",
+      "પાણીના પ્રવાહ પર",
+      "સૂર્યગ્રહણ પર",
+      "ટ્રેનની ગતિ પર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PSO એટલે Particle Swarm Optimization, જે પક્ષીઓના ઝૂંડ (Flocking) અને માછલીઓના સ્વોર્મિંગ વર્તન પરથી વિકસાવેલ મેટાહ્યુરિસ્ટિક અલ્ગોરિધમ છે[cite: 8]."
+  },
+  {
+    "id": 39,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "CIM & Smart Factory",
+    "question": "How is Augmented Reality (AR) applied in smart manufacturing?",
+    "gujaratiQuestion": "039. એઆર (AR - Augmented Reality) નો ઉપયોગ સ્માર્ટ મેન્યુફેક્ચરિંગમાં ક્યાં થાય છે?",
+    "options": [
+      "પ્રોગ્રામિંગ કરવા",
+      "માત્ર ગેમ્સ રમવા",
+      "વર્કરને ડિજિટલ ઇન્સ્ટ્રક્શન દ્વારા એસેમ્બલી કે મેન્ટેનન્સમાં ગાઈડ કરવા માટે",
+      "મશીનનું વજન ઘટાડવા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "AR ટેક્નોલોજી વાસ્તવિક મશીનરી પર ડિજિટલ સ્ટેપ-બાય-સ્ટેપ 3D ઇન્સ્ટ્રક્શન્સ અને ડેટા ઓવરલે કરીને કામદારોને એસેમ્બલી અને રિપેરમાં સહાય કરે છે[cite: 8]."
+  },
+  {
+    "id": 40,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Metrology & Inspection",
+    "question": "On which optical principle do 3D laser line scanners capture surface profile data?",
+    "gujaratiQuestion": "040. લેસર સ્કેનર્સ કયા સિદ્ધાંત પર 3D પ્રોફાઈલ માપે છે?",
+    "options": [
+      "મેગ્નેટિઝમ",
+      "એક્સ-રે",
+      "લેસર ટ્રાયેંગ્યુલેશન",
+      "અલ્ટ્રાસાઉન્ડ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લેસર સ્કેનર્સ લેસર સોર્સ, ઓબ્જેક્ટ પોઇન્ટ અને કેમેરા સેન્સર વચ્ચે બનતા ત્રિકોણમિતિ આધારિત લેસર ટ્રાયેંગ્યુલેશન (Laser Triangulation) સિદ્ધાંત પર કાર્ય કરે છે[cite: 8]."
+  },
+  {
+    "id": 41,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Predictive Maintenance",
+    "question": "By adopting predictive maintenance, which type of factory downtime is most significantly reduced?",
+    "gujaratiQuestion": "041. પ્રિડિક્ટિવ મેન્ટેનન્સ અપનાવવાથી ફેક્ટરીમાં કયા પ્રકારનો ડાઉનટાઈમ સૌથી વધુ ઘટાડી શકાય છે?",
+    "options": [
+      "શિફ્ટ ચેન્જ",
+      "અનપ્લાન્ડ ડાઉનટાઈમ (Unplanned downtime)",
+      "પ્લાન્ડ ડાઉનટાઈમ",
+      "લંચ બ્રેક"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ખરાબી થતાં પહેલાં જ પૂર્વાનુમાન કરીને સમારકામ કરી લેવાતું હોવાથી અચાનક થતો અનપ્લાન્ડ બ્રેકડાઉન ડાઉનટાઇમ સૌથી વધુ ઘટે છે[cite: 8]."
+  },
+  {
+    "id": 42,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "What is the full form of the modern solid-state welding process FSW?",
+    "gujaratiQuestion": "042. સૉલિડ-સ્ટેટ વેલ્ડિંગની આધુનિક પદ્ધતિ FSW નું પૂરું નામ શું છે?",
+    "options": [
+      "Flash Spot Welding",
+      "Fast Seam Welding",
+      "Fusion State Welding",
+      "Friction Stir Welding"
+    ],
+    "correctAnswer": 3,
+    "explanation": "FSW એટલે Friction Stir Welding[cite: 8]."
+  },
+  {
+    "id": 43,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Fluid Mechanics & Pumping Trends",
+    "question": "Which international efficiency standard (Ultra-Premium Efficiency) applies to modern electric motors used in smart pumps?",
+    "gujaratiQuestion": "043. હાઈ-એફિશિયન્સી સ્માર્ટ પંપમાં વપરાતી આધુનિક ઇલેક્ટ્રિક મોટર્સ માટે કયું સ્ટાન્ડર્ડ (Ultra-Premium Efficiency) લાગુ પડે છે?",
+    "options": [
+      "IE1",
+      "IE5",
+      "IE3",
+      "IE2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "IEC સ્ટાન્ડર્ડ મુજબ IE5 એ અલ્ટ્રા-પ્રીમિયમ કાર્યક્ષમતા (Ultra-Premium Efficiency) ધરાવતી સર્વોચ્ચ મોટર કેટેગરી છે[cite: 8]."
+  },
+  {
+    "id": 44,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Predictive Maintenance",
+    "question": "Which sensors are commonly used for live tool wear monitoring in CNC machining centers?",
+    "gujaratiQuestion": "044. સીએનસી મશીનમાં કટીંગ ટૂલના ઘસારાનું લાઈવ મોનિટરિંગ કરવા કયા પ્રકારના સેન્સરનો ઉપયોગ થાય છે?",
+    "options": [
+      "કલર સેન્સર",
+      "એકોસ્ટિક એમિશન અથવા મોટર કરંટ સેન્સર્સ",
+      "મેગ્નેટિક સેન્સર",
+      "હ્યુમિડિટી સેન્સર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટૂલ વિયર અને ચિપિંગ શોધવા માટે એકોસ્ટિક એમિશન (AE) સેન્સર્સ, વાઇબ્રેશન સેન્સર્સ અને સ્પિન્ડલ મોટર કરંટ સિગ્નેચર એનાલિસિસ વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 45,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "CIM & Smart Factory",
+    "question": "What is a Digital Twin?",
+    "gujaratiQuestion": "045. ડિજિટલ ટ્વીન (Digital Twin) એટલે શું?",
+    "options": [
+      "ઓનલાઈન શોપિંગ સિસ્ટમ",
+      "ભૌતિક મશીનનું રિયલ-ટાઈમ ડેટા પર આધારિત વર્ચ્યુઅલ/ડિજિટલ મોડલ",
+      "મશીનની ઝેરોક્ષ કોપી",
+      "બે મશીનો એકસાથે ચલાવવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડિજિટલ ટ્વીન એ વાસ્તવિક ભૌતિક મશીન કે પ્રક્રિયાનું જીવંત સેન્સર ડેટા સાથે જોડાયેલું ડિજિટલ/વર્ચ્યુઅલ પ્રતિરૂપ (Real-time virtual replica) છે[cite: 8]."
+  },
+  {
+    "id": 46,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Thermodynamics & Power Updates",
+    "question": "Compared to conventional steam turbines, what is the approximate physical footprint ratio of sCO2 turbomachinery?",
+    "gujaratiQuestion": "046. પરંપરાગત સ્ટીમ ટર્બાઈનની સરખામણીમાં sCO2 ટર્બોમશીનરીના કદ (Physical footprint) નો ગુણોત્તર આશરે કેટલો હોય છે?",
+    "options": [
+      "2:1 (બમણું મોટું)",
+      "1:10 (દસમા ભાગનું નાનું)",
+      "1:1 (સમાન કદ)",
+      "100:1 (ખૂબ જ મોટું)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સુપરક્રિટિકલ CO2 ની ઊંચી ઘનતાને કારણે sCO2 ટર્બોમશીનરી સમાન આઉટપુટ ધરાવતી સ્ટીમ ટર્બાઇન કરતાં 10 ગણી નાની (આશરે 1:10 ફૂટપ્રિન્ટ) હોય છે[cite: 8]."
+  },
+  {
+    "id": 47,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Metrology & Inspection",
+    "question": "In metrology inspection software, what is the process of superimposing scanned point cloud data onto the nominal CAD model to generate a color deviation map called?",
+    "gujaratiQuestion": "047. મેટ્રોલોજી સોફ્ટવેરમાં CAD મોડલ અને સ્કેન કરેલા પોઈન્ટ ક્લાઉડ ડેટાને એકબીજા પર સુપરઈમ્પોઝ કરીને તફાવત શોધવાની પ્રક્રિયાને શું કહે છે?",
+    "options": [
+      "લેથિંગ",
+      "સ્લાઇસિંગ",
+      "રેન્ડરિંગ",
+      "3D કમ્પેરિઝન (CAD Comparison / Color Mapping)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સ્કેન પોઇન્ટ ક્લાઉડને મૂળ CAD મોડેલ સાથે બેસ્ટ-ફિટ અલાઇન કરી ડાયમેન્શનલ ડેવિયેશન દર્શાવવાને 3D CAD કમ્પેરિઝન કહે છે[cite: 8]."
+  },
+  {
+    "id": 48,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "IC Engine Advancements",
+    "question": "In hydrogen ICE vehicles, which fuel injection system is far more effective in completely preventing backfire compared to Port Fuel Injection?",
+    "gujaratiQuestion": "048. HICEV માં પોર્ટ ફયુઅલ ઇન્જેક્શન (PFI) ની સરખામણીમાં કઈ સિસ્ટમ બેકફાયર (Backfire) ની સમસ્યાને અટકાવવામાં વધુ કારગર છે?",
+    "options": [
+      "નેચરલ એસ્પિરેશન",
+      "હાઈ-પ્રેશર ડાયરેક્ટ ઈન્જેક્શન (HPDI)",
+      "કાર્બ્યુરેટર સિસ્ટમ",
+      "થ્રોટલ બોડી ઇન્જેક્શન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડાયરેક્ટ ઇન્જેક્શન (HPDI) ઇન્ટેક વાલ્વ બંધ થયા પછી સીધું સિલિન્ડરમાં હાઇડ્રોજન સ્પ્રે કરતું હોવાથી ઇન્ટેક મેનિફોલ્ડમાં બેકફાયર થવાની શક્યતા શૂન્ય થઈ જાય છે[cite: 8]."
+  },
+  {
+    "id": 49,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Predictive Maintenance",
+    "question": "Which primary sensors are deployed in predictive maintenance systems to capture real-time machine health?",
+    "gujaratiQuestion": "049. પ્રિડિક્ટિવ મેન્ટેનન્સ સિસ્ટમમાં મશીનની કન્ડિશન જાણવા મુખ્યત્વે કયા સેન્સર્સનો ઉપયોગ થાય છે?",
+    "options": [
+      "માત્ર લાઈટ સેન્સર",
+      "કલર સેન્સર",
+      "માત્ર વજન કાંટો",
+      "વાઇબ્રેશન, એકોસ્ટિક અને ટેમ્પરેચર સેન્સર્સ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "મશીનરીના બેરિંગ અને ગિયર ફોલ્ટ્સ મોનિટર કરવા માટે વાઇબ્રેશન એક્સેલરોમીટર, અલ્ટ્રાસોનિક એકોસ્ટિક અને થર્મલ સેન્સર્સ મુખ્ય છે[cite: 8]."
+  },
+  {
+    "id": 50,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "IC Engine Advancements",
+    "question": "Which is the only significant regulated pollutant emitted by a hydrogen internal combustion engine that requires mitigation?",
+    "gujaratiQuestion": "050. હાઈડ્રોજન IC એન્જિનમાં એકમાત્ર નોંધપાત્ર પ્રદૂષક કયું હોય છે, જેને કંટ્રોલ કરવું જરૂરી છે?",
+    "options": [
+      "NOx (નાઇટ્રોજન ઓક્સાઇડ્સ)",
+      "SO2",
+      "CO",
+      "પાર્ટિક્યુલેટ મેટર (PM)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "હાઇડ્રોજન દહનમાં ઉચ્ચ તાપમાને હવામાં રહેલા નાઇટ્રોજન અને ઓક્સિજન જોડાઈને NOx બનાવે છે, જે એકમાત્ર નોંધપાત્ર પ્રદૂષક છે[cite: 8]."
+  },
+  {
+    "id": 51,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Thermodynamics & Power Updates",
+    "question": "Which equipment is used in a combined cycle power plant to recover heat from gas turbine exhaust and generate steam to run a steam turbine?",
+    "gujaratiQuestion": "051. કમ્બાઈન્ડ સાયકલ પાવર પ્લાન્ટમાં ગેસ ટર્બાઈનના એક્ઝોસ્ટમાંથી હીટ મેળવી સ્ટીમ ટર્બાઈન ચલાવવા કયા ઉપકરણનો ઉપયોગ થાય છે?",
+    "options": [
+      "HRSG (Heat Recovery Steam Generator)",
+      "સુપરચાર્જર",
+      "કન્ડેન્સર",
+      "ઈવાપોરેટર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HRSG (Heat Recovery Steam Generator) ગેસ ટર્બાઇનના ઊંચા તાપમાનવાળા એક્ઝોસ્ટમાંથી વેસ્ટ હીટ મેળવીને સ્ટીમ ટર્બાઇન માટે હાઇ-પ્રેશર સ્ટીમ બનાવે છે[cite: 7]."
+  },
+  {
+    "id": 52,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Fluid Mechanics & Pumping Trends",
+    "question": "What is the most important characteristic feature of a modern 'Smart Pumping' system?",
+    "gujaratiQuestion": "052. આધુનિક 'સ્માર્ટ પમ્પિંગ' (Smart Pumping) સિસ્ટમની સૌથી અગત્યની લાક્ષણિકતા કઈ છે?",
+    "options": [
+      "પંપને માત્ર મેન્યુઅલી ઓપરેટ કરવો",
+      "હંમેશા એક જ સ્પીડ પર પંપ ચલાવવો",
+      "સિસ્ટમની માંગ અનુસાર રિયલ-ટાઈમમાં પંપની સ્પીડ (RPM) માં ડાયનેમિક ફેરફાર કરવો",
+      "પંપની સાઈઝ ઘટાડવી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્માર્ટ પમ્પિંગ સિસ્ટમ VFD અને પ્રેશર/ફ્લો સેન્સર્સ વડે રિયલ-ટાઇમ માંગ મુજબ આપમેળે પંપની સ્પીડ નિયંત્રિત કરી ઊર્જા બચાવે છે[cite: 7]."
+  },
+  {
+    "id": 53,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "In the Additive Manufacturing process, what is the software that slices a 3D CAD model into horizontal layers called?",
+    "gujaratiQuestion": "Q53. AM પ્રક્રિયામાં 3D CAD મોડલને લેયર્સમાં વિભાજીત કરતા સોફ્ટવેરને શું કહે છે?",
+    "options": [
+      "કન્વર્ટર",
+      "સિમ્યુલેટર",
+      "સ્લાઈસર (Slicer)",
+      "રેન્ડરર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્લાઇસર સોફ્ટવેર 3D CAD (.STL) ફાઇલને 2D લેયર્સમાં કાપીને 3D પ્રિન્ટર માટે કમાન્ડ્સ (G-code) જનરેટ કરે છે[cite: 7]."
+  },
+  {
+    "id": 54,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Materials & Composites",
+    "question": "In advanced composite materials, what does the acronym CFRP stand for?",
+    "gujaratiQuestion": "054. કમ્પોઝિટ મટિરિયલ્સમાં CFRP નું પૂરું નામ શું છે?",
+    "options": [
+      "Coated Fiber Reinforced Part",
+      "Custom Fabricated Rigid Polymer",
+      "Carbon Fiber Reinforced Polymer",
+      "Copper Fiber Reinforced Plastic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CFRP એટલે Carbon Fiber Reinforced Polymer, જે કાર્બન ફાઇબર રિઇન્ફોર્સમેન્ટ અને પોલિમર રેઝિન મેટ્રિક્સ ધરાવે છે[cite: 7]."
+  },
+  {
+    "id": 55,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Materials & Composites",
+    "question": "In piezoelectric materials, what efficiency does the Electromechanical Coupling Factor (k²) represent?",
+    "gujaratiQuestion": "055. પીઝોઈલેક્ટ્રિક મટિરિયલમાં Electromechanical Coupling Factor (k²) કઈ કાર્યક્ષમતા દર્શાવે છે?",
+    "options": [
+      "ગરમીનું વીજળીમાં રૂપાંતર",
+      "પ્રકાશનું પરાવર્તન",
+      "યાંત્રિક ઊર્જા અને વિદ્યુત ઊર્જા વચ્ચેના પરસ્પર રૂપાંતરણની કાર્યક્ષમતા",
+      "ચુંબકીય શક્તિ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કપ્લિંગ ફેક્ટર k² મટિરિયલમાં સંગ્રહિત યાંત્રિક ઊર્જાનું વિદ્યુત ઊર્જામાં (અથવા ઉલટું) રૂપાંતરણ થવાનો ગુણોત્તર દર્શાવે છે[cite: 7]."
+  },
+  {
+    "id": 56,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "What is the fundamental manufacturing principle of Additive Manufacturing (AM)?",
+    "gujaratiQuestion": "056. એડિટિવ મેન્યુફેક્ચરિંગનો મૂળ સિદ્ધાંત શું છે?",
+    "options": [
+      "માત્ર ડાઈમાં ઢાળવું",
+      "મટિરિયલને કાપીને આકાર આપવો",
+      "મટિરિયલને હથોડીથી ટીપીને આકાર આપવો",
+      "મટિરિયલને લેયર-બાય-લેયર ઉમેરીને પાર્ટ બનાવવો"
+    ],
+    "correctAnswer": 3,
+    "explanation": "એડિટિવ મેન્યુફેક્ચરિંગ સબટ્રેક્ટિવ (કટિંગ) પદ્ધતિના બદલે સામગ્રીને સ્તર દર સ્તર (Layer-by-layer) ઉમેરીને ઘટકનું નિર્માણ કરે છે[cite: 7]."
+  },
+  {
+    "id": 57,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Thermodynamics & Power Updates",
+    "question": "For supercritical carbon dioxide (sCO2) used in advanced power generation, what are the critical point temperature and pressure values?",
+    "gujaratiQuestion": "057. આધુનિક પાવર જનરેશનમાં વપરાતા સુપરક્રિટિકલ કાર્બન ડાયોક્સાઈડ (sCO2) માટે Critical Point નું તાપમાન અને દબાણ કેટલું હોય છે?",
+    "options": [
+      "0°C, 100 MPa",
+      "374°C, 22.06 MPa",
+      "100°C, 1.01 MPa",
+      "31.1°C, 7.38 MPa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CO2 નું ક્રિટિકલ પોઇન્ટ તાપમાન 31.1°C (304.25 K) અને ક્રિટિકલ દબાણ 7.38 MPa (73.8 bar) છે[cite: 7]."
+  },
+  {
+    "id": 58,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Metrology & Inspection",
+    "question": "What is the primary application of 3D optical/laser scanners in reverse engineering?",
+    "gujaratiQuestion": "058. રિવર્સ એન્જિનિયરિંગમાં ઓપ્ટિકલ સ્કેનર્સનો ઉપયોગ શા માટે થાય છે?",
+    "options": [
+      "વજન માપવા",
+      "અસ્તિત્વમાં રહેલા પાર્ટનું 3D સ્કેનિંગ કરી તેના પરથી CAD મોડલ બનાવવા",
+      "પાર્ટને તોડવા",
+      "મટિરિયલ બદલવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હયાત ભૌતિક પાર્ટનું ચોક્કસ 3D ડિજિટાઇઝેશન (પોઇન્ટ ક્લાઉડ) કરીને મૂળ CAD મોડેલ પુનઃનિર્માણ કરવા રિવર્સ એન્જિનિયરિંગમાં સ્કેનર્સ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 59,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Refrigeration & HVAC Trends",
+    "question": "Which low-GWP refrigerant is currently widely adopted as a replacement for R134a in automotive air conditioning systems?",
+    "gujaratiQuestion": "059. ઓટોમોબાઈલ એસીમાં R134a ના વિકલ્પ તરીકે હાલમાં કયું લો-GWP રેફ્રિજરેન્ટ સૌથી વધુ પ્રચલિત છે?",
+    "options": [
+      "R717",
+      "R12",
+      "R1234yf (HFO)",
+      "R22"
+    ],
+    "correctAnswer": 2,
+    "explanation": "R1234yf એ હાઇડ્રોફ્લોરોઓલિફિન (HFO) રેફ્રિજરેન્ટ છે જેનો GWP < 1 હોવાથી R134a ના સ્થાને વૈશ્વિક સ્તરે કાર AC માં અપનાવાયું છે[cite: 7]."
+  },
+  {
+    "id": 60,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Refrigeration & HVAC Trends",
+    "question": "What is the standard ASHRAE refrigerant designation code for natural ammonia?",
+    "gujaratiQuestion": "060. નેચરલ રેફ્રિજરેન્ટ તરીકે એમોનિયાનો કોડ કયો છે?",
+    "options": [
+      "R717",
+      "R290",
+      "R744",
+      "R600a"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇનઓર્ગેનિક રેફ્રિજરેન્ટ્સ માટે R (700 + મોલેક્યુલર વેઇટ) ફોર્મ્યુલા મુજબ એમોનિયા (NH3, MW=17) નો કોડ R717 છે[cite: 7]."
+  },
+  {
+    "id": 61,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Thermodynamics & Power Updates",
+    "question": "Which cycle is widely deployed as an alternative to the conventional steam Rankine cycle for low-temperature waste heat recovery?",
+    "gujaratiQuestion": "061. પરંપરાગત સ્ટીમ રેન્કાઈન સાયકલના વિકલ્પ તરીકે નીચા તાપમાનવાળી 'વેસ્ટ હીટ રિકવરી' (Waste Heat Recovery) માટે કઈ સાયકલનો વ્યાપક ઉપયોગ થાય છે?",
+    "options": [
+      "ગેસ ટર્બાઈન સાયકલ",
+      "ઓર્ગેનિક રેન્કાઈન સાયકલ (ORC)",
+      "બેલ-કોલમેન સાયકલ",
+      "ડીઝલ સાયકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓર્ગેનિક રેન્કાઇન સાયકલ (ORC) નીચા ઉત્કલનબિંદુવાળા દ્રવ્યો વાપરી 80°C થી 250°C ના નીચા તાપમાનવાળા સ્ત્રોતમાંથી કાર્યક્ષમ વીજ ઉત્પાદન કરે છે[cite: 7]."
+  },
+  {
+    "id": 62,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "What is the primary operational difference between Laser Powder Bed Fusion (L-PBF) and Directed Energy Deposition (DED)?",
+    "gujaratiQuestion": "Q62 L-PBF અને DED વચ્ચેનો મુખ્ય તફાવત શું છે?",
+    "options": [
+      "બંને પ્લાસ્ટિક માટે જ છે",
+      "DED ધીમી પદ્ધતિ છે",
+      "L-PBF માં પાવડરનો બેડ હોય છે અને લેસરથી પાર્ટ બને છે, જ્યારે DED માં નોઝલમાંથી મટિરિયલ સીધું જમા થાય છે અને તે જ સમયે પીગળે છે",
+      "L-PBF થી મટિરિયલ રિપેર કરી શકાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L-PBF પાવડર બેડ પર લેસર સ્કેન કરીને પ્રિસિઝન પાર્ટ્સ બનાવે છે, જ્યારે DED માં નોઝલ દ્વારા સીધો પાવડર/વાયર ફીડ કરીને લેસરથી પીગળાવી પાર્ટ બને છે કે રિપેર થાય છે[cite: 7]."
+  },
+  {
+    "id": 63,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Materials & Composites",
+    "question": "What crystallographic structure is mandatory for a material to exhibit piezoelectric behavior?",
+    "gujaratiQuestion": "063. પીઝોઈલેક્ટ્રિક મટિરિયલ્સની ક્રિસ્ટલોગ્રાફિક રચના કેવી હોવી જરૂરી છે?",
+    "options": [
+      "પ્રવાહી સ્વરૂપમાં",
+      "અસમપ્રમાણ (Non-centrosymmetric)",
+      "વાયુ સ્વરૂપમાં",
+      "સંપૂર્ણ સપ્રમાણ (Centrosymmetric)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પીઝોઇલેક્ટ્રિક અસર માત્ર એવા સ્ફટિકોમાં જ જોવા મળે છે જેમાં સમપ્રમાણતા કેન્દ્રનો અભાવ હોય (Non-centrosymmetric crystal structure)[cite: 7]."
+  },
+  {
+    "id": 64,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Metrology & Inspection",
+    "question": "What is the primary application of laser interferometers in precision metrology?",
+    "gujaratiQuestion": "064. લેસર મેટ્રોલોજીમાં ઈન્ટરફેરોમીટરનો મુખ્ય ઉપયોગ શું છે?",
+    "options": [
+      "વજન માપવા",
+      "મશીન ટૂલની ચોકસાઈ, અલાઈન્મેન્ટ અને નેનોમીટર લેવલનું ડિસ્પ્લેસમેન્ટ માપવા",
+      "કલર ચેક કરવા",
+      "પાર્ટને કાપવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "લેસર ઇન્ટરફેરોમીટર પ્રકાશના વ્યતિકરણ (Interference) સિદ્ધાંત વડે સબ-માઇક્રોન/નેનોમીટર સ્તરનું રેખીય ડિસ્પ્લેસમેન્ટ અને મશીન ટૂલ કેલિબ્રેશન કરે છે[cite: 7]."
+  },
+  {
+    "id": 65,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Sustainable Engineering",
+    "question": "Which on-board fuel storage technology is currently standardly adopted in commercial hydrogen vehicles (FCEVs)?",
+    "gujaratiQuestion": "065. હાઇડ્રોજન વાહનોમાં બળતણ સંગ્રહ માટે કઈ ટેક્નોલોજી હાલમાં ટ્રેન્ડમાં છે?",
+    "options": [
+      "કાચની ટાંકી",
+      "ખુલ્લી ટાંકી",
+      "700 Bar ની હાઇ-પ્રેશર કાર્બન-ફાઇબર સિલિન્ડર (Type-IV tank)",
+      "લો-પ્રેશર સ્ટીલ સિલિન્ડર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વાહનોમાં પૂરતી ડ્રાઇવિંગ રેન્જ માટે હળવા વજનના Type-IV કાર્બન ફાઇબર કોમ્પોઝિટ સિલિન્ડરમાં 700 bar (70 MPa) દબાણે હાઇડ્રોજન સંગ્રહાય છે[cite: 7]."
+  },
+  {
+    "id": 66,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Materials & Composites",
+    "question": "In Carbon Fiber Reinforced Polymers (CFRP), which polymer resin is most extensively used as the matrix material?",
+    "gujaratiQuestion": "066. CFRP માં મેટ્રિક્સ તરીકે સામાન્ય રીતે કયા મટિરિયલનો બહોળો ઉપયોગ થાય છે?",
+    "options": [
+      "એલ્યુમિનિયમ",
+      "લાકડું",
+      "ઈપોક્સી રેઝીન",
+      "સિમેન્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઉચ્ચ મિકેનિકલ તાકાત, શ્રેષ્ઠ એડહેઝન અને કમ્પોઝિટ સ્ટિફનેસ પૂરી પાડવા માટે થર્મોસેટિંગ ઇપોક્સી રેઝિન (Epoxy resin) સૌથી વધુ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 67,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "CIM & Smart Factory",
+    "question": "Why has cybersecurity become critically important in Industry 4.0 environments?",
+    "gujaratiQuestion": "067. ઈન્ડસ્ટ્રી 4.0 માં 'સાયબર-સિક્યોરિટી' શા માટે અગત્યની છે?",
+    "options": [
+      "પાવર સેવિંગ માટે",
+      "મશીનની સ્પીડ વધારવા",
+      "મશીનને કાટથી બચાવવા",
+      "તમામ મશીનો અને ડેટા ઈન્ટરનેટથી કનેક્ટેડ હોવાથી હેકિંગ અને ડેટા ચોરી અટકાવવા"
+    ],
+    "correctAnswer": 3,
+    "explanation": "IIoT અને ક્લાઉડ નેટવર્ક્સથી જોડાયેલી સ્માર્ટ ફેક્ટરીઓમાં ઔદ્યોગિક નિયંત્રણ પ્રણાલીઓ (ICS/SCADA) ને સાયબર હુમલા અને ડેટા ચોરીથી બચાવવા તે જરૂરી છે[cite: 7]."
+  },
+  {
+    "id": 68,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "In powder bed fusion 3D printing, which mechanism is deployed to spread a thin uniform layer of metal powder across the build platform?",
+    "gujaratiQuestion": "068. પાવડર બેડ ફયુઝન પ્રક્રિયામાં મેટલ પાવડરને એક સમાન સ્તરમાં પાથરવા માટે કયા મિકેનિઝમનો ઉપયોગ થાય છે?",
+    "options": [
+      "રોલર અથવા રીકોટર બ્લેડ",
+      "હેમર",
+      "નોઝલ",
+      "પંપ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રીકોટર મિકેનિઝમમાં પ્રિસિઝન સિરામિક/સ્ટીલ બ્લેડ અથવા કાઉન્ટર-રોટેટિંગ રોલર વડે 20-50 માઇક્રોનનું એકસમાન પાઉડર લેયર પથરાય છે[cite: 7]."
+  },
+  {
+    "id": 69,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Metrology & Inspection",
+    "question": "The measurement error caused by mechanical probe contact pressure deforming soft materials during tactile CMM inspection is known as:",
+    "gujaratiQuestion": "069. ટચ પ્રોબિંગ દરમિયાન પ્રોબના પ્રેશરથી નરમ પાર્ટ્સમાં જે ડિફોર્મેશન આવે છે, તેને કઈ ભૂલ કહેવાય છે જે નોન-કોન્ટેક્ટ મેઝરમેન્ટમાં જોવા મળતી નથી?",
+    "options": [
+      "પેરેલેક્સ એરર",
+      "હર્ટ્ઝિયન કોન્ટેક્ટ ડિફોર્મેશન (Hertzian contact deformation)",
+      "થર્મલ એરર",
+      "પર્સ્પેક્ટિવ એરર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રોબ ટિપ અને વર્કપીસ વચ્ચેના બિંદુ સંપર્ક દબાણને લીધે ઉદભવતી સ્થિતિસ્થાપક દબાવની ભૂલને હર્ટ્ઝિયન કોન્ટેક્ટ ડિફોર્મેશન કહે છે[cite: 7]."
+  },
+  {
+    "id": 70,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Sustainable Engineering",
+    "question": "What is the primary environmental advantage of a Direct Oxy-combustion power cycle?",
+    "gujaratiQuestion": "070. આધુનિક ડાયરેક્ટ ઓક્સી-કમ્બશન (Direct Oxy-combustion) સિસ્ટમનો મુખ્ય ફાયદો શું છે?",
+    "options": [
+      "દહન માટે હવાની જગ્યાએ શુદ્ધ ઓક્સિજન વાપરવાથી NOx ઉત્સર્જન સંપૂર્ણપણે નાબૂદ થાય છે અને CO2 સરળતાથી કેપ્ચર કરી શકાય છે.",
+      "એન્જિનનું કદ ઘટે છે",
+      "ઈંધણ બચાવે છે",
+      "સ્પાર્ક પ્લગની જરૂર રહેતી નથી."
+    ],
+    "correctAnswer": 0,
+    "explanation": "હવાના બદલે શુદ્ધ O2 વાપરવાથી એક્ઝોસ્ટમાં નાઇટ્રોજન હોતો નથી, જેથી NOx બનતું નથી અને માત્ર શુદ્ધ CO2 + H2O બને છે જેને 100% કેપ્ચર કરી શકાય છે[cite: 7]."
+  },
+  {
+    "id": 71,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Materials & Composites",
+    "question": "What is the primary application of the Converse Piezoelectric Effect?",
+    "gujaratiQuestion": "071. કન્વર્સ પીઝોઈલેક્ટ્રિક ઈફેક્ટનો ઉપયોગ સામાન્ય રીતે શેમાં થાય છે?",
+    "options": [
+      "હીટરમાં",
+      "જનરેટરમાં",
+      "એક્ચ્યુએટર્સમાં (વોલ્ટેજ આપવાથી યાંત્રિક ગતિ મેળવવા)",
+      "બેટરી ચાર્જિંગમાં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કન્વર્સ પીઝોઇલેક્ટ્રિક ઇફેક્ટમાં વિદ્યુત વોલ્ટેજ આપતાં મટિરિયલ યાંત્રિક સ્ટ્રેઇન/ડિસ્પ્લેસમેન્ટ અનુભવે છે, જે નેનો-પોઝિશનિંગ એક્ચ્યુએટર્સમાં વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 72,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Metrology & Inspection",
+    "question": "In optical machine vision metrology, which specialty lens is used to eliminate perspective distortion and maintain constant magnification over depth?",
+    "gujaratiQuestion": "072. મશીન વિઝન સિસ્ટમમાં પર્સ્પેક્ટિવ એરર દૂર કરવા અને ચોક્કસ ડાયમેન્શન માપવા કયા લેન્સનો ઉપયોગ થાય છે?",
+    "options": [
+      "ફિશ-આઈ લેન્સ",
+      "વાઈડ-એંગલ લેન્સ",
+      "મેક્રો લેન્સ",
+      "ટેલિસેન્ટ્રિક લેન્સ (Telecentric lens)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ટેલિસેન્ટ્રિક લેન્સ તમામ મુખ્ય કિરણોને ઓપ્ટિકલ અક્ષને સમાંતર રાખે છે, જેથી ઊંડાઈ બદલાવા છતાં ઓબ્જેક્ટનું મેગ્નિફિકેશન બદલાતું નથી[cite: 7]."
+  },
+  {
+    "id": 73,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Materials & Composites",
+    "question": "Why is the Compression After Impact (CAI) test standardly performed on composite laminate structures?",
+    "gujaratiQuestion": "073. CAI (Compression After Impact) ટેસ્ટ શેના માટે કરવામાં આવે છે?",
+    "options": [
+      "વજન ઘટાડવા",
+      "કમ્પોઝિટ મટિરિયલ પર લો-વેલોસિટી ઇમ્પેક્ટથી અંદરની તરફ થયેલા ડેમેજ બાદ તેની કમ્પ્રેસિવ સ્ટ્રેન્થ માપવા",
+      "મટિરિયલનો રંગ ચકાસવા",
+      "મટિરિયલનું તાપમાન માપવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટૂલ ડ્રોપ જેવી લો-વેલોસિટી અથડામણથી કમ્પોઝિટમાં થતા અદ્રશ્ય ડીલેમિનેશન બાદ સ્ટ્રક્ચરલ કમ્પ્રેશન સહિષ્ણુતા ચકાસવા CAI ટેસ્ટ થાય છે[cite: 7]."
+  },
+  {
+    "id": 74,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "Which defect is typically produced in a Friction Stir Weld if insufficient heat input or inadequate plunge downforce is provided?",
+    "gujaratiQuestion": "Q74. જો FSW પ્રક્રિયા દરમિયાન પૂરતી ગરમી કે ફોર્સ ન મળે તો વેલ્ડમાં કઈ ખામી ઉદ્ભવે છે?",
+    "options": [
+      "સ્લેગ ઇન્ક્લુઝન",
+      "વોર્મહોલ ડિફેક્ટ (Wormhole/Tunnel defect)",
+      "પોરોસિટી",
+      "અંડરકટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અપૂરતા પ્લાસ્ટિસાઇઝેશન અને ઇનકમ્પ્લીટ મેટલ કન્સોલિડેશનને લીધે FSW સીમની નીચે સબ-સરફેસ ટનલ અથવા વોર્મહોલ ડિફેક્ટ બને છે[cite: 7]."
+  },
+  {
+    "id": 75,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Refrigeration & HVAC Trends",
+    "question": "What chemical bond characteristic distinguishes Hydrofluoroolefin (HFO) refrigerants, making them environmentally sustainable?",
+    "gujaratiQuestion": "075. HFO રેફ્રિજરેન્ટ્સના રાસાયણિક બંધારણમાં શું વિશેષતા હોય છે જે તેને પર્યાવરણ માટે અનુકૂળ બનાવે છે?",
+    "options": [
+      "તેમાં કાર્બન-કાર્બન ડબલ બોન્ડ (C=C) હોય છે જેના કારણે વાતાવરણમાં તેનું આયુષ્ય ખૂબ ટૂંકું હોય છે",
+      "તેમાં સીસું હોય છે",
+      "તે પાણીમાં ઓગળી જાય છે",
+      "તે ક્યારેય ગેસ બનતું નથી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HFOs અનસેચ્યુરેટેડ ઓલિફિન્સ (C=C ડબલ બોન્ડ) હોવાથી વાતાવરણમાં OH રેડિકલ્સ સાથે ઝડપથી વિઘટન પામે છે, જેથી તેમનો GWP < 1 રહે છે[cite: 7]."
+  },
+  {
+    "id": 76,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Refrigeration & HVAC Trends",
+    "question": "In which thermodynamic regime does the high-pressure heat rejection occur in a transcritical CO2 (R744) cycle?",
+    "gujaratiQuestion": "076. આધુનિક ટ્રાન્સક્રિટિકલ CO2 સાયકલ સામાન્ય રીતે કઈ કન્ડિશનમાં કામ કરે છે?",
+    "options": [
+      "ક્રિટિકલ પોઈન્ટની ઉપર (Supercritical pressure)",
+      "ક્રિટિકલ પોઇન્ટની નીચે",
+      "શૂન્ય દબાણે",
+      "માત્ર વેક્યુમમાં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ટ્રાન્સક્રિટિકલ સાયકલમાં હીટ રિજેક્શન ક્રિટિકલ પ્રેશર (7.38 MPa) થી ઉપર સુપરક્રિટિકલ ગેસ કૂલરમાં થાય છે અને બાષ્પીભવન સબક્રિટિકલ પ્રેશરે થાય છે[cite: 7]."
+  },
+  {
+    "id": 77,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Materials & Composites",
+    "question": "What does the Direct Piezoelectric Effect state?",
+    "gujaratiQuestion": "077. પીઝોઈલેક્ટ્રિક ઈફેક્ટ શું દર્શાવે છે?",
+    "options": [
+      "તાપમાન બદલવાથી ચુંબકત્વ ઉત્પન્ન થવું",
+      "અવાજથી ગરમી ઉત્પન્ન થવી",
+      "પ્રકાશ પડવાથી વીજળી ઉત્પન્ન થવી",
+      "મિકેનિકલ સ્ટ્રેસ આપવાથી ઇલેક્ટ્રિકલ વોલ્ટેજ/ચાર્જ ઉત્પન્ન થવો"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ડાયરેક્ટ પીઝોઇલેક્ટ્રિક ઇફેક્ટ મુજબ મટિરિયલ પર યાંત્રિક દબાણ કે સ્ટ્રેસ આપતાં તેના પોલરાઇઝેશનથી વિદ્યુત ચાર્જ (વોલ્ટેજ) ઉત્પન્ન થાય છે[cite: 7]."
+  },
+  {
+    "id": 78,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "CIM & Smart Factory",
+    "question": "Which capability in Industry 4.0 enables diverse machines, sensors, and software systems to connect and seamlessly exchange data?",
+    "gujaratiQuestion": "Q78. ઈન્ડસ્ટ્રી 4.0 નું કયું પાસું વિવિધ મશીનો અને સિસ્ટમ્સને એકબીજા સાથે ડેટાની આપ-લે કરવા સક્ષમ બનાવે છે?",
+    "options": [
+      "લ્યુબ્રિકેશન",
+      "આઈસોલેશન",
+      "ફ્રિક્શન",
+      "ઇન્ટરઓપરેબિલિટી (Interoperability)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઇન્ટરઓપરેબિલિટી એ ઓપન પ્રોટોકોલ્સ (OPC UA, MQTT) દ્વારા વિવિધ ઉત્પાદકોના મશીનો વચ્ચે સંચાર અને સુસંગતતા સ્થાપિત કરે છે[cite: 7]."
+  },
+  {
+    "id": 79,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Refrigeration & HVAC Trends",
+    "question": "What is the primary environmental advantage of Hydrofluoroolefin (HFO) class refrigerants?",
+    "gujaratiQuestion": "Q79. HFO (Hydrofluoroolefins) પ્રકારના રેફ્રિજરેન્ટ્સનો મુખ્ય ફાયદો શું છે?",
+    "options": [
+      "ખૂબ જ લો-GWP અને ઝીરો ODP",
+      "અતિશય ઝેરી",
+      "કમ્પ્રેસરની જરૂર ન હોવી",
+      "ખૂબ ઊંચો GWP"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HFO રેફ્રિજરેન્ટ્સ શૂન્ય ઓઝોન ડિપ્લેશન પોટેન્શિયલ (ODP = 0) અને અલ્ટ્રા-લો ગ્લોબલ વોર્મિંગ પોટેન્શિયલ (GWP ≤ 1) ધરાવે છે[cite: 7]."
+  },
+  {
+    "id": 80,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "What are the two primary structural features of a non-consumable Friction Stir Welding tool?",
+    "gujaratiQuestion": "080. FSW ટૂલના મુખ્ય બે ભાગ કયા હોય છે?",
+    "options": [
+      "શોલ્ડર અને પિન (Shoulder and Pin/Probe)",
+      "લેન્સ અને મિરર",
+      "કેથોડ અને એનોડ",
+      "નોઝલ અને વાયર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FSW ટૂલમાં શોલ્ડર (જે સપાટી પર ઘર્ષણ ગરમી અને ફોર્સ આપે છે) અને પિન/પ્રોબ (જે પ્લાસ્ટિસાઇઝ્ડ ધાતુને મિક્સ કરે છે) મુખ્ય ઘટકો છે[cite: 7]."
+  },
+  {
+    "id": 81,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Materials & Composites",
+    "question": "The shape memory effect in Shape Memory Alloys (SMAs) is fundamentally governed by which reversible solid-state phase transformation?",
+    "gujaratiQuestion": "081. શેપ મેમરી એલોય (SMA) માં આકાર બદલાવાની પ્રક્રિયા કયા ફેઝ ટ્રાન્સફોર્મેશન પર આધારિત છે?",
+    "options": [
+      "ઓસ્ટેનાઈટ થી માર્ટેન્સાઇટ અને તેનાથી ઉલટું (Austenite <-> Martensite)",
+      "લિક્વિડ થી ગેસ",
+      "ગેસ થી પ્લાઝ્મા",
+      "સોલિડ થી લિક્વિડ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SMA માં હાઇ-ટેમ્પરેચર ઓસ્ટેનાઇટ ફેઝ અને લો-ટેમ્પરેચર ટ્વિન્ડ માર્ટેનસાઇટ ફેઝ વચ્ચે થતા થર્મોઇલાસ્ટિક રિવર્સિબલ ટ્રાન્સફોર્મેશનથી શેપ મેમરી મળે છે[cite: 7]."
+  },
+  {
+    "id": 82,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "Which advanced geometry is commonly engineered on FSW tool pins to enhance material mixing and reduce processing forces?",
+    "gujaratiQuestion": "082. FSW ટૂલ પિનની આધુનિક જીઓમેટ્રી કઈ હોઈ શકે છે?",
+    "options": [
+      "ટ્રાઇફ્લુટ, ટ્રાઇવેક્સ અથવા થ્રેડેડ (Triflute / Trivex / Threaded taper)",
+      "અંડાકાર",
+      "માત્ર ગોળ",
+      "ચોરસ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ટ્રાઇફ્લુટ, ટ્રાઇવેક્સ અને થ્રેડેડ ટેપર્ડ પિન પ્રોફાઇલ્સ મેટલ ફ્લો અને પ્લાસ્ટિક ડિફોર્મેશન હાઇડ્રોડાયનેમિક્સ વધારે છે[cite: 7]."
+  },
+  {
+    "id": 83,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Refrigeration & HVAC Trends",
+    "question": "What is the Ozone Depletion Potential (ODP) of Carbon Dioxide (R744) refrigerant?",
+    "gujaratiQuestion": "083. CO2 (R744) રેફ્રિજરેન્ટનો ODP કેટલો છે?",
+    "options": [
+      "10",
+      "0",
+      "100",
+      "1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કાર્બન ડાયોક્સાઇડ ક્લોરિન કે બ્રોમિન ધરાવતો ન હોવાથી તેનો ઓઝોન ડિપ્લેશન પોટેન્શિયલ ODP = 0 છે[cite: 7]."
+  },
+  {
+    "id": 84,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "In metal Additive Manufacturing, what does the acronym L-PBF stand for?",
+    "gujaratiQuestion": "084. મેટલ 3D પ્રિન્ટિંગમાં L-PBF પદ્ધતિનું પૂરું નામ શું છે?",
+    "options": [
+      "Laser Powder Bed Fusion",
+      "Laser Part Binding Fusion",
+      "Liquid Polymer Base Fusion",
+      "Light Particle Bed Formation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L-PBF એટલે Laser Powder Bed Fusion (જેમાં DMLS અને SLM ટેક્નોલોજીઓનો સમાવેશ થાય છે)[cite: 7]."
+  },
+  {
+    "id": 85,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "IC Engine Advancements",
+    "question": "In terms of Air-to-Fuel Ratio (AFR), under which combustion regime can a Hydrogen ICE operate efficiently?",
+    "gujaratiQuestion": "085. HICEV માં Air-to-Fuel Ratio (AFR) ની દ્રષ્ટિએ એન્જિન કેવી રીતે ચાલે છે?",
+    "options": [
+      "Rich મિશ્રણ સાથે",
+      "ખૂબ જ Lean મિશ્રણ સાથે (Ultra-lean burn)",
+      "Stoichiometric મિશ્રણ સાથે જ",
+      "બળતણ વગર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હાઇડ્રોજનની વિશાળ ફ્લેમેબિલિટી રેન્જને કારણે HICEV અલ્ટ્રા-લીન કમ્બશન (λ > 2) પર ચાલીને ઉચ્ચ થર્મલ કાર્યક્ષમતા આપે છે અને NOx ઘટાડે છે[cite: 7]."
+  },
+  {
+    "id": 86,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Industrial Optimization",
+    "question": "In metaheuristic optimization algorithms, what does the abbreviation GA stand for?",
+    "gujaratiQuestion": "086. મેટાહ્યુરિસ્ટિક્સમાં GA નું પૂરું નામ શું છે?",
+    "options": [
+      "General Analysis",
+      "Global Array",
+      "Graphic Application",
+      "Genetic Algorithm"
+    ],
+    "correctAnswer": 3,
+    "explanation": "GA એટલે Genetic Algorithm, જે કુદરતી જૈવિક ઉત્ક્રાંતિ (Natural Selection) ના સિદ્ધાંત પર કાર્ય કરતો ઓપ્ટિમાઇઝેશન અલ્ગોરિધમ છે[cite: 7]."
+  },
+  {
+    "id": 87,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Thermodynamics & Power Updates",
+    "question": "Adopting a bottoming Waste Heat Recovery system significantly increases which efficiency of a thermal power plant?",
+    "gujaratiQuestion": "087. વેસ્ટ હીટ રિકવરી સિસ્ટમ અપનાવવાથી પાવર પ્લાન્ટની કઈ કાર્યક્ષમતામાં નોંધપાત્ર વધારો થાય છે?",
+    "options": [
+      "વોલ્યુમેટ્રિક એફિશિયન્સી",
+      "મિકેનિકલ એફિશિયન્સી",
+      "ઓવરઓલ થર્મલ એફિશિયન્સી (Overall Thermal Efficiency)",
+      "આઈસેન્ટ્રોપિક એફિશિયન્સી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વેડફાતી ગરમીમાંથી વધારાનો પાવર આઉટપુટ મળવાથી વધારાનું ઇંધણ બાળ્યા વિના પ્લાન્ટની ઓવરઓલ થર્મલ કાર્યક્ષમતા વધે છે[cite: 7]."
+  },
+  {
+    "id": 88,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "CIM & Smart Factory",
+    "question": "What is a Cobot in modern manufacturing automation?",
+    "gujaratiQuestion": "088. ઉત્પાદન પ્રક્રિયામાં Cobot (કોબોટ) એટલે શું?",
+    "options": [
+      "કંટ્રોલ રોબોટ",
+      "કમ્પ્યુટર બોટ",
+      "કોલાબોરેટિવ રોબોટ - જે મનુષ્યની સાથે એક જ વર્કસ્પેસમાં સુરક્ષિત રીતે કામ કરવા ડિઝાઈન કરાયેલ છે",
+      "કટિંગ રોબોટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cobot એટલે Collaborative Robot, જે સેફ્ટી સેન્સર્સ સાથે માનવ ઓપરેટરની સાથે શેર કરેલી વર્કસ્પેસમાં સહયોગથી કામ કરે છે[cite: 7]."
+  },
+  {
+    "id": 89,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Thermodynamics & Power Updates",
+    "question": "What is the primary advantage of a 'Direct Evaporation' configuration in an Organic Rankine Cycle (ORC)?",
+    "gujaratiQuestion": "089. ORC માં 'Direct Evaporation' સિસ્ટમનો મુખ્ય ફાયદો શું છે?",
+    "options": [
+      "તેમાં વર્કિંગ ફ્લુઇડ તરીકે પાણીનો ઉપયોગ થાય છે",
+      "ઈન્ટરમીડિયેટ થર્મલ ઓઈલ લૂપ ની જરૂરિયાત દૂર થાય છે",
+      "તે માત્ર ઊંચા તાપમાને જ કામ કરે છે",
+      "તે ટર્બાઈનનું કદ વધારે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડાયરેક્ટ ઇવાપોરેશનમાં ફ્લૂ ગેસ સીધા ઓર્ગેનિક ફ્લુઇડને ગરમ કરે છે, જેથી મધ્યવર્તી થર્મલ ઓઇલ સર્કિટ, હીટ એક્સચેન્જર લોસ અને ખર્ચ ઘટે છે[cite: 7]."
+  },
+  {
+    "id": 90,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "CIM & Smart Factory",
+    "question": "What is the major safety feature distinguishing collaborative robots (cobots) from traditional industrial robots?",
+    "gujaratiQuestion": "090. ટ્રેડિશનલ ઔદ્યોગિક રોબોટ અને કોબોટ વચ્ચેનો મુખ્ય તફાવત શું છે?",
+    "options": [
+      "કોબોટમાં અત્યાધુનિક સેન્સર્સ હોય છે જેથી તે માણસની હાજરી અનુભવીને અટકી જાય છે",
+      "બંનેમાં કોઈ તફાવત નથી",
+      "ટ્રેડિશનલ રોબોટ નાના હોય છે",
+      "કોબોટ માત્ર પેઇન્ટિંગ કરે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કોબોટ્સમાં ફોર્સ/ટોર્ક સેન્સર્સ અને પાવર-એન્ડ-ફોર્સ લિમિટિંગ ટેકનોલોજી હોય છે જેથી માણસના સંપર્કમાં આવતાં જ ઇજા વિના તરત અટકી જાય છે[cite: 7]."
+  },
+  {
+    "id": 91,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Fluid Mechanics & Pumping Trends",
+    "question": "By utilizing integrated smart pump condition monitoring, which major hydraulic failure risk can be significantly mitigated?",
+    "gujaratiQuestion": "091. સ્માર્ટ પંપના ઉપયોગથી સિસ્ટમમાં કયું જોખમ નોંધપાત્ર રીતે ઘટાડી શકાય છે?",
+    "options": [
+      "કેવિટેશન (Cavitation)",
+      "કાટ",
+      "શોર્ટ સર્કિટ",
+      "ઓવરહીટિંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્માર્ટ પંપમાં રહેલા વાઇબ્રેશન અને પ્રેશર સેન્સર્સ કેવિટેશનના પ્રારંભિક લક્ષણો પારખી સ્પીડ એડજસ્ટ કરી કેવિટેશન ડેમેજ રોકે છે[cite: 7]."
+  },
+  {
+    "id": 92,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Fluid Mechanics & Pumping Trends",
+    "question": "Which electronic power device is integrated into smart pumps to provide continuous dynamic speed control?",
+    "gujaratiQuestion": "092. સ્માર્ટ પંપમાં મોટરની સ્પીડ કંટ્રોલ કરવા માટે કયા ડિવાઈસનું ઈન્ટિગ્રેશન કરવામાં આવે છે?",
+    "options": [
+      "ફ્રીક્વન્સી કન્વર્ટર (Variable Frequency Drive - VFD)",
+      "ગિયરબોક્સ",
+      "ફ્લાયવ્હીલ",
+      "ક્લચ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "VFD (Variable Frequency Drive) મોટર સપ્લાય ફ્રિક્વન્સી બદલીને સિસ્ટમ હેડ અને ફ્લો ડિમાન્ડ મુજબ પંપ RPM કંટ્રોલ કરે છે[cite: 7]."
+  },
+  {
+    "id": 93,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Materials & Composites",
+    "question": "In Shape Memory Alloys, what do the critical transformation temperatures 'As' and 'Af' denote?",
+    "gujaratiQuestion": "093. SMA માં 'As' અને 'Af' તાપમાન શું દર્શાવે છે?",
+    "options": [
+      "એબ્સોલ્યુટ સ્ટાર્ટ તાપમાન",
+      "એલોય સોલિડ અને ફ્લુઇડ તાપમાન",
+      "ઓસ્ટેનાઈટ સ્ટાર્ટ અને ઓસ્ટેનાઈટ ફિનિશ તાપમાન",
+      "એવરેજ ફિનિશ તાપમાન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગરમ કરતી વખતે માર્ટેનસાઇટમાંથી ઓસ્ટેનાઇટમાં રૂપાંતર શરૂ થવાના તાપમાનને Austenite Start (As) અને પૂર્ણ થવાને Austenite Finish (Af) કહે છે[cite: 7]."
+  },
+  {
+    "id": 94,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Fluid Mechanics & Pumping Trends",
+    "question": "In modern hydrodynamic pump design, optimization of the impeller and volute casing is carried out to achieve efficient conversion of which energy?",
+    "gujaratiQuestion": "094. આધુનિક પંપની ડિઝાઈનમાં ઈમ્પેલર અને વોલ્યુટ કેસિંગનું ઓપ્ટિમાઇઝેશન કઈ ઊર્જાનું રૂપાંતરણ કાર્યક્ષમ રીતે કરવા માટે થાય છે?",
+    "options": [
+      "કાઇનેટિક ઊર્જાથી સ્ટેટિક પ્રેશર ઊર્જા (Kinetic to Static Pressure Energy)",
+      "થર્મલ ઊર્જાથી મિકેનિકલ ઊર્જા",
+      "ઈલેક્ટ્રિકલ ઊર્જાથી કેમિકલ ઊર્જા",
+      "પોટેન્શિયલ ઊર્જાથી કાઈનેટિક ઊર્જા"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વોલ્યુટ કેસિંગ અને ડિફ્યુઝર પ્રવાહીના ઊંચા ડિસ્ચાર્જ વેગ (કાઇનેટિક ઊર્જા) નું ન્યૂનતમ હાઇડ્રોલિક લોસ સાથે સ્ટેટિક પ્રેશરમાં રૂપાંતર કરે છે[cite: 7]."
+  },
+  {
+    "id": 95,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Metrology & Inspection",
+    "question": "Which metrology technology is best suited for 100% automated high-speed in-line dimensional inspection on production lines?",
+    "gujaratiQuestion": "095.100% ઈન-લાઈન ઈન્સ્પેક્શન માટે કઈ મેટ્રોલોજી સિસ્ટમ સૌથી વધુ યોગ્ય છે?",
+    "options": [
+      "ટેક્ટાઇલ CMM",
+      "મેન્યુઅલ વર્નિયર કેલિપર",
+      "મશીન વિઝન અને ઓપ્ટિકલ સિસ્ટમ્સ (Machine Vision / Optical Sensors)",
+      "માઈક્રોમીટર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મશીન વિઝન અને નોન-કોન્ટેક્ટ ઓપ્ટિકલ સ્કેનર્સ પાર્ટને સ્પર્શ કર્યા વિના મિલીસેકન્ડ્સમાં ડાયમેન્શનલ ઇન્સ્પેક્શન કરે છે[cite: 7]."
+  },
+  {
+    "id": 96,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Materials & Composites",
+    "question": "What is meant by the Two-Way Shape Memory Effect (TWSME) in smart materials?",
+    "gujaratiQuestion": "096. Two-Way Shape Memory Effect (TWME) નો અર્થ શું છે?",
+    "options": [
+      "મટિરિયલ ગરમ થતાં એક આકાર અને ઠંડુ થતાં બીજો આકાર યાદ રાખે છે.",
+      "મટિરિયલ માત્ર ગરમ થતાં આકાર બદલે છે",
+      "મટિરિયલ બે વાર તૂટી જાય છે",
+      "મટિરિયલ કાયમી ધોરણે પોતાનો આકાર ગુમાવે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "TWSME માં મટિરિયલ કોઈપણ બાહ્ય બળ વગર ગરમ થતાં હાઇ-ટેમ્પરેચર આકાર અને ઠંડુ પડતાં લો-ટેમ્પરેચર આકાર આપમેળે ધારણ કરે છે[cite: 7]."
+  },
+  {
+    "id": 97,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "What is the major geometric capability advantage of Additive Manufacturing over conventional Subtractive Manufacturing?",
+    "gujaratiQuestion": "097. એડિટિવ મેન્યુફેક્ચરિંગનો સબટ્રેક્ટિવ મેન્યુફેક્ચરિંગ કરતા મોટો ફાયદો શું છે?",
+    "options": [
+      "તે દરેક ધાતુને કાપી શકે છે",
+      "તેમાં કોઈ ટૂલ પાથની જરૂર નથી",
+      "તેમાં ખૂબ જ જટિલ આકારો અને લેટિસ સ્ટ્રક્ચર્સ ઓછા મટિરિયલ વેસ્ટેજ સાથે બનાવી શકાય છે",
+      "તેમાં 100% મટિરિયલ વેસ્ટેજ થાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "AM દ્વારા જટિલ આંતરિક ચેનલો, ઓપ્ટિમાઇઝ્ડ ટોપોલોજી અને લાઇટવેઇટ સેલ્યુલર લેટિસ સ્ટ્રક્ચર્સ નહિવત મટિરિયલ વેસ્ટેજ સાથે બને છે[cite: 7]."
+  },
+  {
+    "id": 98,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Fluid Mechanics & Pumping Trends",
+    "question": "In the CFD numerical simulation of turbomachinery, which governing equations are standardly solved for turbulent fluid flow?",
+    "gujaratiQuestion": "098. ટર્બોમશીનરીના CFD એનાલિસિસમાં ટર્બ્યુલન્ટ ફ્લો ઉકેલવા માટે સામાન્ય રીતે કયા સમીકરણોનો ઉપયોગ થાય છે?",
+    "options": [
+      "થર્મોડાયનેમિક્સનો શૂન્ય નિયમ",
+      "બર્નોલીના સમીકરણ",
+      "RANS (Reynolds-Averaged Navier-Stokes) સમીકરણો",
+      "ન્યુટનના ગતિના નિયમો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઔદ્યોગિક ટર્બોમશીનરી સિમ્યુલેશનમાં ટર્બ્યુલન્સ મોડેલિંગ (k-ε, k-ω SST) માટે RANS સમીકરણો મુખ્ય આધાર છે[cite: 7]."
+  },
+  {
+    "id": 99,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "IC Engine Advancements",
+    "question": "What is the approximate Quenching Distance of hydrogen gas, which allows it to pass through very narrow gaps and cause backfire?",
+    "gujaratiQuestion": "099. હાઈડ્રોજન ગેસ માટે Quenching distance કેટલું હોય છે, જેના કારણે તે સાંકડી જગ્યાઓમાં પણ સળગી શકે છે?",
+    "options": [
+      "ખૂબ નાનું (0.64 mm)",
+      "5 mm",
+      "ખૂબ મોટું (10 mm)",
+      "2 mm"
+    ],
+    "correctAnswer": 0,
+    "explanation": "હાઇડ્રોજનનું ક્વેન્ચિંગ ડિસ્ટન્સ માત્ર ~0.6 mm (હાઇડ્રોકાર્બન્સના ~2.0 mm કરતાં ઘણું ઓછું) હોવાથી તે આંશિક ખુલ્લા ઇન્ટેક વાલ્વમાંથી પણ ફ્લેમ બેકફાયર કરે છે[cite: 7]."
+  },
+  {
+    "id": 100,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Predictive Maintenance",
+    "question": "In industrial data analytics when historical fault data is scarce, what data is generated to train predictive machine learning models?",
+    "gujaratiQuestion": "0100. મેન્યુફેક્ચરિંગમાં ડેટા એનાલિટિક્સ અને મશીન લર્નિંગ મોડલને ટ્રેન કરવા માટે ક્યારેક વાસ્તવિક ફોલ્ટ ડેટા પૂરતો હોતો નથી, ત્યારે કયા ડેટાનો ઉપયોગ કરાય છે?",
+    "options": [
+      "ફેક ન્યૂઝ",
+      "સિમ્યુલેશન દ્વારા જનરેટ કરેલો સિન્થેટિક ડેટા (Synthetic data)",
+      "જૂના પુસ્તકોનો",
+      "માત્ર અવાજ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડિજિટલ ટ્વીન અને ફિઝિક્સ-આધારિત સિમ્યુલેશન મોડેલ્સ દ્વારા જનરેટ કરેલા સિન્થેટિક ફોલ્ટ ડેટા (Synthetic Data) વડે ML અલ્ગોરિધમ્સ ટ્રેઇન કરાય છે[cite: 7]."
+  },
+  {
+    "id": 101,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Metrology & Inspection",
+    "question": "What is the primary difference between a traditional tactile CMM and an optical 3D CMM?",
+    "gujaratiQuestion": "0101. ટ્રેડિશનલ CMM અને ઓપ્ટિકલ CMM વચ્ચેનો મુખ્ય તફાવત શું છે?",
+    "options": [
+      "ઓપ્ટિકલ CMM માત્ર વજન માપે છે.",
+      "બંને એક સમાન છે",
+      "ટ્રેડિશનલ CMM ઝડપી હોય છે",
+      "ટ્રેડિશનલ CMM માં ટેક્ટાઈલ પ્રોબ હોય છે, જ્યારે ઓપ્ટિકલ CMM માં લેસર અથવા કેમેરા વડે નોન-કોન્ટેક્ટ મેઝરમેન્ટ થાય છે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ટેક્ટાઇલ CMM ફિઝિકલ ટચ પ્રોબ વડે પોઇન્ટ-બાય-પોઇન્ટ માપે છે, જ્યારે ઓપ્ટિકલ CMM લેસર/લાઇટ દ્વારા બિન-સંપર્ક પદ્ધતિથી આખી સપાટી સ્કેન કરે છે[cite: 7]."
+  },
+  {
+    "id": 102,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Refrigeration & HVAC Trends",
+    "question": "Which of the following is an eco-friendly natural refrigerant?",
+    "gujaratiQuestion": "0102. નીચેનામાંથી કયું નેચરલ રેફ્રિજરેન્ટ છે?",
+    "options": [
+      "R12",
+      "R744 (CO2)",
+      "R22",
+      "R134a"
+    ],
+    "correctAnswer": 1,
+    "explanation": "R744 (કાર્બન ડાયોક્સાઇડ) કુદરતી રીતે મળતો નેચરલ રેફ્રિજરેન્ટ છે (ODP=0, GWP=1)[cite: 7]."
+  },
+  {
+    "id": 103,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "CIM & Smart Factory",
+    "question": "In the context of Smart Manufacturing and Industry 4.0, what does 'Decentralized Decision Making' mean?",
+    "gujaratiQuestion": "Q103. સ્માર્ટ ફેક્ટરીમાં 'Decentralized decision making' નો અર્થ શું થાય છે?",
+    "options": [
+      "દરેક નિર્ણય માત્ર બોસ જ લે છે",
+      "તમામ ડેટા ડીલીટ કરવા",
+      "નિર્ણય લેવાનું બંધ કરવું",
+      "સાયબર-ફિઝિકલ સિસ્ટમ્સ અને મશીનો સ્થાનિક ડેટાના આધારે સ્વાયત્ત રીતે રિયલ-ટાઈમ નિર્ણયો લઈ શકે છે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સેન્ટ્રલ કમાન્ડની રાહ જોયા વગર સ્માર્ટ મશીનો સ્થાનિક IIoT સેન્સર ડેટા અને એમ્બેડેડ AI આધારે પ્રોસેસિંગના સ્વાયત્ત નિર્ણયો લે છે[cite: 7]."
+  },
+  {
+    "id": 104,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Materials & Composites",
+    "question": "The application of high-strength, lightweight carbon fiber in aerospace structures and wind turbine blades represents advancements in:",
+    "gujaratiQuestion": "Q104. અતિશય હળવા અને મજબૂત એવા કાર્બન ફાઈબરનો એરોસ્પેસ અને વિન્ડ ટર્બાઇનમાં ઉપયોગ કયા ક્ષેત્રનું ઉદાહરણ છે?",
+    "options": [
+      "એડવાન્સ્ડ કમ્પોઝિટ મટિરિયલ્સ",
+      "ફ્લુઇડ મિકેનિક્સ",
+      "થર્મોડાયનેમિક્સ",
+      "મેટ્રોલોજી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કાર્બન ફાઇબર રિઇન્ફોર્સ્ડ કમ્પોઝિટ્સ (CFRP) એ હળવા વજન અને ઉચ્ચ વિશિષ્ટ તાકાત ધરાવતા એડવાન્સ્ડ કમ્પોઝિટ મટિરિયલ્સ છે[cite: 7]."
+  },
+  {
+    "id": 105,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Fluid Mechanics & Pumping Trends",
+    "question": "Which computer-aided engineering technology is standardly used to simulate internal fluid flow dynamics in modern pump and turbine design?",
+    "gujaratiQuestion": "0105. આધુનિક પંપ અને ટર્બાઈનની ડિઝાઈનમાં પ્રવાહીના પ્રવાહનું સિમ્યુલેશન કરવા માટે કઈ કમ્પ્યુટર ટેક્નોલોજીનો ઉપયોગ થાય છે?",
+    "options": [
+      "CAD",
+      "CMM",
+      "CAM",
+      "CFD (Computational Fluid Dynamics)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CFD સોફ્ટવેર નેવિયર-સ્ટોક્સ સમીકરણો ન્યુમેરિકલી ઉકેલીને બ્લેડ પેસેજમાં પ્રવાહ પેટર્ન, પ્રેશર ડ્રોપ અને લોસીસનું 3D સિમ્યુલેશન કરે છે[cite: 7]."
+  },
+  {
+    "id": 106,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Metrology & Inspection",
+    "question": "During 3D optical/laser scanning, the massive collection of spatial coordinate points captured from the object surface is called a:",
+    "gujaratiQuestion": "0106. 3D લેસર સ્કેનિંગ દરમિયાન ઓબ્જેક્ટની સપાટી પરથી હજારો ડેટા પોઈન્ટ્સ એકત્રિત થાય છે, આ ડેટા સમૂહને શું કહેવાય છે?",
+    "options": [
+      "વાયરફ્રેમ",
+      "પોઈન્ટ ક્લાઉડ (Point Cloud)",
+      "મેશ",
+      "સોલિડ મોડલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "લાખો (X, Y, Z) કોઓર્ડિનેટ્સ ધરાવતા કાચા સ્કેન ડેટા સમૂહને પોઇન્ટ ક્લાઉડ (Point Cloud) કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 107,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "In FDM (Fused Deposition Modeling) 3D printing, what raw material form is standardly fed through the heated extrusion nozzle?",
+    "gujaratiQuestion": "0107. એડિટિવ મેન્યુફેક્ચરિંગમાં FDM માં કયા પ્રકારના મટિરિયલનો ઉપયોગ થાય છે?",
+    "options": [
+      "લિક્વિડ રેઝીન",
+      "લાકડાનો ભૂકો",
+      "માત્ર મેટલ પાવડર",
+      "થર્મોપ્લાસ્ટિક ફિલામેન્ટ (Thermoplastic Filament)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "FDM પદ્ધતિમાં PLA, ABS, અથવા PETG જેવો સોલિડ થર્મોપ્લાસ્ટિક ફિલામેન્ટ નોઝલમાં પીગળીને સ્તર સ્વરૂપે જમા થાય છે[cite: 7]."
+  },
+  {
+    "id": 108,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Predictive Maintenance",
+    "question": "What is the primary role of a Digital Twin in an advanced predictive maintenance system?",
+    "gujaratiQuestion": "0108. ડિજિટલ ટ્વીનનો પ્રિડિક્ટિવ મેન્ટેનન્સમાં શું રોલ છે?",
+    "options": [
+      "તે પાર્ટસને ઓઇલિંગ કરે છે",
+      "તે મશીનને બંધ કરી દે છે",
+      "તે ફિઝિકલ મશીનનું સિમ્યુલેશન કરીને ભવિષ્યમાં ક્યારે ફોલ્ટ આવશે તેનું સચોટ અનુમાન લગાવે છે",
+      "તે માત્ર ડેટા ડીલીટ કરે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડિજિટલ ટ્વીન જીવંત સેન્સર ડેટા સાથે વર્ચ્યુઅલ ફિઝિક્સ મોડેલ ચલાવીને મશીનનો ઘસારો, સ્ટ્રેસ અને સંભવિત ફેલ્યોર સમયનું પૂર્વાનુમાન કરે છે[cite: 7]."
+  },
+  {
+    "id": 109,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Metrology & Inspection",
+    "question": "What is the international standard reference temperature (ISO 1) maintained for precision CMM and dimensional metrology measurements?",
+    "gujaratiQuestion": "0109. CMM અને ઓપ્ટિકલ મેઝરમેન્ટ માટે સ્ટાન્ડર્ડ રેફરન્સ તાપમાન કેટલું રાખવામાં આવે છે?",
+    "options": [
+      "0°C",
+      "50°C",
+      "20°C (68°F)",
+      "100°C"
+    ],
+    "correctAnswer": 2,
+    "explanation": "થર્મલ વિસ્તરણની ભૂલો ટાળવા ISO 1 સ્ટાન્ડર્ડ મુજબ પરિમાણીય મેટ્રોલોજી માટે પ્રમાણભૂત તાપમાન 20°C (293.15 K) નક્કી થયેલ છે[cite: 7]."
+  },
+  {
+    "id": 110,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Industrial Optimization",
+    "question": "In Operations Research (OR), which metaheuristic algorithms are widely used for solving complex NP-hard job-shop scheduling problems?",
+    "gujaratiQuestion": "0110. ઓપરેશન્સ રિસર્ચ (OR) માં મોર્ડન શેડ્યુલિંગ પ્રોબ્લેમ્સ ઉકેલવા કયા મેટાહ્યુરિસ્ટિક અલ્ગોરિધમ્સનો વ્યાપક ઉપયોગ ટ્રેન્ડમાં છે?",
+    "options": [
+      "ગ્રાફિકલ મેથડ",
+      "જિનેટિક અલ્ગોરિધમ (GA) અને પાર્ટીકલ સ્વોર્મ ઓપ્ટિમાઇઝેશન (PSO)",
+      "માત્ર સિમ્પ્લેક્સ મેથડ",
+      "નોર્થ-વેસ્ટ કોર્નર મેથડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જટિલ ઔદ્યોગિક શેડ્યુલિંગ માટે જિનેટિક અલ્ગોરિધમ્સ (GA) અને પાર્ટીકલ સ્વોર્મ ઓપ્ટિમાઇઝેશન (PSO) વૈશ્વિક શ્રેષ્ઠ ઉકેલ આપે છે[cite: 7]."
+  },
+  {
+    "id": 111,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Thermodynamics & Power Updates",
+    "question": "The supercritical CO2 (sCO2) power cycle fundamentally operates as an advanced, highly compact version of which thermodynamic cycle?",
+    "gujaratiQuestion": "Q111. sCO2 પાવર સાયકલ મુખ્યત્વે કયા થર્મોડાયનેમિક સાયકલના એડવાન્સ્ડ વર્ઝન તરીકે કાર્ય કરે છે?",
+    "options": [
+      "એરિક્સન સાયકલ",
+      "ક્લોઝ્ડ બ્રેટન સાયકલ (Closed-loop Brayton Cycle)",
+      "સ્ટર્લિંગ સાયકલ",
+      "ઓટો સાયકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "sCO2 સાયકલ એ ક્લોઝ્ડ-લૂપ રીક્યુપરેટેડ બ્રેટન સાયકલ (Closed Brayton Cycle) છે જે ક્રિટિકલ પોઇન્ટ નજીક કમ્પ્રેશન વર્ક ઘટાડે છે[cite: 7]."
+  },
+  {
+    "id": 112,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "In 3D printing technologies, what temporary structures are generated to support overhangs and steep angles exceeding 45 degrees?",
+    "gujaratiQuestion": "Q112. 3D પ્રિન્ટિંગમાં ઓવરહેંગિંગ ભાગોને ટેકો આપવા માટે શું બનાવવામાં આવે છે?",
+    "options": [
+      "નવો બેઝ",
+      "હોલ્સ",
+      "સપોર્ટ સ્ટ્રક્ચર્સ (Support Structures)",
+      "વધારાની નોઝલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગુરુત્વાકર્ષણ હેઠળ પીગળેલી સામગ્રી લટકી ન પડે તે માટે સ્લાઇસર સોફ્ટવેર દ્વારા હંગામી સપોર્ટ સ્ટ્રક્ચર્સ (Supports) ઉમેરાય છે[cite: 7]."
+  },
+  {
+    "id": 113,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "Which post-processing operation is standardly performed on metal 3D printed parts to relieve residual thermal stresses before removal from build plate?",
+    "gujaratiQuestion": "0113. મેટલ 3D પ્રિન્ટિંગમાં તૈયાર થયેલા પાર્ટમાં થર્મલ સ્ટ્રેસ દૂર કરવા માટે સામાન્ય રીતે કઈ પ્રક્રિયા કરવામાં આવે છે?",
+    "options": [
+      "ડ્રિલિંગ",
+      "પેઇન્ટિંગ",
+      "હીટ ટ્રીટમેન્ટ (Stress relief annealing)",
+      "પાણીથી ધોવા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લેસર મેલ્ટિંગના ઊંચા થર્મલ ગ્રેડિયન્ટથી પેદા થતા રેસિડ્યુઅલ સ્ટ્રેસ અને વાર્પિંગ અટકાવવા ફર્નેસમાં સ્ટ્રેસ રિલીફ હીટ ટ્રીટમેન્ટ કરાય છે[cite: 7]."
+  },
+  {
+    "id": 114,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Metrology & Inspection",
+    "question": "What is the primary advantage of non-contact 3D optical metrology over traditional contact touch-probe measurement?",
+    "gujaratiQuestion": "0114. નોન-કોન્ટેક્ટ મેટ્રોલોજીનો મોટો ફાયદો કયો છે?",
+    "options": [
+      "તે પાર્ટને સ્પર્શ કરતું ન હોવાથી નરમ કે નાજુક પાર્ટ્સને નુકસાન થતું નથી અને ઇન્સ્પેક્શન ઝડપી બને છે",
+      "તેમાં પાર્ટ પર દબાણ આવે છે",
+      "તે માત્ર મેટલ માટે જ વપરાય છે",
+      "તે ખૂબ ધીમું છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "નોન-કોન્ટેક્ટ ઓપ્ટિકલ સિસ્ટમ્સ કોઈ ભૌતિક સ્પર્શ વિના રબર, પ્લાસ્ટિક કે નાજુક ભાગોનું કોઈપણ ડિફોર્મેશન વગર અતિ ઝડપી 3D ઇન્સ્પેક્શન કરે છે[cite: 7]."
+  },
+  {
+    "id": 115,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "Which metal additive manufacturing technology is standardly deployed for high-value component repair (such as aerospace gas turbine blades)?",
+    "gujaratiQuestion": "0115. કયા પ્રકારના મેટલ એડિટિવ મેન્યુફેક્ચરિંગનો ઉપયોગ એરોસ્પેસ ટર્બાઈન બ્લેડ્સના રિપેરિંગ માટે વિશેષ થાય છે?",
+    "options": [
+      "DED (Directed Energy Deposition)",
+      "FDM",
+      "L-PBF",
+      "SLA"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DED પદ્ધતિ મલ્ટી-એક્સિસ રોબોટિક આર્મ વડે ઘસાયેલા ટર્બાઇન બ્લેડ પર સીધું નવું મેટલ ક્લેડિંગ કરી મૂળ પરિમાણમાં રિપેર કરે છે[cite: 7]."
+  },
+  {
+    "id": 116,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "Friction Stir Welding (FSW) is widely deployed in aerospace and railway industries primarily for joining which alloys?",
+    "gujaratiQuestion": "FSW પ્રક્રિયા aerospace અને railwayમાં મુખ્યત્વે કયા alloysના joining માટે પ્રચલિત છે?",
+    "options": [
+      "માત્ર કાસ્ટ આયર્ન",
+      "લાકડું",
+      "ટંગસ્ટન",
+      "એલ્યુમિનિયમ એલોય (2xxx, 7xxx series)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ફ્યુઝન વેલ્ડિંગમાં ક્રેક થતા હાઇ-સ્ટ્રેન્થ એલ્યુમિનિયમ એલોય્સ (દા.ત. Al 2024, Al 7075) નું સક્ષમ સોલિડ-સ્ટેટ જોઈનિંગ FSW દ્વારા થાય છે[cite: 7]."
+  },
+  {
+    "id": 117,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "CIM & Smart Factory",
+    "question": "What is the primary operational application of RFID tags and readers within a Smart Factory?",
+    "gujaratiQuestion": "Q117. સ્માર્ટ ફેક્ટરીઓમાં RFID ટેગ્સનો મુખ્ય ઉપયોગ શું છે?",
+    "options": [
+      "થર્મલ ઈમેજિંગ કરવા",
+      "મશીનને પાવર આપવા",
+      "વર્ક-ઈન-પ્રોગ્રેસ પાર્ટ્સ, ટૂલ્સ અને ઇન્વેન્ટરીનું ઓટોમેટિક રિયલ-ટાઈમ ટ્રેકિંગ કરવા",
+      "લેસર કટીંગ કરવા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "RFID ટેક્નોલોજી શોપ-ફ્લોર પર વર્કપીસ, પેલેટ્સ અને કટીંગ ટૂલ્સનું માનવ હસ્તક્ષેપ વિના સ્વચાલિત ડિજિટલ ટ્રેકિંગ કરે છે[cite: 7]."
+  },
+  {
+    "id": 118,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "IC Engine Advancements",
+    "question": "Why must the spark ignition timing in a Hydrogen IC engine be calibrated and mapped with extreme precision?",
+    "gujaratiQuestion": "Q118. હાઈડ્રોજન આઈસી એન્જિનમાં સ્પાર્ક પ્લગ દ્વારા અપાતી ઈગ્નિશન ટાઈમિંગ શા માટે ખૂબ ચોકસાઈપૂર્વક સેટ કરવી પડે છે?",
+    "options": [
+      "એન્જિનને ઠંડુ રાખવા માટે",
+      "હાઈડ્રોજનની ફ્લેમ સ્પીડ ખૂબ જ વધુ હોવાથી, નોકિંગ અટકાવવા અને યોગ્ય કાર્યક્ષમતા મેળવવા માટે",
+      "ડીઝલ બચાવવા માટે",
+      "અવાજ વધારવા માટે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હાઇડ્રોજનની લેમિનાર ફ્લેમ સ્પીડ પેટ્રોલ કરતાં 5 થી 10 ગણી વધુ હોવાથી પ્રેશર રાઇઝ ઝડપી બને છે; ડિટોનેશન અટકાવવા ચોક્કસ ટાઇમિંગ અનિવાર્ય છે[cite: 7]."
+  },
+  {
+    "id": 119,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Refrigeration & HVAC Trends",
+    "question": "In the ASHRAE Standard 34 safety classification of refrigerants, what does the 'A2L' safety group signify?",
+    "gujaratiQuestion": "0119. રેફ્રિજરેન્ટ્સના સેફ્ટી ક્લાસિફિકેશનમાં 'A2L' વર્ગ શું દર્શાવે છે?",
+    "options": [
+      "અતિ ઝેરી",
+      "બિન-ઝેરી અને બિન-જ્વલનશીલ",
+      "ઉચ્ચ ઝેરી અને ઉચ્ચ જ્વલનશીલ",
+      "બિન-ઝેરી અને હળવા જ્વલનશીલ (Lower Toxicity & Mildly Flammable)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A2L વર્ગ લોઅર ટોક્સિસિટી ('A') અને નીચી જ્વાળા પ્રસરણ ગતિ ધરાવતા હળવા જ્વલનશીલ ('2L' Mildly flammable) રેફ્રિજરેન્ટ્સ (દા.ત. R32, R1234yf) દર્શાવે છે[cite: 7]."
+  },
+  {
+    "id": 120,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "IC Engine Advancements",
+    "question": "What is the primary chemical fuel utilized in a Hydrogen Internal Combustion Engine Vehicle (HICEV)?",
+    "gujaratiQuestion": "Q120. HICEV (Hydrogen Internal Combustion Engine Vehicle) માં મુખ્યત્વે કયા બળતણનો ઉપયોગ થાય છે?",
+    "options": [
+      "બાયોગેસ",
+      "ડીઝલ",
+      "કોલસો",
+      "હાઇડ્રોજન (H2 Gas)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HICEV વાહનોમાં પરંપરાગત આંતરિક દહન એન્જિનમાં ફ્યુઅલ તરીકે સીધા સંકુચિત હાઇડ્રોજન ગેસ (H2) નું દહન કરવામાં આવે છે[cite: 7]."
+  },
+  {
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Predictive Maintenance",
+    "question": "Predictive maintenance mainly uses condition data to:",
+    "gujaratiQuestion": "Predictive maintenance condition dataનો ઉપયોગ શા માટે કરે છે?",
+    "options": [
+      "Predict failures before breakdown",
+      "Guarantee zero maintenance",
+      "Increase random shutdowns",
+      "Remove sensors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: Condition monitoring and analytics help predict failure and schedule maintenance.",
+    "id": 121
+  },
+  {
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "CIM & Smart Factory",
+    "question": "A smart factory typically relies on:",
+    "gujaratiQuestion": "Smart factory સામાન્ય રીતે શા પર આધારિત હોય છે?",
+    "options": [
+      "Connected sensors, data and automation",
+      "Only manual records",
+      "No networking",
+      "Only mechanical gauges"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: Smart factories integrate IIoT, data, connectivity and automation.",
+    "id": 122
+  },
+  {
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Advanced Manufacturing",
+    "question": "Additive manufacturing builds parts primarily by:",
+    "gujaratiQuestion": "Additive manufacturingમાં part મુખ્યત્વે કેવી રીતે બને છે?",
+    "options": [
+      "Removing all material from a block",
+      "Adding material layer by layer",
+      "Forging only",
+      "Casting only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Additive manufacturing deposits or solidifies material layer by layer.",
+    "id": 123
+  },
+  {
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Sustainable Engineering",
+    "question": "Energy efficiency improvement generally aims to:",
+    "gujaratiQuestion": "Energy efficiency improvementનો મુખ્ય હેતુ શું છે?",
+    "options": [
+      "Increase useful output per unit energy input",
+      "Increase waste heat",
+      "Increase losses",
+      "Reduce useful work"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: Higher efficiency means more useful output for the same energy input.",
+    "id": 124
+  },
+  {
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Fluid Mechanics & Pumping Trends",
+    "question": "Variable-frequency drives on pumps are used mainly to:",
+    "gujaratiQuestion": "Pumpમાં variable-frequency drive મુખ્યત્વે શા માટે વપરાય છે?",
+    "options": [
+      "Control speed and match flow demand",
+      "Increase pipe roughness",
+      "Remove the impeller",
+      "Make flow independent of speed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: VFDs vary motor/pump speed to match demand and save energy.",
+    "id": 125
+  },
+  {
+    "id": 126,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Exam-Useful Emerging Concepts",
+    "question": "Industry 4.0 is strongly associated with:",
+    "gujaratiQuestion": "Industry 4.0 is strongly associated with:",
+    "options": [
+      "connected cyber-physical systems and industrial data",
+      "manual-only production",
+      "elimination of sensors",
+      "paper-only control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Industry 4.0 integrates connectivity, automation, data and cyber-physical systems."
+  },
+  {
+    "id": 127,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Exam-Useful Emerging Concepts",
+    "question": "Predictive maintenance commonly uses:",
+    "gujaratiQuestion": "Predictive maintenance commonly uses:",
+    "options": [
+      "condition data and analytics to predict failure",
+      "only fixed calendar intervals",
+      "no sensors",
+      "manual lubrication only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sensors and analytics identify degradation trends before functional failure."
+  },
+  {
+    "id": 128,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Plant Maintenance & Industrial Safety",
+    "question": "Preventive maintenance is performed mainly to:",
+    "gujaratiQuestion": "Preventive maintenance is performed mainly to:",
+    "options": [
+      "reduce probability of failure through planned actions",
+      "wait for breakdown",
+      "increase unplanned downtime",
+      "remove all inspections"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Preventive maintenance uses scheduled inspections, servicing or replacement to reduce failures."
+  },
+  {
+    "id": 129,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Plant Maintenance & Industrial Safety",
+    "question": "PPE stands for:",
+    "gujaratiQuestion": "PPE stands for:",
+    "options": [
+      "Personal Protective Equipment",
+      "Process Pressure Estimator",
+      "Plant Power Efficiency",
+      "Preventive Production Engineering"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PPE protects workers from identified workplace hazards."
+  },
+  {
+    "id": 130,
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Plant Maintenance & Industrial Safety",
+    "question": "A key first step in industrial risk control is:",
+    "gujaratiQuestion": "A key first step in industrial risk control is:",
+    "options": [
+      "hazard identification and risk assessment",
+      "ignoring near misses",
+      "removing warning signs",
+      "bypassing procedures"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hazards must be identified and risks assessed before selecting appropriate controls."
+  }
+]

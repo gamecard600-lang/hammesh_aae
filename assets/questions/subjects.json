@@ -1,0 +1,265 @@
+[
+  {
+    "id": 1,
+    "name": "Thermodynamics",
+    "category": "Technical",
+    "subTopics": [
+      "Thermodynamic Systems & Control Volume",
+      "Zeroth Law & Temperature",
+      "First Law - Energy & Enthalpy",
+      "Kelvin-Planck & Clausius Statements",
+      "Entropy & Clausius Inequality",
+      "Properties, Process & State",
+      "Pure Substances & Ideal/Real Gases",
+      "Second Law - Heat Engines & COP",
+      "Carnot Cycle & Reversibility",
+      "Rankine, Brayton & Vapor Compression Cycles"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Fluid Mechanics",
+    "category": "Technical",
+    "subTopics": [
+      "Definition of Fluid, Newton's Law of Viscosity",
+      "Mass Density, Specific Volume & Specific Gravity",
+      "Manometry, Buoyancy & Stability of Floating Bodies",
+      "Fluid Acceleration, Continuity & Momentum Equations",
+      "Euler's Equation & Rotodynamic Machines",
+      "Flow Through Pipes & Head Losses",
+      "Units, Dimensions & Fluid Properties",
+      "Compressibility, Surface Tension & Fluid Statics",
+      "Control-Volume Analysis of Mass, Momentum & Energy",
+      "Bernoulli's Equation & Dimensional Analysis",
+      "Viscous Flow, Boundary Layer & Turbulent Flow",
+      "Water Turbines, Heads, Efficiencies & Velocity Triangles",
+      "Pelton Wheel, Francis Turbine & Kaplan Turbine"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Power Engineering",
+    "category": "Technical",
+    "subTopics": [
+      "Air Compressors",
+      "Vapor Power Cycles",
+      "Regeneration",
+      "Compressor Classification",
+      "Gas Compressors",
+      "Gas Power Cycles",
+      "Reheat",
+      "Thermal Efficiency Concepts"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "I.C. Engines",
+    "category": "Technical",
+    "subTopics": [
+      "Combustion in SI & CI Engines",
+      "Abnormal Combustion (Knocking & Detonation)",
+      "Carburettor, Port Fuel Injection & Direct Injection",
+      "Ignition, Lubrication & Cooling Systems",
+      "Engine Emissions & Emission Control",
+      "Advanced IC Engine Concepts",
+      "Excavators, Dumpers, Draggers, Cranes & Drilling Rigs (D.R. & D.T.H.)",
+      "Combustion Stages & Combustion Chambers",
+      "Fuel Supply Systems in SI & CI Engines",
+      "Common Rail Direct Injection (CRDI)",
+      "Testing & Performance of IC Engines",
+      "Air-Standard Otto, Diesel & Dual Cycles",
+      "Heavy Earth Movers & Construction Equipment"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Refrigeration & Air Conditioning",
+    "category": "Technical",
+    "subTopics": [
+      "Vapor Refrigeration Cycles",
+      "Heat Pump Cycles",
+      "Psychrometric Chart",
+      "Refrigeration Effect & COP",
+      "Gas Refrigeration Cycles",
+      "Properties of Moist Air",
+      "Basic Psychrometric Processes",
+      "Air Conditioning Fundamentals"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Engineering Mechanics",
+    "category": "Technical",
+    "subTopics": [
+      "Free-Body Diagrams & Equilibrium",
+      "Virtual Work",
+      "Dynamics of Particles",
+      "Impulse & Linear/Angular Momentum",
+      "Trusses & Frames",
+      "Kinematics of Particles",
+      "Plane Motion of Rigid Bodies",
+      "Energy Formulations & Collisions"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Mechanics of Materials",
+    "category": "Technical",
+    "subTopics": [
+      "Stress & Strain",
+      "Mohr's Circle for Plane Stress",
+      "Thin Cylinders",
+      "Bending & Shear Stresses",
+      "Torsion of Circular Shafts",
+      "Energy Methods",
+      "Elastic Constants & Poisson's Ratio",
+      "Mohr's Circle for Plane Strain",
+      "Shear Force & Bending Moment Diagrams",
+      "Deflection of Beams",
+      "Euler's Theory of Columns",
+      "UTM, Hardness & Impact Testing"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Kinematics & Theory of Machines",
+    "category": "Technical",
+    "subTopics": [
+      "Classification of Mechanisms",
+      "Degree of Freedom & Mobility",
+      "Universal Joint & Rocker Mechanisms",
+      "Dynamic Analysis of Linkages",
+      "Gears & Gear Trains",
+      "Balancing of Reciprocating & Rotating Masses",
+      "Basic Kinematic Concepts & Definitions",
+      "Grashof's Law",
+      "Displacement, Velocity & Acceleration Analysis",
+      "Cams",
+      "Flywheels & Governors",
+      "Gyroscope",
+      "Design of Machine Elements"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Engineering Materials",
+    "category": "Technical",
+    "subTopics": [
+      "Structure & Properties of Engineering Materials",
+      "Metallurgical Heat Treatment & Transformations",
+      "Young's Modulus & Generalized Hooke's Law",
+      "Hardness Testing (Rockwell, Brinell & Vickers)",
+      "Static Failure Theories",
+      "Maximum Normal Stress, Mohr-Coulomb & Modified Mohr-Coulomb Theories",
+      "Introduction to Non-Destructive Testing (NDT)",
+      "Phase Diagrams & Phase Transformations",
+      "Stress-Strain Behaviour of Engineering Materials",
+      "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+      "Relationship Between Hardness & Material Strength",
+      "Ductile & Brittle Failure Mechanisms",
+      "Fracture Mechanics"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Manufacturing Processes",
+    "category": "Technical",
+    "subTopics": [
+      "Metal Casting Processes",
+      "Solidification, Cooling, Riser & Gating Systems",
+      "Forging, Rolling, Extrusion & Drawing",
+      "Powder Metallurgy",
+      "Industrial Heat Treatment & Surface Hardening",
+      "Non-Ferrous Materials & Super Alloys",
+      "Electrical, Electrochemical & Thermal Machining",
+      "Pattern, Mould & Core Design",
+      "Hot & Cold Metal Working Processes",
+      "Sheet Metal Forming Processes",
+      "Welding, Brazing, Soldering & Adhesive Bonding",
+      "Ferrous Materials & Steel Alloys",
+      "Unconventional Machining Processes",
+      "Machine Tools & Metal Cutting Operations",
+      "Industrial Pumps & Pumping Fundamentals",
+      "Spillways & Spillway Crest Gates"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Metrology & Inspection",
+    "category": "Technical",
+    "subTopics": [
+      "Limits, Fits & Tolerances",
+      "Comparators",
+      "Interferometry",
+      "Alignment & Testing Methods",
+      "Surface Finish Concepts",
+      "Inspection Practices",
+      "Linear & Angular Measurements",
+      "Gauge Design",
+      "Form & Finish Measurement",
+      "Tolerance Analysis in Assembly",
+      "Measurement Standards",
+      "Accuracy & Precision",
+      "Quality Control & Statistical Quality Control"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Computer Integrated Manufacturing",
+    "category": "Technical",
+    "subTopics": [
+      "Basic CAD/CAM Concepts",
+      "NC Technology",
+      "Part Programming",
+      "Flexible Manufacturing Concepts",
+      "Automation in Manufacturing",
+      "Digital Manufacturing Basics",
+      "CAD/CAM Integration Tools",
+      "CNC Technology",
+      "Machine Tool Automation",
+      "Computer-Based Production Control",
+      "Production Planning Support",
+      "Industrial Integration"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Operations Research",
+    "category": "Technical",
+    "subTopics": [
+      "Linear Programming",
+      "Transportation Model",
+      "Network Flow Models",
+      "PERT",
+      "Optimization Concepts",
+      "Resource Allocation",
+      "Simplex Method",
+      "Assignment Model",
+      "Queuing Models",
+      "CPM",
+      "Decision-Making Tools",
+      "Project Planning",
+      "Industrial Engineering & Production Planning (PPC)"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Current Trends & Recent Advancements",
+    "category": "Technical",
+    "subTopics": [
+      "Thermodynamics & Power Updates",
+      "IC Engine Advancements",
+      "Materials & Composites",
+      "Metrology & Inspection",
+      "Industrial Optimization",
+      "Sustainable Engineering",
+      "Fluid Mechanics & Pumping Trends",
+      "Refrigeration & HVAC Trends",
+      "Advanced Manufacturing",
+      "CIM & Smart Factory",
+      "Predictive Maintenance",
+      "Exam-Useful Emerging Concepts",
+      "Plant Maintenance & Industrial Safety"
+    ]
+  }
+]

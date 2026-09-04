@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 1,
+    "subject": "Operations Research",
+    "subTopic": "Optimization Concepts",
+    "question": "What is the main objective of Operations Research (OR)?",
+    "gujaratiQuestion": "Q1. Operations Research (OR) નો મુખ્ય ઉદ્દેશ્ય શું છે?",
+    "options": [
+      "માત્ર નફો વધારવો",
+      "માત્ર ખર્ચ ઘટાડવો",
+      "મર્યાદિત સંસાધનોનો ઈષ્ટતમ ઉપયોગ કરવો",
+      "મશીનોની સંખ્યા વધારવી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઓપરેશન્સ રિસર્ચનો મુખ્ય હેતુ ઉપલબ્ધ મર્યાદિત સંસાધનોનો શ્રેષ્ઠ (ઈષ્ટતમ) ઉપયોગ કરીને નિર્ણય લેવાનો છે[cite: 7]."
+  },
+  {
+    "id": 2,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "In a Linear Programming Problem (LPP), what must the Objective function be?",
+    "gujaratiQuestion": "Q2. Linear Programming Problem (LPP) માં Objective function કેવું હોવું જોઈએ?",
+    "options": [
+      "ક્વોડ્રેટિક",
+      "લીનિયર",
+      "એક્સપોનેન્શિયલ",
+      "નોન-લીનિયર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "LPP માં હેતુલક્ષી વિધેય (Objective function) અને તમામ મર્યાદાઓ એકઘાતી (લીનિયર) હોવા જરૂરી છે[cite: 7]."
+  },
+  {
+    "id": 3,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "In LPP, what should be the value of Decision variables?",
+    "gujaratiQuestion": "Q3. LPP માં Decision variables નું મૂલ્ય કેવું હોવું જોઈએ?",
+    "options": [
+      "હંમેશા ઋણ",
+      "હંમેશા અપૂર્ણાંક",
+      "શૂન્ય અથવા ધન",
+      "ગમે તે હોઈ શકે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "નોન-નેગેટિવિટી શરત અનુસાર તમામ ડિસિઝન વેરિયેબલ્સ શૂન્ય અથવા ધન (>= 0) હોવા જોઈએ[cite: 7]."
+  },
+  {
+    "id": 4,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "What is the first step in formulating a Linear Programming Problem (LPP)?",
+    "gujaratiQuestion": "04. લિનિયર પ્રોગ્રામિંગ પ્રોબ્લેમ (LPP) ને ફોર્મ્યુલેટ કરવાનું પ્રથમ પગથિયું કયું છે?",
+    "options": [
+      "ડિસિઝન વેરીએબલ્સ ઓળખવા",
+      "ઓબ્જેક્ટિવ ફંક્શન વ્યાખ્યાયિત કરવું",
+      "કન્સ્ટ્રેઈન્ટ્સ (constraints) નક્કી કરવા",
+      "ફિઝિબલ રીજિયન સ્પષ્ટ કરવો"
+    ],
+    "correctAnswer": 0,
+    "explanation": "LPP ફોર્મ્યુલેશનમાં સૌથી પ્રથમ પગલું અજ્ઞાત ચલો એટલે કે ડિસિઝન વેરિયેબલ્સને ઓળખવાનું છે[cite: 7]."
+  },
+  {
+    "id": 5,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "In LPP, when a constraint does not cause any change in the feasible region, what is that constraint called?",
+    "gujaratiQuestion": "Q5. LPP માં જ્યારે કોઈ એક constraint (મર્યાદા) ને કારણે feasible region માં કોઈ ફેરફાર થતો ન હોય, તો તે constraint ને શું કહેવાય છે?",
+    "options": [
+      "બેઝિક કન્સ્ટ્રેઇન્ટ",
+      "રિડન્ડન્ટ કન્સ્ટ્રેઇન્ટ",
+      "ઓબ્જેક્ટિવ કન્સ્ટ્રેઇન્ટ",
+      "અનબાઉન્ડેડ કન્સ્ટ્રેઇન્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જે મર્યાદા ફિઝિબલ વિસ્તાર પર કોઈ અસર ન કરતી હોય તેને બિનજરૂરી અથવા રિડન્ડન્ટ કન્સ્ટ્રેઇન્ટ (Redundant constraint) કહે છે[cite: 7]."
+  },
+  {
+    "id": 6,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "How many maximum decision variables can be solved using the graphical method in LPP?",
+    "gujaratiQuestion": "06. ગ્રાફિકલ મેથડનો ઉપયોગ કરીને LPP નો ઉકેલ મેળવવા મહત્તમ કેટલા decision variables હોવા જોઈએ?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "ગમે તેટલા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આલેખ પદ્ધતિ માત્ર 2-પરિમાણીય હોવાથી મહત્તમ 2 ડિસિઝન વેરિયેબલ્સ માટે જ વાપરી શકાય છે[cite: 7]."
+  },
+  {
+    "id": 7,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "What is the main purpose of the graphical method in linear programming?",
+    "gujaratiQuestion": "07. લિનિયર પ્રોગ્રામિંગમાં ગ્રાફિકલ મેથડનો મુખ્ય હેતુ શું છે?",
+    "options": [
+      "બે-વેરીએબલ પ્રોબ્લેમ્સ માટે ઓપ્ટિમમ (optimum) શોધવો",
+      "બે કરતા વધુ વેરીએબલવાળા પ્રોબ્લેમ્સ સોલ્વ કરવા",
+      "ઓબ્જેક્ટિવ ફંક્શનની ગણતરી કરવી",
+      "કન્સ્ટ્રેઇન્ટ્સ ફોર્મ્યુલેટ કરવા"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ગ્રાફિકલ મેથડનો ઉપયોગ બે વેરિયેબલવાળા પ્રશ્નો માટે શ્રેષ્ઠતમ ઉકેલ (Optimum solution) શોધવા થાય છે[cite: 7]."
+  },
+  {
+    "id": 8,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "What is the region satisfying all constraints in LPP called?",
+    "gujaratiQuestion": "08. LPP માં બધા જ constraints નું પાલન કરતા પ્રદેશને શું કહેવામાં આવે છે?",
+    "options": [
+      "ઓપ્ટિમલ રીજિયન",
+      "પ્રોફિટ રીજિયન",
+      "ફિઝિબલ રીજિયન",
+      "આર્ટિફિશિયલ રીજિયન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "તમામ મર્યાદાઓ અને અસમતાઓને સંતોષતા સામાન્ય પ્રદેશને ફિઝિબલ રીજિયન (Feasible region) કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 9,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "If the feasible region of an LPP is not closed on all sides, what is such a solution called?",
+    "gujaratiQuestion": "Q9. જો LPP નો Feasible region બધી બાજુથી બંધ ન હોય, તો તેવા ઉકેલને શું કહેવાય?",
+    "options": [
+      "ઈનફિઝિબલ સોલ્યુશન",
+      "અનબાઉન્ડેડ સોલ્યુશન",
+      "યુનિક સોલ્યુશન",
+      "ડીજનરેટ સોલ્યુશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યારે ફિઝિબલ વિસ્તાર ખુલ્લો હોય અને મહત્તમ મૂલ્ય અનંત તરફ જતું હોય ત્યારે અનબાઉન્ડેડ સોલ્યુશન મળે છે[cite: 7]."
+  },
+  {
+    "id": 10,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "In Simplex method, what does a pivot operation do?",
+    "gujaratiQuestion": "010. સિમ્પ્લેક્સ મેથડમાં, પિવોટ (pivot) ઓપરેશન શું કરે છે?",
+    "options": [
+      "બેઝિસ (basis) માં વેરીએબલને રિપ્લેસ કરે છે",
+      "ઓબ્જેક્ટિવ ફંક્શન બદલે છે",
+      "કન્સ્ટ્રેઇન્ટ્સ દૂર કરે છે",
+      "ઈન-ફિઝિબિલિટી (infeasibility) પેદા કરે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પિવોટિંગ ઓપરેશન ઇનકમિંગ વેરિયેબલને બેઝિસમાં દાખલ કરીને આઉટગોઇંગ વેરિયેબલને બદલે છે[cite: 7]."
+  },
+  {
+    "id": 11,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "In LPP, when the objective function line is parallel to a boundary of the feasible region, what kind of solution is obtained?",
+    "gujaratiQuestion": "Q11. LPP માં જ્યારે Objective function ની રેખા Feasible region ની કોઈ એક બાજુને સમાંતર હોય, ત્યારે કેવો ઉકેલ મળે?",
+    "options": [
+      "નો સોલ્યુશન",
+      "અનબાઉન્ડેડ સોલ્યુશન",
+      "મલ્ટિપલ ઓપ્ટિમલ સોલ્યુશન્સ",
+      "ઈનફિઝિબલ સોલ્યુશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જ્યારે ઓબ્જેક્ટિવ લાઇન બાઉન્ડ્રીને સમાંતર બને ત્યારે તે બાજુ પરના અનંત બિંદુઓ મલ્ટિપલ ઓપ્ટિમલ સોલ્યુશન્સ આપે છે[cite: 7]."
+  },
+  {
+    "id": 12,
+    "subject": "Operations Research",
+    "subTopic": "Optimization Concepts",
+    "question": "What is the feasible solution called that gives the maximum or minimum value of the objective function?",
+    "gujaratiQuestion": "Q12. Feasible solution માં objective function નું મૂલ્ય મહત્તમ કે ન્યૂનતમ મળે તેને શું કહે છે?",
+    "options": [
+      "બેઝિક સોલ્યુશન",
+      "ઓપ્ટિમલ સોલ્યુશન",
+      "ડીજનરેટ સોલ્યુશન",
+      "આર્ટિફિશિયલ સોલ્યુશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "શ્રેષ્ઠતમ પરિણામ (મહત્તમ કે ન્યૂનતમ) આપતા ઉકેલને ઓપ્ટિમલ સોલ્યુશન કહેવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 13,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "North-West Corner Method is most suitable for:",
+    "gujaratiQuestion": "Q13. નોર્થ-વેસ્ટ કોર્નર મેથડ (North-West Corner Method) કોના માટે સૌથી વધુ યોગ્ય છે?",
+    "options": [
+      "લાર્જ-સ્કેલ ટ્રાન્સપોર્ટેશન પ્રોબ્લેમ્સ",
+      "ઓપ્ટિમલ સોલ્યુશન્સ શોધવા",
+      "સ્મોલ-સ્કેલ ટ્રાન્સપોર્ટેશન પ્રોબ્લેમ્સ",
+      "એસાઈનમેન્ટ પ્રોબ્લેમ્સ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "નોર્થ-વેસ્ટ કોર્નર પદ્ધતિ પ્રારંભિક ઉકેલ મેળવવાની સૌથી ઝડપી રીત છે[cite: 7]."
+  },
+  {
+    "id": 14,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "While creating an LPP model, which characteristic is represented by 'Proportionality' and 'Additivity'?",
+    "gujaratiQuestion": "014. LPP નું મોડેલ બનાવતી વખતે 'Proportionality' અને 'Additivity' કઈ લાક્ષણિકતા દર્શાવે છે?",
+    "options": [
+      "લીનિયારિટી",
+      "ડિવિઝિબિલિટી",
+      "સર્ટનટી",
+      "ફાઈનાઈટનેસ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સમપ્રમાણતા (Proportionality) અને સરવાળાનો ગુણધર્મ (Additivity) લિનિયારિટી (રેખીયતા) વ્યાખ્યાયિત કરે છે[cite: 7]."
+  },
+  {
+    "id": 15,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "What does the assumption of 'Divisibility' indicate in LPP?",
+    "gujaratiQuestion": "Q15. LPP માં 'Divisibility' ની ધારણા શું દર્શાવે છે?",
+    "options": [
+      "ડિસિઝન વેરિયેબલ્સ અપૂર્ણાંક મૂલ્ય ધરાવી શકે છે",
+      "ડિસિઝન વેરિયેબલ્સ માત્ર પૂર્ણાંક હોવા જોઈએ",
+      "ડિસિઝન વેરિયેબલ્સ માત્ર 1 કે 0 હોવા જોઇએ",
+      "મશીનોને વિભાજીત કરી શકાય છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ડિવિઝિબિલિટીનો અર્થ એ છે કે ડિસિઝન વેરિયેબલ્સ સતત (Continuous) અને અપૂર્ણાંક હોઈ શકે છે[cite: 7]."
+  },
+  {
+    "id": 16,
+    "subject": "Operations Research",
+    "subTopic": "Network Flow Models",
+    "question": "Which algorithm is commonly used to calculate maximum flow in a network?",
+    "gujaratiQuestion": "016. નેટવર્કમાં મેક્સિમમ ફ્લો (maximum Flow) ની ગણતરી કરવા માટે સામાન્ય રીતે કયા અલ્ગોરિધમનો ઉપયોગ થાય છે?",
+    "options": [
+      "ડાઇકસ્ટ્રા અલ્ગોરિધમ",
+      "ફોર્ડ-ફુલકરસન અલ્ગોરિધમ",
+      "કુસ્કલ અલ્ગોરિધમ",
+      "બેલમેન-ફોર્ડ અલ્ગોરિધમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નેટવર્કમાં મહત્તમ પ્રવાહ શોધવા માટે ફોર્ડ-ફુલકરસન (Ford-Fulkerson) અલ્ગોરિધમ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 17,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "In LPP, when a set of constraints contradicts each other and no common region exists, what is the solution?",
+    "gujaratiQuestion": "Q17. LPP માં જ્યારે constraints નો સમૂહ એકબીજાનો વિરોધ કરતો હોય અને કોઈ સામાન્ય પ્રદેશ ન મળે, ત્યારે ઉકેલ કેવો હોય છે?",
+    "options": [
+      "ઓપ્ટિમલ સોલ્યુશન",
+      "ફિઝિબલ સોલ્યુશન",
+      "ઈનફિઝિબલ સોલ્યુશન",
+      "અનબાઉન્ડેડ સોલ્યુશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જ્યારે કોઈ પણ બિંદુ તમામ શરતોને એકસાથે સંતોષી ન શકે ત્યારે ઈનફિઝિબલ સોલ્યુશન (Infeasible solution) મળે છે[cite: 7]."
+  },
+  {
+    "id": 18,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "According to the assumption of 'Certainty' in LPP, how are the parameters (e.g., profit, resource limits)?",
+    "gujaratiQuestion": "Q18. LPP માં વપરાતી 'Certainty' ની ધારણા મુજબ પેરામીટર્સ (જેવા કે નફો, સંસાધનની મર્યાદા) કેવા હોય છે?",
+    "options": [
+      "સમય સાથે બદલાતા",
+      "અજ્ઞાત",
+      "સંભાવના આધારિત",
+      "નિશ્ચિત અને જ્ઞાત"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Certainty ની ધારણા મુજબ તમામ ગુણાંકો (Coefficients) ચોક્કસ, અચળ અને પૂર્વનિર્ધારિત જ્ઞાત હોય છે[cite: 7]."
+  },
+  {
+    "id": 19,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "Which of the following is a characteristic of a linear programming model?",
+    "gujaratiQuestion": "Q19. નીચેનામાંથી કઈ લિનિયર પ્રોગ્રામિંગ મોડલની લાક્ષણિકતા છે?",
+    "options": [
+      "ઓબ્જેક્ટિવ ફંક્શન અને કન્સ્ટ્રેઈન્ટ્સ નોન-લિનિયર હોય છે",
+      "ડિસિઝન વેરીએબલ્સ કન્ટીન્યુઅસ હોય છે",
+      "ડિસિઝન વેરીએબલ્સ ડિસ્ક્રીટ હોય છે",
+      "ઓબ્જેક્ટિવ ફંક્શન ક્વોડ્રેટિક હોય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "LPP માં ડિસિઝન વેરિયેબલ્સ કન્ટીન્યુઅસ (સતત) હોય છે અને કોઈપણ વાસ્તવિક મૂલ્ય ધારણ કરી શકે છે[cite: 7]."
+  },
+  {
+    "id": 20,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "If corner points in an LPP graph give Z values 100, 150, and 150, and Z is to be maximized, what is this case?",
+    "gujaratiQuestion": "020. જો LPP ના ગ્રાફમાં corner points પર Z ના મૂલ્યો 100, 150 અને 150 મળે, અને Z ને maximize કરવાનું હોય, તો આ કેસ શેનો છે?",
+    "options": [
+      "યુનિક સોલ્યુશન",
+      "મલ્ટિપલ ઓપ્ટિમલ સોલ્યુશન્સ",
+      "અનબાઉન્ડેડ સોલ્યુશન",
+      "ડીજનરેસી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બે અલગ અલગ કોર્નર પોઇન્ટ પર સમાન મહત્તમ મૂલ્ય (150) મળતું હોવાથી મલ્ટિપલ ઓપ્ટિમલ સોલ્યુશન મળે છે[cite: 7]."
+  },
+  {
+    "id": 21,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "On which part of the feasible region is the optimum solution of an LPP found?",
+    "gujaratiQuestion": "Q21. LPP માં Optimum solution એ Feasible region ના કયા ભાગ પર મળે છે?",
+    "options": [
+      "પ્રદેશની મધ્યમાં",
+      "ઉગમબિંદુ પર",
+      "કોર્નર પોઈન્ટ પર",
+      "x-અક્ષ પર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કોર્નર પોઇન્ટ થિયરમ મુજબ શ્રેષ્ઠતમ ઉકેલ હંમેશા ફિઝિબલ પ્રદેશના શિરોબિંદુ (Corner point) પર જ સ્થિત હોય છે[cite: 7]."
+  },
+  {
+    "id": 22,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "A company produces two products X and Y, with conditions represented in LPP. What are X and Y called?",
+    "gujaratiQuestion": "022. એક કંપની બે પ્રોડક્ટ X અને Y બનાવે છે, બંનેના ઉત્પાદન માટેની શરતો LPP માં દર્શાવેલ છે. આમાં X અને Y ને શું કહેવાય?",
+    "options": [
+      "કન્સ્ટ્રેઇન્ટ્સ",
+      "ડિસિઝન વેરિયેબલ્સ",
+      "ઓબ્જેક્ટિવ ફંક્શન",
+      "રિસોર્સિસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઉત્પાદન જથ્થો દર્શાવતા ચલો X અને Y ને ડિસિઝન વેરિયેબલ્સ (Decision variables) કહે છે[cite: 7]."
+  },
+  {
+    "id": 23,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "What is Vogel's Approximation Method (VAM) considered to be?",
+    "gujaratiQuestion": "023. વોગેલની એપ્રોક્સિમેશન મેથડ (VAM) ને શું માનવામાં આવે છે?",
+    "options": [
+      "એક્ઝેક્ટ ઑપ્ટિમાઇઝેશન મેથડ",
+      "હ્યુરિસ્ટિક મેથડ",
+      "એપ્રોક્સિમેશન મેથડ",
+      "એક્ઝેક્ટ અલ્ગોરિધમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "VAM એ પેનલ્ટી કોસ્ટના આધારે કામ કરતી હ્યુરિસ્ટિક (Heuristic) પદ્ધતિ છે જે શ્રેષ્ઠ પ્રારંભિક ઉકેલ આપે છે[cite: 7]."
+  },
+  {
+    "id": 24,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "What is the equation representing maximum profit or minimum cost in LPP formulation called?",
+    "gujaratiQuestion": "024. LPP ફોર્મ્યુલેશનમાં મહત્તમ નફો કે ન્યૂનતમ ખર્ચ દર્શાવતા સમીકરણને શું કહેવાય છે?",
+    "options": [
+      "કન્સ્ટ્રેઇન્ટ ઈક્વેશન",
+      "નોન-નેગેટિવિટી કન્ડિશન",
+      "ઓબ્જેક્ટિવ ફંક્શન",
+      "સ્લેક ફંક્શન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મુખ્ય લક્ષ્ય (નફો મહત્તમ કે ખર્ચ ન્યૂનતમ કરવો) દર્શાવતા ગાણિતિક સમીકરણને ઓબ્જેક્ટિવ ફંક્શન કહે છે[cite: 7]."
+  },
+  {
+    "id": 25,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "Which mathematician developed the Simplex method?",
+    "gujaratiQuestion": "025. Simplex method ની શોધ કયા ગણિતશાસ્ત્રીએ કરી હતી?",
+    "options": [
+      "જ્યોર્જ બી. ડેન્ટઝિગ",
+      "આર. ઈ. બેલમેન",
+      "એ.કે. અર્લીંગ",
+      "એચ. ડબલ્યુ. કુહ્ન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સિમ્પ્લેક્સ મેથડની શોધ 1947 માં જ્યોર્જ બી. ડેન્ટઝિગ (George B. Dantzig) દ્વારા કરવામાં આવી હતી[cite: 7]."
+  },
+  {
+    "id": 26,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "In an M/M/1 queue, if arrival rate is 10 customers/hr and service rate is 12 customers/hr, what is the average waiting time in queue (Wq)?",
+    "gujaratiQuestion": "026. M/M/1 ક્યૂ (queue) માં, જો અરાઇવલ રેટ (λ) 10 કસ્ટમર્સ પ્રતિ કલાક હોય અને સર્વિસ રેટ (μ) 12 કસ્ટમર્સ પ્રતિ કલાક હોય, તો ક્યૂમાં સરેરાશ વેઈટિંગ ટાઈમ (Wq) કેટલો હશે?",
+    "options": [
+      "0.5 કલાક",
+      "1 કલાક",
+      "25 મિનિટ",
+      "3 કલાક"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Wq = λ / [μ(μ - λ)] = 10 / [12 × (12 - 10)] = 10 / 24 કલાક = (10/24) × 60 = 25 મિનિટ[cite: 7]."
+  },
+  {
+    "id": 27,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "Which variable is added to convert a '<=' type constraint into an equation in LPP?",
+    "gujaratiQuestion": "Q27. LPP માં '<=' પ્રકારના constraint ને સમીકરણમાં ફેરવવા માટે કયો ચલ ઉમેરવામાં આવે છે?",
+    "options": [
+      "આર્ટિફિશિયલ વેરિયેબલ",
+      "સરપ્લસ વેરિયેબલ",
+      "સ્લેક વેરિયેબલ",
+      "ડિસિઝન વેરિયેબલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'<=' અસમતાને સમાનતામાં ફેરવવા ડાબી બાજુ સ્લેક વેરિયેબલ (Slack variable) ઉમેરવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 28,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "Which variable is subtracted to convert a '>=' type constraint into an equation in LPP?",
+    "gujaratiQuestion": "028. LPP માં '>=' પ્રકારના constraint ને સમીકરણમાં ફેરવવા માટે કયો ચલ બાદ કરવામાં આવે છે?",
+    "options": [
+      "સ્લેક વેરિયેબલ",
+      "સરપ્લસ વેરિયેબલ",
+      "આર્ટિફિશિયલ વેરિયેબલ",
+      "ડમી વેરિયેબલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'>=' અસમતાને સમીકરણ બનાવવા વધારાનો જથ્થો એટલે કે સરપ્લસ વેરિયેબલ (Surplus variable) બાદ કરાય છે[cite: 7]."
+  },
+  {
+    "id": 29,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "What is the delay in activity completion time called that does not affect the start of succeeding activities?",
+    "gujaratiQuestion": "029. એવો સમય કે જેના દ્વારા સક્સીડિંગ (પછીની) ઍક્ટિવિટીઝની શરૂઆતને અસર કર્યા વિના ઍક્ટિવિટી પૂર્ણ થવાના સમયમાં વિલંબ (delay) કરી શકાય, તેને શું કહેવાય છે?",
+    "options": [
+      "ડ્યુરેશન",
+      "ટોટલ ફ્લોટ",
+      "ફ્રી ફ્લોટ",
+      "ઇન્ટરફિયરિંગ ફ્લોટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પછીની પ્રવૃત્તિઓના વહેલા શરૂ થવાના સમય (EST) ને અસર કર્યા વિના મળતી છૂટછાટને ફ્રી ફ્લોટ (Free float) કહે છે[cite: 7]."
+  },
+  {
+    "id": 30,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "In Simplex method, what is the cost coefficient of a Slack variable in the objective function?",
+    "gujaratiQuestion": "Q30. Simplex method માં Objective function માં Slack variable નો Cost coefficient કેટલો લેવામાં આવે છે?",
+    "options": [
+      "1",
+      "-1",
+      "M",
+      "0"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સ્લેક વેરિયેબલ કાલ્પનિક હોવાથી ઓબ્જેક્ટિવ ફંક્શનમાં તેનો કોસ્ટ ગુણાંક શૂન્ય (0) લેવાય છે[cite: 7]."
+  },
+  {
+    "id": 31,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "In '>=' and '=' type constraints, which variable is added to obtain the initial basic feasible solution?",
+    "gujaratiQuestion": "031. '>=' અને '=' પ્રકારના constraints માં initial basic feasible solution મેળવવા માટે કયો ચલ ઉમેરવામાં આવે છે?",
+    "options": [
+      "સ્લેક વેરિયેબલ",
+      "આર્ટિફિશિયલ વેરિયેબલ",
+      "સરપ્લસ વેરિયેબલ",
+      "નેગેટિવ વેરિયેબલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રારંભિક બેઝિક ફિઝિબલ સોલ્યુશન મેળવવા માટે આર્ટિફિશિયલ વેરિયેબલ (Artificial variable) ઉમેરવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 32,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "Which Operations Research technique helps in minimizing total waiting and service costs?",
+    "gujaratiQuestion": "032. ઓપરેશન્સ રિસર્ચની કઈ ટેકનિક ટોટલ વેઇટિંગ અને સર્વિસ કોસ્ટ ઘટાડવામાં મદદ કરે છે?",
+    "options": [
+      "ક્યૂઇંગ થિયરી",
+      "ડિસિઝન થિયરી",
+      "ગેમ થિયરી",
+      "નેટવર્ક થિયરી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ક્યૂઇંગ થિયરી (Queuing theory) ગ્રાહકોના વેઇટિંગ ખર્ચ અને સર્વિસ આપવાના ખર્ચ વચ્ચે સંતુલન બનાવે છે[cite: 7]."
+  },
+  {
+    "id": 33,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "In Big-M method for Maximization problems, what cost coefficient is taken for the Artificial variable in the objective function?",
+    "gujaratiQuestion": "Q33. Big-M method માં Maximization ના પ્રોબ્લેમમાં Artificial variable નો Cost coefficient Objective function માં શું લેવામાં આવે છે?",
+    "options": [
+      "+M",
+      "-M",
+      "0",
+      "1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મેક્સિમાઇઝેશન પ્રોબ્લેમમાં આર્ટિફિશિયલ ચલને ઉકેલમાંથી બહાર કાઢવા પેનલ્ટી તરીકે -M ગુણાંક અપાય છે[cite: 7]."
+  },
+  {
+    "id": 34,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "In Two-phase simplex method, what is the main objective of Phase-I?",
+    "gujaratiQuestion": "Q34. Two-phase simplex method માં Phase-I નો મુખ્ય ઉદ્દેશ્ય શું હોય છે?",
+    "options": [
+      "નફો મહત્તમ કરવો",
+      "ખર્ચ ન્યૂનતમ કરવો",
+      "આર્ટિફિશિયલ વેરિયેબલ્સને દૂર કરવા",
+      "સ્લેક વેરિયેબલ્સને દૂર કરવા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટુ-ફેઝ સિમ્પ્લેક્સ મેથડના પ્રથમ તબક્કા (Phase-I) નો હેતુ આર્ટિફિશિયલ વેરિયેબલ્સનું મૂલ્ય શૂન્ય કરીને તેને દૂર કરવાનો છે[cite: 7]."
+  },
+  {
+    "id": 35,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "An activity has pessimistic time of 10 days and optimistic time of 4 days. What is its variance?",
+    "gujaratiQuestion": "035. એક ઍક્ટિવિટી પૂર્ણ થવાનો પેસિમિસ્ટિક ટાઈમ અને ઓપ્ટિમિસ્ટિક ટાઈમ અનુક્રમે 10 દિવસ અને 4 દિવસ છે, તો એક્ટિવિટીનો વેરિઅન્સ (variance) કેટલો હશે?",
+    "options": [
+      "1",
+      "6",
+      "36",
+      "18"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્ટાન્ડર્ડ ડેવિએશન σ = (tp - to) / 6 = (10 - 4) / 6 = 1. વેરિયન્સ σ² = 1² = 1[cite: 7]."
+  },
+  {
+    "id": 36,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "In a Simplex table for maximization, what is the column called where Cj - Zj has the most positive value?",
+    "gujaratiQuestion": "036. Simplex table માં જે કોલમમાં Cj - Zj ની કિંમત સૌથી વધુ ધન હોય (Maximization માટે), તે કૉલમને શું કહે છે?",
+    "options": [
+      "કી રો",
+      "કી એલિમેન્ટ",
+      "કી કોલમ",
+      "આઉટગોઇંગ વેરિયેબલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મહત્તમ ધન Cj - Zj ધરાવતી કોલમ એન્ટરિંગ વેરિયેબલ નક્કી કરે છે, જેને કી કોલમ (Key column) કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 37,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "Which ratio is considered to select the Outgoing variable in Simplex method?",
+    "gujaratiQuestion": "Q37. Simplex method માં Outgoing variable પસંદ કરવા માટે કયો રેશિયો ધ્યાનમાં લેવાય છે?",
+    "options": [
+      "મેક્સિમમ પોઝિટિવ રેશિયો",
+      "મિનિમમ પોઝિટિવ રેશિયો",
+      "મિનિમમ નેગેટિવ રેશિયો",
+      "ઝીરો રેશિયો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફિઝિબિલિટી જાળવવા માટે રાઈટ-હેન્ડ સાઇડ અને કી-કોલમનો લઘુત્તમ ધન ગુણોત્તર (Minimum positive ratio) લેવાય છે[cite: 7]."
+  },
+  {
+    "id": 38,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "What is the activity duration distribution assumed in PERT?",
+    "gujaratiQuestion": "038. PERT માં એક્ટિવિટી ડિસ્ટ્રિબ્યુશન કયું હોય છે?",
+    "options": [
+      "બાઈનોમિયલ",
+      "નોર્મલ",
+      "પોઈઝન",
+      "બીટા (Beta)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "PERT માં વ્યક્તિગત પ્રવૃત્તિઓનો સમય બીટા ડિસ્ટ્રિબ્યુશન (Beta distribution) અનુસરે છે તેમ માનવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 39,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "What is the element at the intersection of Key column and Key row called?",
+    "gujaratiQuestion": "Q39. Key column અને Key row ના છેદન બિંદુ પર આવેલા ઘટકને શું કહેવાય છે?",
+    "options": [
+      "પિવોટ એલિમેન્ટ",
+      "બેઝિક એલિમેન્ટ",
+      "સ્લેક એલિમેન્ટ",
+      "ડ્યુઅલ એલિમેન્ટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કી કોલમ અને કી રો ના છેદનબિંદુ પરના ઘટકને પિવોટ એલિમેન્ટ (Pivot element અથવા Key element) કહે છે[cite: 7]."
+  },
+  {
+    "id": 40,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "In Simplex method, if there is a tie in Minimum positive ratio between two or more rows, what is it called?",
+    "gujaratiQuestion": "Q40. Simplex table માં જો બે કે તેથી વધુ rows નો Minimum positive ratio સમાન થઈ જાય, તો તેને શું કહેવાય છે?",
+    "options": [
+      "ઈનફિઝિબિલિટી",
+      "ડીજનરેસી",
+      "અનબાઉન્ડેડનેસ",
+      "ઓપ્ટિમાલિટી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મિનિમમ પોઝિટિવ રેશિયોમાં ટાઈ થવાની સ્થિતિને ડીજનરેસી (Degeneracy) કહેવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 41,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "How many constraints are required in the formulation of a Transportation problem with 4 supply points and 5 demand points?",
+    "gujaratiQuestion": "Q41. 4 સપ્લાય પોઈન્ટ અને 5 ડિમાન્ડ પોઈન્ટ ધરાવતા ટ્રાન્સપોર્ટેશન પ્રોબ્લેમના ફોર્મ્યુલેશનમાં કેટલા કન્સ્ટ્રેઈન્ટ્સ (constraints) જરૂરી છે?",
+    "options": [
+      "20",
+      "1",
+      "0",
+      "9"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ટ્રાન્સપોર્ટેશન સમસ્યામાં કુલ મર્યાદાઓની સંખ્યા = m + n = 4 + 5 = 9 થાય[cite: 7]."
+  },
+  {
+    "id": 42,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "In Simplex method (for Maximization), if all values in Cj - Zj row become <= 0, what does it indicate?",
+    "gujaratiQuestion": "Q42. Simplex method માં જો Cj - Zj ની લાઈનમાં (Maximization માટે) બધા જ મૂલ્યો શૂન્ય કે ઋણ (<= 0) થઈ જાય, તો તે શું દર્શાવે છે?",
+    "options": [
+      "ઇનિશિયલ સોલ્યુશન",
+      "ઓપ્ટિમલ સોલ્યુશન",
+      "અનબાઉન્ડેડ સોલ્યુશન",
+      "નો સોલ્યુશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મેક્સિમાઇઝેશન માટે તમામ Cj - Zj <= 0 થતાં ઓપ્ટિમાલિટી શરત સંતોષાય છે અને શ્રેષ્ઠતમ ઉકેલ મળે છે[cite: 7]."
+  },
+  {
+    "id": 43,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "If in a column of Simplex table Cj - Zj > 0, but all elements of that column are <= 0, what solution is indicated?",
+    "gujaratiQuestion": "043. જો Simplex table ની કોઈ કોલમમાં Cj - Zj ધન હોય, પરંતુ તે કૉલમના બધા જ ઘટકો ઋણ કે શૂન્ય હોય, તો તે કયો ઉકેલ દર્શાવે છે?",
+    "options": [
+      "અનબાઉન્ડેડ સોલ્યુશન",
+      "ઇનફિઝિબલ સોલ્યુશન",
+      "ડીજનરેટ સોલ્યુશન",
+      "ઓપ્ટિમલ સોલ્યુશન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કી કોલમમાં કોઈ ધન ઘટક ન હોવાથી રેશિયો શોધી શકાતો નથી અને ઉકેલ અનબાઉન્ડેડ (Unbounded) બને છે[cite: 7]."
+  },
+  {
+    "id": 44,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "What is the related linear programming problem associated with every primal LPP called?",
+    "gujaratiQuestion": "Q44. દરેક પ્રાઈમલ LPP સાથે જોડાયેલા અન્ય સંબંધિત LPP ને શું કહે છે?",
+    "options": [
+      "ડ્યુઅલ",
+      "આર્ટિફિશિયલ",
+      "સ્લેક",
+      "પેનલ્ટી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "દરેક પ્રાઇમલ (Primal) સમસ્યા સાથે ગાણિતિક રીતે જોડાયેલ દ્વૈત સમસ્યાને ડ્યુઅલ (Dual) કહે છે[cite: 7]."
+  },
+  {
+    "id": 45,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "With which problem is Vogel's Approximation Method (VAM) associated?",
+    "gujaratiQuestion": "Q45. વોગેલની એપ્રોક્સિમેશન મેથડ (VAM) કોની સાથે સંકળાયેલી છે?",
+    "options": [
+      "એસાઈનમેન્ટ પ્રોબ્લેમ",
+      "ઇન્વેન્ટરી પ્રોબ્લેમ",
+      "ટ્રાન્સપોર્ટેશન પ્રોબ્લેમ",
+      "PERT"
+    ],
+    "correctAnswer": 2,
+    "explanation": "VAM પદ્ધતિ ટ્રાન્સપોર્ટેશન સમસ્યામાં પ્રારંભિક ઉકેલ મેળવવા માટે વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 46,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "If the primal problem is of Maximization type, what is its Dual problem?",
+    "gujaratiQuestion": "046. જો પ્રાઈમલ પ્રોબ્લેમ Maximization નો હોય, તો તેનો Dual પ્રોબ્લેમ કેવો હોય છે?",
+    "options": [
+      "મેક્સિમાઇઝેશન",
+      "મિનિમાઈઝેશન",
+      "શૂન્ય",
+      "ગમે તે હોઈ શકે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડ્યુઆલિટી સિદ્ધાંત મુજબ જો પ્રાઇમલ મેક્સિમાઇઝેશન હોય તો તેનો ડ્યુઅલ હંમેશા મિનિમાઇઝેશન બને છે[cite: 7]."
+  },
+  {
+    "id": 47,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "When is Dual simplex method used?",
+    "gujaratiQuestion": "Q47. Dual simplex method ક્યારે વાપરવામાં આવે છે?",
+    "options": [
+      "જ્યારે ઉકેલ ફિઝિબલ હોય પણ ઓપ્ટિમલ ના હોય",
+      "જ્યારે ઉકેલ ઓપ્ટિમલ હોય પણ ફિઝિબલ ના હોય",
+      "જ્યારે આર્ટિફિશિયલ વેરિયેબલ્સ દૂર કરવાના હોય",
+      "જ્યારે પ્રોબ્લેમમાં માત્ર 2 વેરિયેબલ્સ હોય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યારે ટેબલ ઓપ્ટિમલ હોય (તમામ Cj - Zj <= 0) પરંતુ ફિઝિબલ ન હોય (RHS માં ઋણ મૂલ્ય હોય) ત્યારે ડ્યુઅલ સિમ્પ્લેક્સ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 48,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "Activities A, B, and C are immediate predecessors to activity Y with earliest finish times 12, 15, and 10. What is earliest start time of Y?",
+    "gujaratiQuestion": "Q48. Y એક્ટિવિટી માટે એક્ટિવિટી A, B અને C ઇમીડિએટ પ્રિડિસેસર (immediate predecessors) છે. જો આ ત્રણેય એક્ટિવિટીના અર્લિએસ્ટ ફિનિશિંગ ટાઈમ 12, 15 અને 10 હોય, તો Y નો અર્લિએસ્ટ સ્ટાર્ટિંગ ટાઈમ કેટલો હશે?",
+    "options": [
+      "10",
+      "15",
+      "12",
+      "18.5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પછીની પ્રવૃત્તિ ત્યારે જ શરૂ થઈ શકે જ્યારે અગાઉની તમામ પ્રવૃત્તિઓ પૂર્ણ થાય, તેથી EST(Y) = Max(12, 15, 10) = 15[cite: 7]."
+  },
+  {
+    "id": 49,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "What is the main objective of a Transportation problem?",
+    "gujaratiQuestion": "Q49. Transportation problem નો મુખ્ય ઉદ્દેશ્ય શું હોય છે?",
+    "options": [
+      "કુલ નફો શૂન્ય કરવો",
+      "પરિવહન ખર્ચ ન્યૂનતમ કરવો",
+      "માત્ર માંગ વધારવી",
+      "સપ્લાય ઘટાડવો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટ્રાન્સપોર્ટેશન પ્રોબ્લેમનો મૂળ ઉદ્દેશ વિવિધ સ્રોતોથી ગંતવ્ય સ્થાનો સુધી માલ પહોંચાડવાનો કુલ પરિવહન ખર્ચ ન્યૂનતમ કરવાનો છે[cite: 7]."
+  },
+  {
+    "id": 50,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "When total supply equals total demand, what is the Transportation problem called?",
+    "gujaratiQuestion": "050. જ્યારે કુલ સપ્લાય અને કુલ માંગ સમાન હોય, ત્યારે તેને કયો Transportation problem કહેવાય છે?",
+    "options": [
+      "અનબેલેન્સ્ડ",
+      "બેલેન્સ્ડ",
+      "ડીજનરેટ",
+      "પ્રોહિબિટેડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કુલ પુરવઠો = કુલ માંગ (Total Supply = Total Demand) હોય તે સમસ્યાને બેલેન્સ્ડ ટ્રાન્સપોર્ટેશન કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 51,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "What is the use of a dummy activity in a PERT network?",
+    "gujaratiQuestion": "Q51. PERT નેટવર્કમાં ડમી ઍક્ટિવિટી (dummy activity) નો ઉપયોગ શું દર્શાવવા માટે થાય છે?",
+    "options": [
+      "પ્રેસિડેન્સ રિલેશનશિપ",
+      "જરૂરી ટાઈમ ડીલે",
+      "રિસોર્સ રિસ્ટ્રિક્શન",
+      "રિસોર્સ આઇડલનેસ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ડમી એક્ટિવિટી કોઈ સમય કે સંસાધન વાપર્યા વિના માત્ર તાર્કિક પૂર્વાધિકાર સંબંધ (Precedence relationship) દર્શાવે છે[cite: 7]."
+  },
+  {
+    "id": 52,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "What is added to solve an Unbalanced transportation problem?",
+    "gujaratiQuestion": "Q52. Unbalanced transportation problem ને ઉકેલવા માટે શું ઉમેરવામાં આવે છે?",
+    "options": [
+      "આર્ટિફિશિયલ સેલ",
+      "પેનલ્ટી કોસ્ટ",
+      "ડમી રો અથવા ડમી કૉલમ",
+      "સ્લેક મશીન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પુરવઠો કે માંગ સરખી કરવા માટે જરૂરિયાત મુજબ શૂન્ય ખર્ચવાળી ડમી રો અથવા ડમી કોલમ ઉમેરવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 53,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "What is the transportation cost of Dummy rows or Dummy columns generally taken as?",
+    "gujaratiQuestion": "Q53. Dummy rows કે Dummy column નો પરિવહન ખર્ચ સામાન્ય રીતે કેટલો લેવામાં આવે છે?",
+    "options": [
+      "1",
+      "100",
+      "M",
+      "0"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ડમી રો કે કોલમ વાસ્તવિક ન હોવાથી તેમાં પ્રતિ યુનિટ પરિવહન ખર્ચ 0 (શૂન્ય) લેવાય છે[cite: 7]."
+  },
+  {
+    "id": 54,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "On a PERT/CPM chart, what is the slack at various events on the critical path?",
+    "gujaratiQuestion": "Q54. PERT/CPM ચાર્ટ પર ક્રિટિકલ પાથ પરના વિવિધ ઈવેન્ટ્સ પરનો સ્લેક (slack) કેવો હોય છે?",
+    "options": [
+      "સતત ઘટે છે",
+      "સતત વધે છે",
+      "અચળ રહે છે",
+      "અણધારી (અનુમાન ન કરી શકાય તેવો)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ક્રિટિકલ પાથ પરના તમામ ઇવેન્ટ્સ માટે સ્લેક શૂન્ય હોય છે (એટલે કે સમગ્ર પાથ પર અચળ શૂન્ય રહે છે)[cite: 7]."
+  },
+  {
+    "id": 55,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "Which of the following methods is NOT used to find the Initial Basic Feasible Solution (IBFS) of a transportation problem?",
+    "gujaratiQuestion": "Q55. નીચેનામાંથી કઈ પદ્ધતિ Transportation problem નો Initial Basic Feasible Solution (IBFS) શોધવા માટે વપરાતી નથી?",
+    "options": [
+      "નોર્થ-વેસ્ટ કોર્નર મેથડ",
+      "લીસ્ટ કોસ્ટ મેથડ",
+      "વોગેલની એપ્રોક્સિમેશન મેથડ",
+      "MODI મેથડ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "MODI પદ્ધતિ ઉકેલની ઓપ્ટિમાલિટી ચકાસવા માટે વપરાય છે, IBFS શોધવા માટે નહીં[cite: 7]."
+  },
+  {
+    "id": 56,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "Where does the first allocation begin in North-West Corner Method?",
+    "gujaratiQuestion": "Q56. North-West Corner Method માં સૌથી પહેલી ફાળવણી ક્યાંથી શરૂ થાય છે?",
+    "options": [
+      "મેટ્રિક્સની મધ્યમાંથી",
+      "સૌથી ઓછા ખર્ચ વાળા સેલમાંથી",
+      "સૌથી ઉપરના અને ડાબી બાજુના ખૂણાથી",
+      "સૌથી નીચેના અને જમણી બાજુના ખૂણાથી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આ પદ્ધતિમાં પ્રથમ ફાળવણી મેટ્રિક્સના સૌથી ઉપરના ડાબા ખૂણાના સેલ (1,1) થી શરૂ થાય છે[cite: 7]."
+  },
+  {
+    "id": 57,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "CPM is oriented towards which of the following?",
+    "gujaratiQuestion": "057. CPM કોના પર આધારિત (oriented) છે?",
+    "options": [
+      "ઇવેન્ટ",
+      "કોસ્ટ",
+      "એક્ટિવિટી",
+      "ઓબ્જેક્ટિવ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CPM (Critical Path Method) એ એક્ટિવિટી-ઓરિએન્ટેડ (Activity-oriented) પદ્ધતિ છે[cite: 7]."
+  },
+  {
+    "id": 58,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "Which method is generally considered best for finding the Initial Basic Feasible Solution?",
+    "gujaratiQuestion": "Q58. Initial Basic Feasible Solution શોધવા માટે કઈ પદ્ધતિ સામાન્ય રીતે સૌથી શ્રેષ્ઠ માનવામાં આવે છે?",
+    "options": [
+      "નોર્થ-વેસ્ટ કોર્નર મેથડ",
+      "લીસ્ટ કોસ્ટ મેથડ",
+      "રો મિનિમા મેથડ",
+      "વોગેલની એપ્રોક્સિમેશન મેથડ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "VAM પદ્ધતિ પેનલ્ટી કોસ્ટ ધ્યાને લેતી હોવાથી સૌથી શ્રેષ્ઠ અને ઓપ્ટિમમની નજીકનો ઉકેલ આપે છે[cite: 7]."
+  },
+  {
+    "id": 59,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "How is 'Penalty' calculated in Vogel's Approximation Method (VAM)?",
+    "gujaratiQuestion": "059. VAM માં 'Penalty' કેવી રીતે ગણવામાં આવે છે?",
+    "options": [
+      "જે-તે રો કે કોલમના સૌથી નાના બે ખર્ચનો સરવાળો",
+      "જે-તે રો કે કૉલમના સૌથી નાના બે ખર્ચ વચ્ચેનો તફાવત",
+      "જે-તે રો કે કૉલમના સૌથી મોટા બે ખર્ચ વચ્ચેનો તફાવત",
+      "રો અને કૉલમના ખર્ચનો ગુણાકાર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પેનલ્ટી એ દરેક રો અથવા કોલમના સૌથી નાના બે પરિવહન ખર્ચ વચ્ચેનો તફાવત છે[cite: 7]."
+  },
+  {
+    "id": 60,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "What is the difference represented by Slack in PERT?",
+    "gujaratiQuestion": "060. સ્લેક (Slack) કોના વચ્ચેનો તફાવત દર્શાવે છે?",
+    "options": [
+      "પ્રપોઝ્ડ એલાવેબલ ટાઈમ અને અર્લિએસ્ટ એક્સપેક્ટેડ ટાઈમ",
+      "નોર્મલ એલાવેબલ ટાઈમ અને લેટેસ્ટ એક્સપેક્ટેડ ટાઈમ",
+      "લેટેસ્ટ એલાવેબલ ટાઈમ અને નોર્મલ એક્સપેક્ટેડ ટાઈમ",
+      "લેટેસ્ટ એલાવેબલ ટાઈમ અને અર્લિએસ્ટ એક્સપેક્ટેડ ટાઈમ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઇવેન્ટ સ્લેક = લેટેસ્ટ એલાવેબલ અકરન્સ ટાઇમ (TL) - અર્લિએસ્ટ એક્સપેક્ટેડ ટાઇમ (TE)[cite: 7]."
+  },
+  {
+    "id": 61,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "In a transportation matrix with m rows and n columns, how many allocations must exist for a non-degenerate basic feasible solution?",
+    "gujaratiQuestion": "061. જો Transportation matrix માં m હરોળ અને n સ્તંભ હોય, તો Non-degenerate basic feasible solution માટે કેટલી ફાળવણીઓ હોવી જોઈએ?",
+    "options": [
+      "m + n",
+      "m + n + 1",
+      "m + n - 1",
+      "m × n"
+    ],
+    "correctAnswer": 2,
+    "explanation": "નોન-ડીજનરેટ બેઝિક ફિઝિબલ સોલ્યુશન માટે સ્વતંત્ર સેલમાં બરાબર m + n - 1 ફાળવણીઓ હોવી જોઈએ[cite: 7]."
+  },
+  {
+    "id": 62,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "If the number of allocations in a transportation problem is less than m + n - 1, what is this condition called?",
+    "gujaratiQuestion": "Q62. જો Transportation problem માં ફાળવણીઓની સંખ્યા m + n - 1 કરતાં ઓછી હોય, તો તે સ્થિતિને શું કહેવાય છે?",
+    "options": [
+      "ઓપ્ટિમલ",
+      "અનબેલેન્સ્ડ",
+      "ડીજનરેસી",
+      "ઇનફિઝિબલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફાળવણીઓની સંખ્યા m + n - 1 કરતાં ઓછી થાય ત્યારે સમસ્યામાં ડીજનરેસી (Degeneracy) ઉત્પન્ન થાય છે[cite: 7]."
+  },
+  {
+    "id": 63,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "An activity having minimum _____ should be crashed first.",
+    "gujaratiQuestion": "Q63. ન્યૂનતમ (minimum) _____ ધરાવતી એક્ટિવિટીને પહેલા ક્રેશ (crash) કરવી જોઈએ.",
+    "options": [
+      "કોસ્ટ સ્લોપ",
+      "કોસ્ટ ઇન્ડેક્સ",
+      "ક્રેશ કોસ્ટ",
+      "નોર્મલ કોસ્ટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પ્રોજેક્ટ ક્રેશિંગમાં સૌથી ઓછો વધારાનો ખર્ચ કરવા લઘુત્તમ કોસ્ટ સ્લોપવાળી ક્રિટિકલ એક્ટિવિટી પ્રથમ ક્રેશ કરાય છે[cite: 7]."
+  },
+  {
+    "id": 64,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "What hypothetical quantity is allocated to an unoccupied cell to resolve degeneracy in a transportation problem?",
+    "gujaratiQuestion": "Q64. Transportation problem માં Degeneracy દૂર કરવા માટે ખાલી સેલમાં કયો કાલ્પનિક મૂલ્ય ઉમેરવામાં આવે છે?",
+    "options": [
+      "ઈન્ફિનિટી",
+      "એપ્સાયલોન (ε)",
+      "M",
+      "નેગેટિવ 1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડીજનરેસી ઉકેલવા માટે સ્વતંત્ર બિન-ફાળવેલ સેલમાં અત્યંત નાનું ધન મૂલ્ય એપ્સાયલોન (ε) મૂકવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 65,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "Which method is used to test whether a transportation solution is optimal?",
+    "gujaratiQuestion": "Q65. Transportation problem નો ઉકેલ Optimal છે કે નહીં તે ચકાસવા માટે કઈ પદ્ધતિ વપરાય છે?",
+    "options": [
+      "VAM",
+      "NWCR",
+      "MODI મેથડ",
+      "લીસ્ટ કોસ્ટ મેથડ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટ્રાન્સપોર્ટેશન ઉકેલની ઓપ્ટિમાલિટી ચકાસવા માટે MODI (Modified Distribution) મેથડ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 66,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "Which equation is used for occupied cells in the MODI method?",
+    "gujaratiQuestion": "Q66. MODI method માં ભરેલા (Occupied) સેલ માટે કયું સમીકરણ વપરાય છે?",
+    "options": [
+      "ui + vj = Cij",
+      "ui - vj = Cij",
+      "ui + vj = 0",
+      "Cij = 0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ફાળવેલ (Occupied) સેલ્સ માટે ડ્યુઅલ વેરિયેબલ્સ ui અને vj નો સંબંધ ui + vj = Cij લેવાય છે[cite: 7]."
+  },
+  {
+    "id": 67,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "When is a simplex problem considered infeasible?",
+    "gujaratiQuestion": "067. સિમ્પ્લેક્સ પ્રોબ્લેમને ઈન-ફિઝિબલ (infeasible) ક્યારે ગણવામાં આવે છે?",
+    "options": [
+      "એન્ટરિંગ કોલમમાં તમામ વેરીએબલ્સ નેગેટિવ હોય",
+      "બેઝિસમાં વેરીએબલ્સ નેગેટિવ હોય",
+      "બેઝિસમાં આર્ટિફિશિયલ વેરીએબલ હાજર હોય",
+      "પિવોટલ વેલ્યુ નેગેટિવ હોય"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઓપ્ટિમાલિટી ટેબલમાં જો ધન મૂલ્ય સાથે આર્ટિફિશિયલ વેરિયેબલ બેઝિસમાં રહે તો સમસ્યા ઈનફિઝિબલ ગણાય[cite: 7]."
+  },
+  {
+    "id": 68,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "What is the formula to calculate opportunity cost (Δij) for unoccupied cells in MODI method?",
+    "gujaratiQuestion": "Q68. MODI method માં ખાલી (Unoccupied) સેલ માટે Opportunity cost (Δij) શોધવાનું સૂત્ર શું છે?",
+    "options": [
+      "Δij = Cij + (ui + vj)",
+      "Δij = Cij - (ui + vj)",
+      "Δij = ui - vj",
+      "Δij = Cij × (ui + vj)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ખાલી સેલ માટે ઓપોર્ચ્યુનિટી કોસ્ટનું સૂત્ર Δij = Cij - (ui + vj) છે[cite: 7]."
+  },
+  {
+    "id": 69,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "What is the optimality condition in a transportation problem (for minimization)?",
+    "gujaratiQuestion": "Q69. Transportation problem માં Optimal ઉકેલની શરત શું છે? (Minimization માટે)",
+    "options": [
+      "બધા જ ખાલી સેલના Opportunity cost ઋણ હોવા જોઈએ",
+      "બધા જ ખાલી સેલના Opportunity cost ધન કે શૂન્ય (>= 0) હોવા જોઈએ",
+      "બધા જ સેલ શૂન્ય હોવા જોઈએ",
+      "કોઈ પણ એક Opportunity cost ઋણ હોવો જોઈએ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ખર્ચ ન્યૂનતમ કરવા માટે તમામ ખાલી સેલ્સના Δij >= 0 હોવા જરૂરી છે[cite: 7]."
+  },
+  {
+    "id": 70,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "If x is an unrestricted decision variable in an LPP, how is it converted for Simplex method (x = x' - x'')?",
+    "gujaratiQuestion": "Q70. જો x એ LPP નો ડિસિઝન વેરીએબલ હોય અને ચિહ્ન (sign) માટે અનરિસ્ટ્રિક્ટેડ (unrestricted) હોય, તો સિમ્પ્લેક્સ મેથડથી LPP સોલ્વ કરવા માટે આ વેરીએબલને x = x' - x'' માં કન્વર્ટ કરી શકાય છે, જ્યાં:",
+    "options": [
+      "x' <= 0 અને x'' >= 0",
+      "x' >= 0 અને x'' <= 0",
+      "x' >= 0 અને x'' <= 0",
+      "x' >= 0 અને x'' >= 0"
+    ],
+    "correctAnswer": 3,
+    "explanation": "અનરિસ્ટ્રિક્ટેડ ચલને બે અઋણ ચલોની બાદબાકી x = x' - x'' તરીકે લખાય છે જ્યાં x' >= 0 અને x'' >= 0[cite: 7]."
+  },
+  {
+    "id": 71,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "In the optimal table of a transportation problem, if an unoccupied cell has opportunity cost equal to zero, what does it indicate?",
+    "gujaratiQuestion": "Q71. Optimal table માં કોઈ એક ખાલી સેલનો Opportunity cost બરાબર શૂન્ય આવે, તો તે શું દર્શાવે છે?",
+    "options": [
+      "ડીજનરેસી",
+      "અનબાઉન્ડેડ સોલ્યુશન",
+      "ઓલ્ટરનેટિવ ઓપ્ટિમલ સોલ્યુશન શક્ય છે",
+      "ઇનફિઝિબલ સોલ્યુશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બિન-ફાળવેલ સેલ માટે Δij = 0 હોવું વૈકલ્પિક શ્રેષ્ઠતમ ઉકેલ (Alternative optimal solution) ની હાજરી સૂચવે છે[cite: 7]."
+  },
+  {
+    "id": 72,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "An Assignment problem is a special case of which of the following?",
+    "gujaratiQuestion": "Q72. Assignment problem એ કોનો સ્પેશિયલ કેસ છે?",
+    "options": [
+      "નેટવર્ક ફ્લો પ્રોબ્લેમ",
+      "ટ્રાન્સપોર્ટેશન પ્રોબ્લેમ",
+      "ડિસિઝન પ્રોબ્લેમ",
+      "ક્યુઇંગ પ્રોબ્લેમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એસાઇન્મેન્ટ પ્રોબ્લેમ એ ટ્રાન્સપોર્ટેશન પ્રોબ્લેમનો વિશિષ્ટ કેસ છે જેમાં દરેક સપ્લાય અને ડિમાન્ડ 1 હોય છે[cite: 7]."
+  },
+  {
+    "id": 73,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "Based on final simplex table, an alternate optimal solution exists if:",
+    "gujaratiQuestion": "073. સિમ્પ્લેક્સના ફાઈનલ ટેબલના આધારે, જો (Cj-Zj) રો (row) માં _____ હોય તો LPP નું અલ્ટરનેટ (વૈકલ્પિક) સોલ્યુશન છે તેમ કહેવાય.",
+    "options": [
+      "એક કે તેથી વધુ બેઝિક વેરીએબલનું મૂલ્ય શૂન્ય હોય",
+      "એન્ટરિંગ વેરીએબલનો કોએફિશિયન્ટ નેગેટિવ હોય",
+      "નોન-બેઝિક વેરીએબલની નીચે શૂન્ય હોય",
+      "ઓપ્ટિમમ ફંક્શન વેલ્યુ શૂન્ય હોય"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઓપ્ટિમલ ટેબલમાં જો કોઈ નોન-બેઝિક વેરિયેબલ માટે Cj - Zj = 0 હોય, તો વૈકલ્પિક ઓપ્ટિમલ સોલ્યુશન શક્ય બને છે[cite: 7]."
+  },
+  {
+    "id": 74,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "What must the cost matrix be in an Assignment problem?",
+    "gujaratiQuestion": "Q74. Assignment problem માં મેટ્રિક્સ કેવો હોવો જોઈએ?",
+    "options": [
+      "હંમેશા લંબચોરસ",
+      "હંમેશા ચોરસ",
+      "કોઇપણ સાઈઝનો ચાલે",
+      "1 x N સાઈઝનો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જોબ અને મશીનોની સંખ્યા સમાન રાખવા એસાઇન્મેન્ટ મેટ્રિક્સ હંમેશા ચોરસ (N × N) હોવો જરૂરી છે[cite: 7]."
+  },
+  {
+    "id": 75,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "What is the main objective of an Assignment problem?",
+    "gujaratiQuestion": "Q75. Assignment problem નો મુખ્ય ઉદ્દેશ્ય શું હોય છે?",
+    "options": [
+      "બધી જ જોબ્સ એક જ મશીનને આપવી",
+      "1 જોબ 1 મશીનને આપવી જેથી કુલ ખર્ચ ન્યૂનતમ થાય",
+      "મશીનોને ખાલી રાખવા",
+      "માત્ર નફો 0 કરવો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વન-ટુ-વન આધારે 1 કામ 1 સાધનને સોંપીને કુલ ખર્ચ કે સમય લઘુત્તમ કરવાનો ઉદ્દેશ હોય છે[cite: 7]."
+  },
+  {
+    "id": 76,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "In a transportation matrix with 8 rows and 7 columns, how many occupied cells must be present so that it does not become degenerate?",
+    "gujaratiQuestion": "Q76. 8 રો (rows) અને 7 કોલમ ધરાવતા ટ્રાન્સપોર્ટેશન મેટ્રિક્સમાં કેટલા ઓક્યુપાઈડ સેલ્સ હોવા જોઈએ જેથી તે ડીજનરેટ (degenerate) ન થાય?",
+    "options": [
+      "15",
+      "55",
+      "56",
+      "14"
+    ],
+    "correctAnswer": 3,
+    "explanation": "નોન-ડીજનરેટ સોલ્યુશન માટે ફાળવણીઓની સંખ્યા = m + n - 1 = 8 + 7 - 1 = 14 હોવી જરૂરી છે[cite: 7]."
+  },
+  {
+    "id": 77,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "Which method is most widely used to solve an Assignment problem?",
+    "gujaratiQuestion": "Q77. Assignment problem સોલ્વ કરવા માટે સૌથી વધુ વપરાતી પદ્ધતિ કઈ છે?",
+    "options": [
+      "સિમ્પ્લેક્સ મેથડ",
+      "VAM",
+      "હંગેરિયન મેથડ",
+      "MODI મેથડ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એસાઇન્મેન્ટ સમસ્યાનો ઇષ્ટતમ ઉકેલ મેળવવા માટે હંગેરિયન મેથડ (Hungarian Method) સૌથી પ્રચલિત પદ્ધતિ છે[cite: 7]."
+  },
+  {
+    "id": 78,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "If an Assignment problem has 4 machines and 3 jobs, what must be done to balance it?",
+    "gujaratiQuestion": "Q78. જો Assignment problem માં 4 મશીન અને 3 જોબ હોય, તો તેને Balanced કરવા શું કરવું પડે?",
+    "options": [
+      "1 ડમી જોબ ઉમેરવી",
+      "1 ડમી મશીન ઉમેરવું",
+      "1 મશીન કાઢી નાખવું",
+      "પ્રોબ્લેમ ઉકેલી ન શકાય"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ચોરસ મેટ્રિક્સ (4 × 4) બનાવવા માટે શૂન્ય ખર્ચવાળી 1 ડમી જોબ (Dummy row/column) ઉમેરવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 80,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "What is the first step in the Hungarian method?",
+    "gujaratiQuestion": "Q80. Hungarian method નું પહેલું સ્ટેપ શું છે?",
+    "options": [
+      "કૉલમ રિડક્શન",
+      "રો રિડક્શન",
+      "ડાયાગોનલ રિડક્શન",
+      "ઝીરો એસાઈનમેન્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હંગેરિયન પદ્ધતિનું પ્રથમ પગથિયું દરેક રોમાંથી લઘુત્તમ ઘટક બાદ કરવાનું એટલે કે રો રિડક્શન (Row reduction) છે[cite: 7]."
+  },
+  {
+    "id": 81,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "When is an optimal assignment possible in the Hungarian method?",
+    "gujaratiQuestion": "Q81. Hungarian method માં Optimal assignment ક્યારે શક્ય બને છે?",
+    "options": [
+      "જ્યારે બધા શૂન્યોને કવર કરતી ન્યૂનતમ લાઈનોની સંખ્યા મેટ્રિક્સની સાઈઝ (N) જેટલી થાય",
+      "જ્યારે લાઈનોની સંખ્યા શૂન્ય હોય",
+      "જ્યારે લાઈનોની સંખ્યા મેટ્રિક્સની સાઈઝ (N) કરતાં ઓછી હોય",
+      "જ્યારે મેટ્રિક્સમાં કોઈ શૂન્ય ન હોય"
+    ],
+    "correctAnswer": 0,
+    "explanation": "જ્યારે તમામ શૂન્યને આવરી લેતી ન્યૂનતમ આડી અને ઊભી લાઈનોની સંખ્યા મેટ્રિક્સના ક્રમ N જેટલી થાય ત્યારે ઓપ્ટિમલ એસાઇન્મેન્ટ શક્ય બને છે[cite: 7]."
+  },
+  {
+    "id": 82,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "Queuing theory is related to which problem?",
+    "gujaratiQuestion": "082. ક્યૂઇંગ થિયરી કયા પ્રોબ્લેમ સાથે સંબંધિત છે?",
+    "options": [
+      "મટિરિયલ હેન્ડલિંગ",
+      "મશીનોનો અસરકારક ઉપયોગ",
+      "વેઇટિંગ ટાઈમ ઘટાડવો",
+      "મેન સર્વિસનો વધુ સારો ઉપયોગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ક્યૂઇંગ થિયરી મુખ્યત્વે ગ્રાહકો કે જોબ્સના લાઈનમાં ઊભા રહેવાના વેઇટિંગ ટાઈમ અને સંબંધિત ખર્ચ ઘટાડવા સાથે સંબંધિત છે[cite: 7]."
+  },
+  {
+    "id": 83,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "In the Hungarian method, if the minimum number of lines is less than the size of matrix (N), what is the next step?",
+    "gujaratiQuestion": "083. જો Hungarian method માં ન્યૂનતમ લાઈનોની સંખ્યા મેટ્રિક્સની સાઈઝ (N) કરતાં ઓછી આવે, તો આગળનું સ્ટેપ શું હોય છે?",
+    "options": [
+      "પ્રોબ્લેમ પૂર્ણ થઈ ગયો ગણાય",
+      "કવર ન થયેલા ઘટકોમાંથી સૌથી નાનો ઘટક પસંદ કરી, તેને બાદ કરવો અને છેદન બિંદુ પર ઉમેરવો",
+      "બધા જ 0 ને 1માં ફેરવવા",
+      "મેટ્રિક્સને 2 વડે ભાગી દેવો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અનકવર્ડ ઘટકોમાંથી લઘુત્તમ મૂલ્ય શોધીને તેને અનકવર્ડમાંથી બાદ કરવું અને છેદન બિંદુ (Intersection) પર ઉમેરવું[cite: 7]."
+  },
+  {
+    "id": 84,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "In an Assignment problem, if a particular job cannot be assigned to a specific machine, what is the cost of that cell taken as?",
+    "gujaratiQuestion": "Q84. Assignment problem માં જ્યારે કોઈ ચોક્કસ જોબ કોઈ ચોક્કસ મશીન પર કરવાની મનાઈ હોય, તો તે સેલનો ખર્ચ કેટલો લેવામાં આવે છે?",
+    "options": [
+      "0",
+      "-1",
+      "અનંત (M)",
+      "100"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રતિબંધિત એસાઇન્મેન્ટ (Prohibited assignment) માટે તે સેલનો ખર્ચ અત્યંત મોટો એટલે કે અનંત (M અથવા ∞) લેવામાં આવે છે[cite: 7]."
+  },
+  {
+    "id": 85,
+    "subject": "Operations Research",
+    "subTopic": "Decision-Making Tools",
+    "question": "In which study are SIMO charts used?",
+    "gujaratiQuestion": "085. SIMO ચાર્ટ્સનો ઉપયોગ શેમાં થાય છે?",
+    "options": [
+      "મોશન સ્ટડી",
+      "માઈક્રોમોશન સ્ટડી",
+      "પ્રોસેસ એનાલિસિસ",
+      "લેઆઉટ એનાલિસિસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SIMO (Simultaneous Motion Cycle) ચાર્ટનો ઉપયોગ થર્બલિગ્સની સૂક્ષ્મ ગતિવિધિઓ નોંધવા માઇક્રોમોશન સ્ટડીમાં થાય છે[cite: 7]."
+  },
+  {
+    "id": 86,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "In an N x N Assignment problem, what is the total number of allocations?",
+    "gujaratiQuestion": "Q86. N × N ના Assignment problem માં ફાળવણીઓની કુલ સંખ્યા કેટલી હોય છે?",
+    "options": [
+      "2N",
+      "N",
+      "N - 1",
+      "N²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વન-ટુ-વન એસાઇન્મેન્ટ મુજબ N કદના મેટ્રિક્સમાં ચોક્કસ N ફાળવણીઓ થાય છે[cite: 7]."
+  },
+  {
+    "id": 87,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "An Assignment problem is a form of Transportation problem where each Supply and Demand is equal to:",
+    "gujaratiQuestion": "Q87. Assignment problem એ Transportation problem નું એવું સ્વરૂપ છે જેમાં દરેક Supply અને Demand કેટલી હોય છે?",
+    "options": [
+      "શૂન્ય",
+      "અનંત",
+      "1",
+      "M"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એસાઇન્મેન્ટ સમસ્યામાં પ્રત્યેક સ્રોતનો સપ્લાય 1 અને પ્રત્યેક ડેસ્ટિનેશનની ડિમાન્ડ 1 હોય છે[cite: 7]."
+  },
+  {
+    "id": 88,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "Traveling Salesman Problem (TSP) is a special form of which model?",
+    "gujaratiQuestion": "088. Traveling Salesman Problem (TSP) એ કયા મોડેલનું વિશિષ્ટ સ્વરૂપ છે?",
+    "options": [
+      "ક્યુઈંગ મોડેલ",
+      "નેટવર્ક મોડેલ",
+      "એસાઈનમેન્ટ મોડેલ",
+      "રિપ્લેસમેન્ટ મોડેલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "TSP એ એસાઇન્મેન્ટ મોડેલનું વિશેષ સ્વરૂપ છે જેમાં સબ-ટૂર ન બને તેવી વધારાની શરત હોય છે[cite: 7]."
+  },
+  {
+    "id": 89,
+    "subject": "Operations Research",
+    "subTopic": "Decision-Making Tools",
+    "question": "In India, under the Industrial Disputes Act, 1947, the establishment of Works Committee is a:",
+    "gujaratiQuestion": "089. ભારતમાં, ઇન્ડસ્ટ્રીયલ ડિસ્પ્યુટ્સ એક્ટ, 1947 હેઠળ વર્ક્સ કમિટીની સ્થાપના માટે _____ છે.",
+    "options": [
+      "ફરજિયાત જોગવાઈ (Mandatory provision)",
+      "વૈધાનિક જોગવાઈ (Statutory provision)",
+      "સ્વૈચ્છિક જોગવાઈ",
+      "પેટા-કાયદા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "100 કે તેથી વધુ કામદારો ધરાવતા ઔદ્યોગિક એકમો માટે વર્ક્સ કમિટી એ કાયદાકીય વૈધાનિક જોગવાઈ (Statutory provision) છે[cite: 7]."
+  },
+  {
+    "id": 90,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "What is the additional condition in Traveling Salesman Problem (TSP)?",
+    "gujaratiQuestion": "Q90. Traveling Salesman Problem (TSP) માં કઈ વધારાની શરત હોય છે?",
+    "options": [
+      "સેલ્સમેને એક પણ શહેરની મુલાકાત લેવાની નથી",
+      "સેલ્સમેને દરેક શહેરની બરાબર એક વાર મુલાકાત લઇને મૂળ શહેરમાં પાછું ફરવાનું છે",
+      "સેલ્સમેને કોઈ એક શહેરમાં બે વાર જવાનું છે",
+      "સેલ્સમેને અડધા શહેરો જ ફરવાના છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સેલ્સમેને દરેક શહેરની એક જ વાર મુલાકાત લઈને ફરી મૂળ શરૂઆતના શહેરે પાછા ફરવાનું હોય છે (No sub-tour condition)[cite: 7]."
+  },
+  {
+    "id": 91,
+    "subject": "Operations Research",
+    "subTopic": "Network Flow Models",
+    "question": "In a network flow model, what are the points between which flow occurs called?",
+    "gujaratiQuestion": "091. નેટવર્ક ફ્લો મોડેલમાં જે બિંદુઓ વચ્ચે પ્રવાહ વહે છે તેને શું કહેવાય છે?",
+    "options": [
+      "આર્ક",
+      "નોડ્સ",
+      "કટ્સ",
+      "લૂપ્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નેટવર્કમાં જંક્શન અથવા બિંદુઓને નોડ્સ (Nodes અથવા Vertices) કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 92,
+    "subject": "Operations Research",
+    "subTopic": "Decision-Making Tools",
+    "question": "What is an organization of all constituent unions in a specific state called?",
+    "gujaratiQuestion": "092. કોઈ ચોક્કસ રાજ્યમાં તમામ ઘટક યુનિયન્સ (constituent unions) ના સંગઠનને શું કહેવાય છે?",
+    "options": [
+      "પ્લાન્ટ-લેવલ ફેડરેશન",
+      "લોકલ-લેવલ ફેડરેશન",
+      "રીજિયોનલ-લેવલ ફેડરેશન",
+      "નેશનલ-લેવલ ફેડરેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ચોક્કસ ભૌગોલિક પ્રદેશ કે રાજ્યસ્તરના યુનિયનોના જોડાણને રીજિયોનલ-લેવલ ફેડરેશન કહે છે[cite: 7]."
+  },
+  {
+    "id": 93,
+    "subject": "Operations Research",
+    "subTopic": "Network Flow Models",
+    "question": "What is the line or path connecting two nodes in a network called?",
+    "gujaratiQuestion": "Q93. નેટવર્કમાં બે નોડ્સને જોડતી લાઈન કે માર્ગને શું કહેવાય છે?",
+    "options": [
+      "એજ અથવા આર્ક",
+      "ઓરિજિન",
+      "સિંક",
+      "એક્ટિવિટી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બે નોડ્સને જોડતી શાખાને એજ (Edge), આર્ક (Arc) અથવા લિંક કહે છે[cite: 7]."
+  },
+  {
+    "id": 94,
+    "subject": "Operations Research",
+    "subTopic": "Network Flow Models",
+    "question": "If flow direction in an arc is fixed (only in one direction), what is such a graph called?",
+    "gujaratiQuestion": "Q94. જો આર્કમાં પ્રવાહની દિશા નિશ્ચિત હોય (માત્ર એક જ દિશામાં), તો તેને કેવો આલેખ કહેવાય?",
+    "options": [
+      "અનડાયરેક્ટેડ ગ્રાફ",
+      "ડાયરેક્ટેડ ગ્રાફ",
+      "ટ્રી",
+      "લૂપ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રવાહની દિશા નક્કી હોય તેવા નેટવર્કને ડાયરેક્ટેડ ગ્રાફ (Directed graph અથવા Digraph) કહે છે[cite: 7]."
+  },
+  {
+    "id": 95,
+    "subject": "Operations Research",
+    "subTopic": "Decision-Making Tools",
+    "question": "Which method is most suitable for drilling boreholes in hard soil or soft rock strata?",
+    "gujaratiQuestion": "095. સખત માટી અથવા નરમ ખડકોના સ્તરોમાં (soft rock strata) બોરહોલ ડ્રિલ કરવા માટે કઈ મેથડ સૌથી વધુ યોગ્ય છે?",
+    "options": [
+      "ઓગર બોરિંગ",
+      "પરક્યુશન ડ્રિલિંગ",
+      "રોટરી ડ્રિલિંગ",
+      "વોશ બોરિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સખત માટી અને નરમ ખડકોના સ્તરોમાં બોરહોલ માટે રોટરી ડ્રિલિંગ (Rotary drilling) સૌથી ઝડપી અને યોગ્ય પદ્ધતિ છે[cite: 7]."
+  },
+  {
+    "id": 96,
+    "subject": "Operations Research",
+    "subTopic": "Network Flow Models",
+    "question": "In a network, what is the node called from which flow only leaves (no flow enters)?",
+    "gujaratiQuestion": "096. નેટવર્કમાં જે નોડમાંથી માત્ર પ્રવાહ બહાર નીકળતો હોય (કોઈ પ્રવાહ અંદર આવતો ન હોય) તેને કયો નોડ કહે છે?",
+    "options": [
+      "સિંક નોડ",
+      "સોર્સ નોડ",
+      "ઈન્ટરમીડિયેટ નોડ",
+      "ડમી નોડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યાંથી પ્રવાહની શરૂઆત થાય છે તેને સોર્સ નોડ (Source node) કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 97,
+    "subject": "Operations Research",
+    "subTopic": "Network Flow Models",
+    "question": "In a network, what is the node called where flow only enters (no flow leaves)?",
+    "gujaratiQuestion": "097. નેટવર્કમાં જે નોડમાં માત્ર પ્રવાહ અંદર આવતો હોય (કોઈ પ્રવાહ બહાર જતો ન હોય) તેને કયો નોડ કહે છે?",
+    "options": [
+      "સોર્સ નોડ",
+      "સિંક નોડ",
+      "ટ્રાન્સશિપમેન્ટ નોડ",
+      "સપ્લાય નોડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યાં નેટવર્કનો તમામ પ્રવાહ સમાપ્ત થાય છે તેને સિંક નોડ (Sink node) કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 98,
+    "subject": "Operations Research",
+    "subTopic": "Decision-Making Tools",
+    "question": "Undisturbed soil samples are required for which test?",
+    "gujaratiQuestion": "098. અનડિસ્ટર્બ્ડ (અવિક્ષેપિત) સોઈલ સેમ્પલ શેના માટે જરૂરી છે?",
+    "options": [
+      "કન્સોલિડેશન ટેસ્ટ",
+      "સ્પેસિફિક ગ્રેવિટી ટેસ્ટ",
+      "શ્રિન્કેજ લિમિટ ટેસ્ટ",
+      "હાઈડ્રોમીટર ટેસ્ટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "માટીની કુદરતી રચના અને શિયર સ્ટ્રેન્થ માપવા માટે કન્સોલિડેશન ટેસ્ટમાં અનડિસ્ટર્બ્ડ સેમ્પલ જરૂરી છે[cite: 7]."
+  },
+  {
+    "id": 99,
+    "subject": "Operations Research",
+    "subTopic": "Network Flow Models",
+    "question": "Which popular algorithm is used to solve the Shortest Path Problem?",
+    "gujaratiQuestion": "Q99. Shortest Path Problem નો ઉકેલ શોધવા માટે કયો પ્રચલિત અલ્ગોરિધમ વપરાય છે?",
+    "options": [
+      "હંગેરિયન અલ્ગોરિધમ",
+      "ડાઈજક્સ્ટ્રાનો અલ્ગોરિધમ",
+      "વોગેલનો અલ્ગોરિધમ",
+      "સિમ્પ્લેક્સ અલ્ગોરિધમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સૌથી ટૂંકો માર્ગ શોધવા માટે ડાઇજક્સ્ટ્રા અલ્ગોરિધમ (Dijkstra's Algorithm) વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 100,
+    "subject": "Operations Research",
+    "subTopic": "Network Flow Models",
+    "question": "What is the main objective of the Maximum Flow Problem?",
+    "gujaratiQuestion": "Q100. Maximum Flow Problem નો મુખ્ય હેતુ શું હોય છે?",
+    "options": [
+      "નેટવર્કનો ખર્ચ ન્યૂનતમ કરવો",
+      "સોર્સથી સિંક સુધી મહત્તમ પ્રવાહ મોકલવો",
+      "બધા નોડ્સની મુલાકાત લેવી",
+      "ટૂંકો રસ્તો શોધવો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આર્કની ક્ષમતાઓને આધીન રહીને સોર્સથી સિંક વચ્ચે મહત્તમ કુલ પ્રવાહ મોકલવો તે તેનો મુખ્ય ઉદ્દેશ છે[cite: 7]."
+  },
+  {
+    "id": 101,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "In PERT, activity duration is assumed to follow which distribution?",
+    "gujaratiQuestion": "0101. PERT માં, એક્ટિવિટીના સમયનું ડિસ્ટ્રિબ્યુશન કયું હોવાનું માનવામાં આવે છે?",
+    "options": [
+      "નોર્મલ",
+      "પોઈઝન",
+      "બીટા (Beta)",
+      "એક્સપોનેન્શિયલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PERT માં દરેક પ્રવૃત્તિનો સમયગાળો બીટા વિતરણ (Beta distribution) અનુસરે છે[cite: 7]."
+  },
+  {
+    "id": 102,
+    "subject": "Operations Research",
+    "subTopic": "Network Flow Models",
+    "question": "Which algorithm is commonly used to solve the Maximum Flow Problem?",
+    "gujaratiQuestion": "Q102. Maximum Flow Problem ઉકેલવા માટે સામાન્ય રીતે કયો અલ્ગોરિધમ વપરાય છે?",
+    "options": [
+      "ક્રુસ્કલનો અલ્ગોરિધમ",
+      "ડાઈજક્સ્ટ્રાનો અલ્ગોરિધમ",
+      "ફૉર્ડ-ફલ્કર્સન અલ્ગોરિધમ",
+      "નોર્થ-વેસ્ટ કોર્નર મેથડ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મેક્સિમમ ફ્લો પ્રોબ્લેમ માટે ફોર્ડ-ફલ્કર્સન ઓગમેન્ટીંગ પાથ અલ્ગોરિધમ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 103,
+    "subject": "Operations Research",
+    "subTopic": "Network Flow Models",
+    "question": "According to the 'Max Flow - Min Cut' theorem, maximum network flow is equal to:",
+    "gujaratiQuestion": "Q103. 'Max Flow - Min Cut' થિયરમ મુજબ, નેટવર્કનો મહત્તમ પ્રવાહ કોના બરાબર હોય છે?",
+    "options": [
+      "મહત્તમ કટની ક્ષમતા",
+      "ન્યૂનતમ કટની ક્ષમતા",
+      "શૂન્ય",
+      "સોર્સની ક્ષમતા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મેક્સ ફ્લો - મિન કટ પ્રમેય અનુસાર નેટવર્કનો મહત્તમ પ્રવાહ લઘુત્તમ કટ કેપેસિટી (Capacity of minimum cut) બરાબર હોય છે[cite: 7]."
+  },
+  {
+    "id": 104,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "The Simplex method for solving linear programming problems uses:",
+    "gujaratiQuestion": "0104. લિનિયર પ્રોગ્રામિંગ પ્રોબ્લેમ સોલ્વ કરવા માટેની સિમ્પ્લેક્સ મેથડ શેનો ઉપયોગ કરે છે?",
+    "options": [
+      "ફિઝિબલ રીજિયનના તમામ પોઈન્ટ્સ",
+      "ફિઝિબલ રીજિયનના માત્ર કોર્નર પોઇન્ટ્સ",
+      "ઈન-ફિઝિબલ રીજિયનની અંદરના ઇન્ટરમીડિયેટ પોઇન્ટ્સ",
+      "ફિઝિબલ રીજિયનના માત્ર ઇન્ટિરિયર પોઇન્ટ્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સિમ્પ્લેક્સ મેથડ માત્ર ફિઝિબલ રીજિયનના એક્સ્ટ્રીમ/કોર્નર પોઇન્ટ્સ (Extreme points) ની ઇટરેટિવ તપાસ કરે છે[cite: 7]."
+  },
+  {
+    "id": 105,
+    "subject": "Operations Research",
+    "subTopic": "Network Flow Models",
+    "question": "What does a Minimal Spanning Tree (MST) represent in a network?",
+    "gujaratiQuestion": "Q105. Minimal Spanning Tree (MST) નો ઉકેલ શું દર્શાવે છે?",
+    "options": [
+      "નેટવર્કના બધા નોડ્સને જોડતો લૂપ વગરનો ન્યૂનતમ ખર્ચનો માર્ગ",
+      "માત્ર સોર્સ અને સિંકને જોડતો માર્ગ",
+      "પ્રવાહને મહત્તમ કરવો",
+      "કતારની લંબાઇ ઘટાડવી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "MST એ નેટવર્કના તમામ નોડ્સને કોઈ સાયકલ/લૂપ વગર લઘુત્તમ કુલ લંબાઈ કે ખર્ચથી જોડે છે[cite: 7]."
+  },
+  {
+    "id": 106,
+    "subject": "Operations Research",
+    "subTopic": "Network Flow Models",
+    "question": "Which algorithms are well known for finding the Minimal Spanning Tree (MST)?",
+    "gujaratiQuestion": "Q106. Minimal Spanning Tree (MST) શોધવા માટે કયા અલ્ગોરિધમ્સ જાણીતા છે?",
+    "options": [
+      "ફોર્ડ-ફલ્કર્સન",
+      "કુસ્કલ અને પ્રિમના અલ્ગોરિધમ",
+      "MODI મેથડ",
+      "હંગેરિયન મેથડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ન્યૂનતમ સ્પાનિંગ ટ્રી મેળવવા માટે ક્રુસ્કલ (Kruskal's) અને પ્રિમ (Prim's) અલ્ગોરિધમ વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 107,
+    "subject": "Operations Research",
+    "subTopic": "Decision-Making Tools",
+    "question": "In a given year, fixed investment for a product is Rs. 80,000. Variable cost is Rs. 4/unit and selling price is Rs. 20/unit. What is the breakeven point in units?",
+    "gujaratiQuestion": "0107. કોઈ ચોક્કસ વર્ષમાં પ્રોડક્ટના ઉત્પાદન માટેનું ફિક્સ્ડ ઇન્વેસ્ટમેન્ટ રૂ. 80,000/- છે. આ સમયગાળા માટે અંદાજિત વેચાણ રૂ. 2,00,000/- છે. આ પ્રોડક્ટ માટે યુનિટ દીઠ વેરીએબલ કોસ્ટ રૂ. 4/- છે. જો દરેક યુનિટ રૂ. 20/- માં વેચવામાં આવે, તો બ્રેક-ઇવન (breakeven) કેટલું હશે?",
+    "options": [
+      "4,000",
+      "5,000",
+      "10,000",
+      "20,000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "BEP (Units) = Fixed Cost / (Selling Price - Variable Cost) = 80000 / (20 - 4) = 80000 / 16 = 5000 units[cite: 7]."
+  },
+  {
+    "id": 108,
+    "subject": "Operations Research",
+    "subTopic": "Network Flow Models",
+    "question": "What does the rule of 'Flow conservation' indicate in a network model?",
+    "gujaratiQuestion": "0108. નેટવર્ક મોડેલમાં 'Flow conservation' નો નિયમ શું સૂચવે છે?",
+    "options": [
+      "Inflow > Outflow",
+      "Inflow < Outflow",
+      "Inflow = Outflow",
+      "Inflow = 0"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇન્ટરમીડિયેટ નોડ્સ પર કુલ પ્રવેશતો પ્રવાહ એ બહાર નીકળતા કુલ પ્રવાહ બરાબર હોવો જોઈએ (Inflow = Outflow)[cite: 7]."
+  },
+  {
+    "id": 109,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "The main purpose of queuing theory is to balance which two costs?",
+    "gujaratiQuestion": "0109. ક્યુઇંગ થિયરી નો મુખ્ય હેતુ કયા બે ખર્ચ વચ્ચે સંતુલન જાળવવાનો છે?",
+    "options": [
+      "માલસામાનનો ખર્ચ અને મજૂરી ખર્ચ",
+      "સર્વિસ ખર્ચ અને ગ્રાહકના વેઇટિંગનો ખર્ચ",
+      "ઉત્પાદન ખર્ચ અને વેચાણ ખર્ચ",
+      "વહન ખર્ચ અને સંગ્રહ ખર્ચ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ક્યૂઇંગ સિસ્ટમમાં સર્વિસ સુવિધા ઊભી કરવાનો ખર્ચ અને ગ્રાહકના વેઇટિંગ ખર્ચ વચ્ચે કુલ ખર્ચ ન્યૂનતમ કરાય છે[cite: 7]."
+  },
+  {
+    "id": 110,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "In queuing models, customer arrival rate generally follows which distribution?",
+    "gujaratiQuestion": "Q110. Queuing મોડેલમાં ગ્રાહકોના આગમન નો દર સામાન્ય રીતે કયા વિતરણને અનુસરે છે?",
+    "options": [
+      "નોર્મલ ડિસ્ટ્રિબ્યુશન",
+      "બાયનોમિયલ ડિસ્ટ્રિબ્યુશન",
+      "પોઈસન ડિસ્ટ્રિબ્યુશન",
+      "યુનિફોર્મ ડિસ્ટ્રિબ્યુશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સમયગાળા દીઠ ગ્રાહકોનું આગમન રેન્ડમ હોવાથી પોઇસન ડિસ્ટ્રિબ્યુશન (Poisson distribution) ને અનુસરે છે[cite: 7]."
+  },
+  {
+    "id": 111,
+    "subject": "Operations Research",
+    "subTopic": "Project Planning",
+    "question": "Process-oriented layout:",
+    "gujaratiQuestion": "Q111. પ્રોસેસ ઓરિએન્ટેડ લેઆઉટ:",
+    "options": [
+      "ગ્રાહકના વર્તનના આધારે શેલ્ફ સ્પેસ ફાળવે છે",
+      "જહાજો અને ઈમારતો જેવા મોટા ભારે પ્રોજેક્ટ્સની લેઆઉટ જરૂરિયાતોને પૂર્ણ કરે છે",
+      "લો વોલ્યુમ, હાઈ વેરાયટી પ્રોડક્શન સાથે સંબંધિત છે",
+      "કન્ટીન્યુઅસ પ્રોડક્શનમાં બેસ્ટ મશીન યુટિલાઇઝેશન શોધે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રોસેસ (અથવા ફંક્શનલ) લેઆઉટ ઓછો જથ્થો અને વિવિધ પ્રકારના ઉત્પાદન (Low volume, High variety) માટે વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 112,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "In queuing models, inter-arrival time and service time generally follow which distribution?",
+    "gujaratiQuestion": "Q112. Queuing મોડેલમાં બે ગ્રાહકોના આગમન વચ્ચેનો સમય અને સર્વિસ સમય સામાન્ય રીતે કયા વિતરણને અનુસરે છે?",
+    "options": [
+      "પોઈસન ડિસ્ટ્રિબ્યુશન",
+      "એક્સપોનેન્શિયલ ડિસ્ટ્રિબ્યુશન",
+      "નોર્મલ ડિસ્ટ્રિબ્યુશન",
+      "બીટા ડિસ્ટ્રિબ્યુશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બે આગમન વચ્ચેનો સમયગાળો ઘાતાંકીય એટલે કે એક્સપોનેન્શિયલ ડિસ્ટ્રિબ્યુશન (Exponential distribution) અનુસરે છે[cite: 7]."
+  },
+  {
+    "id": 113,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "In Kendall's notation (A/B/C/D/E) in queuing theory, what does the first letter 'A' represent?",
+    "gujaratiQuestion": "Q113. ક્યુઇંગ થિયરીમાં Kendall's notation (A/B/C/D/E) માં પ્રથમ અક્ષર 'A' શું દર્શાવે છે?",
+    "options": [
+      "સર્વિસ ટાઈમ ડિસ્ટ્રિબ્યુશન",
+      "અરાઇવલ ટાઈમ ડિસ્ટ્રિબ્યુશન",
+      "સર્વર્સની સંખ્યા",
+      "ક્યૂ ડિસિપ્લિન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કેન્ડાલ નોટેશનમાં A = આગમન વિતરણ (Arrival distribution) અને B = સર્વિસ વિતરણ દર્શાવે છે[cite: 7]."
+  },
+  {
+    "id": 114,
+    "subject": "Operations Research",
+    "subTopic": "Optimization Concepts",
+    "question": "The difference between basic EOQ model and Production Order Quantity (POQ) model is that:",
+    "gujaratiQuestion": "Q114. બેઝિક EOQ મોડલ અને પ્રોડક્શન ઓર્ડર ક્વોન્ટિટી (POQ) મોડલ વચ્ચેનો તફાવત એ છે કે:",
+    "options": [
+      "POQ મોડલમાં ડિલિવરી તત્કાળ (instantaneous) થાય છે તેવી ધારણાની જરૂર નથી",
+      "POQ મોડલમાં જાણીતી અને અચળ ડિમાન્ડની ધારણાની જરૂર નથી",
+      "EOQ મોડલમાં અવગણી શકાય તેવા (negligible) લીડ ટાઈમની ધારણાની જરૂર નથી",
+      "આપેલ તમામ વિકલ્પો સાચા છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POQ મોડેલમાં માલ એકસાથે આવવાને બદલે ક્રમશઃ ઉત્પાદન સાથે જમા થાય છે (Non-instantaneous receipt)[cite: 7]."
+  },
+  {
+    "id": 115,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "In an M/M/1 queueing model, what does '1' represent?",
+    "gujaratiQuestion": "0115. M/M/1 ક્યૂઇંગ મોડેલમાં '1' શું દર્શાવે છે?",
+    "options": [
+      "1 ગ્રાહક",
+      "1 મિનિટનો સર્વિસ સમય",
+      "સિંગલ સર્વર",
+      "1 કલાકનો આગમન દર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "M/M/1 માં ત્રીજો અક્ષર સર્વિસ ચેનલ/સર્વરની સંખ્યા દર્શાવે છે, જે અહીં સિંગલ સર્વર (Single Server) છે[cite: 7]."
+  },
+  {
+    "id": 116,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "What is the formula for traffic intensity (ρ) or utilization factor in Queuing theory? (where λ = arrival rate, μ = service rate)",
+    "gujaratiQuestion": "0116. Queuing theory માં ટ્રાફિક ઇન્ટેન્સિટી (ρ) અથવા યુટિલાઈઝેશન ફેક્ટરનું સૂત્ર શું છે? (જ્યાં λ = અરાઇવલ રેટ, μ = સર્વિસ રેટ)",
+    "options": [
+      "ρ = μ / λ",
+      "ρ = λ · μ",
+      "ρ = λ / μ",
+      "ρ = λ + μ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટ્રાફિક ઇન્ટેન્સિટી ρ = અરાઇવલ રેટ / સર્વિસ રેટ = λ / μ થાય છે[cite: 7]."
+  },
+  {
+    "id": 117,
+    "subject": "Operations Research",
+    "subTopic": "Project Planning",
+    "question": "What does a Critical Ratio CR > 1 indicate?",
+    "gujaratiQuestion": "0117. ક્રિટિકલ રેશિયો, CR > 1 નો અર્થ શું છે?",
+    "options": [
+      "જોબ બરાબર સમયસર (on time) છે",
+      "આવા તારણો ન કાઢી શકાય કારણ કે તે પ્રોજેક્ટ મેનેજમેન્ટ સંબંધિત છે",
+      "જોબ શિડ્યુલ કરતા આગળ (ahead) ચાલી રહી છે",
+      "જોબ શિડ્યુલ કરતા પાછળ (behind) ચાલી રહી છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જ્યારે CR > 1 હોય ત્યારે કાર્ય સમય કરતાં આગળ ચાલી રહ્યું છે (Ahead of schedule)[cite: 7]."
+  },
+  {
+    "id": 118,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "What is the necessary condition for stability in an M/M/1 queuing system?",
+    "gujaratiQuestion": "Q118. M/M/1 મોડેલમાં સિસ્ટમ સ્થિર રહે તે માટેની જરૂરી શરત કઈ છે?",
+    "options": [
+      "λ > μ",
+      "λ = μ",
+      "λ < μ",
+      "λ = 0"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કતાર અનંત ન બને તે માટે આગમન દર સર્વિસ દર કરતાં ઓછો (λ < μ એટલે કે ρ < 1) હોવો જરૂરી છે[cite: 7]."
+  },
+  {
+    "id": 119,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "Which queue discipline is commonly practiced where the first person to arrive gets served first?",
+    "gujaratiQuestion": "Q119. સામાન્ય રીતે કતારમાં કઈ શિસ્ત પાળવામાં આવે છે, જેમાં પહેલા આવનારને પહેલા સર્વિસ મળે?",
+    "options": [
+      "LIFO",
+      "SIRO",
+      "FIFO/FCFS",
+      "Priority"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પહેલા આવનારને પ્રથમ સેવા એટલે First-In First-Out (FIFO) અથવા First-Come First-Served (FCFS)[cite: 7]."
+  },
+  {
+    "id": 120,
+    "subject": "Operations Research",
+    "subTopic": "Resource Allocation",
+    "question": "Which two most important questions are answered by a typical inventory model?",
+    "gujaratiQuestion": "Q120. ટિપિકલ ઇન્વેન્ટરી મોડલ દ્વારા કયા બે સૌથી મહત્વપૂર્ણ પ્રશ્નોના જવાબ આપવામાં આવે છે?",
+    "options": [
+      "આઈટમનો કેટલો ઓર્ડર આપવો અને ઓર્ડરની કોસ્ટ કેટલી",
+      "ઓર્ડર ક્યારે આપવો અને ઓર્ડરની કોસ્ટ કેટલી",
+      "આઈટમનો કેટલો ઓર્ડર આપવો અને ઓર્ડર કોને આપવો",
+      "ઓર્ડર ક્યારે આપવો અને આઈટમનો કેટલો ઓર્ડર આપવો"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઇન્વેન્ટરી કંટ્રોલ મુખ્ય બે બાબતો નક્કી કરે છે: ક્યારે ઓર્ડર કરવો (ROP) અને કેટલો ઓર્ડર કરવો (EOQ)[cite: 7]."
+  },
+  {
+    "id": 121,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "In a queuing system, when a customer sees a long queue and leaves without joining, what is that behavior called?",
+    "gujaratiQuestion": "Q121. ક્યુઇંગ સિસ્ટમમાં ગ્રાહક કતાર લાંબી જોઈને કતારમાં જોડાયા વગર જ જતો રહે, તે વર્તનને શું કહેવાય છે?",
+    "options": [
+      "Reneging",
+      "Balking",
+      "Jockeying",
+      "Waiting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "લાઈન જોઈને દાખલ થયા વગર જ જતા રહેવાના વર્તનને બાલ્કિંગ (Balking) કહે છે[cite: 7]."
+  },
+  {
+    "id": 122,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "In a queuing system, when a customer joins the queue but leaves without taking service due to waiting, what is it called?",
+    "gujaratiQuestion": "Q122. કયુઇંગ સિસ્ટમમાં ગ્રાહક કતારમાં જોડાય, પરંતુ વધુ સમય રાહ જોવી પડતાં કંટાળીને સર્વિસ લીધા વગર જતો રહે, તેને શું કહેવાય છે?",
+    "options": [
+      "Balking",
+      "Reneging",
+      "Jockeying",
+      "Collusion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "લાઈનમાં ઊભા રહ્યા પછી કંટાળીને અધવચ્ચેથી જતા રહેવાને રિનેગિંગ (Reneging) કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 123,
+    "subject": "Operations Research",
+    "subTopic": "Decision-Making Tools",
+    "question": "Productivity:",
+    "gujaratiQuestion": "Q123. પ્રોડક્ટિવિટી:",
+    "options": [
+      "ડાયમેન્શનલેસ (પરિમાણરહિત) ફોર્મમાં દર્શાવી શકાય છે",
+      "એફિશિયન્સી સમાન છે",
+      "માત્ર પ્રતિ કલાક ઉત્પાદિત યુનિટ્સ તરીકે જ દર્શાવી શકાય છે",
+      "અંશ (numerator) તરીકે ઘણા ફેક્ટર્સનો ઉપયોગ કરી શકે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "જ્યારે આઉટપુટ અને ઇનપુટ બંને નાણાકીય મૂલ્યમાં મપાય ત્યારે ઉત્પાદકતા પરિમાણરહિત બને છે[cite: 7]."
+  },
+  {
+    "id": 124,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "When a customer frequently switches from one queue to another, what is it called?",
+    "gujaratiQuestion": "0124. જ્યારે ગ્રાહક એક કતારમાંથી બીજી કતારમાં વારંવાર બદલાતો રહે, તેને શું કહેવાય છે?",
+    "options": [
+      "Balking",
+      "Reneging",
+      "Jockeying",
+      "Skipping"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એક લાઇનમાંથી બીજી ઝડપી લાઇનમાં સ્વિચ કરવાના વર્તનને જોકીઇંગ (Jockeying) કહે છે[cite: 7]."
+  },
+  {
+    "id": 125,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "In an M/M/1 system, what is the formula for the probability that there are zero customers in the system (P0)?",
+    "gujaratiQuestion": "Q125. M/M/1 સિસ્ટમમાં કતારમાં એક પણ ગ્રાહક ન હોય તેની સંભાવના (P0) નું સૂત્ર શું છે?",
+    "options": [
+      "ρ",
+      "1 + ρ",
+      "1 - ρ",
+      "1 / ρ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સિસ્ટમ આઇડલ (ખાલી) હોવાની સંભાવના P0 = 1 - ρ (જ્યાં ρ = λ/μ) થાય છે[cite: 7]."
+  },
+  {
+    "id": 126,
+    "subject": "Operations Research",
+    "subTopic": "Project Planning",
+    "question": "Aggregate Production Planning caters to which of the following?",
+    "gujaratiQuestion": "0126. એગ્રીગેટ પ્રોડક્શન પ્લાનિંગ કોને પૂર્ણ કરે છે (caters to)?",
+    "options": [
+      "શોર્ટ રેન્જ પ્રોડક્શન પ્લાન્સ",
+      "રેવન્યુ મેનેજમેન્ટ પ્લાન્સ",
+      "ડિટેઈલ્ડ પ્રોડક્શન શિડ્યુલ્સ",
+      "મિડિયમ રેન્જ પ્રોડક્શન પ્લાન્સ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "એગ્રીગેટ પ્લાનિંગ સામાન્ય રીતે 3 થી 18 મહિનાના મધ્યમ ગાળાના (Medium range) પ્લાનિંગ માટે વપરાય છે[cite: 7]."
+  },
+  {
+    "id": 127,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "In an M/M/1 system, what is the expected number of customers in the system (Ls)?",
+    "gujaratiQuestion": "Q127. M/M/1 સિસ્ટમમાં સિસ્ટમમાં રહેલા ગ્રાહકોની અપેક્ષિત સંખ્યા (Ls) કેટલી હોય છે?",
+    "options": [
+      "ρ / (1 - ρ)",
+      "ρ² / (1 - ρ)",
+      "λ / μ",
+      "μ / λ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સિસ્ટમમાં રહેલા સરેરાશ ગ્રાહકોની સંખ્યા Ls = ρ / (1 - ρ) અથવા λ / (μ - λ) થાય[cite: 7]."
+  },
+  {
+    "id": 128,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "In an M/M/1 system, what is the expected number of customers waiting in the queue (Lq)?",
+    "gujaratiQuestion": "Q128. M/M/1 સિસ્ટમમાં માત્ર કતારમાં રહેલા ગ્રાહકોની અપેક્ષિત સંખ્યા (Lq) કેટલી હોય છે?",
+    "options": [
+      "ρ / (1 - ρ)",
+      "ρ² / (1 - ρ)",
+      "1 / (μ - λ)",
+      "λ / (μ - λ)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કતારમાં રહેલા સરેરાશ ગ્રાહકો Lq = ρ² / (1 - ρ) અથવા λ² / [μ(μ - λ)] થાય[cite: 7]."
+  },
+  {
+    "id": 129,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "When is an unbounded solution found in Simplex method for a linear programming problem?",
+    "gujaratiQuestion": "Q129. લિનિયર પ્રોગ્રામિંગ પ્રોબ્લેમનું અનબાઉન્ડેડ (unbounded) સોલ્યુશન સિમ્પ્લેક્સ મેથડમાં ક્યારે જોવા મળે છે?",
+    "options": [
+      "કી કોલમમાંના કોએફિશિયન્ટ્સ સાથે 'રાઈટ હેન્ડ સાઇડ્સ' ના તમામ રેશિયો નેગેટિવ બની જાય",
+      "કી કોલમમાંના કોએફિશિયન્ટ્સ અને રાઇટ હેન્ડ સાઈડ્સ ના તમામ ગુણોત્તર શૂન્ય બની જાય",
+      "તમામ રાઈટ હેન્ડ સાઇડ્સ નેગેટિવ બની જાય",
+      "તમામ રાઈટ હેન્ડ સાઇડ્સ શૂન્ય બની જાય"
+    ],
+    "correctAnswer": 0,
+    "explanation": "જ્યારે કી કોલમના તમામ ઘટકો ઋણ કે શૂન્ય હોય અને રેશિયો નેગેટિવ/અવ્યાખ્યાયિત બને ત્યારે અનબાઉન્ડેડ ઉકેલ મળે છે[cite: 7]."
+  },
+  {
+    "id": 130,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "According to Little's Law, what is the relation between average number of customers (L) and average waiting time (W)?",
+    "gujaratiQuestion": "Q130. Little's Law મુજબ સિસ્ટમમાં રહેલા ગ્રાહકોની સંખ્યા (L) અને સિસ્ટમમાં વિતાવેલ સમય (W) વચ્ચેનો સંબંધ કયો છે?",
+    "options": [
+      "L = λ + W",
+      "L = W / λ",
+      "L = λ · W",
+      "L = λ - W"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લિટલનો નિયમ L = λ · W (અથવા Lq = λ · Wq) નો સંબંધ આપે છે[cite: 7]."
+  },
+  {
+    "id": 131,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "In an M/M/1 model, what is the expected time a customer spends in the system (Ws)?",
+    "gujaratiQuestion": "Q131. M/M/1 મોડેલમાં ગ્રાહકે સિસ્ટમમાં વિતાવેલો અપેક્ષિત સમય (Ws) કેટલો હોય છે?",
+    "options": [
+      "1 / (μ - λ)",
+      "λ / (μ - λ)",
+      "1 / μ",
+      "1 / λ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સિસ્ટમમાં વિતાવેલો કુલ સરેરાશ સમય Ws = 1 / (μ - λ) થાય છે[cite: 7]."
+  },
+  {
+    "id": 132,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "In an M/M/1 model, what is the expected waiting time of a customer in queue (Wq)?",
+    "gujaratiQuestion": "Q132. M/M/1 મોડેલમાં ગ્રાહકે માત્ર કતારમાં વિતાવેલો અપેક્ષિત સમય (Wq) કેટલો હોય છે?",
+    "options": [
+      "1 / (μ - λ)",
+      "λ / [μ(μ - λ)]",
+      "ρ / (1 - ρ)",
+      "1 - ρ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કતારમાં વેઇટિંગ ટાઇમ Wq = λ / [μ(μ - λ)] થાય છે[cite: 7]."
+  },
+  {
+    "id": 133,
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "In the Simplex method, what are the variables called that are not assigned zero values during an iteration?",
+    "gujaratiQuestion": "0133. સિમ્પ્લેક્સ મેથડમાં, ઇટરેશન દરમિયાન જે વેરીએબલ્સને શૂન્ય મૂલ્ય અસાઈન કરવામાં આવતું નથી, તેને શું કહેવાય છે?",
+    "options": [
+      "બેઝિક વેરીએબલ્સ",
+      "એક્ચ્યુઅલ વેરીએબલ્સ",
+      "આર્ટિફિશિયલ વેરીએબલ્સ",
+      "આપેલ વિકલ્પોમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "જે ચલોનું મૂલ્ય શૂન્ય સિવાયનું હોય અને બેઝિસમાં હોય તેને બેઝિક વેરિયેબલ્સ (Basic variables) કહે છે[cite: 7]."
+  },
+  {
+    "id": 134,
+    "subject": "Operations Research",
+    "subTopic": "Queuing Models",
+    "question": "In an M/M/c queuing model, what does 'c' represent?",
+    "gujaratiQuestion": "Q134. M/M/c મોડેલમાં 'c' શું દર્શાવે છે?",
+    "options": [
+      "ખર્ચ",
+      "મલ્ટિપલ સર્વર્સ",
+      "કસ્ટમર કેપેસિટી",
+      "કોલિંગ પોપ્યુલેશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'c' એ સમાંતર કામ કરતા સર્વિસ ચેનલો અથવા સર્વર્સની સંખ્યા (Multiple servers) દર્શાવે છે[cite: 7]."
+  },
+  {
+    "id": 135,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "What is the full form of PERT in project management?",
+    "gujaratiQuestion": "0135. પ્રોજેક્ટ મેનેજમેન્ટમાં PERT નું પૂરું નામ શું છે?",
+    "options": [
+      "Program Evaluation and Review Technique",
+      "Project Execution and Review Technique",
+      "Program Evaluation and Record Technique",
+      "Project Engineering and Research Technique"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PERT એટલે Program Evaluation and Review Technique[cite: 7]."
+  },
+  {
+    "id": 136,
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "The graphical method for solving linear programming problems uses:",
+    "gujaratiQuestion": "0136. લિનિયર પ્રોગ્રામિંગ પ્રોબ્લેમ સોલ્વ કરવા માટેની ગ્રાફિકલ મેથડ શેનો ઉપયોગ કરે છે?",
+    "options": [
+      "ફિઝિબલ રીજિયનના તમામ પોઈન્ટ્સ",
+      "ફિઝિબલ રીજિયનના માત્ર કોર્નર પોઇન્ટ્સ",
+      "ઈન-ફિઝિબલ રીજિયનની અંદરના ઇન્ટરમીડિયેટ પોઇન્ટ્સ",
+      "ફિઝિબલ રીજિયનના માત્ર ઇન્ટિરિયર પોઇન્ટ્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગ્રાફિકલ મેથડમાં ઓપ્ટિમલ પોઈન્ટ શોધવા ફિઝિબલ રીજિયનના કોર્નર પોઇન્ટ્સનું મૂલ્યાંકન કરાય છે[cite: 7]."
+  },
+  {
+    "id": 137,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "What is the full form of CPM in project management?",
+    "gujaratiQuestion": "0137. પ્રોજેક્ટ મેનેજમેન્ટમાં CPM નું પૂરું નામ શું છે?",
+    "options": [
+      "Critical Project Method",
+      "Critical Path Method",
+      "Control Path Method",
+      "Common Program Method"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CPM નું પૂરું નામ Critical Path Method છે[cite: 7]."
+  },
+  {
+    "id": 138,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "The PERT technique is based on which type of model?",
+    "gujaratiQuestion": "Q138. PERT પદ્ધતિ કયા પ્રકારના મોડેલ પર આધારિત છે?",
+    "options": [
+      "નિશ્ચિત",
+      "સંભાવના આધારિત",
+      "અચળ",
+      "સ્ટેટિક"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સંશોધન પ્રોજેક્ટ્સ માટે અનિશ્ચિત સમય હોવાથી PERT એ સંભાવના આધારિત (Probabilistic) મોડેલ છે[cite: 7]."
+  },
+  {
+    "id": 139,
+    "subject": "Operations Research",
+    "subTopic": "Decision-Making Tools",
+    "question": "Which characteristic property of cast iron is exceptionally high?",
+    "gujaratiQuestion": "Q139. કાસ્ટ આયર્નની વિશિષ્ટ પ્રોપર્ટી કઈ છે કે જે ખૂબ ઊંચી હોય છે?",
+    "options": [
+      "મેલિએબિલિટી",
+      "ડક્ટિલિટી",
+      "સરફેસ ફિનિશ",
+      "ડેમ્પિંગ કેરેક્ટરિસ્ટિક્સ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "કાસ્ટ આયર્નમાં વાઇબ્રેશન શોષવાની ક્ષમતા (Damping capacity) ખૂબ જ ઊંચી હોય છે[cite: 7]."
+  },
+  {
+    "id": 140,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "The CPM technique is based on which type of model?",
+    "gujaratiQuestion": "Q140. CPM પદ્ધતિ કયા પ્રકારના મોડેલ પર આધારિત છે?",
+    "options": [
+      "સંભાવના આધારિત",
+      "નિશ્ચિત",
+      "રેન્ડમ",
+      "સ્ટોકેસ્ટિક"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બાંધકામ અને પુનરાવર્તિત પ્રોજેક્ટ્સમાં પ્રવૃત્તિનો સમય જ્ઞાત હોવાથી CPM એ ડિટરમિનિસ્ટિક (નિશ્ચિત) મોડેલ છે[cite: 7]."
+  },
+  {
+    "id": 141,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "How many types of time estimates are used in PERT?",
+    "gujaratiQuestion": "Q141. PERT માં સમયના અંદાજ માટે કેટલા પ્રકારના સમય લેવામાં આવે છે?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PERT માં 3 સમય અંદાજ લેવાય છે: Optimistic (to), Most likely (tm), અને Pessimistic (tp)[cite: 7]."
+  },
+  {
+    "id": 142,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "When is a Transportation problem called balanced?",
+    "gujaratiQuestion": "0142. ટ્રાન્સપોર્ટેશન પ્રોબ્લેમ ક્યારે બેલેન્સ્ડ (balanced) કહેવાય છે?",
+    "options": [
+      "કુલ ડિમાન્ડ અને કુલ સપ્લાય સમાન હોય અને સોર્સની સંખ્યા ડેસ્ટિનેશનની સંખ્યા બરાબર હોય",
+      "સોર્સ અને ડેસ્ટિનેશનની સંખ્યાને ધ્યાનમાં લીધા વિના કુલ ડિમાન્ડ અને કુલ સપ્લાય સમાન હોય",
+      "સોર્સની સંખ્યા ડેસ્ટિનેશનની સંખ્યા સાથે મેચ થતી હોય",
+      "આપેલ વિકલ્પોમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યારે કુલ સપ્લાય અને કુલ ડિમાન્ડ સમાન હોય (ભલે m ≠ n હોય) ત્યારે તે બેલેન્સ્ડ કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 143,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "What is the formula to calculate expected time (te) in PERT? (to = optimistic, tm = most likely, tp = pessimistic)",
+    "gujaratiQuestion": "Q143. PERT માં અપેક્ષિત સમય (te) ગણવાનું સૂત્ર કયું છે? (to = optimistic, tm = most likely, tp = pessimistic)",
+    "options": [
+      "te = (to + tm + tp) / 3",
+      "te = (to + 2tm + tp) / 4",
+      "te = (to + 4tm + tp) / 6",
+      "te = (to + tm + 4tp) / 6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બીટા વિતરણ મુજબ અપેક્ષિત સમય te = (to + 4tm + tp) / 6 થાય છે[cite: 7]."
+  },
+  {
+    "id": 144,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "By which formula is the variance (σ²) of activity time calculated in PERT?",
+    "gujaratiQuestion": "Q144. PERT માં એક્ટિવિટીના સમયનો વેરિયાન્સ (σ²) કયા સૂત્રથી ગણવામાં આવે છે?",
+    "options": [
+      "[(tp - to) / 6]²",
+      "(tp - to) / 6",
+      "(tp + to) / 2",
+      "[(tp - to) / 3.5]²"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વેરિયન્સ σ² = [(tp - to) / 6]² થાય છે[cite: 7]."
+  },
+  {
+    "id": 145,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "In a transportation problem with m sources and n destinations, what is the total number of basic variables in a basic feasible solution?",
+    "gujaratiQuestion": "0145. જો ટ્રાન્સપોર્ટેશન પ્રોબ્લેમમાં m સોર્સ અને n ડેસ્ટિનેશન હોય, તો બેઝિક ફિઝિબલ સોલ્યુશનમાં બેઝિક વેરીએબલ્સની કુલ સંખ્યા કેટલી હોય છે?",
+    "options": [
+      "m + n",
+      "m + n + 1",
+      "m + n - 1",
+      "m × n"
+    ],
+    "correctAnswer": 2,
+    "explanation": "નોન-ડીજનરેટ બેઝિક ફિઝિબલ ઉકેલમાં બેઝિક વેરિયેબલ્સની સંખ્યા m + n - 1 હોય છે[cite: 7]."
+  },
+  {
+    "id": 146,
+    "subject": "Operations Research",
+    "subTopic": "Network Flow Models",
+    "question": "In a network diagram, which activity consumes no time or resources but only shows logical precedence?",
+    "gujaratiQuestion": "Q146. નેટવર્ક ડાયાગ્રામમાં કઈ એક્ટિવિટી સમય કે સંસાધનો લેતી નથી, પરંતુ માત્ર તાર્કિક સંબંધ દર્શાવે છે?",
+    "options": [
+      "ક્રિટિકલ એક્ટિવિટી",
+      "ડમી એક્ટિવિટી",
+      "સક્સેસર એક્ટિવિટી",
+      "પ્રિડિસેસર એક્ટિવિટી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડમી એક્ટિવિટી (Dummy activity) શૂન્ય સમય અને શૂન્ય સંસાધન વાપરી માત્ર તાર્કિક સંબંધ દર્શાવે છે[cite: 7]."
+  },
+  {
+    "id": 147,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "Which is the Critical Path in a network diagram?",
+    "gujaratiQuestion": "Q147. નેટવર્કમાં Critical Path કયો હોય છે?",
+    "options": [
+      "સૌથી ટૂંકો પાથ",
+      "સૌથી લાંબો પાથ",
+      "સૌથી વધુ એક્ટિવિટી વાળો પાથ",
+      "સૌથી ઓછો ખર્ચ વાળો પાથ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ક્રિટિકલ પાથ એ પ્રોજેક્ટ નેટવર્કનો સમયગાળાની દ્રષ્ટિએ સૌથી લાંબો પાથ છે[cite: 7]."
+  },
+  {
+    "id": 148,
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "While solving a transportation problem, what does occurrence of degeneracy mean?",
+    "gujaratiQuestion": "0148. ટ્રાન્સપોર્ટેશન પ્રોબ્લેમ સોલ્વ કરતી વખતે ડીજનરેસી (degeneracy) ના ઉદ્ભવનો અર્થ શું થાય છે?",
+    "options": [
+      "કુલ સપ્લાય અને કુલ ડિમાન્ડ સમાન છે",
+      "મળેલું સોલ્યુશન ફિઝિબલ નથી",
+      "કેટલીક ફાળવણીઓ (allocations) નેગેટિવ થઈ જાય છે",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ડીજનરેસીનો અર્થ એ છે કે સ્વતંત્ર ફાળવણીઓની સંખ્યા m + n - 1 કરતાં ઓછી થઈ જાય છે[cite: 7]."
+  },
+  {
+    "id": 149,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "What is the Float of an activity on the Critical path?",
+    "gujaratiQuestion": "Q149. Critical path પર આવેલી એક્ટિવિટીનો Float કેટલો હોય છે?",
+    "options": [
+      "1",
+      "મહત્તમ",
+      "શૂન્ય",
+      "ઋણ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ક્રિટિકલ એક્ટિવિટીમાં વિલંબ સહન ન થઈ શકતો હોવાથી તેનો ટોટલ ફ્લોટ શૂન્ય (0) હોય છે[cite: 7]."
+  },
+  {
+    "id": 150,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "What is the maximum delay an activity can take without affecting the project completion time called?",
+    "gujaratiQuestion": "Q150. કોઈપણ એક્ટિવિટીને શરૂ કરવામાં વધુમાં વધુ કેટલો વિલંબ કરી શકાય જેથી પ્રોજેક્ટ પૂર્ણ થવાના સમયમાં કોઈ ફેર ન પડે, તેને શું કહેવાય?",
+    "options": [
+      "ફ્રી ફ્લોટ",
+      "ઇન્ડિપેન્ડન્ટ ફ્લોટ",
+      "ટોટલ ફ્લોટ",
+      "ઇન્ટરફિયરિંગ ફ્લોટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રોજેક્ટ પૂરો થવાના સમયને અસર કર્યા વિના મળતી કુલ છૂટછાટને ટોટલ ફ્લોટ (Total Float) કહેવાય છે[cite: 7]."
+  },
+  {
+    "id": 151,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "An Assignment problem is a special case of Transportation problem where the number of origins is:",
+    "gujaratiQuestion": "0151. એસાઈનમેન્ટ પ્રોબ્લેમ એ ટ્રાન્સપોર્ટેશન પ્રોબ્લેમનો એક સ્પેશિયલ કેસ છે જેમાં ઑરિજિન્સ (origins) ની સંખ્યા...",
+    "options": [
+      "ડેસ્ટિનેશન્સની સંખ્યા જેટલી હોય છે",
+      "ડેસ્ટિનેશન્સની સંખ્યા કરતા વધારે હોય છે",
+      "ડેસ્ટિનેશન્સની સંખ્યા કરતા ઓછી હોય છે",
+      "આપેલ વિકલ્પોમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "એસાઇન્મેન્ટ સમસ્યા એ ચોરસ મેટ્રિક્સ ધરાવતી ટ્રાન્સપોર્ટેશન સમસ્યા છે જેમાં સ્રોતો (Origins) અને ગંતવ્યો (Destinations) ની સંખ્યા સમાન હોય છે[cite: 4]."
+  },
+  {
+    "id": 152,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "What is the float called that allows delaying an activity without affecting the earliest start time of succeeding activities?",
+    "gujaratiQuestion": "Q152. એવી છૂટછાટ કે જેનો ઉપયોગ કરવાથી પછીની એક્ટિવિટીના વહેલા શરૂ થવાના સમય પર કોઈ અસર ન પડે, તેને શું કહે છે?",
+    "options": [
+      "ટોટલ ફ્લોટ",
+      "ફ્રી ફ્લોટ",
+      "ઇન્ડિપેન્ડન્ટ ફ્લોટ",
+      "ઇવેન્ટ સ્લેક"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પછીની પ્રવૃત્તિઓના Earliest Start Time ને અસર કર્યા વિના મળતી છૂટછાટને ફ્રી ફ્લોટ (Free Float) કહેવાય છે[cite: 4]."
+  },
+  {
+    "id": 153,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "'Interfering float' is the difference between which two floats?",
+    "gujaratiQuestion": "Q153. 'Interfering float' એ કયા બે float નો તફાવત છે?",
+    "options": [
+      "ટોટલ ફ્લોટ - ફ્રી ફ્લોટ",
+      "ફ્રી ફ્લોટ - ઈન્ડિપેન્ડન્ટ ફ્લોટ",
+      "ટોટલ ફ્લોટ - ઇન્ડિપેન્ડન્ટ ફ્લોટ",
+      "ઈવેન્ટ સ્લેક - ફ્રી ફ્લોટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇન્ટરફિયરિંગ ફ્લોટ એ ટોટલ ફ્લોટ અને ફ્રી ફ્લોટ વચ્ચેનો તફાવત (Total Float - Free Float) છે, જે હેડ ઇવેન્ટ સ્લેક બરાબર થાય છે[cite: 4]."
+  },
+  {
+    "id": 154,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "Which is the correct formula for 'Independent float'?",
+    "gujaratiQuestion": "Q154. 'Independent float' માટે કયું સૂત્ર સાચું છે?",
+    "options": [
+      "ફ્રી ફ્લોટ - ટેલ ઇવેન્ટ સ્લેક",
+      "ટોટલ ફ્લોટ - ફ્રી ફ્લોટ",
+      "ફ્રી ફ્લોટ + હેડ ઇવેન્ટ સ્લેક",
+      "ટોટલ ફ્લોટ - હેડ ઇવેન્ટ સ્લેક"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇન્ડિપેન્ડન્ટ ફ્લોટ = ફ્રી ફ્લોટ - ટેલ ઇવેન્ટ સ્લેક (Free Float - Tail Event Slack) સૂત્ર વડે મળે છે[cite: 4]."
+  },
+  {
+    "id": 155,
+    "subject": "Operations Research",
+    "subTopic": "Decision-Making Tools",
+    "question": "The property of a material to resist fracture due to high impact load is called:",
+    "gujaratiQuestion": "0155. મટિરિયલનો એવો ગુણધર્મ કે જે હાઇ ઇમ્પેક્ટ લોડને કારણે થતા ફ્રેક્ચરનો પ્રતિકાર કરે છે, તેને શું કહેવાય છે?",
+    "options": [
+      "ઈલાસ્ટિસિટી",
+      "એન્ડ્યોરન્સ",
+      "સ્ટ્રેન્થ",
+      "ટફનેસ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "આંચકાજનક અથવા ઇમ્પેક્ટ લોડ સામે તૂટ્યા વગર ઊર્જા શોષવાની ક્ષમતાને ટફનેસ (Toughness) કહે છે[cite: 4]."
+  },
+  {
+    "id": 156,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "In CPM, the process of reducing activity duration by spending additional direct cost is called:",
+    "gujaratiQuestion": "Q156. CPM માં પ્રોજેક્ટનો સમય ઘટાડવા માટે વધારાનો ખર્ચ કરીને ઍક્ટિવિટીનો સમય ઓછો કરવાની પ્રક્રિયાને શું કહેવાય છે?",
+    "options": [
+      "ફ્લોટિંગ",
+      "સ્લેકનિંગ",
+      "ક્રેશિંગ",
+      "સ્કૂલિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વધારાના સંસાધનો કે ખર્ચ ફાળવીને પ્રવૃત્તિનો સમયગાળો ઘટાડવાની તકનીકને ક્રેશિંગ (Crashing) કહે છે[cite: 4]."
+  },
+  {
+    "id": 157,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "What is the formula to calculate 'Cost Slope' during crashing?",
+    "gujaratiQuestion": "0157. Crashing દરમિયાન 'Cost Slope' શોધવાનું સૂત્ર શું છે?",
+    "options": [
+      "(ક્રેશ કોસ્ટ - નોર્મલ કોસ્ટ) / (નોર્મલ ટાઈમ - ક્રેશ ટાઈમ)",
+      "(ક્રેશ કોસ્ટ + નોર્મલ કોસ્ટ) / (ક્રેશ ટાઈમ - નોર્મલ ટાઈમ)",
+      "(નોર્મલ ટાઈમ + ક્રેશ ટાઈમ) / (ક્રેશ કોસ્ટ - નોર્મલ કોસ્ટ)",
+      "(ક્રેશ ટાઈમ - નોર્મલ ટાઈમ) / (ક્રેશ કોસ્ટ - નોર્મલ કોસ્ટ)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કોસ્ટ સ્લોપ = (Crash Cost - Normal Cost) / (Normal Time - Crash Time)[cite: 4]."
+  },
+  {
+    "id": 158,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "What is the method used to solve an Assignment problem called?",
+    "gujaratiQuestion": "0158. એસાઈનમેન્ટ પ્રોબ્લેમ સોલ્વ કરવા માટે વપરાતી મેથડને શું કહેવાય છે?",
+    "options": [
+      "MODI મેથડ",
+      "રિડ્યુસ્ડ મેટ્રિક્સ મેથડ",
+      "હંગેરિયન મેથડ",
+      "આપેલ વિકલ્પોમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એસાઇન્મેન્ટ સમસ્યાને ઉકેલવા માટે હંગેરિયન મેથડ (Hungarian Method) અથવા ફ્લડ ટેકનિક વપરાય છે[cite: 4]."
+  },
+  {
+    "id": 159,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "In project crashing, which activity is crashed first?",
+    "gujaratiQuestion": "0159. પ્રોજેક્ટ Crashing માં સૌથી પહેલા કઈ એક્ટિવિટી ક્રેશ કરવામાં આવે છે?",
+    "options": [
+      "નોન-ક્રિટિકલ એક્ટિવિટી",
+      "જેનો કોસ્ટ સ્લોપ સૌથી વધુ હોય",
+      "ક્રિટિકલ એક્ટિવિટી કે જેનો કોસ્ટ સ્લોપ સૌથી ઓછો હોય",
+      "સૌથી લાંબો સમય લેતી એક્ટિવિટી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ખર્ચમાં ન્યૂનતમ વધારો કરવા માટે ક્રિટિકલ પાથ પર રહેલી લઘુત્તમ કોસ્ટ સ્લોપવાળી એક્ટિવિટી સૌથી પહેલાં ક્રેશ કરાય છે[cite: 4]."
+  },
+  {
+    "id": 160,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "In PERT, the total project completion time is assumed to follow which distribution?",
+    "gujaratiQuestion": "Q160. PERT માં આખા પ્રોજેક્ટને પૂર્ણ થવાના સમયનું વિતરણ કયા વિતરણ મુજબ હોવાનું મનાય છે?",
+    "options": [
+      "બીટા ડિસ્ટ્રિબ્યુશન",
+      "પોઈસન ડિસ્ટ્રિબ્યુશન",
+      "નોર્મલ ડિસ્ટ્રિબ્યુશન",
+      "એક્સપોનેન્શિયલ ડિસ્ટ્રિબ્યુશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સેન્ટ્રલ લિમિટ થિયરમ (CLT) મુજબ સમગ્ર પ્રોજેક્ટ પૂર્ણ થવાનો કુલ સમય નોર્મલ ડિસ્ટ્રિબ્યુશન (Normal distribution) અનુસરે છે[cite: 4]."
+  },
+  {
+    "id": 161,
+    "subject": "Operations Research",
+    "subTopic": "Assignment Model",
+    "question": "What is the total number of decision variables in the objective function of an n x n assignment problem?",
+    "gujaratiQuestion": "Q161. n × n (n જોબ્સ અને n મશીનો) ના એસાઈનમેન્ટ પ્રોબ્લેમના ઓબ્જેક્ટિવ ફંક્શનમાં ડિસિઝન વેરીએબલ્સની કુલ સંખ્યા કેટલી હોય છે?",
+    "options": [
+      "2n",
+      "n²",
+      "2n - 1",
+      "n"
+    ],
+    "correctAnswer": 1,
+    "explanation": "n × n મેટ્રિક્સમાં દરેક સેલ દીઠ એક બાઈનરી વેરિયેબલ x_ij હોવાથી કુલ ડિસિઝન વેરિયેબલ્સની સંખ્યા n² થાય છે[cite: 4]."
+  },
+  {
+    "id": 162,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "The activity time distribution in PERT follows which curve?",
+    "gujaratiQuestion": "0162. એક્ટિવિટીના સમયનું વિતરણ PERT માં કયા કર્વને અનુસરે છે?",
+    "options": [
+      "નોર્મલ ડિસ્ટ્રિબ્યુશન",
+      "બીટા ડિસ્ટ્રિબ્યુશન",
+      "એક્સપોનેન્શિયલ ડિસ્ટ્રિબ્યુશન",
+      "યુનિફોર્મ ડિસ્ટ્રિબ્યુશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PERT માં વ્યક્તિગત પ્રવૃત્તિનો સમયગાળો બીટા વિતરણ (Beta distribution) વક્રને અનુસરે છે[cite: 4]."
+  },
+  {
+    "id": 163,
+    "subject": "Operations Research",
+    "subTopic": "Project Planning",
+    "question": "In project management, what is the earliest possible time an activity can begin called?",
+    "gujaratiQuestion": "0163. પ્રોજેક્ટ મેનેજમેન્ટમાં કોઈ એક્ટિવિટીના સૌથી વહેલા શરૂ થઈ શકવાના સમયને શું કહે છે?",
+    "options": [
+      "Earliest Finish Time (EFT)",
+      "Earliest Start Time (EST)",
+      "Latest Start Time (LST)",
+      "Latest Finish Time (LFT)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અગાઉની તમામ પ્રવૃત્તિઓ વહેલી પૂર્ણ થતાં જે વહેલામાં વહેલી શરૂઆત શક્ય બને તેને Earliest Start Time (EST) કહે છે[cite: 4]."
+  },
+  {
+    "id": 164,
+    "subject": "Operations Research",
+    "subTopic": "Decision-Making Tools",
+    "question": "The air-fuel ratio in a petrol engine is controlled by:",
+    "gujaratiQuestion": "0164. પેટ્રોલ એન્જિનનો એર-ફ્યુઅલ રેશિયો કોના દ્વારા કંટ્રોલ થાય છે?",
+    "options": [
+      "ફ્યુઅલ પંપ",
+      "ગવર્નર",
+      "ઈન્જેક્ટર",
+      "કાર્બ્યુરેટર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "પેટ્રોલ (SI) એન્જિનમાં હવા અને બળતણનું યોગ્ય પ્રમાણમાં મિશ્રણ પૂરું પાડવાનું કાર્ય કાર્બ્યુરેટર (Carburetor) કરે છે[cite: 4]."
+  },
+  {
+    "id": 165,
+    "subject": "Operations Research",
+    "subTopic": "Project Planning",
+    "question": "What does 'Dangling' mean in a project network?",
+    "gujaratiQuestion": "0165. પ્રોજેક્ટ નેટવર્કમાં 'Dangling' નો અર્થ શું થાય છે?",
+    "options": [
+      "કોઈ એક્ટિવિટી અંતિમ નોડ સિવાય અટકી જવી",
+      "એક્ટિવિટી લૂપમાં ફસાઇ જવી",
+      "ડમી એક્ટિવિટીનો વધુ પડતો ઉપયોગ",
+      "પ્રોજેક્ટ વહેલો પૂરો થવો"
+    ],
+    "correctAnswer": 0,
+    "explanation": "જ્યારે કોઈ પ્રવૃત્તિ પ્રોજેક્ટના અંતિમ નોડ સાથે જોડાયા વગર અધવચ્ચે જ લટકતી (અસંપૂર્ણ) રહી જાય તેને ડૅંગલિંગ (Dangling) એરર કહે છે[cite: 4]."
+  },
+  {
+    "id": 166,
+    "subject": "Operations Research",
+    "subTopic": "Project Planning",
+    "question": "In a project network, 'Looping' is considered as:",
+    "gujaratiQuestion": "Q166. પ્રોજેક્ટ નેટવર્કમાં 'Looping' કેવું ગણાય છે?",
+    "options": [
+      "જરૂરી",
+      "અમાન્ય (Error)",
+      "વૈકલ્પિક",
+      "સમય બચાવનાર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નેટવર્કમાં લૂપ અથવા સાયકલ બનવાથી પ્રક્રિયા અનંત બની જાય છે, જે નેટવર્ક રૂલ્સ મુજબ અમાન્ય ત્રુટિ (Error) ગણાય છે[cite: 4]."
+  },
+  {
+    "id": 167,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "In PERT, individual activity duration is assumed to follow which distribution?",
+    "gujaratiQuestion": "Q167. PERT માં, એક્ટિવિટીના સમયનું ડિસ્ટ્રિબ્યુશન કયું હોવાનું માનવામાં આવે છે?",
+    "options": [
+      "નોર્મલ",
+      "પોઈઝન",
+      "બીટા (Beta)",
+      "એક્સપોનેન્શિયલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PERT મોડેલમાં પ્રત્યેક પ્રવૃત્તિનો સમય બીટા ડિસ્ટ્રિબ્યુશન (Beta distribution) અનુસરે છે[cite: 4]."
+  },
+  {
+    "id": 168,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "Which method primarily focuses on 'Time-cost trade-off'?",
+    "gujaratiQuestion": "Q168. કઈ પદ્ધતિ મુખ્યત્વે 'Time-cost trade-off' પર ધ્યાન કેન્દ્રિત કરે છે?",
+    "options": [
+      "PERT",
+      "CPM",
+      "LPP",
+      "VAM"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CPM પદ્ધતિમાં સમય ઘટાડવા અને ખર્ચ વચ્ચેના સંબંધ (Time-Cost Trade-Off / Crashing) પર પ્રાથમિક ધ્યાન અપાય છે[cite: 4]."
+  },
+  {
+    "id": 169,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "PERT network is which type of network?",
+    "gujaratiQuestion": "Q169. PERT નેટવર્ક કયા પ્રકારનું નેટવર્ક છે?",
+    "options": [
+      "એક્ટિવિટી-ઓરિએન્ટેડ",
+      "ઇવેન્ટ-ઓરિએન્ટેડ",
+      "કોસ્ટ-ઓરિએન્ટેડ",
+      "રિસોર્સ-ઓરિએન્ટેડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PERT પદ્ધતિ ચોક્કસ ઘટનાઓ કે માઇલસ્ટોન પર આધારિત હોવાથી તે ઇવેન્ટ-ઓરિએન્ટેડ (Event-oriented) નેટવર્ક છે[cite: 4]."
+  },
+  {
+    "id": 170,
+    "subject": "Operations Research",
+    "subTopic": "Project Planning",
+    "question": "Why are dummy activities introduced in network construction?",
+    "gujaratiQuestion": "0170. નેટવર્કની રચનામાં ડમી ઍક્ટિવિટીઝ (dummy activities) શા માટે રજૂ કરવામાં આવે છે?",
+    "options": [
+      "તમામ ઇવેન્ટ્સ પરનો સ્લેક ગણવા માટે",
+      "મોનિટરિંગ દરમિયાન જરૂરી હોય તો રિસોર્સ ટ્રાન્સફર કરવા માટે",
+      "પ્રેસિડેન્સ રિલેશનશિપ સ્પષ્ટપણે દર્શાવવા માટે",
+      "ક્રેશિંગ પ્લાનને સરળ બનાવવા માટે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડમી એક્ટિવિટી કોઈપણ સમય કે સંસાધન લીધા વિના માત્ર પ્રવૃત્તિઓ વચ્ચેનો તાર્કિક પૂર્વાધિકાર સંબંધ દર્શાવવા વપરાય છે[cite: 4]."
+  },
+  {
+    "id": 171,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "CPM network is which type of network?",
+    "gujaratiQuestion": "Q171. CPM નેટવર્ક કયા પ્રકારનું નેટવર્ક છે?",
+    "options": [
+      "ઇવેન્ટ-ઓરિએન્ટેડ",
+      "કોસ્ટ-ઓરિએન્ટેડ",
+      "એક્ટિવિટી-ઓરિએન્ટેડ",
+      "ટાઈમ-ઓરિએન્ટેડ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CPM (Critical Path Method) એ ચોક્કસ કાર્યો અને પ્રવૃત્તિઓ પર કેન્દ્રિત હોવાથી એક્ટિવિટી-ઓરિએન્ટેડ (Activity-oriented) છે[cite: 4]."
+  },
+  {
+    "id": 172,
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "If for an activity Optimistic time is 2 days, Pessimistic time is 14 days, and Most likely time is 5 days, what is its Expected time?",
+    "gujaratiQuestion": "0172. જો કોઈ એક્ટિવિટી માટે Optimistic time 2 દિવસ, Pessimistic time 14 દિવસ અને Most likely time 5 દિવસ હોય, તો તેનો Expected time કેટલો થશે?",
+    "options": [
+      "5 દિવસ",
+      "6 દિવસ",
+      "7 દિવસ",
+      "8 દિવસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected time te = (to + 4tm + tp) / 6 = (2 + 4×5 + 14) / 6 = (2 + 20 + 14) / 6 = 36 / 6 = 6 દિવસ[cite: 4]."
+  },
+  {
+    "id": 173,
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "Critical Path Method (CPM) is of which nature?",
+    "gujaratiQuestion": "Q173. ક્રિટિકલ પાથ મેથડ (CPM) કેવા પ્રકારની છે?",
+    "options": [
+      "ડાયનેમિક (dynamic) સ્વરૂપની",
+      "પ્રોબેબિલિસ્ટિક (probabilistic) સ્વરૂપની",
+      "ડિટરમિનિસ્ટિક (deterministic) સ્વરૂપની",
+      "આપેલ વિકલ્પોમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CPM માં પ્રવૃત્તિઓનો સમયગાળો અગાઉથી નિશ્ચિત જ્ઞાત હોવાથી તે ડિટરમિનિસ્ટિક (Deterministic) સ્વરૂપની પદ્ધતિ છે[cite: 4]."
+  },
+  {
+    "subject": "Operations Research",
+    "subTopic": "Linear Programming",
+    "question": "In a linear programming problem, the feasible region is defined by:",
+    "gujaratiQuestion": "Linear programmingમાં feasible region કઈ રીતે define થાય છે?",
+    "options": [
+      "Constraints",
+      "Objective only",
+      "Random values",
+      "Only integer variables"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: The feasible region contains points satisfying all constraints.",
+    "id": 174
+  },
+  {
+    "subject": "Operations Research",
+    "subTopic": "Simplex Method",
+    "question": "The simplex method moves from one basic feasible solution to another to:",
+    "gujaratiQuestion": "Simplex method basic feasible solutionમાંથી બીજી solution તરફ શા માટે move કરે છે?",
+    "options": [
+      "Improve the objective value",
+      "Change units",
+      "Remove all constraints",
+      "Increase variables indefinitely"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: Simplex iteratively improves the objective until optimality conditions are met.",
+    "id": 175
+  },
+  {
+    "subject": "Operations Research",
+    "subTopic": "Transportation Model",
+    "question": "A balanced transportation problem has total supply:",
+    "gujaratiQuestion": "Balanced transportation problemમાં total supply શું હોય છે?",
+    "options": [
+      "Greater than demand",
+      "Less than demand",
+      "Equal to demand",
+      "Always zero"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Expected MCQ: Balanced means total supply equals total demand.",
+    "id": 176
+  },
+  {
+    "subject": "Operations Research",
+    "subTopic": "CPM",
+    "question": "In CPM, the critical path has:",
+    "gujaratiQuestion": "CPMમાં critical pathમાં શું હોય છે?",
+    "options": [
+      "Maximum float",
+      "Zero total float",
+      "Minimum activity count always",
+      "No precedence"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Critical activities have zero total float.",
+    "id": 177
+  },
+  {
+    "subject": "Operations Research",
+    "subTopic": "PERT",
+    "question": "PERT is especially useful when activity times are:",
+    "gujaratiQuestion": "PERT ખાસ કરીને ક્યારે useful છે?",
+    "options": [
+      "Known exactly",
+      "Uncertain/probabilistic",
+      "Always zero",
+      "Independent of project"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: PERT uses probabilistic time estimates for uncertain activities.",
+    "id": 178
+  },
+  {
+    "id": 179,
+    "subject": "Operations Research",
+    "subTopic": "Industrial Engineering & Production Planning (PPC)",
+    "question": "Production Planning and Control mainly coordinates:",
+    "gujaratiQuestion": "Production Planning and Control mainly coordinates:",
+    "options": [
+      "planning, scheduling and control of production",
+      "only payroll",
+      "only product advertising",
+      "only machine painting"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PPC ensures resources and production activities are planned and controlled to meet demand."
+  },
+  {
+    "id": 180,
+    "subject": "Operations Research",
+    "subTopic": "Industrial Engineering & Production Planning (PPC)",
+    "question": "A Gantt chart is commonly used for:",
+    "gujaratiQuestion": "A Gantt chart is commonly used for:",
+    "options": [
+      "scheduling and progress monitoring",
+      "measuring hardness",
+      "fluid-flow analysis",
+      "stress concentration calculation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gantt charts display activities against time and help track planned versus actual progress."
+  },
+  {
+    "id": 181,
+    "subject": "Operations Research",
+    "subTopic": "Industrial Engineering & Production Planning (PPC)",
+    "question": "Routing in PPC determines:",
+    "gujaratiQuestion": "Routing in PPC determines:",
+    "options": [
+      "sequence of operations and work centres",
+      "selling price only",
+      "employee leave",
+      "product colour"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Routing defines the path a job follows through machines or work centres."
+  }
+]

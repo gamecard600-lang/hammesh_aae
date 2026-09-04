@@ -1,0 +1,3362 @@
+[
+  {
+    "id": 1,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Definition of Fluid, Newton's Law of Viscosity",
+    "question": "A fluid is a substance that:",
+    "gujaratiQuestion": "01. ફ્લુઈડ (Fluid) એવો પદાર્થ છે જે...",
+    "options": [
+      "શીયર સ્ટ્રેસની અસર હેઠળ સતત વિકૃત થાય છે",
+      "કમ્પ્રેસ થઈ શકતો નથી",
+      "શીયર સ્ટ્રેસનો પ્રતિકાર કરે છે",
+      "માત્ર ગરમીથી વિકૃત થાય છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ફ્લુઇડ કોઈપણ નાના શીયર સ્ટ્રેસ (Shear stress) ની હાજરીમાં પણ સતત ડિફોર્મ (વિકૃત) થવાની લાક્ષણિકતા ધરાવે છે[cite: 8]."
+  },
+  {
+    "id": 2,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Definition of Fluid, Newton's Law of Viscosity",
+    "question": "Newton's law of viscosity expresses the relationship between:",
+    "gujaratiQuestion": "02.ન્યૂટનનો વિસ્કોસિટીનો નિયમ (Newton's law of viscosity) કોની વચ્ચેનો સંબંધ દર્શાવે છે?",
+    "options": [
+      "શીયર સ્ટ્રેસ અને વિસ્કોસિટી",
+      "પ્રેશર અને વેલોસિટી",
+      "શીયર સ્ટ્રેસ અને રેટ ઓફ એન્ગ્યુલર ડિસ્ટોર્શન",
+      "ટેમ્પરેચર અને વિસ્કોસિટી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ન્યૂટનના નિયમ મુજબ શીયર સ્ટ્રેસ એ શીયર સ્ટ્રેઇન રેટ અથવા રેટ ઓફ એન્ગ્યુલર ડિફોર્મેશન (du/dy) ના સમપ્રમાણમાં હોય છે[cite: 8]."
+  },
+  {
+    "id": 3,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Definition of Fluid, Newton's Law of Viscosity",
+    "question": "Which of the following fluids is a Newtonian fluid?",
+    "gujaratiQuestion": "03. નીચેનામાંથી કયું ફ્લુઇડ ન્યૂટોનિયન ફ્લુઇડ (Newtonian fluid) છે?",
+    "options": [
+      "રક્ત",
+      "પાણી",
+      "માટી",
+      "દૂધ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પાણી, હવા, પેટ્રોલ અને કેરોસીન જેવા ફ્લુઇડ્સ ન્યૂટનના વિસ્કોસિટી નિયમનું સંપૂર્ણ પાલન કરતા ન્યૂટોનિયન ફ્લુઇડ્સ છે[cite: 8]."
+  },
+  {
+    "id": 4,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Mass Density, Specific Volume & Specific Gravity",
+    "question": "Water density is 1000 kg/m³ and g is 10 m/s². If pressure head is 3 m, what is the pressure in kPa?",
+    "gujaratiQuestion": "04. પાણીની ઘનતા 1000 kg/m³ છે અને ગુરુત્વ પ્રવેગ 10 m/s² છે. જો પાઈપમાં વહેતા પાણીમાં કોઈ બિંદુએ પ્રેશર હેડ 3 m હોય, તો kPa માં પ્રેશર શું હશે?",
+    "options": [
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "correctAnswer": 0,
+    "explanation": "P = ρ · g · h = 1000 × 10 × 3 = 30,000 Pa = 30 kPa[cite: 8]."
+  },
+  {
+    "id": 5,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Mass Density, Specific Volume & Specific Gravity",
+    "question": "At what temperature is the mass density of water maximum?",
+    "gujaratiQuestion": "05. પાણીની માસ ડેન્સિટી (Mass density) કયા તાપમાને મહત્તમ હોય છે?",
+    "options": [
+      "0°C",
+      "4°C",
+      "100°C",
+      "20°C"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પાણીના અસાધારણ વિસ્તરણ ગુણધર્મને કારણે 4°C તાપમાને તેની ઘનતા મહત્તમ (1000 kg/m³) હોય છે[cite: 8]."
+  },
+  {
+    "id": 6,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Units, Dimensions & Fluid Properties",
+    "question": "What is the S.I. unit of Dynamic Viscosity?",
+    "gujaratiQuestion": "06. વિસ્કોસિટી (Viscosity) નો S.I. એકમ કયો છે?",
+    "options": [
+      "N/m²",
+      "N-s/m²",
+      "m²/s",
+      "kg/m³"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડાયનેમિક વિસ્કોસિટીનો SI એકમ N-s/m² અથવા Pa-s (અથવા kg/(m·s)) છે[cite: 8]."
+  },
+  {
+    "id": 7,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "Which principle is used to measure discharge using an orifice meter?",
+    "gujaratiQuestion": "Q7. ઓરિફિસ-મીટર દ્વારા ડિસ્ચાર્જ માપવા માટે નીચેનામાંથી કયા સિદ્ધાંતનો ઉપયોગ થાય છે?",
+    "options": [
+      "પાસ્કલનો નિયમ",
+      "બર્નોલીનું સમીકરણ",
+      "ચેઝીનું સમીકરણ",
+      "નેવિયર-સ્ટોક્સ સમીકરણ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓરિફિસમીટર અને વેન્ચ્યુરીમીટર બર્નોલીના સમીકરણ અને કન્ટિન્યુઇટી સમીકરણના સિદ્ધાંત પર કાર્ય કરે છે[cite: 8]."
+  },
+  {
+    "id": 8,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Units, Dimensions & Fluid Properties",
+    "question": "Kinematic viscosity is the ratio of:",
+    "gujaratiQuestion": "08. કાઈનેમૅટિક વિસ્કોસિટી (Kinematic viscosity) એ કોનો ગુણોત્તર છે?",
+    "options": [
+      "ડાયનેમિક વિસ્કોસિટી અને પ્રેશર",
+      "ડાયનેમિક વિસ્કોસિટી અને માસ ડેન્સિટી",
+      "ડાયનેમિક વિસ્કોસિટી અને વેલોસિટી",
+      "સ્પેસિફિક ગ્રેવિટી અને માસ ડેન્સિટી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કાઇનેમેટિક વિસ્કોસિટી ν = ડાયનેમિક વિસ્કોસિટી (μ) / માસ ડેન્સિટી (ρ)[cite: 8]."
+  },
+  {
+    "id": 9,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Units, Dimensions & Fluid Properties",
+    "question": "1 Poise is equal to how many N-s/m²?",
+    "gujaratiQuestion": "09.1 પોઈસ (Poise) બરાબર કેટલા N-s/m² થાય?",
+    "options": [
+      "10",
+      "1",
+      "0.1",
+      "0.01"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 Poise = 1/10 N-s/m² = 0.1 Pa-s[cite: 8]."
+  },
+  {
+    "id": 10,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "In fluid flow, what does the Hydraulic Gradient Line (HGL) represent?",
+    "gujaratiQuestion": "010. ફ્લુઇડ ફ્લોમાં હાઈડ્રોલિક ગ્રેડિયન્ટ લાઈન નીચેનામાંથી કયું દર્શાવે છે?",
+    "options": [
+      "પ્રેશર હેડ + વેલોસિટી હેડ",
+      "વેલોસિટી હેડ + ડેટમ હેડ",
+      "પ્રેશર હેડ + ડેટમ હેડ",
+      "વેલોસિટી હેડ + ફ્રિક્શનલ લોસીસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હાઇડ્રોલિક ગ્રેડિયન્ટ લાઇન (HGL) પ્રેશર હેડ (p/ρg) અને પોટેન્શિયલ/ડેટમ હેડ (z) નો સરવાળો દર્શાવે છે[cite: 8]."
+  },
+  {
+    "id": 11,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Mass Density, Specific Volume & Specific Gravity",
+    "question": "Specific volume is the reciprocal of:",
+    "gujaratiQuestion": "011. સ્પેસિફિક વોલ્યુમ (Specific volume) એ કોનો વ્યસ્ત (Reciprocal) છે?",
+    "options": [
+      "માસ ડેન્સિટી",
+      "સ્પેસિફિક ગ્રેવિટી",
+      "પ્રેશર",
+      "વિસ્કોસિટી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્પેસિફિક વોલ્યુમ v = V/m = 1/ρ એટલે કે માસ ડેન્સિટીનો વ્યસ્ત છે[cite: 8]."
+  },
+  {
+    "id": 12,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Definition of Fluid, Newton's Law of Viscosity",
+    "question": "What are the properties of an Ideal Fluid?",
+    "gujaratiQuestion": "Q12. આદર્શ ફ્લુઇડ (Ideal fluid) ના ગુણધર્મો કયા છે?",
+    "options": [
+      "કમ્પ્રેસિબલ અને વિસ્કસ",
+      "ઇનકમ્પ્રેસિબલ અને નોન-વિસ્કસ",
+      "નોન-વિસ્કસ અને કમ્પ્રેસિબલ",
+      "માત્ર ઈનકમ્પ્રેસિબલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આદર્શ ફ્લુઇડ અદબનીય (Incompressible) અને શૂન્ય વિસ્કોસિટી ધરાવતું (Non-viscous/Inviscid) હોય છે[cite: 8]."
+  },
+  {
+    "id": 13,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "Bernoulli's equation is applicable for which type of flow?",
+    "gujaratiQuestion": "013. બર્નોલીનું સમીકરણ _____ માટે લાગુ પડે છે.",
+    "options": [
+      "સ્ટીડી અને ઇનકમ્પ્રેસિબલ ફ્લો",
+      "અનસ્ટીડી અને કમ્પ્રેસિબલ ફ્લો",
+      "વિસ્કસ અને અનસ્ટીડી ફ્લો",
+      "અનસ્ટીડી અને ઇનકમ્પ્રેસિબલ ફ્લો"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બર્નોલી સમીકરણ આદર્શ, ઘર્ષણરહિત, સ્ટીડી, ઇનકમ્પ્રેસિબલ અને ઇરરોટેશનલ પ્રવાહ માટે માન્ય છે[cite: 8]."
+  },
+  {
+    "id": 14,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "What is the unit of Surface Tension?",
+    "gujaratiQuestion": "014. સરફેસ ટેન્શન (Surface tension) નો એકમ શું છે?",
+    "options": [
+      "N/m²",
+      "N/m",
+      "J/m³",
+      "N-m"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સરફેસ ટેન્શન એટલે લંબાઈ દીઠ લાગતું બળ, જેનો SI એકમ N/m અથવા J/m² છે[cite: 8]."
+  },
+  {
+    "id": 15,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "Why do liquid droplets assume a spherical shape?",
+    "gujaratiQuestion": "Q15. પ્રવાહીના ટીપાં (Liquid droplets) નો આકાર ગોળાકાર (Spherical) હોવાનું કારણ શું છે?",
+    "options": [
+      "વિસ્કોસિટી",
+      "કમ્પ્રેસિબિલિટી",
+      "સરફેસ ટેન્શન",
+      "સ્પેસિફિક ગ્રેવિટી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સરફેસ ટેન્શનના કારણે પ્રવાહી સપાટી લઘુત્તમ ક્ષેત્રફળ ધારણ કરવાનો પ્રયત્ન કરે છે, જે ગોળાકાર બને છે[cite: 8]."
+  },
+  {
+    "id": 16,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "In fluid flow, the ratio of inertia force to viscous force is called:",
+    "gujaratiQuestion": "016.ફ્લુઈડ ફ્લોમાં, ઈનર્શિયા ફોર્સ અને વિસ્કસ ફોર્સના ગુણોત્તરને શું કહેવાય છે?",
+    "options": [
+      "પ્રાન્ડ્ટલ નંબર",
+      "યુલર નંબર",
+      "મેક નંબર",
+      "રેનોલ્ડ્સ નંબર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "રેનોલ્ડ્સ નંબર Re = ઈનર્શિયા ફોર્સ / વિસ્કસ ફોર્સ = (ρVD)/μ[cite: 8]."
+  },
+  {
+    "id": 17,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "Mercury does not wet glass surface. This is due to which property?",
+    "gujaratiQuestion": "Q17. મર્ક્યુરી (Mercury) ગ્લાસની સપાટીને ભીંજવતો નથી, આ કયા ગુણધર્મને આભારી છે?",
+    "options": [
+      "એડહેઝન",
+      "કોહેઝન",
+      "વિસ્કોસિટી",
+      "કમ્પ્રેસિબિલિટી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પારાના અણુઓ વચ્ચેનું આંતરિક આકર્ષણ (Cohesion) પારા-કાચ વચ્ચેના આકર્ષણ (Adhesion) કરતાં ઘણું વધારે હોવાથી તે ભીંજવતો નથી[cite: 8]."
+  },
+  {
+    "id": 18,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "For a liquid, what happens to the Bulk Modulus of Elasticity with an increase in pressure?",
+    "gujaratiQuestion": "Q18. પ્રવાહી માટે બલ્ક મોડ્યુલસ ઓફ ઇલાસ્ટિસિટી (Bulk modulus of elasticity) પ્રેશર વધવાથી શું થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "શૂન્ય થાય છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પ્રેશર વધતાં પ્રવાહી વધુ અદબનીય બને છે, જેથી બલ્ક મોડ્યુલસ (K = dp / (dρ/ρ)) નું મૂલ્ય વધે છે[cite: 8]."
+  },
+  {
+    "id": 19,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Water Turbines, Heads, Efficiencies & Velocity Triangles",
+    "question": "A water jet of 0.001 m² area strikes a flat stationary vertical plate normally at 20 m/s. (ρ = 1000 kg/m³). Find the force exerted in N.",
+    "gujaratiQuestion": "019, 0.001 m² ક્રોસ-સેક્શનલ એરિયા ધરાવતો પાણીનો જેટ, સપાટ ઊભી સ્થિર પ્લેટ પર 20 m/s ની વેલોસિટીથી નોર્મલી (કાટખૂણે) અથડાય છે. પાણીની ઘનતા 1000 kg/m³ છે. તો ફ્લોની દિશામાં જેટ દ્વારા લાગતું ફોર્સ શું હશે?",
+    "options": [
+      "200 N",
+      "300 N",
+      "400 N",
+      "500 N"
+    ],
+    "correctAnswer": 2,
+    "explanation": "F = ρ · A · V² = 1000 × 0.001 × (20)² = 1 × 400 = 400 N[cite: 8]."
+  },
+  {
+    "id": 20,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "On which law does a hydraulic jack operate?",
+    "gujaratiQuestion": "020. હાઈડ્રોલિક જેક (Hydraulic jack) કયા નિયમ પર કાર્ય કરે છે?",
+    "options": [
+      "બર્નોલીનો નિયમ",
+      "ન્યૂટનનો નિયમ",
+      "પાસ્કલનો નિયમ",
+      "આર્કિમીડીઝનો નિયમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હાઇડ્રોલિક જેક પાસ્કલના નિયમ (P1 = P2) પર આધારિત છે[cite: 8]."
+  },
+  {
+    "id": 21,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "According to Pascal's law, pressure at a point in a static fluid:",
+    "gujaratiQuestion": "021. પાસ્કલના નિયમ (Pascal's law) મુજબ, સ્થિર પ્રવાહીમાં કોઈ એક બિંદુ પર પ્રેશર:",
+    "options": [
+      "ઊંડાઈ સાથે ઘટે છે",
+      "બધી દિશાઓમાં સમાન હોય છે",
+      "આકાર પર આધાર રાખે છે",
+      "માત્ર નીચેની દિશામાં લાગે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પાસ્કલના નિયમ મુજબ સ્થિર પ્રવાહીમાં કોઈપણ બિંદુએ તમામ દિશાઓમાં પ્રેશરની તીવ્રતા સમાન હોય છે (px = py = pz)[cite: 8]."
+  },
+  {
+    "id": 22,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "A flat plane body of area A is submerged in a liquid with its CG at depth x. If density is ρ and acceleration due to gravity is g, what is total hydrostatic force?",
+    "gujaratiQuestion": "022. પ્રવાહીમાં ડૂબેલી એક સપાટ બોડી, જેનો સરફેસ એરિયા 'A' છે, તેનું સેન્ટર ઓફ ગ્રેવિટી પ્રવાહીની ફ્રી સરફેસથી 'x' અંતરે છે. જો પ્રવાહીની ઘનતા 'ρ' અને ગુરુત્વ પ્રવેગ 'g' હોય, તો બોડી પર લાગતું કુલ પ્રેશર (હાઈડ્રોસ્ટેટિક ફોર્સ) કેટલું હશે?",
+    "options": [
+      "ρgxA",
+      "ρgx²A",
+      "ρ²gxA",
+      "ρgA"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કુલ હાઇડ્રોસ્ટેટિક ફોર્સ F = ρ · g · A · x̄ = ρgxA[cite: 8]."
+  },
+  {
+    "id": 23,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "gujaratiQuestion": "Q23. વાતાવરણીય દબાણ (Atmospheric pressure) માપવા માટે કયા સાધનનો ઉપયોગ થાય છે?",
+    "options": [
+      "મેનોમીટર",
+      "વેન્ચ્યુરીમીટર",
+      "બેરોમીટર",
+      "હાઈગ્રોમીટર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્થાનિક વાતાવરણીય દબાણ માપવા માટે બેરોમીટર (Barometer) વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 24,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "Absolute pressure is equal to:",
+    "gujaratiQuestion": "024. એબ્સોલ્યુટ પ્રેશર (Absolute pressure) કોના બરાબર હોય છે?",
+    "options": [
+      "ગેજ પ્રેશર - વાતાવરણીય પ્રેશર",
+      "વાતાવરણીય પ્રેશર - ગેજ પ્રેશર",
+      "ગેજ પ્રેશર + વાતાવરણીય પ્રેશર",
+      "માત્ર ગેજ પ્રેશર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Absolute Pressure = Gauge Pressure + Atmospheric Pressure[cite: 8]."
+  },
+  {
+    "id": 25,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "Which instrument is commonly used to measure fluid pressure in a pipe or channel?",
+    "gujaratiQuestion": "025. પાઈપ અથવા ચેનલમાં પ્રેશર માપવા માટે સામાન્ય રીતે કયું સાધન વપરાય છે?",
+    "options": [
+      "થર્મોમીટર",
+      "મેનોમીટર",
+      "અલ્ટીમીટર",
+      "બેરોમીટર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પાઇપલાઇન કે ચેનલમાં પ્રવાહીનું ગેજ કે ડિફરેન્શિયલ દબાણ માપવા મેનોમીટર (Manometer) વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 26,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "What is a radial inward flow reaction turbine used for medium head range of 60 m to 300 m called?",
+    "gujaratiQuestion": "026. 60 m થી 300m ના મિડિયમ હેડ રેન્જ માટે વપરાતા રેડિયલ ઈનવર્ડ ફ્લો રિએક્શન ટર્બાઈનને શું કહેવાય છે?",
+    "options": [
+      "કાપ્લાન ટર્બાઇન",
+      "ફ્રાન્સિસ ટર્બાઈન",
+      "ક્રોસ ફ્લો ટર્બાઇન",
+      "પેલ્ટન ટર્બાઈન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મીડિયમ હેડ (60 m થી 300 m) માટે ફ્રાન્સિસ ટર્બાઇન (Francis turbine) વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 27,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "Which of the following pressures cannot be measured by a simple Piezometer?",
+    "gujaratiQuestion": "027. પિઝોમીટર (Piezometer) દ્વારા નીચેનામાંથી કયું પ્રેશર માપી શકાતું નથી?",
+    "options": [
+      "ગેજ પ્રેશર",
+      "વેક્યુમ પ્રેશર",
+      "હાઈ પ્રેશર",
+      "વિકલ્પ (b) અને (c) બંને"
+    ],
+    "correctAnswer": 3,
+    "explanation": "પિઝોમીટર ખુલ્લી નળી હોવાથી તેના વડે વેક્યુમ પ્રેશર અને અતિ ઊંચું પ્રેશર માપી શકાતું નથી[cite: 8]."
+  },
+  {
+    "id": 28,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "Bourdon tube pressure gauge is which type of instrument?",
+    "gujaratiQuestion": "028. બોર્ડન ટ્યુબ પ્રેશર ગેજ (Bourdon tube pressure gauge) એ કયા પ્રકારનું સાધન છે?",
+    "options": [
+      "ઇલેક્ટ્રિકલ ગેજ",
+      "મિકેનિકલ ગેજ",
+      "ઓપ્ટિકલ ગેજ",
+      "થર્મલ ગેજ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બોર્ડન ટ્યુબ ઇલાસ્ટિક ડિફોર્મેશનથી કામ કરતું મિકેનિકલ પ્રેશર ગેજ છે[cite: 8]."
+  },
+  {
+    "id": 29,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "How is the coefficient of discharge (Cd) of a venturimeter defined?",
+    "gujaratiQuestion": "029. વેન્ચ્યુરી મીટરનો કો-એફિશિયન્ટ ઓફ ડિસ્ચાર્જ કઈ રીતે વ્યાખ્યાયિત થાય છે?",
+    "options": [
+      "ફ્લુઇડની એક્ચ્યુઅલ વેલોસિટી અને થિયોરેટિકલ વેલોસિટીનો ગુણોત્તર",
+      "ફ્લુઇડના એક્ચ્યુઅલ ડિસ્ચાર્જ અને થિયોરેટિકલ ડિસ્ચાર્જનો ગુણોત્તર",
+      "ફ્લુઇડના થિયોરેટિકલ ડિસ્ચાર્જ અને એક્ચ્યુઅલ ડિસ્ચાર્જનો ગુણોત્તર",
+      "ફ્લુઇડની થિયોરેટિકલ વેલોસિટી અને એક્ચ્યુઅલ વેલોસિટીનો ગુણોત્તર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cd = Actual Discharge / Theoretical Discharge = Q_act / Q_th[cite: 8]."
+  },
+  {
+    "id": 30,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "Which instrument is used to measure pressure difference between two points in a pipe?",
+    "gujaratiQuestion": "030. એક પાઈપમાં બે બિંદુઓ વચ્ચે પ્રેશરનો તફાવત (Pressure difference) માપવા માટે કયું સાધન વપરાય છે?",
+    "options": [
+      "બેરોમીટર",
+      "હાઇડ્રોમીટર",
+      "પિઝોમીટર ટ્યુબ",
+      "ડિફરેન્શિયલ મેનોમીટર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "બે બિંદુઓ વચ્ચેનો દબાણ તફાવત માપવા ડિફરેન્શિયલ મેનોમીટર (Differential Manometer) વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 31,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "What is the gauge pressure on the free surface of a liquid exposed to open atmosphere?",
+    "gujaratiQuestion": "031. ખુલ્લા વાતાવરણને આધીન પ્રવાહીની મુક્ત સપાટી પર ગેજ પ્રેશર (Gauge pressure) કેટલું હોય છે?",
+    "options": [
+      "1 વાતાવરણીય પ્રેશર",
+      "0 વાતાવરણીય પ્રેશર (શૂન્ય)",
+      "અનંત",
+      "પ્રવાહીની ઘનતા મુજબ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વાતાવરણીય દબાણને સંદર્ભ (Datam) માનતાં મુક્ત સપાટી પર ગેજ પ્રેશર હંમેશા શૂન્ય (0) હોય છે[cite: 8]."
+  },
+  {
+    "id": 32,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "A Bourdon pressure gauge is used to measure:",
+    "gujaratiQuestion": "032. બોર્ડન પ્રેશર ગેજનો ઉપયોગ _____ માપવા માટે થાય છે.",
+    "options": [
+      "લોકલ એટમોસ્ફેરિક પ્રેશર",
+      "દરિયાની સપાટી પરનું સ્ટાન્ડર્ડ પ્રેશર",
+      "ગેજ પ્રેશર",
+      "એબ્સોલ્યુટ પ્રેશર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બોર્ડન ટ્યુબ વાતાવરણીય દબાણની સાપેક્ષે ગેજ પ્રેશર (Gauge pressure) માપે છે[cite: 8]."
+  },
+  {
+    "id": 33,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "According to Archimedes' principle, the buoyant force is equal to:",
+    "gujaratiQuestion": "033. આર્કિમીડીઝના સિદ્ધાંત (Archimedes's principle) મુજબ બોયન્ટ ફોર્સ (Buoyant force) કોના બરાબર હોય છે?",
+    "options": [
+      "પદાર્થના કુલ વજન બરાબર",
+      "પદાર્થ દ્વારા વિસ્થાપિત પ્રવાહીના વજન બરાબર",
+      "પદાર્થના કદ બરાબર",
+      "પ્રવાહીના કુલ વજન બરાબર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બોયન્ટ ફોર્સ (FB) એ બોડી દ્વારા વિસ્થાપિત થયેલા પ્રવાહીના વજન જેટલું અને ઊર્ધ્વ દિશામાં લાગે છે[cite: 8]."
+  },
+  {
+    "id": 34,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "Where is the Center of Buoyancy always located?",
+    "gujaratiQuestion": "034. બોયન્સીનું કેન્દ્ર (Center of buoyancy) હંમેશા ક્યાં આવેલું હોય છે?",
+    "options": [
+      "પદાર્થના સેન્ટર ઓફ ગ્રેવિટી પર",
+      "વિસ્થાપિત પ્રવાહીના સેન્ટ્રોઈડ પર",
+      "મેટા-સેન્ટર પર",
+      "સપાટીની બરાબર નીચે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સેન્ટર ઓફ બોયન્સી એ વિસ્થાપિત પ્રવાહીના કદનું કેન્દ્ર (Centroid of displaced liquid volume) છે[cite: 8]."
+  },
+  {
+    "id": 35,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "Kaplan water turbine is generally used when flow through runner is:",
+    "gujaratiQuestion": "035. કાપ્લાન વોટર ટર્બાઈનનો ઉપયોગ સામાન્ય રીતે ત્યારે થાય છે જ્યારે તેના રનરમાંથી પસાર થતો ફ્લોઃ",
+    "options": [
+      "એક્સિયલ હોય અને ઉપલબ્ધ હેડ 100 m થી વધુ હોય",
+      "એક્સિયલ હોય અને ઉપલબ્ધ હેડ ઓછો (લો હેડ) હોય",
+      "રેડિયલ હોય અને ઉપલબ્ધ હેડ 100 m થી વધુ હોય",
+      "મિશ્રિત હોય અને ઉપલબ્ધ હેડ લગભગ 50 m હોય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કાપ્લાન ટર્બાઇન એક્સિયલ ફ્લો રિએક્શન ટર્બાઇન છે જે લો હેડ અને હાઇ ડિસ્ચાર્જ માટે વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 36,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "What is the point of oscillation of a floating body called?",
+    "gujaratiQuestion": "036. તરતા પદાર્થ (Floating body) ના ઓસિલેશનનું બિંદુ કયું છે?",
+    "options": [
+      "સેન્ટર ઓફ પ્રેશર",
+      "સેન્ટર ઓફ ગ્રેવિટી",
+      "બોયન્સીનું કેન્દ્ર",
+      "મેટા-સેન્ટર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "તરતી બોડી જ્યારે નાના ખૂણે દોલન કરે છે ત્યારે તે મેટાસેન્ટર (Meta-centre) ની આસપાસ ઓસિલેટ થાય છે[cite: 8]."
+  },
+  {
+    "id": 37,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "For stable equilibrium of a floating body, what should be the position of the Meta-center (M)?",
+    "gujaratiQuestion": "037. સ્થિર સમતુલા (Stable equilibrium) માં રહેલા તરતા પદાર્થ માટે મેટા-સેન્ટરની સ્થિતિ શું હોવી જોઈએ?",
+    "options": [
+      "સેન્ટર ઓફ ગ્રેવિટીની ઉપર",
+      "સેન્ટર ઓફ ગ્રેવિટીની નીચે",
+      "સેન્ટર ઓફ ગ્રેવિટીની સાથે",
+      "બોયન્સીના કેન્દ્રની નીચે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "તરતી બોડીની સ્થિર સમતુલા માટે મેટાસેન્ટ્રિક હાઇટ ધન હોવી જોઈએ એટલે કે M એ G ની ઉપર (Above G) હોવું જોઈએ[cite: 8]."
+  },
+  {
+    "id": 38,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "A flow field which has only convective acceleration is:",
+    "gujaratiQuestion": "038. જે ફ્લો ફિલ્ડમાં માત્ર કન્વેક્ટિવ એક્સિલરેશન હોય તે:",
+    "options": [
+      "સ્ટીડી યુનિફોર્મ ફ્લો",
+      "અનસ્ટીડી યુનિફોર્મ ફ્લો",
+      "સ્ટીડી નોન-યુનિફોર્મ ફ્લો",
+      "અનસ્ટીડી નોન-યુનિફોર્મ ફ્લો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્ટીડી ફ્લોમાં લોકલ પ્રવેગ (∂V/∂t) શૂન્ય હોય છે અને નોન-યુનિફોર્મ હોવાથી માત્ર કન્વેક્ટિવ પ્રવેગ અસ્તિત્વ ધરાવે છે[cite: 8]."
+  },
+  {
+    "id": 39,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "Total hydrostatic force on a submerged surface acts through which point?",
+    "gujaratiQuestion": "039. પ્રવાહીમાં ડૂબેલી સપાટી પર લાગતું કુલ હાઈડ્રોસ્ટેટિક ફોર્સ (Total hydrostatic force) કયા બિંદુ પર કાર્ય કરે છે?",
+    "options": [
+      "સેન્ટર ઓફ બોયન્સી",
+      "સેન્ટર ઓફ ગ્રેવિટી",
+      "સેન્ટર ઓફ પ્રેશર",
+      "મેટા-સેન્ટર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પરિણામી હાઇડ્રોસ્ટેટિક બળ સેન્ટર ઓફ પ્રેશર (Center of Pressure) પરથી પસાર થાય છે[cite: 8]."
+  },
+  {
+    "id": 40,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "For a vertical surface completely submerged in a liquid, the center of pressure is always located:",
+    "gujaratiQuestion": "040. પ્રવાહીમાં સંપૂર્ણ ડૂબેલી ઊભી સપાટી (Vertical surface) માટે સેન્ટર ઓફ પ્રેશર હંમેશા ક્યાં હોય છે?",
+    "options": [
+      "સેન્ટ્રોઇડની ઉપર",
+      "સેન્ટ્રોઇડની નીચે",
+      "સેન્ટ્રોઇડ પર",
+      "સપાટીની ટોચ પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઊંડાઈ સાથે દબાણ વધતું હોવાથી સેન્ટર ઓફ પ્રેશર હંમેશા સેન્ટર ઓફ ગ્રેવિટી/સેન્ટ્રોઇડની નીચે (Below Centroid) હોય છે[cite: 8]."
+  },
+  {
+    "id": 41,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Viscous Flow, Boundary Layer & Turbulent Flow",
+    "question": "For steady incompressible flow inside the boundary layer, Bernoulli's equation:",
+    "gujaratiQuestion": "Q41. સ્ટીડી ઇનકમ્પ્રેસિબલ ફ્લો માટે બાઉન્ડરી લેયરની અંદર બર્નોલીનું સમીકરણ:",
+    "options": [
+      "લાગુ પડે છે કારણ કે ફ્લો સ્ટીડી છે",
+      "લાગુ પડે છે કારણ કે ફ્લો ઈનકમ્પ્રેસિબલ છે",
+      "લાગુ પડે છે કારણ કે ફ્લો ટ્રાન્ઝિશનલ છે",
+      "લાગુ પડતું નથી કારણ કે ફ્લો ફ્રિક્શનલ (વિસ્કસ) છે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "બાઉન્ડરી લેયરની અંદર વિસ્કસ શીયર ફોર્સીસ અને ઘર્ષણ હાજર હોવાથી બર્નોલી સમીકરણ લાગુ પડતું નથી[cite: 8]."
+  },
+  {
+    "id": 42,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Mass Density, Specific Volume & Specific Gravity",
+    "question": "What is the mass of 1 m³ of liquid having specific gravity of 0.85?",
+    "gujaratiQuestion": "042. સ્પેસિફિક ગ્રેવિટી (Specific gravity) 0.85 ધરાવતા 1 m³ કદના પ્રવાહીનું માસ (Mass) કેટલું થશે?",
+    "options": [
+      "85 kg",
+      "850 kg",
+      "1000 kg",
+      "8.5 kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Density ρ = 0.85 × 1000 = 850 kg/m³. Mass m = ρ · V = 850 × 1 = 850 kg[cite: 8]."
+  },
+  {
+    "id": 43,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Units, Dimensions & Fluid Properties",
+    "question": "1 Stoke kinematic viscosity is equal to how many m²/s?",
+    "gujaratiQuestion": "Q43. 1 stoke કાઈનેમેટિક વિસ્કોસિટી (Kinematic viscosity) બરાબર કેટલા m²/s થાય?",
+    "options": [
+      "10⁻² m²/s",
+      "10⁻³ m²/s",
+      "10⁻⁴ m²/s",
+      "1 m²/s"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 Stoke = 1 cm²/s = 10⁻⁴ m²/s[cite: 8]."
+  },
+  {
+    "id": 44,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Viscous Flow, Boundary Layer & Turbulent Flow",
+    "question": "For steady viscous flow in a constant diameter pipe, in the developing region the average velocity:",
+    "gujaratiQuestion": "044. સમાન વ્યાસની પાઈપમાં વહેતા વિકસ ઇનકમ્પ્રેસિબલ ફ્લુઇડના સ્ટીડી ફ્લો માટે, સંપૂર્ણ ડેવલપ થયેલા રિજનમાં સરેરાશ વેલોસિટી અચળ રહે છે. ડેવલપ થતા રિજનમાં (developing region) સરેરાશ વેલોસિટી અંગે કયું વિધાન સાચું છે?",
+    "options": [
+      "તે ફ્લો સંપૂર્ણ રીતે ડેવલપ થાય ત્યાં સુધી વધે છે",
+      "તે અચળ રહે છે અને સંપૂર્ણ ડેવલપ થયેલા રિજનમાં સરેરાશ વેલોસિટી બરાબર હોય છે",
+      "તે ફ્લો સંપૂર્ણ રીતે ડેવલપ થાય ત્યાં સુધી ઘટે છે",
+      "તે અચળ રહે છે પરંતુ સંપૂર્ણ ડેવલપ થયેલા રિજનમાં સરેરાશ વેલોસિટી કરતા હંમેશા ઓછી હોય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કન્ટિન્યુઇટી (Q = A · V_avg) મુજબ પાઇપનો વ્યાસ સમાન હોવાથી સમગ્ર લંબાઈ પર સરેરાશ વેલોસિટી અચળ રહે છે[cite: 8]."
+  },
+  {
+    "id": 45,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "If a piece of wood floats submerged by 60% in water, what is its specific gravity?",
+    "gujaratiQuestion": "045. જો એક લાકડાનો ટુકડો પાણીમાં 60% ડૂબીને તરે છે, તો લાકડાની સ્પેસિફિક ગ્રેવિટી (Specific gravity) કેટલી હશે?",
+    "options": [
+      "0.4",
+      "0.6",
+      "0.8",
+      "1.0"
+    ],
+    "correctAnswer": 1,
+    "explanation": "તરવાના નિયમ મુજબ Specific Gravity = Submerged fraction = 0.60[cite: 8]."
+  },
+  {
+    "id": 46,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "Converting 25 meters head of water to pressure gives approximately:",
+    "gujaratiQuestion": "Q46. પાણીના 25 મીટર હેડ (Head) ને પ્રેશરમાં ફેરવતા, આશરે કેટલું મૂલ્ય મળશે?",
+    "options": [
+      "25 kN/m²",
+      "245 kN/m²",
+      "2500 kN/m²",
+      "2.5 kN/m²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "P = ρ · g · h = 1000 × 9.81 × 25 = 245,250 N/m² ≈ 245 kN/m²[cite: 8]."
+  },
+  {
+    "id": 47,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Definition of Fluid, Newton's Law of Viscosity",
+    "question": "Newton's law of viscosity depends on:",
+    "gujaratiQuestion": "Q47. ન્યૂટનનો વિસ્કોસિટીનો નિયમ શેના પર આધાર રાખે છે?",
+    "options": [
+      "ફ્લુઇડમાં સ્ટ્રેસ અને સ્ટ્રેન",
+      "શિયર સ્ટ્રેસ, પ્રેશર અને વેલોસિટી",
+      "શિયર સ્ટ્રેસ અને રેટ ઓફ સ્ટ્રેન",
+      "વિસ્કોસિટી અને શિયર સ્ટ્રેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ન્યૂટનનો નિયમ τ = μ (du/dy) શિયર સ્ટ્રેસ અને શીયર સ્ટ્રેઇન રેટ પર આધારિત છે[cite: 8]."
+  },
+  {
+    "id": 48,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "A submarine operates on which principle?",
+    "gujaratiQuestion": "048. સબમરીન (Submarine) કયા સિદ્ધાંત પર કાર્ય કરે છે?",
+    "options": [
+      "બર્નોલીનો નિયમ",
+      "પાસ્કલનો નિયમ",
+      "આર્કિમીડીઝનો નિયમ",
+      "ડાર્સીનો નિયમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સબમરીનનું ડૂબવું અને તરવું આર્કિમીડીઝના બોયન્સી સિદ્ધાંત પર આધારિત છે[cite: 8]."
+  },
+  {
+    "id": 49,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Mass Density, Specific Volume & Specific Gravity",
+    "question": "What is the density of water at 4°C?",
+    "gujaratiQuestion": "049. 4°C તાપમાને પાણીની ડેન્સિટી (Density) કેટલી હોય છે?",
+    "options": [
+      "1000 kg/m³",
+      "100 kg/m³",
+      "9.81 kg/m³",
+      "1 kg/m³"
+    ],
+    "correctAnswer": 0,
+    "explanation": "4°C તાપમાને શુદ્ધ પાણીની ઘનતા 1000 kg/m³ હોય છે (આન્સર કી B: 1000 kg/m³)[cite: 8]."
+  },
+  {
+    "id": 50,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "A Pirani gauge is used to measure:",
+    "gujaratiQuestion": "050. પિરાની ગેજ (Pirani gauge) કયા પ્રેશરના માપન માટે વપરાય છે?",
+    "options": [
+      "હાઈ પ્રેશર",
+      "એટમોસ્ફેરિક પ્રેશર",
+      "વેક્યુમ પ્રેશર",
+      "ગેજ પ્રેશર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પિરાની ગેજ થર્મલ કન્ડક્ટિવિટીના આધારે અત્યંત નીચું દબાણ એટલે કે ઉચ્ચ વેક્યુમ (Vacuum pressure) માપે છે[cite: 8]."
+  },
+  {
+    "id": 51,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "Which forces act on a fluid in static equilibrium? 1. Gravity 2. Hydrostatic 3. Surface tension 4. Viscous",
+    "gujaratiQuestion": "051. સ્થિર સ્થિતિમાં રહેલા ફ્લુઈડ પર નીચેનામાંથી કયા ફોર્સ કાર્ય કરે છે? 1. ગ્રેવિટી ફોર્સ 2. હાઈડ્રોસ્ટેટિક ફોર્સ 3. સરફેસ ટેન્શન 4. વિસ્કસ ફોર્સ",
+    "options": [
+      "1, 2, 3 અને 4",
+      "1, 2 અને 3",
+      "1, 3 અને 4",
+      "1 અને 2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્થિર પ્રવાહીમાં કોઈ સાપેક્ષ ગતિ ન હોવાથી વિસ્કસ/શીયર ફોર્સ શૂન્ય હોય છે, જેથી માત્ર ગ્રેવિટી, પ્રેશર અને સરફેસ ટેન્શન લાગે છે[cite: 8]."
+  },
+  {
+    "id": 52,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "The horizontal component of hydrostatic force on a curved surface is equal to:",
+    "gujaratiQuestion": "052. વક્ર સપાટી (Curved surface) પર લાગતા ફ્લુઇડ ફોર્સનો આડો ઘટક (Horizontal component) કોના બરાબર હોય છે?",
+    "options": [
+      "સપાટીના વજન બરાબર",
+      "વક્ર સપાટીના વર્ટિકલ પ્રોજેક્શન પર લાગતા ફોર્સ બરાબર",
+      "સપાટીની ઉપર રહેલા પ્રવાહીના વજન બરાબર",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fx = વક્ર સપાટીના વર્ટિકલ પ્રોજેક્ટેડ એરિયા પર લાગતું હાઇડ્રોસ્ટેટિક બળ[cite: 8]."
+  },
+  {
+    "id": 53,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Units, Dimensions & Fluid Properties",
+    "question": "What is the dimensional formula of specific gravity?",
+    "gujaratiQuestion": "Q53. સ્પેસિફિક ગ્રેવિટીની ડાયમેન્શનલ ફોર્મ્યુલા (Dimensional formula) કઈ છે?",
+    "options": [
+      "[M¹L⁻³T⁰]",
+      "[M⁰L⁰T⁰]",
+      "[M¹L¹T⁻²]",
+      "[M⁰L¹T⁰]"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્પેસિફિક ગ્રેવિટી બે સમાન રાશિઓનો ગુણોત્તર હોવાથી પરિમાણરહિત [M⁰L⁰T⁰] છે[cite: 8]."
+  },
+  {
+    "id": 54,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "Surface tension is caused by:",
+    "gujaratiQuestion": "054. સરફેસ ટેન્શન શેના કારણે ઉદ્ભવે છે?",
+    "options": [
+      "વિસ્કસ ફોર્સ",
+      "કોહેઝન",
+      "એડહેઝન",
+      "એડહેઝિવ અને કોહેઝિવ ફોર્સ વચ્ચેના તફાવત"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સરફેસ ટેન્શન પ્રવાહીના મુક્ત સપાટી પરના અણુઓ વચ્ચે લાગતા અસંતુલિત કોહેઝન (Cohesion) બળને કારણે સર્જાય છે[cite: 8]."
+  },
+  {
+    "id": 55,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "If a fluid is in static condition, which force does NOT act on it?",
+    "gujaratiQuestion": "055. જો કોઈ ફ્લુઈડ સ્થિર (Static) સ્થિતિમાં હોય, તો તેમાં કયો ફોર્સ કાર્ય કરતો નથી?",
+    "options": [
+      "હાઈડ્રોસ્ટેટિક ફોર્સ",
+      "સરફેસ ટેન્શન",
+      "વિસ્કસ / શીયર ફોર્સ",
+      "ગ્રેવિટી ફોર્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્થિર પ્રવાહીમાં વેલોસિટી ગ્રેડિયન્ટ (du/dy = 0) શૂન્ય હોવાથી વિસ્કસ કે શીયર ફોર્સ હોતો નથી[cite: 8]."
+  },
+  {
+    "id": 56,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "To increase the sensitivity of a manometer, the tube is:",
+    "gujaratiQuestion": "056. એક મેનોમીટર (Manometer) ની સેન્સિટિવિટી વધારવા માટે ટ્યુબને શું કરવામાં આવે છે?",
+    "options": [
+      "ઊભી રાખવામાં આવે છે",
+      "વક્ર કરવામાં આવે છે",
+      "ઢાળવાળી (Inclined) કરવામાં આવે છે",
+      "ટૂંકી કરવામાં આવે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટ્યુબને ખૂણે ઢાળવાળી (Inclined manometer) કરવાથી નાના દબાણ તફાવતે મેનોમેટ્રિક લિક્વિડનું લાંબુ સ્થાનાંતર મળે છે[cite: 8]."
+  },
+  {
+    "id": 57,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "By increasing insulation thickness around a circular pipe, heat loss to surroundings:",
+    "gujaratiQuestion": "057. વર્તુળાકાર પાઈપની આસપાસ ઇન્સ્યુલેશનની જાડાઈ વધારવાથી, _____ ને કારણે આસપાસમાં હીટ લોસ થાય છે.",
+    "options": [
+      "કન્વેક્શન અને કન્ડક્શન ઘટે છે.",
+      "કન્વેક્શન ઘટે છે જ્યારે કન્ડક્શનને કારણે તે વધે છે.",
+      "કન્વેક્શન વધે છે જ્યારે કન્ડક્શનને કારણે તે ઘટે છે.",
+      "કન્વેક્શન અને કન્ડક્શન વધે છે."
+    ],
+    "correctAnswer": 2,
+    "explanation": "ક્રિટિકલ ત્રિજ્યા સુધી બાહ્ય વિસ્તાર વધતાં કન્વેક્શન વધે છે જ્યારે ઇન્સ્યુલેશન જાડાઈ વધતાં કન્ડક્શન રેઝિસ્ટન્સ વધે છે[cite: 8]."
+  },
+  {
+    "id": 58,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Definition of Fluid, Newton's Law of Viscosity",
+    "question": "Milk, blood, and clay suspensions are considered which type of fluid?",
+    "gujaratiQuestion": "058. દૂધ, રક્ત અને માટી કયા પ્રકારના ફ્લુઈડ ગણાય છે?",
+    "options": [
+      "ન્યૂટોનિયન ફ્લુઇડ",
+      "સ્યુડો-પ્લાસ્ટિક ફ્લુઇડ",
+      "આદર્શ ફ્લુઇડ",
+      "ડાયલેટન્ટ ફ્લુઇડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રક્ત, દૂધ અને માટી શીયર થિનિંગ એટલે કે સ્યુડોપ્લાસ્ટિક (Pseudoplastic / Non-Newtonian) ફ્લુઇડ્સ છે[cite: 8]."
+  },
+  {
+    "id": 59,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "Why is alcohol often used as a manometric liquid in sensitive manometers?",
+    "gujaratiQuestion": "059. મેનોમીટરમાં પ્રવાહી તરીકે આલ્કોહોલ (Alcohol) નો ઉપયોગ થવાનું મુખ્ય કારણ શું છે?",
+    "options": [
+      "તેની ડેન્સિટી વધુ છે",
+      "તેનું સરફેસ ટેન્શન વધુ છે",
+      "તેનું વેપર પ્રેશર ઓછું છે અને ડેન્સિટી ઓછી હોવાથી સેન્સિટિવિટી વધારે છે",
+      "તેની વિસ્કોસિટી વધુ છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઓછી ઘનતા અને ચોક્કસ મેનિસ્કસ આપવાને કારણે હલકા પ્રવાહી તરીકે આલ્કોહોલ ઊંચી સેન્સિટિવિટી આપે છે[cite: 8]."
+  },
+  {
+    "id": 60,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "The formation and sudden collapse of vapor pockets in a liquid flow causes:",
+    "gujaratiQuestion": "060. લિક્વિડમાં વરાળ અને હવાના પોકેટ્સની રચનાને કારણે કઈ ઘટના બને છે?",
+    "options": [
+      "ઇરોઝન",
+      "કેવિટેશન",
+      "ટર્બ્યુલન્સ",
+      "વ્હર્લિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નીચા દબાણે વેપર બબલ્સ બનવા અને ઊંચા દબાણે ફૂટીને ધાતુની સપાટીને નુકસાન કરવાની ક્રિયાને કેવિટેશન (Cavitation) કહે છે[cite: 8]."
+  },
+  {
+    "id": 61,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "A Hydrometer is used to measure:",
+    "gujaratiQuestion": "Q61. હાઇડ્રોમીટર (Hydrometer) કયા હેતુ માટે વપરાય છે?",
+    "options": [
+      "પ્રવાહીની સ્પેસિફિક ગ્રેવિટી માપવા",
+      "વાતાવરણીય પ્રેશર માપવા",
+      "પ્રવાહીની વિસ્કોસિટી માપવા",
+      "ભેજ માપવા"
+    ],
+    "correctAnswer": 0,
+    "explanation": "હાઇડ્રોમીટર ફ્લોટેશનના સિદ્ધાંત પર પ્રવાહીની સ્પેસિફિક ગ્રેવિટી (વિશિષ્ટ ઘનતા) માપે છે[cite: 8]."
+  },
+  {
+    "id": 62,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "The tendency of a liquid free surface to contract to the smallest possible surface area is due to:",
+    "gujaratiQuestion": "062. ફ્રી સરફેસ ઓફ લિક્વિડ નાનામાં નાનો એરિયા ધારણ કરવાનું વલણ ધરાવે છે, આ કયા ગુણધર્મને આભારી છે?",
+    "options": [
+      "વિસ્કોસિટી",
+      "સરફેસ ટેન્શન",
+      "કમ્પ્રેસિબિલિટી",
+      "વેપર પ્રેશર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સરફેસ ટેન્શન સપાટી પર તણાવ પેદા કરી લઘુત્તમ સરફેસ એરિયા જાળવી રાખે છે[cite: 8]."
+  },
+  {
+    "id": 63,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Viscous Flow, Boundary Layer & Turbulent Flow",
+    "question": "What is the velocity distribution in a laminar boundary layer?",
+    "gujaratiQuestion": "Q63. લેમિનાર બાઉન્ડરી લેયરમાં વેલોસિટી ડિસ્ટ્રિબ્યુશન કેવું હોય છે?",
+    "options": [
+      "પેરાબોલિક",
+      "ક્યુબિક",
+      "લીનિયર",
+      "રેન્ડમ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "લેમિનાર ફ્લોમાં વેલોસિટી પ્રોફાઇલ પરવલયાકાર એટલે કે પેરાબોલિક (Parabolic) હોય છે[cite: 8]."
+  },
+  {
+    "id": 64,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "What is the excess pressure formula inside a liquid droplet? (where σ = surface tension, d = diameter)",
+    "gujaratiQuestion": "064. પ્રવાહીના ટીપાં (Liquid drop) ની અંદર પ્રેશર p માટેનું સૂત્ર કયું છે? (જ્યાં σ = સરફેસ ટેન્શન)",
+    "options": [
+      "p = 4σ / d",
+      "p = 8σ / d",
+      "p = 2σ / d",
+      "p = σ / d"
+    ],
+    "correctAnswer": 0,
+    "explanation": "લિક્વિડ ડ્રોપલેટ માટે ગેજ પ્રેશર Δp = 4σ / d (અથવા 2σ/R) થાય છે[cite: 8]."
+  },
+  {
+    "id": 65,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Mass Density, Specific Volume & Specific Gravity",
+    "question": "If a liquid weighs 8 N and has a volume of 1 liter, what is its specific volume?",
+    "gujaratiQuestion": "065. જો કોઈ પ્રવાહીનું વજન 8 N હોય અને તેનું કદ 1 લીટર હોય, તો તેનું સ્પેસિફિક વોલ્યુમ કેટલું થાય?",
+    "options": [
+      "2.03 × 10⁻³ m³/kg",
+      "1.23 × 10⁻³ m³/kg",
+      "12.3 × 10⁻³ m³/kg",
+      "20.3 × 10⁻³ m³/kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mass m = W/g = 8 / 9.81 = 0.8155 kg. Volume V = 10⁻³ m³. Specific volume v = V/m = 10⁻³ / 0.8155 ≈ 1.23 × 10⁻³ m³/kg[cite: 8]."
+  },
+  {
+    "id": 66,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Units, Dimensions & Fluid Properties",
+    "question": "What are the dimensions of kinematic viscosity?",
+    "gujaratiQuestion": "066. ફ્લુઇડની કાઈનેમેટિક વિસ્કોસિટીના પરિમાણો (dimensions) કયા છે?",
+    "options": [
+      "LT⁻²",
+      "ML⁻¹T⁻¹",
+      "L²T⁻¹",
+      "ML⁻²T⁻²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કાઇનેમેટિક વિસ્કોસિટીનો એકમ m²/s હોવાથી તેના પરિમાણો [L²T⁻¹] છે[cite: 8]."
+  },
+  {
+    "id": 67,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Units, Dimensions & Fluid Properties",
+    "question": "A fluid has kinematic viscosity of 0.02 stokes. How is it expressed in m²/s?",
+    "gujaratiQuestion": "067. એક ફ્લુઇડની કાઈનેમેટિક વિસ્કોસિટી 0.02 stokes છે, તો તેને m²/s માં કેવી રીતે દર્શાવાય?",
+    "options": [
+      "0.02 × 10⁻⁴ m²/s",
+      "0.02 × 10⁻² m²/s",
+      "2 × 10⁻⁴ m²/s",
+      "0.2 × 10⁻⁴ m²/s"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1 Stokes = 10⁻⁴ m²/s => 0.02 Stokes = 0.02 × 10⁻⁴ m²/s (અથવા 2 × 10⁻⁶ m²/s)[cite: 8]."
+  },
+  {
+    "id": 68,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "What is atmospheric pressure at sea level in equivalent height of water column?",
+    "gujaratiQuestion": "068. વાતાવરણીય દબાણ દરિયાની સપાટી (Sea level) પર પાણીના કોલમમાં આશરે કેટલું હોય છે?",
+    "options": [
+      "1 મીટર",
+      "10.33 મીટર",
+      "100 મીટર",
+      "760 મીટર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1 atm = 101.325 kPa = 10.33 m of water column (અથવા 760 mm of Hg)[cite: 8]."
+  },
+  {
+    "id": 69,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Definition of Fluid, Newton's Law of Viscosity",
+    "question": "A 150 mm shaft rotates at 1500 rpm in a 200 mm long journal bearing with 0.8 poise oil in clearance. What is shear stress on shaft?",
+    "gujaratiQuestion": "Q69. 150mm ઇન્ટરનલ ડાયામીટર ધરાવતા એક 200mm લાંબા જર્નલ બેરિંગમાં એક 150mm ડાયામીટરની શાફ્ટ 1500 rpm થી ફરે છે. શાફ્ટ અને બેરિંગ વચ્ચેની સમાન એન્યુલર સ્પેસ 0.8 poise ડાયનેમિક વિસ્કોસિટી ધરાવતા તેલથી ભરેલી છે. શાફ્ટ પરનો શિયર સ્ટ્રેસ કેટલો હશે?",
+    "options": [
+      "1.77 kN/m²",
+      "2.77 kN/m²",
+      "3.77 kN/m²",
+      "4.77 kN/m²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વેલોસિટી u = (πDN)/60 અને τ = μ(u/y) ગણતરી મુજબ શિયર સ્ટ્રેસ 3.77 kN/m² મળે છે[cite: 8]."
+  },
+  {
+    "id": 70,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Units, Dimensions & Fluid Properties",
+    "question": "What is the dimensional formula of Dynamic Viscosity?",
+    "gujaratiQuestion": "070. ડાયનેમિક વિસ્કોસિટી (Dynamic viscosity) નું ડાયમેન્શનલ સમીકરણ (Dimensional formula) કયું છે?",
+    "options": [
+      "[ML⁻¹T⁻¹]",
+      "[MLT⁻²]",
+      "[ML⁻²T⁻²]",
+      "[ML⁻¹T⁻²]"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ડાયનેમિક વિસ્કોસિટી μ નો એકમ Pa-s = (N·s)/m² = (kg·m/s² · s)/m² = [ML⁻¹T⁻¹][cite: 8]."
+  },
+  {
+    "id": 71,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "If a floating body tilted slightly returns to its original position, what is this equilibrium called?",
+    "gujaratiQuestion": "Q71. જો કોઈ તરતો પદાર્થ (Floating body) સહેજ નમે અને પોતાની મૂળ સ્થિતિમાં પાછો આવે, તો તેને શું કહેવાય?",
+    "options": [
+      "ન્યુટ્રલ સમતુલા",
+      "અનસ્ટેબલ સમતુલા",
+      "સ્ટેબલ સમતુલા",
+      "અસ્થિર સમતુલા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડિસ્ટર્બન્સ પછી પુનઃસ્થાપક ટોર્ક લાગીને મૂળ સ્થિતિમાં પાછા ફરવાને સ્ટેબલ ઇક્વિલિબ્રિયમ (Stable equilibrium) કહે છે[cite: 8]."
+  },
+  {
+    "id": 72,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "A Pelton wheel is which type of impulse turbine?",
+    "gujaratiQuestion": "072. પેલ્ટન વ્હીલ એ એક _____ ઇમ્પલ્સ ટર્બાઈન છે.",
+    "options": [
+      "એક્સિયલ ફ્લો",
+      "મિક્સ્ડ ફ્લો",
+      "રેડિયલ ફ્લો",
+      "ટેન્જેન્શિયલ ફ્લો"
+    ],
+    "correctAnswer": 3,
+    "explanation": "પેલ્ટન વ્હીલમાં પાણીનો જેટ રનરના પિચ સર્કલને સ્પર્શક (Tangential flow) દિશામાં અથડાય છે[cite: 8]."
+  },
+  {
+    "id": 73,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "Hydrostatic pressure on a submerged plane surface depends on:",
+    "gujaratiQuestion": "073. પ્રવાહીમાં ડૂબેલી સપાટી પર લાગતું હાઈડ્રોસ્ટેટિક પ્રેશર (Hydrostatic pressure) કોના પર આધાર રાખે છે?",
+    "options": [
+      "માત્ર સપાટીના આકાર પર",
+      "ઊંડાઈ અને પ્રવાહીની ઘનતા પર",
+      "માત્ર પ્રવાહીની વિસ્કોસિટી પર",
+      "માત્ર પ્રવાહીની કાઈનેમેટિક વિસ્કોસિટી પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હાઇડ્રોસ્ટેટિક દબાણ p = ρ · g · h મુજબ પ્રવાહીની ઘનતા અને ફ્રી સરફેસથી ઊંડાઈ પર આધારિત છે[cite: 8]."
+  },
+  {
+    "id": 74,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "Continuity equation is based on which conservation principle?",
+    "gujaratiQuestion": "074. કન્ટિન્યુઇટી સમીકરણ (Continuity equation) કયા સિદ્ધાંત પર આધારિત છે?",
+    "options": [
+      "માસનું સંરક્ષણ",
+      "એનર્જીનું સંરક્ષણ",
+      "મોમેન્ટમનું સંરક્ષણ",
+      "ફોર્સનું સંરક્ષણ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કન્ટિન્યુઇટી સમીકરણ દ્રવ્ય સંરક્ષણ (Conservation of Mass) ના નિયમ પર આધારિત છે[cite: 8]."
+  },
+  {
+    "id": 75,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "What is the 1-D continuity equation for an incompressible fluid?",
+    "gujaratiQuestion": "075. ઈનકમ્પ્રેસિબલ ફ્લુઇડના વન-ડાયમેન્શનલ ફ્લો માટે કન્ટિન્યુઇટી સમીકરણ કયું છે?",
+    "options": [
+      "A₁ / V₁ = A₂ / V₂",
+      "A₁V₁ = A₂V₂",
+      "P₁V₁ = P₂V₂",
+      "ρ₁A₁ = ρ₂V₂"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇનકમ્પ્રેસિબલ ફ્લો માટે ઘનતા અચળ રહેતાં A₁V₁ = A₂V₂ = Q (અચળ ડિસ્ચાર્જ) થાય છે[cite: 8]."
+  },
+  {
+    "id": 76,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "In the stability of floating bodies, stable equilibrium is achieved if the Meta-center (M) is ______ the Center of Gravity (G).",
+    "gujaratiQuestion": "Q76. તરતા પદાર્થોની (floating bodies) સ્થિરતામાં, જો મેટાસેન્ટર (M) બિંદુ સેન્ટર ઓફ ગ્રેવિટી (G) ની _____ હોય, તો સ્ટેબલ ઇક્વિલિબ્રિયમ પ્રાપ્ત થાય છે.",
+    "options": [
+      "ઉપર",
+      "સંપાત (coincide) થતું",
+      "સમાંતર",
+      "નીચે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "તરતા પદાર્થની સ્થિર સમતુલા (Stable equilibrium) માટે મેટાસેન્ટ્રિક હાઇટ GM > 0 હોવી જોઈએ, એટલે કે મેટાસેન્ટર (M) સેન્ટર ઓફ ગ્રેવિટી (G) ની ઉપર હોવું જોઈએ[cite: 8]."
+  },
+  {
+    "id": 77,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "When fluid flow properties do not change with time at any point, the flow is called:",
+    "gujaratiQuestion": "077. જ્યારે ફ્લુઇડ ફ્લોના ગુણધર્મો સમયની સાથે બદલાતા ન હોય, તો તે ફ્લોને શું કહેવાય છે?",
+    "options": [
+      "યુનિફોર્મ ફ્લો",
+      "અનસ્ટીડી ફ્લો",
+      "સ્ટીડી ફ્લો",
+      "રોટેશનલ ફ્લો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જો ફ્લો પેરામીટર્સ (વેગ, દબાણ, ઘનતા) સમય સાથે અચળ રહેતા હોય (∂/∂t = 0), તો તેને સ્ટીડી ફ્લો (Steady flow) કહેવાય છે[cite: 8]."
+  },
+  {
+    "id": 78,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "If flow parameters at any given instant do not change with respect to space/distance, it is called:",
+    "gujaratiQuestion": "078. જો ફ્લો પેરામીટર્સ કોઈપણ સમયે, સ્પેસની સાપેક્ષમાં બદલાતા ન હોય, તો તેને _____ કહેવાય છે.",
+    "options": [
+      "યુનિફોર્મ ફ્લો",
+      "સ્ટીડી ફ્લો",
+      "લેમિનાર ફ્લો",
+      "ટર્બ્યુલન્ટ ફ્લો"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કોઈ ચોક્કસ ક્ષણે અંતર/સ્પેસ સાથે વેગ કે અન્ય ગુણધર્મો ન બદલાય (∂V/∂s = 0), તો તે પ્રવાહને યુનિફોર્મ ફ્લો (Uniform flow) કહે છે[cite: 8]."
+  },
+  {
+    "id": 79,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "A vertical triangular plane area is submerged in water with one base at the free surface and vertex pointing downwards. If altitude is 'h', where is the center of pressure located below the free surface?",
+    "gujaratiQuestion": "079. પાણીમાં ડૂબાડેલા એક વર્ટિકલ ત્રિકોણાકાર પ્લેન એરિયાની એક બાજુ પાણીની મુક્ત સપાટી (free surface) પર છે, અને શિરોબિંદુ નીચે તરફ છે. જો અલ્ટિટ્યુડ 'h' હોય, તો મુક્ત સપાટીની નીચે પ્રેશર સેન્ટર ક્યાં હશે?",
+    "options": [
+      "h/4",
+      "h/3",
+      "2h/3",
+      "h/2"
+    ],
+    "correctAnswer": 3,
+    "explanation": "બેઝ મુક્ત સપાટી પર હોય તેવા શિરોલંબ ત્રિકોણ માટે સેન્ટર ઓફ પ્રેશર h_cp = x̄ + (Ig / A·x̄) = (h/3) + [(b·h³/36) / ((b·h/2)·(h/3))] = h/3 + h/6 = h/2 અંતરે હોય છે[cite: 8]."
+  },
+  {
+    "id": 80,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "What is the 2-D differential continuity equation for steady incompressible flow?",
+    "gujaratiQuestion": "080. ટુ-ડાયમેન્શનલ ઇનકમ્પ્રેસિબલ સ્ટીડી ફ્લો માટે ડિફરેન્શિયલ કન્ટિન્યુઇટી સમીકરણ (Differential continuity equation) કયું છે?",
+    "options": [
+      "∂u/∂x + ∂v/∂y = 0",
+      "∂u/∂y + ∂v/∂x = 0",
+      "∂u/∂x - ∂v/∂y = 0",
+      "∂²u/∂x² + ∂²v/∂y² = 0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2D ઇનકમ્પ્રેસિબલ ફ્લો માટે દ્રવ્ય સંરક્ષણનું સાતત્ય સમીકરણ ∂u/∂x + ∂v/∂y = 0 છે[cite: 8]."
+  },
+  {
+    "id": 81,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "In fluid acceleration, the rate of change of velocity with respect to time at a fixed position is called:",
+    "gujaratiQuestion": "081. ફ્લુઈડ એક્સેલરેશનમાં સમય સાથે વેગમાં થતા ફેરફારને કયું એક્સેલરેશન કહેવાય છે?",
+    "options": [
+      "કન્વેક્ટિવ એક્સેલરેશન",
+      "લોકલ એક્સેલરેશન",
+      "ટોટલ એક્સેલરેશન",
+      "નોર્મલ એક્સેલરેશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ચોક્કસ સ્થાને સમય સાથે વેગ બદલાવાને લીધે મળતા પ્રવેગ (∂V/∂t) ને લોકલ અથવા ટેમ્પોરલ પ્રવેગ (Local/Temporal acceleration) કહે છે[cite: 8]."
+  },
+  {
+    "id": 82,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "Water flows steadily through a horizontal pipe of varying diameter. At point A, velocity is 2 m/s and pressure is 2.5 kPa. At point B, pressure drops to 1.5 kPa. What is the velocity at B?",
+    "gujaratiQuestion": "Q82. બદલાતા ડાયામીટર ધરાવતી હોરિઝોન્ટલ પાઈપમાંથી સ્ટીડી વેલોસિટીથી પાણી વહે છે. બિંદુ A પર પાણીની વેલોસિટી 2 m/sec છે અને પ્રેશર 2.5 kPa છે. બિંદુ B પર પ્રેશર ઘટીને 1.5 kPa થાય છે. તો બિંદુ B પર પાણીની વેલોસિટી કેટલી હશે?",
+    "options": [
+      "6 m/sec",
+      "√6 m/sec",
+      "√3 m/sec",
+      "3 m/sec"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બર્નોલી સમીકરણ મુજબ: P_A/ρ + V_A²/2 = P_B/ρ + V_B²/2 => 2500/1000 + 4/2 = 1500/1000 + V_B²/2 => 2.5 + 2 = 1.5 + V_B²/2 => V_B²/2 = 3 => V_B = √6 m/s[cite: 8]."
+  },
+  {
+    "id": 83,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "What is the value of local acceleration for a steady flow?",
+    "gujaratiQuestion": "083. સ્ટીડી ફ્લો (Steady flow) માટે લોકલ એક્સેલરેશન (Local acceleration) નું મૂલ્ય કેટલું હોય છે?",
+    "options": [
+      "શૂન્ય",
+      "ધન",
+      "ઋણ",
+      "અનંત"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્ટીડી ફ્લોમાં સમયની સાપેક્ષે વેગ અચળ રહેતો હોવાથી લોકલ પ્રવેગ (∂V/∂t) શૂન્ય હોય છે[cite: 8]."
+  },
+  {
+    "id": 84,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "The momentum equation in fluid mechanics is based on which law?",
+    "gujaratiQuestion": "Q84. મોમેન્ટમ સમીકરણ (Momentum equation) કયા નિયમ પર આધારિત છે?",
+    "options": [
+      "ન્યુટનનો પ્રથમ નિયમ",
+      "ન્યુટનનો બીજો નિયમ",
+      "ન્યુટનનો ત્રીજો નિયમ",
+      "થર્મોડાયનેમિક્સનો પ્રથમ નિયમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોમેન્ટમ સમીકરણ ન્યુટનના ગતિના બીજા નિયમ (બળ = વેગમાનમાં થતા ફેરફારનો દર, F = d(mv)/dt) પર આધારિત છે[cite: 8]."
+  },
+  {
+    "id": 85,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Water Turbines, Heads, Efficiencies & Velocity Triangles",
+    "question": "How is the manometric efficiency of a centrifugal pump defined?",
+    "gujaratiQuestion": "085. સેન્ટ્રીફયુગલ પંપની મેનોમેટ્રિક ઍફિશિયન્સીને કોના ગુણોત્તર તરીકે વ્યાખ્યાયિત કરવામાં આવે છે?",
+    "options": [
+      "મેનોમેટ્રિક હેડ અને ઈમ્પેલર દ્વારા પાણીને આપવામાં આવતા હેડ",
+      "ઈમ્પેલર દ્વારા પાણીને આપવામાં આવતા હેડ અને મેનોમેટ્રિક હેડ",
+      "સક્શન હેડ અને ઈમ્પેલર દ્વારા પાણીને આપવામાં આવતા હેડ",
+      "ઈમ્પેલર દ્વારા પાણીને આપવામાં આવતા હેડ અને સક્શન હેડ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મેનોમેટ્રિક કાર્યક્ષમતા η_mano = મેનોમેટ્રિક હેડ (Hm) / ઈમ્પેલર દ્વારા લિક્વિડને અપાતો હેડ (Vw2·u2/g)[cite: 8]."
+  },
+  {
+    "id": 86,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "In fluid dynamics, what is a Control Volume?",
+    "gujaratiQuestion": "086. ફ્લુઇડ ડાયનેમિક્સમાં કંટ્રોલ વોલ્યુમ (Control volume) એટલે શું?",
+    "options": [
+      "સ્પેસમાં એક ફિક્સડ રીજન",
+      "ફિક્સડ માસ",
+      "ક્લોઝ્ડ સિસ્ટમ",
+      "આઈસોલેટેડ સિસ્ટમ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કંટ્રોલ વોલ્યુમ એ અવકાશમાં પસંદ કરેલો એક ચોક્કસ કાલ્પનિક કે વાસ્તવિક જથ્થો/વિસ્તાર (Fixed region in space) છે જેમાંથી દ્રવ્ય અને ઊર્જા વહી શકે છે[cite: 8]."
+  },
+  {
+    "id": 87,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Euler's Equation & Rotodynamic Machines",
+    "question": "Which forces are considered in the Navier-Stokes equations of motion?",
+    "gujaratiQuestion": "Q87. નેવિયર-સ્ટોક્સ સમીકરણ (Navier-Stokes equation) કયા ફોર્સને ધ્યાનમાં લે છે?",
+    "options": [
+      "ગ્રેવિટી અને પ્રેશર ફોર્સ",
+      "ગ્રેવિટી, પ્રેશર અને વિસ્કસ ફોર્સ",
+      "માત્ર વિસ્કસ ફોર્સ",
+      "કમ્પ્રેસિબિલિટી ફોર્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નેવિયર-સ્ટોક્સ સમીકરણો ગ્રેવિટી ફોર્સ (Fg), પ્રેશર ફોર્સ (Fp) અને વિસ્કસ ફોર્સ (Fv) ના સંયુક્ત સરવાળાને ધ્યાનમાં લે છે[cite: 8]."
+  },
+  {
+    "id": 88,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Water Turbines, Heads, Efficiencies & Velocity Triangles",
+    "question": "For discharge Q, specific speed of a pump is N. For double the discharge with same head, what will be the specific speed?",
+    "gujaratiQuestion": "088. ડિસ્ચાર્જ Q માટે, પંપની સ્પેસિફિક સ્પીડ N છે. સમાન હેડ સાથે બમણા ડિસ્ચાર્જ માટે, સ્પેસિફિક સ્પીડ શું હશે?",
+    "options": [
+      "N/2",
+      "√2 N",
+      "N/√2",
+      "2N"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પંપની સ્પેસિફિક સ્પીડ Ns = (N√Q) / H^(3/4) હોવાથી Ns ∝ √Q થાય. તેથી ડિસ્ચાર્જ બમણો (2Q) કરતાં નવી સ્પીડ √2 N બને છે[cite: 8]."
+  },
+  {
+    "id": 89,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "What is the definition of a Streamline?",
+    "gujaratiQuestion": "089. સ્ટ્રીમલાઈન (Streamline) ની વ્યાખ્યા શું છે?",
+    "options": [
+      "પાઈપની સપાટીને સમાંતર રેખા",
+      "એવી રેખા જેના દરેક બિંદુ પરનો સ્પર્શક વેગની દિશા દર્શાવે છે",
+      "સમાન પ્રેશર ધરાવતા બિંદુઓની રેખા",
+      "રોટેશનલ ફ્લોની રેખા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટ્રીમલાઇન એ એવી કાલ્પનિક વક્ર રેખા છે કે જેના કોઈપણ બિંદુ આગળ દોરેલો સ્પર્શક તે ક્ષણે તે બિંદુ આગળ ફ્લુઇડ વેગની દિશા આપે છે[cite: 8]."
+  },
+  {
+    "id": 90,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "If the stream function satisfies Laplace's equation (∇²ψ = 0), what type of flow is it?",
+    "gujaratiQuestion": "090. જો સ્ટ્રીમ ફંક્શન લેપ્લાસ સમીકરણનું પાલન કરતું હોય, તો તે ફ્લો કેવો હશે?",
+    "options": [
+      "રોટેશનલ ફ્લો",
+      "ઈરરોટેશનલ ફ્લો",
+      "કમ્પ્રેસિબલ ફ્લો",
+      "અનસ્ટીડી ફ્લો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યારે સ્ટ્રીમ ફંક્શન લેપ્લાસ સમીકરણ સંતોષે (∂²ψ/∂x² + ∂²ψ/∂y² = 0), ત્યારે પ્રવાહ ઇરરોટેશનલ (Irrotational / Potential flow) બને છે[cite: 8]."
+  },
+  {
+    "id": 91,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "What is Entropy?",
+    "gujaratiQuestion": "091. એન્ટ્રોપી શું છે?",
+    "options": [
+      "એન્ટ્રોપી એ સિસ્ટમ દ્વારા કરવામાં આવતા નેટ વર્કનું માપ છે",
+      "એન્ટ્રોપી એ સિસ્ટમમાં થતા હીટ ટ્રાન્સફર ઓફ એનર્જીનું માપ છે",
+      "એન્ટ્રોપી એ સિસ્ટમના ડિસઓર્ડરનું (અવ્યવસ્થાનું) માપ છે",
+      "એન્ટ્રોપી એ સિસ્ટમની પોટેન્શિયલ એનર્જીનું માપ છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એન્ટ્રોપી એ થર્મોડાયનેમિક સિસ્ટમમાં રહેલી આણ્વિક અવ્યવસ્થા અથવા રેન્ડમનેસનું (Degree of disorder) માપ છે[cite: 8]."
+  },
+  {
+    "id": 92,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "What is the geometric relationship between streamlines and equipotential lines in a flow net?",
+    "gujaratiQuestion": "092. સ્ટ્રીમલાઈન અને ઇક્વિપોટેન્શિયલ લાઈન વચ્ચેનો સંબંધ શું છે?",
+    "options": [
+      "એકબીજાને સમાંતર હોય છે",
+      "એકબીજા સાથે 45° નો ખૂણો બનાવે છે",
+      "એકબીજાને લંબ (Orthogonal) હોય છે",
+      "એકબીજાને ક્યારેય છેદતી નથી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફ્લો નેટમાં સ્ટ્રીમલાઇન્સ (ψ = c) અને વેલોસિટી પોટેન્શિયલ લાઇન્સ (φ = c) તમામ બિંદુઓ આગળ પરસ્પર કાટખૂણે (Orthogonal) છેદે છે[cite: 8]."
+  },
+  {
+    "id": 93,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "Bernoulli's equation is based on which conservation principle?",
+    "gujaratiQuestion": "093. બર્નોલી સમીકરણ (Bernoulli's equation) કોના સંરક્ષણના સિદ્ધાંત પર આધારિત છે?",
+    "options": [
+      "માસ",
+      "મોમેન્ટમ",
+      "એનર્જી",
+      "ફોર્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બર્નોલી સમીકરણ પ્રવાહી પ્રવાહ માટે ઊર્જા સંરક્ષણના નિયમ (Law of Conservation of Energy) પર આધારિત છે[cite: 8]."
+  },
+  {
+    "id": 94,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "It is impossible to construct a device operating in a cycle that produces no effect other than transfer of heat from colder to hotter body. Which statement is this?",
+    "gujaratiQuestion": "094. એવું કોઈ ઉપકરણ બનાવવું અશક્ય છે જે સાયકલમાં કાર્ય કરતું હોય, અને ઠંડા પદાર્થથી ગરમ પદાર્થમાં હીટ ટ્રાન્સફર સિવાય બીજું કોઈ પરિણામ ઉત્પન્ન ન કરે. આ કયું વિધાન છે?",
+    "options": [
+      "કેલ્વિન સ્ટેટમેન્ટ",
+      "ક્લોસિયસ સ્ટેટમેન્ટ",
+      "પ્લાન્ક સ્ટેટમેન્ટ",
+      "કન્ઝર્વેશન ઓફ એનર્જી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આ વિધાન થર્મોડાયનેમિક્સના બીજા નિયમનું ક્લોસિયસ સ્ટેટમેન્ટ (Clausius Statement) છે[cite: 8]."
+  },
+  {
+    "id": 95,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Euler's Equation & Rotodynamic Machines",
+    "question": "Integrating Euler's equation of motion along a streamline yields:",
+    "gujaratiQuestion": "095. યૂલર સમીકરણ (Euler's equation) ના ઇન્ટિગ્રેશનથી કયું સમીકરણ મળે છે?",
+    "options": [
+      "કન્ટિન્યુઇટી સમીકરણ",
+      "બર્નોલી સમીકરણ",
+      "નેવિયર-સ્ટોક્સ સમીકરણ",
+      "મોમેન્ટમ સમીકરણ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટ્રીમલાઇન પર યૂલર સમીકરણ (dp/ρ + V·dV + g·dz = 0) નું સંકલન કરવાથી બર્નોલીનું સમીકરણ મળે છે[cite: 8]."
+  },
+  {
+    "id": 96,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "Bernoulli's equation is valid for which type of flow?",
+    "gujaratiQuestion": "096. બર્નોલી સમીકરણ કયા પ્રકારના ફ્લો (Flow) માટે લાગુ પડે છે?",
+    "options": [
+      "આઇડિયલ, સ્ટીડી અને ઇનકમ્પ્રેસિબલ",
+      "વિસ્કસ અને અનસ્ટીડી",
+      "રોટેશનલ અને કમ્પ્રેસિબલ",
+      "માત્ર ટર્બ્યુલન્ટ ફ્લો"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બર્નોલી સમીકરણ આદર્શ (ઘર્ષણરહિત), સ્ટીડી, ઇનકમ્પ્રેસિબલ અને ઇરરોટેશનલ પ્રવાહ માટે જ લાગુ પડે છે[cite: 8]."
+  },
+  {
+    "id": 97,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "In Bernoulli's equation (p/ρg + V²/2g + z = Constant), what is the dimension of each term?",
+    "gujaratiQuestion": "097. બર્નોલી સમીકરણ p/ρg + V²/2g + Z = Constant માં દરેક પદ (Term) નું ડાયમેન્શન શું હોય છે?",
+    "options": [
+      "એનર્જી",
+      "માસ",
+      "લેન્થ",
+      "કાર્ય"
+    ],
+    "correctAnswer": 2,
+    "explanation": "દરેક પદ પ્રતિ યુનિટ વજન દીઠ ઊર્જા દર્શાવે છે, જેનું પરિમાણ લંબાઈ [L] (મીટરમાં હેડ) થાય છે[cite: 8]."
+  },
+  {
+    "id": 98,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "During a throttling process:",
+    "gujaratiQuestion": "098. થ્રોટલિંગ પ્રોસેસ દરમિયાન:",
+    "options": [
+      "પ્રેશર બદલાતું નથી",
+      "ઈન્ટરનલ એનર્જી બદલાતી નથી",
+      "એન્ટ્રોપી બદલાતી નથી",
+      "એન્થાલ્પી બદલાતી નથી"
+    ],
+    "correctAnswer": 3,
+    "explanation": "થ્રોટલિંગ એ અચળ એન્થાલ્પી (Isenthalpic, h1 = h2) પ્રક્રિયા છે[cite: 8]."
+  },
+  {
+    "id": 99,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "In Bernoulli's equation, what does the term V²/2g represent?",
+    "gujaratiQuestion": "099. સમીકરણ p/ρg + V²/2g + Z = Constant માં V²/2g પદ શું દર્શાવે છે?",
+    "options": [
+      "પ્રેશર હેડ",
+      "કાઈનેટિક હેડ (વેલોસિટી હેડ)",
+      "પોટેન્શિયલ હેડ",
+      "ડેટમ હેડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "V²/2g પદ પ્રતિ યુનિટ વજન દીઠ ગતિજ ઊર્જા એટલે કે કાઇનેટિક અથવા વેલોસિટી હેડ દર્શાવે છે[cite: 8]."
+  },
+  {
+    "id": 100,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "On which principle does a venturimeter work?",
+    "gujaratiQuestion": "0100. વેન્ચ્યુરીમીટર (Venturimeter) કયા સિદ્ધાંત પર કાર્ય કરે છે?",
+    "options": [
+      "ન્યુટનનો નિયમ",
+      "બર્નોલીનું સમીકરણ",
+      "આર્કિમીડીઝનો સિદ્ધાંત",
+      "પાસ્કલનો નિયમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વેન્ચ્યુરીમીટર પાઇપમાં દબાણ તફાવત માપી બર્નોલીના સમીકરણના આધારે ડિસ્ચાર્જ માપે છે[cite: 8]."
+  },
+  {
+    "id": 101,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "If source temperature is increased, what happens to the efficiency of a Carnot engine?",
+    "gujaratiQuestion": "0101. જો સોર્સનું તાપમાન વધારવામાં આવે, તો કાર્નોટ એન્જિનની એફિશિયન્સી પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "પહેલા વધે છે અને પછી અચળ થઈ જાય છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કાર્નોટ કાર્યક્ષમતા η = 1 - (T_sink / T_source) મુજબ T_source વધતાં કાર્યક્ષમતા વધે છે[cite: 8]."
+  },
+  {
+    "id": 102,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "What is a venturimeter used to measure?",
+    "gujaratiQuestion": "0102. વેન્ચ્યુરીમીટરનો ઉપયોગ શું માપવા માટે થાય છે?",
+    "options": [
+      "પ્રેશર",
+      "વેલોસિટી",
+      "ડિસ્ચાર્જ અથવા ફ્લો રેટ",
+      "વિસ્કોસિટી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વેન્ચ્યુરીમીટર પાઇપમાંથી વહેતા પ્રવાહીનો ફ્લો રેટ અથવા ડિસ્ચાર્જ (Discharge) માપવા વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 103,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "A Pitot tube is used to measure:",
+    "gujaratiQuestion": "0103. પિટોટ ટ્યુબ (Pitot tube) નો ઉપયોગ શું માપવા માટે થાય છે?",
+    "options": [
+      "ડિસ્ચાર્જ",
+      "ફ્લુઇડનો વેગ (સ્થાનિક વેલોસિટી)",
+      "વિસ્કોસિટી",
+      "સરફેસ ટેન્શન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પિટોટ ટ્યુબ પ્રવાહમાં કોઈ ચોક્કસ બિંદુ આગળ ફ્લુઇડની સ્થાનિક વેલોસિટી (Velocity of flow) માપે છે[cite: 8]."
+  },
+  {
+    "id": 104,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "A Carnot engine operates between 227°C and 127°C. If work output is 10⁴ J, what is heat rejected to the sink?",
+    "gujaratiQuestion": "Q104. એક કાર્નોટ એન્જિન 227°C અને 127°C તાપમાન વચ્ચે કાર્ય કરે છે. જો એન્જિનનું વર્ક આઉટપુટ 10⁴ J હોય, તો સિંકમાં રિજેક્ટ થતી હીટની માત્રા કેટલી હશે?",
+    "options": [
+      "1 × 10⁴ J",
+      "2 × 10⁴ J",
+      "4 × 10⁴ J",
+      "5 × 10⁴ J"
+    ],
+    "correctAnswer": 2,
+    "explanation": "T1 = 500 K, T2 = 400 K. η = 1 - 400/500 = 0.2. Q1 = W / η = 10⁴ / 0.2 = 5 × 10⁴ J. Q2 = Q1 - W = 5 × 10⁴ - 10⁴ = 4 × 10⁴ J[cite: 8]."
+  },
+  {
+    "id": 105,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "When cross-sectional area decreases at the throat of a venturimeter, what happens to the static pressure?",
+    "gujaratiQuestion": "0105. જ્યારે વેન્ચ્યુરીમીટરના થ્રોટ (Throat) પર ક્રોસ-સેક્શનલ એરિયા ઘટે છે, ત્યારે પ્રેશર પર શું અસર થાય છે?",
+    "options": [
+      "સ્થિર પ્રેશરમાં ઘટાડો થાય છે",
+      "સ્થિર પ્રેશરમાં વધારો થાય છે",
+      "પ્રેશર અચળ રહે છે",
+      "પ્રેશર શૂન્ય થાય છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "થ્રોટ આગળ વેગ વધવાથી બર્નોલી સમીકરણ મુજબ સ્ટેટિક પ્રેશરમાં ઘટાડો થાય છે[cite: 8]."
+  },
+  {
+    "id": 106,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "A Stagnation point is a point in a fluid flow where:",
+    "gujaratiQuestion": "0106. સ્ટેગ્નેશન પોઈન્ટ (Stagnation point) એવું બિંદુ છે જ્યાં...",
+    "options": [
+      "પ્રેશર શૂન્ય હોય છે",
+      "વેલોસિટી શૂન્ય હોય છે",
+      "એનર્જી શૂન્ય હોય છે",
+      "ડેન્સિટી શૂન્ય હોય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યાં પ્રવાહીનો વેગ સંપૂર્ણપણે શૂન્ય થઈ જાય અને ગતિજ ઊર્જા દબાણમાં રૂપાંતર પામે તે બિંદુને સ્ટેગ્નેશન પોઇન્ટ કહે છે[cite: 8]."
+  },
+  {
+    "id": 107,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "110 J of heat is added to a gas system and its internal energy increases by 40 J. What is the external work done?",
+    "gujaratiQuestion": "0107. એક વાયુ સિસ્ટમમાં 110 જુલ હીટ ઉમેરવામાં આવે છે, જેની ઈન્ટરનલ એનર્જી 40 J વધે છે. તો બાહ્ય વર્ક ડનની (External work done) માત્રા કેટલી હશે?",
+    "options": [
+      "150 J",
+      "70 J",
+      "110 J",
+      "40 J"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રથમ નિયમ મુજબ dQ = dU + dW => 110 = 40 + dW => dW = 70 J[cite: 8]."
+  },
+  {
+    "id": 108,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "The total pressure measured at the nose opening of a Pitot tube is called:",
+    "gujaratiQuestion": "0108. પિટોટ ટ્યુબ દ્વારા માપવામાં આવતા પ્રેશરને શું કહેવાય છે?",
+    "options": [
+      "સ્ટેટિક પ્રેશર",
+      "ડાયનેમિક પ્રેશર",
+      "સ્ટેગ્નેશન પ્રેશર",
+      "વેક્યુમ પ્રેશર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પિટોટ ટ્યુબના ઇનલેટ આગળ પ્રવાહ અટકતાં તે સ્ટેટિક અને ડાયનેમિક પ્રેશરનો સરવાળો એટલે કે સ્ટેગ્નેશન પ્રેશર માપે છે[cite: 8]."
+  },
+  {
+    "id": 109,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "Compared to an orifice meter, the coefficient of discharge of a venturimeter is:",
+    "gujaratiQuestion": "0109. ઑરિફિસ મીટરની સરખામણીમાં વેન્ચ્યુરીમીટરનો ડિસ્ચાર્જ કો-એફિશિયન્ટ કેવો હોય છે?",
+    "options": [
+      "ઓછો",
+      "વધુ",
+      "સમાન",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓછા ફ્રિક્શનલ લોસને કારણે વેન્ચ્યુરીમીટરનો Cd (0.95-0.98) ઓરિફિસમીટર (0.60-0.65) કરતાં ઘણો વધુ હોય છે[cite: 8]."
+  },
+  {
+    "id": 110,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "What is the formula for heat absorbed or rejected during a polytropic process?",
+    "gujaratiQuestion": "0110. પોલિટ્રોપિક પ્રોસેસ દરમિયાન શોષાયેલી કે રિજેક્ટ થયેલી હીટનું સૂત્ર શું છે?",
+    "options": [
+      "[(γ - n)/(γ - 1)] × Work done",
+      "[(γ - n)/(n - 1)] × Work done",
+      "[(γ - n)/2] × Work done",
+      "[(n - 1)/(γ - 1)] × Work done"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પોલિટ્રોપિક હીટ ટ્રાન્સફર Q = [(γ - n)/(γ - 1)] × W_polytropic થાય છે[cite: 8]."
+  },
+  {
+    "id": 111,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "What is the formula for theoretical velocity V of flow through an orifice under head h?",
+    "gujaratiQuestion": "0111. જો કોઈ ઓરિફિસનો સૈદ્ધાંતિક વેગ V હોય, અને હેડ h હોય, તો V નું સૂત્ર શું છે?",
+    "options": [
+      "√(gh)",
+      "√(2gh)",
+      "√(2g/h)",
+      "2gh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટોરીસેલીના નિયમ મુજબ સૈદ્ધાંતિક વેગ V = √(2gh) થાય છે[cite: 8]."
+  },
+  {
+    "id": 112,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "In a pipe, water has kinetic head 2 m, pressure head 15 m, and datum head 3 m. What is the total head?",
+    "gujaratiQuestion": "0112. એક પાઈપમાં વહેતા પાણીનો કાઇનેટિક હેડ 2 m અને પ્રેશર હેડ 15 m છે. જો ડેટમ હેડ 3 m હોય, તો ટોટલ હેડ કેટલો થાય?",
+    "options": [
+      "17 m",
+      "20 m",
+      "13 m",
+      "30 m"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Total Head H = Pressure Head + Kinetic Head + Datum Head = 15 + 2 + 3 = 20 m[cite: 8]."
+  },
+  {
+    "id": 113,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "An isentropic process is always:",
+    "gujaratiQuestion": "0113. આઈસેન્ટ્રોપિક પ્રોસેસ હંમેશા _____ હોય છે.",
+    "options": [
+      "ઇરરિવર્સિબલ અને એડિઆબેટિક",
+      "રિવર્સિબલ અને આઇસોથર્મલ",
+      "ફ્રિક્શનલેસ અને ઇરરિવર્સિબલ",
+      "રિવર્સિબલ અને એડિઆબેટિક"
+    ],
+    "correctAnswer": 3,
+    "explanation": "આઇસેન્ટ્રોપિક પ્રક્રિયા એટલે અચળ એન્ટ્રોપી ધરાવતી રિવર્સિબલ એડિઆબેટિક (Reversible adiabatic) પ્રક્રિયા[cite: 8]."
+  },
+  {
+    "id": 114,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "In a free vortex flow, the fluid rotates due to:",
+    "gujaratiQuestion": "0114. ફ્રી વોર્ટેક્સ ફ્લો (Free vortex flow) માં ફ્લુઇડ કયા ફોર્સના કારણે ફરે છે?",
+    "options": [
+      "ઇન્ટરનલ ટોર્ક",
+      "એક્સટર્નલ ટોર્ક",
+      "કોઈ એક્સટર્નલ ટોર્ક વગર",
+      "વિસ્કસ ફોર્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફ્રી વોર્ટેક્સમાં કોઈ બાહ્ય ટોર્ક આપ્યા વગર કોણીય વેગમાન સંરક્ષણ (v × r = constant) થી પરિભ્રમણ થાય છે[cite: 8]."
+  },
+  {
+    "id": 115,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "In dimensional analysis, Reynolds number is the ratio of which two forces?",
+    "gujaratiQuestion": "0115. ડાયમેન્શનલ એનાલિસિસમાં રેનોલ્ડ્સ નંબર (Reynolds number) એ કયા બે ફોર્સનો ગુણોત્તર છે?",
+    "options": [
+      "ઈનર્શિયા ફોર્સ અને વિસ્કસ ફોર્સ",
+      "ઈનર્શિયા ફોર્સ અને ગ્રેવિટી ફોર્સ",
+      "ઈનર્શિયા ફોર્સ અને પ્રેશર ફોર્સ",
+      "ઈનર્શિયા ફોર્સ અને ઇલાસ્ટિક ફોર્સ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રેનોલ્ડ્સ નંબર (Re) એ ઈનર્શિયા ફોર્સ અને વિસ્કસ ફોર્સનો ગુણોત્તર છે[cite: 8]."
+  },
+  {
+    "id": 116,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "If dry saturated steam undergoes isentropic expansion in a steam turbine, what will be the state of steam at turbine exit?",
+    "gujaratiQuestion": "0116. જો આઈસેન્ટ્રોપિક પ્રોસેસને અનુસરતા સ્ટીમ ટર્બાઈનમાં ડ્રાય સેચ્યુરેટેડ સ્ટીમ દાખલ કરવામાં આવે, તો ટર્બાઈનના એક્ઝિટ પર સ્ટીમ કેવી હશે?",
+    "options": [
+      "સુપરહીટેડ સ્ટીમ",
+      "ડ્રાય સેચ્યુરેટેડ સ્ટીમ",
+      "લિક્વિડ કન્ડેન્સેટ",
+      "વેટ સ્ટીમ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "T-s ડાયાગ્રામ મુજબ આઇસેન્ટ્રોપિક વિસ્તરણથી સ્ટીમ સેચ્યુરેશન લાઇન ક્રોસ કરી ટુ-ફેઝ વેટ સ્ટીમ (Wet steam) રીજનમાં પ્રવેશે છે[cite: 8]."
+  },
+  {
+    "id": 117,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "Froude number is the ratio of which two forces?",
+    "gujaratiQuestion": "Q117. ફ્રાઉડ નંબર (Froude number) એ કયા બે ફોર્સનો ગુણોત્તર છે?",
+    "options": [
+      "ઈનર્શિયા ફોર્સ અને વિસ્કસ ફોર્સ",
+      "ઈનર્શિયા ફોર્સ અને ગ્રેવિટી ફોર્સ",
+      "ઈનર્શિયા ફોર્સ અને સરફેસ ટેન્શન ફોર્સ",
+      "ગ્રેવિટી ફોર્સ અને વિસ્કસ ફોર્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફ્રાઉડ નંબર Fr = √(ઈનર્શિયા ફોર્સ / ગ્રેવિટી ફોર્સ) = V / √(gL)[cite: 8]."
+  },
+  {
+    "id": 118,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "Mach number is the ratio of:",
+    "gujaratiQuestion": "0118. મેક નંબર (Mach number) કોનો ગુણોત્તર છે?",
+    "options": [
+      "ઈનર્શિયા ફોર્સ અને ઇલાસ્ટિક ફોર્સ",
+      "ઈનર્શિયા ફોર્સ અને વિસ્કસ ફોર્સ",
+      "ઈનર્શિયા ફોર્સ અને સરફેસ ટેન્શન ફોર્સ",
+      "ઇલાસ્ટિક ફોર્સ અને ગ્રેવિટી ફોર્સ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મેક નંબર M = √(ઈનર્શિયા ફોર્સ / ઇલાસ્ટિક ફોર્સ) = V / c[cite: 8]."
+  },
+  {
+    "id": 119,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "A steam engine works on which ideal thermodynamic cycle?",
+    "gujaratiQuestion": "0119. સ્ટીમ એન્જિન કઈ આદર્શ સાયકલ પર કાર્ય કરે છે?",
+    "options": [
+      "કાર્નોટ સાયકલ",
+      "રેન્કિન સાયકલ",
+      "ઓટો સાયકલ",
+      "જૂલ સાયકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટીમ પાવર સાયકલ આદર્શ રેન્કિન સાયકલ (Rankine cycle) પર કાર્ય કરે છે[cite: 8]."
+  },
+  {
+    "id": 120,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "Which force is predominant in the definition of Weber number?",
+    "gujaratiQuestion": "Q120. વેબર નંબર (Weber number) ની ગણતરીમાં કયો ફોર્સ અગત્યનો છે?",
+    "options": [
+      "પ્રેશર ફોર્સ",
+      "ગ્રેવિટી ફોર્સ",
+      "સરફેસ ટેન્શન ફોર્સ",
+      "વિસ્કસ ફોર્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વેબર નંબર We = ઈનર્શિયા ફોર્સ / સરફેસ ટેન્શન ફોર્સ = (ρV²L)/σ[cite: 8]."
+  },
+  {
+    "id": 121,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "When the Mach number is less than 1 (M < 1), what is the flow called?",
+    "gujaratiQuestion": "0121. જ્યારે મેક નંબર 1 કરતાં ઓછો હોય, ત્યારે તે ફ્લો કેવો કહેવાય છે?",
+    "options": [
+      "સુપરસોનિક ફ્લો",
+      "સોનિક ફ્લો",
+      "હાઈપરસોનિક ફ્લો",
+      "સબસોનિક ફ્લો"
+    ],
+    "correctAnswer": 3,
+    "explanation": "M < 1 હોય ત્યારે પ્રવાહની ઝડપ અવાજની ઝડપ કરતાં ઓછી હોવાથી તેને સબસોનિક ફ્લો (Subsonic flow) કહે છે[cite: 8]."
+  },
+  {
+    "id": 122,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "For supersonic flow, the value of Mach number is:",
+    "gujaratiQuestion": "0122. સુપરસોનિક ફ્લો (Supersonic flow) માટે મેક નંબરની વેલ્યુ કેટલી હોય છે?",
+    "options": [
+      "1 કરતા ઓછી",
+      "1 ની બરાબર",
+      "1 કરતા વધુ (1 થી 5 ની વચ્ચે)",
+      "5 કરતા વધુ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જ્યારે મેક નંબર 1 થી 5 ની વચ્ચે હોય ત્યારે તેને સુપરસોનિક ફ્લો કહેવાય છે[cite: 8]."
+  },
+  {
+    "id": 123,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "During adiabatic expansion in a reversible system where temperature changes from T1 to T2, the change in entropy is:",
+    "gujaratiQuestion": "0123. એક સિસ્ટમમાં થતા એડિઆબેટિક એક્સપાન્શન દરમિયાન તેનું તાપમાન T1 થી T2 બદલાય છે, તો એન્ટ્રોપીમાં શું ફેરફાર થશે?",
+    "options": [
+      "વધશે",
+      "ઘટશે",
+      "અચળ રહેશે (શૂન્ય ફેરફાર)",
+      "T1/T2 ગુણોત્તરના આધારે વધશે કે ઘટશે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રિવર્સિબલ એડિઆબેટિક પ્રક્રિયામાં હીટ ટ્રાન્સફર dQ = 0 હોવાથી એન્ટ્રોપી અચળ રહે છે (dS = 0)[cite: 8]."
+  },
+  {
+    "id": 124,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "For hypersonic flow, the value of Mach number is:",
+    "gujaratiQuestion": "0124. હાઈપરસોનિક ફ્લો (Hypersonic flow) માટે મેક નંબરનું મૂલ્ય કેટલું હોય છે?",
+    "options": [
+      "1 કરતા ઓછું",
+      "1 ની બરાબર",
+      "1 થી 3 ની વચ્ચે",
+      "5 કરતા વધુ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "જ્યારે મેક નંબર M > 5 હોય ત્યારે તે પ્રવાહ હાઇપરસોનિક ફ્લો (Hypersonic flow) કહેવાય છે[cite: 8]."
+  },
+  {
+    "id": 125,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "Water discharge in a pipe is 8 m³/s through a cross-sectional area of 2 m². What is the velocity of flow?",
+    "gujaratiQuestion": "0125. એક પાઈપમાં પાણીનો ડિસ્ચાર્જ 8 m³ /s છે. જો ક્રોસ-સેક્શનલ એરિયા 2 m² હોય, તો વેલોસિટી કેટલી થશે?",
+    "options": [
+      "2 m/s",
+      "4 m/s",
+      "8 m/s",
+      "16 m/s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Velocity V = Discharge / Area = Q / A = 8 / 2 = 4 m/s[cite: 8]."
+  },
+  {
+    "id": 126,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "What is CRYOGENICS?",
+    "gujaratiQuestion": "Q126. ક્રાયોજેનિક્સ (CRYOGENICS) એટલે",
+    "options": [
+      "એક પ્રકારની ટાંકી",
+      "નીચા તાપમાને સામગ્રી અને ઘટનાઓનો અભ્યાસ",
+      "રેડિયોએક્ટિવ તત્વોનો અભ્યાસ",
+      "આપેલ પૈકી એકપણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ક્રાયોજેનિક્સ એટલે અત્યંત નીચા તાપમાને (-150°C થી નીચે) પદાર્થોના ગુણધર્મો અને વર્તણૂકનો અભ્યાસ[cite: 8]."
+  },
+  {
+    "id": 127,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "If pipe diameter is halved and discharge remains constant, what is the effect on flow velocity?",
+    "gujaratiQuestion": "Q127. જો પાઈપનો ડાયામીટર અડધો કરવામાં આવે અને ડિસ્ચાર્જ સમાન રહે, તો ફ્લોની વેલોસિટી પર શું અસર થશે?",
+    "options": [
+      "અડધી થશે",
+      "2 ગણી થશે",
+      "4 ગણી થશે",
+      "8 ગણી થશે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "V = Q / A = 4Q / (πD²). ડાયામીટર અડધો (D/2) કરતાં વેલોસિટી (1 / (1/2)²) = 4 ગણી વધશે[cite: 8]."
+  },
+  {
+    "id": 128,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "A Pitot tube measures water velocity as 10 m/s. Taking g = 10 m/s², what is the dynamic head? (V = √(2gh))",
+    "gujaratiQuestion": "Q128. એક પિટોટ ટ્યુબથી પાણીની વેલોસિટી 10 m/s મપાય છે. જો g = 10 m/s² લઈએ, તો ડાયનેમિક હેડ આશરે કેટલો હશે? (V = √(2gh))",
+    "options": [
+      "5 m",
+      "10 m",
+      "2 m",
+      "50 m"
+    ],
+    "correctAnswer": 0,
+    "explanation": "h = V² / (2g) = (10)² / (2 × 10) = 100 / 20 = 5 m[cite: 8]."
+  },
+  {
+    "id": 129,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "In a steam power plant, steam enthalpy at turbine inlet and outlet is 4000 kJ/kg and 2500 kJ/kg. Neglecting pump work, what is steam consumption rate (in kg/kWh)?",
+    "gujaratiQuestion": "Q129. એક સ્ટીમ પાવર પ્લાન્ટમાં, રેન્કિન સાયકલમાં સ્ટીમ ટર્બાઈનના ઇનલેટ અને આઉટલેટ પર સ્ટીમની એન્થેલ્પી અનુક્રમે 4000 kJ/kg અને 2500 kJ/kg છે. પંપના વર્કને અવગણતા, સ્ટીમ કન્ઝમ્પશન રેટ (સ્ટીમ વપરાશનો દર) (kg/kWh માં) કેટલો હશે?",
+    "options": [
+      "2.4",
+      "1.5",
+      "3",
+      "4.5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Turbine Work W_T = 4000 - 2500 = 1500 kJ/kg. SSC = 3600 / W_T = 3600 / 1500 = 2.4 kg/kWh[cite: 8]."
+  },
+  {
+    "id": 130,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "Euler number is the ratio of which two forces?",
+    "gujaratiQuestion": "Q130. યૂલર નંબર (Euler number) એ કયા બે ફોર્સનો ગુણોત્તર છે?",
+    "options": [
+      "ઈનર્શિયા અને ગ્રેવિટી ફોર્સ",
+      "ઈનર્શિયા અને પ્રેશર ફોર્સ",
+      "ઈનર્શિયા અને સરફેસ ટેન્શન ફોર્સ",
+      "ઈનર્શિયા અને વિસ્કસ ફોર્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "યૂલર નંબર Eu = √(ઈનર્શિયા ફોર્સ / પ્રેશર ફોર્સ) = V / √(Δp/ρ)[cite: 8]."
+  },
+  {
+    "id": 131,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Units, Dimensions & Fluid Properties",
+    "question": "What is the SI unit and dimensional formula of Discharge?",
+    "gujaratiQuestion": "Q131. ડિસ્ચાર્જ (Discharge) નો SI એકમ અને ડાયમેન્શનલ ફોર્મ્યુલા શું છે?",
+    "options": [
+      "m²/s અને [L²T⁻¹]",
+      "m³/s અને [L³T⁻¹]",
+      "kg/s અને [MT⁻¹]",
+      "m/s અને [LT⁻¹]"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડિસ્ચાર્જ Q = Area × Velocity નો SI એકમ m³/s અને ડાયમેન્શનલ ફોર્મ્યુલા [L³T⁻¹] છે[cite: 8]."
+  },
+  {
+    "id": 132,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "A thermodynamic cycle with two constant pressure and two isentropic processes is known as:",
+    "gujaratiQuestion": "0132. બે કોન્સ્ટન્ટ પ્રેશર અને બે આઈસેન્ટ્રોપિક પ્રોસેસ ધરાવતી સાયકલ કયા નામે ઓળખાય છે?",
+    "options": [
+      "કાર્નોટ સાયકલ",
+      "સ્ટર્લિંગ સાયકલ",
+      "ઓટો સાયકલ",
+      "બ્રેટન સાયકલ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "બ્રેટન સાયકલ (અથવા જૂલ સાયકલ) માં 2 આઇસેન્ટ્રોપિક અને 2 આઇસોબારિક (કોન્સ્ટન્ટ પ્રેશર) પ્રક્રિયાઓ હોય છે[cite: 8]."
+  },
+  {
+    "id": 133,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "Which dimensionless number is commonly used in model testing of ships?",
+    "gujaratiQuestion": "Q133. શિપ (Ship) ના મોડલ ટેસ્ટિંગ માટે સામાન્ય રીતે કયા ડાયમેન્શનલેસ નંબરનો ઉપયોગ થાય છે?",
+    "options": [
+      "રેનોલ્ડ્સ નંબર",
+      "મેક નંબર",
+      "ફ્રાઉડ નંબર",
+      "વેબર નંબર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જહાજો અને મુક્ત સપાટી પ્રવાહમાં તરંગ પ્રતિકાર (Wave resistance) ગ્રેવિટી ફોર્સ પર આધારિત હોવાથી ફ્રાઉડ નંબર (Froude number) વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 134,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "Which dimensionless number is used in aerodynamic testing of high-speed airplanes and projectiles?",
+    "gujaratiQuestion": "0134. એરોપ્લેન અને પ્રોજેક્ટાઈલના એરોડાયનેમિક ટેસ્ટિંગ માટે કયો ડાયમેન્શનલેસ નંબર વપરાય છે?",
+    "options": [
+      "રેનોલ્ડ્સ નંબર",
+      "ફ્રાઉડ નંબર",
+      "મેક નંબર",
+      "યૂલર નંબર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હાઇ સ્પીડ કમ્પ્રેસિબલ ફ્લોમાં ઇલાસ્ટિક ફોર્સ મુખ્ય હોવાથી મેક નંબર (Mach number) વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 135,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "With an increase in temperature, the thermal conductivity of solid metals generally:",
+    "gujaratiQuestion": "Q135. તાપમાન વધવા સાથે ઘન ધાતુઓની (solid metals) થર્મલ કન્ડક્ટિવિટી સામાન્ય રીતે:",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "અનપેક્ષિત રહે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "તાપમાન વધતાં ધાતુઓમાં મુક્ત ઇલેક્ટ્રોન્સનું લેટિસ વાઇબ્રેશન સાથે અથડામણ વધવાથી થર્મલ કન્ડક્ટિવિટી ઘટે છે[cite: 8]."
+  },
+  {
+    "id": 136,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "Which of the following conditions is required to apply Bernoulli's equation?",
+    "gujaratiQuestion": "0136. બર્નોલી સમીકરણ લાગુ કરવા માટે નીચેનામાંથી કઈ શરત સાચી છે?",
+    "options": [
+      "ફ્લો કમ્પ્રેસિબલ હોવો જોઈએ",
+      "ફ્લો ઈનકમ્પ્રેસિબલ હોવો જોઈએ",
+      "ફ્લો ટર્બ્યુલન્ટ હોવો જોઈએ",
+      "ફ્લો અનસ્ટીડી હોવો જોઈએ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બર્નોલી સમીકરણની મુખ્ય ધારણાઓ: ફ્લો સ્ટીડી, ઇનકમ્પ્રેસિબલ, ઘર્ષણરહિત (Non-viscous) અને ઇરરોટેશનલ હોવો જોઈએ[cite: 8]."
+  },
+  {
+    "id": 137,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "In a pipe with constant discharge, the areas at two sections are 4 m² and 1 m². If V1 = 2 m/s, what is V2?",
+    "gujaratiQuestion": "Q137. જ્યારે પાઈપમાં ડિસ્ચાર્જ Q અચળ હોય અને પાઈપના બે છેડાના એરિયા અનુક્રમે 4 m² અને 1 m² હોય. જો વેગ V1 = 2 m/s હોય તો V2 કેટલો થશે?",
+    "options": [
+      "4 m/s",
+      "8 m/s",
+      "2 m/s",
+      "0.5 m/s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A1·V1 = A2·V2 => 4 × 2 = 1 × V2 => V2 = 8 m/s[cite: 8]."
+  },
+  {
+    "id": 138,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "Heat transfer direction is governed by which law of thermodynamics?",
+    "gujaratiQuestion": "Q138. હીટ ટ્રાન્સફર કયા નિયમ અનુસાર થાય છે?",
+    "options": [
+      "ઝીરોથ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "ફર્સ્ટ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સ",
+      "કિર્ચહોફનો નિયમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગરમી હંમેશા ઊંચા તાપમાનથી નીચા તાપમાન તરફ આપમેળે વહે છે, જે થર્મોડાયનેમિક્સનો બીજો નિયમ નક્કી કરે છે[cite: 8]."
+  },
+  {
+    "id": 139,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "When is the water hammer phenomenon observed in a pipeline?",
+    "gujaratiQuestion": "Q139. વોટર હેમર (Water hammer) ની અસર પાઈપલાઈનમાં ક્યારે જોવા મળે છે?",
+    "options": [
+      "જ્યારે વાલ્વ ધીમેથી બંધ થાય",
+      "જ્યારે વાલ્વ અચાનક બંધ થાય",
+      "જ્યારે ફ્લો ટર્બ્યુલન્ટ હોય",
+      "જ્યારે પાણી ગરમ થાય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વહેતા પાણીના વાલ્વને અચાનક બંધ કરતાં વેગ શૂન્ય થઈને હાઇ પ્રેશર વેવ્ઝ સર્જાય છે જેને વોટર હેમર કહે છે[cite: 8]."
+  },
+  {
+    "id": 140,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Euler's Equation & Rotodynamic Machines",
+    "question": "Which force is neglected while deriving Euler's equation of motion?",
+    "gujaratiQuestion": "Q140. ફ્લુઇડ ડાયનેમિક્સમાં કયા બળને અવગણવામાં આવે છે, જ્યારે આપણે યૂલર સમીકરણ તારવીએ છીએ?",
+    "options": [
+      "ગ્રેવિટી ફોર્સ",
+      "પ્રેશર ફોર્સ",
+      "વિસ્કસ ફોર્સ",
+      "ઈનર્શિયા ફોર્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "યૂલર સમીકરણ ઘર્ષણરહિત (Inviscid) પ્રવાહ માટે તારવવામાં આવતું હોવાથી વિસ્કસ ફોર્સ અવગણાય છે[cite: 8]."
+  },
+  {
+    "id": 141,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "In heat transfer from hot flue gases to water tubes, a stagnant laminar film exists near the tube surface. Heat transfer across this film occurs by:",
+    "gujaratiQuestion": "0141. ગરમ ફ્લુ ગેસમાંથી પાણીની ટ્યુબમાં થતા કન્વેક્શન હીટ ટ્રાન્સફરમાં, ટ્યુબની નજીક લેમિનાર ફ્લો રિજન (ફિલ્મનું બાઉન્ડરી લેયર) અસ્તિત્વમાં હોય છે, ભલે ફ્લો ટર્બ્યુલન્ટ હોય. આ ફિલ્મ દ્વારા થતું હીટ ટ્રાન્સફર શેના દ્વારા થાય છે?",
+    "options": [
+      "કન્વેક્શન",
+      "રેડિએશન",
+      "કન્ડક્શન",
+      "કન્વેક્શન અને કન્ડક્શન બંને"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્થિર લેમિનાર સબલેયરમાં ફ્લુઇડ સ્થિર જેવું વર્તતું હોવાથી ઉષ્માનું વહન શુદ્ધ કન્ડક્શન (Thermal conduction) દ્વારા થાય છે[cite: 8]."
+  },
+  {
+    "id": 142,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Units, Dimensions & Fluid Properties",
+    "question": "1 Liter/second is equal to how many m³/sec?",
+    "gujaratiQuestion": "Q142. 1 લિટર/સેકન્ડ (Litre/second) બરાબર કેટલા m³/sec થાય?",
+    "options": [
+      "10⁻²",
+      "10⁻³",
+      "10⁻⁴",
+      "10⁻¹"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1 Liter = 10⁻³ m³, તેથી 1 L/s = 10⁻³ m³/s[cite: 8]."
+  },
+  {
+    "id": 143,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "What is a Rotational Flow?",
+    "gujaratiQuestion": "0143. રોટેશનલ ફ્લો (Rotational flow) એટલે શું?",
+    "options": [
+      "જેમાં ફ્લુઇડના કણો પોતાની ધરી પર ફરતા નથી",
+      "જેમાં ફ્લુઇડના કણો પોતાની ધરી પર ફરે છે",
+      "જેમાં ફ્લુઇડ પાઈપમાં ગોળાકાર વહે છે",
+      "જેમાં ડિસ્ચાર્જ સમય સાથે બદલાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જે પ્રવાહમાં ફ્લુઇડ એલિમેન્ટ્સ વહેતી વખતે પોતાના માસ સેન્ટરની આસપાસ રોટેશન (Vorticity ≠ 0) પણ કરે તેને રોટેશનલ ફ્લો કહે છે[cite: 8]."
+  },
+  {
+    "id": 144,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "The rate of energy emission from unit surface area per unit solid angle normal to the surface is called:",
+    "gujaratiQuestion": "0144. નોર્મલથી સરફેસ તરફ એકમ ઘનકોણ (unit solid angle) દીઠ એકમ સપાટી ક્ષેત્રફળ (unit surface area) માંથી એનર્જી એમિશનના (ઉત્સર્જનના) રેટને શું કહેવાય છે?",
+    "options": [
+      "એમિસિવિટી",
+      "ટ્રાન્સમિસિવિટી",
+      "રિફ્લેક્ટિવિટી",
+      "ઇન્ટેન્સિટી ઓફ રેડિએશન"
+    ],
+    "correctAnswer": 3,
+    "explanation": "એકમ ક્ષેત્રફળ અને એકમ ઘનકોણ દીઠ ઉત્સર્જિત વિકિરણ ઊર્જાને ઇન્ટેન્સિટી ઓફ રેડિયેશન (Intensity of Radiation) કહેવાય છે[cite: 8]."
+  },
+  {
+    "id": 145,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "If two pipes are connected in series, the discharge passing through both pipes:",
+    "gujaratiQuestion": "0145. જો બે પાઈપ સિરીઝ (Series) માં જોડેલી હોય, તો બંને પાઈપમાંથી પસાર થતો ડિસ્ચાર્જ...",
+    "options": [
+      "સરવાળો થાય છે",
+      "ગુણાકાર થાય છે",
+      "સમાન રહે છે",
+      "ડાયામીટર પર આધાર રાખે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સિરીઝ જોડાણમાં સાતત્ય સમીકરણ મુજબ તમામ પાઇપમાંથી વહેતો ડિસ્ચાર્જ એકસમાન (Q1 = Q2 = Q) રહે છે[cite: 8]."
+  },
+  {
+    "id": 146,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "In the continuity equation A1V1 = A2V2, what does the product A × V represent?",
+    "gujaratiQuestion": "0146. કન્ટિન્યુઇટી સમીકરણ A1V1 = A2V2 માં A × V શું દર્શાવે છે?",
+    "options": [
+      "વોલ્યુમ ફ્લો રેટ અથવા ડિસ્ચાર્જ",
+      "માસ ફ્લો રેટ",
+      "વેઈટ ફ્લો રેટ",
+      "ફ્લુઇડ પ્રેશર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A × V એ વોલ્યુમેટ્રિક ફ્લો રેટ અથવા ડિસ્ચાર્જ Q (m³/s) દર્શાવે છે[cite: 8]."
+  },
+  {
+    "id": 147,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Viscous Flow, Boundary Layer & Turbulent Flow",
+    "question": "For pipe flow, if Reynolds number is less than 2000, the flow is classified as:",
+    "gujaratiQuestion": "Q147. પાઈપમાં વહેતા ફ્લો માટે જો રેનોલ્ડ્સ નંબર 2000 કરતા ઓછો હોય, તો તે ફ્લો કયા પ્રકારનો ગણાય છે?",
+    "options": [
+      "લેમિનાર ફ્લો",
+      "ટર્બ્યુલન્ટ ફ્લો",
+      "ટ્રાન્ઝિશનલ ફ્લો",
+      "સુપરસોનિક ફ્લો"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પાઇપ ફ્લો માટે Re < 2000 પર પ્રવાહ સ્તરીય એટલે કે લેમિનાર ફ્લો (Laminar flow) હોય છે[cite: 8]."
+  },
+  {
+    "id": 148,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "A Grey Body is defined as one whose absorptivity:",
+    "gujaratiQuestion": "Q148. ગ્રે બોડી (Grey body) એ છે જેની એબ્સોપ્ટિવિટી:",
+    "options": [
+      "તાપમાન સાથે બદલાય છે",
+      "આપાત કિરણોની તરંગલંબાઈ સાથે બદલાતી નથી (અચળ રહે છે)",
+      "તેની એમિસિવિટી જેટલી હોય છે",
+      "આપેલ પૈકી એકપણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગ્રે બોડી માટે મોનોક્રોમેટિક એમિસિવિટી અને એબ્સોર્પ્ટિવિટી તમામ તરંગલંબાઈ પર સમાન (ε = α < 1) રહે છે[cite: 8]."
+  },
+  {
+    "id": 149,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "In turbulent pipe flow, the Darcy friction factor depends on:",
+    "gujaratiQuestion": "0149. ટર્બ્યુલન્ટ ફ્લોમાં પાઈપની અંદર ફ્રિક્શન ફેક્ટર કોના પર આધાર રાખે છે?",
+    "options": [
+      "માત્ર રેનોલ્ડ્સ નંબર પર",
+      "માત્ર પાઈપની લંબાઈ પર",
+      "રેનોલ્ડ્સ નંબર અને સપાટીના સાપેક્ષ ખરબચડાપણા (Relative roughness) પર",
+      "માત્ર પાઈપના ડાયામીટર પર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટર્બ્યુલન્ટ પ્રવાહમાં ફ્રિક્શન ફેક્ટર રેનોલ્ડ્સ નંબર (Re) અને રિલેટિવ રફનેસ (ε/D) બંને પર આધાર રાખે છે[cite: 8]."
+  },
+  {
+    "id": 150,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Viscous Flow, Boundary Layer & Turbulent Flow",
+    "question": "Outside the boundary layer, the velocity gradient of the fluid (du/dy) is:",
+    "gujaratiQuestion": "0150. બાઉન્ડરી લેયર (Boundary layer) ની બહાર ફ્લુઇડનો વેલોસિટી ગ્રેડિયન્ટ કેટલો હોય છે?",
+    "options": [
+      "શૂન્ય",
+      "મહત્તમ",
+      "ન્યૂનતમ",
+      "અનંત"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બાઉન્ડરી લેયરની બહાર વેગ ફ્રી સ્ટ્રીમ વેગ (U) જેટલો અચળ થઈ જવાથી વેલોસિટી ગ્રેડિયન્ટ du/dy = 0 બને છે[cite: 8]."
+  },
+  {
+    "id": 151,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "Fourier's law of heat conduction is applicable for:",
+    "gujaratiQuestion": "0151. ફોરિયરનો હીટ કન્ડક્શનનો નિયમ શેના માટે લાગુ પડે છે?",
+    "options": [
+      "વન ડાયમેન્શનલ કેસ માટે",
+      "ટુ ડાયમેન્શનલ કેસ માટે",
+      "થ્રી ડાયમેન્શનલ કેસ માટે",
+      "ઈરરેગ્યુલર સરફેસ માટે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ફોરિયરનો મૂળભૂત કન્ડક્શન નિયમ q = -k·A·(dT/dx) વન-ડાયમેન્શનલ સ્ટીડી સ્ટેટ કન્ડક્શન માટે વ્યાખ્યાયિત છે[cite: 8]."
+  },
+  {
+    "id": 152,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Viscous Flow, Boundary Layer & Turbulent Flow",
+    "question": "If the Reynolds number in a pipe flow is greater than 4000, the flow is classified as:",
+    "gujaratiQuestion": "0152. જો પાઈપમાં રેનોલ્ડ્સ નંબર 4000 કરતા વધુ હોય, તો પાણીનો ફ્લો કેવો હશે?",
+    "options": [
+      "લેમિનાર ફ્લો",
+      "ટર્બ્યુલન્ટ ફ્લો",
+      "ટ્રાન્ઝિશનલ ફ્લો",
+      "ક્રિટિકલ ફ્લો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પાઇપ ફ્લો માટે Re > 4000 પર પ્રવાહ સંપૂર્ણપણે ટર્બ્યુલન્ટ (Turbulent flow) બની જાય છે[cite: 8]."
+  },
+  {
+    "id": 153,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Viscous Flow, Boundary Layer & Turbulent Flow",
+    "question": "According to boundary layer theory, the fluid velocity at the solid boundary surface is:",
+    "gujaratiQuestion": "0153. બાઉન્ડરી લેયર થીયરી અનુસાર, ઘન સપાટી (Solid boundary) પર ફ્લુઇડની વેલોસિટી કેટલી હોય છે?",
+    "options": [
+      "ફ્રી સ્ટ્રીમ વેલોસિટી બરાબર",
+      "શૂન્ય",
+      "ફ્રી સ્ટ્રીમ વેલોસિટી કરતા અડધી",
+      "મહત્તમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નો-સ્લિપ કન્ડિશન (No-slip condition) મુજબ સ્થિર ઘન સપાટીના સીધા સંપર્કમાં રહેલા ફ્લુઇડ કણોનો સાપેક્ષ વેગ શૂન્ય (u = 0) હોય છે[cite: 8]."
+  },
+  {
+    "id": 154,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Units, Dimensions & Fluid Properties",
+    "question": "Joule-second (J·s) is the unit of which physical quantity?",
+    "gujaratiQuestion": "0154. જુલ સેકન્ડ એ શેનો એકમ છે?",
+    "options": [
+      "યુનિવર્સલ ગેસ કોન્સ્ટન્ટ",
+      "કાઈનેમેટિક વિસ્કોસિટી",
+      "થર્મલ કન્ડક્ટિવિટી",
+      "પ્લાન્ક કોન્સ્ટન્ટ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "પ્લાન્ક કોન્સ્ટન્ટ (h = E/ν) નો એકમ જુલ-સેકન્ડ (J·s) અથવા kg·m²/s છે[cite: 8]."
+  },
+  {
+    "id": 155,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Viscous Flow, Boundary Layer & Turbulent Flow",
+    "question": "Where is the laminar sub-layer generally located?",
+    "gujaratiQuestion": "0155. લેમિનાર સબ-લેયર (Laminar sub-layer) સામાન્ય રીતે ક્યાં જોવા મળે છે?",
+    "options": [
+      "લેમિનાર ફ્લો ઝોનમાં",
+      "ટર્બ્યુલન્ટ બાઉન્ડરી લેયરમાં સપાટીની નજીક",
+      "બાઉન્ડરી લેયરની બહાર",
+      "પાઈપના કેન્દ્રમાં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટર્બ્યુલન્ટ બાઉન્ડરી લેયરમાં ઘન સપાટીની અત્યંત નજીક પાતળું સ્તર અસ્તિત્વ ધરાવે છે જ્યાં વિસ્કસ ફોર્સ પ્રબળ હોવાથી પ્રવાહ લેમિનાર રહે છે[cite: 8]."
+  },
+  {
+    "id": 156,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "What is the formula for head loss due to sudden expansion in a pipe?",
+    "gujaratiQuestion": "0156. પાઈપના અચાનક વિસ્તરણ (Sudden expansion) ને કારણે થતો હેડ લોસ (Head loss) નું સમીકરણ કયું છે?",
+    "options": [
+      "(V₁² - V₂²) / 2g",
+      "(V₁ - V₂)² / 2g",
+      "(V₁²/2g) - (V₂²/2g)",
+      "0.5 (V₂² / 2g)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અચાનક વિસ્તરણથી એડી ફોર્મેશન થવાને લીધે થતો હેડ લોસ h_e = (V₁ - V₂)² / (2g) થાય છે[cite: 8]."
+  },
+  {
+    "id": 157,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "Generally, how is the thermal diffusivity of gases compared to liquids?",
+    "gujaratiQuestion": "0157. સામાન્ય રીતે ગેસ માટે થર્મલ ડિફ્યુઝિવિટી કેવી હોય છે?",
+    "options": [
+      "પ્રવાહી કરતા વધુ",
+      "પ્રવાહી કરતા ઓછી",
+      "ઘન પદાર્થો કરતા વધુ",
+      "પ્રવાહી જેટલી જ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વાયુઓની ઘનતા (ρ) અને હીટ કેપેસિટી (ρ·Cp) ખૂબ ઓછી હોવાથી તેમની થર્મલ ડિફ્યુઝિવિટી (α = k / (ρ·Cp)) સામાન્ય પ્રવાહીઓ કરતાં વધુ હોય છે[cite: 8]."
+  },
+  {
+    "id": 158,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "What is the approximate head loss due to sudden contraction in a pipe? (taking Cc = 0.62)",
+    "gujaratiQuestion": "0158. પાઈપના અચાનક સંકોચન (Sudden contraction) ને કારણે થતો હેડ લોસ આશરે કેટલો હોય છે? (જ્યાં Cc = 0.62)",
+    "options": [
+      "0.5 (V₂² / 2g)",
+      "(V₁ - V₂)² / 2g",
+      "0.5 (V₁² / 2g)",
+      "(V₁² - V₂²) / 2g"
+    ],
+    "correctAnswer": 0,
+    "explanation": "અચાનક સંકોચનમાં વેના કોન્ટ્રાક્ટા બાદ વિસ્તરણથી લોસ h_c = [(1/Cc - 1)²] · (V₂²/2g) ≈ 0.5 (V₂²/2g) બને છે (આન્સર કી મુજબ A)[cite: 8]."
+  },
+  {
+    "id": 159,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "The Darcy-Weisbach equation (hf = f·L·V² / 2gd) is used to determine:",
+    "gujaratiQuestion": "Q159. ડાર્સી-વેઈસબેક (Darcy-Weisbach) સમીકરણ hf = fLV² / 2gd શેના માટે વપરાય છે?",
+    "options": [
+      "માઈનોર હેડ લોસ શોધવા",
+      "ફ્રિક્શનલ હેડ લોસ શોધવા",
+      "વેલોસિટી શોધવા",
+      "પ્રેશર શોધવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડાર્સી-વેઇસબેક સમીકરણ પાઇપલાઇનમાં ઘર્ષણને કારણે થતા મુખ્ય હેડ લોસ (Major/Frictional head loss) ની ગણતરી માટે વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 160,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "Thermal diffusivity (α) of a substance is:",
+    "gujaratiQuestion": "0160. કોઈપણ પદાર્થની થર્મલ ડિફ્યુઝિવિટી:",
+    "options": [
+      "થર્મલ કન્ડક્ટિવિટીના સમપ્રમાણમાં હોય છે",
+      "પદાર્થની ઘનતાના વ્યસ્ત પ્રમાણમાં હોય છે",
+      "સ્પેસિફિક હીટના વ્યસ્ત પ્રમાણમાં હોય છે",
+      "આપેલ તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સૂત્ર α = k / (ρ·Cp) મુજબ તે થર્મલ કન્ડક્ટિવિટી (k) ના સમપ્રમાણમાં અને ઘનતા (ρ) તથા સ્પેસિફિક હીટ (Cp) ના વ્યસ્ત પ્રમાણમાં હોય છે[cite: 8]."
+  },
+  {
+    "id": 161,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "When two pipes are connected in series, the discharge passing through both pipes:",
+    "gujaratiQuestion": "0161. જ્યારે બે પાઈપને સિરીઝ (Series) માં જોડવામાં આવે છે, ત્યારે બંને પાઈપમાંથી પસાર થતો ડિસ્ચાર્જ કેવો હોય છે?",
+    "options": [
+      "સરવાળો થાય છે",
+      "શૂન્ય થઈ જાય છે",
+      "સમાન રહે છે",
+      "ગુણાકાર થાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સિરીઝ પાઇપ કનેક્શનમાં સાતત્યતા જળવાતાં દરેક પાઇપમાંથી એકસમાન ડિસ્ચાર્જ (Q₁ = Q₂ = Q) વહે છે[cite: 8]."
+  },
+  {
+    "id": 162,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "When two pipes are connected in parallel, what is identical for both pipes?",
+    "gujaratiQuestion": "Q162. જ્યારે બે પાઈપને સમાંતર (Parallel) માં જોડવામાં આવે છે, ત્યારે બંને પાઈપ માટે શું સમાન હોય છે?",
+    "options": [
+      "ડિસ્ચાર્જ",
+      "હેડ લોસ",
+      "લંબાઈ",
+      "વેલોસિટી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પેરેલલ પાઇપ કનેક્શનમાં બંને શાખાઓ વચ્ચેનો ફ્રિક્શનલ હેડ લોસ (h_f1 = h_f2) સમાન હોય છે[cite: 8]."
+  },
+  {
+    "id": 163,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "Heat transfer by radiation primarily depends on:",
+    "gujaratiQuestion": "0163. રેડિએશન દ્વારા થતું હીટ ટ્રાન્સફર મુખ્યત્વે શેના પર આધાર રાખે છે?",
+    "options": [
+      "તેના તાપમાન પર (T⁴)",
+      "બોડીના પ્રકાર પર (એમિસિવિટી)",
+      "તેની સપાટીના પ્રકાર અને વિસ્તાર પર",
+      "આપેલ તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સ્ટીફન-બોલ્ટ્ઝમેન નિયમ E = ε·σ·A·T⁴ મુજબ રેડિયેશન હીટ ટ્રાન્સફર તાપમાન, સપાટી વિસ્તાર અને સપાટીના ગુણધર્મો (એમિસિવિટી) તમામ પર આધારિત છે[cite: 8]."
+  },
+  {
+    "id": 164,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "The Hydraulic Gradient Line (HGL) represents the sum of which heads?",
+    "gujaratiQuestion": "0164. હાઇડ્રોલિક ગ્રેડિયન્ટ લાઈન (HGL) નીચેનામાંથી કોનો સરવાળો દર્શાવે છે?",
+    "options": [
+      "પ્રેશર હેડ + કાઈનેટિક હેડ",
+      "કાઈનેટિક હેડ + ડેટમ હેડ",
+      "પ્રેશર હેડ + ડેટમ હેડ",
+      "પ્રેશર હેડ + કાઈનેટિક હેડ + ડેટમ હેડ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HGL = Piezometric head = પ્રેશર હેડ (p/ρg) + ડેટમ/પોટેન્શિયલ હેડ (z)[cite: 8]."
+  },
+  {
+    "id": 165,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "The Total Energy Line (TEL) is always located ______ relative to the Hydraulic Gradient Line (HGL).",
+    "gujaratiQuestion": "0165. ટોટલ એનર્જી લાઈન હંમેશા હાઇડ્રોલિક ગ્રેડિયન્ટ લાઈન (HGL) ની સાપેક્ષમાં ક્યાં હોય છે?",
+    "options": [
+      "HGL ની નીચે",
+      "HGL ની ઉપર",
+      "HGL ની સમાંતર અને સમાન",
+      "HGL ને કાટખૂણે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TEL = HGL + V²/2g હોવાથી ટોટલ એનર્જી લાઇન હંમેશા HGL ની ઉપર વેલોસિટી હેડ જેટલા અંતરે હોય છે[cite: 8]."
+  },
+  {
+    "id": 166,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "For given operating pressure limits in a Rankine cycle, which modification yields the highest efficiency?",
+    "gujaratiQuestion": "0166. રેન્કિન સાયકલમાં આપેલ ઓપરેટિંગ પ્રેશર લિમિટ્સ માટે, સૌથી વધુ એફિશિયન્સી કઈ સાયકલમાં મળે છે?",
+    "options": [
+      "સુપરહીટેડ સાયકલ",
+      "રિહીટ સાયકલ",
+      "રિજનરેટિવ સાયકલ",
+      "સેચ્યુરેટેડ સાયકલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફીડ વોટર હીટિંગ દ્વારા હીટ એડિશનનું સરેરાશ તાપમાન વધારતી રિજનરેટિવ સાયકલ (Regenerative cycle) સૌથી ઊંચી થર્મલ કાર્યક્ષમતા આપે છે[cite: 8]."
+  },
+  {
+    "id": 167,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "What is the formula for Hydraulic Mean Depth (Hydraulic Radius - m)?",
+    "gujaratiQuestion": "Q167. હાઇડ્રોલિક મીન ડેપ્થ (Hydraulic mean depth - m) નું સૂત્ર કયું છે?",
+    "options": [
+      "ભીંજાયેલો એરિયા / ભીંજાયેલી પરિમિતિ",
+      "ભીંજાયેલી પરિમિતિ / ભીંજાયેલો એરિયા",
+      "ડાયામીટર / 4",
+      "ભીંજાયેલો એરિયા x ભીંજાયેલી પરિમિતિ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "હાઇડ્રોલિક રેડિયસ અથવા મીન ડેપ્થ m = ભીંજાયેલો ક્રોસ-સેક્શનલ એરિયા (A) / ભીંજાયેલી પરિમિતિ (P)[cite: 8]."
+  },
+  {
+    "id": 168,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "Which phenomenon occurs due to sudden closure of a valve in a pipeline carrying flowing liquid?",
+    "gujaratiQuestion": "0168. પાઈપલાઈનમાં વાલ્વને અચાનક બંધ કરવાથી કઈ ઘટના ઉદ્ભવે છે?",
+    "options": [
+      "કેવિટેશન",
+      "વોટર હેમર",
+      "બાઉન્ડરી લેયર સેપરેશન",
+      "એડી ફોર્મેશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રવાહીનો વેગ અચાનક શૂન્ય થવાથી સર્જાતા શોક પ્રેશર તરંગોને વોટર હેમર (Water hammer) કહે છે[cite: 8]."
+  },
+  {
+    "id": 169,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "Which device is used to protect a hydroelectric penstock pipeline from the destructive effects of water hammer?",
+    "gujaratiQuestion": "0169. વોટર હેમરની અસરથી પાઈપને બચાવવા માટે કયા ઉપકરણનો ઉપયોગ થાય છે?",
+    "options": [
+      "ડ્રાફ્ટ ટ્યુબ",
+      "સર્જ ટેન્ક",
+      "પેનસ્ટોક",
+      "ગાઈડ વેન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વોટર હેમરિંગ વખતે વધારાનું પાણી સંગ્રહીને પ્રેશર સર્જ ઘટાડવા પેનસ્ટોક નજીક સર્જ ટેન્ક (Surge tank) મૂકાય છે[cite: 8]."
+  },
+  {
+    "id": 170,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Euler's Equation & Rotodynamic Machines",
+    "question": "The work ratio of a simple gas turbine cycle is a function of:",
+    "gujaratiQuestion": "Q170. ગેસ ટર્બાઈનનો વર્ક રેશિયો કોનું ફંક્શન છે?",
+    "options": [
+      "તાપમાનનો ગુણોત્તર અને પ્રેશરનો ગુણોત્તર",
+      "તાપમાનનો ગુણોત્તર",
+      "પ્રેશરનો ગુણોત્તર",
+      "આપેલ પૈકી એકપણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ગેસ ટર્બાઇન વર્ક રેશિયો rw = W_net / W_T એ સાયકલ પ્રેશર રેશિયો (rp) અને મહત્તમ/ન્યૂનતમ તાપમાન ગુણોત્તર (T_max/T_min) બંને પર આધાર રાખે છે[cite: 8]."
+  },
+  {
+    "id": 171,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "Which of the following losses is NOT considered a minor head loss in pipe flow?",
+    "gujaratiQuestion": "Q171. નીચેનામાંથી કયો લોસ માઈનોર હેડ લોસ (Minor head loss) ગણાતો નથી?",
+    "options": [
+      "પાઈપના ઘર્ષણને કારણે લોસ",
+      "પાઈપના બેન્ડને કારણે લોસ",
+      "પાઈપના અચાનક વિસ્તરણને કારણે લોસ",
+      "પાઈપના વાલ્વને કારણે લોસ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પાઇપ ઘર્ષણને લીધે થતો લોસ મેજર લોસ (Major Loss) છે, જ્યારે બેન્ડ, વાલ્વ, એક્સપાન્શન વગેરે માઇનોર લોસિસ છે[cite: 8]."
+  },
+  {
+    "id": 172,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "In a pipe of given length and diameter, if flow velocity is doubled, by how many times will the frictional head loss increase?",
+    "gujaratiQuestion": "Q172. સમાન લંબાઈ અને ડાયામીટર ધરાવતી પાઈપમાં, જો પાણીની વેલોસિટી બમણી કરવામાં આવે, તો ફ્રિક્શનલ હેડ લોસ કેટલા ગણો થશે?",
+    "options": [
+      "2 ગણો",
+      "4 ગણો",
+      "8 ગણો",
+      "16 ગણો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડાર્સી સમીકરણ મુજબ hf ∝ V² હોવાથી વેગ બમણો (2V) કરતાં હેડ લોસ (2)² = 4 ગણો વધશે[cite: 8]."
+  },
+  {
+    "id": 173,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "Which dimensionless numbers are used in the analysis of transient heat conduction in a plane wall, cylinder, and sphere?",
+    "gujaratiQuestion": "Q173. સમતલ દિવાલ, નળાકાર અને ગોળામાં ટ્રાન્ઝિયન્ટ હીટ કન્ડક્શન પ્રોબ્લેમના વિશ્લેષણ માટે ઉપયોગમાં લેવાતા ડાયમેન્શનલેસ (પરિમાણ રહિત) નંબરો કયા છે?",
+    "options": [
+      "નસેલ્ટ નંબર અને ફોરિયર નંબર",
+      "રેનોલ્ડ્સ નંબર અને બાયોટ નંબર",
+      "બાયોટ નંબર અને ફોરિયર નંબર",
+      "નસેલ્ટ નંબર અને બાયોટ નંબર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "અસ્થિર ઉષ્મા વહનમાં અવકાશી અને સમય આધારિત તાપમાન વિશ્લેષણ માટે બાયોટ નંબર (Bi) અને ફોરિયર નંબર (Fo) વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 174,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "When is a siphon pipe used?",
+    "gujaratiQuestion": "0174. સાયફન પાઈપ (Siphon pipe) નો ઉપયોગ ક્યારે થાય છે?",
+    "options": [
+      "જ્યારે બે રિઝર્વોયર વચ્ચે કોઈ ટેકરી હોય ત્યારે પાણી પહોંચાડવા માટે",
+      "જ્યારે પાણીનું પ્રેશર વધારવું હોય",
+      "જ્યારે પાણીને ગરમ કરવું હોય",
+      "જ્યારે પાણીને શુદ્ધ કરવું હોય"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સાયફન એ લાંબી વળેલી પાઇપ છે જે મધ્યમાં આવતી ઊંચી ટેકરી કે અવરોધને ઓળંગીને પાણીને નીચા સ્તરના રિઝર્વોયરમાં પહોંચાડે છે[cite: 8]."
+  },
+  {
+    "id": 175,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "What phenomenon occurs during pressure recovery in a sudden pipe expansion?",
+    "gujaratiQuestion": "0175. પાઈપના અચાનક વિસ્તરણમાં પ્રેશર રિકવરી દરમિયાન કઈ ક્રિયા થાય છે?",
+    "options": [
+      "એડીઝ (Eddies) ફોર્મેશનને કારણે એનર્જી લોસ થાય છે",
+      "વેલોસિટી વધે છે",
+      "પ્રેશર ઘટે છે",
+      "ફ્લો લેમિનાર બને છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "અચાનક વિસ્તરણ વખતે ખૂણાઓમાં ટર્બ્યુલન્ટ એડીઝ અને વમળો બનવાથી ગતિજ ઊર્જાનો મોટો લોસ થાય છે[cite: 8]."
+  },
+  {
+    "id": 176,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "What is the time required for a thermocouple to reach 63.2% of the initial step temperature difference called?",
+    "gujaratiQuestion": "0176. પ્રારંભિક તાપમાનના તફાવતના 63.2 ટકા મૂલ્ય સુધી પહોંચવા માટે થર્મોકપલને લાગતા સમયને શું કહેવાય છે?",
+    "options": [
+      "થર્મોકપલ જંક્શન",
+      "સેન્સિટિવિટી",
+      "તાપમાનમાં ફેરફાર",
+      "ટાઇમ કોન્સ્ટન્ટ (થર્મોકપલનો રિસ્પોન્સ)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "પ્રથમ-ક્રમના થર્મલ સેન્સર માટે 63.2% રિસ્પોન્સ મેળવવા લાગતા સમયને થર્મલ ટાઇમ કોન્સ્ટન્ટ (Time constant τ) કહેવાય છે (આન્સર કી B/D મુજબ)[cite: 8]."
+  },
+  {
+    "id": 177,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "A Pelton wheel is which type of turbine?",
+    "gujaratiQuestion": "0177. પેલ્ટન વ્હીલ (Pelton wheel) એ કયા પ્રકારનું ટર્બાઈન છે?",
+    "options": [
+      "રિએક્શન ટર્બાઈન",
+      "ઈમ્પલ્સ ટર્બાઇન",
+      "એક્સિયલ ફ્લો ટર્બાઇન",
+      "રેડિયલ ફ્લો ટર્બાઈન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પેલ્ટન વ્હીલ એ ટેન્જેન્શિયલ ફ્લો હાઈ-હેડ ઇમ્પલ્સ ટર્બાઇન (Impulse turbine) છે[cite: 8]."
+  },
+  {
+    "id": 178,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "A Francis turbine is which type of turbine?",
+    "gujaratiQuestion": "Q178. ફ્રાન્સિસ ટર્બાઈન (Francis turbine) એ કયા પ્રકારનું ટર્બાઈન છે?",
+    "options": [
+      "મિક્સ્ડ ફ્લો રિએક્શન ટર્બાઇન (અથવા રેડિયલ ઇનવર્ડ)",
+      "ટેન્જેન્શિયલ ફ્લો ઇમ્પલ્સ ટર્બાઇન",
+      "એક્સિયલ ફ્લો ઈમ્પલ્સ ટર્બાઇન",
+      "આઉટવર્ડ ફ્લો રિએક્શન ટર્બાઇન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આધુનિક ફ્રાન્સિસ ટર્બાઇન એ મિક્સ્ડ ફ્લો (રેડિયલ ઇનવર્ડ ઇનલેટ અને એક્સિયલ આઉટલેટ) રિએક્શન ટર્બાઇન છે[cite: 8]."
+  },
+  {
+    "id": 179,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "A sphere, a cube, and a thin disc of same material and volume are heated to 900 K and cooled in air. Which one has the lowest cooling rate?",
+    "gujaratiQuestion": "0179. સમાન મટિરિયલ, ગુણવત્તા અને વોલ્યુમ ધરાવતા એક ગોળો (sphere), એક સમઘન (cube) અને એક તકતીને (disc) 900 K સુધી ગરમ કરવામાં આવે છે અને હવામાં ખુલ્લા મૂકવામાં આવે છે. આમાંથી કોનો કૂલિંગ રેટ (ઠંડા પડવાનો દર) સૌથી ઓછો હશે?",
+    "options": [
+      "સમઘન",
+      "તકતી",
+      "ગોળો",
+      "બધાનો કૂલિંગ રેટ સમાન હશે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આપેલા કદ માટે ગોળા (Sphere) નું સપાટી ક્ષેત્રફળ લઘુત્તમ હોવાથી હીટ લોસ દર સૌથી ઓછો હોય છે અને તે સૌથી ધીમે ઠંડો પડે છે[cite: 8]."
+  },
+  {
+    "id": 180,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "A Kaplan turbine is best suited for which operating condition?",
+    "gujaratiQuestion": "0180. કૅપ્લાન ટર્બાઈન (Kaplan turbine) કઈ પરિસ્થિતિ માટે શ્રેષ્ઠ છે?",
+    "options": [
+      "હાઈ હેડ અને લો ડિસ્ચાર્જ",
+      "હાઈ હેડ અને હાઇ ડિસ્ચાર્જ",
+      "લો હેડ અને હાઈ ડિસ્ચાર્જ",
+      "લો હેડ અને લો ડિસ્ચાર્જ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કાપ્લાન ટર્બાઇન લો હેડ (H < 30 m) અને હાઇ ડિસ્ચાર્જ રેટ માટે આદર્શ છે[cite: 8]."
+  },
+  {
+    "id": 181,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "A Pelton wheel is most suitable for which head condition?",
+    "gujaratiQuestion": "0181. પેલ્ટન વ્હીલ કયા હેડ (Head) માટે સૌથી યોગ્ય છે?",
+    "options": [
+      "લો હેડ",
+      "મીડિયમ હેડ",
+      "હાઈ હેડ",
+      "કોઈપણ હેડ માટે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પેલ્ટન ટર્બાઇન હાઈ હેડ (H > 250-300 m) અને લો ડિસ્ચાર્જ માટે વપરાય છે[cite: 8]."
+  },
+  {
+    "id": 182,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "The forced convection heat transfer coefficient over a flat plate depends on:",
+    "gujaratiQuestion": "0182. પ્લેટનો ફોર્સ્ડ કન્વેક્શન હીટ ટ્રાન્સફર કો-એફિશિયન્ટ નીચેનામાંથી શેના પર આધાર રાખે છે?",
+    "options": [
+      "પ્લેટની જાડાઈ પર",
+      "ફ્લુઇડની વેલોસિટી અને થર્મલ કન્ડક્ટિવિટી",
+      "પ્લેટ મટિરિયલની થર્મલ કન્ડક્ટિવિટી",
+      "પ્લેટની હીટ કેપેસિટી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નસેલ્ટ સંબંધ Nu = f(Re, Pr) મુજબ ફોર્સ્ડ કન્વેક્શન કો-એફિશિયન્ટ (h) ફ્લુઇડના વેગ, ડેન્સિટી, વિસ્કોસિટી અને ફ્લુઇડની થર્મલ કન્ડક્ટિવિટી પર આધારિત છે[cite: 8]."
+  },
+  {
+    "id": 183,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "Which of the following is an example of an axial flow reaction turbine?",
+    "gujaratiQuestion": "Q183. નીચેનામાંથી કયું ટર્બાઈન એક્સિયલ ફ્લો ટર્બાઈન (Axial flow turbine) નું ઉદાહરણ છે?",
+    "options": [
+      "પેલ્ટન ટર્બાઈન",
+      "ફ્રાન્સિસ ટર્બાઈન",
+      "કેપ્લાન ટર્બાઈન",
+      "ક્રોસ ફ્લો ટર્બાઈન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કેપ્લાન અને પ્રોપેલર ટર્બાઇનમાં પાણી શાફ્ટની અક્ષને સમાંતર વહેતું હોવાથી તે એક્સિયલ ફ્લો ટર્બાઇન છે[cite: 8]."
+  },
+  {
+    "id": 184,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "What is the key feature of a Kaplan turbine?",
+    "gujaratiQuestion": "0184. કેપ્લાન ટર્બાઈનની મુખ્ય વિશેષતા શું છે?",
+    "options": [
+      "તેના રનર બ્લેડ એડજસ્ટેબલ હોય છે",
+      "તેના રનર બ્લેડ ફિક્સ હોય છે",
+      "તેમાં પાણી ટેન્જેન્શિયલ દિશામાં પ્રવેશે છે",
+      "તેમાં ડ્રાફ્ટ ટ્યુબનો ઉપયોગ થતો નથી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કાપ્લાન ટર્બાઇનના રનર વેન્સ ઓપરેશન દરમિયાન વિવિધ લોડ પર ઓટોમેટિક એડજસ્ટ થઈ શકે છે[cite: 8]."
+  },
+  {
+    "id": 185,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
+    "question": "The ratio of convective mass transfer rate to mass diffusion rate is called:",
+    "gujaratiQuestion": "0185. કન્વેક્ટિવ માસ ટ્રાન્સફર અને માસ ડિફ્યુઝન રેટના ગુણોત્તરને શું કહેવાય છે?",
+    "options": [
+      "શેરવુડ નંબર",
+      "શ્મિટ નંબર",
+      "રેલે નંબર",
+      "સ્ટ્રાઉહલ નંબર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "શેરવુડ નંબર (Sherwood number Sh = h_m·L / D_AB) કન્વેક્ટિવ અને ડિફ્યુઝિવ માસ ટ્રાન્સફરનો ગુણોત્તર દર્શાવે છે[cite: 8]."
+  },
+  {
+    "id": 186,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "What is the primary difference between a Propeller turbine and a Kaplan turbine?",
+    "gujaratiQuestion": "0186. પ્રોપેલર ટર્બાઈન અને કૅપ્લાન ટર્બાઈન વચ્ચેનો મુખ્ય તફાવત શું છે?",
+    "options": [
+      "પ્રોપેલર ટર્બાઈનમાં રનર બ્લેડ ફિક્સ હોય છે, જ્યારે કૅપ્લાનમાં એડજસ્ટેબલ હોય છે",
+      "પ્રોપેલર ટર્બાઇન હાઈ હેડ માટે વપરાય છે, કેપ્લાન લો હેડ માટે",
+      "પ્રોપેલર ટર્બાઇન ઇમ્પલ્સ પ્રકારનું છે, કેપ્લાન રિએક્શન પ્રકારનું છે",
+      "બંનેમાં કોઈ તફાવત નથી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પ્રોપેલર ટર્બાઇનમાં બ્લેડ્સ હબ સાથે ફિક્સ હોય છે, જ્યારે કાપ્લાન ટર્બાઇનમાં બ્લેડ એંગલ એડજસ્ટેબલ હોય છે[cite: 8]."
+  },
+  {
+    "id": 187,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Water Turbines, Heads, Efficiencies & Velocity Triangles",
+    "question": "What is the correct formula for specific speed (Ns) of a hydraulic turbine?",
+    "gujaratiQuestion": "Q187. ટર્બાઈનની સ્પેસિફિક સ્પીડ (Specific speed - Ns) માટેનું સાચું સૂત્ર કયું છે?",
+    "options": [
+      "Ns = (N√P) / H^(3/2)",
+      "Ns = (N√P) / H^(5/4)",
+      "Ns = (N√P) / H^(1/2)",
+      "Ns = (N√Q) / H^(3/4)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હાઇડ્રોલિક ટર્બાઇનની સ્પેસિફિક સ્પીડ Ns = (N√P) / H^(5/4) છે (જ્યાં P પાવર અને H હેડ છે)[cite: 8]."
+  },
+  {
+    "id": 188,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Units, Dimensions & Fluid Properties",
+    "question": "Stoke is a CGS unit of which quantity?",
+    "gujaratiQuestion": "Q188. સ્ટોક (Stoke) એ શેનો એકમ છે?",
+    "options": [
+      "માસ ડેન્સિટી",
+      "કાઈનેમેટિક વિસ્કોસિટી",
+      "વિસ્કોસિટી",
+      "વેલોસિટી ગ્રેડિયન્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટોક (Stoke = cm²/s) એ કાઇનેમેટિક વિસ્કોસિટીનો CGS એકમ છે[cite: 8]."
+  },
+  {
+    "id": 189,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Water Turbines, Heads, Efficiencies & Velocity Triangles",
+    "question": "Which of the following hydraulic turbines has the highest specific speed?",
+    "gujaratiQuestion": "Q189. નીચેનામાંથી કયા ટર્બાઇનની સ્પેસિફિક સ્પીડ સૌથી વધુ હોય છે?",
+    "options": [
+      "પેલ્ટન ટર્બાઇન",
+      "ફ્રાન્સિસ ટર્બાઈન",
+      "કેપ્લાન ટર્બાઈન",
+      "ટર્ગો ટર્બાઈન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કાપ્લાન ટર્બાઇન લો હેડ અને હાઇ ડિસ્ચાર્જ માટે કાર્ય કરતું હોવાથી તેની સ્પેસિફિક સ્પીડ (250 થી 850) સૌથી વધુ હોય છે[cite: 8]."
+  },
+  {
+    "id": 190,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Water Turbines, Heads, Efficiencies & Velocity Triangles",
+    "question": "The specific speed of a Pelton wheel turbine is generally:",
+    "gujaratiQuestion": "0190. પેલ્ટન ટર્બાઈનની સ્પેસિફિક સ્પીડ કેવી હોય છે?",
+    "options": [
+      "સૌથી ઓછી (10 થી 35)",
+      "મધ્યમ (60 થી 300)",
+      "સૌથી વધુ (300 થી 1000)",
+      "શૂન્ય"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પેલ્ટન વ્હીલ હાઈ હેડ ટર્બાઇન હોવાથી તેની સ્પેસિફિક સ્પીડ તમામ ટર્બાઇનોમાં સૌથી ઓછી (10 થી 35 rpm) હોય છે[cite: 8]."
+  },
+  {
+    "id": 191,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "The point through which the resultant hydrostatic force acts on a submerged surface is called:",
+    "gujaratiQuestion": "0191. પરિણામી હાઇડ્રોસ્ટેટિક ફોર્સ જે બિંદુ પર કાર્ય કરે છે તેને શું કહેવાય છે?",
+    "options": [
+      "સેન્ટર ઓફ ગ્રેવિટી",
+      "સેન્ટર ઓફ બુયોન્સી",
+      "સેન્ટર ઓફ પ્રેશર",
+      "આપેલ પૈકી એકપણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કુલ હાઇડ્રોસ્ટેટિક પ્રેશર ફોર્સના પરિણામી બિંદુને સેન્ટર ઓફ પ્રેશર (Center of Pressure) કહે છે[cite: 8]."
+  },
+  {
+    "id": 192,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "A draft tube is used in which type of hydraulic turbine?",
+    "gujaratiQuestion": "Q192. ડ્રાફ્ટ ટ્યુબ (Draft tube) નો ઉપયોગ કયા ટર્બાઈનમાં થાય છે?",
+    "options": [
+      "માત્ર ઈમ્પલ્સ ટર્બાઈનમાં",
+      "માત્ર રિએક્શન ટર્બાઈનમાં",
+      "ઈમ્પલ્સ અને રિએક્શન બંનેમાં",
+      "પેલ્ટન વ્હીલમાં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડ્રાફ્ટ ટ્યુબ માત્ર રિએક્શન ટર્બાઇન (ફ્રાન્સિસ અને કાપ્લાન) ના રનર આઉટલેટ પર ટેઇલરેસ સુધી જોડાય છે[cite: 8]."
+  },
+  {
+    "id": 193,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "What is the primary function of a draft tube in a reaction turbine?",
+    "gujaratiQuestion": "Q193. ડ્રાફ્ટ ટ્યુબનું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "પાણીની કાઈનેટિક એનર્જી વધારવી",
+      "પાણીની કાઈનેટિક એનર્જીનું પ્રેશર એનર્જીમાં રૂપાંતર કરી ટર્બાઈનનો નેટ હેડ વધારવો",
+      "ટર્બાઈનને ઓવર-સ્પીડ થતા અટકાવવું",
+      "કેવિટેશન વધારવું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડ્રાફ્ટ ટ્યુબ એક્ઝિટ કાઇનેટિક એનર્જીને પ્રેશર એનર્જીમાં ફેરવીને વેસ્ટ થતી ઊર્જા ઘટાડે છે અને નેટ ઇફેક્ટિવ હેડ વધારે છે[cite: 8]."
+  },
+  {
+    "id": 194,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Water Turbines, Heads, Efficiencies & Velocity Triangles",
+    "question": "What is the Runaway Speed of a hydraulic turbine?",
+    "gujaratiQuestion": "0194. હાઇડ્રોલિક ટર્બાઈનની રનઅવે સ્પીડ (Runaway speed) એટલે શું?",
+    "options": [
+      "ટર્બાઇનની ડિઝાઇન સ્પીડ",
+      "જ્યારે ટર્બાઇન પર લોડ શૂન્ય હોય અને ગેટ સંપૂર્ણ ખુલ્લા હોય ત્યારની મહત્તમ સ્પીડ",
+      "ટર્બાઈનની ન્યૂનતમ સ્પીડ",
+      "જનરેટરની સિંક્રોનસ સ્પીડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "શૂન્ય લોડ અને પૂર્ણ ડિસ્ચાર્જ વખતે ટર્બાઇન જે મહત્તમ અનિયંત્રિત ગતિ પ્રાપ્ત કરી શકે તેને રનઅવે સ્પીડ કહે છે[cite: 8]."
+  },
+  {
+    "id": 195,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "In which standard form can Bernoulli's equation be written?",
+    "gujaratiQuestion": "0195. બર્નોલીનું સમીકરણ કયા સ્વરૂપમાં લખી શકાય છે?",
+    "options": [
+      "p/ρg + V²/2g + z = constant",
+      "p²/ρg + V²/2g + z = constant",
+      "p/ρg + V²/g + z = constant",
+      "p/ρg + V/g + z = constant"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બર્નોલી સમીકરણનું પ્રમાણભૂત હેડ સ્વરૂપ: p/(ρg) + V²/(2g) + z = Constant[cite: 8]."
+  },
+  {
+    "id": 196,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "What is Tygun's empirical formula to determine the number of buckets (Z) on a Pelton wheel? (D = runner pitch diameter, d = jet diameter)",
+    "gujaratiQuestion": "0196. પેલ્ટન વ્હીલમાં ન્યૂનતમ બકેટ (Buckets - Z) ની સંખ્યા દર્શાવતું સામાન્ય સૂત્ર કયું છે?",
+    "options": [
+      "Z = 15 + D/d",
+      "Z = 15 + D/(2d)",
+      "Z = 10 + D/d",
+      "Z = 15 + 2D/d"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પેલ્ટન વ્હીલ માટે બકેટ્સની સંખ્યા Z = 15 + D/(2d) = 15 + 0.5m (જ્યાં m = D/d જેટ રેશિયો છે)[cite: 8]."
+  },
+  {
+    "id": 197,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Water Turbines, Heads, Efficiencies & Velocity Triangles",
+    "question": "The overall efficiency of a hydraulic turbine is the ratio of:",
+    "gujaratiQuestion": "0197. ટર્બાઈનમાં ઓવરઓલ એફિશિયન્સી એ કોનો ગુણોત્તર છે?",
+    "options": [
+      "શાફ્ટ પાવર અને વોટર પાવર",
+      "રનર પાવર અને વોટર પાવર",
+      "શાફ્ટ પાવર અને રનર પાવર",
+      "વોટર પાવર અને શાફ્ટ પાવર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઓવરઓલ કાર્યક્ષમતા η_o = શાફ્ટ આઉટપુટ પાવર (SP) / ઇનપુટ વોટર પાવર (WP)[cite: 8]."
+  },
+  {
+    "id": 198,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Compressibility, Surface Tension & Fluid Statics",
+    "question": "The formation and collapse of vapor cavities in low-pressure regions of liquid flow causes:",
+    "gujaratiQuestion": "0198. લિક્વિડમાં વરાળ અને હવાના પોકેટ્સની રચનાને કારણે કઈ ઘટના બને છે?",
+    "options": [
+      "ઇરોઝન",
+      "કેવિટેશન",
+      "ટર્બ્યુલન્સ",
+      "વ્હર્લિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રવાહીનું દબાણ વેપર પ્રેશરથી નીચે જતાં બબલ્સ બનવા અને ફૂટવાની ઘટના કેવિટેશન (Cavitation) કહેવાય છે[cite: 8]."
+  },
+  {
+    "id": 199,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Water Turbines, Heads, Efficiencies & Velocity Triangles",
+    "question": "Cavitation is mainly a serious problem in which hydraulic machines?",
+    "gujaratiQuestion": "0199. કેવિટેશન (Cavitation) ની સમસ્યા મુખ્યત્વે કયા મશીનમાં જોવા મળે છે?",
+    "options": [
+      "પેલ્ટન ટર્બાઇનમાં",
+      "રિએક્શન ટર્બાઇન અને સેન્ટ્રીફયુગલ પંપમાં",
+      "એર કોમ્પ્રેસરમાં",
+      "આઈસી એન્જિનમાં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રિએક્શન ટર્બાઇન રનર એક્ઝિટ અને સેન્ટ્રીફ્યુગલ પંપ સક્શન આઇ જેવા નીચા દબાણવાળા વિસ્તારોમાં કેવિટેશન સર્જાય છે[cite: 8]."
+  },
+  {
+    "id": 200,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "In an impulse turbine, when water strikes the runner bucket, the pressure of water is:",
+    "gujaratiQuestion": "0200. ઈમ્પલ્સ ટર્બાઈનના વેલોસિટી ટ્રાયએંગલ (Velocity triangle) માં પાણી જ્યારે બકેટ પર ટકરાય છે, ત્યારે પ્રેશર કેવું હોય છે?",
+    "options": [
+      "વાતાવરણીય પ્રેશર કરતા વધુ",
+      "વાતાવરણીય પ્રેશર કરતા ઓછું",
+      "વાતાવરણીય પ્રેશર જેટલું",
+      "શૂન્ય પ્રેશર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇમ્પલ્સ ટર્બાઇનમાં તમામ પ્રેશર હેડ નોઝલમાં કાઇનેટિકમાં ફેરવાઈ જતાં રનર કેસિંગમાં દબાણ વાતાવરણીય (Atmospheric) રહે છે[cite: 8]."
+  },
+  {
+    "id": 201,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Viscous Flow, Boundary Layer & Turbulent Flow",
+    "question": "For laminar flow through a circular pipe, the maximum centerline velocity is equal to:",
+    "gujaratiQuestion": "0201. વર્તુળાકાર પાઈપમાંથી વહેતા લેમિનાર ફ્લો માટે:",
+    "options": [
+      "મહત્તમ વેલોસિટી = સરેરાશ વેલોસિટી કરતા 1.5 ગણી",
+      "મહત્તમ વેલોસિટી = સરેરાશ વેલોસિટી કરતા 2.0 ગણી",
+      "મહત્તમ વેલોસિટી = સરેરાશ વેલોસિટી કરતા 2.5 ગણી",
+      "આપેલ પૈકી એકપણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વર્તુળાકાર પાઇપમાં હેગન-પોઇસેલી લેમિનાર પ્રવાહ માટે U_max = 2.0 × U_avg થાય છે[cite: 8]."
+  },
+  {
+    "id": 202,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Water Turbines, Heads, Efficiencies & Velocity Triangles",
+    "question": "What is the purpose of governing a water turbine?",
+    "gujaratiQuestion": "0202. ટર્બાઇનનું ગવર્નિંગ (Governing) શાના માટે કરવામાં આવે છે?",
+    "options": [
+      "ટર્બાઈનનો ડિસ્ચાર્જ વધારવા માટે",
+      "અલગ-અલગ લોડ પર ટર્બાઇનની સ્પીડ અચળ રાખવા માટે",
+      "ટર્બાઇનની એફિશિયન્સી ઘટાડવા માટે",
+      "ટર્બાઈનનો હેડ વધારવા માટે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગવર્નિંગ દ્વારા ગ્રીડ ફ્રિક્વન્સી જાળવવા માટે વેરિયેબલ લોડ પર ટર્બાઇનની પરિભ્રમણ ગતિ સતત અચળ (Constant speed) રખાય છે[cite: 8]."
+  },
+  {
+    "id": 203,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "What is the primary function of a Penstock in a hydroelectric power plant?",
+    "gujaratiQuestion": "0203. હાઈડ્રોઇલેક્ટ્રિક પાવર પ્લાન્ટમાં પેનસ્ટોક (Penstock) નું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "ઇલેક્ટ્રિસિટી ઉત્પન્ન કરવી",
+      "ડેમમાંથી ટર્બાઈન સુધી ઊંચા પ્રેશરે પાણી પહોંચાડવું",
+      "ટર્બાઈનમાંથી પાણીને નદીમાં છોડવું",
+      "કેવિટેશન અટકાવવું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પેનસ્ટોક એ મજબૂત પાઇપલાઇન છે જે ડેમ/ફોરબેમાંથી હાઇ પ્રેશર પાણી ટર્બાઇન રનર સુધી લઈ જાય છે[cite: 8]."
+  },
+  {
+    "id": 204,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "What is the head loss formula due to sudden expansion in a pipe?",
+    "gujaratiQuestion": "0204. પાઈપના અચાનક વિસ્તરણને (sudden expansion) કારણે થતા હેડ લોસનું સૂત્ર કયું છે?",
+    "options": [
+      "hL = (V₁ - V₂)² / 2g",
+      "hL = (V₁² - V₂²) / 2g",
+      "hL = 0.5 V₁² / 2g",
+      "hL = 0.5 V₂² / 2g"
+    ],
+    "correctAnswer": 0,
+    "explanation": "અચાનક વિસ્તરણ હેડ લોસ h_L = (V₁ - V₂)² / 2g[cite: 8]."
+  },
+  {
+    "id": 205,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "How does water flow through the runner of a Kaplan turbine?",
+    "gujaratiQuestion": "0205. કૅપ્લાન ટર્બાઈનના રનરમાં પાણીનો ફ્લો કેવી રીતે થાય છે?",
+    "options": [
+      "માત્ર રેડિયલ",
+      "રેડિયલ ઇનવર્ડ અને એક્સિયલ આઉટવર્ડ",
+      "માત્ર એક્સિયલ (શાફ્ટની અક્ષને સમાંતર)",
+      "ટેન્જેન્શિયલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કાપ્લાન ટર્બાઇન રનરમાં પાણી સંપૂર્ણપણે અક્ષીય દિશામાં (Axially) પ્રવેશે છે અને બહાર નીકળે છે[cite: 8]."
+  },
+  {
+    "id": 206,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "How does water flow inside the runner in a modern Francis turbine?",
+    "gujaratiQuestion": "0206. ફ્રાન્સિસ ટર્બાઈનના આધુનિક સ્વરૂપમાં રનરની અંદર પાણીનો ફ્લો કેવી રીતે હોય છે?",
+    "options": [
+      "માત્ર રેડિયલ",
+      "રેડિયલ ઇનવર્ડ અને એક્સિયલ આઉટવર્ડ (મિક્સ્ડ ફ્લો)",
+      "માત્ર એક્સિયલ",
+      "ટેન્જેન્શિયલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આધુનિક ફ્રાન્સિસ ટર્બાઇનમાં પાણી પરિઘ પરથી રેડિયલ ઇનવર્ડ પ્રવેશી કેન્દ્રમાંથી અક્ષીય (Axially) બહાર નીકળે છે[cite: 8]."
+  },
+  {
+    "id": 207,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Viscous Flow, Boundary Layer & Turbulent Flow",
+    "question": "For viscous flow through circular pipes shown in Figure 1, curve B represents:",
+    "gujaratiQuestion": "0207. ગોળાકાર પાઈપોમાંથી ચીકણા પ્રવાહ માટે, આકૃતિ 1 માં ચોક્કસ વળાંકો બતાવવામાં આવ્યા છે, વળાંક B એ _____ દર્શાવે છે.",
+    "options": [
+      "શિયર સ્ટ્રેસ ડિસ્ટ્રિબ્યુશન",
+      "વેલોસિટી ડિસ્ટ્રિબ્યુશન",
+      "પ્રેશર ડિસ્ટ્રિબ્યુશન",
+      "આપેલ પૈકી એકપણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વર્તુળાકાર પાઇપમાં શિયર સ્ટ્રેસ કેન્દ્રમાં શૂન્ય અને દીવાલ પર મહત્તમ થતાં રેખીય (Linear curve B) હોય છે, જ્યારે વેલોસિટી પેરાબોલિક (A) હોય છે[cite: 8]."
+  },
+  {
+    "id": 208,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "How does the water jet strike the runner in a Pelton wheel turbine?",
+    "gujaratiQuestion": "0208. પેલ્ટન વ્હીલ ટર્બાઈનમાં પાણીની જેટ રનર પર કેવી રીતે ટકરાય છે?",
+    "options": [
+      "રેડિયલ દિશામાં",
+      "એક્સિયલ દિશામાં",
+      "ટેન્જેન્શિયલ અથવા સ્પર્શક દિશામાં",
+      "કેન્દ્રમાં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પેલ્ટન વ્હીલમાં પાણીનો જેટ રનરના પિચ સર્કલને સ્પર્શક (Tangential direction) દિશામાં અથડાય છે[cite: 8]."
+  },
+  {
+    "id": 209,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "At the outlet of the nozzle in a Pelton wheel, in what form is the total energy of water available?",
+    "gujaratiQuestion": "0209. પેલ્ટન વ્હીલમાં નૉઝલ (Nozzle) ના છેડે પાણીની ટોટલ એનર્જી કયા સ્વરૂપમાં હોય છે?",
+    "options": [
+      "માત્ર પ્રેશર એનર્જી",
+      "માત્ર કાઈનેટિક એનર્જી",
+      "પ્રેશર અને કાઈનેટિક બંને",
+      "પોટેન્શિયલ એનર્જી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નોઝલ તમામ પ્રેશર હેડનું કાઇનેટિક એનર્જીમાં રૂપાંતર કરે છે, જેથી નોઝલ બહાર માત્ર હાઇ-વેલોસિટી કાઇનેટિક એનર્જી રહે છે[cite: 8]."
+  },
+  {
+    "id": 210,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Water Turbines, Heads, Efficiencies & Velocity Triangles",
+    "question": "The overall efficiency of a hydraulic turbine is defined as the ratio of:",
+    "gujaratiQuestion": "0210. ટર્બાઈનની ઓવરઓલ એફિશિયન્સી એ કોનો ગુણોત્તર છે?",
+    "options": [
+      "ટર્બાઇનના ઈનલેટ પર પાવર અને શાફ્ટ પર પાવર",
+      "શાફ્ટ પર પાવર અને રનરને અપાતો પાવર",
+      "શાફ્ટ પર પાવર અને ટર્બાઈનના ઇનલેટ પર પાવર (વોટર પાવર)",
+      "આપેલ પૈકી એકપણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઓવરઓલ કાર્યક્ષમતા = શાફ્ટ પાવર આઉટપુટ / ઇનલેટ વોટર પાવર[cite: 8]."
+  },
+  {
+    "id": 211,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "What happens to the pressure of water as it flows through the runner in a reaction turbine?",
+    "gujaratiQuestion": "0211. રિએક્શન ટર્બાઇનમાં રનરમાંથી પસાર થતી વખતે પાણીના પ્રેશરમાં શું ફેરફાર થાય છે?",
+    "options": [
+      "અચળ રહે છે",
+      "સતત ઘટે છે",
+      "સતત વધે છે",
+      "પહેલા વધે છે પછી ઘટે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રિએક્શન ટર્બાઇન રનરમાં કાઇનેટિક અને પ્રેશર બંને ઊર્જાનું યાંત્રિક કાર્યમાં રૂપાંતર થવાથી દબાણ સતત ઘટે છે[cite: 8]."
+  },
+  {
+    "id": 212,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "What is the function of guide vanes in a reaction turbine?",
+    "gujaratiQuestion": "0212. ટર્બાઈનમાં ગાઈડ વેન્સ (Guide vanes) નું કાર્ય શું છે?",
+    "options": [
+      "રનરને સીધો પાવર આપવો",
+      "પાણીને યોગ્ય એંગલ પર રનર તરફ વાળવું અને ડિસ્ચાર્જ કંટ્રોલ કરવો",
+      "ડ્રાફ્ટ ટ્યુબમાં પ્રેશર વધારવું",
+      "વોટર હેમર ઘટાડવું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગાઇડ વેન્સ પાણીને શોક વગર યોગ્ય ઇનલેટ એંગલ પર રનર તરફ દોરે છે અને ગવર્નિંગ માટે ફ્લો રેટ નિયંત્રિત કરે છે[cite: 8]."
+  },
+  {
+    "id": 213,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Water Turbines, Heads, Efficiencies & Velocity Triangles",
+    "question": "In Figure 2 showing Unit Discharge (Q₁) vs Unit Speed (N₁), curve A represents which turbine?",
+    "gujaratiQuestion": "0213. વિવિધ ટર્બાઈન માટે યુનિટ ડિસ્ચાર્જ (Q₁) અને યુનિટ સ્પીડ (N₁) વણાંકો આકૃતિ 2 માં દર્શાવવામાં આવ્યા છે. વણાંકો A એ _____ માટે છે.",
+    "options": [
+      "ફ્રાન્સિસ ટર્બાઈન",
+      "કાપ્લાન ટર્બાઈન",
+      "પેલ્ટન ટર્બાઈન",
+      "પ્રોપેલર ટર્બાઈન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પેલ્ટન ટર્બાઇનમાં સ્પીડ બદલાતાં યુનિટ ડિસ્ચાર્જ અચળ (Horizontal line A) રહે છે[cite: 8]."
+  },
+  {
+    "id": 214,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Water Turbines, Heads, Efficiencies & Velocity Triangles",
+    "question": "What is the typical speed ratio (Ku) for a Pelton wheel turbine?",
+    "gujaratiQuestion": "0214. પેલ્ટન ટર્બાઇનમાં સ્પીડ રેશિયો (Speed ratio - Ku) સામાન્ય રીતે કેટલો હોય છે?",
+    "options": [
+      "0.43 થી 0.48 ની વચ્ચે",
+      "1.0 થી 2.0 ની વચ્ચે",
+      "0.1 થી 0.2 ની વચ્ચે",
+      "0.8 થી 0.9 ની વચ્ચે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પેલ્ટન વ્હીલ માટે સ્પીડ રેશિયો Ku = u / √(2gH) સામાન્ય રીતે 0.43 થી 0.48 (સૈદ્ધાંતિક 0.5) હોય છે[cite: 8]."
+  },
+  {
+    "id": 215,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
+    "question": "What is the exit velocity of water leaving a draft tube into the tailrace?",
+    "gujaratiQuestion": "0215. જ્યારે ડ્રાફ્ટ ટ્યુબમાંથી પાણી બહાર નીકળે છે ત્યારે તેની વેલોસિટી કેવી હોય છે?",
+    "options": [
+      "ઈનલેટ કરતા વધુ",
+      "શૂન્ય",
+      "ઈનલેટ કરતા ઘણી ઓછી, જેથી એનર્જી લોસ ઘટે",
+      "સાઉન્ડની વેલોસિટી જેટલી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડ્રાફ્ટ ટ્યુબનો વધતો એરિયા બહાર નીકળતા પાણીનો વેગ લઘુત્તમ કરી નાખે છે જેથી ટેઇલરેસમાં કાઇનેટિક એનર્જી લોસ નહિવત થાય[cite: 8]."
+  },
+  {
+    "id": 216,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Euler's Equation & Rotodynamic Machines",
+    "question": "A hydraulic coupling is a hydrodynamic device used to:",
+    "gujaratiQuestion": "0216. હાઈડ્રોલિક કપલિંગ એ એવું ઉપકરણ છે જેનો ઉપયોગ _____ માટે થાય છે.",
+    "options": [
+      "ડ્રિવન શાફ્ટમાં સમાન ટોર્ક ટ્રાન્સમિટ કરવા",
+      "ડ્રિવન શાફ્ટમાં વધારાનો ટોર્ક ટ્રાન્સમિટ કરવા (ટોર્ક કન્વર્ટર)",
+      "ડ્રિવન શાફ્ટમાં ઓછો ટોર્ક ટ્રાન્સમિટ કરવા",
+      "આપેલ પૈકી એકપણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "હાઇડ્રોલિક કપલિંગ ઇનપુટ શાફ્ટનો ટોર્ક કોઈપણ ટોર્ક ગુણાકાર વગર સમાન પ્રમાણમાં (1:1 ટોર્ક રેશિયો) ડ્રિવન શાફ્ટમાં ટ્રાન્સમિટ કરે છે[cite: 8]."
+  },
+  {
+    "subject": "Fluid Mechanics",
+    "subTopic": "Viscous Flow, Boundary Layer & Turbulent Flow",
+    "question": "For steady viscous incompressible pipe flow of constant diameter, the average velocity in the developing region is:",
+    "gujaratiQuestion": "Constant-diameter pipeમાં steady viscous incompressible flow માટે developing regionમાં average velocity કેવી રહે છે?",
+    "options": [
+      "It increases until fully developed",
+      "It equals the fully developed average velocity",
+      "It decreases until fully developed",
+      "It is always lower than the fully developed value"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Continuity fixes the cross-sectional average velocity for constant area and steady incompressible flow.",
+    "id": 217
+  },
+  {
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "Within a boundary layer, Bernoulli’s equation generally does not hold because the flow is:",
+    "gujaratiQuestion": "Boundary layerની અંદર Bernoulli equation સામાન્ય રીતે કેમ લાગુ પડતું નથી?",
+    "options": [
+      "Unsteady",
+      "Incompressible",
+      "Transitional",
+      "Frictional"
+    ],
+    "correctAnswer": 3,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Viscous/frictional effects are significant inside the boundary layer.",
+    "id": 218
+  },
+  {
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "A flow field having only convective acceleration is:",
+    "gujaratiQuestion": "માત્ર convective acceleration ધરાવતું flow field કયું?",
+    "options": [
+      "Steady uniform",
+      "Unsteady uniform",
+      "Steady non-uniform",
+      "Unsteady non-uniform"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Convective acceleration exists when velocity varies spatially; steady non-uniform flow has no local acceleration.",
+    "id": 219
+  },
+  {
+    "subject": "Fluid Mechanics",
+    "subTopic": "Definition of Fluid, Newton's Law of Viscosity",
+    "question": "For a Newtonian fluid, shear stress is proportional to:",
+    "gujaratiQuestion": "Newtonian fluidમાં shear stress કયા માટે proportional છે?",
+    "options": [
+      "Pressure only",
+      "Velocity gradient",
+      "Density only",
+      "Surface tension"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: τ=μ du/dy.",
+    "id": 220
+  },
+  {
+    "subject": "Fluid Mechanics",
+    "subTopic": "Mass Density, Specific Volume & Specific Gravity",
+    "question": "Specific gravity of water at standard reference conditions is approximately:",
+    "gujaratiQuestion": "Standard reference conditions પર waterની specific gravity આશરે કેટલી છે?",
+    "options": [
+      "0.001",
+      "0.1",
+      "1",
+      "1000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Expected MCQ: Specific gravity is density relative to the reference density, so water is approximately 1.",
+    "id": 221
+  },
+  {
+    "subject": "Fluid Mechanics",
+    "subTopic": "Flow Through Pipes & Head Losses",
+    "question": "For laminar flow in a circular pipe, Darcy friction factor is:",
+    "gujaratiQuestion": "Circular pipeના laminar flow માટે Darcy friction factor શું છે?",
+    "options": [
+      "16/Re",
+      "32/Re",
+      "64/Re",
+      "Re/64"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Expected MCQ: For fully developed laminar pipe flow, f=64/Re.",
+    "id": 222
+  },
+  {
+    "subject": "Fluid Mechanics",
+    "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
+    "question": "For steady incompressible flow through a constant-area pipe, average velocity is:",
+    "gujaratiQuestion": "Constant-area pipeમાં steady incompressible flow માટે average velocity કેવી રહે છે?",
+    "options": [
+      "Increasing",
+      "Decreasing",
+      "Constant",
+      "Zero"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Expected MCQ: Continuity gives constant discharge and constant average velocity for constant area.",
+    "id": 223
+  },
+  {
+    "subject": "Fluid Mechanics",
+    "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
+    "question": "A floating body is stable when its metacentre lies:",
+    "gujaratiQuestion": "Floating body stable રહેવા માટે metacentre ક્યાં હોવું જોઈએ?",
+    "options": [
+      "Below the centre of gravity",
+      "Above the centre of gravity",
+      "At the bottom",
+      "At the centre of buoyancy only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Positive metacentric height requires M above G.",
+    "id": 224
+  }
+]

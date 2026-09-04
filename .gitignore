@@ -1,0 +1,41 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.idea/
+.artifacts/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+app-release.apk
+app-debug.apk
+
+# Android
+**/android/app/key.jks
+**/android/app/keystore.jks
+**/android/key.properties
+**/android/local.properties
+**/android/.gradle/
+**/android/app/build/
+**/android/captures/
+**/android/app/release/
+
+# Widget Preview
+.widget_preview/
+
+# IntelliJ
+*.iml
+*.iws
+*.ipr
+out/

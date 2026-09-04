@@ -1,0 +1,3437 @@
+[
+  {
+    "id": 1,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "How many total atoms are there in a BCC unit cell?",
+    "gujaratiQuestion": "Q1. BCC યુનિટ સેલમાં કુલ કેટલા અણુઓ (atoms) હોય છે?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "6"
+    ],
+    "correctAnswer": 1,
+    "explanation": "BCC (બોડી-સેન્ટર્ડ ક્યુબિક) માં 8 ખૂણા પરના 1/8 ભાગ (8 × 1/8 = 1) અને કેન્દ્રમાં 1 સંપૂર્ણ અણુ મળીને કુલ 2 અણુઓ હોય છે[cite: 10]."
+  },
+  {
+    "id": 2,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "What is the Atomic Packing Factor (APF) of an FCC crystal structure?",
+    "gujaratiQuestion": "02. FCC ક્રિસ્ટલ સ્ટ્રક્ચરનો એટમિક પેકિંગ ફેક્ટર (APF) કેટલો હોય છે?",
+    "options": [
+      "0.52",
+      "0.68",
+      "0.74",
+      "0.80"
+    ],
+    "correctAnswer": 2,
+    "explanation": "FCC અને HCP બંને ક્લોઝ-પેક્ડ ક્રિસ્ટલ સ્ટ્રક્ચર્સ માટે એટોમિક પેકિંગ ફેક્ટર (APF) 0.74 (74%) હોય છે[cite: 10]."
+  },
+  {
+    "id": 3,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Which property of a material gives it the ability to be drawn into thin wires?",
+    "gujaratiQuestion": "03. પદાર્થનો કયો ગુણધર્મ તેને તાર (wire) માં ખેંચવાની ક્ષમતા આપે છે?",
+    "options": [
+      "મેલિએબિલિટી",
+      "ઈલાસ્ટિસિટી",
+      "ડક્ટિલિટી",
+      "ટફનેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટેન્સાઈલ લોડ હેઠળ તૂટ્યા વગર પાતળા તારમાં ખેંચાઈ શકવાના ગુણધર્મને ડક્ટિલિટી (Ductility) કહેવાય છે[cite: 10]."
+  },
+  {
+    "id": 4,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "Which of the following features is NOT improved by the cyaniding process?",
+    "gujaratiQuestion": "Q4. સાયનાઈડિંગ પ્રોસેસ દ્વારા કઈ લાક્ષણિકતા (feature) માં સુધારો થતો નથી?",
+    "options": [
+      "વિયર રેઝિસ્ટન્સમાં સુધારો",
+      "સરફેસ હાર્ડનેસમાં વધારો",
+      "ઇન્ટરનલ સ્ટ્રેસીસમાં ઘટાડો",
+      "કોરોઝન રેઝિસ્ટન્સમાં વધારો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સાયનાઇડિંગ એ કેસ હાર્ડનિંગ પ્રક્રિયા છે જે સપાટીની હાર્ડનેસ અને વિયર રેઝિસ્ટન્સ વધારે છે, પરંતુ આંતરિક સ્ટ્રેસ ઘટાડવાનું કામ કરતી નથી[cite: 10]."
+  },
+  {
+    "id": 5,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Which of the following metals exhibits the highest malleability?",
+    "gujaratiQuestion": "05. નીચેનામાંથી કઈ ધાતુમાં સૌથી વધુ મેલિએબિલિટી જોવા મળે છે?",
+    "options": [
+      "સોનું",
+      "તાંબુ",
+      "એલ્યુમિનિયમ",
+      "લોખંડ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સોનું (Gold) તમામ ધાતુઓમાં સૌથી વધુ મેલિએબલ (પાતળા વરખ કે પતરાંમાં ટીપી શકાતી) ધાતુ છે[cite: 10]."
+  },
+  {
+    "id": 6,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "What is the total capacity of a material to absorb energy before fracture called?",
+    "gujaratiQuestion": "Q6. ફ્રેક્ચર થતા પહેલા પદાર્થ દ્વારા એનર્જી શોષવાની કુલ ક્ષમતાને શું કહેવાય છે?",
+    "options": [
+      "રિઝિલિયન્સ",
+      "હાર્ડનેસ",
+      "ફટિગ",
+      "ટફનેસ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ફ્રેક્ચર થતાં સુધી પ્લાસ્ટિક અને ઇલાસ્ટિક બંને ઝોનમાં ઊર્જા શોષવાની ક્ષમતાને ટફનેસ (Toughness) કહે છે[cite: 10]."
+  },
+  {
+    "id": 7,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Which alloying element is added to High Speed Steel (HSS) to increase its toughness and hot hardness?",
+    "gujaratiQuestion": "07. હાઈ-સ્પીડ સ્ટીલની ટફનેસ વધારવા માટે કયું એલોયિંગ એલિમેન્ટ ઉમેરવામાં આવે છે?",
+    "options": [
+      "વેનેડિયમ",
+      "કોબાલ્ટ",
+      "મોલિબ્ડેનમ",
+      "કાર્બન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વેનેડિયમ (Vanadium) ગ્રેઇન રિફાઇનમેન્ટ કરે છે અને હાઇ સ્પીડ સ્ટીલમાં ટફનેસ તથા એબ્રેશન રેઝિસ્ટન્સ વધારે છે[cite: 10]."
+  },
+  {
+    "id": 8,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "What crystal structure does pure iron possess at room temperature?",
+    "gujaratiQuestion": "08. શુદ્ધ લોખંડ રૂમ ટેમ્પરેચર પર કયું ક્રિસ્ટલ સ્ટ્રક્ચર ધરાવે છે?",
+    "options": [
+      "FCC",
+      "BCC",
+      "HCP",
+      "BCT"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રૂમ ટેમ્પરેચર (912°C થી નીચે) પર શુદ્ધ આયર્ન (આલ્ફા-ફેરાઇટ) બોડી-સેન્ટર્ડ ક્યુબિક (BCC) સ્ટ્રક્ચર ધરાવે છે[cite: 10]."
+  },
+  {
+    "id": 9,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "What is the coordination number in an HCP crystal structure?",
+    "gujaratiQuestion": "09. HCP ક્રિસ્ટલ સ્ટ્રક્ચરમાં કોઓર્ડિનેશન નંબર કેટલો હોય છે?",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "14"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HCP (હેક્ઝાગોનલ ક્લોઝ પેક્ડ) અને FCC બંને રચનાઓમાં દરેક અણુ 12 નજીકના અણુઓથી ઘેરાયેલો હોવાથી કોઓર્ડિનેશન નંબર 12 હોય છે[cite: 10]."
+  },
+  {
+    "id": 10,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "What is the primary objective of developing superalloys?",
+    "gujaratiQuestion": "010. સુપર-એલોય ડેવલપમેન્ટનો મુખ્ય હેતુ શું છે?",
+    "options": [
+      "ઈલેક્ટ્રિકલ કન્ડક્ટિવિટી",
+      "ક્રીપ રેઝિસ્ટન્સ",
+      "કોરોઝન",
+      "મેગ્નેટિક પ્રોપર્ટીઝ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સુપર-એલોય્સ અતિ-ઊંચા તાપમાને પણ યાંત્રિક મજબૂતાઈ અને ક્રીપ સામે ઉત્તમ પ્રતિકાર (High Creep Resistance) આપવા માટે વિકસાવાય છે[cite: 10]."
+  },
+  {
+    "id": 11,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Which of the following cast irons is the hardest and most brittle?",
+    "gujaratiQuestion": "011. નીચેનામાંથી કયું કાસ્ટ આયર્ન સૌથી વધુ કઠણ અને બરડ હોય છે?",
+    "options": [
+      "ગ્રે કાસ્ટ આયર્ન",
+      "વાઈટ કાસ્ટ આયર્ન",
+      "નોડ્યુલર કાસ્ટ આયર્ન",
+      "મેલિએબલ કાસ્ટ આયર્ન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વ્હાઇટ કાસ્ટ આયર્નમાં કાર્બન સંપૂર્ણપણે સિમેન્ટાઇટ (Fe3C) સ્વરૂપે સંયોજિત હોવાથી તે અત્યંત કઠણ અને બરડ હોય છે[cite: 10]."
+  },
+  {
+    "id": 12,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Glass and silica are examples of which type of materials?",
+    "gujaratiQuestion": "Q12. ગ્લાસ અને સિલિકા કયા પ્રકારના મટિરિયલના ઉદાહરણ છે?",
+    "options": [
+      "મેટલ્સ",
+      "સિરામિક્સ",
+      "પોલિમર્સ",
+      "કમ્પોઝિટ્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કાચ અને સિલિકા અકાર્બનિક બિન-ધાતુ પદાર્થો હોવાથી સિરામિક્સ (Ceramics) વર્ગમાં આવે છે[cite: 10]."
+  },
+  {
+    "id": 13,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "What is the function of vanadium alloying in High Speed Steel?",
+    "gujaratiQuestion": "Q13. હાઈ-સ્પીડ સ્ટીલમાં વેનેડિયમ એલોયિંગનું કાર્ય શેમાં વધારો કરવાનું છે?",
+    "options": [
+      "હાર્ડનેસ અને ગ્રેઈન રિફાઈનમેન્ટ",
+      "સોફ્ટનેસ",
+      "મેલિએબિલિટી",
+      "ઓક્સિડેશન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વેનેડિયમ અતિ-કઠણ વેનેડિયમ કાર્બાઇડ બનાવે છે અને ગ્રેઇન રિફાઇન કરી હાર્ડનેસ તથા વિયર રેઝિસ્ટન્સ વધારે છે[cite: 10]."
+  },
+  {
+    "id": 14,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Which crystal structure do aluminum and copper possess?",
+    "gujaratiQuestion": "Q14. એલ્યુમિનિયમ અને કોપર કયું ક્રિસ્ટલ સ્ટ્રક્ચર ધરાવે છે?",
+    "options": [
+      "BCC",
+      "FCC",
+      "HCP",
+      "SC"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એલ્યુમિનિયમ, કોપર, સોનું, ચાંદી અને નિકલ ફેસ-સેન્ટર્ડ ક્યુબિક (FCC) ક્રિસ્ટલ રચના ધરાવે છે[cite: 10]."
+  },
+  {
+    "id": 15,
+    "subject": "Engineering Materials",
+    "subTopic": "Relationship Between Hardness & Material Strength",
+    "question": "What is the ability of a material to resist scratching, abrasion, or penetration called?",
+    "gujaratiQuestion": "015. મટિરિયલની સ્ક્રેચ અથવા પેનિટ્રેશનનો વિરોધ કરવાની ક્ષમતાને શું કહે છે?",
+    "options": [
+      "ડક્ટિલિટી",
+      "ટફનેસ",
+      "હાર્ડનેસ",
+      "ક્રીપ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સપાટી પર ઘૂંસપેંઠ (Penetration), ઇન્ડેન્ટેશન કે સ્ક્રેચિંગ સામેના પ્રતિકારને હાર્ડનેસ (Hardness) કહેવાય છે[cite: 10]."
+  },
+  {
+    "id": 16,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "What does an isomorphous binary phase diagram represent?",
+    "gujaratiQuestion": "016. આઈસોમોર્ફસ સિસ્ટમનો ફેઝ ડાયાગ્રામ શું દર્શાવે છે?",
+    "options": [
+      "સિંગલ સોલિડ સોલ્યુશન",
+      "યુટેક્ટિક સ્ટ્રક્ચર",
+      "પેરિટેક્ટિક રિએક્શન",
+      "ઇમ્મિસિબલ ફેઝીસ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આઇસોમોર્ફસ સિસ્ટમ (જેમ કે Cu-Ni) તમામ મિશ્રણ પ્રમાણમાં સંપૂર્ણ ઘન દ્રાવ્યતા (Complete solid solubility / Single solid solution) દર્શાવે છે[cite: 10]."
+  },
+  {
+    "id": 17,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Which of the following is a non-ferrous metal?",
+    "gujaratiQuestion": "017. નીચેનામાંથી કઈ ધાતુ નોન-ફેરસ છે?",
+    "options": [
+      "કાસ્ટ આયર્ન",
+      "સ્ટીલ",
+      "પિગ આયર્ન",
+      "તાંબુ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "તાંબુ (Copper) લોહતત્વ ધરાવતું ન હોવાથી નોન-ફેરસ (Non-ferrous) ધાતુ છે[cite: 10]."
+  },
+  {
+    "id": 18,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "What is the slow and progressive permanent deformation of a material under constant stress at elevated temperatures called?",
+    "gujaratiQuestion": "018. સતત લાગતા લોડ અને ઊંચા તાપમાનને લીધે થતા ધીમા અને કાયમી ડિફોર્મેશનને શું કહેવાય છે?",
+    "options": [
+      "ફટિગ",
+      "ક્રીપ",
+      "મશિનિબિલિટી",
+      "બ્રિટલનેસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઊંચા તાપમાને સતત સ્ટેટિક લોડ હેઠળ સમય સાથે ધીમે ધીમે વધતા કાયમી ડિફોર્મેશનને ક્રીપ (Creep) કહે છે[cite: 10]."
+  },
+  {
+    "id": 19,
+    "subject": "Engineering Materials",
+    "subTopic": "Ductile & Brittle Failure Mechanisms",
+    "question": "Cleavage fracture is generally observed in which type of materials?",
+    "gujaratiQuestion": "Q19. ક્લીવેજ ફ્રેક્ચર (Cleavage fracture) સામાન્ય રીતે કયા પ્રકારના મટિરિયલ્સમાં જોવા મળે છે?",
+    "options": [
+      "ડક્ટાઈલ મેટલ્સ",
+      "એમોર્ફસ પોલિમર્સ",
+      "બ્રિટલ ક્રિસ્ટલાઇન મટિરિયલ્સ",
+      "ઈલાસ્ટોમર્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ક્લીવેજ ફ્રેક્ચર એ વિશિષ્ટ ક્રિસ્ટલોગ્રાફિક પ્લેન્સ પરથી ઝડપી વિભાજનથી થતું બ્રિટલ (બરડ) ફ્રેક્ચર છે[cite: 10]."
+  },
+  {
+    "id": 20,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "What are the general mechanical properties of ceramic materials?",
+    "gujaratiQuestion": "020. સિરામિક મટિરિયલ્સના ગુણધર્મો સામાન્ય રીતે કેવા હોય છે?",
+    "options": [
+      "હાર્ડ અને બ્રિટલ",
+      "સોફ્ટ અને ડક્ટાઈલ",
+      "હાર્ડ અને ડક્ટાઈલ",
+      "સોફ્ટ અને બ્રિટલ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સિરામિક્સ આયનિક/સહસંયોજક બંધ ધરાવતા હોવાથી ખૂબ કઠણ અને બરડ (Hard and Brittle) હોય છે[cite: 10]."
+  },
+  {
+    "id": 21,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Which of the following is a thermosetting plastic?",
+    "gujaratiQuestion": "021. નીચેનામાંથી થર્મોસેટિંગ પ્લાસ્ટિક કયું છે?",
+    "options": [
+      "નાયલોન",
+      "પીવીસી",
+      "પોલિઇથિલિન",
+      "ઈપોક્સી"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઇપોક્સી રેઝિન, બેકેલાઇટ અને મેલામાઇન થર્મોસેટિંગ પ્લાસ્ટિક્સ છે જેને એકવાર ગરમ કરીને આકાર આપ્યા પછી ફરી પીગળાવી શકાતા નથી[cite: 10]."
+  },
+  {
+    "id": 22,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "What is the primary objective of hardening tool steel?",
+    "gujaratiQuestion": "022. ટૂલ સ્ટીલના હાર્ડનિંગનો મુખ્ય હેતુ શું છે?",
+    "options": [
+      "સ્ટ્રેન્થ ઘટાડવા",
+      "મશીનિબિલિટી વધારવા",
+      "વિયર રેઝિસ્ટન્સ સુધારવા",
+      "કોરોઝન રેઝિસ્ટન્સ સુધારવા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટૂલ સ્ટીલનું હાર્ડનિંગ માર્ટેનસાઇટ સ્ટ્રક્ચર રચીને ઊંચી સપાટી કઠિનતા અને વિયર રેઝિસ્ટન્સ આપે છે[cite: 10]."
+  },
+  {
+    "id": 23,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "What is the typical carbon content in mild steel (low carbon steel)?",
+    "gujaratiQuestion": "023. માઈલ્ડ સ્ટીલમાં કાર્બનનું પ્રમાણ સામાન્ય રીતે કેટલું હોય છે?",
+    "options": [
+      "0.15% થી 0.30%",
+      "0.30% થી 0.60%",
+      "0.60% થી 0.90%",
+      "2.0% થી 4.0%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "માઇલ્ડ સ્ટીલમાં કાર્બનનું પ્રમાણ 0.15% થી 0.30% ની વચ્ચે હોય છે[cite: 10]."
+  },
+  {
+    "id": 24,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "What is the maximum carbon percentage in cementite (Fe3C)?",
+    "gujaratiQuestion": "024. સિમેન્ટાઈટમાં કાર્બનનું મહત્તમ પ્રમાણ કેટલું હોય છે?",
+    "options": [
+      "2.14%",
+      "4.30%",
+      "6.67%",
+      "8.50%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આયર્ન કાર્બાઇડ અથવા સિમેન્ટાઇટ (Fe3C) રાસાયણિક સંયોજનમાં ચોક્કસ 6.67% કાર્બન હોય છે[cite: 10]."
+  },
+  {
+    "id": 25,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "Normalizing improves machinability of medium carbon steel primarily because it:",
+    "gujaratiQuestion": "025. નોર્મલાઇઝિંગથી મશીનિબિલિટી સુધરે છે કારણ કે તે...",
+    "options": [
+      "સ્ટીલને નરમ પાડે છે",
+      "ગ્રેઇન્સને રિફાઇન કરે છે",
+      "અશુદ્ધિઓ (impurities) દૂર કરે છે",
+      "કાર્બનનું પ્રમાણ વધારે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નોર્મલાઇઝિંગ હવામાં ઠંડુ થવાથી એકસમાન અને બારીક ગ્રેઇન સ્ટ્રક્ચર (Grain refinement) પેદા કરે છે[cite: 10]."
+  },
+  {
+    "id": 26,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "At what temperature does the eutectoid reaction occur in the iron-carbon phase diagram?",
+    "gujaratiQuestion": "026. આયર્ન-કાર્બન ડાયાગ્રામમાં યુટેક્ટોઈડ પ્રક્રિયા કયા તાપમાને થાય છે?",
+    "options": [
+      "727°C",
+      "912°C",
+      "1147°C",
+      "1493°C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આયર્ન-કાર્બન ડાયાગ્રામમાં યુટેક્ટોઇડ પ્રતિક્રિયા 727°C (અથવા 723°C) તાપમાને અને 0.76% (અથવા 0.8%) કાર્બન પર થાય છે[cite: 10]."
+  },
+  {
+    "id": 27,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "Pearlite is a lamellar mixture of which two phases?",
+    "gujaratiQuestion": "027. પર્લાઈટ એ કયા બે ફેઝનું મિશ્રણ છે?",
+    "options": [
+      "ફેરાઈટ અને ઓસ્ટેનાઈટ",
+      "ઓસ્ટેનાઇટ અને સિમેન્ટાઈટ",
+      "ફેરાઈટ અને સિમેન્ટાઈટ",
+      "માર્ટેન્સાઇટ અને બેનાઈટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પર્લાઇટ એ 87% આલ્ફા-ફેરાઇટ અને 13% સિમેન્ટાઇટનું સ્તરીય (Lamellar eutectoid mixture) છે[cite: 10]."
+  },
+  {
+    "id": 28,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Which structural property primarily influences the impact strength of a metal?",
+    "gujaratiQuestion": "028. ઈમ્પેક્ટ સ્ટ્રેન્થને મુખ્યત્વે કઈ પ્રોપર્ટી અસર કરે છે?",
+    "options": [
+      "ગ્રેઇન સાઈઝ",
+      "ડેન્સિટી",
+      "પોરોસિટી",
+      "થર્મલ કન્ડક્ટિવિટી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ગ્રેઇન સાઇઝ નાની (Fine grain size) હોય તેમ હોલ-પેચ સંબંધ અનુસાર મટિરિયલની યીલ્ડ સ્ટ્રેન્થ અને ઇમ્પેક્ટ ટફનેસ બંને વધે છે[cite: 10]."
+  },
+  {
+    "id": 29,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "At what temperature does the eutectic reaction take place in the iron-carbon diagram?",
+    "gujaratiQuestion": "029. આયર્ન-કાર્બન ડાયાગ્રામમાં યુટેક્ટિક પ્રક્રિયા કયા તાપમાને થાય છે?",
+    "options": [
+      "727°C",
+      "1147°C",
+      "1394°C",
+      "1538°C"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1147°C તાપમાને અને 4.3% કાર્બન પર પ્રવાહી આયર્નમાંથી ઓસ્ટેનાઇટ અને સિમેન્ટાઇટ (લેડેબ્યુરાઇટ) બને છે[cite: 10]."
+  },
+  {
+    "id": 30,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "What is the crystal structure of Austenite (gamma iron)?",
+    "gujaratiQuestion": "030. ઓસ્ટેનાઈટ કયું ક્રિસ્ટલ સ્ટ્રક્ચર ધરાવે છે?",
+    "options": [
+      "BCC",
+      "FCC",
+      "BCT",
+      "HCP"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓસ્ટેનાઇટ (ગામા આયર્ન) ફેસ-સેન્ટર્ડ ક્યુબિક (FCC) ક્રિસ્ટલ રચના ધરાવે છે[cite: 10]."
+  },
+  {
+    "id": 31,
+    "subject": "Engineering Materials",
+    "subTopic": "Introduction to Non-Destructive Testing (NDT)",
+    "question": "What is the primary safety hazard during Radiographic Testing (RT)?",
+    "gujaratiQuestion": "031. રેડિયોગ્રાફિક ટેસ્ટિંગ દરમિયાન સુરક્ષા અંગેની મુખ્ય ચિંતા કઈ છે?",
+    "options": [
+      "હાઈ નોઇઝ લેવલ",
+      "ઝેરી વાયુઓ (Toxic fumes)",
+      "આયોનાઇઝિંગ રેડિએશનનો સંપર્ક",
+      "મેગ્નેટિક ઈન્ટરફિયરન્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રેડિયોગ્રાફીમાં એક્સ-રે અને ગામા-રે જેવા હાનિકારક આયોનાઇઝિંગ રેડિયેશનના સંપર્કથી બચવા શીલ્ડિંગ અને સેફ્ટી જરૂરી છે[cite: 10]."
+  },
+  {
+    "id": 32,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "What is the maximum solubility of carbon in alpha-ferrite at room temperature?",
+    "gujaratiQuestion": "032. રૂમ ટેમ્પરેચર પર આલ્ફા-ફેરાઈટમાં કાર્બનની મહત્તમ દ્રાવ્યતા કેટલી હોય છે?",
+    "options": [
+      "0.008%",
+      "0.022%",
+      "0.76%",
+      "2.14%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રૂમ તાપમાને આલ્ફા-ફેરાઇટમાં કાર્બન માત્ર 0.008% ઓગળી શકે છે (727°C પર મહત્તમ 0.022% હોય છે)[cite: 10]."
+  },
+  {
+    "id": 33,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "Which invariant reaction occurs at 1493°C in the iron-carbon phase diagram?",
+    "gujaratiQuestion": "Q33. આયર્ન-કાર્બન ડાયાગ્રામમાં 1493°C તાપમાને કઈ પ્રક્રિયા થાય છે?",
+    "options": [
+      "યુટેક્ટોઇડ પ્રક્રિયા",
+      "યુટેક્ટિક પ્રક્રિયા",
+      "પેરિટેક્ટિક પ્રક્રિયા",
+      "આઇસોથર્મલ પ્રક્રિયા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1493°C પર લિક્વિડ + ડેલ્ટા ફેરાઇટ મળીને ઓસ્ટેનાઇટ બનાવે છે, જેને પેરિટેક્ટિક પ્રક્રિયા (Peritectic reaction) કહેવાય છે[cite: 10]."
+  },
+  {
+    "id": 34,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "What is the process of reheating martensitic steel to reduce brittleness without significant loss of hardness called?",
+    "gujaratiQuestion": "034. માર્ટેન્સાઇટિક સ્ટીલની હાર્ડનેસમાં કોઈ નોંધપાત્ર ઘટાડો કર્યા વિના તેની બ્રિટલનેસ ઘટાડવા માટે તેને ફરીથી ગરમ કરવાની પ્રક્રિયાને શું કહેવાય છે?",
+    "options": [
+      "નોર્મલાઇઝિંગ",
+      "એનીલિંગ",
+      "ક્વેન્ચિંગ",
+      "ટેમ્પરિંગ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "હાર્ડનિંગ પછી સ્ટીલને લોઅર ક્રિટિકલ ટેમ્પરેચરથી નીચે ગરમ કરી ઠંડુ પાડવાની ક્રિયાને ટેમ્પરિંગ (Tempering) કહે છે[cite: 10]."
+  },
+  {
+    "id": 35,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "Ledeburite is the eutectic mixture of:",
+    "gujaratiQuestion": "035. લેડેબ્યુરાઇટ એ કોનું યુટેક્ટિક મિશ્રણ છે?",
+    "options": [
+      "ફેરાઈટ અને સિમેન્ટાઈટ",
+      "ઓસ્ટેનાઈટ અને સિમેન્ટાઈટ",
+      "ફેરાઈટ અને પર્લાઇટ",
+      "આયર્ન અને ગ્રેફાઈટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "લેડેબ્યુરાઇટ એ 1147°C તાપમાને ઓસ્ટેનાઇટ અને સિમેન્ટાઇટનું યુટેક્ટિક મિશ્રણ છે[cite: 10]."
+  },
+  {
+    "id": 36,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "What is the melting point of pure iron shown in the iron-carbon equilibrium diagram?",
+    "gujaratiQuestion": "036. આયર્ન-કાર્બન ડાયાગ્રામમાં શુદ્ધ આયર્નનું ગલનબિંદુ કેટલું દર્શાવેલ છે?",
+    "options": [
+      "912°C",
+      "1147°C",
+      "1493°C",
+      "1538°C"
+    ],
+    "correctAnswer": 3,
+    "explanation": "શુદ્ધ લોખંડનું ગલનબિંદુ 1538°C (અથવા 1539°C) હોય છે[cite: 10]."
+  },
+  {
+    "id": 37,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Which property allows a material to be drawn into wires under tensile force?",
+    "gujaratiQuestion": "037. મટિરિયલનો એવો ગુણધર્મ જેના લીધે તેમાંથી વાયર ખેંચી શકાય છે, તેને શું કહેવાય છે?",
+    "options": [
+      "ઇલાસ્ટિસિટી",
+      "પ્લાસ્ટિસિટી",
+      "સ્ટીફનેસ",
+      "ડક્ટિલિટી"
+    ],
+    "correctAnswer": 3,
+    "explanation": "તાર ખેંચવાની ક્ષમતાને ડક્ટિલિટી (Ductility) કહે છે[cite: 10]."
+  },
+  {
+    "id": 38,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Which phase of steel is non-magnetic at room temperature?",
+    "gujaratiQuestion": "038. નીચેનામાંથી કયો ફેઝ નોન-મેગ્નેટિક છે?",
+    "options": [
+      "આલ્ફા-ફેરાઈટ",
+      "ઓસ્ટેનાઇટ",
+      "માર્ટેન્સાઇટ",
+      "ડેલ્ટા-ફેરાઈટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "FCC ક્રિસ્ટલ સ્ટ્રક્ચર ધરાવતો ઓસ્ટેનાઇટ (Austenite) ફેઝ સંપૂર્ણપણે બિન-ચુંબકીય (Non-magnetic) હોય છે[cite: 10]."
+  },
+  {
+    "id": 39,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "What is the solid-state transformation of Austenite into Ferrite and Cementite at 727°C called?",
+    "gujaratiQuestion": "Q39. 727°C તાપમાને ઓસ્ટેનાઈટમાંથી ફેરાઈટ અને સિમેન્ટાઈટમાં થતા રૂપાંતરને કઈ પ્રક્રિયા કહેવાય છે?",
+    "options": [
+      "પેરિટેક્ટિક",
+      "યુટેક્ટોઇડ",
+      "યુટેક્ટિક",
+      "સાયનાઈડિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એક ઘન ફેઝમાંથી બે નવા ઘન ફેઝ બનવાની પ્રક્રિયાને યુટેક્ટોઇડ પ્રક્રિયા (Eutectoid reaction) કહેવાય છે[cite: 10]."
+  },
+  {
+    "id": 40,
+    "subject": "Engineering Materials",
+    "subTopic": "Relationship Between Hardness & Material Strength",
+    "question": "What is the property of a material to resist penetration by another body called?",
+    "gujaratiQuestion": "Q40. મટિરિયલની અન્ય મટિરિયલ દ્વારા થતા પેનિટ્રેશન (ઘૂંસપેંઠ) નો પ્રતિકાર કરવાની ક્ષમતાને શું કહેવાય છે?",
+    "options": [
+      "સ્ટીફનેસ",
+      "ડક્ટિલિટી",
+      "હાર્ડનેસ",
+      "પ્લાસ્ટિસિટી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પેનિટ્રેશન કે ઇન્ડેન્ટેશનનો પ્રતિકાર કરવાની ક્ષમતા એટલે હાર્ડનેસ[cite: 10]."
+  },
+  {
+    "id": 41,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "At which carbon percentage are steels and cast irons distinguished in the Fe-C system?",
+    "gujaratiQuestion": "041. સ્ટીલ અને કાસ્ટ આયર્નને કયા કાર્બન ટકાવારીના બિંદુથી અલગ કરવામાં આવે છે?",
+    "options": [
+      "0.76%",
+      "2.14%",
+      "4.30%",
+      "6.67%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2.14% (અથવા 2.0%) થી ઓછો કાર્બન ધરાવતા એલોય સ્ટીલ અને 2.14% થી વધુ કાર્બન ધરાવતા એલોય કાસ્ટ આયર્ન કહેવાય છે[cite: 10]."
+  },
+  {
+    "id": 42,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "What is the transformation from a liquid of 4.3% C directly into Austenite and Cementite called?",
+    "gujaratiQuestion": "042. 4.3% કાર્બન ધરાવતા પ્રવાહીમાંથી સીધા ઓસ્ટેનાઈટ અને સિમેન્ટાઈટમાં થતા રૂપાંતરને શું કહે છે?",
+    "options": [
+      "યુટેક્ટોઈડ પ્રક્રિયા",
+      "પેરિટેક્ટિક પ્રક્રિયા",
+      "યુટેક્ટિક પ્રક્રિયા",
+      "સબ્લિમેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રવાહીમાંથી સીધા બે ઘન ફેઝ બનવાની પ્રક્રિયા યુટેક્ટિક પ્રક્રિયા (Eutectic reaction) છે[cite: 10]."
+  },
+  {
+    "id": 43,
+    "subject": "Engineering Materials",
+    "subTopic": "Stress-Strain Behaviour of Engineering Materials",
+    "question": "Stress concentration in a machine component is primarily produced due to:",
+    "gujaratiQuestion": "043. જ્યારે બોડી પર કયો સ્ટ્રેસ લાગે ત્યારે સ્ટ્રેસ કોન્સન્ટ્રેશન ઉત્પન્ન થાય છે?",
+    "options": [
+      "એક્સ્ટેન્સિવ સ્ટ્રેસ",
+      "નોન-યુનિફોર્મ સ્ટ્રેસ / ભૌમિતિક ફેરફાર",
+      "રિવર્સ્ડ સ્ટ્રેસ",
+      "ફ્લક્ચ્યુએટિંગ સ્ટ્રેસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ભૌમિતિક ડિસ્કન્ટીન્યુઇટી (જેમ કે હોલ, નોચ, કી-વે) આગળ લોડ લાઇન્સ વળવાથી નોન-યુનિફોર્મ સ્ટ્રેસ કોન્સન્ટ્રેશન સર્જાય છે[cite: 10]."
+  },
+  {
+    "id": 44,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "What phases are observed in the room-temperature microstructure of hypo-eutectoid steel?",
+    "gujaratiQuestion": "Q44. હાઈપો-યુટેક્ટોઈડ સ્ટીલના માઈક્રોસ્ટ્રક્ચરમાં રૂમ ટેમ્પરેચર પર શું જોવા મળે છે?",
+    "options": [
+      "માત્ર પર્લાઇટ",
+      "ફેરાઈટ અને પર્લાઇટ",
+      "સિમેન્ટાઈટ અને પર્લાઇટ",
+      "માર્ટેન્સાઇટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "0.76% કરતાં ઓછા કાર્બનવાળા હાઇપો-યુટેક્ટોઇડ સ્ટીલમાં પ્રો-યુટેક્ટોઇડ ફેરાઇટ અને પર્લાઇટનું માઇક્રોસ્ટ્રક્ચર મળે છે[cite: 10]."
+  },
+  {
+    "id": 45,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "What is the crystal structure of Delta-ferrite?",
+    "gujaratiQuestion": "Q45. ડેલ્ટા-ફેરાઈટનું ક્રિસ્ટલ સ્ટ્રક્ચર કયું છે?",
+    "options": [
+      "BCC",
+      "FCC",
+      "HCP",
+      "BCT"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ડેલ્ટા આયર્ન (1394°C થી 1538°C) બોડી-સેન્ટર્ડ ક્યુબિક (BCC) રચના ધરાવે છે[cite: 10]."
+  },
+  {
+    "id": 46,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "What is the range of carbon content in hyper-eutectoid steel?",
+    "gujaratiQuestion": "046. હાઈપર-યુટેક્ટોઈડ સ્ટીલમાં કાર્બનનું પ્રમાણ કેટલું હોય છે?",
+    "options": [
+      "0% થી 0.008%",
+      "0.008% થી 0.76%",
+      "0.76% થી 2.14%",
+      "2.14% થી 4.30%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હાઇપર-યુટેક્ટોઇડ સ્ટીલમાં કાર્બનની ટકાવારી 0.76% થી 2.14% ની વચ્ચે હોય છે[cite: 10]."
+  },
+  {
+    "id": 47,
+    "subject": "Engineering Materials",
+    "subTopic": "Ductile & Brittle Failure Mechanisms",
+    "question": "When can a normally ductile metal behave in a brittle manner?",
+    "gujaratiQuestion": "047. ટેન્શનમાં ડક્ટાઈલ હોય તેવી મેટલ ક્યારે બ્રિટલ બની શકે છે?",
+    "options": [
+      "નોચ (notches) ની હાજરીમાં",
+      "હાઇડ્રોસ્ટેટિક કમ્પ્રેશન હેઠળ",
+      "હાઇડ્રોજન જેવા એમ્બ્રિટલમેન્ટ એજન્ટ્સની હાજરીમાં",
+      "આ તમામ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "તીક્ષ્ણ નોચની હાજરી, ટ્રાય-એક્સિયલ ટેન્શન, નીચું તાપમાન અને ઊંચો સ્ટ્રેઇન રેટ ડક્ટાઇલ મેટલને પણ બ્રિટલ બનાવી શકે છે[cite: 10]."
+  },
+  {
+    "id": 48,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "What is the rapid cooling of steel in water or oil from austenitizing temperature called?",
+    "gujaratiQuestion": "Q48. હાર્ડનિંગ પ્રક્રિયામાં સ્ટીલને પાણી કે તેલમાં અચાનક ઠંડુ પાડવાની ક્રિયાને શું કહે છે?",
+    "options": [
+      "ઍનીલિંગ",
+      "નોર્મલાઈઝિંગ",
+      "ક્વેન્ચિંગ",
+      "ટેમ્પરિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્ટીલને ઝડપથી ઠંડુ પાડવાની પ્રક્રિયાને ક્વેન્ચિંગ (Quenching) કહેવાય છે[cite: 10]."
+  },
+  {
+    "id": 49,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "Where is steel cooled in the normalizing heat treatment process?",
+    "gujaratiQuestion": "049. નોર્મલાઇઝિંગ પ્રક્રિયામાં સ્ટીલને ક્યાં ઠંડુ પાડવામાં આવે છે?",
+    "options": [
+      "ફર્નેસમાં",
+      "તેલમાં",
+      "સ્થિર હવામાં",
+      "પાણીમાં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "નોર્મલાઇઝિંગમાં સ્ટીલને ઓરડાના તાપમાને સ્થિર હવામાં (Still air) ઠંડુ કરવામાં આવે છે[cite: 10]."
+  },
+  {
+    "id": 50,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Silicon steel is widely used in which industry?",
+    "gujaratiQuestion": "050. સિલિકોન સ્ટીલનો વ્યાપકપણે ઉપયોગ શેમાં થાય છે?",
+    "options": [
+      "કટિંગ ટૂલ્સ",
+      "કનેક્ટિંગ રોડ્સ",
+      "ઈલેક્ટ્રિક ઇન્ડસ્ટ્રી (ટ્રાન્સફોર્મર/મોટર કોર)",
+      "કેમિકલ ઇન્ડસ્ટ્રી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સિલિકોન સ્ટીલ ઓછો હિસ્ટરીસીસ લોસ અને ઊંચી પરમીએબિલિટી ધરાવતું હોવાથી ટ્રાન્સફોર્મર અને ઇલેક્ટ્રિક મોટર કોર બનાવવા વપરાય છે[cite: 10]."
+  },
+  {
+    "id": 51,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "Which heat treatment is used to soften steel for machining and relieve internal stresses?",
+    "gujaratiQuestion": "Q51. સ્ટીલને મશીનિંગ માટે નરમ બનાવવા અને આંતરિક સ્ટ્રેસ દૂર કરવા કઈ હીટ ટ્રીટમેન્ટ વપરાય છે?",
+    "options": [
+      "હાર્ડનિંગ",
+      "ઍનીલિંગ",
+      "સાયનાઈડિંગ",
+      "નાઈટ્રાઈડિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફુલ એનીલિંગ સ્ટીલની ડક્ટિલિટી વધારે છે, હાર્ડનેસ ઘટાડે છે અને આંતરિક સ્ટ્રેસ દૂર કરે છે[cite: 10]."
+  },
+  {
+    "id": 52,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "What is the cooling rate of steel in full annealing?",
+    "gujaratiQuestion": "052. ઍનીલિંગ પ્રક્રિયામાં સ્ટીલનો કૂલિંગ રેટ કેવો હોય છે?",
+    "options": [
+      "ખૂબ જ ઝડપી",
+      "મધ્યમ",
+      "હવામાં ધીમો",
+      "ફર્નેસમાં ખૂબ જ ધીમો"
+    ],
+    "correctAnswer": 3,
+    "explanation": "એનીલિંગમાં સ્ટીલને ભઠ્ઠીની અંદર જ સ્વીચ ઓફ કરીને અત્યંત ધીમે ધીમે (Furnace cooling) ઠંડુ થવા દેવાય છે[cite: 10]."
+  },
+  {
+    "id": 53,
+    "subject": "Engineering Materials",
+    "subTopic": "Fracture Mechanics",
+    "question": "If a surface crack causing fracture in a brittle material is made twice as deep, the fracture strength will:",
+    "gujaratiQuestion": "053. જો બ્રિટલ મટિરિયલમાં ફ્રેક્ચરનું કારણ બનતી સરફેસ ક્રેક બમણી ઊંડી (twice as deep) કરવામાં આવે, તો ફ્રેક્ચર સ્ટ્રેન્થઃ",
+    "options": [
+      "√2 ના ફેક્ટરથી ઘટશે",
+      "2 ના ફેક્ટરથી ઘટશે",
+      "1/2 ના ફેક્ટરથી ઘટશે",
+      "કોઈ ફેરફાર નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ગ્રિફિથના સૂત્ર મુજબ ફ્રેક્ચર સ્ટ્રેન્થ σ_f ∝ 1/√(a) થાય. ક્રેક લંબાઈ 2a કરતાં તાકાત 1/√2 ના ફેક્ટરથી ઘટશે[cite: 10]."
+  },
+  {
+    "id": 54,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "How is Martensite formed in carbon steel?",
+    "gujaratiQuestion": "Q54. સ્ટીલમાં માર્ટેન્સાઈટ કઈ રીતે બને છે?",
+    "options": [
+      "ધીમા કૂલિંગથી",
+      "ફર્નેસ કૂલિંગથી",
+      "રેપિડ ક્વેન્ચિંગથી",
+      "એર કૂલિંગથી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઓસ્ટેનાઇટનું ક્રિટિકલ કૂલિંગ રેટ કરતાં ઝડપી ક્વેન્ચિંગ (Rapid quenching) કરતાં ડિફ્યુઝન વગર માર્ટેનસાઇટ બને છે[cite: 10]."
+  },
+  {
+    "id": 55,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "Which heat treatment is performed after hardening to reduce brittleness and increase toughness?",
+    "gujaratiQuestion": "Q55. હાર્ડનિંગ કર્યા પછી સ્ટીલની બરડતા ઘટાડવા અને ટફનેસ વધારવા માટે કઈ હીટ ટ્રીટમેન્ટ કરવામાં આવે છે?",
+    "options": [
+      "ટેમ્પરિંગ",
+      "એનીલિંગ",
+      "નોર્મલાઇઝિંગ",
+      "કાર્બ્યુરાઇઝિંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "હાર્ડનિંગ પછી ટેમ્પરિંગ (Tempering) કરવાથી માર્ટેનસાઇટની બરડતા ઘટે છે અને ટફનેસ વધે છે[cite: 10]."
+  },
+  {
+    "id": 56,
+    "subject": "Engineering Materials",
+    "subTopic": "Fracture Mechanics",
+    "question": "Plane strain fracture toughness (K_IC) generally decreases with:",
+    "gujaratiQuestion": "Q56. ફ્રેક્ચર ટફનેસ (K_IC) શેના કારણે ઘટે છે?",
+    "options": [
+      "ટેમ્પરેચર વધવાથી",
+      "સ્ટ્રેઇન રેટ વધવાથી (અથવા યીલ્ડ સ્ટ્રેન્થ વધવાથી)",
+      "યીલ્ડ સ્ટ્રેન્થ વધવાથી",
+      "ગ્રેઈન સાઈઝ વધવાથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટ્રેઇન રેટ વધવાથી અથવા તાપમાન ઘટવાથી પ્લાસ્ટિક ડિફોર્મેશન ઘટે છે, જેથી ફ્રેક્ચર ટફનેસ ઘટે છે[cite: 10]."
+  },
+  {
+    "id": 57,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "What is the full form of TTT diagram?",
+    "gujaratiQuestion": "057. TTT ડાયાગ્રામનું પૂરું નામ શું છે?",
+    "options": [
+      "ટાઈમ-ટેન્શન-ટ્રાન્સફોર્મેશન",
+      "ટાઈમ-ટેમ્પરેચર-ટ્રાન્સફોર્મેશન",
+      "ટેમ્પરેચર-ટાઈમ-ટેસ્ટિંગ",
+      "ટ્રાન્સફોર્મેશન-ટાઈમ-ટેમ્પરેચર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TTT એટલે Time-Temperature-Transformation ડાયાગ્રામ (આઇસોથર્મલ ટ્રાન્સફોર્મેશન કર્વ)[cite: 10]."
+  },
+  {
+    "id": 58,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "What is the final microstructural product of the Austempering process?",
+    "gujaratiQuestion": "058. ઓસ્ટેમ્પરિંગ પ્રક્રિયાનું અંતિમ પ્રોડક્ટ શું છે?",
+    "options": [
+      "માર્ટેન્સાઇટ",
+      "પર્લાઇટ",
+      "બેનાઈટ",
+      "સિમેન્ટાઈટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઓસ્ટેમ્પરિંગમાં આઇસોથર્મલ ક્વેન્ચિંગ કરવાથી ઉચ્ચ ટફનેસ ધરાવતું બેનાઇટ (Bainite) માઇક્રોસ્ટ્રક્ચર મળે છે[cite: 10]."
+  },
+  {
+    "id": 59,
+    "subject": "Engineering Materials",
+    "subTopic": "Static Failure Theories",
+    "question": "Which laboratory test is conducted to determine the shear strength parameters 'c' and 'φ' of soil/materials?",
+    "gujaratiQuestion": "Q59. માટી (soil) ના શિયર સ્ટ્રેન્થ પેરામીટર્સ 'c' અને 'φ' નક્કી કરવા માટે લેબોરેટરીમાં કયો ટેસ્ટ કરવામાં આવે છે?",
+    "options": [
+      "ટ્રાઈ-એક્સિયલ કમ્પ્રેશન ટેસ્ટ",
+      "એટ્ટરબર્ગ લિમિટ ટેસ્ટ",
+      "પ્રોક્ટર કોમ્પેક્શન ટેસ્ટ",
+      "રિલેટિવ ડેન્સિટી ટેસ્ટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મોહર-કૂલમ્બ શીયર સ્ટ્રેન્થ પેરામીટર્સ (કોહેઝન c અને ફ્રિક્શન એંગલ φ) ટ્રાય-એક્સિયલ કમ્પ્રેશન ટેસ્ટ દ્વારા નક્કી કરાય છે[cite: 10]."
+  },
+  {
+    "id": 60,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "What is the crystal structure of Martensite?",
+    "gujaratiQuestion": "060. માર્ટેન્સાઇટનું ક્રિસ્ટલ સ્ટ્રક્ચર કયું હોય છે?",
+    "options": [
+      "BCC",
+      "FCC",
+      "BCT",
+      "HCP"
+    ],
+    "correctAnswer": 2,
+    "explanation": "માર્ટેનસાઇટ એ બોડી-સેન્ટર્ડ ટેટ્રાગોનલ (BCT) ક્રિસ્ટલ સ્ટ્રક્ચર ધરાવતો અતિ-સંતૃપ્ત ઘન દ્રાવણ ફેઝ છે[cite: 10]."
+  },
+  {
+    "id": 61,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "In which heat treatment does the steel component retain a hard outer wear-resistant surface and a tough soft core?",
+    "gujaratiQuestion": "061. કઈ હીટ ટ્રીટમેન્ટમાં સ્ટીલની સપાટી હાર્ડ અને અંદરનો ભાગ નરમ રહે છે?",
+    "options": [
+      "કેસ હાર્ડનિંગ (સરફેસ હાર્ડનિંગ)",
+      "ઍનીલિંગ",
+      "માર્ટેમ્પરિંગ",
+      "નોર્મલાઈઝિંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કેસ હાર્ડનિંગ (કાર્બ્યુરાઇઝિંગ/નાઇટ્રાઇડિંગ) સપાટી પર હાર્ડ કેસ અને અંદર ટફ ડક્ટાઇલ કોર બનાવે છે[cite: 10]."
+  },
+  {
+    "id": 62,
+    "subject": "Engineering Materials",
+    "subTopic": "Static Failure Theories",
+    "question": "According to the Mohr-Coulomb failure criterion, which stress has NO effect on material strength?",
+    "gujaratiQuestion": "062. નીચેનામાંથી કયો સ્ટ્રેસ મટિરિયલની સ્ટ્રેન્થ પર કોઈ પ્રભાવ પાડતો નથી?",
+    "options": [
+      "મેજર પ્રિન્સિપલ સ્ટ્રેસ (σ1)",
+      "માઈનોર પ્રિન્સિપલ સ્ટ્રેસ (σ3)",
+      "ઈન્ટરમીડિએટ પ્રિન્સિપલ સ્ટ્રેસ (σ2)",
+      "શિયરિંગ સ્ટ્રેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મોહર-કૂલમ્બ અને ટ્રેસ્કા થિયરીમાં મધ્યવર્તી પ્રિન્સિપલ સ્ટ્રેસ (σ2) ફેલ્યોર ક્રાઇટેરિયા પર કોઈ અસર કરતો નથી[cite: 10]."
+  },
+  {
+    "id": 63,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "Which gas is commonly used in the gas nitriding process for case hardening of steel?",
+    "gujaratiQuestion": "Q63. નાઈટ્રાઇડિંગ પ્રક્રિયામાં કેસ હાર્ડનિંગ માટે કયા ગેસનો ઉપયોગ થાય છે?",
+    "options": [
+      "ઓક્સિજન",
+      "નાઈટ્રોજન",
+      "એમોનિયા (NH3)",
+      "હાઇડ્રોજન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "નાઇટ્રાઇડિંગમાં 500°C પર એમોનિયા વાયુનું વિભાજન (2NH3 -> 2N + 3H2) કરાવી એટોમિક નાઇટ્રોજન સ્ટીલની સપાટીમાં ડિફ્યુઝ કરાય છે[cite: 10]."
+  },
+  {
+    "id": 64,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "To obtain 100% martensite in steel, the cooling curve must pass:",
+    "gujaratiQuestion": "064. સ્ટીલમાં 100% માર્ટેન્સાઇટ મેળવવા કૂલિંગ કર્વ TTT ડાયાગ્રામની નોઝની કઈ બાજુથી પસાર થવો જોઈએ?",
+    "options": [
+      "જમણી બાજુ",
+      "ડાબી બાજુ (Left of the nose)",
+      "નોઝની બરાબર વચ્ચેથી",
+      "ગમે ત્યાંથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પર્લાઇટ ટ્રાન્સફોર્મેશન ટાળવા કૂલિંગ કર્વ ક્રિટિકલ કૂલિંગ રેટથી વધુ ઝડપી હોવો જોઈએ એટલે કે નોઝની ડાબી બાજુથી પસાર થવો જોઈએ[cite: 10]."
+  },
+  {
+    "id": 65,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "What is an isotropic material?",
+    "gujaratiQuestion": "065. આઈસોટ્રોપિક મટિરિયલ્સ એટલે એવા મટિરિયલ્સ કે...",
+    "options": [
+      "બધી દિશાઓમાં ઇલાસ્ટિક પ્રોપર્ટીઝ સમાન હોય",
+      "બધી દિશાઓમાં ઉત્પન્ન થતા સ્ટ્રેસ સમાન હોય",
+      "બધી દિશાઓમાં થર્મલ પ્રોપર્ટીઝ સમાન હોય",
+      "ડેન્સિટી બધે જ સમાન હોય"
+    ],
+    "correctAnswer": 0,
+    "explanation": "જે મટિરિયલના કોઈપણ બિંદુએ તમામ દિશાઓમાં ઇલાસ્ટિક ગુણધર્મો એકસમાન હોય તેને આઇસોટ્રોપિક (Isotropic) કહે છે[cite: 10]."
+  },
+  {
+    "id": 66,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "Carburizing is mainly performed on which type of steel?",
+    "gujaratiQuestion": "066. કાર્બ્યુરાઇઝિંગ પ્રક્રિયા મુખ્યત્વે કયા પ્રકારના સ્ટીલ માટે કરવામાં આવે છે?",
+    "options": [
+      "હાઈ કાર્બન સ્ટીલ",
+      "મિડિયમ કાર્બન સ્ટીલ",
+      "લો કાર્બન સ્ટીલ (0.1% થી 0.2% C)",
+      "સ્ટેનલેસ સ્ટીલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લો કાર્બન સ્ટીલ (0.15% C) ની સપાટી પર કાર્બનનું પ્રમાણ વધારીને હાર્ડ બનાવવા કાર્બ્યુરાઇઝિંગ વપરાય છે[cite: 10]."
+  },
+  {
+    "id": 67,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "During cyaniding, which elements are absorbed by the steel surface?",
+    "gujaratiQuestion": "067. સાયનાઈડિંગ પ્રક્રિયા દરમિયાન સપાટી પર શેનું શોષણ થાય છે?",
+    "options": [
+      "માત્ર કાર્બન",
+      "માત્ર નાઈટ્રોજન",
+      "કાર્બન અને નાઈટ્રોજન બંને",
+      "ઓક્સિજન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લિક્વિડ સોડિયમ સાયનાઇડ બાથમાં સ્ટીલની સપાટી પર કાર્બન અને નાઇટ્રોજન બંનેનું શોષણ થાય છે[cite: 10]."
+  },
+  {
+    "id": 68,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "Delta iron exists in which temperature range?",
+    "gujaratiQuestion": "Q68. ડેલ્ટા આયર્ન કઈ ટેમ્પરેચર રેન્જમાં જોવા મળે છે?",
+    "options": [
+      "400°C અને 600°C ની વચ્ચે",
+      "600°C અને 900°C ની વચ્ચે",
+      "900°C અને 1400°C ની વચ્ચે",
+      "1400°C અને 1539°C ની વચ્ચે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ડેલ્ટા આયર્ન (BCC) 1394°C (લગભગ 1400°C) થી તેના ગલનબિંદુ 1538°C સુધી અસ્તિત્વ ધરાવે છે[cite: 10]."
+  },
+  {
+    "id": 69,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "What is the primary objective of the Martempering (Marquenching) process?",
+    "gujaratiQuestion": "Q69. માર્ટેમ્પરિંગનો મુખ્ય હેતુ શું છે?",
+    "options": [
+      "સ્ટીલને નરમ બનાવવો",
+      "ક્વેન્ચિંગ ક્રેક અને ડિસ્ટોર્શન અટકાવવું",
+      "મશીનિબિલિટી વધારવી",
+      "કોરોઝન રેઝિસ્ટન્સ વધારવો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "માર્ટેમ્પરિંગમાં Ms ટેમ્પરેચરથી સહેજ ઉપર હોલ્ડ કરીને થર્મલ ગ્રેડિયન્ટ દૂર કરાય છે જેથી ક્રેકિંગ અને ડિસ્ટોર્શન અટકે છે[cite: 10]."
+  },
+  {
+    "id": 70,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "Flame hardening and Induction hardening belong to which category of heat treatment?",
+    "gujaratiQuestion": "Q70. ફ્લેમ હાર્ડનિંગ અને ઇન્ડક્શન હાર્ડનિંગ કયા પ્રકારની પ્રક્રિયા છે?",
+    "options": [
+      "સરફેસ હાર્ડનિંગ",
+      "ફૂલ એનીલિંગ",
+      "પ્રોસેસ એનીલિંગ",
+      "ટેમ્પરિંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ફ્લેમ અને ઇન્ડક્શન હાર્ડનિંગ એ રાસાયણિક ફેરફાર વગર માત્ર સપાટી ગરમ કરી ક્વેન્ચ કરતી સરફેસ હાર્ડનિંગ પદ્ધતિઓ છે[cite: 10]."
+  },
+  {
+    "id": 71,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "When a material behaves elastically, what is the relation between stress and strain?",
+    "gujaratiQuestion": "Q71. જ્યારે મટિરિયલ ઇલાસ્ટિકલી વર્તે (behaves) છે, ત્યારે સ્ટ્રેસ અને સ્ટ્રેઈન વચ્ચેનો સંબંધ શું હોય છે?",
+    "options": [
+      "સ્ટ્રેસ એ સ્ટ્રેઈનના વ્યસ્ત પ્રમાણમાં હોય છે",
+      "સ્ટ્રેસ એ સ્ટ્રેઈનના વર્ગના વ્યસ્ત પ્રમાણમાં હોય છે",
+      "સ્ટ્રેસ એ સ્ટ્રેઈનના સમપ્રમાણમાં (directly proportional) હોય છે",
+      "સ્ટ્રેસ એ સ્ટ્રેઈનના વર્ગના સમપ્રમાણમાં હોય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હૂકના નિયમ મુજબ ઇલાસ્ટિક લિમિટની અંદર સ્ટ્રેસ એ સ્ટ્રેઇનના સીધા સમપ્રમાણમાં (σ ∝ ε) હોય છે[cite: 10]."
+  },
+  {
+    "id": 72,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "In a TTT diagram, isothermal transformation of austenite between 550°C and 250°C yields:",
+    "gujaratiQuestion": "Q72. TTT ડાયાગ્રામમાં 550°C થી 250°C તાપમાન વચ્ચે ઓસ્ટેનાઈટનું રૂપાંતર કયા ફેઝમાં થાય છે?",
+    "options": [
+      "પર્લાઇટ",
+      "માર્ટેન્સાઇટ",
+      "બેનાઈટ",
+      "ફેરાઈટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "550°C થી 250°C વચ્ચે ઓસ્ટેનાઇટનું રૂપાંતર બેનાઇટ (અપર અને લોઅર બેનાઇટ) માં થાય છે[cite: 10]."
+  },
+  {
+    "id": 73,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "If hypo-eutectoid steel is very slowly furnace-cooled during full annealing, what microstructure is formed?",
+    "gujaratiQuestion": "Q73. જો હાઈપો-યુટેક્ટોઈડ સ્ટીલને ઍનીલિંગ પ્રક્રિયામાં ફર્નેસમાં ધીમે ધીમે ઠંડુ કરવામાં આવે, તો તેનું માઈક્રોસ્ટ્રક્ચર કેવું બને છે?",
+    "options": [
+      "ફાઈન પર્લાઇટ",
+      "કોર્સ પર્લાઇટ અને પ્રો-યુટેક્ટોઇડ ફેરાઇટ",
+      "બેનાઈટ",
+      "માર્ટેન્સાઇટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અત્યંત ધીમા ફર્નેસ કૂલિંગથી કાર્બનનું પૂર્ણ ડિફ્યુઝન થતાં કોર્સ પર્લાઇટ (Coarse pearlite) અને ફેરાઇટ બને છે[cite: 10]."
+  },
+  {
+    "id": 74,
+    "subject": "Engineering Materials",
+    "subTopic": "Ductile & Brittle Failure Mechanisms",
+    "question": "In a uniaxial compression test of a brittle cast iron specimen, fracture occurs along:",
+    "gujaratiQuestion": "074. કમ્પ્રેશન ટેસ્ટમાં, કાસ્ટ આયર્નના સ્પેસિમેનમાં ફ્રેક્ચર ક્યાં થશે?",
+    "options": [
+      "ત્રાંસા સમતલ પર (An oblique plane at ~45°)",
+      "લોડની એક્સિસ પર",
+      "લોડની ઍક્સિસને લંબ રૂપે",
+      "ફ્રેક્ચર થશે નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કમ્પ્રેશનમાં કાસ્ટ આયર્ન મહત્તમ શીયર સ્ટ્રેસના કારણે લગભગ 45° ના ઓબ્લિક પ્લેન પર શિયરિંગથી ફેલ થાય છે[cite: 10]."
+  },
+  {
+    "id": 75,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "Up to which point on the engineering stress-strain curve is Hooke's law strictly valid?",
+    "gujaratiQuestion": "075. હૂક્સ લૉ સ્ટ્રેસ-સ્ટ્રેન ડાયાગ્રામમાં કયા પોઈન્ટ સુધી લાગુ પડે છે?",
+    "options": [
+      "યિલ્ડ પોઈન્ટ",
+      "ઇલાસ્ટિક લિમિટ",
+      "પ્રોપોર્શનલ લિમિટ",
+      "અલ્ટિમેટ પોઈન્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હૂકનો નિયમ (લીનિયર રેખીય સંબંધ) પ્રોપોર્શનલ લિમિટ (Limit of Proportionality) સુધી જ સખત રીતે લાગુ પડે છે[cite: 10]."
+  },
+  {
+    "id": 76,
+    "subject": "Engineering Materials",
+    "subTopic": "Stress-Strain Behaviour of Engineering Materials",
+    "question": "Beyond which point on the stress-strain diagram does permanent plastic deformation begin?",
+    "gujaratiQuestion": "Q76. સ્ટ્રેસ-સ્ટ્રેન ડાયાગ્રામમાં કયા પોઈન્ટ પછી મટિરિયલમાં કાયમી પ્લાસ્ટિક ડિફોર્મેશન શરૂ થાય છે?",
+    "options": [
+      "પ્રોપોર્શનલ લિમિટ",
+      "ઇલાસ્ટિક લિમિટ",
+      "અલ્ટિમેટ પોઈન્ટ",
+      "બ્રેકિંગ પોઇન્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇલાસ્ટિક લિમિટ (Elastic Limit) સુધી લોડ હટાવતાં મટિરિયલ મૂળ આકાર પાછો મેળવે છે, પરંતુ આ લિમિટ વટાવ્યા પછી કાયમી પ્લાસ્ટિક ડિફોર્મેશન શરૂ થાય છે."
+  },
+  {
+    "id": 77,
+    "subject": "Engineering Materials",
+    "subTopic": "Stress-Strain Behaviour of Engineering Materials",
+    "question": "Which of the following stresses on an inclined plane can be determined using Mohr's circle?",
+    "gujaratiQuestion": "Q77. ઢાળવાળી સપાટી (inclined surface) પર નીચેનામાંથી કયો સ્ટ્રેસ નક્કી કરવા માટે મોહરના સર્કલ (Mohr's circle) નો ઉપયોગ કરી શકાય છે?",
+    "options": [
+      "પ્રિન્સિપલ સ્ટ્રેસ",
+      "નોર્મલ સ્ટ્રેસ",
+      "ટેન્જેન્શિયલ સ્ટ્રેસ",
+      "ઉપરના તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "મોહર્સ સર્કલ (Mohr's Circle) ની મદદથી કોઈપણ ઢાળવાળા સમતલ પર નોર્મલ સ્ટ્રેસ, ટેન્જેન્શિયલ (શીયર) સ્ટ્રેસ તેમજ પ્રિન્સિપલ સ્ટ્રેસીસ ગ્રાફિકલી મેળવી શકાય છે."
+  },
+  {
+    "id": 78,
+    "subject": "Engineering Materials",
+    "subTopic": "Stress-Strain Behaviour of Engineering Materials",
+    "question": "The point at which there is an appreciable increase in strain without any corresponding increase in load is called:",
+    "gujaratiQuestion": "Q78. જે પોઈન્ટ પર લોડ વધાર્યા વિના સ્ટ્રેનમાં નોંધપાત્ર વધારો થાય તેને શું કહે છે?",
+    "options": [
+      "યિલ્ડ પોઇન્ટ",
+      "રપ્ચર પોઈન્ટ",
+      "અલ્ટિમેટ પોઈન્ટ",
+      "પ્રોપોર્શનલ લિમિટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "યીલ્ડ પોઇન્ટ (Yield Point) આગળ મટિરિયલમાં બળ વધાર્યા વગર જ પ્લાસ્ટિક ફ્લો થવાને કારણે સ્ટ્રેનમાં નોંધપાત્ર વધારો જોવા મળે છે."
+  },
+  {
+    "id": 79,
+    "subject": "Engineering Materials",
+    "subTopic": "Stress-Strain Behaviour of Engineering Materials",
+    "question": "In the stress-strain diagram of a ductile material, at which point is the maximum engineering stress value obtained?",
+    "gujaratiQuestion": "Q79. ડક્ટાઈલ મટિરિયલના સ્ટ્રેસ-સ્ટ્રેન ડાયાગ્રામમાં મેક્સિમમ સ્ટ્રેસની વેલ્યુ કયા પોઈન્ટ પર મળે છે?",
+    "options": [
+      "અપર યિલ્ડ પોઇન્ટ",
+      "લોઅર યિલ્ડ પોઇન્ટ",
+      "અલ્ટિમેટ પોઈન્ટ",
+      "રપ્ચર પોઈન્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "અલ્ટિમેટ ટેન્સાઈલ સ્ટ્રેન્થ પોઇન્ટ (UTS) એ કન્વેન્શનલ સ્ટ્રેસ-સ્ટ્રેન વક્ર પર મળતો સર્વોચ્ચ સ્ટ્રેસ પોઇન્ટ છે."
+  },
+  {
+    "id": 80,
+    "subject": "Engineering Materials",
+    "subTopic": "Stress-Strain Behaviour of Engineering Materials",
+    "question": "Compared to a gradually applied load, the stress induced during sudden impact loading is approximately:",
+    "gujaratiQuestion": "Q80. ગ્રેજ્યુઅલી લાગુ કરેલા લોડની સરખામણીમાં ઈમ્પેક્ટ લોડિંગ દરમિયાન ઉત્પન્ન થતો સ્ટ્રેસ કેટલો હોય છે?",
+    "options": [
+      "1.5 ગણો",
+      "2 ગણો",
+      "2.5 ગણો",
+      "3 ગણો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અચાનક લાગુ કરેલા (સડન/ઇમ્પેક્ટ) લોડ હેઠળ ઉત્પન્ન થતો સ્ટ્રેસ ધીમેથી લાગુ કરેલા ગ્રેજ્યુઅલ લોડ કરતાં બમણો (2 ગણો) હોય છે (σ_impact = 2 × σ_gradual)."
+  },
+  {
+    "id": 81,
+    "subject": "Engineering Materials",
+    "subTopic": "Stress-Strain Behaviour of Engineering Materials",
+    "question": "During a tensile test of ductile metal, after which point does the necking process begin?",
+    "gujaratiQuestion": "Q81. ટેન્સાઈલ ટેસ્ટ દરમિયાન મટિરિયલમાં નેકિંગ પ્રક્રિયા કયા પોઈન્ટ પછી શરૂ થાય છે?",
+    "options": [
+      "યિલ્ડ પોઈન્ટ",
+      "અલ્ટિમેટ પોઈન્ટ",
+      "પ્રોપોર્શનલ લિમિટ",
+      "બ્રેકિંગ પોઈન્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અલ્ટિમેટ પોઇન્ટ (UTS) સુધી યુનિફોર્મ પ્લાસ્ટિક એક્સટેન્શન થાય છે, ત્યારબાદ સ્થાનિક ક્રોસ-સેક્શનલ ઘટાડો એટલે કે નેકિંગ (Necking) શરૂ થાય છે."
+  },
+  {
+    "id": 82,
+    "subject": "Engineering Materials",
+    "subTopic": "Stress-Strain Behaviour of Engineering Materials",
+    "question": "Which of the following materials does NOT show a well-defined yield point in its stress-strain curve?",
+    "gujaratiQuestion": "Q82. નીચેનામાંથી કયા મટિરિયલના સ્ટ્રેસ-સ્ટ્રેન ડાયાગ્રામમાં યિલ્ડ પોઈન્ટ સ્પષ્ટ જોવા મળતો નથી?",
+    "options": [
+      "માઈલ્ડ સ્ટીલ",
+      "એલ્યુમિનિયમ",
+      "કોપર",
+      "કાસ્ટ આયર્ન"
+    ],
+    "correctAnswer": 3,
+    "explanation": "કાસ્ટ આયર્ન જેવું બ્રિટલ મટિરિયલ કોઈપણ સ્પષ્ટ યીલ્ડ પોઇન્ટ દર્શાવ્યા વિના સીધું જ અલ્ટિમેટ સ્ટ્રેન્થ પર બ્રેક થઈ જાય છે."
+  },
+  {
+    "id": 83,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "The property of a material to resist fracture caused by high impact loading is called:",
+    "gujaratiQuestion": "Q83. મટિરિયલનો એવો ગુણધર્મ કે જે હાઈ ઈમ્પેક્ટ લોડને કારણે થતા ફ્રેક્ચરનો પ્રતિકાર કરે છે, તેને શું કહેવાય છે?",
+    "options": [
+      "ટફનેસ",
+      "એન્ડ્યોરન્સ",
+      "સ્ટ્રેન્થ",
+      "ઈલાસ્ટિસિટી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આંચકાજનક અથવા હાઇ ઇમ્પેક્ટ લોડ સામે તૂટ્યા વગર એનર્જી શોષવાની ક્ષમતાને ટફનેસ (Toughness) કહે છે."
+  },
+  {
+    "id": 84,
+    "subject": "Engineering Materials",
+    "subTopic": "Stress-Strain Behaviour of Engineering Materials",
+    "question": "Which cross-sectional area is considered while calculating Engineering Stress?",
+    "gujaratiQuestion": "Q84. એન્જિનિયરિંગ સ્ટ્રેસની ગણતરી કરતી વખતે કયો એરિયા ધ્યાનમાં લેવામાં આવે છે?",
+    "options": [
+      "ઓરિજિનલ ક્રોસ-સેક્શન એરિયા",
+      "ફાઈનલ ક્રોસ-સેક્શન એરિયા",
+      "નેક એરિયા",
+      "તૂટ્યા પછીનો એરિયા"
+    ],
+    "correctAnswer": 0,
+    "explanation": "એન્જિનિયરિંગ સ્ટ્રેસ (Nominal stress) ની ગણતરીમાં તાત્ક્ષણિક એરિયાને બદલે ટેસ્ટ પીસનો મૂળ ક્રોસ-સેક્શનલ એરિયા (Original Area A₀) લેવાય છે."
+  },
+  {
+    "id": 85,
+    "subject": "Engineering Materials",
+    "subTopic": "Stress-Strain Behaviour of Engineering Materials",
+    "question": "In a tensile test of a ductile material, at which point is the applied tensile load maximum?",
+    "gujaratiQuestion": "Q85. ડક્ટાઈલ મટિરિયલ માટે ટેન્સાઈલ ટેસ્ટમાં કયા પોઈન્ટ પર લોડ સૌથી વધુ હોય છે?",
+    "options": [
+      "યિલ્ડ પોઈન્ટ",
+      "અલ્ટિમેટ પોઇન્ટ",
+      "બ્રેકિંગ પોઈન્ટ",
+      "ઇલાસ્ટિક લિમિટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટેન્સાઇલ ટેસ્ટ દરમિયાન સ્પેસિમેન દ્વારા વહન કરવામાં આવતો મહત્તમ લોડ અલ્ટિમેટ પોઇન્ટ (UTS) આગળ નોંધાય છે."
+  },
+  {
+    "id": 86,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "If a material fails below its yield point under repeated cyclic loading, the failure is due to:",
+    "gujaratiQuestion": "Q86. જો કોઈ મટિરિયલ તેના યીલ્ડ પોઈન્ટની નીચે ફેલ થાય, તો તે ફેલ્યોર શેના કારણે હશે?",
+    "options": [
+      "સ્ટ્રેઇનિંગ",
+      "ફટીગ (Fatigue)",
+      "ક્રીપ",
+      "સડન લોડિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ચક્રીય અથવા ફ્લક્ચ્યુએટિંગ લોડિંગ હેઠળ યીલ્ડ પોઇન્ટ કરતાં ઘણા ઓછા સ્ટ્રેસ લેવલે થતા ફેલ્યોરને ફટીગ ફેલ્યોર (Fatigue failure) કહે છે."
+  },
+  {
+    "id": 87,
+    "subject": "Engineering Materials",
+    "subTopic": "Stress-Strain Behaviour of Engineering Materials",
+    "question": "Which region is practically absent in the stress-strain curve of a brittle material?",
+    "gujaratiQuestion": "Q87. બ્રિટલ મટિરિયલના સ્ટ્રેસ-સ્ટ્રેન કર્વમાં કયો રીજિયન લગભગ ગેરહાજર હોય છે?",
+    "options": [
+      "ઇલાસ્ટિક રીજિયન",
+      "પ્લાસ્ટિક રીજિયન",
+      "પ્રોપોર્શનલ રીજિયન",
+      "લીનિયર રીજિયન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બ્રિટલ મટિરિયલ્સ પ્લાસ્ટિક ડિફોર્મેશન દર્શાવ્યા વિના સીધા જ તૂટી જતાં હોવાથી તેમાં પ્લાસ્ટિક રીજિયન ગેરહાજર હોય છે."
+  },
+  {
+    "id": 88,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "The ratio of normal stress to longitudinal normal strain within the elastic limit is called:",
+    "gujaratiQuestion": "Q88. નોર્મલ સ્ટ્રેસ અને નોર્મલ સ્ટ્રેનના ગુણોત્તરને શું કહેવાય છે?",
+    "options": [
+      "શીયર મોડ્યુલસ",
+      "બલ્ક મોડ્યુલસ",
+      "યંગ્સ મોડ્યુલસ",
+      "પોઈસન રેશિયો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇલાસ્ટિક મર્યાદામાં નોર્મલ સ્ટ્રેસ (σ) અને લીનિયર સ્ટ્રેઇન (ε) નો ગુણોત્તર યંગ્સ મોડ્યુલસ (E = σ/ε) કહેવાય છે."
+  },
+  {
+    "id": 89,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "What is the SI unit of Young's Modulus (Modulus of Elasticity)?",
+    "gujaratiQuestion": "Q89. યંગ્સ મોડ્યુલસનો SI એકમ શું છે?",
+    "options": [
+      "N/m",
+      "N/m² (Pascal)",
+      "N·m",
+      "J/m³"
+    ],
+    "correctAnswer": 1,
+    "explanation": "યંગ્સ મોડ્યુલસનો SI એકમ N/m² અથવા પાસ્કલ (Pa) છે (સ્ટ્રેઇન પરિમાણરહિત હોવાથી સ્ટ્રેસ જેવો જ એકમ રહે છે)."
+  },
+  {
+    "id": 90,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "By performing cold working on a metal, its fatigue strength:",
+    "gujaratiQuestion": "Q90. કોલ્ડ વર્કિંગ કરવાથી...",
+    "options": [
+      "ફટીગ સ્ટ્રેન્થ વધે છે",
+      "ફટીગ સ્ટ્રેન્થ ઘટે છે",
+      "ફટીગ સ્ટ્રેન્થ પર કોઈ પ્રભાવ પડતો નથી",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કોલ્ડ વર્કિંગ સપાટી પર કોમ્પ્રેસિવ રેસિડ્યુઅલ સ્ટ્રેસીસ પેદા કરે છે અને યીલ્ડ સ્ટ્રેન્થ વધારે છે, જેથી ફટીગ સ્ટ્રેન્થ વધે છે."
+  },
+  {
+    "id": 91,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "What does the slope of the linear elastic region in a stress-strain diagram represent?",
+    "gujaratiQuestion": "Q91. સ્ટ્રેસ-સ્ટ્રેન ડાયાગ્રામમાં ઈલાસ્ટિક રીજિયનનો ઢાળ શું દર્શાવે છે?",
+    "options": [
+      "પ્લાસ્ટિસિટી",
+      "યંગ્સ મોડ્યુલસ",
+      "ટફનેસ",
+      "યિલ્ડ સ્ટ્રેન્થ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "લીનિયર ઇલાસ્ટિક વક્રનો ઢાળ dσ/dε એ મટિરિયલનો મોડ્યુલસ ઓફ ઇલાસ્ટિસિટી એટલે કે યંગ્સ મોડ્યુલસ (E) દર્શાવે છે."
+  },
+  {
+    "id": 92,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "If a material has a higher value of Young's modulus, what does it signify?",
+    "gujaratiQuestion": "Q92. જો કોઈ મટિરિયલનો યંગ્સ મોડયુલસ વધુ હોય, તો તેનો અર્થ શું થાય?",
+    "options": [
+      "તે વધુ ડક્ટાઈલ છે",
+      "તે વધુ સ્ટિફ (Stiff) છે",
+      "તે વધુ બ્રિટલ છે",
+      "તે નરમ છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઊંચો યંગ્સ મોડ્યુલસ દર્શાવે છે કે મટિરિયલ ઇલાસ્ટિક ડિફોર્મેશન સામે વધુ પ્રતિકાર આપે છે, એટલે કે તે વધુ સ્ટીફ (Stiff) છે."
+  },
+  {
+    "id": 93,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Approximately 90% of failures in engineering mechanical components in service are caused by:",
+    "gujaratiQuestion": "Q93. સર્વિસમાં એન્જિનિયરિંગ કમ્પોનન્ટ્સનું 90% ફેલ્યોર કઈ પ્રક્રિયાને કારણે થાય છે?",
+    "options": [
+      "ક્રીપ",
+      "શોક લોડ્સ",
+      "ફટીગ (Fatigue)",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મશીનરી અને વ્હીકલ્સમાં મોટાભાગના કમ્પોનન્ટ્સ સાયકલિક/રિપીટેડ લોડિંગ હેઠળ ફટીગ (Fatigue) ને કારણે ફેલ થાય છે."
+  },
+  {
+    "id": 94,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "Which is the correct relation among Young's modulus E, Shear modulus G, and Poisson's ratio ν?",
+    "gujaratiQuestion": "Q94. યંગ્સ મોડયુલસ, શીયર મોડયુલસ અને પોઈસન રેશિયો વચ્ચેનો સાચો સંબંધ કયો છે?",
+    "options": [
+      "E = 2G(1 + ν)",
+      "E = 3G(1 - 2ν)",
+      "E = 2G(1 - ν)",
+      "E = 3G(1 + ν)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇલાસ્ટિક કોન્સ્ટન્ટ્સ વચ્ચેનો સંબંધ E = 2G(1 + ν) છે."
+  },
+  {
+    "id": 95,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "Which is the correct relation among Young's modulus E, Bulk modulus K, and Poisson's ratio ν?",
+    "gujaratiQuestion": "Q95. યંગ્સ મોડ્યુલસ, બલ્ક મોડ્યુલસ અને પોઈસન રેશિયો વચ્ચેનો સાચો સંબંધ કયો છે?",
+    "options": [
+      "E = 3K(1 + 2ν)",
+      "E = 2K(1 - ν)",
+      "E = 3K(1 - 2ν)",
+      "E = 3K(1 + ν)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "E, K અને ν વચ્ચેનો સાચો સંબંધ E = 3K(1 - 2ν) છે."
+  },
+  {
+    "id": 96,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Automobile crankshafts and heavy-duty gears are commonly manufactured from which cast iron?",
+    "gujaratiQuestion": "Q96. ક્રેન્કશાફ્ટ અને ગિયર્સ શેમાંથી બનાવવામાં આવે છે?",
+    "options": [
+      "ગ્રે કાસ્ટ આયર્ન",
+      "વ્હાઈટ કાસ્ટ આયર્ન",
+      "નોડ્યુલર (ડક્ટાઈલ) કાસ્ટ આયર્ન",
+      "આમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "નોડ્યુલર અથવા સ્ફેરોઇડલ ગ્રેફાઇટ (SG) કાસ્ટ આયર્ન ઉચ્ચ ટેન્સાઇલ સ્ટ્રેન્થ, ડક્ટિલિટી અને શોક રેઝિસ્ટન્સ ધરાવતું હોવાથી ક્રેન્કશાફ્ટ અને ગિયર્સ માટે વપરાય છે."
+  },
+  {
+    "id": 97,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "A steel bar subjected to a tensile stress of 200 MPa experiences a strain of 0.001. What is its Young's modulus?",
+    "gujaratiQuestion": "Q97, એક સ્ટીલના સળિયા પર 200 MPa નો સ્ટ્રેસ લાગતા તેમાં 0.001 નો સ્ટ્રેન ઉત્પન્ન થાય છે, તો તેનો યંગ્સ મોડયુલસ કેટલો હશે?",
+    "options": [
+      "200 GPa",
+      "200 MPa",
+      "100 GPa",
+      "2000 GPa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "E = Stress / Strain = 200 MPa / 0.001 = 200,000 MPa = 200 GPa."
+  },
+  {
+    "id": 98,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "Which is the correct relation connecting Young's modulus (E), Bulk modulus (K), and Shear modulus (G)?",
+    "gujaratiQuestion": "Q98. યંગ્સ મોડયુલસ, બલ્ક મોડયુલસ અને શીયર મોડયુલસ વચ્ચેનો સાચો સંબંધ કયો છે?",
+    "options": [
+      "E = 9KG / (3K + G)",
+      "E = 3KG / (9K + G)",
+      "E = 9KG / (K + 3G)",
+      "E = 3KG / (K + G)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ત્રણેય સ્થિતિસ્થાપક અચળાંકો વચ્ચેનો સાચો સંબંધ E = (9KG) / (3K + G) છે."
+  },
+  {
+    "id": 99,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "How many effective atoms are contained in a standard HCP crystal unit cell?",
+    "gujaratiQuestion": "Q99. HCP ક્રિસ્ટલ સ્ટ્રક્ચરમાં કેટલા એટમ્સ (પરમાણુઓ) હોય છે?",
+    "options": [
+      "8",
+      "4",
+      "6",
+      "આમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HCP યુનિટ સેલમાં 12 ખૂણા પરના 1/6 (12×1/6=2), 2 ફેસ સેન્ટર પરના 1/2 (2×1/2=1) અને અંદરના 3 સંપૂર્ણ અણુઓ મળીને કુલ 6 અણુઓ હોય છે."
+  },
+  {
+    "id": 100,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "What is the ratio of lateral strain to longitudinal strain within the elastic limit called?",
+    "gujaratiQuestion": "Q100, લેટરલ સ્ટ્રેન અને લોન્જિટ્યુડિનલ સ્ટ્રેનના ગુણોત્તરને શું કહે છે?",
+    "options": [
+      "યંગ્સ મોડ્યુલસ",
+      "બલ્ક મોડ્યુલસ",
+      "પોઈસન રેશિયો",
+      "વોલ્યુમેટ્રિક સ્ટ્રેન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પોઇસન રેશિયો (ν) = |લેટરલ સ્ટ્રેઇન / લોન્જિટ્યુડિનલ સ્ટ્રેઇન|."
+  },
+  {
+    "id": 101,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "What is the typical value range of Poisson's ratio for structural steel?",
+    "gujaratiQuestion": "Q101. સ્ટીલ માટે પોઈસન રેશિયોની વેલ્યુ સામાન્ય રીતે કેટલી હોય છે?",
+    "options": [
+      "0.01 થી 0.10",
+      "0.10 થી 0.20",
+      "0.25 થી 0.33",
+      "0.40 થી 0.50"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્ટીલ માટે પોઇસન ગુણોત્તરનું મૂલ્ય ઇલાસ્ટિક રેન્જમાં સામાન્ય રીતે 0.25 થી 0.33 (લગભગ 0.28-0.30) હોય છે."
+  },
+  {
+    "id": 102,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "Maximum surface hardness for a steel part is achieved through which case hardening process?",
+    "gujaratiQuestion": "Q102. સ્ટીલ પાર્ટ માટે મહત્તમ હાર્ડનેસ કઈ પ્રક્રિયા દ્વારા મેળવવામાં આવે છે?",
+    "options": [
+      "કાર્બ્યુરાઇઝિંગ",
+      "નાઈટ્રાઈડિંગ",
+      "સાયનાઈડિંગ",
+      "એનીલિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નાઇટ્રાઇડિંગ પ્રક્રિયા એલોય સ્ટીલની સપાટી પર અત્યંત કઠણ એલોય નાઇટ્રાઇડ્સ બનાવીને સર્વોચ્ચ સપાટી કઠિનતા (1000-1100 HV) આપે છે."
+  },
+  {
+    "id": 103,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "What is the theoretical value of Poisson's ratio for a perfectly incompressible material like natural rubber?",
+    "gujaratiQuestion": "Q103. રબર જેવા સંપૂર્ણ ઈનકમ્પ્રેસિબલ મટિરિયલ માટે પોઈસન રેશિયોની વેલ્યુ કેટલી હોય છે?",
+    "options": [
+      "0.0",
+      "0.25",
+      "0.33",
+      "0.50"
+    ],
+    "correctAnswer": 3,
+    "explanation": "અદબનીય (Incompressible) મટિરિયલ માટે વોલ્યુમેટ્રિક સ્ટ્રેઇન શૂન્ય થતાં પોઇસન રેશિયો ν = 0.50 થાય છે."
+  },
+  {
+    "id": 104,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "According to Generalized Hooke's Law for 3D triaxial loading, what is the equation for normal strain in the X-direction (εx)?",
+    "gujaratiQuestion": "Q104. જનરલાઈઝ્ડ હૂક્સ લૉ મુજબ, ત્રિ-પરિમાણીય લોડિંગમાં X-દિશાનો નોર્મલ સ્ટ્રેન શોધવાનું સાચું સૂત્ર કયું છે?",
+    "options": [
+      "(1/E) [σx - ν(σy + σz)]",
+      "(1/E) [σx + ν(σy - σz)]",
+      "(1/E) [σx - ν(σy - σz)]",
+      "(1/E) [σx + ν(σy + σz)]"
+    ],
+    "correctAnswer": 0,
+    "explanation": "જનરલાઇઝ્ડ હૂકના નિયમ મુજબ X-દિશાનો કુલ સ્ટ્રેઇન εx = (1/E) [σx - ν(σy + σz)] થાય છે."
+  },
+  {
+    "id": 105,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "When nickel is added to copper to form a solid solution, what property increase is observed?",
+    "gujaratiQuestion": "Q105. કોપરમાં નિકલ ઉમેરવામાં આવે ત્યારે શેમાં વધારો થાય છે?",
+    "options": [
+      "માત્ર સ્ટ્રેન્થ",
+      "માત્ર હાર્ડનેસ",
+      "સ્ટ્રેન્થ અને હાર્ડનેસ બંને",
+      "સ્ટ્રેન્થ અને ડક્ટિલિટી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સોલિડ સોલ્યુશન સ્ટ્રેન્થનિંગ (Solid solution hardening) ને કારણે કોપરમાં નિકલ ઉમેરતાં તેની ટેન્સાઇલ સ્ટ્રેન્થ અને હાર્ડનેસ બંનેમાં વધારો થાય છે."
+  },
+  {
+    "id": 106,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "What is the formula for volumetric strain (εv) in triaxial loading?",
+    "gujaratiQuestion": "Q106. ત્રિ-પરિમાણીય લોડિંગમાં વોલ્યુમેટ્રિક સ્ટ્રેન શોધવાનું સૂત્ર કયું છે?",
+    "options": [
+      "εx + εy + εz",
+      "εx - εy - εz",
+      "(εx + εy + εz) / 3",
+      "εx · εy · εz"
+    ],
+    "correctAnswer": 0,
+    "explanation": "નાના ડિફોર્મેશન માટે વોલ્યુમેટ્રિક સ્ટ્રેઇન εv = ΔV / V = εx + εy + εz થાય છે."
+  },
+  {
+    "id": 107,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "If equal normal hydrostatic stress (σx = σy = σz = σ) acts in all three directions, what is the volumetric strain?",
+    "gujaratiQuestion": "Q107. જો ત્રણેય દિશામાં સમાન નોર્મલ સ્ટ્રેસ લાગતો હોય, તો વોલ્યુમેટ્રિક સ્ટ્રેન કેટલો થાય?",
+    "options": [
+      "(3σ / E) (1 - 2ν)",
+      "(σ / E) (1 - 2ν)",
+      "(3σ / E) (1 + ν)",
+      "(σ / E) (1 + 2ν)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "εv = εx + εy + εz = 3 × [(σ/E)(1 - 2ν)] = (3σ/E)(1 - 2ν)."
+  },
+  {
+    "id": 108,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "A material exhibiting different mechanical properties in different directions at a point is called:",
+    "gujaratiQuestion": "Q108. જુદી-જુદી દિશાઓમાં જુદી-જુદી પ્રોપર્ટીઝ ધરાવતા મટિરિયલને શું કહેવાય છે?",
+    "options": [
+      "એમોર્ફસ",
+      "કોપોલિમર",
+      "એનિસોટ્રોપિક (Anisotropic)",
+      "ઓસ્ટેનાઇટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "દિશા સાથે ગુણધર્મો બદલાતા હોય તેવા મટિરિયલને એનિસોટ્રોપિક (Anisotropic) કહે છે."
+  },
+  {
+    "id": 109,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "If a material has a Poisson's ratio of 0.5, what is its volumetric strain during plastic deformation?",
+    "gujaratiQuestion": "Q109. જો કોઈ મટિરિયલનો પોઈસન રેશિયો 0.5 હોય, તો પ્લાસ્ટિક ડિફોર્મેશન દરમિયાન તેનો વોલ્યુમેટ્રિક સ્ટ્રેન કેટલો થાય?",
+    "options": [
+      "અનંત",
+      "એક",
+      "શૂન્ય",
+      "નકારાત્મક"
+    ],
+    "correctAnswer": 2,
+    "explanation": "εv = (3σ/E)(1 - 2ν). અહીં ν = 0.5 મુકતાં 1 - 2(0.5) = 0 થવાથી વોલ્યુમેટ્રિક સ્ટ્રેઇન શૂન્ય (Zero) થાય છે."
+  },
+  {
+    "id": 110,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "By which letter is the ratio of shear stress to shear strain (Modulus of Rigidity) represented?",
+    "gujaratiQuestion": "Q110. શીયર સ્ટ્રેસ અને શીયર સ્ટ્રેન વચ્ચેના ગુણોત્તરને કયા અક્ષર વડે દર્શાવવામાં આવે છે?",
+    "options": [
+      "E",
+      "G (અથવા C/N)",
+      "K",
+      "ν"
+    ],
+    "correctAnswer": 1,
+    "explanation": "શીયર મોડ્યુલસ અથવા મોડ્યુલસ ઓફ રિજિડિટીને G (અથવા C અથવા N) વડે દર્શાવાય છે."
+  },
+  {
+    "id": 111,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "For alloys, the recrystallization temperature is approximately equal to which fraction of absolute melting temperature (Tm)?",
+    "gujaratiQuestion": "Q111. એલોય માટે રિક્રિસ્ટલાઇઝેશન ટેમ્પરેચર આશરે કોના બરાબર હોય છે?",
+    "options": [
+      "0.2 Tm",
+      "0.3 Tm",
+      "0.5 Tm",
+      "0.8 Tm"
+    ],
+    "correctAnswer": 2,
+    "explanation": "શુદ્ધ ધાતુઓ માટે રિક્રિસ્ટલાઇઝેશન તાપમાન ~0.33 Tm અને એલોય સ્ટીલ માટે ~0.5 Tm (એબ્સોલ્યુટ મેલ્ટિંગ પોઇન્ટના 50%) હોય છે."
+  },
+  {
+    "id": 112,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "A material has Young's modulus of 200 GPa and Poisson's ratio of 0.25. What is its Shear Modulus?",
+    "gujaratiQuestion": "Q112. એક મટિરિયલ માટે યંગ્સ મોડયુલસ 200 GPa અને પોઈસન રેશિયો 0.25 છે, તો તેનો શીયર મોડયુલસ કેટલો હશે?",
+    "options": [
+      "50 GPa",
+      "80 GPa",
+      "100 GPa",
+      "125 GPa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "G = E / [2(1 + ν)] = 200 / [2(1 + 0.25)] = 200 / 2.5 = 80 GPa."
+  },
+  {
+    "id": 113,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "According to Generalized Hooke's Law, if a tensile stress is applied only in the Y-direction, what happens in the X-direction?",
+    "gujaratiQuestion": "Q113. જનરલાઈઝ્ડ હૂક્સ લૉ પ્રમાણે, જો માત્ર Y-દિશામાં સ્ટ્રેસ લાગતો હોય તો X-દિશામાં શું અસર થાય?",
+    "options": [
+      "સ્ટ્રેન શૂન્ય થાય",
+      "સ્ટ્રેન પોઝિટિવ થાય",
+      "સ્ટ્રેસ વગર લેટરલ સ્ટ્રેન ઉત્પન્ન થાય",
+      "કંઈ અસર ન થાય"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પોઇસન અસરને કારણે X-દિશામાં કોઈ સીધો સ્ટ્રેસ (σx = 0) ન હોવા છતાં લેટરલ કમ્પ્રેસિવ સ્ટ્રેઇન (εx = -ν·σy/E) ઉત્પન્ન થાય છે."
+  },
+  {
+    "id": 114,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "The phenomenon of material progressive localized fracture under fluctuating or repeated cyclic stresses at a level below static tensile strength is called:",
+    "gujaratiQuestion": "Q114. ફ્લક્ચ્યુએટિંગ અથવા રિપીટેડ સ્ટ્રેસ હેઠળ રહેલા મટિરિયલમાં, ફ્રેક્ચર એવા સ્ટ્રેસ પર થાય છે જેની મહત્તમ વેલ્યુ મટિરિયલની ટેન્સાઈલ સ્ટ્રેન્થ કરતા ઓછી હોય છે. આ ઘટનાને શું કહેવાય છે?",
+    "options": [
+      "ફટીગ (Fatigue)",
+      "ક્રીપ",
+      "મેલિએબિલિટી",
+      "રેઝિલિયન્સ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વારંવાર બદલાતા ચક્રીય સ્ટ્રેસ હેઠળ સામાન્ય ટેન્સાઇલ સ્ટ્રેન્થ કરતાં ઓછા તણાવે થતી તૂટવાની ઘટનાને ફટીગ (Fatigue) કહે છે."
+  },
+  {
+    "id": 115,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "The 0.2% offset method is standardly used to determine which mechanical property?",
+    "gujaratiQuestion": "Q115. 0.2% ઓફસેટ મેથડનો ઉપયોગ કયા ગુણધર્મને શોધવા માટે થાય છે?",
+    "options": [
+      "અલ્ટિમેટ ટેન્સાઈલ સ્ટ્રેન્થ",
+      "યિલ્ડ સ્ટ્રેન્થ (Proof stress)",
+      "બ્રેકિંગ સ્ટ્રેન્થ",
+      "ફટીગ સ્ટ્રેન્થ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જે મટિરિયલ્સમાં સ્પષ્ટ યીલ્ડ પોઇન્ટ ન મળતો હોય તેમાં પ્રૂફ સ્ટ્રેન્થ અથવા યીલ્ડ સ્ટ્રેન્થ નક્કી કરવા 0.2% (0.002) ઓફસેટ પદ્ધતિ વપરાય છે."
+  },
+  {
+    "id": 116,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "In the 0.2% offset method, which line is drawn on the stress-strain curve from strain ε = 0.002?",
+    "gujaratiQuestion": "Q116. 0.2% ઓફસેટ મેથડમાં સ્ટ્રેસ-સ્ટ્રેન ડાયાગ્રામ પર કઈ લાઈન દોરવામાં આવે છે?",
+    "options": [
+      "ઇલાસ્ટિક લાઈનને સમાંતર",
+      "X-અક્ષને સમાંતર",
+      "Y-અક્ષને સમાંતર",
+      "અલ્ટિમેટ પોઈન્ટથી પસાર થતી લાઈન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્ટ્રેઇન અક્ષ પર 0.002 બિંદુથી પ્રારંભિક ઇલાસ્ટિક મોડ્યુલસ સ્લોપ (E) ને સમાંતર રેખા દોરવામાં આવે છે."
+  },
+  {
+    "id": 117,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "When temperature of a ductile metallic material is raised, its toughness:",
+    "gujaratiQuestion": "Q117. જો મટિરિયલને ગરમ કરવામાં આવે, તો તેની ટફનેસ...",
+    "options": [
+      "ઘટે છે",
+      "વધે છે",
+      "સમાન રહે છે",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "તાપમાન વધતાં ધાતુની ડક્ટિલિટી અને પ્લાસ્ટિક એનર્જી શોષવાની ક્ષમતા વધતી હોવાથી તેની ઇમ્પેક્ટ ટફનેસ વધે છે."
+  },
+  {
+    "id": 118,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "The offset yield strength method is primarily used for materials:",
+    "gujaratiQuestion": "Q118. ઓફસેટ મેથડ કયા પ્રકારના મટિરિયલ્સ માટે સૌથી વધુ વપરાય છે?",
+    "options": [
+      "જેમાં બ્રેકિંગ પોઈન્ટ ન હોય",
+      "જેમાં સ્પષ્ટ યિલ્ડ પોઇન્ટ ન મળતો હોય",
+      "બ્રિટલ મટિરિયલ્સ",
+      "રબર અને પ્લાસ્ટિક"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એલ્યુમિનિયમ, કોપર અને ઓસ્ટેનિટિક સ્ટેનલેસ સ્ટીલ જેવા મટિરિયલ્સ જેમાં શાર્પ યીલ્ડ પોઇન્ટ હોતો નથી તેમના માટે વપરાય છે."
+  },
+  {
+    "id": 119,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "What is Yield Strength of a material?",
+    "gujaratiQuestion": "Q119. યિલ્ડ સ્ટ્રેન્થ એટલે શું?",
+    "options": [
+      "મેક્સિમમ લોડ સહન કરવાની ક્ષમતા",
+      "મટિરિયલ તૂટ્યા પહેલાનો સ્ટ્રેસ",
+      "જે સ્ટ્રેસ પર નોંધપાત્ર પ્લાસ્ટિક ડિફોર્મેશનની શરૂઆત થાય છે",
+      "સ્પ્રિંગબેક સ્ટ્રેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "યીલ્ડ સ્ટ્રેન્થ એવો સ્ટ્રેસ લેવલ છે જ્યાં મટિરિયલ ઇલાસ્ટિકમાંથી પ્લાસ્ટિક વર્તણૂકમાં પ્રવેશે છે."
+  },
+  {
+    "id": 120,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "The ability of a material to undergo extensive permanent deformation under tensile load is called:",
+    "gujaratiQuestion": "Q120. ટેન્શન હેઠળ મટિરિયલની મોટા પાયે પરમેનન્ટ ડિફોર્મેશન પામવાની ક્ષમતાને શું કહેવાય છે?",
+    "options": [
+      "ટફનેસ",
+      "સ્ટીફનેસ",
+      "પ્લાસ્ટિસિટી / ડક્ટિલિટી",
+      "હાર્ડનેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લોડ દૂર કર્યા પછી પણ કાયમી વિકૃતિ જાળવી રાખવાની સામાન્ય ક્ષમતા પ્લાસ્ટિસિટી (અથવા ટેન્શનમાં ડક્ટિલિટી) કહેવાય છે."
+  },
+  {
+    "id": 121,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "In the tensile test of mild steel, which yield point is considered for structural engineering design calculations?",
+    "gujaratiQuestion": "Q121. ટેન્સાઈલ ટેસ્ટમાં માઈલ્ડ સ્ટીલ માટે ડિઝાઈન ગણતરીઓમાં કયો યિલ્ડ પોઈન્ટ ધ્યાનમાં લેવામાં આવે છે?",
+    "options": [
+      "અપર યિલ્ડ પોઇન્ટ",
+      "લોઅર યિલ્ડ પોઇન્ટ",
+      "અલ્ટિમેટ પોઈન્ટ",
+      "રપ્ચર પોઈન્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અપર યીલ્ડ પોઇન્ટ ક્ષણિક અને અસ્થિર હોવાથી એન્જિનિયરિંગ ડિઝાઇન માટે સ્થિર લોઅર યીલ્ડ પોઇન્ટ (Lower Yield Point) પ્રમાણભૂત માનવામાં આવે છે."
+  },
+  {
+    "id": 122,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "Which two parameters are primarily measured in a tensile test to quantify Ductility?",
+    "gujaratiQuestion": "Q122. ડક્ટિલિટી માપવા માટે મુખ્યત્વે કયા બે પરિમાણોનો ઉપયોગ થાય છે?",
+    "options": [
+      "પર્સન્ટેજ ઇલોન્ગેશન અને પર્સન્ટેજ રિડક્શન ઈન એરિયા",
+      "યિલ્ડ સ્ટ્રેન્થ અને અલ્ટિમેટ સ્ટ્રેન્થ",
+      "હાર્ડનેસ અને ટફનેસ",
+      "યંગ્સ મોડયુલસ અને બલ્ક મોડ્યુલસ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ડક્ટિલિટીનું માપન ટકાવારી લંબાઈ વધારો (% Elongation) અને ટકાવારી ક્ષેત્રફળ ઘટાડો (% Reduction in area) દ્વારા થાય છે."
+  },
+  {
+    "id": 123,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "The property of a material due to which it fractures with very little or no permanent distortion is called:",
+    "gujaratiQuestion": "Q123. મટિરિયલનો એવો ગુણધર્મ જેના લીધે તે ખૂબ જ ઓછા પરમેનન્ટ ડિસ્ટોર્શન (વિકૃતિ) સાથે તૂટી જાય છે, તેને શું કહેવાય છે?",
+    "options": [
+      "બ્રિટલનેસ",
+      "ડક્ટિલિટી",
+      "મેલિએબિલિટી",
+      "ફટીગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કોઈપણ પ્લાસ્ટિક ડિફોર્મેશન વગર અચાનક તૂટી જવાની લાક્ષણિકતાને બ્રિટલનેસ (Brittleness / બરડતા) કહેવાય છે."
+  },
+  {
+    "id": 124,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "What is the formula to calculate percentage elongation in a tensile test?",
+    "gujaratiQuestion": "Q124. પર્સન્ટેજ ઈલોન્ગેશન શોધવાનું સાચું સૂત્ર કયું છે?",
+    "options": [
+      "(L₀ - Lf) / Lf",
+      "(Lf - L₀) / L₀ × 100",
+      "Lf / L₀",
+      "(Lf - L₀) / Lf"
+    ],
+    "correctAnswer": 1,
+    "explanation": "% Elongation = [(Lf - L₀) / L₀] × 100 (જ્યાં Lf અંતિમ લંબાઈ અને L₀ મૂળ ગેજ લંબાઈ છે)."
+  },
+  {
+    "id": 125,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "What is the standard relation between gauge length L₀ and cross-sectional area A₀ for standard proportional tensile test specimens?",
+    "gujaratiQuestion": "Q125. ટેન્સાઈલ ટેસ્ટ માટે સ્ટાન્ડર્ડ ગેજ લેન્થ અને ક્રોસ-સેક્શન એરિયા વચ્ચેનો સંબંધ કયો છે?",
+    "options": [
+      "L₀ = 5.65 √A₀",
+      "L₀ = 4.5 ∛A₀",
+      "L₀ = 2.5 √A₀",
+      "L₀ = 10 √A₀"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ISO/IS સ્ટાન્ડર્ડ પ્રોપોર્શનલ ટેસ્ટ પીસ માટે ગેજ લંબાઈ L₀ = 5.65 √A₀ (અથવા L₀ = 5d) લેવામાં આવે છે."
+  },
+  {
+    "id": 126,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "For ferrous metals like mild steel, beyond the endurance limit the S-N curve becomes a:",
+    "gujaratiQuestion": "Q126. માઈલ્ડ સ્ટીલ માટેનો S-N કર્વ કેવો બની જાય છે?",
+    "options": [
+      "પેરાબોલા",
+      "હોરિઝોન્ટલ લાઈન (આડી રેખા)",
+      "વર્ટિકલ લાઈન (ઊભી રેખા)",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટીલ જેવા ફેરસ મટિરિયલ્સ માટે આશરે 10⁶ સાયકલ પછી S-N કર્વ આડી રેખા (Horizontal asymptotic line) બની એન્ડ્યોરન્સ લિમિટ દર્શાવે છે."
+  },
+  {
+    "id": 127,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "In a tensile test, if there is negligible or zero percentage reduction in area at fracture, the material's ductility is considered:",
+    "gujaratiQuestion": "Q127. જો ટેન્સાઈલ ટેસ્ટમાં મટિરિયલના ક્રોસ-સેક્શનલ એરિયામાં કોઈ જ ઘટાડો ન થાય તો તેની ડક્ટિલિટી કેવી ગણાય?",
+    "options": [
+      "ખૂબ જ વધારે",
+      "શૂન્ય અથવા સંપૂર્ણ બ્રિટલ",
+      "માપવી શક્ય નથી",
+      "અનંત"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ક્ષેત્રફળમાં ઘટાડો ન થવાનો અર્થ એ થાય કે મટિરિયલમાં બિલકુલ ડક્ટિલિટી નથી અને તે સંપૂર્ણપણે બ્રિટલ છે."
+  },
+  {
+    "id": 128,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Ductility is the most essential property for which manufacturing process?",
+    "gujaratiQuestion": "Q128. ડક્ટિલિટી કયા પ્રકારની ઉત્પાદન પ્રક્રિયા માટે સૌથી અગત્યનો ગુણધર્મ છે?",
+    "options": [
+      "કાસ્ટિંગ",
+      "વાયર ડ્રોઇંગ",
+      "ફોર્જિંગ",
+      "વેલ્ડિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વાયર ડ્રોઇંગ (Wire Drawing) માં ધાતુને ડાઈમાંથી ખેંચીને પાતળા વાયર બનાવવામાં આવે છે, જેના માટે ઉચ્ચ ડક્ટિલિટી અનિવાર્ય છે."
+  },
+  {
+    "id": 129,
+    "subject": "Engineering Materials",
+    "subTopic": "Fracture Mechanics",
+    "question": "Which of the following is NOT primarily a theory of fatigue failure (it is a brittle fracture theory)?",
+    "gujaratiQuestion": "Q129. નીચેનામાંથી કઈ ફટીગની થિયરી નથી?",
+    "options": [
+      "ઓરોવાન થિયરી (Orowan theory)",
+      "ગ્રિફિથની થિયરી (Griffith's theory)",
+      "ફટીગ લિમિટ થિયરમ",
+      "વુડની થિયરી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગ્રિફિથની થિયરી (Griffith's Theory) એ બ્રિટલ ફ્રેક્ચર મિકેનિક્સની થિયરી છે, ફટીગ થિયરી નથી."
+  },
+  {
+    "id": 130,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "What is Resilience in a material?",
+    "gujaratiQuestion": "Q130. રેઝિલિઅન્સ એટલે મટિરિયલની કઈ ક્ષમતા?",
+    "options": [
+      "તૂટ્યા વગર એનર્જી શોષવાની",
+      "ઈલાસ્ટિક લિમિટ સુધી એનર્જી શોષીને લોડ હટાવતા પાછી આપવાની",
+      "ઘસારો સહન કરવાની",
+      "ઊંચા તાપમાને ટકી રહેવાની"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્થિતિસ્થાપક મર્યાદાની અંદર ઊર્જા શોષીને અનલોડિંગ વખતે સંપૂર્ણ મુક્ત કરવાની ક્ષમતાને રેઝિલિયન્સ (Resilience) કહેવાય છે."
+  },
+  {
+    "id": 131,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "In a stress-strain diagram, how is the Modulus of Resilience determined?",
+    "gujaratiQuestion": "Q131. સ્ટ્રેસ-સ્ટ્રેન ડાયાગ્રામમાં મોડ્યુલસ ઓફ રેઝિલિઅન્સ કેવી રીતે મેળવાય છે?",
+    "options": [
+      "અલ્ટિમેટ પોઈન્ટ સુધીના વળાંક નીચેનો વિસ્તાર",
+      "બ્રેકિંગ પોઇન્ટ સુધીના વળાંક નીચેનો વિસ્તાર",
+      "ઈલાસ્ટિક / પ્રોપોર્શનલ લિમિટ સુધીના વળાંક નીચેનો વિસ્તાર",
+      "યિલ્ડ પોઈન્ટ અને અલ્ટિમેટ પોઈન્ટ વચ્ચેનો વિસ્તાર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્ટ્રેસ-સ્ટ્રેન કર્વ હેઠળ પ્રોપોર્શનલ/ઇલાસ્ટિક લિમિટ સુધી ઘેરાયેલો વિસ્તાર મોડ્યુલસ ઓફ રેઝિલિયન્સ દર્શાવે છે."
+  },
+  {
+    "id": 132,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "What is the mathematical formula for the Modulus of Resilience (Ur)?",
+    "gujaratiQuestion": "Q132. મોડ્યુલસ ઓફ રેઝિલિઅન્સનું ગાણિતિક સૂત્ર કયું છે?",
+    "options": [
+      "σy² / E",
+      "σy² / (2E)",
+      "σy / E",
+      "2σy / E"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોડ્યુલસ ઓફ રેઝિલિયન્સ Ur = 1/2 × σy × εy = σy² / (2E)."
+  },
+  {
+    "id": 133,
+    "subject": "Engineering Materials",
+    "subTopic": "Fracture Mechanics",
+    "question": "Which of the following is NOT one of the three basic modes of fracture in fracture mechanics?",
+    "gujaratiQuestion": "Q133. ક્રેક પ્રોપેગેશન માટે ફોર્સ એપ્લિકેશનનો કયો મોડ (mode) નથી?",
+    "options": [
+      "ઓપનિંગ મોડ (Mode I)",
+      "સ્લાઇડિંગ મોડ (Mode II)",
+      "ટીયરિંગ મોડ (Mode III)",
+      "રોલિંગ મોડ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ફ્રેક્ચર મિકેનિક્સમાં 3 મોડ્સ હોય છે: Mode I (Opening), Mode II (In-plane shear/Sliding), Mode III (Out-of-plane shear/Tearing)."
+  },
+  {
+    "id": 134,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "What is Proof Resilience of a body?",
+    "gujaratiQuestion": "Q134. પ્રૂફ રેઝિલિઅન્સ કોને કહેવાય છે?",
+    "options": [
+      "પ્લાસ્ટિક લિમિટ પર સ્ટોર થતી એનર્જી",
+      "ઇલાસ્ટિક લિમિટ સુધી સ્ટોર થતી મહત્તમ સ્ટ્રેન એનર્જી",
+      "ફ્રેક્ચર સમયે મુક્ત થતી એનર્જી",
+      "એકમ કદ દીઠ શોષાતી એનર્જી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પદાર્થમાં ઇલાસ્ટિક મર્યાદા સુધી સંગ્રહિત થઈ શકતી મહત્તમ કુલ સ્ટ્રેઇન એનર્જીને પ્રૂફ રેઝિલિયન્સ (Proof Resilience) કહે છે."
+  },
+  {
+    "id": 135,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "What is the SI unit of Modulus of Resilience?",
+    "gujaratiQuestion": "Q135. મોડ્યુલસ ઓફ રેઝિલિઅન્સનો એકમ કયો છે?",
+    "options": [
+      "N/m²",
+      "J/m³ (અથવા N·m/m³)",
+      "N·m",
+      "W/m"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોડ્યુલસ ઓફ રેઝિલિયન્સ એ એકમ કદ દીઠ સંગ્રહિત ઊર્જા હોવાથી તેનો એકમ J/m³ અથવા N/m² (Pa) છે."
+  },
+  {
+    "id": 136,
+    "subject": "Engineering Materials",
+    "subTopic": "Static Failure Theories",
+    "question": "The failure envelope curve obtained by plotting normal stress and shear stress at failure is called:",
+    "gujaratiQuestion": "Q136. નોર્મલ અને શિયર સ્ટ્રેસનો પ્લોટ કરવાથી મળતા કર્વને શું કહેવાય છે?",
+    "options": [
+      "સ્ટ્રેસ એન્વેલપ",
+      "સ્ટ્રેન્થ એન્વેલપ / મોહર ફેલ્યોર એન્વેલપ",
+      "મોહર એન્વેલપ",
+      "કુલમ્બ એન્વેલપ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોહર્સ સર્કલ્સના ટેન્જેન્ટ્સને જોડીને મળતી સીમા રેખાને મોહર-કૂલમ્બ સ્ટ્રેન્થ એન્વેલપ (Failure envelope) કહે છે."
+  },
+  {
+    "id": 137,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "Which mechanical property must be high in materials used to manufacture vehicle suspension springs and shock absorbers?",
+    "gujaratiQuestion": "Q137. વાહનોની સ્પ્રિંગ અને શોક એબ્સોર્બર બનાવવા માટે મટિરિયલમાં કયો ગુણધર્મ વધુ હોવો જરૂરી છે?",
+    "options": [
+      "ડક્ટિલિટી",
+      "બ્રિટલનેસ",
+      "રેઝિલિઅન્સ (Resilience)",
+      "હાર્ડનેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આંચકા અને વાઇબ્રેશનને શોષીને રિલીઝ કરવા માટે સ્પ્રિંગ સ્ટીલમાં ઊંચો મોડ્યુલસ ઓફ રેઝિલિયન્સ હોવો જરૂરી છે."
+  },
+  {
+    "id": 138,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "A material has yield strength 300 MPa and Young's modulus 150 GPa. What is its Modulus of Resilience?",
+    "gujaratiQuestion": "Q138. એક મટિરિયલનો યિલ્ડ સ્ટ્રેસ 300 MPa અને યંગ્સ મોડ્યુલસ 150 GPa છે. તેનો મોડ્યુલસ ઓફ રેઝિલિઅન્સ કેટલો થશે?",
+    "options": [
+      "0.1 MPa",
+      "0.3 MPa",
+      "0.5 MPa",
+      "1.0 MPa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ur = σy² / (2E) = (300)² / (2 × 150,000) = 90,000 / 300,000 = 0.3 MPa (J/m³)."
+  },
+  {
+    "id": 139,
+    "subject": "Engineering Materials",
+    "subTopic": "Static Failure Theories",
+    "question": "According to Coulomb's law, the relationship between shear strength (τ) and normal stress (σ) is represented by a:",
+    "gujaratiQuestion": "Q139. કુલમ્બના મત મુજબ, શિયર સ્ટ્રેન્થ અને નોર્મલ સ્ટ્રેસ વચ્ચેનો સંબંધ કયા કર્વ દ્વારા દર્શાવી શકાય છે?",
+    "options": [
+      "લિનિયર કર્વ",
+      "પેરાબોલિક કર્વ",
+      "સ્ટ્રેટ લાઈન (સીધી રેખા)",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કૂલમ્બનું સમીકરણ τ = c + σ tan φ સીધી રેખા (Straight line) દર્શાવે છે."
+  },
+  {
+    "id": 140,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "In the 0.2% offset method, what strain value on the horizontal axis is chosen to draw the parallel line?",
+    "gujaratiQuestion": "Q140. 0.2% ઓફસેટ મેથડમાં સ્ટ્રેન અક્ષ પર કેટલું મૂલ્ય લઈને સમાંતર લાઈન દોરવામાં આવે છે?",
+    "options": [
+      "0.002",
+      "0.02",
+      "0.2",
+      "2.0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "0.2% એટલે 0.2 / 100 = 0.002 સ્ટ્રેઇન."
+  },
+  {
+    "id": 141,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "In the relationship between volumetric strain and Poisson's ratio, if Poisson's ratio is 0.5, the volumetric strain is:",
+    "gujaratiQuestion": "Q141. વોલ્યુમેટ્રિક સ્ટ્રેન અને પોઈસન રેશિયો વચ્ચેના સંબંધમાં જો રેશિયો 0.5 હોય તો વોલ્યુમેટ્રિક સ્ટ્રેન કેટલો થશે?",
+    "options": [
+      "મહત્તમ",
+      "એક",
+      "શૂન્ય",
+      "કહી શકાય નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "εv = (3σ/E)(1 - 2ν). ν = 0.5 મુકતાં 1 - 2(0.5) = 0 થવાથી વોલ્યુમેટ્રિક સ્ટ્રેઇન શૂન્ય થાય છે."
+  },
+  {
+    "id": 142,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "The highest value of stress up to which Hooke's law is strictly obeyed in a material is called:",
+    "gujaratiQuestion": "Q142. આપેલા મટિરિયલ માટે સ્ટ્રેસની સૌથી ઊંચી વેલ્યુ કે જ્યાં સુધી હૂકનો નિયમ (Hooke's law) લાગુ પડે છે, તેને શું કહેવાય છે?",
+    "options": [
+      "સ્ટ્રેસ લિમિટ",
+      "સ્ટ્રેઇન લિમિટ",
+      "પ્રપોશનલ લિમિટ (Proportional Limit)",
+      "સિગ્નિફિકન્ટ લિમિટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હૂકનો નિયમ (લીનિયર સંબંધ) પ્રોપોર્શનલ લિમિટ સુધી જ સખત રીતે લાગુ પડે છે."
+  },
+  {
+    "id": 143,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "Ultimate Tensile Strength is also commonly known as:",
+    "gujaratiQuestion": "Q143. અલ્ટિમેટ ટેન્સાઈલ સ્ટ્રેન્થને બીજા કયા નામથી ઓળખવામાં આવે છે?",
+    "options": [
+      "યિલ્ડ સ્ટ્રેન્થ",
+      "ટેન્સાઈલ સ્ટ્રેન્થ",
+      "બ્રેકિંગ સ્ટ્રેન્થ",
+      "પ્રૂફ સ્ટ્રેસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અલ્ટિમેટ ટેન્સાઇલ સ્ટ્રેન્થ (UTS) ને સામાન્ય બોલચાલમાં સીધી જ ટેન્સાઇલ સ્ટ્રેન્થ (Tensile Strength) પણ કહેવામાં આવે છે."
+  },
+  {
+    "id": 144,
+    "subject": "Engineering Materials",
+    "subTopic": "Young's Modulus & Generalized Hooke's Law",
+    "question": "Which of the following represents the sum of three orthogonal normal strains (εx + εy + εz)?",
+    "gujaratiQuestion": "Q144. નીચેનામાંથી કયું સમીકરણ ત્રિ-પરિમાણીય નોર્મલ સ્ટ્રેનનો સરવાળો દર્શાવે છે?",
+    "options": [
+      "શીયર સ્ટ્રેન",
+      "વોલ્યુમેટ્રિક સ્ટ્રેન",
+      "પ્રિન્સિપલ સ્ટ્રેન",
+      "લેટરલ સ્ટ્રેન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "εx + εy + εz એ કદમાં થતા સાપેક્ષ ફેરફાર એટલે કે વોલ્યુમેટ્રિક સ્ટ્રેઇન (Volumetric strain) દર્શાવે છે."
+  },
+  {
+    "id": 145,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "The surface hardness of a low carbon steel component is significantly improved by:",
+    "gujaratiQuestion": "Q145. સ્ટીલની હાર્ડનેસ (Hardness) શેનાથી મોટા પ્રમાણમાં સુધરે છે?",
+    "options": [
+      "એનીલિંગ",
+      "સાયનાઈડિંગ (અથવા કાર્બ્યુરાઇઝિંગ)",
+      "નોર્મલાઇઝિંગ",
+      "ટેમ્પરિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સાયનાઇડિંગ/કાર્બ્યુરાઇઝિંગ જેવી થર્મોકેમિકલ કેસ હાર્ડનિંગ પદ્ધતિઓથી સ્ટીલની સપાટીની હાર્ડનેસ ઘણી ઊંચી થઈ જાય છે."
+  },
+  {
+    "id": 146,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "What is the formula to calculate percentage reduction in area in a tensile test?",
+    "gujaratiQuestion": "Q146, પર્સન્ટેજ રિડક્શન ઇન એરિયાની ગણતરી કરતી વખતે કોનો તફાવત લેવામાં આવે છે?",
+    "options": [
+      "(A₀ - Af) / A₀ × 100",
+      "(Af - A₀) / Af",
+      "A₀ / Af",
+      "Af / A₀"
+    ],
+    "correctAnswer": 0,
+    "explanation": "% Reduction in Area = [(A₀ - Af) / A₀] × 100 (જ્યાં A₀ મૂળ એરિયા અને Af નેક આગળનો ફાઇનલ એરિયા છે)."
+  },
+  {
+    "id": 147,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "If the load is removed before reaching the elastic limit, what path does the unloading curve follow on the stress-strain diagram?",
+    "gujaratiQuestion": "Q147. ઈલાસ્ટિક લિમિટ પહેલાં લોડ દૂર કરવામાં આવે તો સ્ટ્રેસ-સ્ટ્રેન ડાયાગ્રામ પર અનલોડિંગ પાથ કેવો હોય છે?",
+    "options": [
+      "મૂળ વળાંક પર પાછો ફરે છે (Retraces original curve)",
+      "નવો સમાંતર વળાંક બનાવે છે",
+      "સીધી સ્ટ્રેન અક્ષ તરફ જાય છે",
+      "સ્ટ્રેસ અક્ષને સમાંતર થાય છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇલાસ્ટિક લિમિટની અંદર કોઈપણ કાયમી વિકૃતિ ન હોવાથી અનલોડિંગ કર્વ મૂળ લોડિંગ પાથ પર જ પાછો આવી શૂન્ય સ્ટ્રેઇન આપે છે."
+  },
+  {
+    "id": 148,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Which of the following metals has an anisotropy factor of 1.0 (truly isotropic elasticity in single crystal)?",
+    "gujaratiQuestion": "Q148. નીચેનામાંથી કઈ મેટલ સંપૂર્ણપણે (truly) આઈસોટ્રોપિક છે?",
+    "options": [
+      "ટંગસ્ટન",
+      "કોપર",
+      "એલ્યુમિનિયમ",
+      "આમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ટંગસ્ટન (Tungsten) નો સિંગલ ક્રિસ્ટલ ઇલાસ્ટિક એનિસોટ્રોપી ગુણોત્તર A = 2C44 / (C11 - C12) = 1.0 હોવાથી તે સાચું ઇલાસ્ટિક આઇસોટ્રોપિક છે."
+  },
+  {
+    "id": 149,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "What property of a material is represented by the total area under the complete stress-strain curve up to fracture?",
+    "gujaratiQuestion": "Q149. સ્ટ્રેસ-સ્ટ્રેન કર્વ હેઠળના કુલ એરિયા દ્વારા મટિરિયલનો કયો ગુણધર્મ દર્શાવાય છે?",
+    "options": [
+      "હાર્ડનેસ",
+      "ટફનેસ (Toughness)",
+      "ડક્ટિલિટી",
+      "ફટિગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટ્રેસ-સ્ટ્રેન કર્વ હેઠળ ફ્રેક્ચર સુધીનો કુલ વિસ્તાર મોડ્યુલસ ઓફ ટફનેસ (Toughness) દર્શાવે છે."
+  },
+  {
+    "id": 150,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "The total strain energy per unit volume that a material can absorb before fracturing is called:",
+    "gujaratiQuestion": "Q150. મટિરિયલ ફ્રેક્ચર થતા પહેલાં જે મહત્તમ એનર્જી શોષી શકે તેને શું કહેવાય છે?",
+    "options": [
+      "મોડ્યુલસ ઓફ રેઝિલિઅન્સ",
+      "મોડ્યુલસ ઓફ ટફનેસ",
+      "અલ્ટિમેટ સ્ટ્રેન્થ",
+      "યિલ્ડ સ્ટ્રેન્થ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફ્રેક્ચર થતાં સુધી એકમ કદ દીઠ શોષાતી ઊર્જા મોડ્યુલસ ઓફ ટફનેસ (Modulus of Toughness) કહેવાય છે."
+  },
+  {
+    "id": 151,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Dislocation in crystalline materials is classified as which type of crystal defect?",
+    "gujaratiQuestion": "Q151. મટિરિયલ્સમાં ડિસલોકેશન એ કયા પ્રકારની ખામી (defect) છે?",
+    "options": [
+      "પોઈન્ટ ખામી (0D)",
+      "લાઈન ખામી (1D - Linear defect)",
+      "પ્લેન ખામી (2D)",
+      "વોલ્યુમ ખામી (3D)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એજ અને સ્ક્રૂ ડિસલોકેશન્સ એ સ્ફટિક જાળીમાં અણુઓની હારમાળાની અનિયમિતતા હોવાથી લાઇન ડિફેક્ટ્સ (1D defects) છે."
+  },
+  {
+    "id": 152,
+    "subject": "Engineering Materials",
+    "subTopic": "Hardness Testing (Rockwell, Brinell & Vickers)",
+    "question": "Which mechanical property is primarily evaluated using an Impact Test?",
+    "gujaratiQuestion": "Q152. ઈમ્પેક્ટ ટેસ્ટનો ઉપયોગ મુખ્યત્વે મટિરિયલનો કયો ગુણધર્મ માપવા માટે થાય છે?",
+    "options": [
+      "ક્રીપ",
+      "હાર્ડનેસ",
+      "ટફનેસ (Toughness)",
+      "સ્ટીફનેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ચાર્પી અને આઇઝોડ ઇમ્પેક્ટ ટેસ્ટ દ્વારા અચાનક લાગતા ડાયનેમિક લોડ હેઠળ મટિરિયલની એનર્જી શોષવાની ક્ષમતા એટલે કે ઇમ્પેક્ટ ટફનેસ (Toughness) માપવામાં આવે છે."
+  },
+  {
+    "id": 153,
+    "subject": "Engineering Materials",
+    "subTopic": "Hardness Testing (Rockwell, Brinell & Vickers)",
+    "question": "In the Charpy impact test, how is the test specimen supported in the machine?",
+    "gujaratiQuestion": "Q153. ચાર્પી ઈમ્પેક્ટ ટેસ્ટમાં સ્પેસિમેનને મશીનમાં કઈ રીતે ટેકો આપવામાં આવે છે?",
+    "options": [
+      "કેન્ટીલિવર બીમ તરીકે",
+      "સિમ્પલ સપોર્ટેડ બીમ તરીકે",
+      "ફિક્સ્ડ બીમ તરીકે",
+      "ઓવરહેંગિંગ બીમ તરીકે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ચાર્પી ટેસ્ટમાં સ્પેસિમેનને બંને છેડે સિમ્પલી સપોર્ટેડ બીમ (Simply Supported Beam) તરીકે આડો ગોઠવવામાં આવે છે અને નોચની વિરુદ્ધ બાજુએ પેન્ડુલમ સ્ટ્રાઇક કરે છે."
+  },
+  {
+    "id": 154,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Materials exhibiting identical elastic properties in all directions at a point are called:",
+    "gujaratiQuestion": "Q154. બધી દિશાઓમાં સમાન ઇલાસ્ટિક પ્રોપર્ટીઝ ધરાવતા મટિરિયલ્સને શું કહેવાય છે?",
+    "options": [
+      "આઇડિયલ મટિરિયલ્સ",
+      "યુનિફોર્મ મટિરિયલ્સ",
+      "આઈસોટ્રોપિક મટિરિયલ્સ",
+      "ઇલાસ્ટિક મટિરિયલ્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જે મટિરિયલમાં તમામ દિશાઓમાં ઇલાસ્ટિક મોડ્યુલસ અને ગુણધર્મો સમાન હોય તેને આઇસોટ્રોપિક (Isotropic materials) કહેવાય છે."
+  },
+  {
+    "id": 155,
+    "subject": "Engineering Materials",
+    "subTopic": "Hardness Testing (Rockwell, Brinell & Vickers)",
+    "question": "In the Izod impact test, in which direction is the V-notch of the specimen oriented relative to the pendulum strike?",
+    "gujaratiQuestion": "Q155. આઈઝોડ ઈમ્પેક્ટ ટેસ્ટમાં સ્પેસિમેનની નોચ કઈ દિશામાં રાખવામાં આવે છે?",
+    "options": [
+      "પેન્ડુલમની સ્ટ્રાઈકની સામેની દિશામાં (Facing the strike)",
+      "પેન્ડુલમની સ્ટ્રાઈકની વિરુદ્ધ દિશામાં",
+      "નીચેની તરફ",
+      "ઉપરની તરફ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આઇઝોડ ટેસ્ટમાં સ્પેસિમેનને વર્ટિકલ કેન્ટીલિવર તરીકે ક્લેમ્પ કરવામાં આવે છે અને તેની નોચ પેન્ડુલમ હથોડાની સ્ટ્રાઇકની દિશાની સામે (Facing the strike) રખાય છે."
+  },
+  {
+    "id": 156,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "The strain recovered by a material upon unloading after plastic deformation is known as:",
+    "gujaratiQuestion": "Q156. પ્લાસ્ટિક ડિફોર્મેશન પછી લોડ હટાવતા મટિરિયલ મૂળ સ્થિતિ તરફ જેટલું પાછું ફરે છે, તેને શું કહે છે?",
+    "options": [
+      "પ્લાસ્ટિક સ્ટ્રેન",
+      "ઇલાસ્ટિક રિકવરી",
+      "રેસિડ્યુઅલ સ્ટ્રેન",
+      "ક્રીપ સ્ટ્રેન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અનલોડિંગ વખતે સ્પ્રિંગબેક અસરથી જે ઇલાસ્ટિક સ્ટ્રેઇન પુનઃપ્રાપ્ત થાય છે તેને ઇલાસ્ટિક રિકવરી (Elastic recovery) કહેવામાં આવે છે."
+  },
+  {
+    "id": 157,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "German Silver is an alloy of which elements?",
+    "gujaratiQuestion": "Q157. જર્મન સિલ્વર કોની એલોય છે?",
+    "options": [
+      "સિલ્વર અને ગોલ્ડ",
+      "રિફાઈન્ડ સિલ્વર",
+      "નિકલ, કોપર અને ઝિંક",
+      "નિકલ અને કોપર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જર્મન સિલ્વરમાં વાસ્તવમાં ચાંદી (Silver) હોતી નથી; તે કોપર (આશરે 50-60%), ઝિંક (20%) અને નિકલ (20%) નો મિશ્રધાતુ છે."
+  },
+  {
+    "id": 158,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "The springback phenomenon observed after removing forming loads in sheet metal operations is due to:",
+    "gujaratiQuestion": "Q158. મેટલ ફોર્મિંગ પ્રક્રિયામાં લોડ દૂર કર્યા પછી જોવા મળતી સ્પ્રિંગબેક અસર કોના કારણે થાય છે?",
+    "options": [
+      "ટફનેસ",
+      "ડક્ટિલિટી",
+      "ઇલાસ્ટિક રિકવરી",
+      "હાર્ડનેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બેન્ડિંગ પછી બાહ્ય ફોર્સ હટાવતાં મટિરિયલમાં રહેલા ઇલાસ્ટિક સ્ટ્રેઇનની પુનઃપ્રાપ્તિ (Elastic recovery) ને લીધે સ્પ્રિંગબેક સર્જાય છે."
+  },
+  {
+    "id": 159,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "During elastic recovery, the slope of the linear unloading curve is equal to:",
+    "gujaratiQuestion": "Q159. ઈલાસ્ટિક રિકવરી દરમિયાન અનલોડિંગ કર્વનો ઢાળ કોના જેટલો હોય છે?",
+    "options": [
+      "શીયર મોડ્યુલસ",
+      "બલ્ક મોડ્યુલસ",
+      "યંગ્સ મોડ્યુલસ (Modulus of Elasticity)",
+      "પોઈસન રેશિયો"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્લાસ્ટિક ઝોનમાંથી અનલોડ થતી વખતે રેખા પ્રારંભિક ઇલાસ્ટિક મોડ્યુલસ લાઇનને સમાંતર રહે છે, તેથી તેનો ઢાળ યંગ્સ મોડ્યુલસ (E) જેટલો હોય છે."
+  },
+  {
+    "id": 160,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "The ability of a cutting tool material to resist softening at elevated temperatures is known as:",
+    "gujaratiQuestion": "Q160. ઊંચા તાપમાને નરમ (softening) થવાનો પ્રતિકાર કરવાની મટિરિયલની ક્ષમતાને શું કહેવાય છે?",
+    "options": [
+      "ક્રીપ",
+      "હોટ ટેમ્પરિંગ",
+      "હોટ હાર્ડનેસ (Red Hardness)",
+      "ફટીગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઊંચા કટિંગ તાપમાને કઠિનતા જાળવી રાખવાની ક્ષમતાને રેડ હાર્ડનેસ અથવા હોટ હાર્ડનેસ (Hot Hardness) કહેવાય છે."
+  },
+  {
+    "id": 161,
+    "subject": "Engineering Materials",
+    "subTopic": "Yield Strength, Ductility, Resilience, Toughness & Elastic Recovery",
+    "question": "The permanent residual strain remaining in a material after complete elastic recovery is called:",
+    "gujaratiQuestion": "Q161. સંપૂર્ણ ઇલાસ્ટિક રિકવરી પછી મટિરિયલમાં બચી જતાં કાયમી ડિફોર્મેશનને શું કહે છે?",
+    "options": [
+      "ઇલાસ્ટિક સ્ટ્રેન",
+      "પ્લાસ્ટિક સ્ટ્રેન (Permanent set)",
+      "ફ્રેક્ચર સ્ટ્રેન",
+      "લિનિયર સ્ટ્રેન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અનલોડિંગ પછી પદાર્થમાં રહી ગયેલા કાયમી અપરિવર્તનીય વિકૃતિને પ્લાસ્ટિક સ્ટ્રેઇન (Plastic strain અથવા Permanent set) કહે છે."
+  },
+  {
+    "id": 162,
+    "subject": "Engineering Materials",
+    "subTopic": "Hardness Testing (Rockwell, Brinell & Vickers)",
+    "question": "What is standardly used as an indenter in the Brinell Hardness Test?",
+    "gujaratiQuestion": "Q162. બ્રિનેલ હાર્ડનેસ ટેસ્ટમાં ઈન્ડેન્ટર તરીકે સામાન્ય રીતે શાનો ઉપયોગ થાય છે?",
+    "options": [
+      "સ્ટીલ કોન",
+      "ડાયમંડ પિરામિડ",
+      "હાર્ડન સ્ટીલ અથવા ટંગસ્ટન કાર્બાઈડ બોલ",
+      "સ્ટીલ ક્યુબ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બ્રિનેલ હાર્ડનેસ ટેસ્ટમાં 10 mm (અથવા પ્રમાણિત કદ) નો હાર્ડન સ્ટીલ બોલ કે ટંગસ્ટન કાર્બાઇડ બોલ ઇન્ડેન્ટર તરીકે વપરાય છે."
+  },
+  {
+    "id": 163,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "Which of the following heat treatments is standardly used for stress relieving and softening after cold working?",
+    "gujaratiQuestion": "Q163. મટિરિયલ્સના કોલ્ડ વર્કિંગ પછી નીચેનામાંથી કઈ સ્ટ્રેસ રિલીવિંગ પ્રોસેસનો ઉપયોગ થાય છે?",
+    "options": [
+      "ટેમ્પરિંગ",
+      "સાયનાઈડિંગ",
+      "એનીલિંગ (Process Annealing)",
+      "હાર્ડનિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કોલ્ડ વર્કિંગ બાદ સ્ટ્રેઇન હાર્ડન થયેલી ધાતુમાં આંતરિક સ્ટ્રેસ દૂર કરવા અને ડક્ટિલિટી પુનઃસ્થાપિત કરવા પ્રોસેસ એનીલિંગ (Annealing) કરાય છે."
+  },
+  {
+    "id": 164,
+    "subject": "Engineering Materials",
+    "subTopic": "Hardness Testing (Rockwell, Brinell & Vickers)",
+    "question": "Which area is used in the calculation of Brinell Hardness Number (BHN)?",
+    "gujaratiQuestion": "Q164. બ્રિનેલ હાર્ડનેસ નંબરની ગણતરીમાં કયો એરિયા ધ્યાનમાં લેવાય છે?",
+    "options": [
+      "ઇન્ડેન્ટેશનનો પ્રોજેક્ટેડ એરિયા",
+      "ઈન્ડેન્ટેશનનો ગોળાકાર સરફેસ એરિયા",
+      "ફ્લેટ એરિયા",
+      "મટિરિયલનો ક્રોસ-સેક્શન એરિયા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "BHN = Load / Surface Area of indentation = 2P / [πD(D - √(D² - d²))] મુજબ ઇન્ડેન્ટેશનનો વળાંકવાળો સરફેસ એરિયા લેવાય છે."
+  },
+  {
+    "id": 165,
+    "subject": "Engineering Materials",
+    "subTopic": "Hardness Testing (Rockwell, Brinell & Vickers)",
+    "question": "What is the included angle between opposite faces of the square-based diamond pyramid indenter in Vickers Hardness Test?",
+    "gujaratiQuestion": "Q165. વિકર્સ હાર્ડનેસ ટેસ્ટમાં ડાયમંડ પિરામિડ ઇન્ડેન્ટરની સામસામેની બાજુઓ વચ્ચેનો ખૂણો કેટલો હોય છે?",
+    "options": [
+      "120°",
+      "130°",
+      "136°",
+      "145°"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વિકર્સ ટેસ્ટમાં વપરાતા ડાયમંડ પિરામિડ ઇન્ડેન્ટરની સામસામેની ફેસિસ વચ્ચેનો ખૂણો બરાબર 136° હોય છે."
+  },
+  {
+    "id": 166,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "What is the primary microstructural purpose of normalizing steel?",
+    "gujaratiQuestion": "Q166. સ્ટીલમાં નોર્મલાઈઝિંગ પ્રોસેસનો ઉપયોગ શું મેળવવા માટે થાય છે?",
+    "options": [
+      "ઓસ્ટેનાઈટને માર્ટેન્સાઈટમાં બદલીને ડક્ટિલિટી સુધારવા",
+      "ઓસ્ટેનાઈટને ફાઈન ગ્રેઈન પર્લાઇટમાં બદલીને મિકેનિકલ પ્રોપર્ટીઝ સુધારવા",
+      "ઓસ્ટેનાઈટને માર્ટેન્સાઇટમાં બદલીને હાર્ડનેસ વધારવા",
+      "માર્ટેન્સાઈટને પર્લાઇટમાં બદલીને હાર્ડનેસ ઘટાડવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નોર્મલાઇઝિંગ દ્વારા ગ્રેઇન રિફાઇનમેન્ટ કરીને એકસમાન ફાઇન પર્લાઇટ અને ફેરાઇટ મેળવી મિકેનિકલ ગુણધર્મો સુધારવામાં આવે છે."
+  },
+  {
+    "id": 167,
+    "subject": "Engineering Materials",
+    "subTopic": "Hardness Testing (Rockwell, Brinell & Vickers)",
+    "question": "In the Rockwell Hardness Test, how is the hardness value directly measured?",
+    "gujaratiQuestion": "Q167. રોકવેલ હાર્ડનેસ ટેસ્ટમાં હાર્ડનેસની વેલ્યુ સીધી કઈ રીતે મપાય છે?",
+    "options": [
+      "ઇન્ડેન્ટેશનના વ્યાસ પરથી",
+      "ઈન્ડેન્ટેશનની ઊંડાઈ (Depth of penetration) પરથી",
+      "ઈન્ડેન્ટેશનના સરફેસ એરિયા પરથી",
+      "માઈક્રોસ્કોપ દ્વારા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રોકવેલ ટેસ્ટમાં ડાયલ ગેજ વડે મેજર લોડને લીધે પડેલા ઇન્ડેન્ટેશનની ચોખ્ખી વધારાની ઊંડાઈ (Depth of penetration) સીધી મપાય છે."
+  },
+  {
+    "id": 168,
+    "subject": "Engineering Materials",
+    "subTopic": "Hardness Testing (Rockwell, Brinell & Vickers)",
+    "question": "What is the major load applied in the Rockwell C Scale (HRC) test?",
+    "gujaratiQuestion": "Q168. રોકવેલ C સ્કેલ (HRC) માં મેજર લોડ કેટલો લાગુ કરવામાં આવે છે?",
+    "options": [
+      "60 kg",
+      "100 kg",
+      "150 kg",
+      "500 kg"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રોકવેલ C સ્કેલમાં 120° ડાયમંડ કોન સાથે 150 kg નો કુલ મેજર લોડ (10 kg માઇનોર + 140 kg મેજર) વાપરવામાં આવે છે."
+  },
+  {
+    "id": 169,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "Which of the following represents the correct increasing order of hardness for various steel microstructures?",
+    "gujaratiQuestion": "Q169. સ્ટીલની હીટ ટ્રીટમેન્ટ દરમિયાન, વિવિધ સ્ટ્રક્ચર્સની હાર્ડનેસનો ચડતો ક્રમ (increasing order) કયો છે?",
+    "options": [
+      "માર્ટેન્સાઈટ, ફાઇન પર્લાઇટ, કોર્સ પર્લાઇટ, સ્ફેરોઈડાઈટ",
+      "ફાઈન પર્લાઇટ, કોર્સ પર્લાઈટ, સ્ફેરોઈડાઈટ, માર્ટેન્સાઇટ",
+      "માર્ટેન્સાઇટ, કોર્સ પર્લાઇટ, ફાઈન પર્લાઇટ, સ્ફેરોઈડાઈટ",
+      "સ્ફેરોઈડાઈટ, કોર્સ પર્લાઇટ, ફાઇન પર્લાઇટ, માર્ટેન્સાઇટ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "હાર્ડનેસનો સાચો ચડતો ક્રમ: સ્ફેરોઇડાઇટ (સૌથી નરમ) < કોર્સ પર્લાઇટ < ફાઇન પર્લાઇટ < બેનાઇટ < માર્ટેનસાઇટ (સૌથી કઠણ)."
+  },
+  {
+    "id": 170,
+    "subject": "Engineering Materials",
+    "subTopic": "Hardness Testing (Rockwell, Brinell & Vickers)",
+    "question": "The Knoop hardness test is primarily preferred for:",
+    "gujaratiQuestion": "Q170. નૂપ હાર્ડનેસ ટેસ્ટનો ઉપયોગ સામાન્ય રીતે ક્યાં થાય છે?",
+    "options": [
+      "મોટા કાસ્ટિંગ માટે",
+      "માઈક્રોહાર્ડનેસ, પાતળા કોટિંગ અને બ્રિટલ મટિરિયલ્સ માટે",
+      "રબર માટે",
+      "લાકડા માટે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નૂપ ટેસ્ટમાં લંબગોળ ડાયમંડ પિરામિડ વડે અતિ સૂક્ષ્મ ઇન્ડેન્ટેશન થતું હોવાથી તે માઇક્રો-હાર્ડનેસ અને પાતળા ફોઇલ/કોટિંગ માટે વપરાય છે."
+  },
+  {
+    "id": 171,
+    "subject": "Engineering Materials",
+    "subTopic": "Relationship Between Hardness & Material Strength",
+    "question": "What is the general relationship between hardness and ultimate tensile strength in steels?",
+    "gujaratiQuestion": "Q171. હાર્ડનેસ અને અલ્ટિમેટ ટેન્સાઇલ સ્ટ્રેન્થ વચ્ચેનો સંબંધ કેવો હોય છે?",
+    "options": [
+      "વ્યસ્ત પ્રમાણમાં",
+      "સીધા પ્રમાણમાં (Directly proportional)",
+      "સમાન",
+      "કોઈ સંબંધ નથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટીલ માટે હાર્ડનેસ વધતાં તેની ટેન્સાઇલ સ્ટ્રેન્થ પણ રેખીય રીતે વધે છે (UTS ≈ 3.45 × BHN), એટલે કે તેઓ સીધા સમપ્રમાણમાં છે."
+  },
+  {
+    "id": 172,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "Dendritic grain growth during solidification of molten metal is primarily caused by:",
+    "gujaratiQuestion": "Q172. પીગળેલી મેટલ ઘન (solidified) થાય ત્યારે ડેન્ડ્રાઈટિક ગ્રોથ શેના કારણે થાય છે?",
+    "options": [
+      "ઈન્વર્સ ટેમ્પરેચર ગ્રેડિયન્ટ / કોન્સ્ટીટ્યુશનલ સુપરકૂલિંગ",
+      "ઈન્ટરફેસ પર અંડરકૂલિંગ",
+      "રેપિડ કૂલિંગ",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પ્રવાહી-ઘન ઇન્ટરફેસ આગળ કોન્સ્ટીટ્યુશનલ અંડરકૂલિંગ અથવા ઋણ તાપમાન ગ્રેડિયન્ટને કારણે વૃક્ષ જેવો ડેન્ડ્રાઇટિક ગ્રોથ થાય છે."
+  },
+  {
+    "id": 173,
+    "subject": "Engineering Materials",
+    "subTopic": "Relationship Between Hardness & Material Strength",
+    "question": "For plain carbon steels, the Ultimate Tensile Strength (in MPa) is approximately how many times the Brinell Hardness Number (BHN)?",
+    "gujaratiQuestion": "Q173. સ્ટીલ માટે અલ્ટિમેટ ટેન્સાઈલ સ્ટ્રેન્થ અંદાજિત રીતે બ્રિનેલ હાર્ડનેસ નંબરના કેટલા ગણી હોય છે?",
+    "options": [
+      "1.5 ગણી",
+      "2.5 ગણી",
+      "3.45 ગણી",
+      "5.0 ગણી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્ટીલ માટે એમ્પિરિકલ સંબંધ મુજબ UTS (MPa) ≈ 3.45 × BHN (અથવા psi માં 500 × BHN) થાય છે."
+  },
+  {
+    "id": 174,
+    "subject": "Engineering Materials",
+    "subTopic": "Hardness Testing (Rockwell, Brinell & Vickers)",
+    "question": "In the Vickers hardness test, what is measured using a calibrated microscope to determine hardness?",
+    "gujaratiQuestion": "Q174. વિકર્સ હાર્ડનેસ ટેસ્ટમાં હાર્ડનેસ નંબર શોધવા માટે માઈક્રોસ્કોપ વડે શું માપવામાં આવે છે?",
+    "options": [
+      "ઇન્ડેન્ટેશનના ડાયાગોનલની સરેરાશ લંબાઈ (d)",
+      "ઇન્ડેન્ટેશનની ઊંડાઈ",
+      "ગોળાઈનો વ્યાસ",
+      "પરિઘ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વિકર્સ ટેસ્ટમાં ચોરસ ઇન્ડેન્ટેશનના બંને કર્ણો (Diagonals d1 અને d2) ની સરેરાશ લંબાઈ માપી HV = 1.854 P / d² ગણાય છે."
+  },
+  {
+    "id": 175,
+    "subject": "Engineering Materials",
+    "subTopic": "Hardness Testing (Rockwell, Brinell & Vickers)",
+    "question": "Which type of indenter is used in the Rockwell C Scale (HRC)?",
+    "gujaratiQuestion": "Q175. રોકવેલ C સ્કેલમાં કયા પ્રકારના ઇન્ડેન્ટરનો ઉપયોગ થાય છે?",
+    "options": [
+      "1/16 inch સ્ટીલ બોલ",
+      "બ્રેલ (120° ડાયમંડ કોન)",
+      "ડાયમંડ પિરામિડ",
+      "ટંગસ્ટન બોલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રોકવેલ C સ્કેલમાં 120° શંકુ ખૂણો ધરાવતો સ્ફિરો-કોનિકલ ડાયમંડ ઇન્ડેન્ટર (Brale indenter) વપરાય છે."
+  },
+  {
+    "id": 176,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "At 900°C, what is the microstructure of steel containing 0.4 wt% Carbon?",
+    "gujaratiQuestion": "Q176. 900°C પર 0.4 wt % C ધરાવતા સ્ટીલનો માઈક્રોસ્ટ્રક્ચર કયા પ્રકારનો હોય છે?",
+    "options": [
+      "સંપૂર્ણ ઓસ્ટેનાઇટિક (Homogeneous Austenite)",
+      "પર્લાઇટ",
+      "ઓસ્ટેનાઇટ અને ફેરાઇટ",
+      "માર્ટેન્સાઇટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fe-C ફેઝ ડાયાગ્રામમાં 0.4% C સ્ટીલ માટે A3 તાપમાન આશરે 800°C હોય છે, તેથી 900°C પર તે સંપૂર્ણપણે સિંગલ ફેઝ ઓસ્ટેનાઇટ (γ) ક્ષેત્રમાં હોય છે."
+  },
+  {
+    "id": 177,
+    "subject": "Engineering Materials",
+    "subTopic": "Hardness Testing (Rockwell, Brinell & Vickers)",
+    "question": "What is the standard minor preload applied in the Rockwell hardness test before applying major load?",
+    "gujaratiQuestion": "Q177. રોકવેલ હાર્ડનેસ ટેસ્ટમાં પ્રીલોડ (માઈનોર લોડ) સામાન્ય રીતે કેટલો રાખવામાં આવે છે?",
+    "options": [
+      "3 kg",
+      "10 kg",
+      "30 kg",
+      "60 kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સપાટીની અસમાનતા દૂર કરી યોગ્ય સીટિંગ માટે રોકવેલ ટેસ્ટમાં સ્ટાન્ડર્ડ 10 kg નો પ્રારંભિક માઇનોર લોડ લગાવવામાં આવે છે."
+  },
+  {
+    "id": 178,
+    "subject": "Engineering Materials",
+    "subTopic": "Hardness Testing (Rockwell, Brinell & Vickers)",
+    "question": "Which of the following hardness tests is NOT an optical measurement method (does not require a microscope)?",
+    "gujaratiQuestion": "Q178. નીચેનામાંથી કઈ હાર્ડનેસ ટેસ્ટ ઓપ્ટિકલ મેથડ (માઈક્રોસ્કોપનો ઉપયોગ) નથી?",
+    "options": [
+      "બ્રિનેલ",
+      "વિકર્સ",
+      "નૂપ",
+      "રોકવેલ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "રોકવેલ ટેસ્ટ સીધો ડાયલ ગેજ વડે ઊંડાઈ માપે છે, જ્યારે બ્રિનેલ, વિકર્સ અને નૂપમાં ઇન્ડેન્ટેશન માપવા માઇક્રોસ્કોપ જરૂરી બને છે."
+  },
+  {
+    "id": 179,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Arrange the following traditional ceramics in decreasing order of their maximum operating temperature capability:",
+    "gujaratiQuestion": "Q179. નીચે આપેલા સિરામિક્સને તેમની મહત્તમ ઓપરેટિંગ ટેમ્પરેચર રેન્જના ઉતરતા ક્રમમાં (decreasing order) ગોઠવો.",
+    "options": [
+      "પોર્સેલિન, અર્ધનવેર, સ્ટોનવેર",
+      "પોર્સેલિન, સ્ટોનવેર, અર્ધનવેર",
+      "અર્ધનવેર, સ્ટોનવેર, પોર્સેલિન",
+      "સ્ટોનવેર, અર્ધનવેર, પોર્સેલિન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફાયરિંગ અને રિફ્રેક્ટરીનેસનો સાચો ઉતરતો ક્રમ: પોર્સેલિન (~1200-1400°C) > સ્ટોનવેર (~1100-1200°C) > અર્ધનવેર (~1000°C)."
+  },
+  {
+    "id": 180,
+    "subject": "Engineering Materials",
+    "subTopic": "Static Failure Theories",
+    "question": "Maximum Normal Stress Theory (Rankine's Theory) gives the best and safest results for which type of materials?",
+    "gujaratiQuestion": "Q180. મેક્સિમમ નોર્મલ સ્ટ્રેસ થિયરી કયા પ્રકારના મટિરિયલ માટે શ્રેષ્ઠ પરિણામ આપે છે?",
+    "options": [
+      "ડક્ટાઈલ",
+      "બ્રિટલ (Brittle materials)",
+      "પ્લાસ્ટિક",
+      "ઈલાસ્ટોમર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રેન્કાઇનની મેક્સિમમ પ્રિન્સિપલ/નોર્મલ સ્ટ્રેસ થિયરી કાસ્ટ આયર્ન જેવા બ્રિટલ મટિરિયલ્સની ડિઝાઇન માટે સર્વોત્તમ છે."
+  },
+  {
+    "id": 181,
+    "subject": "Engineering Materials",
+    "subTopic": "Static Failure Theories",
+    "question": "Which static failure theory provides the most conservative (safest) design for ductile materials?",
+    "gujaratiQuestion": "Q181. ડક્ટાઈલ મટિરિયલ માટે કઈ ફેલ્યોર થિયરી સૌથી વધુ કન્ઝર્વેટિવ અને સુરક્ષિત ડિઝાઈન આપે છે?",
+    "options": [
+      "વોન-મિસીસ થિયરી",
+      "મેક્સિમમ શીયર સ્ટ્રેસ થિયરી (Tresca Theory)",
+      "રેન્કાઈન થિયરી",
+      "સેન્ટ-વેનાન્ટ થિયરી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટ્રેસ્કા થિયરી (MSST) નું ફેલ્યોર એન્વેલપ વોન-મિસીસની અંદર સમાયેલું હોવાથી તે સૌથી વધુ રૂઢિચુસ્ત (Conservative) અને સુરક્ષિત પરિમાણો આપે છે."
+  },
+  {
+    "id": 182,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Vulcanized rubber with carbon black reinforcement is an example of which composite category?",
+    "gujaratiQuestion": "Q182. વલ્કેનાઈઝ્ડ રબર એ કોનું ઉદાહરણ છે?",
+    "options": [
+      "લાર્જ પાર્ટીકલ કોમ્પોઝિટ",
+      "ડિસ્પર્ઝન-સ્ટ્રેન્થન્ડ કોમ્પોઝિટ",
+      "ડિસકન્ટીન્યુઅસ ફાઇબર કોમ્પોઝિટ",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઓટોમોબાઇલ ટાયરમાં કાર્બન બ્લેક પાર્ટીકલ્સ રબર મેટ્રિક્સમાં ભળીને લાર્જ-પાર્ટીકલ પાર્ટીક્યુલેટ કોમ્પોઝિટ રચે છે."
+  },
+  {
+    "id": 183,
+    "subject": "Engineering Materials",
+    "subTopic": "Static Failure Theories",
+    "question": "By which other name is the Maximum Distortion Energy Theory known?",
+    "gujaratiQuestion": "Q183. મેક્સિમમ ડિસ્ટોર્શન એનર્જી થિયરી બીજા કયા નામથી ઓળખાય છે?",
+    "options": [
+      "રેન્કાઈન થિયરી",
+      "ટ્રેસ્કા થિયરી",
+      "વોન-મિસીસ થિયરી (Von Mises - Hencky Theory)",
+      "સેન્ટ-વેનાન્ટ થિયરી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડિસ્ટોર્શન એનર્જી થિયરીને વોન-મિસીસ થિયરી (Von Mises Criterion) અથવા શીયર સ્ટ્રેઇન એનર્જી થિયરી કહેવામાં આવે છે."
+  },
+  {
+    "id": 184,
+    "subject": "Engineering Materials",
+    "subTopic": "Static Failure Theories",
+    "question": "For biaxial (2D) state of stress, what is the geometric shape of the failure envelope for Maximum Shear Stress Theory (Tresca)?",
+    "gujaratiQuestion": "Q184. દ્વિ-પરિમાણીય સ્ટ્રેસ માટે મેક્સિમમ શીયર સ્ટ્રેસ થિયરીની ફેલ્યોર એન્વેલપ કેવી હોય છે?",
+    "options": [
+      "ઇલિપ્સ",
+      "વર્તુળ",
+      "હેક્ઝાગોન (ષટ્કોણ)",
+      "ચોરસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટ્રેસ્કા થિયરીની 2D બાઉન્ડ્રી હેક્ઝાગોન (Hexagon) આકારની હોય છે."
+  },
+  {
+    "id": 185,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Which of the following high-performance fibers exhibits the highest specific tensile strength and modulus?",
+    "gujaratiQuestion": "Q185. નીચેનામાંથી કોની સ્ટ્રેન્થ મહત્તમ હોય છે?",
+    "options": [
+      "કાર્બન ફાઇબર",
+      "એરામિડ (Aramid/Kevlar) ફાઇબર",
+      "ગ્લાસ ફાઈબર",
+      "એસ્બેસ્ટોસ ફાઇબર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એરામિડ (કેવલર) ફાઇબર્સ અતિ-ઊંચી ટેન્સાઇલ સ્ટ્રેન્થ અને ઉત્તમ ઇમ્પેક્ટ/બેલેસ્ટિક શોષણ ક્ષમતા ધરાવે છે."
+  },
+  {
+    "id": 186,
+    "subject": "Engineering Materials",
+    "subTopic": "Static Failure Theories",
+    "question": "For a biaxial state of stress, the failure envelope of the Von Mises (Maximum Distortion Energy) Theory is a/an:",
+    "gujaratiQuestion": "Q186. દ્વિ-પરિમાણીય સ્ટ્રેસ માટે વોન-મિસીસ થિયરીની ફેલ્યોર એન્વેલપનો આકાર કેવો હોય છે?",
+    "options": [
+      "ઇલિપ્સ (ઉપવલય)",
+      "વર્તુળ",
+      "હેક્ઝાગોન",
+      "ચોરસ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વોન-મિસીસ સમીકરણ σ1² - σ1σ2 + σ2² = Sy² દ્વિ-પરિમાણમાં 45° પર નમેલા ઇલિપ્સ (Ellipse) ની રચના કરે છે."
+  },
+  {
+    "id": 187,
+    "subject": "Engineering Materials",
+    "subTopic": "Maximum Normal Stress, Mohr-Coulomb & Modified Mohr-Coulomb Theories",
+    "question": "The Mohr-Coulomb failure criterion is primarily applied to materials that have:",
+    "gujaratiQuestion": "Q187. મોહર-કુલમ્બ ફેલ્યોર થિયરી કયા પ્રકારના મટિરિયલ માટે વાપરવામાં આવે છે?",
+    "options": [
+      "જેમાં કમ્પ્રેસિવ અને ટેન્સાઈલ સ્ટ્રેન્થ સમાન હોય",
+      "જેમાં કમ્પ્રેસિવ અને ટેન્સાઈલ સ્ટ્રેન્થ અલગ-અલગ હોય (Syc ≠ Syt)",
+      "માત્ર સંપૂર્ણ ઈલાસ્ટિક મટિરિયલ માટે",
+      "માત્ર પ્લાસ્ટિક મટિરિયલ માટે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોહર-કૂલમ્બ થિયરી એવા બ્રિટલ કે માટી જેવા મટિરિયલ્સ માટે વપરાય છે જેમના કમ્પ્રેશન અને ટેન્શન સ્ટ્રેન્થ ગુણધર્મો અસમાન હોય છે."
+  },
+  {
+    "id": 188,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Generally, in a composite material, which constituent carries the majority of the applied mechanical load?",
+    "gujaratiQuestion": "Q188. સામાન્ય રીતે કોમ્પોઝિટનો મજબૂત ઘટક (constituent) કયો હોય છે?",
+    "options": [
+      "મેટ્રિક્સ",
+      "રિઈન્ફોર્સમેન્ટ (Reinforcing phase)",
+      "બંને સમાન સ્ટ્રેન્થ ધરાવે છે",
+      "ફિલર્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કોમ્પોઝિટમાં રિઇન્ફોર્સમેન્ટ (ફાઇબર કે પાર્ટીકલ) મુખ્ય લોડ વહન કરે છે અને ઉચ્ચ તાકાત આપે છે."
+  },
+  {
+    "id": 189,
+    "subject": "Engineering Materials",
+    "subTopic": "Static Failure Theories",
+    "question": "Under pure torsion, according to Tresca's Maximum Shear Stress Theory, the shear yield strength (Ssy) is:",
+    "gujaratiQuestion": "Q189. પ્યોર ટોર્શનમાં ટ્રેસ્કા થિયરી મુજબ શીયર યિલ્ડ સ્ટ્રેન્થ કેટલી હોય છે?",
+    "options": [
+      "0.50 Sy",
+      "0.577 Sy",
+      "0.707 Sy",
+      "1.0 Sy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ટ્રેસ્કા થિયરી મુજબ પ્યોર શીયરમાં યીલ્ડ લિમિટ Ssy = 0.50 × Sy (50% of tensile yield strength) થાય છે."
+  },
+  {
+    "id": 190,
+    "subject": "Engineering Materials",
+    "subTopic": "Static Failure Theories",
+    "question": "Under pure torsion, according to Von Mises Distortion Energy Theory, the shear yield strength (Ssy) is:",
+    "gujaratiQuestion": "Q190. પ્યોર ટોર્શનમાં વોન-મિસીસ થિયરી મુજબ શીયર યિલ્ડ સ્ટ્રેન્થ કેટલી હોય છે?",
+    "options": [
+      "0.50 Sy",
+      "0.577 Sy (Sy / √3)",
+      "0.707 Sy",
+      "1.0 Sy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વોન-મિસીસ થિયરી મુજબ પ્યોર શીયર માટે Ssy = Sy / √3 ≈ 0.577 Sy થાય છે."
+  },
+  {
+    "id": 191,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "In polymer matrix composites (PMC), what role does the polymer primarily serve?",
+    "gujaratiQuestion": "Q191. પોલિમર કોમ્પોઝિટ્સમાં, પોલિમર કઈ રીતે વર્તે છે?",
+    "options": [
+      "મેટ્રિક્સ (Matrix)",
+      "રિઈન્ફોર્સમેન્ટ",
+      "ઈન્ટરફેઝ",
+      "ઈન્ટરફેસ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PMC માં પોલિમર (રેઝિન) એ મેટ્રિક્સ તરીકે કામ કરે છે જે ફાઇબર્સને બાંધી રાખે છે અને લોડ ટ્રાન્સફર કરે છે."
+  },
+  {
+    "id": 192,
+    "subject": "Engineering Materials",
+    "subTopic": "Maximum Normal Stress, Mohr-Coulomb & Modified Mohr-Coulomb Theories",
+    "question": "For a biaxial state of stress, what is the geometric shape of the failure envelope for the Maximum Normal Stress Theory?",
+    "gujaratiQuestion": "Q192. મેક્સિમમ નોર્મલ સ્ટ્રેસ થિયરી મુજબ દ્વિ-પરિમાણીય સ્ટ્રેસ માટે ફેલ્યોર એન્વેલપનો આકાર કેવો હોય છે?",
+    "options": [
+      "હેક્ઝાગોન",
+      "ચોરસ (Square)",
+      "ઇલિપ્સ",
+      "વર્તુળ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રેન્કાઇનની થિયરી (-Sut ≤ σ1, σ2 ≤ Sut) 2D પ્લેનમાં એક ચોરસ (Square) બાઉન્ડ્રી બનાવે છે."
+  },
+  {
+    "id": 193,
+    "subject": "Engineering Materials",
+    "subTopic": "Maximum Normal Stress, Mohr-Coulomb & Modified Mohr-Coulomb Theories",
+    "question": "Modified Mohr theory is considered most suitable for which type of engineering design?",
+    "gujaratiQuestion": "Q193. મોડિફાઈડ મોહર થિયરી મુખ્યત્વે કયા પ્રકારની ડિઝાઈન માટે વધુ યોગ્ય ગણાય છે?",
+    "options": [
+      "ડક્ટાઈલ મટિરિયલના સ્ટેટિક લોડિંગ માટે",
+      "બ્રિટલ મટિરિયલના સ્ટેટિક લોડિંગ માટે (જેમાં Syt ≠ Syc)",
+      "ફટીગ લોડિંગ માટે",
+      "ઈમ્પેક્ટ લોડિંગ માટે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોડિફાઇડ મોહર થિયરી અસમાન ટેન્સાઇલ અને કમ્પ્રેસિવ સ્ટ્રેન્થ ધરાવતા બ્રિટલ મટિરિયલ્સ (જેમ કે ગ્રે કાસ્ટ આયર્ન) માટે સર્વશ્રેષ્ઠ ફિટ આપે છે."
+  },
+  {
+    "id": 194,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Rayon (regenerated cellulose fiber) is manufactured from which raw material?",
+    "gujaratiQuestion": "Q194. રેયોન શેમાંથી બનાવવામાં આવે છે?",
+    "options": [
+      "લાકડાના માવા (Wood pulp)",
+      "ઝાડની છાલ",
+      "સૂકા પાંદડા",
+      "પેટ્રોલિયમ પ્રોડક્ટ્સ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રેયોન કુદરતી સેલ્યુલોઝ એટલે કે લાકડાના માવા (Wood pulp) ની રાસાયણિક પ્રક્રિયા દ્વારા બનાવવામાં આવતો પુનઃઉત્પાદિત ફાઇબર છે."
+  },
+  {
+    "id": 195,
+    "subject": "Engineering Materials",
+    "subTopic": "Fracture Mechanics",
+    "question": "Griffith's theory of fracture is primarily applicable to which type of fracture?",
+    "gujaratiQuestion": "Q195. ગ્રિફિથનો સિદ્ધાંત મુખ્યત્વે કયા પ્રકારના ફ્રેક્ચર માટે લાગુ પડે છે?",
+    "options": [
+      "ડક્ટાઇલ યિલ્ડિંગ",
+      "બ્રિટલ ફ્રેક્ચર (Brittle fracture in glass/ceramics)",
+      "ક્રીપ ફ્રેક્ચર",
+      "ફટીગ ફ્રેક્ચર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગ્રિફિથની થિયરી કાચ અને સિરામિક્સ જેવા સંપૂર્ણ બ્રિટલ મટિરિયલ્સમાં પૂર્વ-હયાત માઇક્રો-ક્રેકના પ્રસાર માટે લાગુ પડે છે."
+  },
+  {
+    "id": 196,
+    "subject": "Engineering Materials",
+    "subTopic": "Fracture Mechanics",
+    "question": "According to Griffith's energy balance criterion, when does a crack propagate catastrophically?",
+    "gujaratiQuestion": "Q196. ગ્રિફિથના સિદ્ધાંત મુજબ, ક્રેક ક્યારે આગળ વધે છે?",
+    "options": [
+      "જ્યારે સ્ટ્રેન એનર્જીનો ઘટાડો સરફેસ એનર્જીના વધારા જેટલો કે તેથી વધુ હોય",
+      "જ્યારે સ્ટ્રેન એનર્જી શૂન્ય થાય",
+      "જ્યારે ક્રેક લંબાઈ ઘટે",
+      "જ્યારે સરફેસ એનર્જી ઘટે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ક્રેક ત્યારે જ આગળ વધે છે જ્યારે ક્રેક લંબાઈ વધવાથી મુક્ત થતી ઇલાસ્ટિક સ્ટ્રેઇન એનર્જી નવી સપાટી બનાવવા માટે જરૂરી સરફેસ એનર્જી જેટલી કે વધુ થાય."
+  },
+  {
+    "id": 197,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Which of the following is classified as a synthetic fiber?",
+    "gujaratiQuestion": "Q197. નીચેનામાંથી સિન્થેટિક ફાઇબર કયો છે?",
+    "options": [
+      "કાર્બન",
+      "નાયલોન",
+      "ગ્લાસ",
+      "ઉપરના તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "નાયલોન, કાર્બન ફાઇબર અને ગ્લાસ ફાઇબર તમામ માનવસર્જિત કૃત્રિમ (Synthetic) ફાઇબર્સ છે."
+  },
+  {
+    "id": 198,
+    "subject": "Engineering Materials",
+    "subTopic": "Fracture Mechanics",
+    "question": "In linear elastic fracture mechanics (LEFM), the intensity of the stress field near a crack tip is characterized by which factor?",
+    "gujaratiQuestion": "Q198. ફ્રેક્ચર મિકેનિક્સમાં ક્રેકના છેડે પેદા થતા સ્ટ્રેસની તીવ્રતા કયા ફેક્ટર વડે દર્શાવાય છે?",
+    "options": [
+      "સ્ટ્રેસ કોન્સન્ટ્રેશન ફેક્ટર (Kt)",
+      "સ્ટ્રેસ ઇન્ટેન્સિટી ફેક્ટર (K)",
+      "ફટીગ ફેક્ટર",
+      "સેફ્ટી ફેક્ટર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ક્રેક ટીપ આગળ લોકલ સ્ટ્રેસ ફીલ્ડની તીવ્રતા દર્શાવવા સ્ટ્રેસ ઇન્ટેન્સિટી ફેક્ટર K = Y·σ·√(πa) વપરાય છે."
+  },
+  {
+    "id": 199,
+    "subject": "Engineering Materials",
+    "subTopic": "Fracture Mechanics",
+    "question": "Under plane strain conditions, the fracture toughness (K_IC) of a material is:",
+    "gujaratiQuestion": "Q199. પ્લેન સ્ટ્રેન કન્ડિશનમાં મટિરિયલની ફ્રેક્ચર ટફનેસ કઈ બાબત પર આધાર રાખે છે?",
+    "options": [
+      "માત્ર ક્રેકની લંબાઈ પર",
+      "માત્ર લાગુ પડેલા લોડ પર",
+      "તે મટિરિયલની પોતાની મૂળભૂત પ્રોપર્ટી છે",
+      "માત્ર ભાગની જાડાઈ પર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્લેન સ્ટ્રેન ફ્રેક્ચર ટફનેસ (K_IC) એ નમૂનાના કદ અને જાડાઈથી મુક્ત રહેતી મટિરિયલની મૂળભૂત પ્રોપર્ટી (Material property) છે."
+  },
+  {
+    "id": 200,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Which of the following polymer architectures represents a copolymer formed by distinct monomer chains?",
+    "gujaratiQuestion": "Q200. નીચેનામાંથી કયા પ્રકારનું પોલિમર એક કોપોલિમર (copolymer) છે?",
+    "options": [
+      "ગ્રાફ્ટ (Graft Copolymer)",
+      "નેટવર્ક",
+      "લિનિયર હોમોપોલિમર",
+      "બ્રાન્ચ્ડ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ગ્રાફ્ટ કોપોલિમર (Graft copolymer) માં એક મોનોમરની મુખ્ય શૃંખલા સાથે બીજા મોનોમરની શાખાઓ જોડાયેલી હોય છે."
+  },
+  {
+    "id": 201,
+    "subject": "Engineering Materials",
+    "subTopic": "Fracture Mechanics",
+    "question": "According to Griffith's formula, the critical tensile stress required for brittle fracture (σf) is related to crack length (a) as:",
+    "gujaratiQuestion": "Q201. ગ્રિફિથના સૂત્ર મુજબ, ફ્રેક્ચર થવા માટે જરૂરી સ્ટ્રેસ ક્રેકની લંબાઈ સાથે કઈ રીતે સંબંધિત છે?",
+    "options": [
+      "ક્રેકની લંબાઈના સીધા પ્રમાણમાં",
+      "ક્રેકની લંબાઈના વર્ગના પ્રમાણમાં",
+      "ક્રેકની લંબાઈના વર્ગમૂળના વ્યસ્ત પ્રમાણમાં (1 / √a)",
+      "ક્રેકની લંબાઈ પર આધારિત નથી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગ્રિફિથ સૂત્ર σf = √[(2Eγ)/(πa)] મુજબ ફ્રેક્ચર સ્ટ્રેસ ક્રેક લંબાઈના વર્ગમૂળના વ્યસ્ત પ્રમાણમાં (σf ∝ 1/√a) હોય છે."
+  },
+  {
+    "id": 202,
+    "subject": "Engineering Materials",
+    "subTopic": "Fracture Mechanics",
+    "question": "In fracture mechanics, the mode of loading where the crack surfaces separate normal to the plane of the crack is called:",
+    "gujaratiQuestion": "Q202. ફ્રેક્ચર મિકેનિક્સમાં ક્રેક સરફેસને એકબીજાથી સીધી જ દૂર-ખેંચવાની ક્રિયાને કયો મોડ કહેવાય છે?",
+    "options": [
+      "મોડ I (Opening Mode)",
+      "મોડ II (Sliding Mode)",
+      "મોડ III (Tearing Mode)",
+      "મોડ IV"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ટેન્સાઇલ સ્ટ્રેસ હેઠળ ક્રેકના બે હોઠ સીધા સામસામે ખુલે તેને મોડ I અથવા ઓપનિંગ મોડ (Mode I - Opening) કહે છે."
+  },
+  {
+    "id": 203,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "Which characteristic property of grey cast iron is exceptionally high?",
+    "gujaratiQuestion": "Q203. કાસ્ટ આયર્નની વિશિષ્ટ પ્રોપર્ટી કઈ છે કે જે ખૂબ ઊંચી હોય છે?",
+    "options": [
+      "મેલિએબિલિટી",
+      "ડક્ટિલિટી",
+      "સરફેસ ફિનિશ",
+      "ડેમ્પિંગ કેરેક્ટરિસ્ટિક્સ (Vibration Damping)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ગ્રેફાઇટ ફ્લેક્સની હાજરીને કારણે ગ્રે કાસ્ટ આયર્ન ઉત્કૃષ્ટ વાઇબ્રેશન ડેમ્પિંગ ક્ષમતા (Damping capacity) ધરાવે છે."
+  },
+  {
+    "id": 204,
+    "subject": "Engineering Materials",
+    "subTopic": "Introduction to Non-Destructive Testing (NDT)",
+    "question": "Which NDT method is the simplest and most cost-effective for detecting surface cracks in non-porous materials?",
+    "gujaratiQuestion": "Q204. નોન-પોરસ મટિરિયલની સપાટી પરની તિરાડો શોધવા માટે કઈ NDT પદ્ધતિ સૌથી સરળ છે?",
+    "options": [
+      "અલ્ટ્રાસોનિક ટેસ્ટ",
+      "રેડિયોગ્રાફી ટેસ્ટ",
+      "લિક્વિડ પેનિટ્રન્ટ ટેસ્ટ (LPT/DPT)",
+      "એડી કરંટ ટેસ્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લિક્વિડ ડાઇ પેનિટ્રન્ટ ટેસ્ટિંગ (LPT) નોન-પોરસ સપાટી પરની ઓપન ક્રેક્સ શોધવા માટે સૌથી ઝડપી અને સરળ પદ્ધતિ છે."
+  },
+  {
+    "id": 205,
+    "subject": "Engineering Materials",
+    "subTopic": "Introduction to Non-Destructive Testing (NDT)",
+    "question": "On which physical principle does the Liquid Penetrant Test (LPT) operate?",
+    "gujaratiQuestion": "Q205. લિક્વિડ પેનિટ્રન્ટ ટેસ્ટ કયા ભૌતિક સિદ્ધાંત પર કાર્ય કરે છે?",
+    "options": [
+      "ઈલેક્ટ્રોમેગ્નેટિઝમ",
+      "કેપિલરી એક્શન (Capillary action)",
+      "સાઉન્ડ વેવ રિફ્લેક્શન",
+      "રેડિયેશન એબ્સોર્પ્શન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "લિક્વિડ પેનિટ્રન્ટ કેપિલરી એક્શન (કેશાકર્ષણ) ના સિદ્ધાંત પર સપાટી પરની સૂક્ષ્મ તિરાડોમાં અંદર પ્રવેશે છે."
+  },
+  {
+    "id": 206,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "What is the exact percentage of carbon in pure eutectoid steel?",
+    "gujaratiQuestion": "Q206. યુટેક્ટોઈડ સ્ટીલમાં કેટલા ટકા કાર્બન હોય છે?",
+    "options": [
+      "0.02%",
+      "0.8% (અથવા 0.76% થી 0.8%)",
+      "0.3%",
+      "0.63%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આયર્ન-કાર્બન ડાયાગ્રામમાં યુટેક્ટોઇડ પોઇન્ટ 0.8% (0.76-0.83%) કાર્બન પર આવેલો હોય છે."
+  },
+  {
+    "id": 207,
+    "subject": "Engineering Materials",
+    "subTopic": "Introduction to Non-Destructive Testing (NDT)",
+    "question": "Magnetic Particle Inspection (MPI) is applicable exclusively to which materials?",
+    "gujaratiQuestion": "Q207. મેગ્નેટિક પાર્ટીકલ ઇન્સ્પેક્શન (MPI) પદ્ધતિ કયા મટિરિયલ માટે વાપરી શકાય છે?",
+    "options": [
+      "એલ્યુમિનિયમ",
+      "પ્લાસ્ટિક",
+      "ફેરોમેગ્નેટિક મટિરિયલ્સ",
+      "લાકડું"
+    ],
+    "correctAnswer": 2,
+    "explanation": "MPI પદ્ધતિ માત્ર ચુંબકીય ફ્લક્સ લીકેજ બનાવી શકે તેવા ફેરોમેગ્નેટિક (લોહચુંબકીય) પદાર્થો (જેમ કે સ્ટીલ અને કાસ્ટ આયર્ન) માટે જ ઉપયોગી છે."
+  },
+  {
+    "id": 208,
+    "subject": "Engineering Materials",
+    "subTopic": "Introduction to Non-Destructive Testing (NDT)",
+    "question": "In Ultrasonic Testing (UT), what is used between the probe transducer and test surface to eliminate air gaps?",
+    "gujaratiQuestion": "Q208. અલ્ટ્રાસોનિક ટેસ્ટિંગમાં ટ્રાન્સડ્યુસર અને મટિરિયલ વચ્ચે હવા દૂર કરવા માટે શાનો ઉપયોગ થાય છે?",
+    "options": [
+      "ડેવલપર",
+      "આયર્ન પાવડર",
+      "કપલન્ટ (Couplant - oil/gel)",
+      "પેનિટ્રન્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હવા અલ્ટ્રાસોનિક તરંગોનું શોષણ કરી લેતી હોવાથી સાઉન્ડ એનર્જીના યોગ્ય ટ્રાન્સમિશન માટે ઓઇલ, ગ્રીસ કે જેલ જેવો કપલન્ટ (Couplant) વપરાય છે."
+  },
+  {
+    "id": 209,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "The primary function of a universal joint is to allow the propeller shaft to:",
+    "gujaratiQuestion": "Q209. યુનિવર્સલ જોઈન્ટનું કાર્ય પ્રોપેલર શાફ્ટને શું કરવાની મંજૂરી આપવાનું છે?",
+    "options": [
+      "કોઈ એંગલ પર ટોર્ક ટ્રાન્સફર કરવા (Transmit torque at an angle)",
+      "બાજુઓ પર વળવા (Bend side ways)",
+      "તેની લંબાઈ બદલવા",
+      "આપેલ વિકલ્પોમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "યુનિવર્સલ (હૂક્સ) જોઈન્ટ બદલાતા ખૂણા પર શાફ્ટ વચ્ચે અવિરત ટોર્ક અને રોટેશનલ પાવર ટ્રાન્સમિટ કરે છે."
+  },
+  {
+    "id": 210,
+    "subject": "Engineering Materials",
+    "subTopic": "Introduction to Non-Destructive Testing (NDT)",
+    "question": "Which NDT method is most effective for detecting volumetric internal flaws deep inside thick metal components?",
+    "gujaratiQuestion": "Q210. મટિરિયલની અંદર ઘણી ઊંડાઈએ રહેલી ખામીઓ શોધવા કઈ NDT પદ્ધતિ શ્રેષ્ઠ છે?",
+    "options": [
+      "લિક્વિડ પેનિટ્રન્ટ ટેસ્ટ",
+      "મેગ્નેટિક પાર્ટીકલ ઇન્સ્પેક્શન",
+      "અલ્ટ્રાસોનિક ટેસ્ટિંગ (UT)",
+      "વિઝયુઅલ ઇન્સ્પેક્શન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "અલ્ટ્રાસોનિક ટેસ્ટિંગ ઊંચી પેનિટ્રેશન ક્ષમતા ધરાવતું હોવાથી જાડા કમ્પોનન્ટ્સની અંદર ઊંડે રહેલી આંતરિક ખામીઓ ચોક્કસાઈથી શોધે છે."
+  },
+  {
+    "id": 211,
+    "subject": "Engineering Materials",
+    "subTopic": "Introduction to Non-Destructive Testing (NDT)",
+    "question": "Eddy Current Testing (ECT) is applicable only for inspection of:",
+    "gujaratiQuestion": "Q211. એડી કરંટ ટેસ્ટિંગ માત્ર કયા મટિરિયલ્સ માટે જ ઉપયોગી છે?",
+    "options": [
+      "નોન-કન્ડક્ટિવ મટિરિયલ્સ",
+      "ઇલેક્ટ્રિકલ કન્ડક્ટિવ મટિરિયલ્સ (Conductive metals)",
+      "માત્ર ઇન્સ્યુલેટર",
+      "સિરામિક્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇલેક્ટ્રોમેગ્નેટિક ઇન્ડક્શનથી એડી કરંટ પ્રેરિત કરવા માટે મટિરિયલ વિદ્યુતનું વાહક (Electrically conductive) હોવું અનિવાર્ય છે."
+  },
+  {
+    "id": 212,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "Pearlite is a eutectoid mixture of:",
+    "gujaratiQuestion": "Q212. પર્લાઇટ એ કોનું મિશ્રણ છે?",
+    "options": [
+      "ફેરાઈટ અને સિમેન્ટાઈટ",
+      "સિમેન્ટાઈટ અને ગામા આયર્ન",
+      "ફેરાઈટ અને ઓસ્ટેનાઈટ",
+      "ફેરાઈટ અને આયર્ન ગ્રેફાઇટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પર્લાઇટ એ આલ્ફા-ફેરાઇટ અને સિમેન્ટાઇટ (Fe + Fe3C) નું યુટેક્ટોઇડ સ્તરીય મિશ્રણ છે."
+  },
+  {
+    "id": 213,
+    "subject": "Engineering Materials",
+    "subTopic": "Introduction to Non-Destructive Testing (NDT)",
+    "question": "Eddy Current Testing is limited to surface and near-surface defect detection primarily due to which electromagnetic phenomenon?",
+    "gujaratiQuestion": "Q213. એડી કરંટ ટેસ્ટિંગ કઈ અસર પર આધારિત છે, જેના કારણે તે માત્ર સપાટીની નજીકની ખામીઓ જ શોધી શકે છે?",
+    "options": [
+      "કેપિલરી ઇફેક્ટ",
+      "પિઝોઇલેક્ટ્રિક ઈફેક્ટ",
+      "સ્કિન ઇફેક્ટ (Skin Effect)",
+      "હોલ ઇફેક્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઉચ્ચ આવૃત્તિ પર સ્કિન ઇફેક્ટ (Skin effect) ને લીધે એડી કરંટ માત્ર સપાટીની નજીકના પાતળા સ્તરમાં જ કેન્દ્રિત રહે છે."
+  },
+  {
+    "id": 214,
+    "subject": "Engineering Materials",
+    "subTopic": "Introduction to Non-Destructive Testing (NDT)",
+    "question": "Which NDT method provides a permanent visual film record of internal defects?",
+    "gujaratiQuestion": "Q214. કઈ NDT પદ્ધતિમાં ખામીની કાયમી વિઝ્યુઅલ ફિલ્મ રેકોર્ડ મળે છે?",
+    "options": [
+      "લિક્વિડ પેનિટ્રન્ટ ટેસ્ટ",
+      "અલ્ટ્રાસોનિક ટેસ્ટ",
+      "રેડિયોગ્રાફી ટેસ્ટ (Radiographic Testing)",
+      "મેગ્નેટિક પાર્ટીકલ ટેસ્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રેડિયોગ્રાફિક ટેસ્ટિંગમાં એક્સ-રે કે ગામા-રે દ્વારા ફોટોગ્રાફિક ફિલ્મ પર કાયમી વિઝ્યુઅલ રેકોર્ડ (રેડિયોગ્રાફ) તૈયાર થાય છે."
+  },
+  {
+    "id": 215,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "Why is normalizing heat treatment performed on steel?",
+    "gujaratiQuestion": "Q215. સ્ટીલનું નોર્મલાઈઝેશન શા માટે કરવામાં આવે છે?",
+    "options": [
+      "ગ્રેઈન સ્ટ્રક્ચરને રિફાઈન કરવા",
+      "કોલ્ડ વર્કિંગના કારણે ઉત્પન્ન થયેલો સ્ટ્રેઇન દૂર કરવા",
+      "હોટ વર્કિંગને કારણે થયેલા ડિસલોકેશન દૂર કરવા",
+      "ઉપરના તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "નોર્મલાઇઝિંગ ગ્રેઇન રિફાઇનમેન્ટ કરે છે, આંતરિક સ્ટ્રેઇન દૂર કરે છે અને હોટ/કોલ્ડ વર્કિંગ બાદ એકસમાન યાંત્રિક ગુણધર્મો આપે છે."
+  },
+  {
+    "id": 216,
+    "subject": "Engineering Materials",
+    "subTopic": "Introduction to Non-Destructive Testing (NDT)",
+    "question": "Which penetrating radiations are standardly used in Industrial Radiographic Testing?",
+    "gujaratiQuestion": "Q216 રેડિયોગ્રાફી ટેસ્ટિંગમાં સામાન્ય રીતે કયા કિરણોનો ઉપયોગ થાય છે?",
+    "options": [
+      "આલ્ફા અને બીટા કિરણો",
+      "એક્સ-રે અને ગામા કિરણો",
+      "અલ્ટ્રાવાયોલેટ કિરણો",
+      "ઈન્ફ્રારેડ કિરણો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઊંચી ભેદન ક્ષમતા ધરાવતા વિદ્યુતચુંબકીય એક્સ-રે (X-rays) અને ગામા-રે (Gamma rays) રેડિયોગ્રાફીમાં વપરાય છે."
+  },
+  {
+    "id": 217,
+    "subject": "Engineering Materials",
+    "subTopic": "Introduction to Non-Destructive Testing (NDT)",
+    "question": "In Magnetic Particle Testing, magnetic flux leakage is maximum when the defect is oriented:",
+    "gujaratiQuestion": "Q217. મેગ્નેટિક પાર્ટીકલ ટેસ્ટિંગમાં મેગ્નેટિક ફિલ્ડ લીકેજ ક્યારે મહત્તમ હોય છે?",
+    "options": [
+      "જ્યારે ખામી મેગ્નેટિક ફિલ્ડને સમાંતર હોય",
+      "જ્યારે ખામી મેગ્નેટિક ફિલ્ડને કાટખૂણે (90° Perpendicular) હોય",
+      "જ્યારે ખામી ગોળાકાર હોય",
+      "જ્યારે મેગ્નેટિક ફિલ્ડ ન હોય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યારે તિરાડ ચુંબકીય બળરેખાઓને લંબ (કાટખૂણે 90°) હોય ત્યારે મહત્તમ ફ્લક્સ લીકેજ સર્જાય છે અને ખામી સ્પષ્ટ દેખાય છે."
+  },
+  {
+    "id": 218,
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "______ is a surface hardening process that provides maximum surface hardness to alloy steels.",
+    "gujaratiQuestion": "Q218. _____ એ સરફેસ હાર્ડનિંગ પ્રોસેસ છે જે સપાટીને મહત્તમ હાર્ડનેસ આપે છે.",
+    "options": [
+      "પેક હાર્ડનિંગ",
+      "નાઈટ્રાઈડિંગ (Nitriding)",
+      "સાયનાઈડિંગ",
+      "ઈન્ડક્શન હાર્ડનિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નાઇટ્રાઇડિંગ પ્રક્રિયા સ્ટીલની સપાટી પર 1000 થી 1100 HV જેટલી સર્વોચ્ચ કઠિનતા અને ઉત્તમ વિયર રેઝિસ્ટન્સ આપે છે."
+  },
+  {
+    "id": 219,
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "In a face-centered cubic (FCC) unit cell, what is the effective number of corner atoms and face atoms respectively?",
+    "gujaratiQuestion": "Q219. FCC યુનિટ સેલમાં ખૂણા પરના અને ફેસ સેન્ટર પરના અસરકારક અણુઓની સંખ્યા અનુક્રમે કેટલી હોય છે?",
+    "options": [
+      "1 અને 3 (કુલ 4)",
+      "2 અને 2",
+      "1 અને 1",
+      "0 અને 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ખૂણા પરના 8 × (1/8) = 1 અણુ અને 6 ફેસ સેન્ટર પરના 6 × (1/2) = 3 અણુઓ મળીને કુલ 4 અણુઓ બને છે."
+  },
+  {
+    "id": 220,
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "Austenite decomposes isothermally into Bainite within which approximate temperature range in carbon steels?",
+    "gujaratiQuestion": "Q220. કાર્બન સ્ટીલમાં ઓસ્ટેનાઈટનું બેનાઈટમાં રૂપાંતર આશરે કયા તાપમાન ગાળામાં થાય છે?",
+    "options": [
+      "727°C થી 550°C",
+      "550°C થી 250°C (Ms તાપમાન સુધી)",
+      "250°C થી નીચે",
+      "912°C થી ઉપર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TTT ડાયાગ્રામ મુજબ 550°C થી 250°C (Ms ટેમ્પરેચર) વચ્ચે આઇસોથર્મલ ક્વેન્ચિંગ કરતાં બેનાઇટ રચાય છે."
+  },
+  {
+    "id": 221,
+    "subject": "Engineering Materials",
+    "subTopic": "Hardness Testing (Rockwell, Brinell & Vickers)",
+    "question": "Which Rockwell hardness scale uses a 1/16 inch steel ball indenter and a 100 kg major load?",
+    "gujaratiQuestion": "Q221. રોકવેલનો કયો સ્કેલ 1/16 ઇંચ સ્ટીલ બોલ અને 100 kg મેજર લોડનો ઉપયોગ કરે છે?",
+    "options": [
+      "રોકવેલ A સ્કેલ (HRA)",
+      "રોકવેલ B સ્કેલ (HRB)",
+      "રોકવેલ C સ્કેલ (HRC)",
+      "રોકવેલ D સ્કેલ (HRD)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રોકવેલ B સ્કેલ (HRB) બ્રાસ, એલ્યુમિનિયમ અને સોફ્ટ સ્ટીલ માટે 1/16\" સ્ટીલ બોલ અને 100 kg લોડ વાપરે છે."
+  },
+  {
+    "id": 222,
+    "subject": "Engineering Materials",
+    "subTopic": "Static Failure Theories",
+    "question": "Maximum Shear Strain Energy Theory (Distortion Energy Theory) predicts yielding to occur when equivalent Von Mises stress reaches:",
+    "gujaratiQuestion": "Q222. મહત્તમ ડિસ્ટોર્શન એનર્જી થિયરી મુજબ, યીલ્ડિંગ ક્યારે શરૂ થાય છે?",
+    "options": [
+      "જ્યારે સમાન સમકક્ષ સ્ટ્રેસ યીલ્ડ સ્ટ્રેન્થ (Sy) બરાબર થાય",
+      "જ્યારે અલ્ટિમેટ સ્ટ્રેન્થ અડધી થાય",
+      "જ્યારે શીયર સ્ટ્રેસ શૂન્ય થાય",
+      "જ્યારે હાઇડ્રોસ્ટેટિક દબાણ અનંત થાય"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વોન-મિસીસ ક્રાઇટેરિયા મુજબ જ્યારે બહુ-અક્ષીય લોડિંગ હેઠળ સમકક્ષ વોન-મિસીસ સ્ટ્રેસ σ_vm યુનિએક્સિયલ યીલ્ડ સ્ટ્રેન્થ (Sy) જેટલો થાય ત્યારે યીલ્ડિંગ શરૂ થાય છે."
+  },
+  {
+    "subject": "Engineering Materials",
+    "subTopic": "Metallurgical Heat Treatment & Transformations",
+    "question": "Reheating martensitic steel to reduce brittleness with limited loss of hardness is called:",
+    "gujaratiQuestion": "Martensitic steel ને reheating કરીને brittleness ઘટાડવાની પ્રક્રિયા કઈ છે?",
+    "options": [
+      "Normalizing",
+      "Annealing",
+      "Quenching",
+      "Tempering"
+    ],
+    "correctAnswer": 3,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Tempering reduces martensite brittleness while retaining useful hardness.",
+    "id": 223
+  },
+  {
+    "subject": "Engineering Materials",
+    "subTopic": "Structure & Properties of Engineering Materials",
+    "question": "In hollow cylindrical parts made by centrifugal casting, density tends to be highest near the:",
+    "gujaratiQuestion": "Centrifugal castingથી બનેલા hollow cylindrical partમાં density ક્યાં વધુ હોય છે?",
+    "options": [
+      "Outer region",
+      "Inner region",
+      "Mid-thickness",
+      "Uniform everywhere"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Centrifugal force drives denser material toward the outer radius.",
+    "id": 224
+  },
+  {
+    "subject": "Engineering Materials",
+    "subTopic": "Hardness Testing (Rockwell, Brinell & Vickers)",
+    "question": "Brinell hardness testing uses a:",
+    "gujaratiQuestion": "Brinell hardness testમાં શું ઉપયોગ થાય છે?",
+    "options": [
+      "Diamond cone only",
+      "Ball indenter",
+      "Knife edge",
+      "Slip gauge"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: A hardened ball indenter is used.",
+    "id": 225
+  },
+  {
+    "subject": "Engineering Materials",
+    "subTopic": "Introduction to Non-Destructive Testing (NDT)",
+    "question": "Ultrasonic testing is especially useful for detecting:",
+    "gujaratiQuestion": "Ultrasonic testing ખાસ કરીને શું શોધવા માટે ઉપયોગી છે?",
+    "options": [
+      "Only surface colour",
+      "Internal discontinuities",
+      "Only temperature",
+      "Only hardness"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: High-frequency sound waves can reveal internal flaws.",
+    "id": 226
+  },
+  {
+    "subject": "Engineering Materials",
+    "subTopic": "Phase Diagrams & Phase Transformations",
+    "question": "In the Fe-C diagram, eutectoid transformation produces:",
+    "gujaratiQuestion": "Fe-C diagramમાં eutectoid transformationથી શું બને છે?",
+    "options": [
+      "Austenite from ferrite only",
+      "Pearlite from austenite",
+      "Martensite directly at equilibrium",
+      "Cementite only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: At the eutectoid composition, austenite transforms to pearlite on slow cooling.",
+    "id": 227
+  },
+  {
+    "subject": "Engineering Materials",
+    "subTopic": "Ductile & Brittle Failure Mechanisms",
+    "question": "A ductile material generally shows significant:",
+    "gujaratiQuestion": "Ductile material સામાન્ય રીતે શું દર્શાવે છે?",
+    "options": [
+      "Plastic deformation before fracture",
+      "No deformation",
+      "Only cleavage",
+      "Instant fracture"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: Ductile failure involves appreciable plastic deformation.",
+    "id": 228
+  },
+  {
+    "subject": "Engineering Materials",
+    "subTopic": "Fracture Mechanics",
+    "question": "Stress intensity factor is commonly denoted by:",
+    "gujaratiQuestion": "Stress intensity factorનું symbol શું છે?",
+    "options": [
+      "K",
+      "E",
+      "J",
+      "G"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: K is used for stress intensity factor.",
+    "id": 229
+  }
+]

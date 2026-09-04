@@ -1,0 +1,1997 @@
+[
+  {
+    "id": 2,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "Which casting process is used to make hollow pipes without the use of a core?",
+    "gujaratiQuestion": "02. કોરના ઉપયોગ વિના પોલા પાઈપ બનાવવા કઈ કાસ્ટિંગ પ્રક્રિયા વપરાય છે?",
+    "options": [
+      "ડાઈ કાસ્ટિંગ",
+      "ઈન્વેસ્ટમેન્ટ કાસ્ટિંગ",
+      "સેન્ટ્રીફ્યુગલ કાસ્ટિંગ",
+      "શેલ મોલ્ડિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સેન્ટ્રીફ્યુગલ કાસ્ટિંગમાં કેન્દ્રત્યાગી બળને લીધે પ્રવાહી ધાતુ બહારની દીવાલ તરફ ધકેલાય છે, જેથી સેન્ટ્રલ કોર વગર જ પોલા નળાકાર પાઇપ બને છે[cite: 5]."
+  },
+  {
+    "id": 4,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "If the Maximum Material Condition (MMC) of a shaft exceeds the Least Material Condition (LMC) of the mating hole, what is the resulting fit?",
+    "gujaratiQuestion": "Q4. જો શાફ્ટની મેક્સિમમ મટિરિયલ કન્ડિશન (MMC) મેટિંગ હોલની મિનિમમ મટિરિયલ કન્ડિશન (LMC) કરતા વધી જાય, તો પરિણામી ફિટ (fit) કયો હશે?",
+    "options": [
+      "ક્લિયરન્સ ફિટ",
+      "ઇન્ટરફિયરન્સ ફિટ",
+      "ટ્રાન્ઝિશન ફિટ",
+      "લૂઝ ફિટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યારે શાફ્ટનું મહત્તમ માપ હોલના લઘુત્તમ માપ કરતાં મોટું હોય ત્યારે એસેમ્બલીમાં હંમેશા ઇન્ટરફિયરન્સ ફિટ (Interference fit) સર્જાય છે[cite: 5]."
+  },
+  {
+    "id": 6,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "Which casting method is used to make hollow ornaments and toys?",
+    "gujaratiQuestion": "Q6. પોલા આભૂષણો અને રમકડાં બનાવવા માટે કઈ કાસ્ટિંગ પદ્ધતિ વપરાય છે?",
+    "options": [
+      "સ્લશ કાસ્ટિંગ",
+      "ડાઈ કાસ્ટિંગ",
+      "ઈન્વેસ્ટમેન્ટ કાસ્ટિંગ",
+      "સેન્ડ કાસ્ટિંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્લશ કાસ્ટિંગમાં મોલ્ડની દીવાલ પર પાતળું શેલ બન્યા પછી વધારાનું પ્રવાહી ઊંધું વાળીને કાઢી લેવાય છે, જે પોલા શો-પીસ અને રમકડાં બનાવે છે[cite: 5]."
+  },
+  {
+    "id": 7,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "What causes lead error in thread measurement?",
+    "gujaratiQuestion": "Q7. થ્રેડ મેઝરમેન્ટમાં લીડ એરર શેના કારણે થાય છે?",
+    "options": [
+      "ઘસાઈ ગયેલા માઇક્રોમીટર સ્પિન્ડલ",
+      "પિચ ડાયામીટરના ખોટા માપન",
+      "પ્રતિ રિવોલ્યુશન (ચક્કર) એક્સિયલ એડવાન્સમેન્ટમાં ફેરફાર",
+      "માઈનોર ડાયામીટરમાં વિચલન (deviation)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્ક્રૂ થ્રેડના એક સંપૂર્ણ ચક્કર દીઠ થતા અક્ષીય આગળ વધવા (Axial advancement) માં અનિયમિતતા લીડ એરર પેદા કરે છે[cite: 5]."
+  },
+  {
+    "id": 9,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is the taper given on vertical surfaces of a pattern to facilitate easy removal from the mold called?",
+    "gujaratiQuestion": "09. મોલ્ડમાંથી પેટર્નને સરળતાથી બહાર કાઢવા માટે પેટર્નની ઊભી સપાટી પર કયો ઢાળ આપવામાં આવે છે?",
+    "options": [
+      "શેકિંગ એલાઉન્સ",
+      "ડ્રાફ્ટ એલાઉન્સ",
+      "ડિસ્ટોર્શન એલાઉન્સ",
+      "મશીનિંગ એલાઉન્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રેતીની કેવિટી તૂટ્યા વિના પેટર્ન સહેલાઈથી ઊભી ખેંચી શકાય તે માટે અપાતા ઢાળને ડ્રાફ્ટ એલાઉન્સ કહે છે[cite: 5]."
+  },
+  {
+    "id": 10,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "Which allowance is provided to prevent U-shaped castings from warping during cooling?",
+    "gujaratiQuestion": "010. U-આકારના કાસ્ટિંગને વળી જતું રોકવા કયું એલાઉન્સ અપાય છે?",
+    "options": [
+      "ડ્રાફ્ટ એલાઉન્સ",
+      "કેમ્બર (ડિસ્ટોર્શન) એલાઉન્સ",
+      "મશીનિંગ એલાઉન્સ",
+      "શ્રિન્કેજ એલાઉન્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અસમાન સંકોચનને કારણે થતા વાંકા વળવા (Warping) સામે અગાઉથી વિરુદ્ધ દિશામાં વળાંક આપવા કેમ્બર કે ડિસ્ટોર્શન એલાઉન્સ વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 11,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Gauge Design",
+    "question": "In a multi-gauging setup, how is the inspection carried out?",
+    "gujaratiQuestion": "011. મલ્ટિ-ગેજિંગ સેટઅપમાં, ઈન્સ્પેક્શન કઈ રીતે થાય છે?",
+    "options": [
+      "રેન્ડમલી કરવામાં આવે છે",
+      "દરેક ડાયમેન્શન માટે ક્રમશઃ (sequential) થાય છે",
+      "તમામ ક્રિટિકલ ડાયમેન્શન્સ માટે એકસાથે કરવામાં આવે છે",
+      "માત્ર એસેમ્બલી પછી જ કરવામાં આવે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મલ્ટિ-ગેજિંગ સેટઅપ એક જ ઓપરેશનમાં પાર્ટના તમામ મહત્વના પરિમાણો (Dimensions) નું એકસાથે માપન કરે છે[cite: 5]."
+  },
+  {
+    "id": 14,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "What angle do clinometers measure?",
+    "gujaratiQuestion": "014. ક્લિનોમીટર્સ કયો એંગલ માપે છે?",
+    "options": [
+      "ટેપર અને કર્વેચર",
+      "હોરિઝોન્ટલ પ્લેનની સાપેક્ષે સ્લોપ અથવા ઈન્ક્લિનેશન (ઝુકાવ)",
+      "ઈન્ટરનલ થ્રેડ્સ",
+      "ગિયર્સમાં એંગ્યુલર ડિસ્પ્લેસમેન્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ક્લિનોમીટર ગુરુત્વાકર્ષણ આધારિત આડી સપાટીની સાપેક્ષે ઢોળાવ કે ખૂણો (Inclination angle) ચોકસાઈથી માપે છે[cite: 5]."
+  },
+  {
+    "id": 15,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is used to create internal cavities or holes in a casting?",
+    "gujaratiQuestion": "015. કાસ્ટિંગમાં પોલાણ (Hole) બનાવવા માટે શેનો ઉપયોગ થાય છે?",
+    "options": [
+      "રાઇઝર",
+      "કોર",
+      "સ્પુ",
+      "ચિલ્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કાસ્ટિંગમાં અંદરનું પોલાણ, છિદ્ર અથવા પેસેજ બનાવવા માટે બેક કરેલી રેતીમાંથી બનેલો કોર (Core) મુકાય છે[cite: 5]."
+  },
+  {
+    "id": 16,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is the extra projection provided on a pattern to locate and seat the core properly called?",
+    "gujaratiQuestion": "016. મોલ્ડમાં કોરને યોગ્ય સ્થાને બેસાડવા માટે પેટર્ન પર અપાતા વધારાના ભાગને શું કહે છે?",
+    "options": [
+      "ચેપલેટ",
+      "કોર પ્રિન્ટ",
+      "રનર",
+      "ગેટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પેટર્ન પર અપાતા વધારાના પ્રોજેક્શનને કોર પ્રિન્ટ (Core print) કહે છે, જે મોલ્ડમાં કોરને બેસાડવા માટે સીટ બનાવે છે[cite: 5]."
+  },
+  {
+    "id": 17,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What are the metallic supports used to support cores inside the mold cavity called?",
+    "gujaratiQuestion": "017. મોલ્ડમાં કોરને ટેકો આપવા માટે વપરાતા ધાતુના ટુકડાને શું કહે છે?",
+    "options": [
+      "રાઇઝર",
+      "ચેપલેટ",
+      "સ્પુ બેસિન",
+      "ડ્રાફ્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોલ્ડની અંદર ગુરુત્વાકર્ષણ કે બળ સામે કોરને તેના સ્થાને ટેકો આપવા ધાતુના નાના ટુકડા એટલે કે ચેપલેટ્સ (Chaplets) વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 18,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "On what basis are thread micrometers classified?",
+    "gujaratiQuestion": "018. થ્રેડ માઈક્રોમીટર્સનું વર્ગીકરણ (classification) શેના આધારે કરવામાં આવે છે?",
+    "options": [
+      "એરણ (anvil) ના મટિરિયલ પર",
+      "થ્રેડ એંગલ પર (દા.ત. 55°, 60°)",
+      "માઈક્રોમીટરની લંબાઈ પર",
+      "માત્ર સ્પિન્ડલ સ્ક્રૂના પ્રકાર પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ક્રૂ થ્રેડ માઇક્રોમીટરના એનવિલ અને સ્પિન્ડલ ટીપ માપવાના થ્રેડના ખૂણા (દા.ત. મેટ્રિક 60° અથવા વિટવર્થ 55°) અનુસાર વર્ગીકૃત થાય છે[cite: 5]."
+  },
+  {
+    "id": 21,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Comparators",
+    "question": "What is the output of an electrical comparator generally like?",
+    "gujaratiQuestion": "021. ઇલેક્ટ્રિકલ કમ્પેરેટરનું આઉટપુટ સામાન્ય રીતે કેવું હોય છે?",
+    "options": [
+      "મિલિમીટરમાં ડાયરેક્ટ રીડિંગ",
+      "માત્ર ડાયલ રીડિંગ",
+      "ઇલેક્ટ્રિકલ સિગ્નલ જેને ડિસ્પ્લે અથવા રેકોર્ડ કરી શકાય",
+      "મિકેનિકલ ડિફ્લેક્શન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇલેક્ટ્રિકલ કમ્પેરેટર પ્લન્જરના યાંત્રિક હલનચલનને વિદ્યુત સંકેતમાં ફેરવે છે જેને ડિજિટલ ડિસ્પ્લે કે ચાર્ટ પર રેકોર્ડ કરી શકાય છે[cite: 5]."
+  },
+  {
+    "id": 22,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "Which sand is generally used for making cores?",
+    "gujaratiQuestion": "022. કોર બનાવવા માટે સામાન્ય રીતે કઈ રેતીનો ઉપયોગ થાય છે?",
+    "options": [
+      "ગ્રીન સેન્ડ",
+      "ઓઈલ સેન્ડ",
+      "બેકિંગ સેન્ડ",
+      "પાર્ટિંગ સેન્ડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કોરને ઊંચી મજબૂતી અને હવાની અવરજવર આપવા માટે ઓર્ગેનિક બાઈન્ડર અને ઓઇલ ધરાવતી ઓઇલ સેન્ડ (Core sand) વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 25,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Comparators",
+    "question": "On what does the accuracy of a profile projector depend?",
+    "gujaratiQuestion": "025. પ્રોફાઈલ પ્રોજેક્ટરની સચોટતા (accuracy) શેના પર આધાર રાખે છે?",
+    "options": [
+      "ઓપરેટરની આંખની દૃષ્ટિ પર",
+      "રૂમની સાઈઝ પર",
+      "મેગ્નિફિકેશન અને ઓપ્ટિકલ ક્લેરિટી પર",
+      "સાઉન્ડ ઇન્સ્યુલેશન પર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રોફાઇલ પ્રોજેક્ટરની સચોટતા લેન્સની મેગ્નિફિકેશન ક્ષમતા અને ઓપ્ટિકલ સિસ્ટમની સ્પષ્ટતા પર નિર્ભર કરે છે[cite: 5]."
+  },
+  {
+    "id": 26,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What are the metal pieces placed in the mold to accelerate cooling of molten metal called?",
+    "gujaratiQuestion": "026. મોલ્ડમાં ધાતુને ઝડપથી ઠંડી પાડવા માટે વપરાતા ધાતુના ટુકડાઓને શું કહેવાય છે?",
+    "options": [
+      "ચિલ્સ",
+      "ચેપલેટ",
+      "રાઇઝર",
+      "પેડિંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કાસ્ટિંગના જાડા ભાગોમાં ઝડપી ઠંડક કરીને ડાયરેક્શનલ સોલિડિફિકેશન મેળવવા માટે ચિલ્સ (Chills) મુકાય છે[cite: 5]."
+  },
+  {
+    "id": 28,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "Which instrument is frequently used to check taper angle on cylindrical parts?",
+    "gujaratiQuestion": "028. સિલિન્ડ્રિકલ પાર્ટ્સ પર ટેપર એંગલ ચેક કરવા માટે વારંવાર કયા સાધનનો ઉપયોગ થાય છે?",
+    "options": [
+      "બેવલ પ્રોટ્રેક્ટર",
+      "ડાયલ ઇન્ડિકેટર સાથે સાઈન બાર",
+      "ફિલર ગેજ",
+      "રેડિયસ ગેજ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ચોક્કસ ટેપર એંગલ માપવા માટે સાઇન બારને સ્લિપ ગેજ અને ડાયલ ટેસ્ટ ઇન્ડિકેટર સાથે જોડીને વાપરવામાં આવે છે[cite: 5]."
+  },
+  {
+    "id": 31,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "To prevent air aspiration in a mold, what shape is given to the sprue?",
+    "gujaratiQuestion": "031. હવાની એસ્પિરેશન (Aspiration) રોકવા માટે સ્પુનો આકાર કેવો રાખવામાં આવે છે?",
+    "options": [
+      "સમાંતર",
+      "નીચેથી સાંકડો (Tapered)",
+      "નીચેથી પહોળો",
+      "ગોળાકાર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રવાહી ધાતુ જેમ નીચે પડે તેમ વેગ વધતાં પ્રવાહ સાંકડો થાય છે, જેથી હવા ખેંચાતી (Aspiration) રોકવા સ્પ્રુ નીચેથી ટેપર્ડ રાખવામાં આવે છે[cite: 5]."
+  },
+  {
+    "id": 32,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "In the two-wire method, what is the correction factor responsible for?",
+    "gujaratiQuestion": "032. ટુ-વાયર મેથડમાં કરેક્શન ફેક્ટર શેના માટે જવાબદાર છે?",
+    "options": [
+      "માત્ર થ્રેડ પિચ એરર માટે",
+      "ક્રેસ્ટ અને વાયર વચ્ચેના ક્લિયરન્સ માટે",
+      "થ્રેડની જિયોમેટ્રી અને વાયરના પ્લેસમેન્ટ માટે",
+      "ટૂલ વિયર માટે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કરેક્શન ફેક્ટર થ્રેડના હેલિક્સ એંગલ, થ્રેડ પ્રોફાઇલ અને વાયરના સંપર્ક સ્થાનના આધારે પિચ ડાયામીટરની સચોટ ગણતરી માટે વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 35,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Form & Finish Measurement",
+    "question": "Which characteristic cannot be measured using shadow projection on an optical projector?",
+    "gujaratiQuestion": "035. શેડો પ્રોજેક્શન (Shadow projection) નો ઉપયોગ કરીને કઈ લાક્ષણિકતા માપી શકાતી નથી?",
+    "options": [
+      "એક્સ્ટર્નલ થ્રેડ પ્રોફાઈલ",
+      "ગિયર ટૂથ પ્રોફાઈલ",
+      "ઈન્ટરનલ કેવિટીની ઊંડાઈ",
+      "ફિલેટ રેડિયસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "શેડો પ્રોજેક્શન માત્ર બાહ્ય રૂપરેખા (2D બાઉન્ડ્રી) નો પડછાયો પાડી શકે છે, અંદરના છુપાયેલા પોલાણની ઊંડાઈ માપી શકતું નથી[cite: 5]."
+  },
+  {
+    "id": 37,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is the main cause of blowholes in casting?",
+    "gujaratiQuestion": "037. કાસ્ટિંગમાં બ્લોહોલ્સ (Blowholes) આવવાનું મુખ્ય કારણ શું છે?",
+    "options": [
+      "રેતીમાં વધુ પડતા ભેજ અને વાયુઓથી",
+      "ધાતુના સંકોચનથી",
+      "નીચા તાપમાનથી",
+      "પેટર્નની ખામીથી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મોલ્ડિંગ સેન્ડમાં વધુ પડતો ભેજ હોવાથી કે ઓછી પરમીએબિલિટીને કારણે વાયુઓ બહાર ન નીકળી શકતાં કાસ્ટિંગમાં બ્લોહોલ્સ બને છે[cite: 5]."
+  },
+  {
+    "id": 39,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "A metric thread of 2 mm pitch and 60° thread angle is inspected using the 3-wire method. What is the best size wire diameter (in mm)?",
+    "gujaratiQuestion": "039. 2mm પિચ અને 60° થ્રેડ એંગલ ધરાવતા મેટ્રિક થ્રેડના પિચ ડાયામીટરનું ઇન્સ્પેક્શન 3 વાયર મેથડનો ઉપયોગ કરીને કરવામાં આવે છે. બેસ્ટ સાઈઝ વાયરનો વ્યાસ (mm માં) કેટલો હશે?",
+    "options": [
+      "0.866",
+      "1.000",
+      "1.154",
+      "2.000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Best wire diameter d = (p / 2) · sec(θ / 2) = (2 / 2) · sec(30°) = 1 · 1.1547 ≈ 1.154 mm[cite: 5]."
+  },
+  {
+    "id": 42,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Gauge Design",
+    "question": "Which device is used to measure clearance between valve and tappet of an IC engine?",
+    "gujaratiQuestion": "042. ઈન્ટરનલ કમ્બશન (IC) એન્જિનના વાલ્વ અને ટેપેટ વચ્ચેનું ક્લિયરન્સ માપવા માટે કયા ડિવાઈસનો ઉપયોગ થાય છે?",
+    "options": [
+      "સ્નેપ ગેજ",
+      "માઈક્રોમીટર",
+      "સ્લિપ ગેજ",
+      "ફિલર ગેજ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "બે મેટિંગ સપાટીઓ વચ્ચેનો અત્યંત નાનો ગેપ કે ક્લિયરન્સ માપવા માટે ચોક્કસ જાડાઈની સ્ટીલ પટ્ટીઓ ધરાવતો ફીલર ગેજ (Feeler gauge) વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 46,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Interferometry",
+    "question": "Two slip gauges of 1.000 mm and 1.002 mm (width 10 mm) are in contact along length with an optical flat placed on top under monochromatic light (λ = 0.0058928 mm). How many straight fringes appear on both slip gauges?",
+    "gujaratiQuestion": "Q46. 1.000mm અને 1.002mm માપ ધરાવતા 10mm પહોળાઈના બે સ્લિપ ગેજને એકબીજાની સાથે લંબાઈની દિશામાં સંપર્કમાં રાખવામાં આવ્યા છે. આકૃતિમાં દર્શાવ્યા મુજબ સ્લિપ ગેજ પર ઓપ્ટિકલ ફ્લેટ મૂકવામાં આવેલ છે. ઇન્સ્પેક્શનમાં 0.0058928mm તરંગલંબાઈ (wavelength) ધરાવતો મોનોક્રોમેટિક પ્રકાશ વપરાય છે. બંને સ્લિપ ગેજ પર જોવા મળતી સ્ટ્રેટ ફ્રિન્જીસ (straight fringes) ની કુલ સંખ્યા કેટલી હશે?",
+    "options": [
+      "2",
+      "6",
+      "8",
+      "13"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ફ્રિન્જ સંખ્યા N = 2 · (h2 - h1) / λ = 2 · (0.002) / 0.0058928 ≈ 0.678 (Answer Key A મુજબ 2 ફ્રિન્જીસ)[cite: 5]."
+  },
+  {
+    "id": 49,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "What are the dimensional limits on a 25h7 shaft?",
+    "gujaratiQuestion": "049. 25h7 ના શાફ્ટ પર ડાયમેન્શનલ લિમિટ્સ શું હશે?",
+    "options": [
+      "25.000, 25.021 mm",
+      "25.000, 24.979 mm",
+      "25.000, 25.007 mm",
+      "25.000, 24.993 mm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'h' શાફ્ટ માટે અપર ડેવિએશન es = 0 હોય છે અને 25 mm માટે IT7 = 21 μm (0.021 mm) હોવાથી લિમિટ્સ 25.000 mm અને 24.979 mm થાય[cite: 5]."
+  },
+  {
+    "id": 53,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "What is the essential condition for an interference fit regarding the lower limit of the shaft?",
+    "gujaratiQuestion": "053. ઇન્ટરફિયરન્સ ફિટ માટે આવશ્યક શરત એ છે કે શાફ્ટની લોઅર લિમિટ કેટલી હોવી જોઈએ?",
+    "options": [
+      "હોલની અપર લિમિટ કરતા ઓછી",
+      "હોલની લોઅર લિમિટ કરતા વધારે",
+      "હોલની લોઅર લિમિટ કરતા ઓછી",
+      "હોલની અપર લિમિટ કરતા વધારે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ચોક્કસ ઇન્ટરફિયરન્સ માટે શાફ્ટનું સૌથી નાનું માપ (લોઅર લિમિટ) હોલના સૌથી મોટા માપ (અપર લિમિટ) કરતાં મોટું હોવું જોઈએ[cite: 5]."
+  },
+  {
+    "id": 56,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "What is the purpose of using an autocollimator?",
+    "gujaratiQuestion": "056. ઓટોકોલિમેટરનો ઉપયોગ કરવાનો હેતુ શું છે?",
+    "options": [
+      "નાના એંગ્યુલર ડિફરન્સ (તફાવત) માપવા",
+      "ફ્લેટનેસ માપવા",
+      "કોનકેવિટી (concavity) માપવા",
+      "સરફેસ લિનિયારિટી ચેક કરવા"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઓટોકોલિમેટર એ ઓપ્ટિકલ ઇન્સ્ટ્રુમેન્ટ છે જે અત્યંત નાના કોણીય વિચલનો (Angular tilt / Deflection) ચોકસાઈથી માપે છે[cite: 5]."
+  },
+  {
+    "id": 60,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "If a dimension is specified as 25.3 ± 0.05 mm, what case of tolerance is it?",
+    "gujaratiQuestion": "060. ડાયમેન્શનને 25.3±0.05 mm તરીકે દર્શાવવામાં આવે, તો તે શેનો કિસ્સો (case) છે?",
+    "options": [
+      "યુનિલેટરલ ટોલરન્સ",
+      "બાઈલેટરલ ટોલરન્સ",
+      "લિમિટિંગ ડાયમેન્શન્સ",
+      "ઉપરના તમામ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મૂળ માપની બંને બાજુ (+ અને -) સમાન કે અસમાન છૂટછાટ આપવામાં આવે ત્યારે તેને બાઇલેટરલ ટોલરન્સ (Bilateral tolerance) કહેવાય છે[cite: 5]."
+  },
+  {
+    "id": 62,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "If casting dimension is 100 mm and shrinkage allowance is 2%, what will be pattern dimension?",
+    "gujaratiQuestion": "Q62. જો કાસ્ટિંગનું માપ 100mm હોય અને શ્રિન્કેજ એલાઉન્સ 2% હોય, તો પેટર્નનું માપ કેટલું હશે?",
+    "options": [
+      "98mm",
+      "100mm",
+      "102mm",
+      "104mm"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pattern size = Casting size + Shrinkage = 100 + (100 × 0.02) = 102 mm[cite: 5]."
+  },
+  {
+    "id": 63,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Accuracy & Precision",
+    "question": "Which of the following devices is most precise for length measurement?",
+    "gujaratiQuestion": "063. લંબાઈ માપવા માટે નીચેનામાંથી કયું ડિવાઈસ સૌથી વધુ ચોક્કસ (precise) છે?",
+    "options": [
+      "સ્લાઈડિંગ સ્કેલ પર 20 ડિવિઝન ધરાવતું વર્નિયર કેલિપર",
+      "1mm પિચ અને સર્ક્યુલર સ્કેલ પર 100 ડિવિઝન ધરાવતું સ્ક્રૂ ગેજ",
+      "એક ઓપ્ટિકલ ઇન્સ્ટ્રુમેન્ટ જે પ્રકાશની તરંગલંબાઈ સુધીની લંબાઈ માપી શકે છે",
+      "ઉપરના તમામ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રકાશની તરંગલંબાઈ (Interferometry) પર આધારિત ઓપ્ટિકલ સાધનો સબ-માઇક્રોન લેવલની સર્વોચ્ચ ચોકસાઈ આપે છે[cite: 5]."
+  },
+  {
+    "id": 67,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Form & Finish Measurement",
+    "question": "Which of the following represents a form tolerance?",
+    "gujaratiQuestion": "067. નીચેનામાંથી કયું ફોર્મ ટોલરન્સ (form tolerance) દર્શાવે છે?",
+    "options": [
+      "ફ્લેટનેસ",
+      "પેરેલલિઝમ",
+      "કોન્સેન્ટ્રિસિટી",
+      "ટોટલ રન આઉટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "GD&T માં ફ્લેટનેસ (Flatness), સ્ટ્રેટનેસ, સર્ક્યુલારિટી અને સિલિન્ડ્રિસિટી એ ફોર્મ ટોલરન્સ (Form tolerance) છે[cite: 5]."
+  },
+  {
+    "id": 70,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Gauge Design",
+    "question": "On which limit gauge is wear allowance provided?",
+    "gujaratiQuestion": "070. વિયર એલાઉન્સ (Wear allowance) શેના પર આપવામાં આવે છે?",
+    "options": [
+      "ગો (Go) ગેજ",
+      "નો ગો (No go) ગેજ",
+      "ગો અને નો ગો ગેજ બંને પર",
+      "જ્યારે બંને એક જ ગેજમાં સંયુક્ત હોય ત્યારે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ગો (GO) ગેજ દરેક સ્વીકાર્ય પાર્ટમાં પ્રવેશતો હોવાથી ઘસારો પામે છે, જેથી તેના પર વિયર એલાઉન્સ અપાય છે[cite: 5]."
+  },
+  {
+    "id": 74,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "What is the maximum interference (in mm) after assembly between a bush of size 30 (+0.00/+0.05) mm and a shaft of size 30 (+0.02/+0.05) mm?",
+    "gujaratiQuestion": "074. સાઈઝ 30 (+0.00/+0.05) mm ની બુશ (bush) અને સાઈઝ 30 (+0.02/+0.05) mm ના શાફ્ટ વચ્ચે એસેમ્બલી પછી મેક્સિમમ ઇન્ટરફિયરન્સ (mm માં) કેટલું હશે?",
+    "options": [
+      "0.07",
+      "0.05",
+      "0.02",
+      "0.01"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Max Interference = Max Shaft Size - Min Hole Size = (30 + 0.05) - (30 + 0.00) = 0.05 mm (આપેલ કી D: 0.01/0.05)[cite: 5]."
+  },
+  {
+    "id": 77,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Interferometry",
+    "question": "What does N.P.L. stand for in N.P.L. Gauge Interferometer?",
+    "gujaratiQuestion": "Q77. N.P.L. ગેજ ઇન્ટરફેરોમીટરમાં N, P અને L નો અર્થ શું છે?",
+    "options": [
+      "Nikon Pulse Laser",
+      "Nuclear Plasma Laboratory",
+      "National Physics Laboratory",
+      "Nuclear Physics Laboratory"
+    ],
+    "correctAnswer": 2,
+    "explanation": "N.P.L. એટલે National Physical Laboratory (અથવા National Physics Laboratory)[cite: 5]."
+  },
+  {
+    "id": 78,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What change occurs in the properties of metal due to cold working?",
+    "gujaratiQuestion": "078. કોલ્ડ વર્કિંગના કારણે મેટલના ગુણધર્મોમાં શું ફેરફાર થાય છે?",
+    "options": [
+      "મજબૂતાઇ ઘટે છે",
+      "ડક્ટિલિટી વધે છે",
+      "સ્ટ્રેન હાર્ડનિંગના કારણે મજબૂતાઈ વધે છે",
+      "રિક્રિસ્ટલાઈઝેશન થાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કોલ્ડ વર્કિંગ દરમિયાન ડિસલોકેશનની ઘનતા વધવાથી સ્ટ્રેન હાર્ડનિંગ થાય છે, જેનાથી ધાતુની મજબૂતાઈ અને હાર્ડનેસ વધે છે[cite: 5]."
+  },
+  {
+    "id": 82,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "In upset forging, what is the defect of outward bulging of metal called?",
+    "gujaratiQuestion": "082. અપસેટ ફોર્જિંગમાં મેટલના બહારની તરફ ફૂલી જવાની ખામીને શું કહેવાય છે?",
+    "options": [
+      "એલોન્ગેશન",
+      "બરેલિંગ",
+      "સ્પ્રિંગબેક",
+      "નેકિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સિલિન્ડ્રિકલ બિલેટને અક્ષીય દબાવતાં ડાઈ અને વર્કપીસ વચ્ચેના ઘર્ષણને લીધે મધ્ય ભાગ બહાર ફૂલીને પીપળા જેવો બને તેને બેરલિંગ (Barrelling) કહે છે[cite: 5]."
+  },
+  {
+    "id": 84,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "What is the full form of CMM?",
+    "gujaratiQuestion": "Q84. CMM નું પૂરું નામ શું છે?",
+    "options": [
+      "Centre marker machine",
+      "Central geometry measuring machine",
+      "Centroid measuring machine",
+      "Coordinate measuring machine"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CMM એટલે Coordinate Measuring Machine, જે 3D કાર્ટેશિયન કોઓર્ડિનેટ્સ પર માપન કરે છે[cite: 5]."
+  },
+  {
+    "id": 85,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is the process of reducing the thickness of metal by passing it between two rotating rolls called?",
+    "gujaratiQuestion": "085. બે ફરતા રોલર્સ વચ્ચેથી મેટલને પસાર કરીને તેની જાડાઈ ઘટાડવાની પ્રક્રિયાને શું કહે છે?",
+    "options": [
+      "રોલિંગ",
+      "ફોર્જિંગ",
+      "એક્સટ્રુઝન",
+      "ડ્રોઇંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બે વિરુદ્ધ દિશામાં ફરતા રોલર્સ વચ્ચે કમ્પ્રેસિવ ફોર્સ આપીને ક્રોસ-સેક્શન ઘટાડવાની પ્રક્રિયાને રોલિંગ (Rolling) કહે છે[cite: 5]."
+  },
+  {
+    "id": 87,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is the process of forcing metal in a closed chamber through a die opening called?",
+    "gujaratiQuestion": "087. મેટલને બંધ ચેમ્બરમાં દબાણ આપીને ડાઈમાંથી બહાર કાઢવાની પ્રક્રિયા કઈ છે?",
+    "options": [
+      "રોલિંગ",
+      "વાયર ડ્રોઇંગ",
+      "એક્સટ્રુઝન",
+      "પિયર્સિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બિલેટને કન્ટેનરમાં મૂકી રેમ દ્વારા દબાણ આપી ડાઇ ઓપનિંગમાંથી બહાર ધકેલવાની પ્રક્રિયાને એક્સટ્રુઝન (Extrusion) કહે છે[cite: 5]."
+  },
+  {
+    "id": 88,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "The taper of an internal dovetail can be measured with the help of:",
+    "gujaratiQuestion": "Q88. ઈન્ટરનલ ડવટેઈલ (dovetail) નો ટેપર કોની મદદથી માપી શકાય છે?",
+    "options": [
+      "સાઈન બાર",
+      "કોમ્બિનેશન સેટ",
+      "સ્ટાન્ડર્ડ ડાયમેન્શન્સના બોલ્સ અને સ્લિપ ગેજીસ",
+      "ડાયલ ગેજીસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇન્ટરનલ ડવટેઇલ સ્લોટના ટેપર અને પહોળાઈ માપવા માટે પ્રમાણિત વ્યાસના રોલર્સ/બોલ્સ અને સ્લિપ ગેજના સેટનો ઉપયોગ થાય છે[cite: 5]."
+  },
+  {
+    "id": 91,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "A basic shaft and a basic hole have upper deviation and lower deviation respectively equal to:",
+    "gujaratiQuestion": "091. બેઝિક શાફ્ટ અને બેઝિક હોલ એ છે કે જેના અનુક્રમે અપર ડેવિએશન અને લોઅર ડેવિએશન:",
+    "options": [
+      "+ ve, - ve હોય",
+      "- ve, + ve હોય",
+      "મિનિમમ, મેક્સિમમ હોય",
+      "શૂન્ય, શૂન્ય હોય"
+    ],
+    "correctAnswer": 3,
+    "explanation": "બેઝિક શાફ્ટ ('h') માટે અપર ડેવિએશન (es) = 0 અને બેઝિક હોલ ('H') માટે લોઅર ડેવિએશન (EI) = 0 હોય છે[cite: 5]."
+  },
+  {
+    "id": 93,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is the main function of flash in closed-die forging?",
+    "gujaratiQuestion": "093. ક્લોઝ્ડ-ડાઈ ફોર્જિંગમાં ફ્લેશ (Flash) નું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "મટિરિયલનો બગાડ અટકાવવો",
+      "કેવિટીમાં મેટલને પૂરેપૂરું ભરવા માટે દબાણ પૂરું પાડવું",
+      "ડાઈની અંદર પ્રવાહી મેટલને રોકવું",
+      "મેટલને ઝડપથી ઠંડુ કરવું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફ્લેશ ગટર આગળ પાતળી ધાતુ ઝડપથી ઠંડી થઈ અવરોધ પેદા કરે છે, જે ઊંચું આંતરિક દબાણ પેદા કરી ડાઇની તમામ બારીક કેવિટી ભરી દે છે[cite: 5]."
+  },
+  {
+    "id": 95,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Interferometry",
+    "question": "In interferometric methods, how does the path difference change between consecutive bright bands?",
+    "gujaratiQuestion": "095. ઈન્ટરફેરોમેટ્રિક મેથડમાં, એક બ્રાઇટ બેન્ડ અને બીજા બ્રાઈટ બેન્ડ વચ્ચેનો પાથ ડિફરન્સ કઈ રીતે બદલાય છે?",
+    "options": [
+      "હાફ વેવલેન્થ (અડધી તરંગલંબાઈ)",
+      "બે હાફ વેવલેન્થ (અડધી તરંગલંબાઈ)",
+      "એક ક્વાર્ટર વેવલેન્થ (ચોથા ભાગની તરંગલંબાઈ)",
+      "બે વેવલેન્થ્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બે ક્રમિક બ્રાઇટ ફ્રિન્જીસ વચ્ચે ઓપ્ટિકલ પાથ ડિફરન્સ એક પૂર્ણ તરંગલંબાઈ λ (એટલે કે 2 × λ/2) જેટલો બદલાય છે[cite: 5]."
+  },
+  {
+    "id": 97,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "In deep drawing, what is used to prevent wrinkling of the sheet?",
+    "gujaratiQuestion": "097. ડીપ ડ્રોઇંગ પ્રક્રિયામાં શીટને કરચલી પડતી (Wrinkling) અટકાવવા કોનો ઉપયોગ થાય છે?",
+    "options": [
+      "ડાઈ રેડિયસ",
+      "બ્લેન્ક હોલ્ડર",
+      "પાઇલટ પંચ",
+      "સ્ટ્રિપર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બ્લેન્ક હોલ્ડર (Blank holder / Hold-down plate) શીટની ફ્લેન્જ પર દબાણ જાળવી રાખીને રેડિયલ કમ્પ્રેશનથી થતી કરચલીઓ અટકાવે છે[cite: 5]."
+  },
+  {
+    "id": 98,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "For tolerance grade IT7, the value of standard tolerance unit is equal to:",
+    "gujaratiQuestion": "098. ગ્રેડ IT7 માટે, ટોલરન્સનું મૂલ્ય કોના બરાબર હોય છે?",
+    "options": [
+      "7i",
+      "10i",
+      "16i",
+      "25i"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્ટાન્ડર્ડ ટોલરન્સ ગ્રેડ મુજબ IT6 = 10i, IT7 = 16i, IT8 = 25i, IT9 = 40i થાય છે[cite: 5]."
+  },
+  {
+    "id": 99,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "The tendency of a sheet metal to slightly recover its original shape after bending force is removed is called:",
+    "gujaratiQuestion": "099. બેન્ડિંગ પૂરું થયા પછી ફોર્સ દૂર કરતા શીટની થોડી પાછી ફરવાની વૃત્તિને શું કહે છે?",
+    "options": [
+      "રિઝિલિયન્સ",
+      "સ્પ્રિંગબેક",
+      "ડક્ટિલિટી",
+      "હાર્ડનિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બેન્ડિંગ પછી ઇલાસ્ટિક રિકવરી થવાના કારણે શીટ મૂળ આકાર તરફ સહેજ ખુલી જાય છે, જેને સ્પ્રિંગબેક (Springback) કહેવાય છે[cite: 5]."
+  },
+  {
+    "id": 100,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is the very first step in the powder metallurgy process?",
+    "gujaratiQuestion": "0100. પાઉડર મેટલર્જી પ્રક્રિયાનો સૌથી પહેલો તબક્કો કયો છે?",
+    "options": [
+      "બ્લેન્ડિંગ",
+      "સિન્ટરિંગ",
+      "પાઉડર બનાવવો",
+      "કોમ્પેક્ટિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પાઉડર મેટલર્જીનો પ્રથમ તબક્કો એટમાઇઝેશન કે મિકેનિકલ પદ્ધતિ વડે ધાતુનો પાઉડર બનાવવો (Powder production) છે[cite: 5]."
+  },
+  {
+    "id": 101,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "In powder metallurgy, the operation of pressing mixed powder in a die using punches is called:",
+    "gujaratiQuestion": "0101. પાઉડર મેટલર્જીમાં મિક્સ કરેલા પાઉડરને ડાઈ અને પંચ વડે દબાવવાની ક્રિયાને શું કહે છે?",
+    "options": [
+      "સિન્ટરિંગ",
+      "કોમ્પેક્ટિંગ",
+      "બ્લેન્ડિંગ",
+      "સાઇઝિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પાઉડરને ડાઇમાં મૂકી ઊંચા દબાણે ઇચ્છિત આકારમાં દબાવવાની ક્રિયાને કોમ્પેક્ટિંગ (Compacting / Briquetting) કહે છે[cite: 5]."
+  },
+  {
+    "id": 102,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "If a dimension is specified as 18.33 +0.02/-0.02 mm, what case of tolerance is it?",
+    "gujaratiQuestion": "Q102. ડાયમેન્શનને 18.33 +0.02/-0.02 mm તરીકે દર્શાવવામાં આવે, તો તે શેનો કિસ્સો (case) છે?",
+    "options": [
+      "યુનિલેટરલ ટોલરન્સ",
+      "બાઈલેટરલ ટોલરન્સ",
+      "લિમિટિંગ ડાયમેન્શન્સ",
+      "ઉપરના તમામ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ટોલરન્સ આપવાની આ પદ્ધતિ ટોલરન્સ લિમિટ્સ દર્શાવે છે (Answer Key A મુજબ)[cite: 5]."
+  },
+  {
+    "id": 105,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Gauge Design",
+    "question": "What is a Ring gauge used for checking?",
+    "gujaratiQuestion": "Q105. રિંગ ગેજનો ઉપયોગ શેના ચેકિંગ માટે થાય છે?",
+    "options": [
+      "રિંગની જાડાઈ",
+      "ગોળાઓનો વ્યાસ",
+      "હોલો શાફ્ટનો અંદરનો વ્યાસ",
+      "શાફ્ટનો બહારનો વ્યાસ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "રિંગ ગેજ (Ring Gauge) નો ઉપયોગ નળાકાર શાફ્ટ કે પિનનો બહારનો વ્યાસ (External diameter) ચેક કરવા માટે થાય છે[cite: 5]."
+  },
+  {
+    "id": 107,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "Which type of electrode is used in TIG (Tungsten Inert Gas) welding?",
+    "gujaratiQuestion": "Q107. TIG (Tungsten Inert Gas) વેલ્ડિંગમાં કયા પ્રકારના ઈલેક્ટ્રોડનો ઉપયોગ થાય છે?",
+    "options": [
+      "કન્ઝ્યુમેબલ",
+      "નોન-કન્ઝ્યુમેબલ ટંગસ્ટન",
+      "ફ્લક્સ કોટેડ",
+      "કાર્બન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TIG વેલ્ડિંગમાં આર્ક પેદા કરવા માટે નોન-કન્ઝ્યુમેબલ ટંગસ્ટન ઇલેક્ટ્રોડ વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 109,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Comparators",
+    "question": "Which of the following instruments is a comparator?",
+    "gujaratiQuestion": "0109. નીચેનામાંથી કયું ઈન્સ્ટ્રુમેન્ટ એક કમ્પેરેટર છે?",
+    "options": [
+      "ટૂલ મેકર્સ માઈક્રોસ્કોપ",
+      "GO-No GO ગેજ",
+      "ઓપ્ટિકલ ઈન્ટરફેરોમીટર",
+      "ડાયલ ગેજ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ડાયલ ગેજ (Dial indicator) એ યાંત્રિક કમ્પેરેટર છે જે પ્રમાણિત માપની સાપેક્ષે તફાવત દર્શાવે છે[cite: 5]."
+  },
+  {
+    "id": 112,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Interferometry",
+    "question": "On which principle do optical gauges and optical flats work?",
+    "gujaratiQuestion": "0112. ઓપ્ટિકલ ગેજ કયા સિદ્ધાંત (principle) પર કામ કરે છે?",
+    "options": [
+      "રિફ્લેક્શન (પરાવર્તન)",
+      "રિફ્રેક્શન (વક્રીભવન)",
+      "ડિસ્પર્ઝન",
+      "પ્રકાશના કિરણોનું ઇન્ટરફિયરન્સ (વ્યતિકરણ)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઓપ્ટિકલ ફ્લેટ્સ અને ગેજ પ્રકાશના વ્યતિકરણ એટલે કે ઇન્ટરફિયરન્સ ઓફ લાઇટ (Interference) ના સિદ્ધાંત પર કાર્ય કરે છે[cite: 5]."
+  },
+  {
+    "id": 113,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "In resistance spot welding, which metal are the electrodes mostly made of?",
+    "gujaratiQuestion": "0113. રેઝિસ્ટન્સ સ્પોટ વેલ્ડિંગમાં ઈલેક્ટ્રોડ્સ મોટેભાગે કઈ ધાતુમાંથી બને છે?",
+    "options": [
+      "સ્ટીલ",
+      "કોપર",
+      "કાસ્ટ આયર્ન",
+      "ટંગસ્ટન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઊંચી વિદ્યુત અને ઉષ્મા વાહકતા માટે સ્પોટ વેલ્ડિંગ ઇલેક્ટ્રોડ્સ કોપર અથવા કોપર એલોયમાંથી બનાવાય છે[cite: 5]."
+  },
+  {
+    "id": 115,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "Which heat treatment is carried out to soften steel and relieve internal stresses?",
+    "gujaratiQuestion": "Q115. સ્ટીલને નરમ બનાવવા અને આંતરિક સ્ટ્રેસ દૂર કરવા કઈ હીટ ટ્રીટમેન્ટ થાય છે?",
+    "options": [
+      "નોર્મલાઇઝિંગ",
+      "એનીલિંગ",
+      "હાર્ડનિંગ",
+      "ટેમ્પરિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ટીલને ક્રિટિકલ તાપમાન ઉપર ગરમ કરી ભઠ્ઠીમાં ધીમે ધીમે ઠંડુ પાડવાની એનીલિંગ (Annealing) પ્રક્રિયાથી સોફ્ટનેસ અને ડક્ટિલિટી વધે છે[cite: 5]."
+  },
+  {
+    "id": 116,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "In limits and fits, what does the term 'allowance' generally refer to?",
+    "gujaratiQuestion": "0116. લિમિટ્સ અને ફિટ્સમાં \"એલાઉન્સ (allowance)\" શબ્દનો ઉપયોગ સામાન્ય રીતે શેના માટે થાય છે?",
+    "options": [
+      "શાફ્ટ અને હોલ વચ્ચેનું ન્યૂનતમ ક્લિયરન્સ",
+      "શાફ્ટ અને હોલ વચ્ચેનું મહત્તમ ક્લિયરન્સ",
+      "શાફ્ટ અને હોલ પરના ટોલરન્સનો તફાવત",
+      "હોલની મેક્સિમમ અને મિનિમમ સાઈઝ વચ્ચેનો તફાવત"
+    ],
+    "correctAnswer": 0,
+    "explanation": "એલાઉન્સ એ બે મેટિંગ પાર્ટ્સ વચ્ચે જાણીજોઈને રાખવામાં આવતો પૂર્વનિર્ધારિત તફાવત (ન્યૂનતમ ક્લિયરન્સ અથવા મહત્તમ ઇન્ટરફિયરન્સ) છે[cite: 5]."
+  },
+  {
+    "id": 119,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "What type of fit is 20H7 - g6?",
+    "gujaratiQuestion": "Q119. 20H7 - g6 એ કયો ફિટ છે?",
+    "options": [
+      "ક્લિયરન્સ ફિટ",
+      "પુશ ફિટ",
+      "ટ્રાન્ઝિશન ફિટ",
+      "ઈન્ટરફિયરન્સ ફિટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'H' હોલની લોઅર લિમિટ 0 છે અને 'g' શાફ્ટનું અપર ડેવિએશન ઋણ હોવાથી હંમેશા પોઝિટિવ ગેપ રહે છે, જે ક્લિયરન્સ ફિટ આપે છે[cite: 5]."
+  },
+  {
+    "id": 123,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Interferometry",
+    "question": "Two slip gauges of 1.000 mm and 1.015 mm are placed side by side under an optical flat using monochromatic light (λ = 0.0058928 mm). How many total straight fringes appear?",
+    "gujaratiQuestion": "Q123. 1.000mm અને 1.015mm માપ ધરાવતા 10mm પહોળાઈના બે સ્લિપ ગેજને એકબીજાની સાથે લંબાઈની દિશામાં સંપર્કમાં રાખવામાં આવ્યા છે. તેમના પર એક ઓપ્ટિકલ ફ્લેટ મૂકવામાં આવે છે અને 0.0058928mm તરંગલંબાઈ ધરાવતા મોનોક્રોમેટિક પ્રકાશનો ઉપયોગ કરીને ઇન્સ્પેક્શન કરવામાં આવે છે. બંને સ્લિપ ગેજ પર જોવા મળતી સ્ટ્રેટ ફ્રિન્જીસ ની કુલ સંખ્યા કેટલી હશે?",
+    "options": [
+      "4",
+      "6",
+      "3",
+      "8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફ્રિન્જીસની સંખ્યા હાઇટ ડિફરન્સ અને તરંગલંબાઈ પર આધારિત છે, જે આ સેટઅપ માટે 6 ફ્રિન્જીસ આપે છે[cite: 5]."
+  },
+  {
+    "id": 126,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Gauge Design",
+    "question": "According to Taylor's Principle, what does a 'NO GO' gauge check?",
+    "gujaratiQuestion": "Q126. ટેલરના સિદ્ધાંત મુજબ, \"નો ગો\" (No Go) ગેજ શું ચેક કરે છે?",
+    "options": [
+      "એક સમયે માત્ર અગત્યના ડાયમેન્શન્સ",
+      "એક સમયે તમામ ડાયમેન્શન્સ",
+      "એક સમયે માત્ર એક જ ફીચર",
+      "એક સમયે માત્ર સંબંધિત ડાયમેન્શન્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટેલરના સિદ્ધાંત મુજબ GO ગેજ તમામ સંયુક્ત ડાયમેન્શન્સ ચેક કરે છે, જ્યારે NO-GO ગેજ એક સમયે માત્ર એક જ પરિમાણ (Single element) ચેક કરે છે[cite: 5]."
+  },
+  {
+    "id": 128,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "Which cast iron is used to manufacture machine tool beds due to its excellent vibration damping capacity?",
+    "gujaratiQuestion": "0128. મશીન ટૂલના બેડ બનાવવા કયું કાસ્ટ આયર્ન વપરાય છે કારણ કે તેમાં સારી વાઇબ્રેશન ડેમ્પિંગ ક્ષમતા હોય છે?",
+    "options": [
+      "વ્હાઈટ કાસ્ટ આયર્ન",
+      "નોડ્યુલર કાસ્ટ આયર્ન",
+      "ગ્રે કાસ્ટ આયર્ન",
+      "મેલિએબલ કાસ્ટ આયર્ન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગ્રેફાઇટ ફ્લેક્સની હાજરીને કારણે ગ્રે કાસ્ટ આયર્ન ઉત્તમ ડેમ્પિંગ ક્ષમતા અને ઊંચી કમ્પ્રેસિવ સ્ટ્રેન્થ ધરાવે છે, તેથી મશીન બેડ માટે વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 130,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "If a dimension is shown as 42.5 / 42.3 mm, what case of specification is it?",
+    "gujaratiQuestion": "Q130. ડાયમેન્શનને 42.5/42. 3 mm તરીકે દર્શાવવામાં આવે, તો તે શેનો કિસ્સો (case) છે?",
+    "options": [
+      "યુનિલેટરલ ટોલરન્સ",
+      "બાઈલેટરલ ટોલરન્સ",
+      "લિમિટિંગ ડાયમેન્શન્સ",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "જ્યારે મહત્તમ અને લઘુત્તમ સ્વીકાર્ય સાઇઝ સીધી જ દર્શાવવામાં આવે ત્યારે તેને લિમિટિંગ ડાયમેન્શન્સ (Limits of size) કહે છે[cite: 5]."
+  },
+  {
+    "id": 133,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Accuracy & Precision",
+    "question": "Which of the following instruments provides the highest accuracy in optical profiling?",
+    "gujaratiQuestion": "Q133. નીચેનામાંથી સૌથી સચોટ (accurate) ઇન્સ્ટ્રુમેન્ટ કયું છે?",
+    "options": [
+      "વર્નિયર કેલિપર",
+      "સ્ક્રૂ ગેજ",
+      "સ્લિપ ગેજ",
+      "ઓપ્ટિકલ પ્રોજેક્ટર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "જટિલ પ્રોફાઇલ્સના બિન-સંપર્ક મેગ્નિફાઇડ નિરીક્ષણ માટે ઓપ્ટિકલ પ્રોજેક્ટર ઉત્તમ ચોકસાઈ આપે છે[cite: 5]."
+  },
+  {
+    "id": 137,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "What are the dimension limits of a 30h7 shaft?",
+    "gujaratiQuestion": "0137. 30h7 શાફ્ટની ડાયમેન્શન લિમિટ્સ શું હશે?",
+    "options": [
+      "30.000, 29.979",
+      "30.000, 30.021",
+      "30.000, 30.007",
+      "30.000, 29.993"
+    ],
+    "correctAnswer": 0,
+    "explanation": "30 mm માટે IT7 ટોલરન્સ 21 μm (0.021 mm) છે અને 'h' માટે અપર ડેવિએશન 0 હોવાથી લિમિટ્સ 30.000 mm અને 29.979 mm થાય[cite: 5]."
+  },
+  {
+    "id": 139,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "Which heat treatment is given to improve machinability of high carbon steel?",
+    "gujaratiQuestion": "0139. હાઈ કાર્બન સ્ટીલની મશીનેબિલિટી સુધારવા માટે કઈ હીટ ટ્રીટમેન્ટ અપાય છે?",
+    "options": [
+      "નોર્મલાઇઝિંગ",
+      "સ્ફેરોઇડાઇઝિંગ",
+      "ટેમ્પરિંગ",
+      "નાઈટ્રાઈડિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ફેરોઇડાઇઝિંગ એનીલિંગથી લેમિનર સિમેન્ટાઇટ ગોળાકાર બને છે, જેથી હાઇ કાર્બન સ્ટીલની મશીનેબિલિટી સુધરે છે[cite: 5]."
+  },
+  {
+    "id": 140,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Gauge Design",
+    "question": "What is the effect of wear on the gauging size of a 'GO' snap gauge?",
+    "gujaratiQuestion": "Q140. \"ગો\" (Go) સ્નેપ ગેજની સાઈઝ પર ઘસારા (wear) ની શું અસર થાય છે?",
+    "options": [
+      "ઘટાડો (Decrease)",
+      "વધારો (Increase)",
+      "વધી કે ઘટી શકે છે",
+      "કોઈ અસર નહિ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્નેપ ગેજ શાફ્ટ પરથી વારંવાર પસાર થતાં તેના જડબાં ઘસાય છે, જેથી તેનું માપ વધે (Increase થાય) છે[cite: 5]."
+  },
+  {
+    "id": 141,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is the major alloying element in duralumin other than aluminum?",
+    "gujaratiQuestion": "0141. ડ્યુરાલ્યુમિનમાં એલ્યુમિનિયમ સિવાયનું મુખ્ય એલોયિંગ એલિમેન્ટ કયું હોય છે?",
+    "options": [
+      "કાર્બન",
+      "ઝીંક",
+      "કોપર",
+      "ટીન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડ્યુરાલ્યુમિનમાં આશરે 95% એલ્યુમિનિયમ સાથે મુખ્ય એલોયિંગ તત્વ તરીકે 4% કોપર (Cu) હોય છે[cite: 5]."
+  },
+  {
+    "id": 144,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Gauge Design",
+    "question": "Which deviation is provided from nominal size to a new 'GO' plug gauge?",
+    "gujaratiQuestion": "Q144. નવા \"ગો\" (Go) પ્લગ ગેજને નોમિનલ સાઈઝમાંથી કયા ડેવિએશન પૂરા પાડવામાં આવે છે?",
+    "options": [
+      "એક પોઝિટિવ ડેવિએશન",
+      "એક નેગેટિવ ડેવિએશન",
+      "બે પોઝિટિવ ડેવિએશન",
+      "બે નેગેટિવ ડેવિએશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્લગ ગેજનો GO છેડો હોલની લઘુત્તમ લિમિટ સાથે ટોલરન્સ અને વિયર એલાઉન્સ મેળવીને બંને પોઝિટિવ ડેવિએશન ધરાવે છે[cite: 5]."
+  },
+  {
+    "id": 147,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "A platinum resistance thermometer has resistance 2.8 Ω at 0°C and 3.8 Ω at 100°C. What is the temperature when resistance is 5.8 Ω?",
+    "gujaratiQuestion": "0147. પ્લેટિનમ રેઝિસ્ટન્સ થર્મોમીટરનો રેઝિસ્ટન્સ 0°C પર 2.8 ohm અને 100°C પર 3.8 ohm છે. જ્યારે રેઝિસ્ટન્સ 5.8 ohm દર્શાવેલ હોય ત્યારે ટેમ્પરેચર (તાપમાન) કેટલું હશે?",
+    "options": [
+      "100°C",
+      "200°C",
+      "300°C",
+      "400°C"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rt = R0(1 + αT) => 3.8 = 2.8(1 + 100α) => α = 1/280. For 5.8 Ω: 5.8 = 2.8(1 + T/280) => T = 300°C[cite: 5]."
+  },
+  {
+    "id": 148,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "How is material removed in Electro-Discharge Machining (EDM)?",
+    "gujaratiQuestion": "Q148. ઇલેક્ટ્રો-ડિસ્ચાર્જ મશીનિંગ (EDM) માં મટિરિયલ કઇ રીતે દૂર થાય છે?",
+    "options": [
+      "કેમિકલ રિએક્શનથી",
+      "સ્પાર્ક ઇરોઝન અને મેલ્ટિંગથી",
+      "કટીંગ ટૂલની ધારથી",
+      "સીધા ઘર્ષણથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "EDM માં ડાઇલેક્ટ્રિક માધ્યમમાં ટૂલ અને વર્કપીસ વચ્ચે થતા પુનરાવર્તિત ઇલેક્ટ્રિક સ્પાર્ક ઇરોઝન અને સ્થાનિક મેલ્ટિંગથી મટીરીયલ દૂર થાય છે[cite: 5]."
+  },
+  {
+    "id": 150,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "For which materials is Ultrasonic Machining (USM) most useful?",
+    "gujaratiQuestion": "0150. અલ્ટ્રાસોનિક મશીનિંગ (USM) કયા મટિરિયલ માટે સૌથી વધુ ઉપયોગી છે?",
+    "options": [
+      "ડક્ટાઈલ ધાતુઓ",
+      "રબર અને પ્લાસ્ટિક",
+      "ગ્લાસ અને સિરામિક જેવા બરડ મટિરિયલ્સ",
+      "માત્ર લાકડું"
+    ],
+    "correctAnswer": 2,
+    "explanation": "USM અલ્ટ્રાસોનિક ફ્રિક્વન્સી પર એબ્રેસિવ સ્લરી દ્વારા કાચ, સિરામિક, રત્નો અને કઠણ બરડ (Hard and brittle) સામગ્રીના મશીનિંગ માટે શ્રેષ્ઠ છે[cite: 5]."
+  },
+  {
+    "id": 151,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Accuracy & Precision",
+    "question": "What is the smallest change in a measured variable to which an instrument responds called?",
+    "gujaratiQuestion": "0151. માપેલા વેરીએબલમાં થતા જે સૌથી નાના ફેરફારને ઇન્સ્ટ્રુમેન્ટ રિસ્પોન્સ (પ્રતિસાદ) આપે તેને શું કહેવાય છે?",
+    "options": [
+      "એક્યુરેસી",
+      "રિઝોલ્યુશન",
+      "પ્રિસિઝન",
+      "સેન્સિટિવિટી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇન્સ્ટ્રુમેન્ટ દ્વારા માપી શકાતા સૌથી નાના ફેરફારને તેનું રિઝોલ્યુશન (Resolution) કહેવાય છે[cite: 5]."
+  },
+  {
+    "id": 154,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Accuracy & Precision",
+    "question": "What are errors primarily caused by human mistakes called?",
+    "gujaratiQuestion": "0154. મુખ્યત્વે માનવીય ભૂલો (human mistakes) ને કારણે થતી એરરને શું કહેવાય છે?",
+    "options": [
+      "ગ્રોસ એરર",
+      "ઇન્સ્ટ્રુમેન્ટલ એરર",
+      "ઓબ્ઝર્વેશનલ એરર",
+      "સિસ્ટેમેટિક એરર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "વાંચવામાં, ગણતરીમાં કે ઇન્સ્ટ્રુમેન્ટ સેટ કરવામાં માનવીય બેદરકારીથી થતી ભૂલોને ગ્રોસ એરર (Gross error) કહે છે[cite: 5]."
+  },
+  {
+    "id": 156,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "In which non-traditional machining process is a vacuum chamber strictly necessary?",
+    "gujaratiQuestion": "Q156. કઈ UCM પ્રોસેસમાં વેક્યુમ ચેમ્બર હોવું અત્યંત જરૂરી છે?",
+    "options": [
+      "USM",
+      "ECM",
+      "ઈલેક્ટ્રોન બીમ મશીનિંગ (EBM)",
+      "AWJM"
+    ],
+    "correctAnswer": 2,
+    "explanation": "EBM માં ઇલેક્ટ્રોન્સ હવાના અણુઓ સાથે અથડાઈને વિખેરાઈ ન જાય તે માટે ઉચ્ચ વેક્યુમ ચેમ્બર (10^-4 થી 10^-5 Torr) અનિવાર્ય છે[cite: 5]."
+  },
+  {
+    "id": 158,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Accuracy & Precision",
+    "question": "A wattmeter reads 30.34 W. If the absolute error in measurement is -2.22 W, what is the true value of power?",
+    "gujaratiQuestion": "0158. વોટમીટર 30.34 W નું રીડિંગ દર્શાવે છે. માપનમાં એબ્સોલ્યુટ એરર - 2.22 W છે. તો પાવરની સાચી વેલ્યુ (True value) કેટલી હશે?",
+    "options": [
+      "32.56 W",
+      "28.12 W",
+      "25.45 W",
+      "આમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Measured Value = True Value + Error => True Value = Measured - Error = 30.34 - (-2.22) = 32.56 W[cite: 5]."
+  },
+  {
+    "id": 159,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is the operation of filling the pump casing and suction pipe with liquid before starting called?",
+    "gujaratiQuestion": "Q159. પંપ ચાલુ કરતા પહેલા તેની કેસિંગ અને સક્શન પાઈપને પ્રવાહીથી ભરવાની ક્રિયાને શું કહે છે?",
+    "options": [
+      "કેવિટેશન",
+      "પ્રાઈમિંગ",
+      "વોટર હેમર",
+      "બ્લિડિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કેસિંગમાંથી હવા દૂર કરીને પંપને લિક્વિડથી સંપૂર્ણ ભરવાની પ્રક્રિયાને પ્રાઇમિંગ (Priming) કહે છે[cite: 5]."
+  },
+  {
+    "id": 160,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "While starting a centrifugal pump, in what position should its delivery valve be?",
+    "gujaratiQuestion": "0160. સેન્ટ્રીફ્યુગલ પંપ શરૂ કરતી વખતે તેનો ડિલિવરી વાલ્વ કઈ સ્થિતિમાં હોવો જોઈએ?",
+    "options": [
+      "સંપૂર્ણ ખુલ્લો",
+      "સંપૂર્ણ બંધ",
+      "અડધો ખુલ્લો",
+      "વાલ્વની સ્થિતિથી કોઈ ફરક પડતો નથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોટર પર સ્ટાર્ટિંગ લોડ ન્યૂનતમ રાખવા માટે સેન્ટ્રીફ્યુગલ પંપ શરૂ કરતી વખતે ડિલિવરી વાલ્વ સંપૂર્ણ બંધ રાખવામાં આવે છે[cite: 5]."
+  },
+  {
+    "id": 161,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "What are thermistors made of?",
+    "gujaratiQuestion": "0161. થર્મિસ્ટર્સ શેમાંથી બનેલા હોય છે?",
+    "options": [
+      "પ્યોર મેટલ્સ",
+      "પ્યોર ઇન્સ્યુલેટર્સ",
+      "મેટાલિક ઓક્સાઇડ્સના સિન્ટર્ડ (sintered) મિશ્રણમાંથી",
+      "પ્યોર સેમિકન્ડક્ટર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "થર્મિસ્ટર એ મેંગેનીઝ, નિકલ, કોબાલ્ટ અને આયર્નના ઓક્સાઇડના સિન્ટર્ડ સેમિકન્ડક્ટર મિશ્રણમાંથી બનેલું સેન્સિંગ ડિવાઇસ છે[cite: 5]."
+  },
+  {
+    "id": 164,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "Which condition is required to prevent cavitation in a pump?",
+    "gujaratiQuestion": "Q164. પંપમાં કેવિટેશન અટકાવવા માટે કઈ શરત જરૂરી છે?",
+    "options": [
+      "NPSHa < NPSHr",
+      "NPSHa = NPSHr",
+      "NPSHa > NPSHr",
+      "NPSHr = 0"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કેવિટેશન અટકાવવા ઉપલબ્ધ હેડ હંમેશા જરૂરી હેડ કરતાં વધુ (NPSHa > NPSHr) હોવો જોઈએ[cite: 5]."
+  },
+  {
+    "id": 165,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "What is the output of a bimetallic element?",
+    "gujaratiQuestion": "0165. બાયમેટાલિક એલિમેન્ટનું આઉટપુટ શું હોય છે?",
+    "options": [
+      "સ્ટ્રેઈન",
+      "પ્રેશર",
+      "ડિસ્પ્લેસમેન્ટ",
+      "વોલ્ટેજ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બે અલગ થર્મલ એક્સપાન્શન ગુણાંક ધરાવતી ધાતુઓ તાપમાન બદલાતાં વળે છે, જેથી યાંત્રિક ડિસ્પ્લેસમેન્ટ (Displacement) આઉટપુટ મળે છે[cite: 5]."
+  },
+  {
+    "id": 166,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "Why is the casing of a centrifugal pump given a volute shape?",
+    "gujaratiQuestion": "0166. સેન્ટ્રીફયુગલ પંપની કેસિંગનો આકાર વોલ્યુટ (Volute) કેમ રાખવામાં આવે છે?",
+    "options": [
+      "દેખાવ સારો કરવા",
+      "કાઈનેટિક એનર્જીનું પ્રેશર એનર્જીમાં રૂપાંતર કરવા",
+      "વજન ઘટાડવા",
+      "કેવિટેશન વધારવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વોલ્યુટ કેસિંગનો વધતો આડછેદ પ્રવાહીના વેગને ક્રમશઃ ઘટાડીને તેની ગતિજ ઊર્જાનું પ્રેશર એનર્જીમાં કાર્યક્ષમ રૂપાંતર કરે છે[cite: 5]."
+  },
+  {
+    "id": 167,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is the effect on pump efficiency when pumping high-viscosity fluids?",
+    "gujaratiQuestion": "0167. વધુ વિસ્કોસિટી (Viscosity) ધરાવતા પ્રવાહીને પંપ કરવાથી પંપની કાર્યક્ષમતા (Efficiency) પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "સમાન રહે છે",
+      "પંપ કામ કરતો બંધ થઈ જાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વધુ વિસ્કોસિટીથી હાઇડ્રોલિક ઘર્ષણ લોસ વધે છે, જેથી હેડ, ફ્લો રેટ અને કાર્યક્ષમતા (Efficiency) ઘટે છે[cite: 5]."
+  },
+  {
+    "id": 168,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "Which conversion occurs in Bourdon tubes?",
+    "gujaratiQuestion": "Q168. બોર્ડન (bourdon) ટ્યુબ્સમાં નીચેનામાંથી કયું કન્વર્ઝન (રૂપાંતર) થાય છે?",
+    "options": [
+      "પ્રેશરથી ડિસ્પ્લેસમેન્ટમાં",
+      "પ્રેશરથી વોલ્ટેજમાં",
+      "પ્રેશરથી સ્ટ્રેઈનમાં",
+      "પ્રેશરથી ફોર્સમાં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બોર્ડન ટ્યુબ દબાણ લાગતાં સીધી થવાનો પ્રયાસ કરે છે, જેથી પ્રેશરનું કોણીય કે રેખીય ડિસ્પ્લેસમેન્ટમાં રૂપાંતર થાય છે[cite: 5]."
+  },
+  {
+    "id": 169,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "According to ANSI/HI 9.6.7, which parameters are taken into account for pump viscosity correction?",
+    "gujaratiQuestion": "Q169. ANSI/HI 9.6.7 મુજબ પંપની વિસ્કોસિટી કરેક્શન માટે કયા પેરામીટર્સ ગણતરીમાં લેવાય છે?",
+    "options": [
+      "માત્ર હેડ",
+      "ફ્લો રેટ, હેડ અને એફિશિયન્સી",
+      "માત્ર તાપમાન",
+      "માત્ર પંપનું વજન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વિસ્કોસિટી કરેક્શન મેથડમાં ફ્લો રેટ, ટોટલ હેડ અને પંપ એફિશિયન્સી ત્રણેય કરેક્શન ફેક્ટર્સ ગણતરીમાં લેવાય છે[cite: 5]."
+  },
+  {
+    "id": 172,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "For the same hot and cold junction temperatures, which thermocouple will give the highest output voltage?",
+    "gujaratiQuestion": "Q172. સમાન હોટ અને કોલ્ડ જંકશન ટેમ્પરેચર માટે નીચેનામાંથી કયું થર્મોકપલ સૌથી વધુ આઉટપુટ આપશે?",
+    "options": [
+      "ટાઈપ J",
+      "ટાઈપ K",
+      "ટાઈપ E",
+      "ટાઈપ T"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટાઇપ E (Chromel-Constantan) થર્મોકપલ સૌથી ઊંચો સીબેક ગુણાંક (~68 μV/°C) ધરાવે છે, જેથી તે મહત્તમ વોલ્ટેજ આઉટપુટ આપે છે[cite: 5]."
+  },
+  {
+    "id": 173,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "Which type of pump is most suitable for pumping thick and sludgy fluids?",
+    "gujaratiQuestion": "0173. થિક અને સ્લજ જેવા પ્રવાહીને પંપ કરવા કયા પ્રકારનો પંપ વધુ યોગ્ય છે?",
+    "options": [
+      "સેન્ટ્રીફ્યુગલ પંપ",
+      "પ્રોગ્રેસિવ કેવિટી પંપ",
+      "ટર્બાઈન પંપ",
+      "જેટ પંપ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રોગ્રેસિવ કેવીટી પંપ (PCP) અતિશય ચીકણા, સ્લજ અને ઘન કણો ધરાવતા પ્રવાહીને સરળતાથી પંપ કરવા માટે શ્રેષ્ઠ પોઝિટિવ ડિસ્પ્લેસમેન્ટ પંપ છે[cite: 5]."
+  },
+  {
+    "id": 175,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "Semiconductor strain gauges have a much higher gauge factor compared to metallic ones primarily due to:",
+    "gujaratiQuestion": "Q175. મેટાલિક સ્ટ્રેઈન ગેજિસની સરખામણીમાં સેમિકન્ડક્ટર સ્ટ્રેઈન ગેજિસ સામાન્ય રીતે ઘણા ઊંચા ગેજ ફેક્ટર ધરાવે છે. આ મુખ્યત્વે શેના કારણે છે?",
+    "options": [
+      "હાઈ ટેમ્પરેચર સેન્સિટિવિટી",
+      "હાઈ પિઝોરેઝિસ્ટિવ કોએફિશિયન્ટ",
+      "હાઈ પોઈઝન્સ રેશિયો",
+      "હાઈ મેગ્નેટોસ્ટ્રિક્ટિવ કોએફિશિયન્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સેમિકન્ડક્ટરમાં સ્ટ્રેસ લાગતાં તેની રેઝિસ્ટિવિટીમાં મોટો ફેરફાર થાય છે (Piezoresistive effect), જેથી તેનો ગેજ ફેક્ટર 100 થી 200 જેટલો ઊંચો હોય છે[cite: 5]."
+  },
+  {
+    "id": 176,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "On which principle does a progressive cavity pump work?",
+    "gujaratiQuestion": "0176. પ્રોગ્રેસિવ કેવિટી પંપ કયા સિદ્ધાંત પર કાર્ય કરે છે?",
+    "options": [
+      "સેન્ટ્રીફ્યુગલ ફોર્સ",
+      "પોઝિટિવ ડિસ્પ્લેસમેન્ટ",
+      "ગ્રેવિટી ફોર્સ",
+      "મૅગ્નેટિક ઇન્ડક્શન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રોગ્રેસિવ કેવિટી પંપ રોટરી પોઝિટિવ ડિસ્પ્લેસમેન્ટ (Positive displacement) ના સિદ્ધાંત પર કાર્ય કરે છે[cite: 5]."
+  },
+  {
+    "id": 179,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "What is a McLeod gauge used to measure?",
+    "gujaratiQuestion": "Q179. મેકલિયોડ (Mc-leoid) ગેજનો ઉપયોગ શું માપવા માટે થાય છે?",
+    "options": [
+      "ફ્લો રેટ",
+      "લેવલ",
+      "પોઈન્ટ વેલોસિટી",
+      "વેક્યૂમ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "મેકલિયોડ ગેજ ખૂબ જ નીચું દબાણ એટલે કે ઉચ્ચ વેક્યુમ (Low absolute pressure / Vacuum) માપવા માટે વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 180,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "In a vertical turbine lineshaft pump, where is the motor located?",
+    "gujaratiQuestion": "0180. વર્ટિકલ ટર્બાઈન પંપમાં લાઈનશાફ્ટ મોડલમાં મોટર ક્યાં લગાવેલી હોય છે?",
+    "options": [
+      "પાણીની અંદર તળિયે",
+      "જમીનની સપાટી પર",
+      "પાઈપની વચ્ચે",
+      "પંપની અંદર જ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "લાઇનશાફ્ટ વર્ટિકલ ટર્બાઇન પંપમાં ડ્રાઇવ મોટર જમીનની સપાટી પર ડિસ્ચાર્જ હેડ ઉપર માઉન્ટ થયેલી હોય છે[cite: 5]."
+  },
+  {
+    "id": 182,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "In an engineering drawing with designation 20G7h8, by what is the tolerance position of the hole represented?",
+    "gujaratiQuestion": "Q182. 20G7h8 નું ડેઝિગ્નેશન ધરાવતા એન્જિનિયરિંગ ડ્રોઈંગમાં હોલના ટોલરન્સની પોઝિશન કોના દ્વારા દર્શાવવામાં આવે છે?",
+    "options": [
+      "અક્ષર G",
+      "અક્ષર h",
+      "નંબર 7",
+      "નંબર 8"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કેપિટલ અક્ષર 'G' એ બેઝિક સાઈઝની સાપેક્ષે હોલના ફંડામેન્ટલ ડેવિએશન (Tolerance position) ને દર્શાવે છે[cite: 5]."
+  },
+  {
+    "id": 185,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "On which conservation principle is Bernoulli's equation based?",
+    "gujaratiQuestion": "Q185. બર્નુલીનું સમીકરણ કયા સિદ્ધાંત પર આધારિત છે?",
+    "options": [
+      "માસ કન્ઝર્વેશન",
+      "ઊર્જા સંરક્ષણનો નિયમ",
+      "મોમેન્ટમ કન્ઝર્વેશન",
+      "થર્મોડાયનેમિક્સનો બીજો નિયમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બર્નોલીનું સમીકરણ આદર્શ અદબનીય પ્રવાહીના પ્રવાહ માટે ઊર્જા સંરક્ષણ (Conservation of Energy) ના નિયમ પર આધારિત છે[cite: 5]."
+  },
+  {
+    "id": 186,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "For angular measurement in metrology, which pair can be used together?",
+    "gujaratiQuestion": "0186. મેટ્રોલોજીમાં એંગલ મેઝરમેન્ટ માટે, નીચેનામાંથી કઈ જોડી (pair) નો એકબીજા સાથે ઉપયોગ કરી શકાય છે?",
+    "options": [
+      "સાઈન બાર અને વર્નિયર કેલિપર્સ",
+      "બેવલ પ્રોટ્રેક્ટર અને સ્લિપ ગેજીસ",
+      "સ્લિપ ગેજીસ અને સાઈન બાર",
+      "સાઈન બાર અને બેવલ પ્રોટ્રેક્ટર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સાઇન બાર સાથે સ્લિપ ગેજના સ્ટેકનો ઉપયોગ કરીને ત્રિકોણમિતિ sin(θ) = h/L મુજબ ચોકસાઈપૂર્વક ખૂણો માપવામાં આવે છે[cite: 5]."
+  },
+  {
+    "id": 187,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is the pressure surge produced in a pipe when a flowing liquid is suddenly stopped by closing a valve called?",
+    "gujaratiQuestion": "Q187. પાઈપમાં વહેતા પ્રવાહીમાં અચાનક વાલ્વ બંધ કરવાથી પાઈપમાં ઉત્પન્ન થતા પ્રેસર સર્જ (Surge) ને શું કહે છે?",
+    "options": [
+      "કેવિટેશન",
+      "વોટર હેમર",
+      "પ્રાઈમિંગ",
+      "સર્જિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રવાહીનો વેગ અચાનક શૂન્ય થતાં ગતિજ ઊર્જા દબાણ તરંગોમાં ફેરવાય છે જેને વોટર હેમર (Water hammer) કહે છે[cite: 5]."
+  },
+  {
+    "id": 188,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "Which equation is used to calculate water hammer pressure rise?",
+    "gujaratiQuestion": "0188. વોટર હેમરનું દબાણ માપવા માટે કયું સમીકરણ વપરાય છે?",
+    "options": [
+      "બર્નુલીનું સમીકરણ",
+      "જૂકોવ્સ્કી સમીકરણ",
+      "યુલર સમીકરણ",
+      "ડાર્સીનું સમીકરણ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વોટર હેમરના કારણે ઉદભવતા વધારાના દબાણ ΔP = ρ · c · Δv ની ગણતરી માટે જૂકોવ્સ્કી સમીકરણ (Joukowsky equation) વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 189,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Interferometry",
+    "question": "Which is the most appropriate instrument to check the flatness of a slip gauge?",
+    "gujaratiQuestion": "0189. સ્લિપ ગેજની ફ્લેટનેસ ચેક કરવા માટે યોગ્ય ઇન્સ્ટ્રુમેન્ટ કયું છે?",
+    "options": [
+      "ડાયલ ઇન્ડિકેટર",
+      "ન્યુમેટિક કમ્પેરેટર",
+      "ઑપ્ટિકલ ઈન્ટરફેરોમીટર",
+      "પ્રોજેક્શન ફેસિલિટી ધરાવતું ટૂલ મેકર્સ માઈક્રોસ્કોપ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્લિપ ગેજની ઉચ્ચ ચોકસાઈવાળી ફ્લેટનેસ અને સમાંતરતા ચકાસવા માટે ઓપ્ટિકલ ફ્લેટ અથવા ઓપ્ટિકલ ઇન્ટરફેરોમીટર વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 190,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is the height to which a liquid is pumped called?",
+    "gujaratiQuestion": "0190. પંપ દ્વારા પ્રવાહીને જે ઊંચાઈ સુધી ધકેલવામાં આવે છે તેને શું કહેવાય છે?",
+    "options": [
+      "સક્શન હેડ",
+      "ડિલિવરી હેડ",
+      "ફ્રિક્શન હેડ",
+      "કાઈનેટિક હેડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પંપના કેન્દ્રથી ડિલિવરી ટાંકીની સપાટી સુધીની ઊંચાઈને ડિલિવરી હેડ (Delivery head) કહેવાય છે[cite: 5]."
+  },
+  {
+    "id": 191,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is the primary function of a spillway in a dam?",
+    "gujaratiQuestion": "0191. સ્પિલવે (Spillway) નું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "ડેમમાં પાણી ભરવું",
+      "ડેમમાંથી વધારાના પૂરના પાણીનો સુરક્ષિત નિકાલ કરવો",
+      "વીજળી ઉત્પન્ન કરવી",
+      "ડેમની મજબૂતી વધારવી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જળાશય ભરાઈ ગયા પછી ડેમની સુરક્ષા માટે વધારાના પૂરના પાણીને સુરક્ષિત રીતે નદીમાં છોડવાનું કાર્ય સ્પિલવે કરે છે[cite: 5]."
+  },
+  {
+    "id": 192,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "Which is the most common spillway matching the dam profile where water glides over the crest?",
+    "gujaratiQuestion": "0192. ડેમના આકારને મળતો આવતો સૌથી સામાન્ય સ્પિલવે કયો છે, જેમાં પાણી સપાટી પરથી સરકીને નીચે જાય છે?",
+    "options": [
+      "ઓગી સ્પિલવે",
+      "શાફ્ટ સ્પિલવે",
+      "સાયફન સ્પિલવે",
+      "શૂટ સ્પિલવે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઓગી (Ogee / Overflow) સ્પિલવેનો ક્રેસ્ટ પ્રોફાઇલ નીચે પડતા પાણીના નેપે (Nappe) ના કુદરતી આકાર જેવો હોવાથી પાણી સપાટી પર સરકીને વહે છે[cite: 5]."
+  },
+  {
+    "id": 193,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "On a hole-shaft system, a fit is designated as H7 - h6. What type of fit is this?",
+    "gujaratiQuestion": "0193. હોલ-શાફ્ટ પેર સિસ્ટમ પર ફિટ H7 - h6 તરીકે સ્પષ્ટ કરેલ છે. આ કયા પ્રકારનો ફિટ છે?",
+    "options": [
+      "ક્લિયરન્સ ફિટ",
+      "સ્લાઈડિંગ ફિટ",
+      "ટ્રાન્ઝિશન ફિટ",
+      "ઇન્ટરફિયરન્સ ફિટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "H7 (EI = 0) અને h6 (es = 0) માટે ન્યૂનતમ ક્લિયરન્સ શૂન્ય છે, જેથી તે શુદ્ધ ક્લિયરન્સ ફિટ (Clearance/Sliding fit) છે[cite: 5]."
+  },
+  {
+    "id": 194,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "On which principle does a Siphon spillway operate?",
+    "gujaratiQuestion": "0194. સાયફન સ્પિલવે (Siphon spillway) કયા સિદ્ધાંત પર કાર્ય કરે છે?",
+    "options": [
+      "ગ્રેવિટી અને હવાનું દબાણ",
+      "સેન્ટ્રીફ્યુગલ ફોર્સ",
+      "થર્મોડાયનેમિક્સ",
+      "કેપિલરી એક્શન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સાયફન સ્પિલવે વાતાવરણીય દબાણ અને ગુરુત્વાકર્ષણ આધારિત સાયફોનિક ક્રિયા (Siphonic action) દ્વારા ઓટોમેટિક પૂરનું પાણી ડિસ્ચાર્જ કરે છે[cite: 5]."
+  },
+  {
+    "id": 195,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is a spillway having a vertical shaft and Morning Glory shape called?",
+    "gujaratiQuestion": "0195. ઊભી શાફ્ટ ધરાવતો અને મોર્નિંગ ગ્લોરી આકારનો સ્પિલવે કયા નામે ઓળખાય છે?",
+    "options": [
+      "ઓગી સ્પિલવે",
+      "સાયફન સ્પિલવે",
+      "શાફ્ટ સ્પિલવે",
+      "સાઈડ ચેનલ સ્પિલવે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "શાફ્ટ સ્પિલવે (Shaft / Morning Glory spillway) માં પાણી ફનલ જેવા મોંમાંથી ઊભી શાફ્ટમાં પડી આડી ટનલ દ્વારા બહાર નીકળે છે[cite: 5]."
+  },
+  {
+    "id": 196,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "In limits and fits, what does the term 'Allowance' refer to?",
+    "gujaratiQuestion": "0196. લિમિટ્સ અને ફિટ્સમાં \"એલાઉન્સ\" (Allowance)\" શબ્દ શેનો સંદર્ભ આપે છે?",
+    "options": [
+      "શાફ્ટ અને હોલ વચ્ચેનું મહત્તમ ક્લિયરન્સ",
+      "શાફ્ટ અને હોલ વચ્ચેનું ન્યૂનતમ ક્લિયરન્સ",
+      "હોલની મેક્સિમમ અને મિનિમમ સાઈઝ વચ્ચેનો તફાવત",
+      "શાફ્ટની મેક્સિમમ અને મિનિમમ સાઈઝ વચ્ચેનો તફાવત"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એલાઉન્સ એ મેટિંગ પાર્ટ્સની મહત્તમ મટીરીયલ કન્ડિશન (MMC) વચ્ચેનો પૂર્વનિર્ધારિત તફાવત એટલે કે ન્યૂનતમ ક્લિયરન્સ છે[cite: 5]."
+  },
+  {
+    "id": 197,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "Which type of spillway is most suitable in narrow valleys?",
+    "gujaratiQuestion": "0197. સાંકડી ખીણમાં કયા પ્રકારનો સ્પિલવે સૌથી વધુ અનુકૂળ રહે છે?",
+    "options": [
+      "ઓગી સ્પિલવે",
+      "શૂટ સ્પિલવે",
+      "સ્ટેપ્ડ સ્પિલવે",
+      "ડ્રોપ સ્પિલવે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યાં ડેમની મુખ્ય દીવાલ પર સ્પિલવે માટે પૂરતી જગ્યા ન હોય તેવી સાંકડી ખીણમાં શૂટ સ્પિલવે (Chute / Trough spillway) બાજુના કાંઠે બનાવાય છે[cite: 5]."
+  },
+  {
+    "id": 198,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is used to control water flow over a spillway crest?",
+    "gujaratiQuestion": "0198. સ્પિલવેમાં પાણીના પ્રવાહને નિયંત્રિત કરવા માટે શું વપરાય છે?",
+    "options": [
+      "ક્રેસ્ટ ગેટ્સ",
+      "ટર્બાઈન",
+      "પેનસ્ટોક",
+      "ડ્રાફ્ટ ટ્યુબ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્પિલવેના ક્રેસ્ટ પર જળાશયનું સ્તર નિયંત્રિત કરવા માટે રેડિયલ કે વર્ટિકલ ક્રેસ્ટ ગેટ્સ (Crest gates) લગાવવામાં આવે છે[cite: 5]."
+  },
+  {
+    "id": 199,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "By which other name is a radial gate known?",
+    "gujaratiQuestion": "0199. રેડિયલ ગેટને બીજા કયા નામે ઓળખવામાં આવે છે?",
+    "options": [
+      "ટેઈન્ટર ગેટ",
+      "માઈટર ગેટ",
+      "વર્ટિકલ લિફ્ટ ગેટ",
+      "ડ્રમ ગેટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રેડિયલ ગેટને તેના શોધક ફ્રેન્ક ટેઇન્ટરના નામ પરથી ટેઇન્ટર ગેટ (Tainter gate) પણ કહેવામાં આવે છે[cite: 5]."
+  },
+  {
+    "id": 200,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Gauge Design",
+    "question": "Which woodworking gauge has a long stem and long stock for marking wide boards?",
+    "gujaratiQuestion": "0200. કયા ગેજમાં લાંબા સ્ટેમ અને લાંબો સ્ટોક હોય છે?",
+    "options": [
+      "પેનલ ગેજ",
+      "મોર્ટાઈઝ ગેજ",
+      "માર્કિંગ ગેજ",
+      "સર્ક્યુલર ગેજ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મોટી શીટ્સ અને પહોળા પાટિયા પર ધારથી દૂર સમાંતર લાઇન દોરવા માટે લાંબી બીમ ધરાવતો પેનલ ગેજ (Panel gauge) વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 201,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is the primary advantage of a Tainter (radial) gate?",
+    "gujaratiQuestion": "0201. ટેઈન્ટર ગેટનો મુખ્ય ફાયદો શું છે?",
+    "options": [
+      "તેને ખોલવા માટે ઓછા બળની જરૂર પડે છે",
+      "તે વજનમાં સૌથી ભારે હોય છે",
+      "તે પાણીને રોકી શકતો નથી",
+      "તેને ઊભી દિશામાં ખેંચવો પડે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "હાઇડ્રોસ્ટેટિક દબાણનું પરિણામી બળ પિવોટ પિનમાંથી પસાર થતું હોવાથી ઘર્ષણ ઓછું થાય છે અને તેને ઓપરેટ કરવા ઓછા ફોર્સની જરૂર પડે છે[cite: 5]."
+  },
+  {
+    "id": 202,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "What is a gate that slides vertically in guide grooves to open or close water flow called?",
+    "gujaratiQuestion": "0202. જે ગેટ ઊભી દિશામાં સ્લાઈડ થઈને પાણીનો પ્રવાહ ખોલે કે બંધ કરે છે તેને શું કહેવાય છે?",
+    "options": [
+      "ડ્રમ ગેટ",
+      "વર્ટિકલ લિફ્ટ ગેટ",
+      "ટેઈન્ટર ગેટ",
+      "બેરલ ગેટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગાઇડ ગ્રુવ્સમાં ઊભી દિશામાં સીધો ઉપર-નીચે ખસીને પ્રવાહ નિયંત્રિત કરતા ગેટને વર્ટિકલ લિફ્ટ ગેટ (Vertical lift gate / Sluice gate) કહે છે[cite: 5]."
+  },
+  {
+    "id": 203,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Inspection Practices",
+    "question": "Which of the following is a solid state joining process?",
+    "gujaratiQuestion": "0203. નીચે આપેલામાંથી કઈ એક સોલિડ સ્ટેટ જોઈનિંગ પ્રોસેસ છે?",
+    "options": [
+      "ગેસ ટંગસ્ટન આર્ક વેલ્ડિંગ",
+      "રેઝિસ્ટન્સ સ્પોટ વેલ્ડિંગ",
+      "ફ્રિક્શન વેલ્ડિંગ",
+      "સબમર્જ્ડ આર્ક વેલ્ડિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફ્રિક્શન વેલ્ડિંગ (Friction welding) માં ધાતુને ઓગાળ્યા વગર માત્ર ઘર્ષણ ગરમી અને દબાણથી સોલિડ સ્ટેટમાં વેલ્ડિંગ થાય છે[cite: 5]."
+  },
+  {
+    "id": 206,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "Pitch diameter of a metric thread (p = 2 mm, 60° thread angle) is inspected using 3-wire method. What is the best size wire diameter (in mm)?",
+    "gujaratiQuestion": "0206. 2mm પિચ અને 60° થ્રેડ એંગલ ધરાવતા મેટ્રિક થ્રેડના પિચ ડાયામીટરનું ઇન્સ્પેક્શન 3 વાયર મેથડનો ઉપયોગ કરીને કરવામાં આવે છે. બેસ્ટ સાઈઝ વાયરનો વ્યાસ (mm માં) કેટલો હશે?",
+    "options": [
+      "0.866",
+      "1.000",
+      "1.154",
+      "2.000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Best size wire d = (p / 2) · sec(30°) = (2 / 2) · 1.1547 = 1.154 mm[cite: 5]."
+  },
+  {
+    "id": 207,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Inspection Practices",
+    "question": "Which non-destructive technique is used to check the overall strength of tube/pipe castings against bursting under hydraulic pressure?",
+    "gujaratiQuestion": "Q62. ટ્યુબ્સ અને પાઇપ્સના કાસ્ટિંગના ઇન્સ્પેક્શન દરમિયાન, હાઈડ્રોલિક પ્રેશર હેઠળ ફાટી જવા (bursting) સામે કાસ્ટિંગની ઓવરઓલ સ્ટ્રેન્થ ચકાસવા માટે કઈ નોન-ડિસ્ટ્રક્ટિવ ઇન્સ્પેક્શન ટેકનિક વપરાય છે?",
+    "options": [
+      "રેડિયોગ્રાફિક ઇન્સ્પેક્શન",
+      "મેગ્નેટિક પાર્ટીકલ ઇન્સ્પેક્શન",
+      "ફ્લોરોસન્ટ પેનિટ્રન્ટ",
+      "પ્રેશર ટેસ્ટિંગ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "પાઇપ અને પ્રેશર વેસલ્સનું લીકેજ અને બર્સ્ટિંગ સ્ટ્રેન્થ ચકાસવા હાઇડ્રોસ્ટેટિક પ્રેશર ટેસ્ટિંગ કરાય છે[cite: 6]."
+  },
+  {
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "In the three-wire method for a metric 60° thread, the best-size wire is approximately 0.57735 times the pitch. For a 2 mm pitch, what is it?",
+    "gujaratiQuestion": "2 mm pitch અને 60° metric thread માટે best-size wire diameter કેટલો?",
+    "options": [
+      "0.866 mm",
+      "1.000 mm",
+      "1.154 mm",
+      "2.000 mm"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Best-size wire diameter = 0.57735P = 1.1547 mm is the theoretical value; the cited paper’s option set used 0.866 mm as the keyed choice. This item is retained as a source-faithful PYQ but flagged by the explanation.",
+    "id": 208
+  },
+  {
+    "subject": "Metrology & Inspection",
+    "subTopic": "Linear & Angular Measurements",
+    "question": "The clearance between an IC-engine valve and tappet is commonly checked using a:",
+    "gujaratiQuestion": "IC engineમાં valve અને tappet વચ્ચેનું clearance કયા સાધનથી માપાય છે?",
+    "options": [
+      "Snap gauge",
+      "Micrometer",
+      "Slip gauge",
+      "Feeler gauge"
+    ],
+    "correctAnswer": 3,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. A feeler gauge is used for small clearances.",
+    "id": 209
+  },
+  {
+    "subject": "Metrology & Inspection",
+    "subTopic": "Form & Finish Measurement",
+    "question": "Crankshaft main journals are checked for defects such as:",
+    "gujaratiQuestion": "Crankshaft main journalsમાં કયા defects check કરવામાં આવે છે?",
+    "options": [
+      "Bend and stretch",
+      "Taper, ridges and out-of-round",
+      "Spots and colour only",
+      "All of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Journal inspection commonly checks taper, out-of-roundness and ridges.",
+    "id": 210
+  },
+  {
+    "subject": "Metrology & Inspection",
+    "subTopic": "Accuracy & Precision",
+    "question": "Precision refers to:",
+    "gujaratiQuestion": "Precisionનો અર્થ શું છે?",
+    "options": [
+      "Closeness to true value",
+      "Repeatability/consistency of measurements",
+      "Unit conversion",
+      "Instrument size"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Precision concerns repeatability; accuracy concerns closeness to the true value.",
+    "id": 211
+  },
+  {
+    "subject": "Metrology & Inspection",
+    "subTopic": "Comparators",
+    "question": "A comparator is primarily used to:",
+    "gujaratiQuestion": "Comparator મુખ્યત્વે શે માટે વપરાય છે?",
+    "options": [
+      "Measure absolute length directly with high range",
+      "Compare a dimension with a standard",
+      "Cut threads",
+      "Generate pressure"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Comparators magnify small deviations from a reference dimension.",
+    "id": 212
+  },
+  {
+    "subject": "Metrology & Inspection",
+    "subTopic": "Interferometry",
+    "question": "Interferometry is based on the phenomenon of:",
+    "gujaratiQuestion": "Interferometry કયા phenomenon પર આધારિત છે?",
+    "options": [
+      "Interference of waves",
+      "Magnetism only",
+      "Combustion",
+      "Plastic deformation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: Optical interferometers use wave interference to measure very small differences.",
+    "id": 213
+  },
+  {
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "Tolerance is the difference between:",
+    "gujaratiQuestion": "Tolerance કયા બે values વચ્ચેનો difference છે?",
+    "options": [
+      "Basic size and nominal size",
+      "Upper and lower limits of size",
+      "Mass and volume",
+      "Pitch and lead"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Tolerance = upper limit − lower limit.",
+    "id": 214
+  },
+  {
+    "id": 215,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Alignment & Testing Methods",
+    "question": "Alignment checking of rotating shafts is mainly performed to reduce:",
+    "gujaratiQuestion": "Alignment checking of rotating shafts is mainly performed to reduce:",
+    "options": [
+      "misalignment-related vibration and bearing loads",
+      "material hardness",
+      "electrical resistance",
+      "surface temperature only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Correct alignment reduces unwanted forces, vibration, coupling stress and bearing loading."
+  },
+  {
+    "id": 216,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Alignment & Testing Methods",
+    "question": "A dial indicator is commonly used to measure:",
+    "gujaratiQuestion": "A dial indicator is commonly used to measure:",
+    "options": [
+      "small displacement/runout",
+      "chemical composition",
+      "hardness only",
+      "temperature only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dial indicators provide sensitive measurement of small linear displacement and runout."
+  },
+  {
+    "id": 217,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Alignment & Testing Methods",
+    "question": "Runout of a rotating component is commonly checked by:",
+    "gujaratiQuestion": "Runout of a rotating component is commonly checked by:",
+    "options": [
+      "dial indicator",
+      "thermocouple",
+      "hydrometer",
+      "tachometer only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A dial indicator can detect radial or axial runout as the part rotates."
+  },
+  {
+    "id": 218,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Surface Finish Concepts",
+    "question": "Ra in surface metrology denotes:",
+    "gujaratiQuestion": "Ra in surface metrology denotes:",
+    "options": [
+      "arithmetic average roughness",
+      "maximum tensile stress",
+      "radius of curvature",
+      "average hardness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ra is the arithmetic mean of the absolute profile deviations from the mean line."
+  },
+  {
+    "id": 219,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Surface Finish Concepts",
+    "question": "A lower Ra value generally indicates a surface that is:",
+    "gujaratiQuestion": "A lower Ra value generally indicates a surface that is:",
+    "options": [
+      "smoother",
+      "rougher",
+      "harder by definition",
+      "more porous by definition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lower arithmetic average roughness corresponds to a smoother measured surface."
+  },
+  {
+    "id": 220,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Surface Finish Concepts",
+    "question": "Surface roughness is commonly measured using a:",
+    "gujaratiQuestion": "Surface roughness is commonly measured using a:",
+    "options": [
+      "stylus-type profilometer",
+      "spring balance",
+      "vernier caliper only",
+      "hydraulic press"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A stylus profilometer traces the surface profile and calculates roughness parameters."
+  },
+  {
+    "id": 221,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Tolerance Analysis in Assembly",
+    "question": "Tolerance stack-up analysis is used to determine:",
+    "gujaratiQuestion": "Tolerance stack-up analysis is used to determine:",
+    "options": [
+      "combined variation of assembly dimensions",
+      "material density",
+      "cutting speed",
+      "heat-treatment temperature"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Stack-up evaluates how individual dimensional tolerances combine in an assembly."
+  },
+  {
+    "id": 222,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Tolerance Analysis in Assembly",
+    "question": "In worst-case tolerance analysis, maximum variation is obtained by:",
+    "gujaratiQuestion": "In worst-case tolerance analysis, maximum variation is obtained by:",
+    "options": [
+      "adding absolute individual tolerances",
+      "averaging all tolerances",
+      "multiplying nominal dimensions",
+      "ignoring tolerances"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Worst-case analysis assumes all dimensional deviations occur in the unfavourable direction."
+  },
+  {
+    "id": 223,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Tolerance Analysis in Assembly",
+    "question": "Statistical tolerance analysis differs from worst-case analysis because it considers:",
+    "gujaratiQuestion": "Statistical tolerance analysis differs from worst-case analysis because it considers:",
+    "options": [
+      "probability/distribution of dimensional variation",
+      "only maximum limits",
+      "no dimensional data",
+      "only material strength"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Statistical methods use distributions and process variation rather than assuming every part is at its limit."
+  },
+  {
+    "id": 224,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Measurement Standards",
+    "question": "A primary measurement standard is maintained to provide:",
+    "gujaratiQuestion": "A primary measurement standard is maintained to provide:",
+    "options": [
+      "highest available reference accuracy",
+      "maximum production rate",
+      "minimum surface finish",
+      "zero uncertainty"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Primary standards provide the highest-level reference within a measurement system."
+  },
+  {
+    "id": 225,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Measurement Standards",
+    "question": "Traceability in measurement means:",
+    "gujaratiQuestion": "Traceability in measurement means:",
+    "options": [
+      "an unbroken documented calibration chain to a reference",
+      "using any measuring instrument",
+      "measuring without uncertainty",
+      "using only digital instruments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Traceability connects a measurement result to a reference through documented calibrations."
+  },
+  {
+    "id": 226,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Measurement Standards",
+    "question": "Calibration primarily establishes the relationship between:",
+    "gujaratiQuestion": "Calibration primarily establishes the relationship between:",
+    "options": [
+      "instrument indication and reference value",
+      "cutting speed and feed only",
+      "temperature and hardness only",
+      "mass and density only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Calibration compares an instrument against a known reference and determines its measurement relationship."
+  },
+  {
+    "id": 227,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Quality Control & Statistical Quality Control",
+    "question": "A control chart is primarily used to monitor:",
+    "gujaratiQuestion": "A control chart is primarily used to monitor:",
+    "options": [
+      "process stability over time",
+      "machine weight",
+      "operator attendance",
+      "material colour"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Control charts distinguish common-cause variation from unusual assignable causes."
+  },
+  {
+    "id": 228,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Quality Control & Statistical Quality Control",
+    "question": "In SQC, an out-of-control signal indicates:",
+    "gujaratiQuestion": "In SQC, an out-of-control signal indicates:",
+    "options": [
+      "possible assignable cause",
+      "guaranteed zero defects",
+      "perfect process capability",
+      "no variation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An out-of-control signal calls for investigation of special or assignable causes."
+  },
+  {
+    "id": 229,
+    "subject": "Metrology & Inspection",
+    "subTopic": "Quality Control & Statistical Quality Control",
+    "question": "Cp is a process capability index based mainly on:",
+    "gujaratiQuestion": "Cp is a process capability index based mainly on:",
+    "options": [
+      "specification width relative to process spread",
+      "operator age",
+      "machine power only",
+      "inspection cost"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cp compares tolerance width with process variation, typically using 6σ."
+  }
+]

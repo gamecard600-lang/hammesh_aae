@@ -1,0 +1,16 @@
+[
+  {
+    "subject": "Thermodynamics",
+    "topic": "First Law of Thermodynamics",
+    "title": "First Law",
+    "formula": "Q - W = ΔU",
+    "description": "Heat supplied minus work done equals change in internal energy."
+  },
+  {
+    "subject": "Thermodynamics",
+    "topic": "Thermal Efficiency",
+    "title": "Thermal Efficiency",
+    "formula": "η = W / Q₁",
+    "description": "Ratio of net work output to heat supplied."
+  }
+]

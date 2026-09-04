@@ -1,0 +1,2687 @@
+[
+  {
+    "id": 1,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "What is the main objective of a refrigeration process?",
+    "gujaratiQuestion": "01. રેફ્રિજરેશન પ્રક્રિયાનો મુખ્ય હેતુ શું છે?",
+    "options": [
+      "જગ્યાનું તાપમાન વાતાવરણના તાપમાન કરતા નીચું જાળવી રાખવું",
+      "જગ્યાનું તાપમાન વાતાવરણના તાપમાન કરતા ઊંચું જાળવી રાખવું",
+      "હવામાં રહેલો ભેજ વધારવો",
+      "માત્ર હવાનું પરિભ્રમણ કરવું"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રેફ્રિજરેશનનો મુખ્ય હેતુ નિયંત્રિત જગ્યાનું તાપમાન આસપાસના વાતાવરણના તાપમાન કરતાં નીચું ઉત્પન્ન કરવું અને જાળવી રાખવાનો છે[cite: 5]."
+  },
+  {
+    "id": 2,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "1 Ton of Refrigeration (1 TR) is approximately equal to how many kilowatts (kW)?",
+    "gujaratiQuestion": "02. 1 ટન ઓફ રેફ્રિજરેશન (1TR) આશરે કેટલા કિલોવોટ (kW) બરાબર થાય છે?",
+    "options": [
+      "1.0 kW",
+      "2.5 kW",
+      "3.5 kW",
+      "4.18 kW"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 TR = 3.517 kW (અથવા 211 kJ/min અથવા 50 kcal/min) થાય છે[cite: 5]."
+  },
+  {
+    "id": 3,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "1 Ton of Refrigeration is equal to how many kcal/min?",
+    "gujaratiQuestion": "03. 1 ટન રેફ્રિજરેશન બરાબર કેટલા kcal/min થાય છે?",
+    "options": [
+      "211",
+      "100",
+      "50",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 TR = 50 kcal/min (અથવા 3000 kcal/hr) થાય છે[cite: 5]."
+  },
+  {
+    "id": 4,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "In a cascade refrigeration system, heat rejected by the LT side condenser is absorbed by which component?",
+    "gujaratiQuestion": "04. કાસ્કેડ રેફ્રિજરેશન સિસ્ટમમાં, લો ટેમ્પરેચર (LT) સાઈડના ઇવેપોરેટર દ્વારા રિજેક્ટ થતી હીટ કોના દ્વારા શોષાય (absorb) છે?",
+    "options": [
+      "વાતાવરણ (surroundings)",
+      "લો ટેમ્પરેચર (LT) સાઇડ કન્ડેન્સર",
+      "હાઈ ટેમ્પરેચર (HT) સાઇડ ઇવેપોરેટર",
+      "એક્સપાન્શન વાલ્વ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કાસ્કેડ કન્ડેન્સરમાં LT સાઇડમાંથી રિજેક્ટ થતી ઉષ્મા HT સાઇડના ઇવેપોરેટર દ્વારા શોષાય છે[cite: 5]."
+  },
+  {
+    "id": 5,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "What is the correct formula for COP of a refrigerator?",
+    "gujaratiQuestion": "05. રેફ્રિજરેટરના સી.ઓ.પી. (COP) નું સાચું સૂત્ર કયું છે?",
+    "options": [
+      "વર્ક ઇનપુટ / રેફ્રિજરેટિંગ ઇફેક્ટ",
+      "રેફ્રિજરેટિંગ ઇફેક્ટ / વર્ક ઇનપુટ",
+      "રેફ્રિજરેટિંગ ઇફેક્ટ × વર્ક ઈનપુટ",
+      "હીટ રિજેક્શન / વર્ક ઈનપુટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "COP = ઇચ્છિત અસર (રેફ્રિજરેટિંગ ઇફેક્ટ) / જરૂરી કાર્ય (વર્ક ઇનપુટ)[cite: 5]."
+  },
+  {
+    "id": 6,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Heat Pump Cycles",
+    "question": "Which relation between COP of a refrigerator and a heat pump is correct?",
+    "gujaratiQuestion": "06. રેફ્રિજરેટર અને હીટ પંપના સી.ઓ.પી. (COP) વચ્ચે કયો સંબંધ સાચો છે?",
+    "options": [
+      "(COP)HP = (COP)R",
+      "(COP)HP = (COP)R - 1",
+      "(COP)HP = (COP)R + 1",
+      "(COP)R = (COP)HP + 1"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સમાન તાપમાન મર્યાદાઓ વચ્ચે (COP)HP = (COP)R + 1 થાય છે[cite: 5]."
+  },
+  {
+    "id": 7,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "What is the main risk if saturated liquid enters the expansion valve without subcooling?",
+    "gujaratiQuestion": "07. જો સેચ્યુરેટેડ લિક્વિડ સબકૂલિંગ વિના એક્સપાન્શન વાલ્વમાં પ્રવેશે તો મુખ્ય જોખમ શું છે?",
+    "options": [
+      "કન્ડેન્સર ઓવરહીટ થવું",
+      "લિક્વિડ-વેપર મિક્સચરની રચના અને અસ્થિર (unstable) ફ્લો",
+      "કોએફિશિયન્ટ ઓફ પરફોર્મન્સ (COP) માં વધારો",
+      "કોમ્પ્રેસરના પાવર કન્ઝમ્પશનમાં ઘટાડો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સબકૂલિંગ ન હોવાથી પાઇપલાઇનમાં ફ્લેશ ગેસ બની શકે છે, જે અનસ્ટેબલ ફ્લો પેદા કરે છે[cite: 5]."
+  },
+  {
+    "id": 8,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Heat Pump Cycles",
+    "question": "What is the primary objective of a heat pump?",
+    "gujaratiQuestion": "08. હીટ પંપનો મુખ્ય ઉદ્દેશ્ય શું છે?",
+    "options": [
+      "બંધ જગ્યાને વાતાવરણ કરતા ઠંડી રાખવી",
+      "બંધ જગ્યાને વાતાવરણ કરતા ગરમ રાખવી",
+      "જગ્યામાં ભેજ ઘટાડવો",
+      "હવાને માત્ર ફિલ્ટર કરવી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હીટ પંપનો મુખ્ય ઉદ્દેશ્ય બંધ જગ્યાને આસપાસના વાતાવરણ કરતાં ઊંચા તાપમાને (ગરમ) રાખવાનો છે[cite: 5]."
+  },
+  {
+    "id": 9,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "Vapor Compression Refrigeration System is ideally based on which cycle?",
+    "gujaratiQuestion": "09. વેપર કમ્પ્રેશન રેફ્રિજરેશન સિસ્ટમ આદર્શ રીતે કઈ સાયકલ પર આધારિત છે?",
+    "options": [
+      "રિવર્સ્ડ બ્રેટન સાયકલ",
+      "રિવર્સ્ડ કાર્નોટ સાયકલ",
+      "રેન્કિન સાયકલ",
+      "ઓટો સાયકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કોઈપણ રેફ્રિજરેશન સિસ્ટમ માટેની આદર્શ સૈદ્ધાંતિક સાયકલ રિવર્સ્ડ કાર્નોટ સાયકલ છે[cite: 5]."
+  },
+  {
+    "id": 10,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "Which type of compression is carried out in Bell-Coleman cycle?",
+    "gujaratiQuestion": "010. બેલ-કોલમેન સાયકલમાં કયા પ્રકારનું કમ્પ્રેશન કરવામાં આવે છે?",
+    "options": [
+      "આઈસેન્ટ્રોપિક કમ્પ્રેશન",
+      "આઇસોથર્મલ કમ્પ્રેશન",
+      "આઇસોબારિક કમ્પ્રેશન",
+      "હીટ લોસ સાથે એડિયાબેટિક કમ્પ્રેશન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આદર્શ બેલ-કોલમેન સાયકલમાં રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક) કમ્પ્રેશન થાય છે[cite: 5]."
+  },
+  {
+    "id": 11,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "Which of the following is not a component of a Vapor Compression Refrigeration System?",
+    "gujaratiQuestion": "011. નીચેનામાંથી કયો ભાગ વેપર કમ્પ્રેશન રેફ્રિજરેશન સિસ્ટમનો નથી?",
+    "options": [
+      "કમ્પ્રેસર",
+      "ઈવેપોરેટર",
+      "કન્ડેન્સર",
+      "ટર્બાઈન"
+    ],
+    "correctAnswer": 3,
+    "explanation": "VCRS માં એક્સપાન્શન માટે થ્રોટલ વાલ્વ/કેપિલરી વપરાય છે, ટર્બાઈન નહીં[cite: 5]."
+  },
+  {
+    "id": 12,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "Where is the lowest temperature found in a Vapor Compression cycle?",
+    "gujaratiQuestion": "012. વેપર કમ્પ્રેશન સાયકલમાં સૌથી નીચું તાપમાન કયાં જોવા મળે છે?",
+    "options": [
+      "કમ્પ્રેસરમાં",
+      "કન્ડેન્સરમાં",
+      "ઈવેપોરેટરમાં",
+      "એક્સપાન્શન વાલ્વમાં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇવેપોરેટરમાં રેફ્રિજરેન્ટ નીચા દબાણે અને સૌથી નીચા તાપમાને ઉષ્મા શોષે છે[cite: 5]."
+  },
+  {
+    "id": 13,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "In an Electrolux refrigerator, liquid ammonia evaporates in presence of which inert gas?",
+    "gujaratiQuestion": "013. ઈલેક્ટ્રોલક્સ રેફ્રિજરેટરમાં, લિક્વિડ રેફ્રિજરેન્ટ એમોનિયા કયા નિષ્ક્રિય (inert) વાતાવરણના સંપર્કમાં આવતા ઇવોપરેટ થાય છે?",
+    "options": [
+      "નાઈટ્રોજન ગેસ",
+      "ઓક્સિજન ગેસ",
+      "કાર્બન ડાયોક્સાઇડ ગેસ",
+      "હાઈડ્રોજન ગેસ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "હાઈડ્રોજન ગેસ એમોનિયાનું આંશિક દબાણ ઘટાડીને નીચા તાપમાને ઇવોપોરેશન શક્ય બનાવે છે[cite: 5]."
+  },
+  {
+    "id": 14,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "Where is the highest temperature located in a Vapor Compression cycle?",
+    "gujaratiQuestion": "014. વેપર કમ્પ્રેશન સાયકલમાં સૌથી ઊંચું તાપમાન ક્યાં હોય છે?",
+    "options": [
+      "કમ્પ્રેસરના ડિસ્ચાર્જ પર",
+      "ઇવેપોરેટરમાં",
+      "કન્ડેન્સરના એક્ઝિટ પર",
+      "એક્સપાન્શન વાલ્વના ઇનલેટ પર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કમ્પ્રેસરમાં કમ્પ્રેશન થયા પછી ડિસ્ચાર્જ પોઇન્ટ પર સુપરહીટેડ વેપરનું તાપમાન મહત્તમ હોય છે[cite: 5]."
+  },
+  {
+    "id": 15,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "What is the primary function of a condenser in a refrigeration cycle?",
+    "gujaratiQuestion": "015. રેફ્રિજરેશન સાયકલમાં કન્ડેન્સરનું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "ઉષ્માનું શોષણ કરવું",
+      "રેફ્રિજરેન્ટનું દબાણ ઘટાડવું",
+      "રેફ્રિજરેન્ટમાંથી ઉષ્મા વાતાવરણમાં દૂર કરવી",
+      "રેફ્રિજરેન્ટનું બાષ્પીભવન કરવું"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કન્ડેન્સર હાઇ-પ્રેશર વેપર રેફ્રિજરેન્ટમાંથી ઉષ્મા વાતાવરણ કે કૂલિંગ મીડિયમમાં મુક્ત કરીને પ્રવાહી બનાવે છે[cite: 5]."
+  },
+  {
+    "id": 16,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "In an Absorption Refrigeration System, what happens to the refrigerant vapor leaving the evaporator?",
+    "gujaratiQuestion": "016. એબ્સોર્પ્શન રેફ્રિજરેશન સિસ્ટમમાં, ઈવેપોરેટરમાંથી બહાર નીકળતા રેફ્રિજરેન્ટ વેપરનું શું થાય છે?",
+    "options": [
+      "કોમ્પ્રેસર દ્વારા મિકેનિકલી કમ્પ્રેસ થાય છે",
+      "વીક સોલ્યુશન દ્વારા ઍબ્સોર્બ થાય છે અને સ્ટ્રોંગ સોલ્યુશન બનાવે છે",
+      "સીધું વાતાવરણમાં રિજેક્ટ થાય છે",
+      "કન્ડેન્સરમાં હાઇ-પ્રેશર વેપર સાથે ભળે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એબ્સોર્બરમાં વીક સોલ્યુશન આ વેપરને શોષીને સ્ટ્રોંગ સોલ્યુશન બનાવે છે[cite: 5]."
+  },
+  {
+    "id": 17,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "Through which component does the refrigerant pass to absorb heat and produce cooling?",
+    "gujaratiQuestion": "017. રેફ્રિજરેન્ટ કયા ભાગમાંથી પસાર થાય ત્યારે ઉષ્મા શોષે છે અને કૂલિંગ ઉત્પન્ન કરે છે?",
+    "options": [
+      "કન્ડેન્સર",
+      "ઈવેપોરેટર",
+      "કમ્પ્રેસર",
+      "થ્રોટલ વાલ્વ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇવેપોરેટરમાં રેફ્રિજરેન્ટ ઠંડી થતી જગ્યામાંથી ગુપ્ત ઉષ્મા શોષીને બાષ્પીભવન પામે છે[cite: 5]."
+  },
+  {
+    "id": 18,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "Which process is performed by the expansion valve in a Vapor Compression cycle?",
+    "gujaratiQuestion": "018. વેપર કમ્પ્રેશન સાયકલમાં એક્સપાન્શન વાલ્વ કઈ પ્રક્રિયા કરે છે?",
+    "options": [
+      "આઇસોથર્મલ એક્સપાન્શન",
+      "આઈસેન્ટ્રોપિક એક્સપાન્શન",
+      "આઈસેન્થાલ્પિક એક્સપાન્શન",
+      "અચળ દબાણે એક્સપાન્શન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "થ્રોટલિંગ વાલ્વમાં વિસ્તરણ અચળ એન્થાલ્પી (આઈસેન્થાલ્પિક, h1 = h2) પર થાય છે[cite: 5]."
+  },
+  {
+    "id": 19,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "How is air dehumidified in a rotating drum system?",
+    "gujaratiQuestion": "019. રોટેટિંગ ડ્રમ સિસ્ટમમાં હવા કેવી રીતે ડિહ્યુમિડિફાય થાય છે?",
+    "options": [
+      "કોલ્ડ કોઈલ પરથી પસાર કરીને",
+      "બહારની સૂકી હવા સાથે મિશ્ર કરીને",
+      "મેટલની સપાટી પર સીધા કન્ડેન્સેશન દ્વારા",
+      "સિલિકા જેલનું કોટિંગ ધરાવતી રિબન પરથી પસાર કરીને"
+    ],
+    "correctAnswer": 3,
+    "explanation": "સિલિકા જેલ જેવા ડેસિકન્ટ દ્વારા હવામાંથી કેમિકલ શોષણ કરીને ભેજ દૂર કરવામાં આવે છે[cite: 5]."
+  },
+  {
+    "id": 20,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "Which device is commonly used as an expansion device in domestic refrigerators?",
+    "gujaratiQuestion": "020. ઘરેલુ રેફ્રિજરેટરમાં એક્સપાન્શન ડિવાઈસ તરીકે સામાન્ય રીતે કોનો ઉપયોગ થાય છે?",
+    "options": [
+      "કેપિલરી ટ્યુબ",
+      "ટર્બાઈન",
+      "ગિયર પંપ",
+      "સેન્ટ્રીફ્યુગલ પંપ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઘરેલું ફ્રિજમાં સરળતા અને ઓછા ખર્ચ માટે ફિક્સ રેસ્ટ્રિક્શન તરીકે કેપિલરી ટ્યુબ વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 21,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "What is the state of refrigerant before entering the compressor in a standard Vapor Compression system?",
+    "gujaratiQuestion": "021. વેપર કમ્પ્રેશન સિસ્ટમમાં કમ્પ્રેસરમાં પ્રવેશતા પહેલા રેફ્રિજરેન્ટની સ્થિતિ કેવી હોય છે?",
+    "options": [
+      "સેચ્યુરેટેડ પ્રવાહી",
+      "ભીની વરાળ",
+      "ડ્રાય સેચ્યુરેટેડ વરાળ અથવા સુપરહીટેડ વરાળ",
+      "સુપરકૂલ્ડ પ્રવાહી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કમ્પ્રેસરમાં લિક્વિડ હેમરિંગ અટકાવવા ઇનલેટ પર વરાળ ડ્રાય સેચ્યુરેટેડ અથવા સહેજ સુપરહીટેડ હોવી જોઈએ[cite: 5]."
+  },
+  {
+    "id": 22,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "What is the typical state of refrigerant exiting the condenser?",
+    "gujaratiQuestion": "022. કન્ડેન્સરમાંથી બહાર નીકળતા રેફ્રિજરેન્ટની સ્થિતિ સામાન્ય રીતે કેવી હોય છે?",
+    "options": [
+      "સુપરહીટેડ વરાળ",
+      "ભીની વરાળ",
+      "સેચ્યુરેટેડ પ્રવાહી અથવા સબકૂલ્ડ પ્રવાહી",
+      "ડ્રાય વરાળ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કન્ડેન્સેશન પૂર્ણ થયા પછી રેફ્રિજરેન્ટ સેચ્યુરેટેડ લિક્વિડ અથવા સબકૂલ્ડ લિક્વિડ સ્થિતિમાં હોય છે[cite: 5]."
+  },
+  {
+    "id": 23,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "What is the primary advantage of using two different refrigerants in a cascade refrigeration system?",
+    "gujaratiQuestion": "023. કાસ્કેડ રેફ્રિજરેશન સિસ્ટમમાં બે અલગ-અલગ રેફ્રિજરેન્ટ વાપરવાનો મુખ્ય ફાયદો શું છે?",
+    "options": [
+      "લો-ટેમ્પ સાઈડ પર લો-નોર્મલ બોઈલિંગ પોઇન્ટ (NBP) અને હાઈ-ટેમ્પ સાઈડ પર હાઈ-NBP રેફ્રિજરેન્ટ વાપરવા",
+      "આસપાસની હવાનું ટેમ્પરેચર ઘટાડવા અને ઓવરઓલ હીટ રિજેક્શન સુધારવા",
+      "મિકેનિકલ સમસ્યાઓ વિના કોમ્પ્રેસરને હાઈ સ્પીડ પર ચલાવવા",
+      "એક્સપાન્શન ડિવાઈસની જરૂરિયાત દૂર કરવા અને ઓપરેશન સરળ બનાવવા"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ખૂબ નીચા તાપમાને કામ કરવા માટે લો-ટેમ્પ સાઈડ પર લો-બોઈલિંગ પોઈન્ટ વાળો રેફ્રિજરેન્ટ અનુકૂળ રહે છે[cite: 5]."
+  },
+  {
+    "id": 24,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "What is the effect of sub-cooling the liquid refrigerant in the condenser?",
+    "gujaratiQuestion": "024. કન્ડેન્સરમાં રેફ્રિજરેન્ટનું સબ-કૂલિંગ કરવાથી રેફ્રિજરેશન સિસ્ટમ પર શું અસર થાય છે?",
+    "options": [
+      "રેફ્રિજરેટિંગ ઇફેક્ટ વધે છે",
+      "રેફ્રિજરેટિંગ ઇફેક્ટ ઘટે છે",
+      "કમ્પ્રેસરનું વર્ક વધે છે",
+      "સી.ઓ.પી. ઘટે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સબકૂલિંગ કરવાથી ઇવેપોરેટર ઇનલેટ પર એન્થાલ્પી ઘટે છે, જેથી નેટ રેફ્રિજરેટિંગ ઇફેક્ટ અને COP વધે છે[cite: 5]."
+  },
+  {
+    "id": 25,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "What is the main reason for using a hermetic compressor in domestic refrigerators?",
+    "gujaratiQuestion": "025. ઘરેલુ રેફ્રિજરેટરમાં હર્મેટિક કમ્પ્રેસર વાપરવાનું મુખ્ય કારણ શું છે?",
+    "options": [
+      "કમ્પ્રેસરની સ્પીડ વધારવા",
+      "રેફ્રિજરેન્ટનું લીકેજ અટકાવવા",
+      "અવાજ વધારવા",
+      "વધુ ઉષ્મા ઉત્પન્ન કરવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોટર અને કમ્પ્રેસર એક જ વેલ્ડેડ સીલબંધ શેલમાં હોવાથી રેફ્રિજરેન્ટનું લીકેજ સંપૂર્ણપણે અટકે છે[cite: 5]."
+  },
+  {
+    "id": 26,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "Which components are common to both Vapor Absorption and Mechanical Vapor Compression systems?",
+    "gujaratiQuestion": "026. એબ્સોર્પ્શન સિસ્ટમમાં, કયા કમ્પોનન્ટ મિકેનિકલ વેપર કમ્પ્રેશન સિસ્ટમ સાથે સમાન (common) હોય છે?",
+    "options": [
+      "એબ્સોર્બર, પંપ, જનરેટર",
+      "પ્રિહિટિંગ હીટ એક્સચેન્જર, પ્રેશર રિડક્શન વાલ્વ",
+      "કૂલિંગ ટાવર અને જનરેટર",
+      "કન્ડેન્સર, એક્સપાન્શન વાલ્વ, ઇવેપોરેટર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "બંને સિસ્ટમમાં કન્ડેન્સર, એક્સપાન્શન ડિવાઇસ અને ઇવેપોરેટર સમાન હોય છે; માત્ર કમ્પ્રેસરની જગ્યાએ એબ્સોર્બર-પંપ-જનરેટર આવે છે[cite: 5]."
+  },
+  {
+    "id": 27,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "Which refrigerant is used in Gas Refrigeration Cycle (Bell-Coleman cycle)?",
+    "gujaratiQuestion": "027. ગેસ રેફ્રિજરેશન સાયકલ (બેલ-કોલમેન સાયકલ) માં રેફ્રિજરેન્ટ તરીકે કોનો ઉપયોગ થાય છે?",
+    "options": [
+      "ફ્રીઓન-12",
+      "એમોનિયા",
+      "હવા",
+      "પાણી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બેલ-કોલમેન ગેસ સાયકલમાં વર્કિંગ ફ્લુઇડ તરીકે હવા (Air) નો ઉપયોગ થાય છે[cite: 5]."
+  },
+  {
+    "id": 28,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "Bell-Coleman cycle is also known by which other name?",
+    "gujaratiQuestion": "028. બેલ-કોલમેન સાયકલ બીજા કયા નામે ઓળખાય છે?",
+    "options": [
+      "રિવર્સ્ડ જુલ સાયકલ",
+      "રિવર્સ્ડ કાર્નોટ સાયકલ",
+      "રેન્કિન સાયકલ",
+      "એરિક્સન સાયકલ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બેલ-કોલમેન સાયકલને રિવર્સ્ડ બ્રેટન અથવા રિવર્સ્ડ જૂલ સાયકલ પણ કહે છે[cite: 5]."
+  },
+  {
+    "id": 29,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "Dew point temperature is the temperature at which condensation begins when air is cooled at constant:",
+    "gujaratiQuestion": "029. ડ્યૂ પોઈન્ટ ટેમ્પરેચર એ એવું તાપમાન છે કે જ્યાં અચળ _____ પર હવાને ઠંડી કરતાં કન્ડેન્સેશન શરૂ થાય છે.",
+    "options": [
+      "વોલ્યુમ",
+      "એન્ટ્રોપી",
+      "પ્રેશર",
+      "એન્થાલ્પી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "અચળ દબાણે (Constant pressure) હવાને ઠંડી પાડતાં જે તાપમાને પાણીની વરાળનું કન્ડેન્સેશન શરૂ થાય તેને DPT કહે છે[cite: 5]."
+  },
+  {
+    "id": 30,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "Which system is most suitable for aircraft air-conditioning?",
+    "gujaratiQuestion": "030. એરોપ્લેન (Aircraft) ના એર-કન્ડિશનિંગ માટે કઈ સિસ્ટમ સૌથી વધુ યોગ્ય છે?",
+    "options": [
+      "એમોનિયા રેફ્રિજરેશન સિસ્ટમ",
+      "એર રેફ્રિજરેશન સાયકલ",
+      "વેપર એબ્સોર્પ્શન સિસ્ટમ",
+      "સ્ટીમ જેટ રેફ્રિજરેશન સિસ્ટમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓછા વજન અને હવાની સરળ પ્રાપ્યતાને કારણે એરક્રાફ્ટમાં એર રેફ્રિજરેશન સિસ્ટમ વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 31,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "What is the main reason for using Air Refrigeration cycle in aircrafts?",
+    "gujaratiQuestion": "031. એરક્રાફ્ટમાં એર રેફ્રિજરેશન સાયકલ વાપરવાનું મુખ્ય કારણ શું છે?",
+    "options": [
+      "તેનો સી.ઓ.પી. ખૂબ વધારે હોય છે",
+      "સિસ્ટમનું વજન ખૂબ ઓછું હોય છે",
+      "હવા મફતમાં મળે છે",
+      "તે અવાજ નથી કરતી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રતિ ટન રેફ્રિજરેશન દીઠ સિસ્ટમનું વજન (Weight per TR) અન્ય સિસ્ટમો કરતાં ઘણું ઓછું હોય છે[cite: 5]."
+  },
+  {
+    "id": 32,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "How are automobile heaters classified?",
+    "gujaratiQuestion": "032. ઓટોમોબાઈલ હીટર્સનું વર્ગીકરણ કઈ રીતે કરવામાં આવે છે?",
+    "options": [
+      "હીટના સ્ત્રોત મુજબ",
+      "સર્ક્યુલેટ થતી હવાના સ્ત્રોત મુજબ",
+      "(a) અને (b) બંને",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હીટ સોર્સ અને એર સોર્સ બંને પરિબળોના આધારે ઓટોમોબાઇલ હીટર વર્ગીકૃત થાય છે[cite: 5]."
+  },
+  {
+    "id": 33,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "Which 4 processes are included in a Reversed Brayton cycle?",
+    "gujaratiQuestion": "033. રિવર્સ્ડ બ્રેટન સાયકલમાં કઈ 4 પ્રક્રિયાઓનો સમાવેશ થાય છે?",
+    "options": [
+      "2 આઈસેન્ટ્રોપિક અને 2 અચળ દબાણ",
+      "2 આઈસેન્ટ્રોપિક અને 2 અચળ કદ",
+      "2 આઇસોથર્મલ અને 2 અચળ દબાણ",
+      "2 આઈસોથર્મલ અને 2 અચળ કદ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "તેમાં 2 રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક) અને 2 આઈસોબારિક (અચળ દબાણ) પ્રક્રિયાઓ હોય છે[cite: 5]."
+  },
+  {
+    "id": 34,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "Which component is distinct in a Gas Refrigeration cycle compared to a Vapor Compression cycle?",
+    "gujaratiQuestion": "034. ગેસ રેફ્રિજરેશન સાયકલમાં વેપર કમ્પ્રેશન સાયકલની સરખામણીમાં કયો ભાગ અલગ હોય છે?",
+    "options": [
+      "કમ્પ્રેસર",
+      "કૂલર",
+      "એક્સપાન્ડર",
+      "ઈવેપોરેટર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગેસ સાયકલમાં થ્રોટલિંગ વાલ્વના સ્થાને કાર્ય મેળવવા માટે એક્સપાન્ડર (એર ટર્બાઇન) વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 35,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "What is the typical value of COP for a Vapor Compression cycle?",
+    "gujaratiQuestion": "035. વેપર કમ્પ્રેશન સાયકલમાં COP નું મૂલ્ય સામાન્ય રીતે કેટલું હોય છે?",
+    "options": [
+      "હંમેશા એક (unity) કરતા ઓછું",
+      "હંમેશા એક (unity) કરતા વધારે",
+      "હંમેશા એક (unity) જેટલું",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "VCRS નો COP સામાન્ય રીતે 2 થી 5 ની વચ્ચે (એટલે કે 1 કરતાં વધારે) હોય છે[cite: 5]."
+  },
+  {
+    "id": 36,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "A refrigerator takes 2 kW work input and provides 6 kW refrigeration effect. What is its COP?",
+    "gujaratiQuestion": "036. એક રેફ્રિજરેટર 2 kW વર્ક ઈનપુટ લઈને 6 kW ની રેફ્રિજરેટિંગ ઈફેક્ટ આપે છે, તો તેનો સી.ઓ.પી. કેટલો હશે?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "COP = Refrigeration Effect / Work Input = 6 kW / 2 kW = 3[cite: 5]."
+  },
+  {
+    "id": 37,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Heat Pump Cycles",
+    "question": "If COP of a refrigerator is 4, what will be COP of a heat pump operating between same temperatures?",
+    "gujaratiQuestion": "037. જો કોઈ રેફ્રિજરેટરનો સી.ઓ.પી. 4 હોય, તો સમાન તાપમાન વચ્ચે કામ કરતા હીટ પંપનો સી.ઓ.પી. કેટલો થશે?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "(COP)HP = (COP)R + 1 = 4 + 1 = 5[cite: 5]."
+  },
+  {
+    "id": 38,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "The process of mixing two or more streams of moist air is generally:",
+    "gujaratiQuestion": "038. ભેજવાળી હવા (moist air) ના બે કે તેથી વધુ પ્રવાહોને મિશ્ર કરવાની પ્રક્રિયા કેવી છે?",
+    "options": [
+      "એડિયાબેટિક",
+      "આઈસોથર્મલ",
+      "કોન્સ્ટન્ટ વોલ્યુમ",
+      "કોન્સ્ટન્ટ પ્રેશર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "એર કન્ડિશનિંગ ડક્ટમાં હવાનું મિશ્રણ ઇન્સ્યુલેટેડ હોવાથી તે એડિઆબેટિક મિક્સિંગ ગણાય છે[cite: 5]."
+  },
+  {
+    "id": 39,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "What is the formula for COP of an ideal Reversed Carnot cycle (Refrigerator)?",
+    "gujaratiQuestion": "039. આદર્શ રિવર્સ્ડ કાર્નોટ સાયકલ (રેફ્રિજરેટર) માટે સી.ઓ.પી. નું સૂત્ર શું છે?",
+    "options": [
+      "TH / (TH - TL)",
+      "TL / (TH - TL)",
+      "(TH - TL) / TL",
+      "(TH - TL) / TH"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રેફ્રિજરેટર માટે કાર્નોટ COP = TL / (TH - TL) થાય છે[cite: 5]."
+  },
+  {
+    "id": 40,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Heat Pump Cycles",
+    "question": "What is the ideal COP formula for a Heat Pump?",
+    "gujaratiQuestion": "040. હીટ પંપ માટે આદર્શ સી.ઓ.પી. નું સૂત્ર કયું છે?",
+    "options": [
+      "TH / (TH - TL)",
+      "TL / (TH - TL)",
+      "(TH - TL) / TL",
+      "(TH - TL) / TH"
+    ],
+    "correctAnswer": 0,
+    "explanation": "હીટ પંપ માટે કાર્નોટ COP = TH / (TH - TL) થાય છે[cite: 5]."
+  },
+  {
+    "id": 41,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "Which cycle is used in a standard Vapor Compression Refrigerator?",
+    "gujaratiQuestion": "041. વેપર કમ્પ્રેશન રેફ્રિજરેટરમાં નીચેનામાંથી કઈ સાયકલનો ઉપયોગ થાય છે?",
+    "options": [
+      "રેન્કાઈન સાયકલ",
+      "કાર્નોટ સાયકલ",
+      "રિવર્સ્ડ રેન્કાઈન સાયકલ",
+      "રિવર્સ્ડ કાર્નોટ સાયકલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વેપર કમ્પ્રેશન સિસ્ટમ મોડિફાઈડ રિવર્સ્ડ રેન્કિન સાયકલ પર કાર્ય કરે છે[cite: 5]."
+  },
+  {
+    "id": 42,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "Keeping condenser temperature constant, what will be the effect on COP if evaporator temperature is increased?",
+    "gujaratiQuestion": "042. રેફ્રિજરેટર સાયકલમાં કન્ડેન્સરનું તાપમાન અચળ રાખીને ઈવેપોરેટરનું તાપમાન વધારવાથી સી.ઓ.પી. પર શું અસર થશે?",
+    "options": [
+      "ઘટશે",
+      "વધશે",
+      "અચળ રહેશે",
+      "શૂન્ય થશે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TL વધારવાથી ટેમ્પરેચર લિફ્ટ (TH - TL) ઘટે છે, જેથી કમ્પ્રેશન વર્ક ઘટે છે અને COP વધે છે[cite: 5]."
+  },
+  {
+    "id": 43,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "Keeping evaporator temperature constant, what is the effect on COP if condenser temperature is increased?",
+    "gujaratiQuestion": "043. જો ઈવેપોરેટરનું તાપમાન અચળ રાખીને કન્ડેન્સરનું તાપમાન વધારવામાં આવે, તો સિસ્ટમના સી.ઓ.પી. પર શું અસર થશે?",
+    "options": [
+      "વધશે",
+      "અચળ રહેશે",
+      "ઘટશે",
+      "પહેલા વધશે પછી ઘટશે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કન્ડેન્સર તાપમાન TH વધવાથી પ્રેશર રેશિયો અને કમ્પ્રેસર વર્ક વધે છે, જેથી COP ઘટે છે[cite: 5]."
+  },
+  {
+    "id": 44,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "What happens in the system due to frost accumulation on the evaporator coil?",
+    "gujaratiQuestion": "044. ઈવેપોરેટરની કોઈલ પર બરફ (frost) જમા થવાથી સિસ્ટમમાં શું થાય છે?",
+    "options": [
+      "હીટ ટ્રાન્સફર ઘટે છે",
+      "હીટ ટ્રાન્સફર વધે છે",
+      "સી.ઓ.પી. વધે છે",
+      "પાવર વપરાશ ઘટે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બરફ થર્મલ ઇન્સ્યુલેટર તરીકે વર્તે છે, જેથી કોઈલ અને હવા વચ્ચે હીટ ટ્રાન્સફર રેટ ઘટી જાય છે[cite: 5]."
+  },
+  {
+    "id": 45,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "What do vertical lines represent on a Pressure-Enthalpy (p-h) chart?",
+    "gujaratiQuestion": "045. પ્રેશર-એન્થાલ્પી ચાર્ટ પર વર્ટિકલ લાઈન (ઊભી રેખાઓ) શું અચળ દર્શાવે છે?",
+    "options": [
+      "પ્રેશર",
+      "ટેમ્પરેચર",
+      "ટોટલ હીટ (એન્થાલ્પી)",
+      "એન્ટ્રોપી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "p-h ચાર્ટમાં x-ધરી પર એન્થાલ્પી હોવાથી ઊભી રેખાઓ કોન્સ્ટન્ટ એન્થાલ્પી દર્શાવે છે[cite: 5]."
+  },
+  {
+    "id": 46,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "Which of the following properties should a good refrigerant possess?",
+    "gujaratiQuestion": "046. એક સારા રેફ્રિજરેન્ટમાં નીચેનામાંથી કયો ગુણધર્મ હોવો જોઈએ?",
+    "options": [
+      "ઉચ્ચ બોઈલિંગ પોઈન્ટ",
+      "નીચી લેટન્ટ હીટ",
+      "ઉચ્ચ લેટન્ટ હીટ ઓફ વેપોરાઈઝેશન",
+      "ઉચ્ચ ફ્રીઝિંગ પોઇન્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઓછા માસ ફ્લો રેટ પર વધુ કૂલિંગ મેળવવા રેફ્રિજરેન્ટની લેટન્ટ હીટ ઊંચી હોવી જરૂરી છે[cite: 5]."
+  },
+  {
+    "id": 47,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "If a Carnot engine with 80% efficiency is run in reverse, what will be COP of the refrigerator?",
+    "gujaratiQuestion": "047. જો 80% કાર્યક્ષમતા વાળા કાર્નોટ એન્જિનને રિવર્સ ચલાવવામાં આવે, તો તે રેફ્રિજરેટરનો સી.ઓ.પી.કેટલો થશે?",
+    "options": [
+      "1.25",
+      "0.8",
+      "0.25",
+      "4.0"
+    ],
+    "correctAnswer": 2,
+    "explanation": "(COP)HP = 1 / η = 1 / 0.8 = 1.25. તેથી (COP)R = (COP)HP - 1 = 1.25 - 1 = 0.25[cite: 5]."
+  },
+  {
+    "id": 48,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "Which of the following is an undesirable property of a refrigerant?",
+    "gujaratiQuestion": "048. રેફ્રિજરેન્ટની અનિચ્છનીય (undesirable) પ્રોપર્ટી કઈ છે?",
+    "options": [
+      "લો ફ્રીઝિંગ પોઇન્ટ",
+      "લો વિસ્કોસિટી",
+      "લ્યુબ્રિકેટિંગ ઓઈલ સાથે હાઈ મિસિબિલિટી",
+      "લો લેટેન્ટ હીટ ઓફ ઇવોપરેશન"
+    ],
+    "correctAnswer": 3,
+    "explanation": "રેફ્રિજરેન્ટની લેટન્ટ હીટ ઊંચી હોવી જોઈએ; નીચી લેટન્ટ હીટ અનિચ્છનીય છે[cite: 5]."
+  },
+  {
+    "id": 49,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "For 10 kW refrigeration capacity and COP of 5, what is the power input required?",
+    "gujaratiQuestion": "049. 10 kW ની રેફ્રિજરેશન કેપેસિટી માટે જો સિસ્ટમનો સી.ઓ.પી. 5 હોય, તો પાવર ઈનપુટ કેટલો જોઈશે?",
+    "options": [
+      "50 kW",
+      "2 kW",
+      "5 kW",
+      "15 kW"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Power Input = Capacity / COP = 10 kW / 5 = 2 kW[cite: 5]."
+  },
+  {
+    "id": 50,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "What is the condition of refrigerant exiting the expansion valve in a Vapor Compression system?",
+    "gujaratiQuestion": "050. વેપર કમ્પ્રેશન સિસ્ટમમાં એક્સપાન્શન વાલ્વમાંથી બહાર નીકળતા રેફ્રિજરેન્ટની સ્થિતિ કેવી હોય છે?",
+    "options": [
+      "સેચ્યુરેટેડ પ્રવાહી",
+      "ડ્રાય વરાળ",
+      "ભીની વરાળ",
+      "સુપરહીટેડ વરાળ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "થ્રોટલિંગ દરમિયાન આંશિક ફ્લેશિંગ થવાથી તે લો-પ્રેશર લિક્વિડ અને વેપરનું મિશ્રણ (ભીની વરાળ) હોય છે[cite: 5]."
+  },
+  {
+    "id": 51,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "When air is passed through a water spray maintained above its DPT but below its DBT, the process is:",
+    "gujaratiQuestion": "051. જ્યારે હવાને એવા ઇન્સ્યુલેટેડ ચેમ્બરમાંથી પસાર કરવામાં આવે જ્યાં પાણીનો સ્પ્રે હવાના ડ્યૂ પોઈન્ટ ટેમ્પરેચર કરતા વધારે પરંતુ તેના ડ્રાય બલ્બ ટેમ્પરેચર કરતા ઓછા તાપમાને જાળવી રાખવામાં આવતો હોય, તો તે હવાને શું કહેવાય?",
+    "options": [
+      "કૂલ્ડ અને હ્યુમિડિફાઇડ (Cooled and humidified)",
+      "કૂલ્ડ અને ડિહ્યુમિડિફાઇડ (Cooled and dehumidified)",
+      "હીટેડ અને હ્યુમિડિફાઇડ (Heated and humidified)",
+      "હીટેડ અને ડિહ્યુમિડિફાઇડ (Heated and dehumidified)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પાણીનું તાપમાન DBT કરતાં ઓછું હોવાથી હવા ઠંડી થાય છે અને DPT કરતાં વધુ હોવાથી બાષ્પીભવન થઈ ભેજ વધે છે (કૂલિંગ અને હ્યુમિડિફિકેશન)[cite: 5]."
+  },
+  {
+    "id": 52,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "In a gas refrigeration cycle, how do heat absorption and rejection occur?",
+    "gujaratiQuestion": "052. ગેસ રેફ્રિજરેશન સાયકલમાં, ઉષ્માનું શોષણ અને નિકાલ કઈ રીતે થાય છે?",
+    "options": [
+      "લેટન્ટ હીટના ફેરફાર દ્વારા",
+      "સેન્સિબલ હીટના ફેરફાર દ્વારા",
+      "અચળ તાપમાને",
+      "આઈસેન્થાલ્પિક પ્રક્રિયા દ્વારા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હવામાં ફેઝ ચેન્જ થતો નથી, તેથી ઉષ્માનું શોષણ અને નિકાલ સેન્સિબલ હીટ (તાપમાન ફેરફાર) દ્વારા થાય છે[cite: 5]."
+  },
+  {
+    "id": 53,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "1 Ton of Refrigeration is equivalent to:",
+    "gujaratiQuestion": "053. 1 ટન ઓફ રેફ્રિજરેશન એ કોના બરાબર છે?",
+    "options": [
+      "1 ટન બરફને 24 કલાકમાં 0°C તાપમાને પીગળવા માટે જરૂરી ઉષ્મા",
+      "1 ટન પાણીને 1 કલાકમાં ઉકાળવા માટે જરૂરી ઉષ્મા",
+      "1 ટન બરફને 1 કલાકમાં પીગળવા માટે જરૂરી ઉષ્મા",
+      "100 કિલો બરફને 24 કલાકમાં પીગળવા માટે જરૂરી ઉષ્મા"
+    ],
+    "correctAnswer": 0,
+    "explanation": "0°C તાપમાન ધરાવતા 1 ટન (2000 lbs અથવા 1000 kg) બરફને 24 કલાકમાં 0°C પાણીમાં પીગાળવા માટે જરૂરી હીટ એક્સ્ટ્રેક્શન રેટ[cite: 5]."
+  },
+  {
+    "id": 54,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "A refrigeration system rejects 120 kW heat at condenser while compressor consumes 30 kW. What is its COP?",
+    "gujaratiQuestion": "054. એક રેફ્રિજરેશન સિસ્ટમનું કન્ડેન્સર 120 kW ના દરે હીટ રિજેક્ટ કરે છે, જ્યારે તેનું કોમ્પ્રેસર 30 kW પાવર વાપરે છે. સિસ્ટમનો કોએફિશિયન્ટ ઓફ પરફોર્મન્સ (COP) કેટલો હશે?",
+    "options": [
+      "1/4",
+      "1/3",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "RE = Q_cond - W = 120 - 30 = 90 kW. COP = RE / W = 90 / 30 = 3 (નોંધ: Answer Key D મુજબ 4 આપેલ છે[cite: 5], પરંતુ સૈદ્ધાંતિક રીતે 3 થાય)[cite: 5]."
+  },
+  {
+    "id": 55,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "Which process produces and maintains a temperature below that of the surroundings?",
+    "gujaratiQuestion": "055. કઈ પ્રક્રિયા વાતાવરણ કરતા નીચું તાપમાન ઉત્પન્ન કરે છે અને જાળવી રાખે છે?",
+    "options": [
+      "હીટિંગ",
+      "એર કન્ડિશનિંગ",
+      "રેફ્રિજરેશન",
+      "વેન્ટિલેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વાતાવરણ કરતાં નીચું તાપમાન ઉત્પન્ન કરી જાળવી રાખવાની ક્રિયાને રેફ્રિજરેશન કહે છે[cite: 5]."
+  },
+  {
+    "id": 56,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "Why is a throttle valve used instead of an expander in a Vapor Compression Refrigeration cycle?",
+    "gujaratiQuestion": "056. વેપર કમ્પ્રેશન રેફ્રિજરેશન સાયકલમાં વિસ્તરણ માટે એક્સપાન્ડરની જગ્યાએ થ્રોટલ વાલ્વ કેમ વપરાય છે?",
+    "options": [
+      "પ્રવાહીના આઇસેન્ટ્રોપિક વિસ્તરણમાં મળતું પોઝિટિવ વર્ક ખૂબ ઓછું હોય છે",
+      "થ્રોટલ વાલ્વ સી.ઓ.પી. બમણો કરે છે",
+      "એક્સપાન્ડર જગ્યા ઓછી રોકે છે",
+      "થ્રોટલ વાલ્વ રેફ્રિજરેન્ટને શુદ્ધ કરે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પ્રવાહી વિસ્તરણ દરમિયાન મળતું વર્ક નહિવત હોવાથી એક્સપાન્ડર લગાવવાનો ખર્ચ અને જટિલતા વ્યાજબી નથી[cite: 5]."
+  },
+  {
+    "id": 57,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "In a saturated air-water vapor mixture:",
+    "gujaratiQuestion": "057. સેચ્યુરેટેડ એર-વોટર વેપર મિક્સચરમાં:",
+    "options": [
+      "ડ્રાય બલ્બ ટેમ્પરેચર વેટ બલ્બ ટેમ્પરેચર કરતા વધારે હોય છે",
+      "ડ્યૂ પોઈન્ટ ટેમ્પરેચર વેટ બલ્બ ટેમ્પરેચર કરતા ઓછું હોય છે",
+      "ડ્રાય બલ્બ, વેટ બલ્બ અને ડ્યૂ પોઈન્ટ ટેમ્પરેચર સમાન હોય છે",
+      "ડ્રાય બલ્બ ટેમ્પરેચર ડ્યૂ પોઈન્ટ ટેમ્પરેચર કરતા વધારે હોય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સંતૃપ્ત (100% RH) હવામાં DBT = WBT = DPT હોય છે[cite: 5]."
+  },
+  {
+    "id": 58,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "What is the function of the compressor in a refrigeration system?",
+    "gujaratiQuestion": "058. રેફ્રિજરેશન સિસ્ટમમાં કમ્પ્રેસરનું કાર્ય શું છે?",
+    "options": [
+      "રેફ્રિજરેન્ટને ઠંડુ કરવું",
+      "રેફ્રિજરેન્ટનું દબાણ ઘટાડવું",
+      "નીચા દબાણ વાળી વરાળ ખેંચીને તેનું તાપમાન અને દબાણ વધારવું",
+      "પ્રવાહી રેફ્રિજરેન્ટને વરાળમાં ફેરવવું"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કમ્પ્રેસર ઇવેપોરેટરમાંથી લો-પ્રેશર વેપર ખેંચી તેનું દબાણ અને તાપમાન વધારીને કન્ડેન્સરમાં મોકલે છે[cite: 5]."
+  },
+  {
+    "id": 59,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "What should be the freezing point of an ideal refrigerant?",
+    "gujaratiQuestion": "059. એક આદર્શ રેફ્રિજરેન્ટ માટે ફ્રીઝિંગ પોઈન્ટ કેવો હોવો જોઈએ?",
+    "options": [
+      "ખૂબ ઊંચો",
+      "ખૂબ નીચો",
+      "વાતાવરણના તાપમાન જેટલો",
+      "પાણીના ફ્રીઝિંગ પોઇન્ટ જેટલો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇવેપોરેટરમાં સિસ્ટમ બ્લોક ન થાય તે માટે ફ્રીઝિંગ પોઇન્ટ ઇવેપોરેટર તાપમાન કરતાં ઘણો નીચો હોવો જોઈએ[cite: 5]."
+  },
+  {
+    "id": 60,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "Air at 20°C DBT enters a heating coil maintained at 50°C and leaves at 35°C. What is the coil efficiency?",
+    "gujaratiQuestion": "060. વાતાવરણની હવાનું DBT 20°C છે. તે 50°C પર જળવાયેલી હીટિંગ કોઈલમાં પ્રવેશે છે. જો હવા હીટિંગ કોઈલમાંથી 35°C પર બહાર નીકળે છે, તો કોઈલની ઍફિશિયન્સી કેટલી હશે?",
+    "options": [
+      "0.6",
+      "0.22",
+      "0.35",
+      "0.5"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Efficiency = (t2 - t1) / (ts - t1) = (35 - 20) / (50 - 20) = 15 / 30 = 0.5[cite: 5]."
+  },
+  {
+    "id": 61,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "What is the primary advantage of Air Refrigeration cycle for aircrafts?",
+    "gujaratiQuestion": "061. એરક્રાફ્ટ માટે એર રેફ્રિજરેશન સાયકલનો મુખ્ય ફાયદો શું છે?",
+    "options": [
+      "ઉચ્ચ સી.ઓ.પી.",
+      "વજન દીઠ વધુ રેફ્રિજરેશન ક્ષમતા",
+      "જટિલ ડિઝાઇન",
+      "અવાજ રહિત કામગીરી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એરક્રાફ્ટમાં ઓછા વજન દીઠ વધુ કૂલિંગ ક્ષમતા (High power-to-weight ratio) સૌથી મહત્વની છે[cite: 5]."
+  },
+  {
+    "id": 62,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "Which system is used in a typical domestic refrigerator?",
+    "gujaratiQuestion": "062. સામાન્ય ઘરેલુ રેફ્રિજરેટરમાં કઈ સિસ્ટમનો ઉપયોગ થાય છે?",
+    "options": [
+      "વેપર એબ્સોર્પ્શન સિસ્ટમ",
+      "ગેસ રેફ્રિજરેશન સિસ્ટમ",
+      "વેપર કમ્પ્રેશન સિસ્ટમ",
+      "સ્ટીમ જેટ સિસ્ટમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઘરેલું રેફ્રિજરેટરમાં ઉચ્ચ કાર્યક્ષમતા માટે વેપર કમ્પ્રેશન સિસ્ટમ (VCRS) વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 63,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "A room contains 35 kg dry air and 0.5 kg water vapor at 100 kPa and 25°C. If Psat at 25°C is 3.17 kPa, find relative humidity.",
+    "gujaratiQuestion": "063. એક રૂમમાં 35 kg ડ્રાય એર અને 0.5 kg વોટર વેપર છે. રૂમમાં હવાનું કુલ પ્રેશર 100 kPa અને ટેમ્પરેચર 25°C છે. જો 25°C પર પાણી માટે સેચ્યુરેશન પ્રેશર 3.17 kPa હોય, તો રૂમમાં હવાની રિલેટિવ હ્યુમિડિટી કેટલી હશે?",
+    "options": [
+      "67%",
+      "55%",
+      "83%",
+      "71%"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pv = (mv/0.622*ma)*P ≈ 2.25 kPa. RH = Pv / Psat = 2.25 / 3.17 ≈ 71%[cite: 5]."
+  },
+  {
+    "id": 64,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "At what pressures do heat rejection and heat addition occur in a Vapor Compression system?",
+    "gujaratiQuestion": "064. વેપર કમ્પ્રેશન સિસ્ટમમાં હીટ રિજેક્શન અને હીટ એડિશનની પ્રક્રિયા કયા દબાણે થાય છે?",
+    "options": [
+      "બંને સમાન દબાણે",
+      "હીટ રિજેક્શન ઊંચા દબાણે અને હીટ એડિશન નીચા દબાણે",
+      "હીટ રિજેક્શન નીચા દબાણે અને હીટ એડિશન ઊંચા દબાણે",
+      "અચળ કદ પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હીટ રિજેક્શન કન્ડેન્સરમાં ઊંચા દબાણે અને હીટ એડિશન ઇવેપોરેટરમાં નીચા દબાણે થાય છે[cite: 5]."
+  },
+  {
+    "id": 65,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "In a Reversed Carnot cycle, on what does the COP depend?",
+    "gujaratiQuestion": "065. રિવર્સ્ડ કાર્નોટ સાયકલમાં સી.ઓ.પી. કોના પર આધાર રાખે છે?",
+    "options": [
+      "માત્ર રેફ્રિજરેન્ટના પ્રકાર પર",
+      "માત્ર ઓપરેટિંગ તાપમાનની લિમિટ પર",
+      "સિસ્ટમના કદ પર",
+      "કમ્પ્રેસરની સ્પીડ પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કાર્નોટ COP = TL / (TH - TL) માત્ર કાર્યકારી તાપમાન મર્યાદાઓ પર આધારિત છે[cite: 5]."
+  },
+  {
+    "id": 66,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "Atmospheric air is primarily a mixture of:",
+    "gujaratiQuestion": "066. વાતાવરણની હવા મુખ્યત્વે કોનું મિશ્રણ છે?",
+    "options": [
+      "ડ્રાય એર અને વોટર વેપર",
+      "માત્ર ડ્રાય એર",
+      "માત્ર વોટર વેપર",
+      "ડ્રાય એર અને ડસ્ટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સાયક્રોમેટ્રીમાં વાતાવરણની હવા શુષ્ક હવા (Dry air) અને પાણીની વરાળ (Water vapor) નું મિશ્રણ માનવામાં આવે છે[cite: 5]."
+  },
+  {
+    "id": 67,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "Which of the following refrigerants has the highest critical temperature?",
+    "gujaratiQuestion": "067. નીચેનામાંથી કયા રેફ્રિજરેન્ટનું ક્રિટિકલ ટેમ્પરેચર સૌથી વધારે છે?",
+    "options": [
+      "CO2",
+      "SO2",
+      "H2O",
+      "NH3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પાણી (H2O) નું ક્રિટિકલ તાપમાન 374°C છે, જે તમામમાં સૌથી વધારે છે[cite: 5]."
+  },
+  {
+    "id": 68,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "What is the mass of water vapor present per kilogram of dry air called?",
+    "gujaratiQuestion": "068. એક કિલોગ્રામ ડ્રાય એરમાં રહેલા વોટર વેપરના દળને શું કહે છે?",
+    "options": [
+      "રિલેટિવ હ્યુમિડિટી",
+      "સ્પેસિફિક હ્યુમિડિટી",
+      "એબ્સોલ્યુટ હ્યુમિડિટી",
+      "ડિગ્રી ઓફ સેચ્યુરેશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રતિ kg ડ્રાય એરમાં રહેલા ભેજને સ્પેસિફિક હ્યુમિડિટી અથવા હ્યુમિડિટી રેશિયો (W) કહે છે[cite: 5]."
+  },
+  {
+    "id": 69,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "What is the mass of water vapor present per unit volume of air called?",
+    "gujaratiQuestion": "069. હવાના એકમ કદ દીઠ વોટર વેપરના દળને શું કહેવાય છે?",
+    "options": [
+      "રિલેટિવ હ્યુમિડિટી",
+      "સ્પેસિફિક હ્યુમિડિટી",
+      "એબ્સોલ્યુટ હ્યુમિડિટી",
+      "સેન્સિબલ હ્યુમિડિટી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એકમ કદ દીઠ વરાળના દળ (kg/m³) ને એબ્સોલ્યુટ હ્યુમિડિટી (Absolute Humidity) કહે છે[cite: 5]."
+  },
+  {
+    "id": 70,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "What is the bypass factor equation for sensible cooling of air?",
+    "gujaratiQuestion": "070. હવાની સેન્સિબલ કૂલિંગના કિસ્સામાં, બાયપાસ ફેક્ટરનું સમીકરણ કયું છે? (જ્યાં td1 = ઇનલેટ DBT, td2 = આઉટલેટ DBT, td3 = કોઈલ સપાટી DBT)",
+    "options": [
+      "(td1 - td3) / (td2 - td3)",
+      "(td2 - td3) / (td1 - td3)",
+      "(td3 - td1) / (td2 - td3)",
+      "(td3 - td2) / (td1 - td3)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "BPF = (td2 - td3) / (td1 - td3) = (બહાર નીકળતી હવાનું તાપમાન - કોઈલ તાપમાન) / (દાખલ થતી હવાનું તાપમાન - કોઈલ તાપમાન)[cite: 5]."
+  },
+  {
+    "id": 71,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "What is the ratio of actual mass of water vapor in air to maximum mass at saturation at same temperature?",
+    "gujaratiQuestion": "071. આપેલા તાપમાને હવામાં રહેલા વાસ્તવિક વોટર વેપરના દળ અને તે જ તાપમાને સેચ્યુરેશન સ્થિતિમાં રહેલા મહત્તમ વોટર વેપરના દળના ગુણોત્તરને શું કહે છે?",
+    "options": [
+      "રિલેટિવ હ્યુમિડિટી",
+      "સ્પેસિફિક હ્યુમિડિટી",
+      "એબ્સોલ્યુટ હ્યુમિડિટી",
+      "ડિગ્રી ઓફ સેચ્યુરેશન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "આ ગુણોત્તર (Pv / Psat) ને રિલેટિવ હ્યુમિડિટી (Relative Humidity) કહેવામાં આવે છે[cite: 5]."
+  },
+  {
+    "id": 72,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "What is air temperature measured by an ordinary thermometer called?",
+    "gujaratiQuestion": "072. સામાન્ય થર્મોમીટર દ્વારા માપવામાં આવતા હવાનું તાપમાન શું કહેવાય છે?",
+    "options": [
+      "ડ્રાય બલ્બ ટેમ્પરેચર",
+      "વેટ બલ્બ ટેમ્પરેચર",
+      "ડ્યૂ પોઈન્ટ ટેમ્પરેચર",
+      "સેચ્યુરેશન ટેમ્પરેચર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સામાન્ય થર્મોમીટર દ્વારા સીધું મપાતું તાપમાન ડ્રાય બલ્બ ટેમ્પરેચર (DBT) કહેવાય છે[cite: 5]."
+  },
+  {
+    "id": 73,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "In a Vapor Compression cycle, what is the state of refrigerant before entering the compressor?",
+    "gujaratiQuestion": "073. વેપર કમ્પ્રેશન સાયકલમાં, કોમ્પ્રેસરમાં પ્રવેશતા પહેલા રેફ્રિજરેન્ટની સ્થિતિ કેવી હોય છે?",
+    "options": [
+      "સેચ્યુરેટેડ લિક્વિડ",
+      "વેટ વેપર",
+      "સુપરહીટેડ વેપર",
+      "ડ્રાય સેચ્યુરેટેડ વેપર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "આદર્શ સાયકલમાં ઇવેપોરેશન પૂર્ણ થતાં તે ડ્રાય સેચ્યુરેટેડ વેપર સ્થિતિમાં હોય છે[cite: 5]."
+  },
+  {
+    "id": 74,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "What is temperature measured when thermometer bulb is covered with a wet cloth called?",
+    "gujaratiQuestion": "074. થર્મોમીટરના બલ્બને ભીના કપડાથી ઢાંકીને માપવામાં આવતા તાપમાનને શું કહે છે?",
+    "options": [
+      "ડ્રાય બલ્બ ટેમ્પરેચર",
+      "વેટ બલ્બ ટેમ્પરેચર",
+      "ડ્યૂ પોઈન્ટ ટેમ્પરેચર",
+      "એબ્સોલ્યુટ ટેમ્પરેચર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ભીના કપડાવાળા બલ્બ વડે બાષ્પીભવન અસર સાથે મપાતા તાપમાનને વેટ બલ્બ ટેમ્પરેચર (WBT) કહે છે[cite: 5]."
+  },
+  {
+    "id": 75,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "The temperature at which condensation of moisture in air begins is called:",
+    "gujaratiQuestion": "075. જે તાપમાને હવામાં રહેલા ભેજનું કન્ડેન્સેશન શરૂ થાય છે તેને શું કહેવાય છે?",
+    "options": [
+      "ડ્રાય બલ્બ ટેમ્પરેચર",
+      "વેટ બલ્બ ટેમ્પરેચર",
+      "ડ્યૂ પોઈન્ટ ટેમ્પરેચર",
+      "ક્રિટિકલ ટેમ્પરેચર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હવામાંથી ભેજ ઘનીભવન પામી ઝાકળ બનવાનું શરૂ થાય તે તાપમાનને ડ્યૂ પોઈન્ટ ટેમ્પરેચર (DPT) કહે છે[cite: 5]."
+  },
+  {
+    "id": 76,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "Critical temperature is the temperature above which:",
+    "gujaratiQuestion": "076. ક્રિટિકલ ટેમ્પરેચર એ એવું તાપમાન છે કે જેનાથી ઉપર:",
+    "options": [
+      "ગેસ ક્યારેય લિક્વિફાય થશે નહીં",
+      "ગેસ તરત જ લિક્વિફાય થશે",
+      "પાણી ઈવોપરેટ થશે",
+      "પાણી ક્યારેય ઇવોપરેટ થશે નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ક્રિટિકલ તાપમાનથી ઉપર ગમે તેટલું ઊંચું દબાણ આપવામાં આવે તો પણ વાયુનું પ્રવાહીકરણ (Liquefaction) થઈ શકતું નથી[cite: 5]."
+  },
+  {
+    "id": 77,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "What is the difference between Dry Bulb Temperature and Wet Bulb Temperature called?",
+    "gujaratiQuestion": "077. ડ્રાય બલ્બ ટેમ્પરેચર અને વેટ બલ્બ ટેમ્પરેચર વચ્ચેના તફાવતને શું કહે છે?",
+    "options": [
+      "ડ્યૂ પોઈન્ટ ડિપ્રેશન",
+      "વેટ બલ્બ ડિપ્રેશન",
+      "ડિગ્રી ઓફ સેચ્યુરેશન",
+      "હ્યુમિડિટી ડિપ્રેશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડ્રાય બલ્બ તાપમાન અને વેટ બલ્બ તાપમાન વચ્ચેના તફાવતને વેટ બલ્બ ડિપ્રેશન (WBD = DBT - WBT) કહેવામાં આવે છે[cite: 5]."
+  },
+  {
+    "id": 78,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "What is the difference between Dry Bulb Temperature and Dew Point Temperature called?",
+    "gujaratiQuestion": "078. ડ્રાય બલ્બ ટેમ્પરેચર અને ડ્યૂ પોઈન્ટ ટેમ્પરેચર વચ્ચેના તફાવતને શું કહે છે?",
+    "options": [
+      "વેટ બલ્બ ડિપ્રેશન",
+      "ડ્યૂ પોઈન્ટ ડિપ્રેશન",
+      "સેચ્યુરેશન ડિપ્રેશન",
+      "ડ્રાય બલ્બ ડિપ્રેશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડ્રાય બલ્બ તાપમાન અને ડ્યૂ પોઇન્ટ તાપમાન વચ્ચેના તફાવતને ડ્યૂ પોઈન્ટ ડિપ્રેશન (DPD = DBT - DPT) કહે છે[cite: 5]."
+  },
+  {
+    "id": 79,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "A diesel engine has a compression ratio of 16 and cut-off occurs at 6% of the stroke. What is the cut-off ratio?",
+    "gujaratiQuestion": "079. એક ડીઝલ એન્જિનનો કમ્પ્રેશન રેશિયો 16 છે અને કટ-ઓફ સ્ટ્રોકના 6% પર થાય છે. તેનો કટ-ઓફ રેશિયો કેટલો હશે?",
+    "options": [
+      "1.5",
+      "1.9",
+      "2.5",
+      "2.9"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cut-off ratio rc = 1 + (cut-off fraction × (r - 1)) = 1 + (0.06 × 15) = 1 + 0.9 = 1.9[cite: 5]."
+  },
+  {
+    "id": 80,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "When relative humidity of air is 100%, what is the wet bulb depression?",
+    "gujaratiQuestion": "080. જ્યારે હવાની રિલેટિવ હ્યુમિડિટી 100% હોય છે, ત્યારે વેટ બલ્બ ડિપ્રેશન કેટલું હોય છે?",
+    "options": [
+      "0",
+      "1",
+      "50",
+      "અનંત"
+    ],
+    "correctAnswer": 0,
+    "explanation": "100% RH પર DBT = WBT હોવાથી વેટ બલ્બ ડિપ્રેશન (DBT - WBT) શૂન્ય થાય છે[cite: 5]."
+  },
+  {
+    "id": 81,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "Which of the following relations is correct for saturated air?",
+    "gujaratiQuestion": "081. સેચ્યુરેટેડ હવા માટે નીચેનામાંથી કયો સંબંધ સાચો છે?",
+    "options": [
+      "ડ્રાય બલ્બ ટેમ્પરેચર > વેટ બલ્બ ટેમ્પરેચર",
+      "ડ્રાય બલ્બ ટેમ્પરેચર < ડ્યૂ પોઈન્ટ ટેમ્પરેચર",
+      "ડ્રાય બલ્બ ટેમ્પરેચર = વેટ બલ્બ ટેમ્પરેચર = ડ્યૂ પોઇન્ટ ટેમ્પરેચર",
+      "વેટ બલ્બ ટેમ્પરેચર > ડ્યૂ પોઈન્ટ ટેમ્પરેચર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સંતૃપ્ત હવા (Saturated air) માટે ડ્રાય બલ્બ, વેટ બલ્બ અને ડ્યૂ પોઈન્ટ ત્રણેય તાપમાન સમાન હોય છે[cite: 5]."
+  },
+  {
+    "id": 82,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "The tendency of knocking in an SI engine decreases with an increase in which of the following?",
+    "gujaratiQuestion": "Q82. SI એન્જિનમાં નોકિંગની વૃત્તિ (tendency) નીચેનામાંથી શું વધવાથી ઘટે છે?",
+    "options": [
+      "કમ્પ્રેશન રેશિયો",
+      "વોલ (wall) ટેમ્પરેચર",
+      "સુપરચાર્જિંગ",
+      "એન્જિન સ્પીડ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "એન્જિનની સ્પીડ વધવાથી ટર્બ્યુલન્સ વધે છે અને બર્નિંગ ઝડપી બને છે, જેથી SI એન્જિનમાં નોકિંગ ઘટે છે[cite: 5]."
+  },
+  {
+    "id": 83,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "What is the correct order of temperatures for normal unsaturated air?",
+    "gujaratiQuestion": "Q83. સામાન્ય અસંતૃપ્ત હવા માટે તાપમાનનો સાચો ક્રમ કયો હોય છે?",
+    "options": [
+      "ડ્રાય બલ્બ ટેમ્પરેચર = વેટ બલ્બ ટેમ્પરેચર = ડ્યૂ પોઇન્ટ ટેમ્પરેચર",
+      "ડ્રાય બલ્બ ટેમ્પરેચર > વેટ બલ્બ ટેમ્પરેચર > ડ્યૂ પોઇન્ટ ટેમ્પરેચર",
+      "ડ્રાય બલ્બ ટેમ્પરેચર < વેટ બલ્બ ટેમ્પરેચર < ડ્યૂ પોઇન્ટ ટેમ્પરેચર",
+      "વેટ બલ્બ ટેમ્પરેચર > ડ્રાય બલ્બ ટેમ્પરેચર > ડ્યૂ પોઈન્ટ ટેમ્પરેચર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અસંતૃપ્ત હવામાં હંમેશા DBT > WBT > DPT હોય છે[cite: 5]."
+  },
+  {
+    "id": 84,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Psychrometric Chart",
+    "question": "What do the vertical and uniformly spaced straight lines on a psychrometric chart represent?",
+    "gujaratiQuestion": "084. સાયક્રોમેટ્રિક ચાર્ટ પર ઊભી અને સમાન અંતરે આવેલી સીધી રેખાઓ શું દર્શાવે છે?",
+    "options": [
+      "ડ્રાય બલ્બ ટેમ્પરેચર",
+      "વેટ બલ્બ ટેમ્પરેચર",
+      "સ્પેસિફિક હ્યુમિડિટી",
+      "રિલેટિવ હ્યુમિડિટી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સાયક્રોમેટ્રિક ચાર્ટ પર ઊભી સીધી રેખાઓ ડ્રાય બલ્બ ટેમ્પરેચર (DBT) ની રેખાઓ દર્શાવે છે[cite: 5]."
+  },
+  {
+    "id": 85,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "An ideal gas with heat capacity ratio 2 is used in an Otto cycle between 200 K and 1800 K. Find compression ratio for max work output.",
+    "gujaratiQuestion": "085. એક આદર્શ ગેસ કે જેનો હીટ કેપેસિટી રેશિયો 2 છે તેનો ઉપયોગ 200 K અને 1800 K ના મિનિમમ અને મેક્સિમમ ટેમ્પરેચર વચ્ચે ઓપરેટ થતી આદર્શ ઓટો સાયકલમાં થાય છે. મેક્સિમમ વર્ક આઉટપુટ માટે આ સાયકલનો કમ્પ્રેશન રેશિયો કેટલો હશે?",
+    "options": [
+      "1.5",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મહત્તમ કાર્ય માટે T2 = √(T1 × T3) = √(200 × 1800) = 600 K. r^(γ-1) = T2/T1 = 600/200 = 3 => r^(2-1) = 3 => r = 3[cite: 5]."
+  },
+  {
+    "id": 86,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Psychrometric Chart",
+    "question": "What do the horizontal straight lines on a psychrometric chart represent?",
+    "gujaratiQuestion": "086. સાયક્રોમેટ્રિક ચાર્ટ પર આડી સીધી રેખાઓ શું દર્શાવે છે?",
+    "options": [
+      "ડ્રાય બલ્બ ટેમ્પરેચર",
+      "સ્પેસિફિક હ્યુમિડિટી",
+      "રિલેટિવ હ્યુમિડિટી",
+      "વેટ બલ્બ ટેમ્પરેચર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આડી સીધી રેખાઓ સ્પેસિફિક હ્યુમિડિટી (અથવા હ્યુમિડિટી રેશિયો W) દર્શાવે છે[cite: 5]."
+  },
+  {
+    "id": 87,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Psychrometric Chart",
+    "question": "What do the curved lines on a psychrometric chart generally represent?",
+    "gujaratiQuestion": "087. સાયક્રોમેટ્રિક ચાર્ટમાં વળાંકવાળી રેખાઓ સામાન્ય રીતે શું દર્શાવે છે?",
+    "options": [
+      "એન્થેલ્પી",
+      "ડ્રાય બલ્બ ટેમ્પરેચર",
+      "રિલેટિવ હ્યુમિડિટી",
+      "સ્પેસિફિક વોલ્યુમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સાયક્રોમેટ્રિક ચાર્ટ પર વળાંકવાળા વક્રો (Curved lines) રિલેટિવ હ્યુમિડિટી (% RH) દર્શાવે છે[cite: 5]."
+  },
+  {
+    "id": 88,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Psychrometric Chart",
+    "question": "What do inclined and mutually parallel straight lines on a psychrometric chart represent?",
+    "gujaratiQuestion": "088. સાયક્રોમેટ્રિક ચાર્ટ પર ત્રાંસી અને એકબીજાને સમાંતર સીધી રેખાઓ શું દર્શાવે છે?",
+    "options": [
+      "વેટ બલ્બ ટેમ્પરેચર અને એન્થેલ્પી",
+      "ડ્રાય બલ્બ ટેમ્પરેચર અને ડ્યૂ પોઈન્ટ ટેમ્પરેચર",
+      "સ્પેસિફિક હ્યુમિડિટી અને રિલેટિવ હ્યુમિડિટી",
+      "એબ્સોલ્યુટ હ્યુમિડિટી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ત્રાંસી રેખાઓ વેટ બલ્બ તાપમાન (WBT) અને કોન્સ્ટન્ટ એન્થાલ્પીની દિશા દર્શાવે છે[cite: 5]."
+  },
+  {
+    "id": 89,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "Which processes are present in a Stirling cycle?",
+    "gujaratiQuestion": "Q89. સ્ટર્લિંગ સાયકલમાં કઈ પ્રોસેસ હોય છે?",
+    "options": [
+      "બે રિવર્સિબલ આઇસોબારિક અને બે રિવર્સિબલ આઇસોથર્મલ",
+      "બે રિવર્સિબલ આઇસોબારિક અને બે રિવર્સિબલ આઈસેન્ટ્રોપિક",
+      "બે રિવર્સિબલ આઇસોકોરિક અને બે રિવર્સિબલ આઇસોથર્મલ",
+      "બે રિવર્સિબલ આઈસોકોરિક અને બે રિવર્સિબલ આઇસેન્ટ્રોપિક"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્ટર્લિંગ સાયકલમાં 2 રિવર્સિબલ આઇસોકોરિક (અચળ કદ) અને 2 રિવર્સિબલ આઇસોથર્મલ પ્રક્રિયાઓ હોય છે[cite: 5]."
+  },
+  {
+    "id": 90,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Psychrometric Chart",
+    "question": "How is the Dew Point Temperature determined on a psychrometric chart?",
+    "gujaratiQuestion": "090. સાયક્રોમેટ્રિક ચાર્ટમાં ડ્યૂ પોઈન્ટ ટેમ્પરેચર કઈ રીતે નક્કી કરવામાં આવે છે?",
+    "options": [
+      "ઊભી રેખા પરથી",
+      "આડી રેખાને સેચ્યુરેશન કર્વ સુધી લંબાવીને",
+      "ત્રાંસી રેખાને સેચ્યુરેશન કર્વ સુધી લંબાવીને",
+      "વળાંકવાળી રેખા પરથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આપેલા બિંદુ પરથી ડાબી બાજુ આડી રેખા દોરીને સેચ્યુરેશન કર્વ સુધી લંબાવતાં DPT મળે છે[cite: 5]."
+  },
+  {
+    "id": 91,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Psychrometric Chart",
+    "question": "What is the relative humidity on the saturation curve of a psychrometric chart?",
+    "gujaratiQuestion": "091. સાયક્રોમેટ્રિક ચાર્ટ પર સેચ્યુરેશન કર્વ પર રિલેટિવ હ્યુમિડિટી કેટલી હોય છે?",
+    "options": [
+      "0%",
+      "50%",
+      "100%",
+      "90%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સેચ્યુરેશન કર્વ પર હવા સંપૂર્ણ સંતૃપ્ત હોવાથી રિલેટિવ હ્યુમિડિટી 100% હોય છે[cite: 5]."
+  },
+  {
+    "id": 92,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "What is the air standard efficiency formula of an Otto cycle?",
+    "gujaratiQuestion": "092. ઓટો સાયકલની એર સ્ટાન્ડર્ડ એફિશિયન્સી શું છે?",
+    "options": [
+      "η = 1 - r^(γ-1)",
+      "η = 1 - 1/r^(γ-1)",
+      "η = 1 - r/r^(γ-1)",
+      "η = 1 - r^γ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓટો સાયકલની એર સ્ટાન્ડર્ડ કાર્યક્ષમતા η = 1 - (1 / r^(γ - 1)) છે[cite: 5]."
+  },
+  {
+    "id": 93,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "When air is heated while maintaining its specific humidity constant, the process is called:",
+    "gujaratiQuestion": "093. હવાને ગરમ કરતી વખતે જો તેની સ્પેસિફિક હ્યુમિડિટી અચળ રહે, તો તે પ્રક્રિયા કઈ છે?",
+    "options": [
+      "સેન્સિબલ હીટિંગ",
+      "સેન્સિબલ કૂલિંગ",
+      "હ્યુમિડિફિકેશન",
+      "ડી-હ્યુમિડિફિકેશન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ભેજ ઉમેર્યા કે દૂર કર્યા વગર માત્ર તાપમાન વધારવાની પ્રક્રિયાને સેન્સિબલ હીટિંગ કહે છે[cite: 5]."
+  },
+  {
+    "id": 94,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "During a sensible cooling process, the Dry Bulb Temperature of air:",
+    "gujaratiQuestion": "094. સેન્સિબલ કુલિંગ પ્રક્રિયા દરમિયાન હવાનું ડ્રાય બલ્બ ટેમ્પરેચર...",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "શૂન્ય થાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સેન્સિબલ કૂલિંગ દરમિયાન હવાનું તાપમાન (DBT) ઘટે છે જ્યારે સ્પેસિફિક હ્યુમિડિટી અચળ રહે છે[cite: 5]."
+  },
+  {
+    "id": 95,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "For same output, speed, and CR, thermal efficiency of two-stroke compared to four-stroke petrol engine is:",
+    "gujaratiQuestion": "095. સમાન આઉટપુટ, સમાન સ્પીડ અને સમાન કમ્પ્રેશન રેશિયો માટે, ફોર-સ્ટ્રોક સાયકલ પેટ્રોલ એન્જિનની સરખામણીમાં ટુ-સ્ટ્રોક સાયકલ પેટ્રોલ એન્જિનની થર્મલ એફિશિયન્સી કેટલી હોય છે?",
+    "options": [
+      "વધારે",
+      "ઓછી",
+      "સમાન",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્કેવેન્જિંગ દરમિયાન ફ્યુઅલ લોસ થવાથી ટુ-સ્ટ્રોક એન્જિનની કાર્યક્ષમતા ઓછી હોય છે[cite: 5]."
+  },
+  {
+    "id": 96,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "What is the effect on Relative Humidity of air during a sensible heating process?",
+    "gujaratiQuestion": "096. સેન્સિબલ હીટિંગ પ્રક્રિયા દરમિયાન હવાની રિલેટિવ હ્યુમિડિટી પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "કોઈ અસર થતી નથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "તાપમાન વધતાં હવાની ભેજ ધારણ ક્ષમતા વધે છે, જેથી રિલેટિવ હ્યુમિડિટી (RH) ઘટે છે[cite: 5]."
+  },
+  {
+    "id": 97,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "What is the effect on Relative Humidity of air during a sensible cooling process?",
+    "gujaratiQuestion": "097. સેન્સિબલ કૂલિંગ પ્રક્રિયા દરમિયાન હવાની રિલેટિવ હ્યુમિડિટી પર શું અસર થાય છે?",
+    "options": [
+      "ઘટે છે",
+      "વધે છે",
+      "અચળ રહે છે",
+      "શૂન્ય થાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "તાપમાન ઘટતાં હવાની ભેજ ધારણ ક્ષમતા ઘટે છે, જેથી રિલેટિવ હ્યુમિડિટી (RH) વધે છે[cite: 5]."
+  },
+  {
+    "id": 98,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "Theoretically, a four-stroke petrol engine operates on which cycle?",
+    "gujaratiQuestion": "098. ફોર-સ્ટ્રોક પેટ્રોલ એન્જિન સૈદ્ધાંતિક રીતે કઈ સાયકલ પર કામ કરે છે?",
+    "options": [
+      "ઓટો સાયકલ",
+      "બ્રેટન સાયકલ",
+      "જૂલ સાયકલ",
+      "બેલ કોલમેન સાયકલ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પેટ્રોલ (Spark Ignition) એન્જિન સૈદ્ધાંતિક રીતે કોન્સ્ટન્ટ વોલ્યુમ ઓટો સાયકલ પર કાર્ય કરે છે[cite: 5]."
+  },
+  {
+    "id": 99,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "Which parameter of air is kept constant during a pure humidification process?",
+    "gujaratiQuestion": "099. માત્ર હ્યુમિડિફિકેશન પ્રક્રિયામાં હવાનું કયું પરિમાણ અચળ રાખવામાં આવે છે?",
+    "options": [
+      "રિલેટિવ હ્યુમિડિટી",
+      "સ્પેસિફિક હ્યુમિડિટી",
+      "ડ્રાય બલ્બ ટેમ્પરેચર",
+      "ડ્યૂ પોઈન્ટ ટેમ્પરેચર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્યોર હ્યુમિડિફિકેશનમાં તાપમાન બદલ્યા વગર માત્ર ભેજ ઉમેરાતો હોવાથી DBT અચળ રહે છે[cite: 5]."
+  },
+  {
+    "id": 100,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "During heating and humidification process, the specific humidity of air:",
+    "gujaratiQuestion": "0100. હીટિંગ અને હ્યુમિડિફિકેશન પ્રક્રિયા દરમિયાન હવાની સ્પેસિફિક હ્યુમિડિટી...",
+    "options": [
+      "અચળ રહે છે",
+      "વધે છે",
+      "ઘટે છે",
+      "શૂન્ય થાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હ્યુમિડિફિકેશન દરમિયાન ભેજ ઉમેરાતો હોવાથી સ્પેસિફિક હ્યુમિડિટી વધે છે[cite: 5]."
+  },
+  {
+    "id": 101,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "In a diesel engine, what is the time interval between injection start and ignition start called?",
+    "gujaratiQuestion": "Q101. ડીઝલ ઍન્જિનમાં, ઈન્જેક્શનના સમય અને ઈગ્નિશનના સમય વચ્ચેના ગાળાને શું કહેવાય છે?",
+    "options": [
+      "પિરિયડ ઓફ ઇગ્નિશન",
+      "એક્સપ્લોઝન પિરિયડ",
+      "પ્રિ-ઇગ્નિશન પિરિયડ",
+      "ડીલે પિરિયડ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ફ્યુઅલ ઇન્જેક્શન અને કમ્બશન શરૂ થવા વચ્ચેના સમયગાળાને ઇગ્નીશન ડીલે પિરિયડ કહે છે[cite: 5]."
+  },
+  {
+    "id": 102,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "During cooling and dehumidification process, the Dry Bulb Temperature of air:",
+    "gujaratiQuestion": "0102. કૂલિંગ અને ડી-હ્યુમિડિફિકેશન પ્રક્રિયામાં હવાનું ડ્રાય બલ્બ ટેમ્પરેચર...",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "સેચ્યુરેટેડ થાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કૂલિંગ થવાથી ડ્રાય બલ્બ ટેમ્પરેચર (DBT) ઘટે છે[cite: 5]."
+  },
+  {
+    "id": 103,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "During a dehumidification process, the specific humidity of air:",
+    "gujaratiQuestion": "0103. ડી-હ્યુમિડિફિકેશન પ્રક્રિયા દરમિયાન હવાની સ્પેસિફિક હ્યુમિડિટી...",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "મહત્તમ થાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડિહ્યુમિડિફિકેશન દરમિયાન હવામાંથી ભેજ દૂર થતો હોવાથી સ્પેસિફિક હ્યુમિડિટી ઘટે છે[cite: 5]."
+  },
+  {
+    "id": 104,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "Which of the following is not a type of excavating equipment?",
+    "gujaratiQuestion": "0104. નીચેનામાંથી કયું એક્સકેવેટિંગ (ખોદકામ) ઈક્વિપમેન્ટનો પ્રકાર નથી?",
+    "options": [
+      "બુલડોઝર",
+      "ડ્રેગલાઈન",
+      "પાવર શોવેલ",
+      "ક્રેન"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ક્રેન લિફ્ટિંગ સાધન છે, ઉત્ખનન (Excavating) સાધન નથી[cite: 5]."
+  },
+  {
+    "id": 105,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "Evaporative cooling system is most suitable for which type of climate?",
+    "gujaratiQuestion": "0105. ઇવેપોરેટિવ કૂલિંગ સિસ્ટમ કયા વાતાવરણ માટે સૌથી વધુ અનુકૂળ છે?",
+    "options": [
+      "ગરમ અને ભેજવાળા",
+      "ઠંડા અને ભેજવાળા",
+      "ગરમ અને સૂકા",
+      "ઠંડા અને સૂકા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બાષ્પીભવન આધારિત કૂલિંગ ગરમ અને શુષ્ક (Hot and Dry) વાતાવરણમાં શ્રેષ્ઠ કાર્ય કરે છે[cite: 5]."
+  },
+  {
+    "id": 106,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "Sensible Heat Factor is the ratio of:",
+    "gujaratiQuestion": "Q106. સેન્સિબલ હીટ ફેક્ટર કોનો ગુણોત્તર છે?",
+    "options": [
+      "સેન્સિબલ હીટ અને લેટન્ટ હીટ",
+      "લેટન્ટ હીટ અને સેન્સિબલ હીટ",
+      "સેન્સિબલ હીટ અને ટોટલ હીટ",
+      "ટોટલ હીટ અને સેન્સિબલ હીટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "SHF = Sensible Heat / Total Heat (જ્યાં Total Heat = Sensible Heat + Latent Heat)[cite: 5]."
+  },
+  {
+    "id": 107,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "In an aircraft refrigeration cycle, in the absence of moisture condensation, air temperature at cooling turbine exit is:",
+    "gujaratiQuestion": "0107. એરક્રાફ્ટ રેફ્રિજરેશન સાયકલના સંદર્ભમાં, મોઇશ્ચર કન્ડેન્સેશનની ગેરહાજરીમાં કૂલિંગ ટર્બાઈનની એક્ઝિટ પર હવાનું તાપમાન શું હોય છે?",
+    "options": [
+      "સેચ્યુરેટેડ ટેમ્પરેચર",
+      "ડ્રાય એર રેટેડ ટેમ્પરેચર (DART)",
+      "સુપર-સેચ્યુરેટેડ ટેમ્પરેચર",
+      "ડ્રાય એર ટેમ્પરેચર (DAT)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કૂલિંગ ટર્બાઇન એક્ઝિટ પર ભેજ કન્ડેન્સ ન થાય ત્યારે તે તાપમાનને DART કહે છે[cite: 5]."
+  },
+  {
+    "id": 108,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "What is the Sensible Heat Factor for pure sensible heating or sensible cooling process?",
+    "gujaratiQuestion": "0108. માત્ર સેન્સિબલ હીટિંગ અથવા સેન્સિબલ કૂલિંગ પ્રક્રિયા માટે સેન્સિબલ હીટ ફેક્ટર કેટલો હોય છે?",
+    "options": [
+      "0",
+      "0.5",
+      "0.75",
+      "1.0"
+    ],
+    "correctAnswer": 3,
+    "explanation": "લેટન્ટ હીટ શૂન્ય હોવાથી SHF = SH / Total Heat = SH / SH = 1.0 થાય છે[cite: 5]."
+  },
+  {
+    "id": 109,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "What is the Sensible Heat Factor for a pure humidification or dehumidification process?",
+    "gujaratiQuestion": "0109. જો કોઈ પ્રક્રિયા માત્ર હ્યુમિડિફિકેશન અથવા ડી-હ્યુમિડિફિકેશનની હોય, તો તેનો સેન્સિબલ હીટ ફેક્ટર કેટલો થાય?",
+    "options": [
+      "0",
+      "0.5",
+      "1.0",
+      "અનંત"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સેન્સિબલ હીટ શૂન્ય હોવાથી SHF = 0 / Total Heat = 0 થાય છે[cite: 5]."
+  },
+  {
+    "id": 110,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "The fraction of air passing over a cooling coil without contacting the coil surface is represented by which factor?",
+    "gujaratiQuestion": "0110. કૂલિંગ કોઈલ પર હવા પસાર થાય ત્યારે જે હવા કોઈલના સંપર્કમાં આવ્યા વગર સીધી નીકળી જાય છે, તેને કયા ફેક્ટર દ્વારા દર્શાવાય છે?",
+    "options": [
+      "સેન્સિબલ હીટ ફેક્ટર",
+      "બાય-પાસ ફેક્ટર",
+      "કૂલિંગ ફેક્ટર",
+      "હ્યુમિડિટી ફેક્ટર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અનકોન્ટેક્ટેડ હવાના અંશને બાયપાસ ફેક્ટર (Bypass Factor) કહેવામાં આવે છે[cite: 5]."
+  },
+  {
+    "id": 111,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "An ideal gas-refrigeration cycle is identical to:",
+    "gujaratiQuestion": "Q111. આદર્શ ગેસ-રેફ્રિજરેશન સાયકલ કોના સમાન છે?",
+    "options": [
+      "બ્રેટન સાયકલ",
+      "રિવર્સ્ડ બ્રેટન સાયકલ",
+      "વેપર કમ્પ્રેશન રેફ્રિજરેશન સાયકલ",
+      "વેપર એબ્સોર્ક્શન રેફ્રિજરેશન સાયકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આદર્શ ગેસ રેફ્રિજરેશન સાયકલ એ રિવર્સ્ડ બ્રેટન (બેલ-કોલમેન) સાયકલ છે[cite: 5]."
+  },
+  {
+    "id": 112,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "If cooling coil temperature is below the DPT of entering air, which process will take place?",
+    "gujaratiQuestion": "0112. જો કૂલિંગ કોઈલનું તાપમાન આવતી હવાના ડ્યૂ પોઈન્ટ ટેમ્પરેચર કરતા નીચું હોય, તો કઈ પ્રક્રિયા થશે?",
+    "options": [
+      "માત્ર કૂલિંગ",
+      "માત્ર ડી-હ્યુમિડિફિકેશન",
+      "કૂલિંગ અને ડી-હ્યુમિડિફિકેશન",
+      "હીટિંગ અને હ્યુમિડિફિકેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કોઈલ તાપમાન DPT કરતાં નીચું હોવાથી ભેજ કન્ડેન્સ થશે, જેથી કૂલિંગ સાથે ડિહ્યુમિડિફિકેશન થશે[cite: 5]."
+  },
+  {
+    "id": 113,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "A psychrometric process in which enthalpy remains constant is called:",
+    "gujaratiQuestion": "0113. એવી સાયક્રોમેટ્રિક પ્રક્રિયા જેમાં એન્થેલ્પી અચળ રહેતી હોય તેને કઈ પ્રક્રિયા કહેવાય છે?",
+    "options": [
+      "આઇસોથર્મલ",
+      "આઇસોકોરિક",
+      "એડિઆબેટિક સેચ્યુરેશન",
+      "આઇસોબેરિક"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એડિઆબેટિક સેચ્યુરેશન પ્રક્રિયા દરમિયાન હવાની કુલ એન્થાલ્પી અચળ રહે છે[cite: 5]."
+  },
+  {
+    "id": 114,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Gas Refrigeration Cycles",
+    "question": "Which of the following is not a component of Bell-Coleman cycle?",
+    "gujaratiQuestion": "0114. નીચેનામાંથી કયું બેલ કોલમેન સાયકલનું કમ્પોનન્ટ નથી?",
+    "options": [
+      "કન્ડેન્સર",
+      "કોમ્પ્રેસર",
+      "કૂલર",
+      "એક્સપાન્ડર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ગેસ સાયકલમાં કન્ડેન્સર હોતું નથી, તેના સ્થાને કૂલર (હીટ એક્સચેન્જર) વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 115,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "What is the effect on Latent Heat of air during sensible cooling process?",
+    "gujaratiQuestion": "0115. સેન્સિબલ કૂલિંગ પ્રક્રિયામાં હવાની લેટન્ટ હીટ પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "શૂન્ય થાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સેન્સિબલ કૂલિંગમાં ભેજ બદલાતો ન હોવાથી લેટન્ટ હીટ અચળ રહે છે[cite: 5]."
+  },
+  {
+    "id": 116,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "Enthalpy of moist air is the sum of:",
+    "gujaratiQuestion": "Q116. મોઇસ્ટ એરની એન્થેલ્પી કોનો સરવાળો છે?",
+    "options": [
+      "ડ્રાય એરની એન્થેલ્પી અને વોટર વેપરની એન્થેલ્પી",
+      "ડ્રાય એરની એન્થેલ્પી અને લેટન્ટ હીટ",
+      "વોટર વેપરની એન્થેલ્પી અને લેટન્ટ હીટ",
+      "સેન્સિબલ હીટ અને લેટન્ટ હીટ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ભેજવાળી હવાની કુલ એન્થાલ્પી h = ha + W · hv થાય છે[cite: 5]."
+  },
+  {
+    "id": 117,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "If shafts are connected in parallel, what will be angle of twist and torque respectively?",
+    "gujaratiQuestion": "Q117. જો શાફ્ટ પેરેલલ (સમાંતર) જોડાયેલા હોય, તો એંગલ ઓફ ટ્વિસ્ટ અને ટોર્ક અનુક્રમે શું હશે?",
+    "options": [
+      "θ = θ1 = θ2 અને T1 = T2 = T",
+      "θ = θ1 + θ2 અને T1 = T2",
+      "θ = θ1 = θ2 અને T = T1 + T2",
+      "θ = θ1 + θ2 અને T1 = T2 = T"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પેરેલલ જોડાણમાં ટ્વિસ્ટ એંગલ સમાન રહે છે (θ = θ1 = θ2) અને કુલ ટોર્ક બંનેના સરવાળા જેટલો (T = T1 + T2) થાય છે[cite: 5]."
+  },
+  {
+    "id": 118,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "Which psychrometric process is generally performed in winter air-conditioning?",
+    "gujaratiQuestion": "0118. શિયાળાના એર-કન્ડિશનિંગમાં સામાન્ય રીતે કઈ સાયક્રોમેટ્રિક પ્રક્રિયા કરવામાં આવે છે?",
+    "options": [
+      "કૂલિંગ અને ડી-હ્યુમિડિફિકેશન",
+      "હીટિંગ અને હ્યુમિડિફિકેશન",
+      "સેન્સિબલ કૂલિંગ",
+      "માત્ર ડી-હ્યુમિડિફિકેશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "શિયાળામાં હવા ઠંડી અને સૂકી હોવાથી તેને ગરમ કરી ભેજવાળી બનાવવામાં આવે છે (Heating & Humidification)[cite: 5]."
+  },
+  {
+    "id": 119,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "Which process is mainly required in summer air-conditioning?",
+    "gujaratiQuestion": "0119. ઉનાળાના એર-કન્ડિશનિંગમાં મુખ્યત્વે કઈ પ્રક્રિયાની જરૂર પડે છે?",
+    "options": [
+      "હીટિંગ અને હ્યુમિડિફિકેશન",
+      "કૂલિંગ અને ડી-હ્યુમિડિફિકેશન",
+      "સેન્સિબલ હીટિંગ",
+      "માત્ર હ્યુમિડિફિકેશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઉનાળામાં કમ્ફર્ટ માટે હવાને ઠંડી કરી ભેજ દૂર કરવો જરૂરી છે (Cooling & Dehumidification)[cite: 5]."
+  },
+  {
+    "id": 120,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "At 100% RH, Wet Bulb Temperature is _____ Dry Bulb Temperature.",
+    "gujaratiQuestion": "Q120. 100% RH પર વેટ બલ્બ ટેમ્પરેચર એ ડ્રાય બલ્બ ટેમ્પરેચર કરતા ____ હોય છે.",
+    "options": [
+      "સમાન (equal to)",
+      "ઓછું (lower than)",
+      "વધારે (higher than)",
+      "ઇન્વર્સ (inverse of)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સંતૃપ્ત હવા (100% RH) પર WBT અને DBT બંને એકસમાન હોય છે[cite: 5]."
+  },
+  {
+    "id": 121,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "When air-water mixture reaches saturation, what is its degree of saturation?",
+    "gujaratiQuestion": "Q121. જ્યારે હવા અને પાણીનું મિશ્રણ સંતૃપ્ત (સેચ્યુરેટેડ) સ્થિતિમાં પહોંચે છે, ત્યારે તેની ડિગ્રી ઓફ સેચ્યુરેશન કેટલી હોય છે?",
+    "options": [
+      "0",
+      "0.5",
+      "1.0",
+      "અનંત"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સેચ્યુરેશન વખતે W = Ws થવાથી ડિગ્રી ઓફ સેચ્યુરેશન μ = W / Ws = 1.0 થાય છે[cite: 5]."
+  },
+  {
+    "id": 122,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "Wet Bulb Temperature of moist air is primarily a measure of:",
+    "gujaratiQuestion": "Q122. મોઇસ્ટ એરનું વેટ બલ્બ ટેમ્પરેચર એ મુખ્યત્વે કોનું માપ છે?",
+    "options": [
+      "એન્થેલ્પી",
+      "સ્પેસિફિક વોલ્યુમ",
+      "પ્રેશર",
+      "ડ્રાય એરનું તાપમાન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કોન્સ્ટન્ટ WBT લાઈનો એન્થાલ્પી લાઈનોને સમાંતર હોવાથી WBT હવાની કુલ એન્થાલ્પીનું માપ દર્શાવે છે[cite: 5]."
+  },
+  {
+    "id": 123,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "Moist air streams with humidity 0.006 and 0.012 kg/kg are mixed at const pressure to get 0.008 kg/kg. What is mass flow ratio?",
+    "gujaratiQuestion": "Q123. અચળ પ્રેશરે બે અલગ-અલગ સ્થિતિની ભેજવાળી હવાના જુદા-જુદા જથ્થાને મિશ્ર કરીને 0.008 kg/kg ડ્રાય એર સ્પેસિફિક હ્યુમિડિટી મેળવવામાં આવે છે. જો મિશ્ર થઈ રહેલી હવાની સ્પેસિફિક હ્યુમિડિટી 0.006 અને 0.012 kg/kg ડ્રાય એર હોય, તો આ હવાના માસ ફ્લો રેટનો ગુણોત્તર (ratio) અનુક્રમે કેટલો હશે?",
+    "options": [
+      "4:3",
+      "2:1",
+      "1:2",
+      "3:2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "m1/m2 = (W2 - W3) / (W3 - W1) = (0.012 - 0.008) / (0.008 - 0.006) = 0.004 / 0.002 = 2:1[cite: 5]."
+  },
+  {
+    "id": 124,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Psychrometric Chart",
+    "question": "On a psychrometric chart, constant enthalpy lines are nearly parallel to:",
+    "gujaratiQuestion": "0124. સાયક્રોમેટ્રિક ચાર્ટમાં એન્થેલ્પીની રેખાઓ કોને લગભગ સમાંતર હોય છે?",
+    "options": [
+      "ડ્રાય બલ્બ ટેમ્પરેચરની રેખાઓને",
+      "વેટ બલ્બ ટેમ્પરેચરની રેખાઓને",
+      "રિલેટિવ હ્યુમિડિટીની રેખાઓને",
+      "સ્પેસિફિક હ્યુમિડિટીની રેખાઓને"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એડિઆબેટિક સેચ્યુરેશન પ્રક્રિયામાં WBT અને એન્થાલ્પી લગભગ સમાન દિશામાં હોવાથી રેખાઓ સમાંતર હોય છે[cite: 5]."
+  },
+  {
+    "id": 125,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Psychrometric Chart",
+    "question": "Specific volume of air on a psychrometric chart is represented by which lines?",
+    "gujaratiQuestion": "0125. હવાનો સ્પેસિફિક વોલ્યુમ સાયક્રોમેટ્રિક ચાર્ટ પર કઈ રેખાઓ દ્વારા દર્શાવવામાં આવે છે?",
+    "options": [
+      "આડી સીધી રેખાઓ",
+      "ઊભી સીધી રેખાઓ",
+      "ત્રાંસી સીધી રેખાઓ",
+      "વળાંકવાળી રેખાઓ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્પેસિફિક વોલ્યુમ ચાર્ટ પર ઊંચા ઢાળવાળી ત્રાંસી સીધી રેખાઓ દ્વારા દર્શાવાય છે[cite: 5]."
+  },
+  {
+    "id": 126,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "At 300 K, RH = 50% and partial pressure of water vapor is Pv. If saturation pressure is Psat, what is the relation?",
+    "gujaratiQuestion": "0126. 300 K પર વાતાવરણની હવાની રિલેટિવ હ્યુમિડિટી 50% છે અને વોટર વેપરનું આંશિક દબાણ (partial pressure) Pv છે. 300 K પર પાણીનું સેચ્યુરેશન પ્રેશર Psat છે. આ મિક્સચર માટે સાચો સંબંધ કયો છે?",
+    "options": [
+      "Pv = 2 Psat",
+      "Pv = Psat",
+      "Pv = 0.5 Psat",
+      "Pv = 0.622 Psat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "RH = Pv / Psat => 0.50 = Pv / Psat => Pv = 0.5 Psat[cite: 5]."
+  },
+  {
+    "id": 127,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "Which instrument is used to measure relative humidity of air?",
+    "gujaratiQuestion": "Q127. હવાની રિલેટિવ હ્યુમિડિટી માપવા માટે કયા સાધનનો ઉપયોગ થાય છે?",
+    "options": [
+      "થર્મોમીટર",
+      "સાયક્રોમીટર",
+      "મેનોમીટર",
+      "એનિમોમીટર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DBT અને WBT બંને માપીને RH નક્કી કરવા સાયક્રોમીટર (Psychrometer) વપરાય છે[cite: 5]."
+  },
+  {
+    "id": 128,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "If moisture content in air increases, the difference between DBT and WBT:",
+    "gujaratiQuestion": "Q128. જો હવામાં ભેજનું પ્રમાણ વધે, તો ડ્રાય બલ્બ ટેમ્પરેચર અને વેટ બલ્બ ટેમ્પરેચર વચ્ચેનો તફાવત...",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "શૂન્યથી નીચે જાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હવામાં ભેજ વધતાં બાષ્પીભવન દર ઘટે છે, જેથી WBT વધે છે અને DBT - WBT નો તફાવત ઘટે છે[cite: 5]."
+  },
+  {
+    "id": 129,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "For same load and temperature limits, what is the order of mass flow ratio of NH3 compared to Freon-12?",
+    "gujaratiQuestion": "0129. સમાન રેફ્રિજરેશન લોડ અને સમાન ટેમ્પરેચર લિમિટ્સ માટે ફ્રિઓન-12 ની સરખામણીમાં NH3 નો માસ ફ્લો રેશિયો કયા ક્રમનો હોય છે?",
+    "options": [
+      "1:1",
+      "1:9",
+      "9:1",
+      "1:3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NH3 ની લેટન્ટ હીટ Freon-12 કરતાં લગભગ 9 ગણી વધારે હોવાથી NH3 નો જરૂરી માસ ફ્લો રેટ 1/9 ગણો હોય છે[cite: 5]."
+  },
+  {
+    "id": 130,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "Air-conditioned air supplied to a room must be capable of balancing which heat load?",
+    "gujaratiQuestion": "Q130. રૂમમાં સપ્લાય કરવામાં આવતી એર-કન્ડિશન્ડ હવા કયા હીટ લોડને બેલેન્સ કરવા માટે સક્ષમ હોવી જોઈએ?",
+    "options": [
+      "માત્ર રૂમ સેન્સિબલ હીટ લોડ",
+      "માત્ર રૂમ લેટન્ટ હીટ લોડ",
+      "રૂમ સેન્સિબલ અને લેટન્ટ હીટ લોડ બંને",
+      "માત્ર બારીની બહારનો હીટ લોડ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રૂમમાં આરામદાયક સ્થિતિ જાળવવા માટે સપ્લાય હવા સેન્સિબલ અને લેટન્ટ બંને પ્રકારના લોડને બેલેન્સ કરે તેવી હોવી જોઈએ[cite: 5]."
+  },
+  {
+    "id": 131,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "What is the state of water vapor present in normal atmospheric air?",
+    "gujaratiQuestion": "0131. સામાન્ય વાતાવરણીય હવામાં રહેલા વોટર વેપરની સ્થિતિ કેવી હોય છે?",
+    "options": [
+      "સેચ્યુરેટેડ લિક્વિડ",
+      "સુપરહીટેડ વેપર",
+      "સબકૂલ્ડ લિક્વિડ",
+      "આઇડિયલ ગેસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વાતાવરણમાં વરાળનું આંશિક દબાણ ઘણું ઓછું હોવાથી તે સુપરહીટેડ વેપર સ્થિતિમાં વર્તે છે[cite: 5]."
+  },
+  {
+    "id": 132,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Psychrometric Chart",
+    "question": "During sensible heating process, how does the process line appear on a psychrometric chart?",
+    "gujaratiQuestion": "0132. સેન્સિબલ હીટિંગ (Sensible heating) પ્રક્રિયા દરમિયાન સાયક્રોમેટ્રિક ચાર્ટ પર પ્રક્રિયાની રેખા કેવી જોવા મળે છે?",
+    "options": [
+      "ડાબી તરફ આડી",
+      "જમણી તરફ આડી",
+      "ઉપર તરફ ઊભી",
+      "નીચે તરફ ઊભી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સેન્સિબલ હીટિંગમાં DBT વધતો હોવાથી રેખા ડાબેથી જમણી તરફ આડી દિશામાં જાય છે[cite: 5]."
+  },
+  {
+    "id": 133,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "On a p-h diagram, condensation is shown by a horizontal line because it occurs at:",
+    "gujaratiQuestion": "0133. પ્રેશર-ઍન્થાલ્પી ડાયાગ્રામ પર, કન્ડેન્સેશન અને ડિસુપરહીટિંગને આડી (horizontal) લાઈન દ્વારા દર્શાવવામાં આવે છે કારણ કે આ પ્રોસેસ:",
+    "options": [
+      "માં વોલ્યુમમાં કોઇ ફેરફાર થતો નથી",
+      "અચળ ટેમ્પરેચર પર થાય છે",
+      "અચળ એન્ટ્રોપી પર થાય છે",
+      "અચળ પ્રેશર પર થાય છે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "કન્ડેન્સરમાં ઉષ્મા નિકાલની પ્રક્રિયા અચળ દબાણે (Isobaric process) થતી હોવાથી p-h ચાર્ટ પર આડી રેખા બને છે[cite: 5]."
+  },
+  {
+    "id": 134,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "What is the effect on specific humidity of air during a sensible cooling process?",
+    "gujaratiQuestion": "0134. સેન્સિબલ કૂલિંગ (Sensible cooling) પ્રક્રિયા દરમિયાન હવાની સ્પેસિફિક હ્યુમિડિટી (Specific humidity) પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "શૂન્ય થાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સેન્સિબલ કૂલિંગમાં ભેજ ઉમેરવામાં કે દૂર કરવામાં આવતો ન હોવાથી સ્પેસિફિક હ્યુમિડિટી અચળ રહે છે[cite: 5]."
+  },
+  {
+    "id": 135,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Psychrometric Chart",
+    "question": "Pure dehumidification process is represented on a psychrometric chart by which line?",
+    "gujaratiQuestion": "0135. માત્ર ડિહ્યુમિડિફિકેશન (Pure dehumidification) પ્રક્રિયાને સાયક્રોમેટ્રિક ચાર્ટ પર કઈ રેખા દ્વારા દર્શાવવામાં આવે છે?",
+    "options": [
+      "આડી રેખા",
+      "નીચેની તરફની ઊભી રેખા",
+      "ઉપરની તરફની ઊભી રેખા",
+      "ત્રાંસી રેખા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DBT અચળ રાખીને સ્પેસિફિક હ્યુમિડિટી ઘટતી હોવાથી તે નીચે તરફ જતી ઊભી રેખા (Downward vertical line) બને છે[cite: 5]."
+  },
+  {
+    "id": 136,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "Keeping condenser temperature constant, if evaporator temperature is increased, COP of refrigeration cycle will:",
+    "gujaratiQuestion": "0136. કન્ડેન્સરનું ટેમ્પરેચર અચળ રાખીને જો ઈવેપોરેટરનું ટેમ્પરેચર વધારવામાં આવે, તો રેફ્રિજરેશન સાયકલનો C.O.P. શું થશે?",
+    "options": [
+      "વધશે",
+      "ઘટશે",
+      "કોઈ અસર થશે નહીં",
+      "કહી શકાય નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઇવેપોરેટર તાપમાન વધવાથી કમ્પ્રેશન વર્ક ઘટે છે અને રેફ્રિજરેટિંગ ઇફેક્ટ વધે છે, જેથી COP વધે છે[cite: 5]."
+  },
+  {
+    "id": 137,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "To cool and dehumidify air, it should be passed over a coil having temperature:",
+    "gujaratiQuestion": "0137. હવાને કૂલ અને ડિહ્યુમિડિફાય કરવા માટે, તેને કયા તાપમાન વાળી કોઈલ પરથી પસાર કરવી જોઈએ?",
+    "options": [
+      "આવતી હવાના ડ્રાય બલ્બ તાપમાન કરતા નીચા",
+      "આવતી હવાના વેટ બલ્બ તાપમાન કરતા નીચા",
+      "આવતી હવાના ડ્યૂ પોઈન્ટ તાપમાન કરતા નીચા",
+      "ઉપરોક્તમાંથી કોઈ નહી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કોઈલ તાપમાન DPT કરતાં નીચું હોય તો જ હવામાંથી ભેજનું કન્ડેન્સેશન થઈ શકે છે[cite: 5]."
+  },
+  {
+    "id": 138,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "During cooling and dehumidification process, what is the effect on Dry Bulb Temperature?",
+    "gujaratiQuestion": "0138. કૂલિંગ અને ડિહ્યુમિડિફિકેશન (Cooling and dehumidification) પ્રક્રિયા દરમિયાન ડ્રાય બલ્બ ટેમ્પરેચર પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "પહેલા વધે છે પછી ઘટે છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કૂલિંગ થવાથી ડ્રાય બલ્બ તાપમાન (DBT) ઘટે છે[cite: 5]."
+  },
+  {
+    "id": 139,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "Spray humidifying is a process of adding moisture to air by passing air through:",
+    "gujaratiQuestion": "0139. સ્પ્રે હ્યુમિડિફાઇંગ એ હવામાં ભેજ ઉમેરવાની પ્રક્રિયા છે જેમાં હવાને શેમાંથી પસાર કરવામાં આવે છે?",
+    "options": [
+      "ચિલર",
+      "એર-કન્ડિશનિંગ પ્લાન્ટ",
+      "વોશર્સ",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એર વોશર (Air Washers) માં વોટર સ્પ્રે ચેમ્બરમાંથી હવા પસાર કરીને હ્યુમિડિફિકેશન થાય છે[cite: 5]."
+  },
+  {
+    "id": 140,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "In a heating and humidification process, specific humidity of air:",
+    "gujaratiQuestion": "0140. હીટિંગ અને હ્યુમિડિફિકેશન (Heating and humidification) પ્રક્રિયામાં હવાની સ્પેસિફિક હ્યુમિડિટી...",
+    "options": [
+      "ઘટે છે",
+      "વધે છે",
+      "અચળ રહે છે",
+      "શૂન્ય થાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હ્યુમિડિફિકેશનમાં ભેજ ઉમેરાતો હોવાથી સ્પેસિફિક હ્યુમિડિટી વધે છે[cite: 5]."
+  },
+  {
+    "id": 141,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "What is the correct formula for Sensible Heat Factor (SHF)?",
+    "gujaratiQuestion": "Q141. સેન્સિબલ હીટ ફેક્ટર (Sensible Heat Factor - SHF) માટેનું સાચું સૂત્ર કયું છે?",
+    "options": [
+      "Sensible Heat / Latent Heat",
+      "Latent Heat / Total Heat",
+      "Sensible Heat / Total Heat",
+      "Total Heat / Sensible Heat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "SHF = Sensible Heat / Total Heat = Qs / (Qs + Ql)[cite: 5]."
+  },
+  {
+    "id": 142,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "What is the boiling temperature of Freon-12 (R-12) at atmospheric pressure?",
+    "gujaratiQuestion": "0142. ફ્રિઓન-12 (Fr-12) નું બોઈલિંગ ટેમ્પરેચર કેટલું હોય છે?",
+    "options": [
+      "-33.33°C",
+      "-78.5°C",
+      "-29.8°C",
+      "-40.7°C"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એટમોસ્ફેરિક પ્રેશરે R-12 (Freon-12) નું ઉત્કલનબિંદુ -29.8°C છે[cite: 5]."
+  },
+  {
+    "id": 143,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "What is the value of SHF for a pure sensible cooling process?",
+    "gujaratiQuestion": "0143. માત્ર સેન્સિબલ કૂલિંગ (Sensible cooling) પ્રક્રિયા માટે સેન્સિબલ હીટ ફેક્ટર (SHF) ની વેલ્યુ કેટલી હોય છે?",
+    "options": [
+      "0",
+      "0.5",
+      "1.0",
+      "અનંત"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સેન્સિબલ કૂલિંગમાં લેટન્ટ હીટ 0 હોવાથી SHF = 1.0 થાય છે[cite: 5]."
+  },
+  {
+    "id": 144,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "What is the value of SHF for a pure humidification or dehumidification process?",
+    "gujaratiQuestion": "0144. માત્ર હ્યુમિડિફિકેશન કે ડિહ્યુમિડિફિકેશન પ્રક્રિયા માટે સેન્સિબલ હીટ ફેક્ટર (SHF) નું મૂલ્ય કેટલું થાય છે?",
+    "options": [
+      "0",
+      "0.5",
+      "1.0",
+      "અનંત"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સેન્સિબલ હીટ શૂન્ય હોવાથી SHF = 0 થાય છે[cite: 5]."
+  },
+  {
+    "id": 145,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "In a Vapor Compression Refrigeration cycle, after which component is purging (removal of non-condensable gases) done?",
+    "gujaratiQuestion": "0145. વેપર કમ્પ્રેશન રેફ્રિજરેશન સાયકલમાં, સિસ્ટમમાંથી પર્જિંગ (હવા દૂર કરવી) કયા કમ્પોનન્ટ પછી કરવામાં આવે છે?",
+    "options": [
+      "કમ્પ્રેશન",
+      "કન્ડેન્સેશન",
+      "એક્સપાન્શન ડિવાઇસ પર થ્રોટલિંગ",
+      "ઈવોપરેશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નોન-કન્ડેન્સેબલ વાયુઓ કન્ડેન્સરના ઉપરના ભાગમાં એકઠા થતા હોવાથી કન્ડેન્સેશન પછી પર્જિંગ થાય છે[cite: 5]."
+  },
+  {
+    "id": 146,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "Evaporative cooling process is most effective for which type of climate?",
+    "gujaratiQuestion": "0146. ઈવેપોરેટિવ કૂલિંગ (Evaporative cooling) પ્રક્રિયા કયા પ્રકારના વાતાવરણ માટે સૌથી વધુ અસરકારક છે?",
+    "options": [
+      "ગરમ અને ભેજવાળા",
+      "ઠંડા અને ભેજવાળા",
+      "ગરમ અને સૂકા",
+      "ઠંડા અને સૂકા"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇવેપોરેટિવ કૂલિંગ ગરમ અને સૂકા વાતાવરણમાં મહત્તમ કૂલિંગ આપે છે[cite: 5]."
+  },
+  {
+    "id": 147,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "When two air streams with different states undergo adiabatic mixing, where does the final state lie on psychrometric chart?",
+    "gujaratiQuestion": "Q147. જ્યારે બે અલગ અલગ તાપમાન અને ભેજવાળી હવાના પ્રવાહોને એડિયાબેટિક મિક્સિંગ કરવામાં આવે છે, ત્યારે સાયક્રોમેટ્રિક ચાર્ટ પર અંતિમ સ્થિતિ ક્યાં મળે છે?",
+    "options": [
+      "બંને બિંદુઓને જોડતી સીધી રેખા પર",
+      "બંને બિંદુઓની બહાર",
+      "સેચ્યુરેશન કર્વ પર",
+      "ડ્રાય બલ્બ તાપમાનની રેખા પર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મિક્સિંગ પોઇન્ટ એ બંને શરૂઆતના બિંદુઓને જોડતી સીધી રેખા પર માસ રેશિયો મુજબ સ્થિત હોય છે[cite: 5]."
+  },
+  {
+    "id": 148,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "When is Wet Bulb Depression zero? (When Relative Humidity is equal to:)",
+    "gujaratiQuestion": "0148. વેટ બલ્બ ડિપ્રેશન શૂન્ય ક્યારે હોય છે? (જ્યારે રિલેટિવ હ્યુમિડિટી કોના બરાબર હોય)",
+    "options": [
+      "0",
+      "0.5",
+      "0.75",
+      "1"
+    ],
+    "correctAnswer": 3,
+    "explanation": "જ્યારે RH = 100% (અથવા 1) હોય ત્યારે DBT = WBT હોવાથી વેટ બલ્બ ડિપ્રેશન શૂન્ય બને છે[cite: 5]."
+  },
+  {
+    "id": 149,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "If Bypass Factor of a cooling coil is zero, what does it mean?",
+    "gujaratiQuestion": "0149. જો કૂલિંગ કોઈલનો બાય-પાસ ફેક્ટર (Bypass Factor) શૂન્ય હોય, તો તેનો અર્થ શું થાય?",
+    "options": [
+      "કોઈલની કાર્યક્ષમતા 0% છે",
+      "કોઈલની કાર્યક્ષમતા 50% છે",
+      "કોઈલની કાર્યક્ષમતા 100% છે",
+      "હવા કોઈલને સ્પર્શતી નથી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Efficiency = 1 - BPF. BPF = 0 હોય તો કાર્યક્ષમતા 100% (સંપૂર્ણ કોન્ટેક્ટ) થાય છે[cite: 5]."
+  },
+  {
+    "id": 150,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "Conditioned air supplied to a room must be capable of removing which heat load?",
+    "gujaratiQuestion": "0150. એર-કન્ડિશન્ડ રૂમમાં સપ્લાય કરવામાં આવતી હવા કયા હીટ લોડ (Heat load) ને દૂર કરવા સક્ષમ હોવી જોઈએ?",
+    "options": [
+      "માત્ર રૂમ સેન્સિબલ હીટ લોડ",
+      "માત્ર રૂમ લેટન્ટ હીટ લોડ",
+      "રૂમ સેન્સિબલ અને લેટન્ટ હીટ લોડ બંને",
+      "માત્ર બારીઓનો હીટ લોડ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સપ્લાય હવા રૂમ સેન્સિબલ હીટ અને લેટન્ટ હીટ બંને દૂર કરવા સક્ષમ હોવી જોઈએ[cite: 5]."
+  },
+  {
+    "id": 151,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "How is dry ice manufactured?",
+    "gujaratiQuestion": "0151. ડ્રાય આઈસ કઈ રીતે બનાવવામાં આવે છે?",
+    "options": [
+      "બરફને સૂકવીને (Drying the ice)",
+      "બરફને ઇન્સ્યુલેટેડ ચેમ્બરમાં રાખીને",
+      "લિક્વિડ CO2 ને ઘન (solid) સ્વરૂપમાં ફેરવીને",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લિક્વિડ કાર્બન ડાયોક્સાઇડ (CO2) નું ઝડપી વિસ્તરણ કરીને તેને ઘન સ્વરૂપમાં ફેરવીને ડ્રાય આઈસ બનાવવામાં આવે છે[cite: 5]."
+  },
+  {
+    "id": 152,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "During an adiabatic saturation process, which parameter of air remains nearly constant?",
+    "gujaratiQuestion": "0152. એડિયાબેટિક સેચ્યુરેશન (Adiabatic saturation) પ્રક્રિયા દરમિયાન હવાનું કયું પરિમાણ લગભગ અચળ રહે છે?",
+    "options": [
+      "ડ્રાય બલ્બ તાપમાન",
+      "વેટ બલ્બ તાપમાન",
+      "ડ્યૂ પોઈન્ટ તાપમાન",
+      "સ્પેસિફિક વોલ્યુમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એડિયાબેટિક સેચ્યુરેશન દરમિયાન હવા અને પાણી વચ્ચે થર્મલ સંતુલન સ્થપાતાં વેટ બલ્બ તાપમાન (WBT) લગભગ અચળ રહે છે[cite: 5]."
+  },
+  {
+    "id": 153,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "Which process is generally performed in winter air-conditioning?",
+    "gujaratiQuestion": "0153. શિયાળાના એર-કન્ડિશનિંગ (Winter air-conditioning) માં સામાન્ય રીતે કઈ પ્રક્રિયા કરવામાં આવે છે?",
+    "options": [
+      "કૂલિંગ અને ડિહ્યુમિડિફિકેશન",
+      "હીટિંગ અને ડિહ્યુમિડિફિકેશન",
+      "હીટિંગ અને હ્યુમિડિફિકેશન",
+      "સેન્સિબલ કૂલિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "શિયાળામાં હવા ઠંડી અને સૂકી હોવાથી તેને ગરમ કરીને ભેજ ઉમેરવાની (હીટિંગ અને હ્યુમિડિફિકેશન) જરૂર પડે છે[cite: 5]."
+  },
+  {
+    "id": 154,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "Which psychrometric process is mainly used in summer air-conditioning?",
+    "gujaratiQuestion": "0154. ઉનાળાના એર-કન્ડિશનિંગ (Summer air-conditioning) માં મુખ્યત્વે કઈ સાયક્રોમેટ્રિક પ્રક્રિયાનો ઉપયોગ થાય છે?",
+    "options": [
+      "કૂલિંગ અને ડિહ્યુમિડિફિકેશન",
+      "હીટિંગ અને હ્યુમિડિફિકેશન",
+      "સેન્સિબલ હીટિંગ",
+      "એડિયાબેટિક મિક્સિંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ઉનાળામાં કમ્ફર્ટ માટે તાપમાન ઘટાડવું અને વધારાનો ભેજ દૂર કરવો (કૂલિંગ અને ડિહ્યુમિડિફિકેશન) જરૂરી છે[cite: 5]."
+  },
+  {
+    "id": 155,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "During a refrigeration cycle, into which component is heat rejected by the refrigerant?",
+    "gujaratiQuestion": "0155. રેફ્રિજરેશન સાયકલ દરમિયાન, રેફ્રિજરેન્ટ દ્વારા હીટ શેમાં રિજેક્ટ કરવામાં આવે છે?",
+    "options": [
+      "કોમ્પ્રેસર",
+      "કન્ડેન્સર",
+      "ઈવેપોરેટર",
+      "એક્સપાન્શન વાલ્વ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કન્ડેન્સરમાં ઉચ્ચ દબાણે વરાળ રેફ્રિજરેન્ટ પોતાની ઉષ્મા વાતાવરણ અથવા કૂલિંગ મીડિયમમાં રિજેક્ટ કરે છે[cite: 5]."
+  },
+  {
+    "id": 157,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "In chemical dehumidification process, how does a moisture absorbing material (e.g., silica gel) affect the air?",
+    "gujaratiQuestion": "0157. કેમિકલ ડિહ્યુમિડિફિકેશન (Chemical dehumidification) પ્રક્રિયામાં ભેજ શોષનાર પદાર્થ (દા.ત. સિલિકા જેલ) હવા પર કઈ અસર કરે છે?",
+    "options": [
+      "હવાને ઠંડી કરે છે અને ભેજ ઘટાડે છે",
+      "હવાને ગરમ કરે છે અને ભેજ ઘટાડે છે",
+      "હવાને ગરમ કરે છે અને ભેજ વધારે છે",
+      "કોઈ તાપમાનની અસર કરતું નથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ભેજ શોષાતાં શોષણની ગુપ્ત ઉષ્મા (Heat of adsorption) મુક્ત થવાથી હવાનું તાપમાન વધે છે અને ભેજ ઘટે છે[cite: 5]."
+  },
+  {
+    "id": 158,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Vapor Refrigeration Cycles",
+    "question": "In a refrigeration cycle, sub-cooling leads to:",
+    "gujaratiQuestion": "0158. રેફ્રિજરેશન સાયકલમાં સબ કૂલિંગથી...",
+    "options": [
+      "C.O.P. વધે છે",
+      "કૂલિંગ ઘટે છે",
+      "કમ્પ્રેશન વર્ક વધે છે",
+      "કન્ડેન્સરની સાઈઝ ઘટે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સબ-કૂલિંગથી કમ્પ્રેસર વર્ક વધ્યા વિના રેફ્રિજરેટિંગ ઇફેક્ટ વધે છે, જેથી સાયકલનો C.O.P. વધે છે[cite: 5]."
+  },
+  {
+    "id": 159,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "What is the process of removing moisture from air while keeping Dry Bulb Temperature constant called?",
+    "gujaratiQuestion": "0159. ડ્રાય બલ્બ ટેમ્પરેચર અચળ રાખીને હવામાંથી ભેજ દૂર કરવાની પ્રક્રિયાને શું કહેવાય છે?",
+    "options": [
+      "સેન્સિબલ કૂલિંગ",
+      "માત્ર ડિહ્યુમિડિફિકેશન",
+      "હ્યુમિડિફિકેશન",
+      "એડિયાબેટિક કૂલિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DBT બદલ્યા વગર માત્ર હવામાંથી ભેજ દૂર કરવાની પ્રક્રિયાને માત્ર ડિહ્યુમિડિફિકેશન (Pure dehumidification) કહે છે[cite: 5]."
+  },
+  {
+    "id": 160,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "During a sensible heating process, specific volume of air:",
+    "gujaratiQuestion": "0160. સેન્સિબલ હીટિંગ (Sensible heating) પ્રક્રિયા દરમિયાન હવાનું સ્પેસિફિક વોલ્યુમ (Specific volume)...",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "પહેલા વધે છે પછી ઘટે છે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "તાપમાન વધવાથી હવા વિસ્તરણ પામે છે અને તેની ઘનતા ઘટતાં સ્પેસિફિક વોલ્યુમ વધે છે[cite: 5]."
+  },
+  {
+    "id": 161,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Psychrometric Chart",
+    "question": "On a psychrometric chart, sensible cooling is represented by which line?",
+    "gujaratiQuestion": "0161. સાયક્રોમેટ્રિક ચાર્ટ પર, સેન્સિબલ કૂલિંગ કઈ રેખા દ્વારા દર્શાવવામાં આવે છે?",
+    "options": [
+      "આડી રેખા (Horizontal line)",
+      "ત્રાંસી રેખા (Inclined line)",
+      "ઊભી રેખા (Vertical Line)",
+      "આમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્પેસિફિક હ્યુમિડિટી અચળ રહેતી હોવાથી સેન્સિબલ કૂલિંગ ડાબી તરફ જતી આડી રેખા (Horizontal line) વડે દર્શાવાય છે[cite: 5]."
+  },
+  {
+    "id": 162,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "If relative humidity of air is 100%, what will be the wet bulb depression?",
+    "gujaratiQuestion": "0162. જો હવાની રિલેટિવ હ્યુમિડિટી 100% હોય, તો વેટ બલ્બ-ડિપ્રેશન (Wet bulb depression) કેટલું હશે?",
+    "options": [
+      "મહત્તમ",
+      "0",
+      "50",
+      "100"
+    ],
+    "correctAnswer": 1,
+    "explanation": "100% RH પર DBT અને WBT સમાન હોવાથી વેટ બલ્બ ડિપ્રેશન (DBT - WBT) શૂન્ય (0) થાય છે[cite: 5]."
+  },
+  {
+    "id": 163,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "In a dehumidification process, what is the general effect on relative humidity of air?",
+    "gujaratiQuestion": "0163. ડિહ્યુમિડિફિકેશન (Dehumidification) પ્રક્રિયામાં હવાની રિલેટિવ હ્યુમિડિટી પર સામાન્ય રીતે શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "અચળ રહે છે",
+      "100% થઈ જાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હવામાંથી પાણીની વરાળ દૂર થવાથી રિલેટિવ હ્યુમિડિટી સામાન્ય રીતે ઘટે છે[cite: 5]."
+  },
+  {
+    "id": 164,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "Air-water vapor mixture at 1 bar and 35°C has RH = 75%. If Psat at 35°C is 0.05622 bar, find specific humidity (kg/kg dry air).",
+    "gujaratiQuestion": "0164. હવા અને વોટર વેપરનું મિશ્રણ 1 bar પ્રેશર અને 35°C ટેમ્પરેચરે રહેલું છે જેની રિલેટિવ હ્યુમિડિટી 75% છે. જો 35°C પર વોટર વેપરનું સેચ્યુરેશન પ્રેશર 0.05622 bar હોય, તો ડ્રાય એરની સ્પેસિફિક હ્યુમિડિટી (kg/kg ડ્રાય એરમાં) કેટલી હશે?",
+    "options": [
+      "0.29",
+      "0.027",
+      "0.025",
+      "0.020"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pv = 0.75 × 0.05622 = 0.04216 bar. W = 0.622 × Pv / (P - Pv) = 0.622 × 0.04216 / (1 - 0.04216) ≈ 0.0273 kg/kg dry air[cite: 5]."
+  },
+  {
+    "id": 165,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "A psychrometric process in which there is no change in latent heat is called:",
+    "gujaratiQuestion": "0165. એવી સાયક્રોમેટ્રિક પ્રક્રિયા જેમાં લેટન્ટ હીટ (Latent heat) માં કોઈ ફેરફાર થતો નથી, તેને કઈ પ્રક્રિયા કહેવાય છે?",
+    "options": [
+      "હ્યુમિડિફિકેશન",
+      "ડિહ્યુમિડિફિકેશન",
+      "સેન્સિબલ હીટિંગ અથવા કૂલિંગ",
+      "એડિયાબેટિક સેચ્યુરેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સેન્સિબલ હીટિંગ કે કૂલિંગ દરમિયાન ભેજનું પ્રમાણ અચળ રહેતું હોવાથી લેટન્ટ હીટમાં કોઈ ફેરફાર થતો નથી[cite: 5]."
+  },
+  {
+    "id": 166,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "What is the total heat present in moist air per kilogram of dry air called?",
+    "gujaratiQuestion": "0166. 1 કિલોગ્રામ ડ્રાય એર દીઠ મોઈસ્ટ એરમાં રહેલી કુલ ઉષ્માને શું કહેવામાં આવે છે?",
+    "options": [
+      "રિલેટિવ હ્યુમિડિટી",
+      "એન્થેલ્પી ઓફ મોઈસ્ટ એર",
+      "સ્પેસિફિક વૉલ્યુમ",
+      "ડ્યૂ પોઈન્ટ તાપમાન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રતિ કિલોગ્રામ શુષ્ક હવા દીઠ રહેલી કુલ ઉષ્મા સામગ્રીને એન્થેલ્પી ઓફ મોઈસ્ટ એર (Enthalpy) કહે છે[cite: 5]."
+  },
+  {
+    "id": 167,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "For air having 80% relative humidity:",
+    "gujaratiQuestion": "0167. 80% રિલેટિવ હ્યુમિડિટી ધરાવતી હવા માટે:",
+    "options": [
+      "ડ્રાય બલ્બ ટેમ્પરેચર વેટ બલ્બ ટેમ્પરેચર કરતા ઓછું હોય છે",
+      "ડ્યૂ પોઈન્ટ ટેમ્પરેચર વેટ બલ્બ ટેમ્પરેચર કરતા ઓછું હોય છે",
+      "ડ્યૂ પોઇન્ટ અને વેટ બલ્બ ટેમ્પરેચર સમાન હોય છે",
+      "ડ્રાય બલ્બ અને ડ્યૂ પોઈન્ટ ટેમ્પરેચર સમાન હોય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અસંતૃપ્ત હવામાં હંમેશા DBT > WBT > DPT સંબંધ જળવાય છે, તેથી DPT એ WBT કરતાં ઓછું હોય છે[cite: 5]."
+  },
+  {
+    "id": 168,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "On what factors does the bypass factor of a cooling coil depend?",
+    "gujaratiQuestion": "0168. કૂલિંગ કોઈલ પરથી પસાર થતી હવાનો બાય-પાસ ફેક્ટર (Bypass factor) કોના પર આધાર રાખે છે?",
+    "options": [
+      "કોઈલની ફિન્સની સંખ્યા પર",
+      "હવાની વેલોસિટી પર",
+      "કોઈલની સપાટીના વિસ્તાર પર",
+      "આપેલ તમામ પર"
+    ],
+    "correctAnswer": 3,
+    "explanation": "બાયપાસ ફેક્ટર ફિન્સની સંખ્યા, હવાની ઝડપ, કોઈલની ઊંડાઈ અને સંપર્ક સપાટી વિસ્તાર જેવા તમામ પરિબળો પર આધાર રાખે છે[cite: 5]."
+  },
+  {
+    "id": 169,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "Which process is characterized by a decrease in Dry Bulb Temperature while specific humidity remains constant?",
+    "gujaratiQuestion": "0169. એવી કઈ પ્રક્રિયા છે જેમાં ડ્રાય બલ્બ તાપમાન ઘટે છે પરંતુ સ્પેસિફિક હ્યુમિડિટી અચળ રહે છે?",
+    "options": [
+      "સેન્સિબલ કૂલિંગ",
+      "સેન્સિબલ હીટિંગ",
+      "હ્યુમિડિફિકેશન",
+      "ડિહ્યુમિડિફિકેશન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સેન્સિબલ કૂલિંગમાં ભેજ બદલ્યા વગર હવાનું તાપમાન (DBT) ઘટાડવામાં આવે છે[cite: 5]."
+  },
+  {
+    "id": 170,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "What is the typical COP of a domestic refrigerator?",
+    "gujaratiQuestion": "Q170. ડોમેસ્ટિક રેફ્રિજરેટરનો COP કેટલો હોય છે?",
+    "options": [
+      "1ને સમાન",
+      "1 કરતા ઓછો",
+      "1 કરતા વધારે",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સામાન્ય ઘરેલુ રેફ્રિજરેટરનો COP વ્યવહારમાં 1.5 થી 3.0 ની વચ્ચે (એટલે કે 1 કરતાં વધારે) હોય છે[cite: 5]."
+  },
+  {
+    "id": 171,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "What is the formula to find Room Sensible Heat Factor (RSHF)? (RSH = Room Sensible Heat, RLH = Room Latent Heat)",
+    "gujaratiQuestion": "0171. રૂમ સેન્સિબલ હીટ ફેક્ટર (RSHF) શોધવાનું સમીકરણ કયું છે? (RSH = Room Sensible Heat, RLH = Room Latent Heat)",
+    "options": [
+      "RSH / (RSH + RLH)",
+      "RLH / (RSH + RLH)",
+      "RSH / RLH",
+      "RLH / RSH"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RSHF = Room Sensible Heat / Total Room Heat = RSH / (RSH + RLH)[cite: 5]."
+  },
+  {
+    "id": 172,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "What is the process of adding moisture to air without changing its temperature called?",
+    "gujaratiQuestion": "Q172. હવામાં ભેજ ઉમેરવાની પ્રક્રિયાને (તાપમાન બદલ્યા વગર) શું કહેવાય છે?",
+    "options": [
+      "સેન્સિબલ હીટિંગ",
+      "સેન્સિબલ કૂલિંગ",
+      "માત્ર હ્યુમિડિફિકેશન",
+      "ડિહ્યુમિડિફિકેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "તાપમાન અચળ રાખીને માત્ર ભેજ ઉમેરવાની પ્રક્રિયાને માત્ર હ્યુમિડિફિકેશન (Pure humidification) કહે છે[cite: 5]."
+  },
+  {
+    "id": 173,
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "On which thermoelectric effect is a thermoelectric refrigeration system based?",
+    "gujaratiQuestion": "0173. થર્મોઇલેક્ટ્રિક રેફ્રિજરેશન સિસ્ટમ કોના પર આધારિત છે?",
+    "options": [
+      "પેલ્ટિયર ઇફેક્ટ (Peltier effect)",
+      "સીબેક ઇફેક્ટ (Seebeck effect)",
+      "જૂલ ઇફેક્ટ (Joule effect)",
+      "આમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "જ્યારે બે અલગ અર્ધવાહકોના જંકશનમાંથી પ્રવાહ પસાર થાય ત્યારે એક જંકશન ઠંડુ થાય છે અને બીજું ગરમ થાય છે, જેને પેલ્ટિયર ઇફેક્ટ કહે છે[cite: 5]."
+  },
+  {
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "For a vapour-compression refrigeration system, COP is usually:",
+    "gujaratiQuestion": "Vapour-compression refrigeration system માટે COP સામાન્ય રીતે કેવો હોય છે?",
+    "options": [
+      "Less than unity",
+      "Greater than unity",
+      "Exactly unity",
+      "Always zero"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. COP_R = refrigeration effect/work input and can exceed 1.",
+    "id": 174
+  },
+  {
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Basic Psychrometric Processes",
+    "question": "Mixing two streams of moist air without external heat/work is treated as a:",
+    "gujaratiQuestion": "બે moist-air streamsનું mixing external heat/work વગર થાય તો તેને શું માનવામાં આવે છે?",
+    "options": [
+      "Adiabatic process",
+      "Isothermal process",
+      "Constant-volume process",
+      "Constant-pressure process"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Air mixing in a duct is commonly modeled as adiabatic with negligible external work.",
+    "id": 175
+  },
+  {
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Air Conditioning Fundamentals",
+    "question": "Sensible cooling of moist air without moisture removal causes:",
+    "gujaratiQuestion": "Moist airનું sensible cooling moisture removal વગર થાય તો શું બદલાય?",
+    "options": [
+      "Dry-bulb temperature decreases",
+      "Humidity ratio decreases necessarily",
+      "Pressure becomes zero",
+      "Enthalpy always increases"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expected MCQ: Sensible cooling reduces dry-bulb temperature; moisture content need not change.",
+    "id": 176
+  },
+  {
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigeration Effect & COP",
+    "question": "For a refrigerator, COP is defined as:",
+    "gujaratiQuestion": "Refrigerator માટે COPનું definition શું છે?",
+    "options": [
+      "W/QL",
+      "QL/W",
+      "QH/W",
+      "W/QH"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: COPR=QL/Winput.",
+    "id": 177
+  },
+  {
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Properties of Moist Air",
+    "question": "Relative humidity is the ratio of actual vapour pressure to:",
+    "gujaratiQuestion": "Relative humidity actual vapour pressureનો કયા pressure સાથે ratio છે?",
+    "options": [
+      "Critical pressure",
+      "Saturation vapour pressure at the same temperature",
+      "Atmospheric pressure only",
+      "Dynamic pressure"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: φ=pv/ps at the same temperature.",
+    "id": 178
+  },
+  {
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Psychrometric Chart",
+    "question": "On a psychrometric chart, dry-bulb temperature lines are generally:",
+    "gujaratiQuestion": "Psychrometric chart પર dry-bulb temperature lines સામાન્ય રીતે કેવી હોય છે?",
+    "options": [
+      "Horizontal",
+      "Vertical",
+      "Circular",
+      "Random"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: DBT lines are vertical on the standard psychrometric chart.",
+    "id": 179
+  },
+  {
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Heat Pump Cycles",
+    "question": "For the same operating conditions, COP of a heat pump is related to refrigerator COP by:",
+    "gujaratiQuestion": "Same conditions માટે heat-pump COP અને refrigerator COP વચ્ચે શું relation છે?",
+    "options": [
+      "COPHP=COPR−1",
+      "COPHP=COPR+1",
+      "COPHP=COPR",
+      "COPHP=1/COPR"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: QH=QL+W, so COPHP=COPR+1.",
+    "id": 180
+  }
+]

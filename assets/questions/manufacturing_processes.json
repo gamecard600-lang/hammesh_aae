@@ -1,0 +1,3317 @@
+[
+  {
+    "id": 1,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "In which casting process is a wax pattern used?",
+    "gujaratiQuestion": "01. કઈ કાસ્ટિંગ પ્રક્રિયામાં મીણની (Wax) પેટર્નનો ઉપયોગ થાય છે?",
+    "options": [
+      "સેન્ડ કાસ્ટિંગ",
+      "ડાઈ કાસ્ટિંગ",
+      "સેન્ટ્રીફયુગલ કાસ્ટિંગ",
+      "ઇન્વેસ્ટમેન્ટ કાસ્ટિંગ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઇન્વેસ્ટમેન્ટ કાસ્ટિંગમાં મીણ (Wax) ની પેટર્ન બનાવી તેના પર સિરામિકનું કોટિંગ કરીને મોલ્ડ તૈયાર કરાય છે[cite: 6]."
+  },
+  {
+    "id": 2,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "Which casting process is used to make hollow pipes without using a core?",
+    "gujaratiQuestion": "02. કોરના ઉપયોગ વિના પોલા પાઈપ બનાવવા કઈ કાસ્ટિંગ પ્રક્રિયા વપરાય છે?",
+    "options": [
+      "ડાઈ કાસ્ટિંગ",
+      "ઈન્વેસ્ટમેન્ટ કાસ્ટિંગ",
+      "સેન્ટ્રીફયુગલ કાસ્ટિંગ",
+      "શેલ મોલ્ડિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સેન્ટ્રીફ્યુગલ કાસ્ટિંગમાં કેન્દ્રત્યાગી બળને લીધે પ્રવાહી ધાતુ બહારની તરફ ધકેલાય છે, જેથી સેન્ટ્રલ કોર વિના પોલા નળાકાર પાઈપ બને છે[cite: 6]."
+  },
+  {
+    "id": 3,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "Which type of die casting is used for metals like aluminum?",
+    "gujaratiQuestion": "03. એલ્યુમિનિયમ જેવી ધાતુઓ માટે કયા પ્રકારનું ડાઈ કાસ્ટિંગ વપરાય છે?",
+    "options": [
+      "હોટ ચેમ્બર",
+      "કોલ્ડ ચેમ્બર",
+      "વેક્યુમ ચેમ્બર",
+      "સ્લશ કાસ્ટિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એલ્યુમિનિયમનું ગલનબિંદુ ઊંચું હોવાથી પમ્પિંગ સિલિન્ડરનું ધોવાણ ન થાય તે માટે કોલ્ડ ચેમ્બર ડાઈ કાસ્ટિંગ વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 4,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "Which of the following properties is NOT desired for a good gating system?",
+    "gujaratiQuestion": "Q4. સારા ગેટિંગ સિસ્ટમ માટે નીચેનામાંથી કઈ પ્રોપર્ટી ઇચ્છનીય (desired) નથી?",
+    "options": [
+      "પીગળેલી મેટલનો સ્મૂથ અને યુનિફોર્મ ફ્લો",
+      "ટર્બ્યુલન્સમાં ઘટાડો",
+      "કેવિટી ભરાય તે પહેલાં ઝડપી સોલિડિફિકેશન",
+      "કાસ્ટિંગ પછી સરળતાથી દૂર કરી શકાય તેવું"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મોલ્ડ કેવિટી સંપૂર્ણપણે ભરાય તે પહેલાં જ ધાતુનું જામી જવું (સોલિડિફિકેશન થવું) એ અનિચ્છનીય ખામી (Misrun) પેદા કરે છે[cite: 6]."
+  },
+  {
+    "id": 5,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "What is used as a binder in shell molding?",
+    "gujaratiQuestion": "05. શેલ મોલ્ડિંગમાં બાઈન્ડર તરીકે શું વપરાય છે?",
+    "options": [
+      "માટી",
+      "ફેનોલિક રેઝિન",
+      "સોડિયમ સિલિકેટ",
+      "પાણી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "શેલ મોલ્ડિંગમાં સિલિકા રેતી સાથે થર્મોસેટિંગ પ્લાસ્ટિક જેમ કે ફેનોલિક રેઝિન બાઈન્ડર તરીકે વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 6,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "Which casting method is used for making hollow ornaments and toys?",
+    "gujaratiQuestion": "06. પોલા આભૂષણો અને રમકડાં બનાવવા માટે કઈ કાસ્ટિંગ પદ્ધતિ વપરાય છે?",
+    "options": [
+      "સ્લશ કાસ્ટિંગ",
+      "ડાઈ કાસ્ટિંગ",
+      "ઈન્વેસ્ટમેન્ટ કાસ્ટિંગ",
+      "સેન્ડ કાસ્ટિંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્લશ કાસ્ટિંગમાં મોલ્ડની દીવાલ પર પાતળું શેલ બન્યા પછી બાકીનું પ્રવાહી ઉલટાવીને કાઢી લેવામાં આવે છે, જેથી પોલા રમકડાં અને આભૂષણો બને છે[cite: 6]."
+  },
+  {
+    "id": 7,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "Which molding method uses reusable metal molds for high-volume production?",
+    "gujaratiQuestion": "Q7. હાઈ-વોલ્યુમ પ્રોડક્શન માટે કઈ મોલ્ડિંગ મેથડમાં ફરીથી વાપરી શકાય તેવા (reusable) મેટલ મોલ્ડનો ઉપયોગ થાય છે?",
+    "options": [
+      "શેલ મોલ્ડિંગ",
+      "ડાઇ કાસ્ટિંગ",
+      "સેન્ડ કાસ્ટિંગ",
+      "ઇન્વેસ્ટમેન્ટ કાસ્ટિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડાઇ કાસ્ટિંગ (Permanent mold casting) માં મેટાલિક ડાઇસ વારંવાર ઉપયોગમાં લેવાય છે[cite: 6]."
+  },
+  {
+    "id": 8,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "Which allowance is provided on a pattern to compensate for metal shrinkage during cooling?",
+    "gujaratiQuestion": "Q8. કાસ્ટિંગ ઠંડુ પડતી વખતે થતા સંકોચનને સરભર કરવા પેટર્ન પર કયું એલાઉન્સ અપાય છે?",
+    "options": [
+      "ડ્રાફ્ટ એલાઉન્સ",
+      "મશીનિંગ એલાઉન્સ",
+      "શ્રિન્કેજ એલાઉન્સ",
+      "શેકિંગ એલાઉન્સ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પીગળેલી ધાતુ ઠંડી પડતાં થતા ઘન સંકોચનને સરભર કરવા પેટર્નને મૂળ માપ કરતાં સહેજ મોટી બનાવાય છે, જેને શ્રિન્કેજ એલાઉન્સ કહે છે[cite: 6]."
+  },
+  {
+    "id": 9,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "What is the taper given on vertical surfaces of a pattern for easy removal from the mold called?",
+    "gujaratiQuestion": "Q9. મોલ્ડમાંથી પેટર્નને સરળતાથી બહાર કાઢવા માટે પેટર્નની ઊભી સપાટી પર કયો ઢાળ આપવામાં આવે છે?",
+    "options": [
+      "શેકિંગ એલાઉન્સ",
+      "ડ્રાફ્ટ એલાઉન્સ",
+      "ડિસ્ટોર્શન એલાઉન્સ",
+      "મશીનિંગ એલાઉન્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોલ્ડની રેતીની કેવિટી તૂટ્યા વિના પેટર્ન સહેલાઈથી ઊભી ખેંચી શકાય તે માટે અપાતા ઢાળને ડ્રાફ્ટ એલાઉન્સ કહે છે[cite: 6]."
+  },
+  {
+    "id": 10,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Forging, Rolling, Extrusion & Drawing",
+    "question": "In open-die forging, the metal is:",
+    "gujaratiQuestion": "010. ઓપન-ડાઈ ફોર્જિંગમાં, મેટલ...",
+    "options": [
+      "ડાઈમાં સંપૂર્ણપણે બંધ (enclosed) હોય છે",
+      "ડાઈ વિના જ ઇમ્પેક્ટ હેઠળ હોય છે",
+      "ફ્લેટ અથવા સિમ્પલ ડાઇસ વચ્ચે કમ્પ્રેસ થાય છે",
+      "બંધ ચેમ્બરમાં ગરમ થાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઓપન-ડાઇ ફોર્જિંગમાં વર્કપીસ સાદા આકારની કે સપાટ ડાઇ વચ્ચે કમ્પ્રેસ થાય છે અને બાજુઓ પર મુક્તપણે વિસ્તરે છે[cite: 6]."
+  },
+  {
+    "id": 11,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "Which allowance is given to prevent U-shaped castings from warping?",
+    "gujaratiQuestion": "011. U-આકારના કાસ્ટિંગને વળી જતું રોકવા કયું એલાઉન્સ અપાય છે?",
+    "options": [
+      "ડ્રાફ્ટ એલાઉન્સ",
+      "કેમ્બર (ડિસ્ટોર્શન) એલાઉન્સ",
+      "મશીનિંગ એલાઉન્સ",
+      "શ્રિન્કેજ એલાઉન્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અસમાન સંકોચનથી થતા વાંકા વળવા સામે પેટર્નને વિરુદ્ધ દિશામાં પૂર્વનિર્ધારિત ઢાળ આપવા કેમ્બર અથવા ડિસ્ટોર્શન એલાઉન્સ અપાય છે[cite: 6]."
+  },
+  {
+    "id": 12,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "Which pattern is mostly used in machine molding?",
+    "gujaratiQuestion": "Q12. મશીન મોલ્ડિંગમાં મોટાભાગે કઈ પેટર્નનો ઉપયોગ થાય છે?",
+    "options": [
+      "લૂઝ પીસ પેટર્ન",
+      "સ્વીપ પેટર્ન",
+      "મેચ પ્લેટ પેટર્ન",
+      "ગેટિડ પેટર્ન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઝડપી અને લાર્જ સ્કેલ મશીન મોલ્ડિંગ માટે મેચ પ્લેટ પેટર્નનો વ્યાપક ઉપયોગ થાય છે[cite: 6]."
+  },
+  {
+    "id": 13,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Which gas is commonly used as a shielding gas in Metal Inert Gas (MIG) welding?",
+    "gujaratiQuestion": "013. મેટલ ઇનર્ટ ગેસ (MIG) વેલ્ડિંગમાં શિલ્ડિંગ ગેસ તરીકે સામાન્ય રીતે કયા ગેસનો ઉપયોગ થાય છે?",
+    "options": [
+      "શુદ્ધ કાર્બન ડાયોક્સાઇડ (CO2)",
+      "ઓક્સિજન",
+      "આર્ગોન (અથવા આર્ગોન મિક્સ)",
+      "નાઇટ્રોજન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "MIG વેલ્ડિંગમાં નિષ્ક્રિય વાતાવરણ બનાવવા માટે આર્ગોન અથવા હિલીયમ જેવા ઇનર્ટ ગેસનું મિશ્રણ વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 14,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "Which pattern is used for large and symmetrical circular shapes like bells?",
+    "gujaratiQuestion": "014. બેલ (ઘંટ) જેવા મોટા અને ગોળાકાર આકારો માટે કઈ પેટર્ન વપરાય છે?",
+    "options": [
+      "સ્વીપ પેટર્ન",
+      "સ્પ્લિટ પેટર્ન",
+      "ફોલો-બોર્ડ પેટર્ન",
+      "મેચ પ્લેટ પેટર્ન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પરિભ્રમણીય સમપ્રમાણ આકાર ધરાવતા મોટા ભાગો માટે 2D કન્ટેનર પ્રોફાઇલ ફેરવીને સ્વીપ પેટર્ન વડે કેવિટી બનાવાય છે[cite: 6]."
+  },
+  {
+    "id": 15,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "What is used to create a cavity or hole in a casting?",
+    "gujaratiQuestion": "015. કાસ્ટિંગમાં પોલાણ (Hole) બનાવવા માટે શેનો ઉપયોગ થાય છે?",
+    "options": [
+      "રાઇઝર",
+      "કોર",
+      "સ્પુ",
+      "ચિલ્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કાસ્ટિંગમાં આંતરિક પોલાણ, છિદ્ર કે પેસેજ રચવા માટે બેક કરેલી રેતીમાંથી બનાવેલ કોર વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 16,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "In Naval Research Laboratory (NRL) riser design charts, solidification characteristics are expressed using:",
+    "gujaratiQuestion": "016. નેવલ રિસર્ચ લેબોરેટરી (NRL) રાઈઝર ડિઝાઈન ચાર્ટ્સમાં, કાસ્ટિંગની સોલિડિફિકેશન લાક્ષણિકતાઓ શેનો ઉપયોગ કરીને દર્શાવવામાં આવે છે?",
+    "options": [
+      "થર્મલ કન્ડક્ટિવિટી",
+      "શેપ ફેક્ટર",
+      "શ્રિન્કેજ ફેક્ટર",
+      "ડ્રાફ્ટ એંગલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NRL મેથડમાં કાસ્ટિંગના પરિમાણોના આધારે શેપ ફેક્ટર (Length + Width) / Thickness નો ઉપયોગ થાય છે[cite: 6]."
+  },
+  {
+    "id": 17,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "What is the extra projection provided on a pattern to seat the core properly in the mold called?",
+    "gujaratiQuestion": "017. મોલ્ડમાં કોરને યોગ્ય સ્થાને બેસાડવા માટે પેટર્ન પર અપાતા વધારાના ભાગને શું કહે છે?",
+    "options": [
+      "ચેપલેટ",
+      "કોર પ્રિન્ટ",
+      "રનર",
+      "ગેટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કોરને મોલ્ડની અંદર તેના સ્થાને ટેકો આપી બેસાડવા પેટર્ન પર કોર પ્રિન્ટ (Core print) બનાવવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 18,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "What are the metallic supports used to support the core inside the mold cavity called?",
+    "gujaratiQuestion": "Q18. મોલ્ડમાં કોરને ટેકો આપવા માટે વપરાતા ધાતુના ટુકડાને શું કહે છે?",
+    "options": [
+      "રાઇઝર",
+      "ચેપલેટ",
+      "સ્પુ બેસિન",
+      "ડ્રાફ્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કોરને તેના પોતાના વજન કે પ્રવાહી ધાતુના બળ સામે ટેકો આપવા ધાતુના ચેપલેટ્સ (Chaplets) વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 19,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Sheet Metal Forming Processes",
+    "question": "In which type of bending is a punch used to press the sheet into a die cavity?",
+    "gujaratiQuestion": "019. કયા પ્રકારના બેન્ડિંગમાં પંચનો ઉપયોગ કરીને શીટને ડાઈ કેવિટીમાં પ્રેસ કરવામાં આવે છે?",
+    "options": [
+      "રોલ બેન્ડિંગ",
+      "વાઈપ બેન્ડિંગ",
+      "V-બેન્ડિંગ",
+      "એર બેન્ડિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "V-બેન્ડિંગમાં પંચ અને V-આકારની ડાઈ કેવિટી વચ્ચે શીટને દબાવીને ચોક્કસ ખૂણે વાળવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 20,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "What does the word 'green' signify in green sand molding?",
+    "gujaratiQuestion": "020. ગ્રીન સેન્ડ મોલ્ડિંગમાં 'ગ્રીન' શબ્દ શું દર્શાવે છે?",
+    "options": [
+      "લીલો રંગ",
+      "માટીનું પ્રમાણ",
+      "રેતીમાં રહેલો ભેજ",
+      "તાપમાન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગ્રીન સેન્ડમાં 'ગ્રીન' શબ્દ રેતીની અંદર ભેજ/પાણી (Moisture) ની હાજરી દર્શાવે છે[cite: 6]."
+  },
+  {
+    "id": 21,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "What is the topmost part of a molding flask called?",
+    "gujaratiQuestion": "021. મોલ્ડિંગ ફ્લાસ્કના સૌથી ઉપરના ભાગને શું કહેવાય છે?",
+    "options": [
+      "ડ્રેગ",
+      "ચીક",
+      "કોપ",
+      "બેઝ પ્લેટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મોલ્ડિંગ બોક્સના ઉપરના ભાગને કોપ (Cope) અને નીચેના ભાગને ડ્રેગ (Drag) કહે છે[cite: 6]."
+  },
+  {
+    "id": 22,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "In Shielded Metal Arc Welding (SMAW), the electrode serves which purpose?",
+    "gujaratiQuestion": "022. શિલ્ડેડ મેટલ આર્ક વેલ્ડિંગ (SMAW) માં, ઈલેક્ટ્રોડ નીચેનામાંથી કયો હેતુ પૂરો પાડે છે?",
+    "options": [
+      "માત્ર શિલ્ડિંગ ગેસ પૂરો પાડે છે",
+      "માત્ર આર્ક ઇનિશિએશન પૂરું પાડે છે",
+      "ફિલર મેટલ અને કન્ડક્ટર એમ બંને તરીકે કાર્ય કરે છે",
+      "માત્ર બેઝ મેટલને પીગળાવે છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "SMAW માં કન્ઝ્યુમેબલ ઇલેક્ટ્રોડ કરંટનું વહન કરવા ઉપરાંત ઓગળીને ફિલર મેટલ તરીકે પણ કાર્ય કરે છે[cite: 6]."
+  },
+  {
+    "id": 23,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "Which sand is commonly used for making cores?",
+    "gujaratiQuestion": "023. કોર બનાવવા માટે સામાન્ય રીતે કઈ રેતીનો ઉપયોગ થાય છે?",
+    "options": [
+      "ગ્રીન સેન્ડ",
+      "ઓઈલ સેન્ડ",
+      "બેકિંગ સેન્ડ",
+      "પાર્ટિંગ સેન્ડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કોર બનાવવા માટે ઓર્ગેનિક બાઈન્ડર અને ઓઈલ ધરાવતી ઓઈલ સેન્ડ (Core sand) વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 24,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "According to Chvorinov's rule, solidification time (t) is proportional to:",
+    "gujaratiQuestion": "024. સ્વૉરિનોવના નિયમ મુજબ, સોલિડિફિકેશન સમય (t) કોના સમપ્રમાણમાં હોય છે?",
+    "options": [
+      "V / A",
+      "(V / A)²",
+      "(A / V)²",
+      "(V / A)³"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ચ્વોરિનોવના નિયમ મુજબ ઘનીકરણ સમય ts = k · (V / A)² અનુસાર (V/A)² ના સમપ્રમાણમાં હોય છે[cite: 6]."
+  },
+  {
+    "id": 25,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Excessive weld spatter is generally caused by:",
+    "gujaratiQuestion": "025. વધુ પડતું વેલ્ડ સ્પેટેર (weld spatter) સામાન્ય રીતે શેના કારણે થાય છે?",
+    "options": [
+      "વેલ્ડિંગ કરંટનું લો સેટિંગ વાપરવાથી",
+      "હાઈ વેલ્ડિંગ કરંટ અથવા ખોટા આર્ક ગેપથી",
+      "ખૂબ વધારે વેલ્ડિંગ ફ્લક્સ મટિરિયલ લગાવવાથી",
+      "ટોર્ચને ખૂબ ધીમી ટ્રાવેલ સ્પીડથી ચલાવવાથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વધુ પડતો વેલ્ડિંગ કરંટ અથવા લાંબો આર્ક ગેપ આર્કની અસ્થિરતા પેદા કરી વધુ સ્પેટેર સર્જે છે[cite: 6]."
+  },
+  {
+    "id": 26,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "Compared to the casting, what should be the solidification time of the riser?",
+    "gujaratiQuestion": "026. કાસ્ટિંગની સરખામણીમાં રાઈઝરનો સોલિડિફિકેશન સમય કેટલો હોવો જોઈએ?",
+    "options": [
+      "કાસ્ટિંગ કરતા ઓછો",
+      "કાસ્ટિંગ જેટલો જ",
+      "કાસ્ટિંગ કરતા વધારે",
+      "સમયથી કોઈ ફેર પડતો નથી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રાઇઝર છેલ્લે સુધી પ્રવાહી રહીને કાસ્ટિંગના સંકોચનને ફીડ કરી શકે તે માટે triser > tcasting હોવું જોઈએ[cite: 6]."
+  },
+  {
+    "id": 27,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "What are the metal pieces placed in the mold to accelerate cooling called?",
+    "gujaratiQuestion": "027. મોલ્ડમાં ધાતુને ઝડપથી ઠંડી પાડવા માટે વપરાતા ધાતુના ટુકડાઓને શું કહેવાય છે?",
+    "options": [
+      "ચિલ્સ",
+      "ચેપલેટ",
+      "રાઇઝર",
+      "પેડિંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કાસ્ટિંગના જાડા સેક્શનમાં ઝડપી ઠંડક પૂરી પાડવા માટે ચિલ્સ (Chills) વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 28,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Unconventional Machining Processes",
+    "question": "In Abrasive Jet Machining, what happens if abrasive particle size is too large?",
+    "gujaratiQuestion": "028. એબ્રેસિવ જેટ મશીનિંગમાં જો એબ્રેસિવ પાર્ટીકલની સાઈઝ ખૂબ મોટી હોય તો શું થાય?",
+    "options": [
+      "સરફેસ ફિનિશ ક્વોલિટી વધે",
+      "મટિરિયલ રિમૂવલ રેટ ઘટે",
+      "કોઈ અસર ન થાય",
+      "નોઝલને નુકસાન થાય અને નબળું સરફેસ ફિનિશ મળે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ખૂબ મોટા કણો નોઝલનું ધોવાણ/ક્લોગિંગ કરે છે અને વર્કપીસ પર ખરબચડી સરફેસ ફિનિશ આપે છે[cite: 6]."
+  },
+  {
+    "id": 29,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "For the same volume, which shape has the maximum solidification time?",
+    "gujaratiQuestion": "029. સમાન કદ માટે કયા આકારનો સોલિડિફિકેશન સમય સૌથી વધુ હોય છે?",
+    "options": [
+      "સમઘન",
+      "નળાકાર",
+      "ગોળો",
+      "ચોરસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "આપેલા કદ માટે ગોળા (Sphere) નો સપાટી વિસ્તાર લઘુત્તમ હોવાથી (V/A) મહત્તમ મળે છે અને ઘનીકરણ સમય સૌથી વધુ હોય છે[cite: 6]."
+  },
+  {
+    "id": 30,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "What is the primary objective of directional solidification?",
+    "gujaratiQuestion": "030. ડાયરેકશનલ સોલિડિફિકેશનનો મુખ્ય ઉદ્દેશ્ય શું છે?",
+    "options": [
+      "મોલ્ડને ઠંડો પાડવો",
+      "કાસ્ટિંગથી રાઇઝર તરફ ક્રમશઃ ઘનીકરણ કરવું",
+      "બધી જગ્યાએ એકસાથે ઘનીકરણ કરવું",
+      "રાઇઝરથી કાસ્ટિંગ તરફ ઘનીકરણ કરવું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કાસ્ટિંગથી શરૂ કરીને રાઇઝર તરફ ક્રમિક ઘનીકરણ થવાથી સંકોચન કેવિટી વિના સાઉન્ડ કાસ્ટિંગ મળે છે[cite: 6]."
+  },
+  {
+    "id": 31,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Electrical, Electrochemical & Thermal Machining",
+    "question": "Electrical Discharge Machining (EDM) is particularly suitable for:",
+    "gujaratiQuestion": "031. ઈલેક્ટ્રિકલ ડિસ્ચાર્જ મશીનિંગ (EDM) ખાસ કરીને શેના માટે યોગ્ય છે?",
+    "options": [
+      "ઝડપથી સિમ્પલ શેપ બનાવવા",
+      "હાર્ડ મટિરિયલ્સમાં જટિલ (complex અને intricate) શેપનું મશીનિંગ કરવા",
+      "સોફ્ટ મેટલ્સનું હાઈ-સ્પીડ મિલિંગ કરવા",
+      "બે મેટલ્સને જોડવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કઠણ વાહક ધાતુઓમાં જટિલ ડાઇ કેવિટી અને સૂક્ષ્મ છિદ્રો બનાવવા માટે EDM ઉત્તમ છે[cite: 6]."
+  },
+  {
+    "id": 32,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "What is the vertical passage in a gating system that carries molten metal downwards called?",
+    "gujaratiQuestion": "032. ગેટિંગ સિસ્ટમમાં પ્રવાહી ધાતુને નીચે લઈ જતા ઊભા માર્ગને શું કહેવાય છે?",
+    "options": [
+      "રનર",
+      "ગેટ",
+      "સ્પુ",
+      "રાઇઝર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પોરિંગ બેસિનમાંથી ધાતુને નીચે રનર સુધી પહોંચાડતા ઊભા માર્ગને સ્પ્રુ (Sprue) કહે છે[cite: 6]."
+  },
+  {
+    "id": 33,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "What shape is given to the sprue to prevent air aspiration?",
+    "gujaratiQuestion": "033. હવાની એસ્પિરેશન (Aspiration) રોકવા માટે સ્પુનો આકાર કેવો રાખવામાં આવે છે?",
+    "options": [
+      "સમાંતર",
+      "નીચેથી સાંકડો (Tapered)",
+      "નીચેથી પહોળો",
+      "ગોળાકાર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મુક્ત પતન દરમિયાન વેગ વધતાં પ્રવાહ સાંકડો થતો હોવાથી હવા અંદર ખેંચાતી રોકવા સ્પ્રુ નીચેથી ટેપર્ડ રખાય છે[cite: 6]."
+  },
+  {
+    "id": 34,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "What is the primary function of a riser?",
+    "gujaratiQuestion": "034. રાઈઝરનું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "વાયુઓ બહાર કાઢવા",
+      "સ્લેગ રોકવા",
+      "પ્રવાહી ધાતુનું સંકોચન સરભર કરવું",
+      "કાસ્ટિંગને મજબૂતી આપવી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "રાઇઝર ઘનીકરણ દરમિયાન પ્રવાહી ધાતુ પૂરું પાડીને સંકોચન સરભર કરે છે[cite: 6]."
+  },
+  {
+    "id": 35,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "In a machining operation, chip thickness ratio is 0.3 and tool back rake angle is 10°. What is the shear strain value?",
+    "gujaratiQuestion": "035. મશીનિંગ ઓપરેશનમાં ચિપ થિકનેસ રેશિયો 0.3 છે અને ટૂલનો બેક રેક એંગલ 10° છે, તો શિયર સ્ટ્રેઈનનું મૂલ્ય શું હશે?",
+    "options": [
+      "0.31",
+      "0.13",
+      "3.0",
+      "3.34"
+    ],
+    "correctAnswer": 3,
+    "explanation": "tan(φ) = (r·cos α) / (1 - r·sin α) = 0.306 => φ ≈ 17.03°. Shear strain γ = cot(φ) + tan(φ - α) = cot(17.03°) + tan(7.03°) ≈ 3.27 + 0.123 = 3.39 ≈ 3.34[cite: 6]."
+  },
+  {
+    "id": 36,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "What is a riser called that is completely enclosed inside the mold?",
+    "gujaratiQuestion": "Q36. જે રાઇઝર મોલ્ડની અંદર સંપૂર્ણપણે બંધ હોય તેને શું કહેવાય છે?",
+    "options": [
+      "ઓપન રાઇઝર",
+      "બ્લાઇન્ડ રાઇઝર",
+      "ટોપ રાઇઝર",
+      "સાઇડ રાઇઝર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જે રાઇઝર મોલ્ડની અંદર સંપૂર્ણ બંધ હોય તેને બ્લાઇન્ડ રાઇઝર (Blind riser) કહેવાય છે[cite: 6]."
+  },
+  {
+    "id": 37,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "Why is a skim bob provided in a gating system?",
+    "gujaratiQuestion": "037. ગેટિંગ સિસ્ટમમાં સ્કીમ બોબ (Skim bob) શા માટે આપવામાં આવે છે?",
+    "options": [
+      "ધાતુનું દબાણ વધારવા",
+      "સ્લેગ અને અશુદ્ધિઓ પકડવા",
+      "પેટર્ન કાઢવા",
+      "રાઇઝરને ટેકો આપવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્કીમ બોબ હલકો કચરો અને સ્લેગ મોલ્ડ કેવિટીમાં પ્રવેશતા અટકાવે છે[cite: 6]."
+  },
+  {
+    "id": 38,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "Why is a large positive rake angle primarily provided to cutting tools?",
+    "gujaratiQuestion": "038. કટિંગ ટૂલ્સને મુખ્યત્વે શા માટે મોટો પોઝિટિવ રેક એંગલ આપવામાં આવે છે?",
+    "options": [
+      "કટિંગ એજની સ્ટ્રેન્થ વધારવા",
+      "ફિનિશ્ડ સરફેસ સાથેનું રબિંગ એક્શન ટાળવા",
+      "કટિંગ ફોર્સનું મૂલ્ય ઘટાડવા",
+      "વધુ સારા હીટ ડિસિપેશન માટે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પોઝિટિવ રેક એંગલ વધારવાથી ચિપનો ફ્લો સરળ બને છે અને કટિંગ ફોર્સ તથા પાવર વપરાશ ઘટે છે[cite: 6]."
+  },
+  {
+    "id": 39,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "What is the primary cause of blowholes in casting?",
+    "gujaratiQuestion": "039. કાસ્ટિંગમાં બ્લોહોલ્સ (Blowholes) આવવાનું મુખ્ય કારણ શું છે?",
+    "options": [
+      "રેતીમાં વધુ પડતા ભેજ અને વાયુઓથી",
+      "ધાતુના સંકોચનથી",
+      "નીચા તાપમાનથી",
+      "પેટર્નની ખામીથી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મોલ્ડિંગ સેન્ડમાં વધુ પડતો ભેજ હોવાથી અને વાયુઓ બહાર ન નીકળી શકતાં બ્લોહોલ્સ બને છે[cite: 6]."
+  },
+  {
+    "id": 40,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "Due to what does the Misrun defect occur in casting?",
+    "gujaratiQuestion": "040. મિસરન (Misrun) ડિફેક્ટ શાના કારણે ઉદ્ભવે છે?",
+    "options": [
+      "ઊંચા તાપમાનથી",
+      "પ્રવાહી ધાતુના નીચા તાપમાનથી",
+      "રેતીના વધુ પડતા દબાણથી",
+      "ગેટની સાઇઝ મોટી હોવાથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પોરિંગ તાપમાન નીચું હોવાથી ધાતુની તરલતા ઘટે છે અને કેવિટી અધૂરી ભરાય ત્યારે મિસરન થાય છે[cite: 6]."
+  },
+  {
+    "id": 41,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "Internal gears are manufactured by which process?",
+    "gujaratiQuestion": "041. ઈન્ટરનલ ગિયર્સ શેના દ્વારા મેન્યુફેક્ચર કરવામાં આવે છે?",
+    "options": [
+      "હોબિંગ",
+      "પિનિયન કટર સાથે શેપિંગ",
+      "રેક કટર સાથે શેપિંગ",
+      "મિલિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "આંતરિક ગિયર્સ કાપવા માટે પિનિયન કટર ધરાવતી ગિયર શેપિંગ પદ્ધતિ વપરાય છે (હોબિંગ માત્ર બાહ્ય ગિયર માટે વપરાય છે)[cite: 6]."
+  },
+  {
+    "id": 42,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "Which defect is observed when two streams of molten metal meet but fail to fuse properly?",
+    "gujaratiQuestion": "042. પ્રવાહી ધાતુના બે પ્રવાહ ભેગા થાય પણ બરાબર જોડાય નહીં ત્યારે કઈ ખામી જોવા મળે છે?",
+    "options": [
+      "બ્લોહોલ",
+      "સ્વેલ",
+      "કોલ્ડ શટ",
+      "શિફ્ટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "નીચા તાપમાને બે પ્રવાહો ભેગા મળીને એકરસ ન થઈ શકે ત્યારે કોલ્ડ શટ (Cold shut) ખામી સર્જાય છે[cite: 6]."
+  },
+  {
+    "id": 43,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "Which defect occurs if cope and drag are not aligned properly?",
+    "gujaratiQuestion": "043. કોપ અને ડ્રેગ બરાબર એલાઇન ન થાય તો કઈ ખામી સર્જાય છે?",
+    "options": [
+      "ડ્રોપ",
+      "શિફ્ટ",
+      "સ્વેલ",
+      "મિસરન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પાર્ટિંગ લાઇન આગળ કોપ અને ડ્રેગ બોક્સનું મિસ-એલાઈનમેન્ટ મોલ્ડ શિફ્ટ (Shift) ખામી પેદા કરે છે[cite: 6]."
+  },
+  {
+    "id": 44,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "In hollow cylindrical parts made by centrifugal casting, part density is:",
+    "gujaratiQuestion": "044. સેન્ટ્રીફયુગલ કાસ્ટિંગ દ્વારા બનાવવામાં આવતા હોલો સિલિન્ડ્રિકલ પાર્ટ્સમાં, પાર્ટની ડેન્સિટી (ઘનતા) કેવી હોય છે?",
+    "options": [
+      "બહારના ભાગમાં (outer region) મહત્તમ",
+      "અંદરના ભાગમાં (inner region) મહત્તમ",
+      "બહાર અને અંદરની સપાટી વચ્ચેના મિડ-પોઈન્ટ પર મહત્તમ",
+      "બધે જ સમાન"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કેન્દ્રત્યાગી બળને લીધે ભારે શુદ્ધ ધાતુ બહારની પરિઘ તરફ ફેંકાય છે, જેથી બહારના ભાગમાં ઘનતા મહત્તમ હોય છે[cite: 6]."
+  },
+  {
+    "id": 45,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "Which defect is caused in casting due to hindrance in metal shrinkage during cooling?",
+    "gujaratiQuestion": "Q45. ધાતુના સંકોચનમાં અવરોધ આવવાથી કાસ્ટિંગમાં કઈ ખામી સર્જાય છે?",
+    "options": [
+      "સ્કેબ",
+      "બ્લોહોલ",
+      "હોટ ટીઅર",
+      "રેટ-ટેલ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સંકોચન સામે મોલ્ડનો અવરોધ આવતાં પેદા થતા તણાવથી હોટ ટીઅર (Hot tear) તિરાડો પડે છે[cite: 6]."
+  },
+  {
+    "id": 46,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "Which defect is caused by sand dropping from the upper surface of the mold into the metal?",
+    "gujaratiQuestion": "046. મોલ્ડની ઉપરની સપાટી પરથી રેતી પડીને ધાતુમાં ભળવાથી કઈ ખામી થાય છે?",
+    "options": [
+      "ડ્રોપ",
+      "શિફ્ટ",
+      "સ્કેબ",
+      "વોશ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કોપની ઉપરની સપાટી પરથી રેતી તૂટીને પ્રવાહી ધાતુમાં પડવાથી ડ્રોપ (Drop) ખામી થાય છે[cite: 6]."
+  },
+  {
+    "id": 47,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "When cutting speed is halved, what is the percentage increase in tool life? (assume Taylor's exponent n = 0.5)",
+    "gujaratiQuestion": "047. જ્યારે કટિંગ સ્પીડ અડધી કરવામાં આવે ત્યારે ટૂલ લાઈફમાં કેટલા ટકાનો વધારો થાય છે?",
+    "options": [
+      "50%",
+      "200%",
+      "300%",
+      "400%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "V1·T1^0.5 = V2·T2^0.5 => V1·T1^0.5 = 0.5V1·T2^0.5 => T2/T1 = (1/0.5)² = 4. વધારો = (4 - 1) × 100 = 300%[cite: 6]."
+  },
+  {
+    "id": 48,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "What is the defect of enlargement of mold cavity under the pressure of molten metal called?",
+    "gujaratiQuestion": "048. પ્રવાહી ધાતુના દબાણને કારણે મોલ્ડ કેવિટી ફૂલી જવાની ખામીને શું કહેવાય છે?",
+    "options": [
+      "સ્વેલ",
+      "વોશ",
+      "શિફ્ટ",
+      "રેટ-ટેલ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પ્રવાહી ધાતુના હાઇડ્રોસ્ટેટિક દબાણથી કેવિટી ફૂલી જવાની ખામીને સ્વેલ (Swell) કહે છે[cite: 6]."
+  },
+  {
+    "id": 49,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "Which system is represented by a gating ratio of 1:2:1?",
+    "gujaratiQuestion": "049. 1:2:1 નો ગેટિંગ ગુણોત્તર (Gating ratio) કઈ સિસ્ટમ દર્શાવે છે?",
+    "options": [
+      "અન-પ્રેસરાઈઝ્ડ સિસ્ટમ",
+      "પ્રેસરાઈઝ્ડ સિસ્ટમ",
+      "ગ્રેવિટી સિસ્ટમ",
+      "વેક્યુમ સિસ્ટમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "As : Ar : Ag માં ગેટ એરિયા રનર કરતાં ઓછો હોવાથી (1:2:1) તે પ્રેસરાઇઝ્ડ ગેટિંગ સિસ્ટમ છે[cite: 6]."
+  },
+  {
+    "id": 50,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Which of the following joining processes are autogenous (no filler metal)?",
+    "gujaratiQuestion": "Q50. નીચેની જોઈનિંગ પ્રોસેસિસમાંથી કઈ બે ઓટોજિનસ (autogenous) છે?\n(i) ડિફ્યુઝન વેલ્ડિંગ\n(ii) ઈલેક્ટ્રોસ્લેગ વેલ્ડિંગ\n(iii) ટંગસ્ટન ઇનર્ટ ગેસ વેલ્ડિંગ\n(iv) ફ્રિક્શન વેલ્ડિંગ",
+    "options": [
+      "(i) અને (iv)",
+      "(ii) અને (iii)",
+      "(ii) અને (iv)",
+      "(i) અને (iii)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ડિફ્યુઝન વેલ્ડિંગ અને ફ્રિક્શન વેલ્ડિંગ સોલિડ સ્ટેટ પ્રોસેસ હોવાથી તેમાં કોઈ ફિલર મેટલ વગર ઓટોજિનસ જોઈનિંગ થાય છે[cite: 6]."
+  },
+  {
+    "id": 51,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "In a 1:2:4 gating ratio system, where is the minimum cross-sectional area (choke) located?",
+    "gujaratiQuestion": "051. 1:2:4 ગેટિંગ ગુણોત્તરવાળી સિસ્ટમમાં સૌથી ઓછો આડછેદ (Choke) ક્યાં હોય છે?",
+    "options": [
+      "ઈન-ગેટમાં",
+      "રનરમાં",
+      "સ્પુના તળિયે",
+      "રાઈઝરમાં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "અન-પ્રેસરાઇઝ્ડ 1:2:4 સિસ્ટમમાં ચોક એરિયા સ્પ્રુના તળિયે (Sprue base) હોય છે[cite: 6]."
+  },
+  {
+    "id": 52,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "Where is the choke area located in a pressurized gating system?",
+    "gujaratiQuestion": "Q52. પ્રેસરાઇઝ્ડ ગેટિંગ સિસ્ટમમાં ચોક (Choke) વિસ્તાર ક્યાં રાખવામાં આવે છે?",
+    "options": [
+      "સ્પુ",
+      "રનર",
+      "ઈન-ગેટ",
+      "રાઈઝર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પ્રેસરાઇઝ્ડ સિસ્ટમમાં ચોક એરિયા ઇન-ગેટ (In-gate) આગળ રાખવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 53,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "In the full mold (cavity-less) casting process, what is the pattern made of?",
+    "gujaratiQuestion": "053. ફુલ મોલ્ડ (કેવિટી-લેસ) કાસ્ટિંગ પ્રોસેસમાં, પેટર્ન શેમાંથી બનેલી હોય છે?",
+    "options": [
+      "એક્સપાન્ડેબલ પોલિસ્ટાયરીન",
+      "વેક્સ",
+      "ઈપોક્સી",
+      "પ્લાસ્ટર ઓફ પેરિસ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ફુલ મોલ્ડ કાસ્ટિંગમાં એક્સપાન્ડેડ પોલિસ્ટાયરીન (થર્મોકોલ) ની પેટર્ન વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 54,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "What is the use of a strainer core in a pouring basin?",
+    "gujaratiQuestion": "054. પોરિંગ બેસિનમાં સ્ટ્રેનર કોરનો ઉપયોગ શું છે?",
+    "options": [
+      "સ્લેગ અને કચરો ગાળવા",
+      "તાપમાન ઘટાડવા",
+      "મોલ્ડની મજબૂતી વધારવા",
+      "સંકોચન રોકવા"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્ટ્રેનર કોર પ્રવાહી ધાતુમાંથી સ્લેગ અને કચરો ગાળી લે છે[cite: 6]."
+  },
+  {
+    "id": 55,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "In which casting process are gating and risers not required?",
+    "gujaratiQuestion": "055. કઈ કાસ્ટિંગ પ્રક્રિયામાં ગેટિંગ અને રાઈઝરની જરૂર પડતી નથી?",
+    "options": [
+      "સેન્ડ કાસ્ટિંગ",
+      "શેલ મોલ્ડિંગ",
+      "ટ્રુ સેન્ટ્રીફયુગલ કાસ્ટિંગ",
+      "ઈન્વેસ્ટમેન્ટ કાસ્ટિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ટ્રુ સેન્ટ્રીફ્યુગલ કાસ્ટિંગમાં સેન્ટ્રીફ્યુગલ ફોર્સ સીધું ફીડિંગ કરતું હોવાથી રાઇઝરની જરૂર પડતી નથી[cite: 6]."
+  },
+  {
+    "id": 56,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "For machining T-slots on a machine table in small lot production, which machine is expected to be used?",
+    "gujaratiQuestion": "056. મશીન ટેબલ પર T-સ્લોટ્સના મશીનિંગ માટે સ્મોલ લોટ પ્રોડક્શનમાં, શેનો ઉપયોગ અપેક્ષિત છે?",
+    "options": [
+      "શેપિંગ મશીન",
+      "બ્રોચિંગ મશીન",
+      "વર્ટિકલ મિલિંગ મશીન",
+      "હોરિઝોન્ટલ મિલિંગ મશીન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "T-સ્લોટ કટર સાથે વર્ટિકલ મિલિંગ મશીનનો ઉપયોગ T-સ્લોટ બનાવવા માટે થાય છે[cite: 6]."
+  },
+  {
+    "id": 57,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "What is the property of molding sand to allow gases to escape called?",
+    "gujaratiQuestion": "057. મોલ્ડિંગ રેતીની વાયુઓને બહાર કાઢવાની ક્ષમતાને શું કહેવાય છે?",
+    "options": [
+      "કોહેઝિવનેસ",
+      "પ્લાસ્ટિસિટી",
+      "પરમીએબિલિટી",
+      "રિફ્રેક્ટરીનેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વાયુઓ અને વરાળને બહાર નીકળવા દેવાની મોલ્ડિંગ રેતીની ક્ષમતાને પરમીએબિલિટી કહે છે[cite: 6]."
+  },
+  {
+    "id": 58,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "What is the ability of molding sand to withstand high temperatures called?",
+    "gujaratiQuestion": "058. મોલ્ડિંગ રેતીની ઊંચા તાપમાન સહન કરવાની ક્ષમતાને શું કહેવાય છે?",
+    "options": [
+      "પરમીએબિલિટી",
+      "રિફ્રેક્ટરીનેસ",
+      "ડ્રાફ્ટ",
+      "હાર્ડનેસ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓગળ્યા વિના ઊંચા તાપમાન સામે ટકી રહેવાની ક્ષમતાને રિફ્રેક્ટરીનેસ કહે છે[cite: 6]."
+  },
+  {
+    "id": 59,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Which welding process has the smallest Heat Affected Zone (HAZ)?",
+    "gujaratiQuestion": "059. નીચેનામાંથી કઈ વેલ્ડિંગ પ્રોસેસમાં હીટ એફેક્ટેડ ઝોન (HAZ) સૌથી નાનો હોય છે?",
+    "options": [
+      "શિલ્ડેડ મેટલ આર્ક વેલ્ડિંગ",
+      "ગેસ વેલ્ડિંગ",
+      "લેસર બીમ વેલ્ડિંગ",
+      "થર્મિટ વેલ્ડિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "લેસર બીમ વેલ્ડિંગમાં પાવર ડેન્સિટી અતિશય ઊંચી હોવાથી હીટ એફેક્ટેડ ઝોન (HAZ) સૌથી સાંકડો બને છે[cite: 6]."
+  },
+  {
+    "id": 60,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "In evaporative (full mold) casting, what is the pattern made of?",
+    "gujaratiQuestion": "Q60. ઈવેપોરેટિવ (ફુલ મોલ્ડ) કાસ્ટિંગમાં પેટર્ન શામાંથી બનેલી હોય છે?",
+    "options": [
+      "મીણ",
+      "લાકડું",
+      "પોલિસ્ટાયરીન",
+      "માટી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઇવેપોરેટિવ કાસ્ટિંગમાં એક્સપાન્ડેડ પોલિસ્ટાયરીન પેટર્ન વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 61,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "Which sand is sprinkled between parting surfaces to prevent molding sand from sticking?",
+    "gujaratiQuestion": "061. મોલ્ડિંગ ફ્લાસ્કના બે ભાગો વચ્ચે રેતીને ચોંટતી અટકાવવા કઈ રેતી છાંટવામાં આવે છે?",
+    "options": [
+      "ફેસિંગ સેન્ડ",
+      "પાર્ટિંગ સેન્ડ",
+      "બેકિંગ સેન્ડ",
+      "ગ્રીન સેન્ડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કોપ અને ડ્રેગને અલગ રાખવા માટે પાર્ટિંગ સેન્ડ (Parting sand) છાંટવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 63,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "What is the bottommost part of a molding flask called?",
+    "gujaratiQuestion": "063, મોલ્ડિંગ ફ્લાસ્કના સૌથી નીચેના ભાગને શું કહેવાય છે?",
+    "options": [
+      "ડ્રેગ",
+      "કોપ",
+      "ચીક",
+      "બોટમ બોર્ડ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મોલ્ડિંગ બોક્સના નીચેના ભાગને ડ્રેગ (Drag) કહે છે[cite: 6]."
+  },
+  {
+    "id": 64,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "Which method is used to determine the size of a riser?",
+    "gujaratiQuestion": "064. રાઈઝરનું કદ નક્કી કરવા માટે કઈ પદ્ધતિનો ઉપયોગ થાય છે?",
+    "options": [
+      "ચ્વોરિનોવની પદ્ધતિ",
+      "પાસ્કલની પદ્ધતિ",
+      "બર્નુલીની પદ્ધતિ",
+      "ન્યૂટનની પદ્ધતિ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રાઇઝરનું કદ નક્કી કરવા ચ્વોરિનોવના નિયમ (Modulus method) નો ઉપયોગ થાય છે[cite: 6]."
+  },
+  {
+    "id": 65,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "If casting dimension is 100 mm and shrinkage allowance is 2%, what will be the pattern size?",
+    "gujaratiQuestion": "Q65. જો કાસ્ટિંગનું માપ 100mm હોય અને શ્રિન્કેજ એલાઉન્સ 2% હોય, તો પેટર્નનું માપ કેટલું હશે?",
+    "options": [
+      "98mm",
+      "100mm",
+      "102mm",
+      "104mm"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pattern dimension = 100 + (100 × 0.02) = 102 mm[cite: 6]."
+  },
+  {
+    "id": 66,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "Which of the following is associated with basic metal forming processes?",
+    "gujaratiQuestion": "Q66. નીચેનામાંથી કયું બેઝિક મેટલ ફોર્મિંગ પ્રોસેસ સાથે સંકળાયેલું છે?",
+    "options": [
+      "ડબલ એજ્ડ કટિંગ (Double edged cutting)",
+      "વેલ્ડિંગ",
+      "સિન્ટરિંગ",
+      "કોમ્પેક્ટિંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "શીયરિંગ અને કટિંગ ઓપરેશન્સ મેટલ ફોર્મિંગ અને શીટ મેટલ વર્કિંગ સાથે સંકળાયેલા છે[cite: 6]."
+  },
+  {
+    "id": 67,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "Which element helps to increase fluidity in molten metal?",
+    "gujaratiQuestion": "067. પીગળેલી ધાતુમાં ફ્લુઇડિટી (Fluidity) વધારવા માટે કયું તત્વ મદદરૂપ થાય છે?",
+    "options": [
+      "સલ્ફર",
+      "સિલિકોન",
+      "ક્રોમિયમ",
+      "ટંગસ્ટન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સિલિકોન પીગળેલી ધાતુની તરલતા (Fluidity) વધારે છે[cite: 6]."
+  },
+  {
+    "id": 68,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "What is the common cross-sectional shape of a runner in sand casting?",
+    "gujaratiQuestion": "Q68. સેન્ડ કાસ્ટિંગમાં રનરનો આકાર સામાન્ય રીતે કેવો રાખવામાં આવે છે?",
+    "options": [
+      "ગોળાકાર",
+      "ત્રિકોણાકાર",
+      "ટ્રેપેઝોઇડલ",
+      "ચોરસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મોલ્ડિંગ સરળ બનાવવા અને ટર્બ્યુલન્સ ઘટાડવા રનર સમલંબ (Trapezoidal) રાખવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 69,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "Which of the following is NOT associated with the motion of the job (workpiece) in cutting operations?",
+    "gujaratiQuestion": "Q69. નીચેનામાંથી કયું કટિંગ ઓપરેશનમાં જોબ (વર્કપીસ) ની મોશન સાથે સંકળાયેલું નથી?",
+    "options": [
+      "રોટરી",
+      "વાઈબ્રેટરી",
+      "ટ્રાન્સલેટરી",
+      "ફિક્સ્ડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કન્વેન્શનલ મશીનિંગમાં જોબ રોટરી, ટ્રાન્સલેટરી કે ફિક્સ હોય છે; વાઇબ્રેટરી મોશન સામાન્ય કટિંગમાં જોબની મોશન નથી[cite: 6]."
+  },
+  {
+    "id": 70,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "Which defect is caused due to steam formation from moisture in the mold?",
+    "gujaratiQuestion": "070. કઈ ખામી મોલ્ડમાં રહેલા ભેજના કારણે વરાળ બનવાથી ઉદ્ભવે છે?",
+    "options": [
+      "રેટ-ટેલ",
+      "હોટ ટીઅર",
+      "બ્લોહોલ",
+      "કોલ્ડ શટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મોલ્ડના ભેજમાંથી બનેલી વરાળ બ્લોહોલ્સ બનાવે છે[cite: 6]."
+  },
+  {
+    "id": 71,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "In a match plate pattern, where are the cope and drag patterns attached?",
+    "gujaratiQuestion": "071. મેચ પ્લેટ પેટર્નમાં કોપ અને ડ્રેગ પેટર્ન ક્યાં લગાવેલી હોય છે?",
+    "options": [
+      "એક જ પ્લેટની સામસામેની બાજુએ",
+      "બે અલગ પ્લેટો પર",
+      "માત્ર કોપ બાજુએ",
+      "ફ્લાસ્કની બહાર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મેચ પ્લેટમાં એક જ પ્લેટની બંને સામસામે બાજુએ કોપ અને ડ્રેગ પેટર્ન લગાવેલી હોય છે[cite: 6]."
+  },
+  {
+    "id": 72,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "What are the cutting edges of a twist drill called?",
+    "gujaratiQuestion": "072. ટ્વિસ્ટ ડ્રિલની કટિંગ એજીસ (કિનારીઓ) ને શું કહેવાય છે?",
+    "options": [
+      "ફ્લેન્ક્સ",
+      "વેજીસ",
+      "ફ્લુટ્સ",
+      "લિપ્સ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ટ્વિસ્ટ ડ્રિલની મુખ્ય બે કટિંગ કિનારીઓને લિપ્સ (Lips / Cutting edges) કહે છે[cite: 6]."
+  },
+  {
+    "id": 73,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "What is the purpose of using chills in casting?",
+    "gujaratiQuestion": "Q73. કાસ્ટિંગમાં ચિલ્સ (Chills) નો ઉપયોગ શેના માટે થાય છે?",
+    "options": [
+      "ડાયરેકશનલ સોલિડિફિકેશન મેળવવા",
+      "ધાતુનું તાપમાન વધારવા",
+      "રાઇઝરની સાઇઝ વધારવા",
+      "પેટર્ન કાઢવા"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ચિલ્સ ઝડપી ઠંડક પૂરી પાડીને ડાયરેક્શનલ સોલિડિફિકેશન પ્રાપ્ત કરવામાં મદદ કરે છે[cite: 6]."
+  },
+  {
+    "id": 74,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "When a material crosses the yield point, which deformation begins?",
+    "gujaratiQuestion": "074 જ્યારે કોઈ પદાર્થ યિલ્ડ પોઈન્ટ પાર કરે છે, ત્યારે કયું ડિફોર્મેશન શરૂ થાય છે?",
+    "options": [
+      "ઇલાસ્ટિક ડિફોર્મેશન",
+      "પ્લાસ્ટિક ડિફોર્મેશન",
+      "થર્મલ ડિફોર્મેશન",
+      "ફ્રેક્ચર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "યીલ્ડ પોઇન્ટ પછી પદાર્થમાં કાયમી પ્લાસ્ટિક ડિફોર્મેશન શરૂ થાય છે[cite: 6]."
+  },
+  {
+    "id": 75,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "Which method is NOT practically possible to experimentally determine chip-tool interface temperature?",
+    "gujaratiQuestion": "075. ચિપ-ટૂલ ઇન્ટરફેસ ટેમ્પરેચર પ્રાયોગિક રીતે (experimentally) શોધવા માટે કઈ રીત શક્ય નથી?",
+    "options": [
+      "કમ્પાઉન્ડ ટૂલની રીત",
+      "મૂવિંગ થર્મોકપલની રીત",
+      "ફોટોગ્રાફિક રીત",
+      "રેડિયો-એક્ટિવ રીત"
+    ],
+    "correctAnswer": 3,
+    "explanation": "રેડિયો-એક્ટિવ પદ્ધતિ ટૂલ વિયર (ઘસારો) માપવા વપરાય છે, ઇન્ટરફેસ તાપમાન માપવા માટે નહીં[cite: 6]."
+  },
+  {
+    "id": 76,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "By which other name is the Tresca yield criterion known?",
+    "gujaratiQuestion": "Q76. ટ્રેસ્કા (Tresca) યિલ્ડ ક્રાઇટેરિયા બીજા કયા નામે ઓળખાય છે?",
+    "options": [
+      "મેક્સિમમ પ્રિન્સિપલ સ્ટ્રેસ થિયરી",
+      "મેક્સિમમ શીયર સ્ટ્રેસ થિયરી",
+      "ડિસ્ટોર્શન એનર્જી થિયરી",
+      "મેક્સિમમ સ્ટ્રેન થિયરી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટ્રેસ્કા યીલ્ડ ક્રાઇટેરિયા મહત્તમ શીયર સ્ટ્રેસ થિયરી (Maximum Shear Stress Theory) તરીકે ઓળખાય છે[cite: 6]."
+  },
+  {
+    "id": 77,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "By which other name is the Von Mises yield criterion known?",
+    "gujaratiQuestion": "077. વોન મિસેસ (Von Mises) યિલ્ડ ક્રાઇટેરિયા બીજા કયા નામે ઓળખાય છે?",
+    "options": [
+      "મેક્સિમમ પ્રિન્સિપલ સ્ટ્રેસ થિયરી",
+      "મેક્સિમમ શીયર સ્ટ્રેસ થિયરી",
+      "ડિસ્ટોર્શન એનર્જી થિયરી",
+      "મેક્સિમમ સ્ટ્રેન થિયરી"
+    ],
+    "correctAnswer": 2,
+    "explanation": "વોન મિસેસ ક્રાઇટેરિયા ડિસ્ટોર્શન એનર્જી થિયરી (Distortion Energy Theory / Maximum Distortion Strain Energy) તરીકે ઓળખાય છે[cite: 6]."
+  },
+  {
+    "id": 78,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "Which of the following processes are included in surface finishing operations?",
+    "gujaratiQuestion": "Q78. ફિનિશિંગમાં નીચેનામાંથી કઈ પ્રોસેસિસનો સમાવેશ થાય છે?",
+    "options": [
+      "હોનિંગ અને વેલ્ડિંગ",
+      "પોલિશિંગ અને લેપિંગ",
+      "કોટિંગ અને મિલિંગ",
+      "મોલ્ડિંગ અને પ્લેટિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પોલિશિંગ અને લેપિંગ (Lapping and Polishing) અતિ-ઉચ્ચ સપાટી ફિનિશિંગ પ્રક્રિયાઓ છે[cite: 6]."
+  },
+  {
+    "id": 79,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "At what temperature is hot working of metals performed?",
+    "gujaratiQuestion": "079. મેટલનું હોટ વર્કિંગ (Hot working) કયા તાપમાને કરવામાં આવે છે?",
+    "options": [
+      "રૂમ ટેમ્પરેચર પર",
+      "રિક્રિસ્ટલાઇઝેશન તાપમાનથી નીચે",
+      "રિક્રિસ્ટલાઇઝેશન તાપમાનથી ઉપર",
+      "મેલ્ટિંગ પોઈન્ટથી ઉપર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "હોટ વર્કિંગ ધાતુના રિક્રિસ્ટલાઇઝેશન તાપમાનથી ઉપર કરવામાં આવે છે જેથી તેમાં સ્ટ્રેઇન હાર્ડનિંગ થતું નથી[cite: 6]."
+  },
+  {
+    "id": 80,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "At what temperature is cold working of metals performed?",
+    "gujaratiQuestion": "080. મેટલનું કોલ્ડ વર્કિંગ (Cold working) કયા તાપમાને કરવામાં આવે છે?",
+    "options": [
+      "રૂમ ટેમ્પરેચર પર",
+      "રિક્રિસ્ટલાઇઝેશન તાપમાનથી નીચે",
+      "રિક્રિસ્ટલાઇઝેશન તાપમાનથી ઉપર",
+      "મેલ્ટિંગ પોઈન્ટ પર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કોલ્ડ વર્કિંગ ધાતુના રિક્રિસ્ટલાઇઝેશન તાપમાનથી નીચે કરવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 81,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Forging, Rolling, Extrusion & Drawing",
+    "question": "The process of increasing the cross-sectional area of a stock at the expense of its length by applying axial force is called:",
+    "gujaratiQuestion": "Q81. લંબાઈની દિશામાં ફોર્સ લગાવીને લંબાઈના ભોગે સ્ટોકનો ક્રોસ-સેક્શનલ એરિયા વધારવાની પ્રક્રિયાને _____ કહેવાય છે.",
+    "options": [
+      "ફુલરિંગ",
+      "અપસેટિંગ",
+      "ડ્રોઇંગ ડાઉન",
+      "સ્વેજિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અક્ષીય દિશામાં બળ આપીને લંબાઈ ઘટાડી આડછેદનું ક્ષેત્રફળ વધારવાની ફોર્જિંગ ક્રિયાને અપસેટિંગ (Upsetting) કહે છે[cite: 6]."
+  },
+  {
+    "id": 82,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "What change occurs in metal properties due to cold working?",
+    "gujaratiQuestion": "082. કોલ્ડ વર્કિંગના કારણે મેટલના ગુણધર્મોમાં શું ફેરફાર થાય છે?",
+    "options": [
+      "મજબૂતાઈ ઘટે છે",
+      "ડક્ટિલિટી વધે છે",
+      "સ્ટ્રેન હાર્ડનિંગના કારણે મજબૂતાઈ વધે છે",
+      "રિક્રિસ્ટલાઈઝેશન થાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કોલ્ડ વર્કિંગથી ધાતુમાં સ્ટ્રેઇન હાર્ડનિંગ (વર્ક હાર્ડનિંગ) થતાં તેની તાકાત અને હાર્ડનેસ વધે છે[cite: 6]."
+  },
+  {
+    "id": 83,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "What is the primary advantage of cold working compared to hot working?",
+    "gujaratiQuestion": "083. હોટ વર્કિંગની સરખામણીમાં કોલ્ડ વર્કિંગનો મુખ્ય ફાયદો કયો છે?",
+    "options": [
+      "ઓછું બળ લગાવવું પડે છે",
+      "ડક્ટિલિટીમાં વધારો થાય છે",
+      "સારી સરફેસ ફિનિશ મળે છે",
+      "મેટલનું ઓક્સિડેશન થાય છે"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઓક્સિડેશન અને સ્કેલિંગ ન થવાને કારણે કોલ્ડ વર્કિંગમાં ઉત્તમ સરફેસ ફિનિશ અને ડાયમેન્શનલ એક્યુરેસી મળે છે[cite: 6]."
+  },
+  {
+    "id": 84,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Forging, Rolling, Extrusion & Drawing",
+    "question": "Collapsible toothpaste tubes are manufactured by:",
+    "gujaratiQuestion": "084. કોલેપ્સિબલ ટૂથપેસ્ટ ટ્યુબ શેના દ્વારા બનાવવામાં આવે છે?",
+    "options": [
+      "ડાયરેક્ટ એક્સટ્રુઝન",
+      "પિયર્સિંગ",
+      "ઈમ્પેક્ટ એક્સટ્રુઝન",
+      "ઈનડાયરેક્ટ એક્સટ્રુઝન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પાતળી દીવાલવાળી એલ્યુમિનિયમ ટૂથપેસ્ટ ટ્યુબ બનાવવા માટે ઇમ્પેક્ટ એક્સટ્રુઝન (Impact Extrusion) પદ્ધતિ વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 85,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "What is the main drawback of hot working?",
+    "gujaratiQuestion": "085. હોટ વર્કિંગની મુખ્ય ખામી કઈ છે?",
+    "options": [
+      "મેટલ કડક બની જાય છે",
+      "સપાટી પર ઓક્સિડેશન અને સ્કેલિંગ થાય છે",
+      "વધારે ફોર્સની જરૂર પડે છે",
+      "ગ્રેઈન સ્ટ્રક્ચર ખરાબ થાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઊંચા તાપમાને હવામાં ઓક્સિજન સાથે પ્રક્રિયા થવાથી ધાતુની સપાટી પર ઓક્સાઇડ સ્કેલ બને છે[cite: 6]."
+  },
+  {
+    "id": 86,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Forging, Rolling, Extrusion & Drawing",
+    "question": "What is the outward bulging defect of metal in upset forging called?",
+    "gujaratiQuestion": "Q86. અપસેટ ફોર્જિંગમાં મેટલના બહારની તરફ ફૂલી જવાની ખામીને શું કહેવાય છે?",
+    "options": [
+      "એલોન્ગેશન",
+      "બરેલિંગ",
+      "સ્પ્રિંગબેક",
+      "નેકિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડાઇ અને વર્કપીસ વચ્ચેના ઘર્ષણને લીધે મધ્ય ભાગ બહાર ફૂલીને પીપળા જેવો આકાર ધારણ કરે છે જેને બેરલિંગ (Barrelling) કહે છે[cite: 6]."
+  },
+  {
+    "id": 87,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Sheet Metal Forming Processes",
+    "question": "A 20 mm diameter metal disc is to be punched from a 2 mm thick sheet. If punch and die clearance is 3% of sheet thickness, what is the required punch diameter?",
+    "gujaratiQuestion": "Q87. 2 mm જાડાઈની શીટમાંથી 20 mm વ્યાસની મેટલ ડિસ્ક પંચ કરવાની છે. પંચ અને ડાઈ ક્લિયરન્સ 3% છે. આ માટે જરૂરી પંચનો વ્યાસ કેટલો હશે?",
+    "options": [
+      "19.88 mm",
+      "19.94 mm",
+      "20.06 mm",
+      "20.12 mm"
+    ],
+    "correctAnswer": 0,
+    "explanation": "બ્લેન્કિંગ ઓપરેશનમાં Blank Size = Die Size = 20 mm. Punch Size = Die Size - 2C = 20 - 2(0.03 × 2) = 20 - 0.12 = 19.88 mm[cite: 6]."
+  },
+  {
+    "id": 88,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Forging, Rolling, Extrusion & Drawing",
+    "question": "What is the main cause of barreling in upset forging?",
+    "gujaratiQuestion": "088. અપસેટ ફોર્જિંગમાં બરેલિંગ થવાનું મુખ્ય કારણ શું છે?",
+    "options": [
+      "ઓછું તાપમાન",
+      "ડાઈ અને વર્કપીસ વચ્ચેનું ફ્રિક્શન",
+      "મેટલની ડક્ટિલિટી",
+      "વધુ પડતું લ્યુબ્રિકેશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ડાઇ સપાટી અને બિલેટના છેડા વચ્ચે રહેલું ઘર્ષણ સપાટીના ધાતુ વિસ્તરણને રોકે છે, જેનાથી બેરલિંગ થાય છે[cite: 6]."
+  },
+  {
+    "id": 89,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Forging, Rolling, Extrusion & Drawing",
+    "question": "What is the process of reducing metal thickness by passing it between two rotating rolls called?",
+    "gujaratiQuestion": "089. બે ફરતા રોલર્સ વચ્ચેથી મેટલને પસાર કરીને તેની જાડાઈ ઘટાડવાની પ્રક્રિયાને શું કહે છે?",
+    "options": [
+      "રોલિંગ",
+      "ફોર્જિંગ",
+      "એક્સટ્રુઝન",
+      "ડ્રોઇંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પરિભ્રમણ કરતા રોલર્સ વચ્ચે કમ્પ્રેસિવ બળ આપીને જાડાઈ ઘટાડવાની ક્રિયાને રોલિંગ (Rolling) કહે છે[cite: 6]."
+  },
+  {
+    "id": 90,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Sheet Metal Forming Processes",
+    "question": "On which machine is the spinning operation performed?",
+    "gujaratiQuestion": "090. સ્પિનિંગ ઓપરેશન શેના પર કરવામાં આવે છે?",
+    "options": [
+      "હાઈડ્રોલિક પ્રેસ",
+      "મિકેનિકલ પ્રેસ",
+      "લેથ (Lathe)",
+      "મિલિંગ મશીન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "શીટ મેટલ સ્પિનિંગ ઓપરેશન ફોર્મિંગ ટૂલ અને મેન્ડ્રેલનો ઉપયોગ કરીને લેથ મશીન (Lathe) પર કરવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 91,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Forging, Rolling, Extrusion & Drawing",
+    "question": "Which rolls are used to prevent deflection of work rolls in a four-high (4-high) rolling mill?",
+    "gujaratiQuestion": "091. ફોર-હાઈ (4-high) રોલિંગ મિલમાં વર્ક રોલ્સને વળતા અટકાવવા કયા રોલર્સનો ઉપયોગ થાય છે?",
+    "options": [
+      "આઇડલર રોલ્સ",
+      "બેક-અપ રોલ્સ",
+      "ગાઈડ રોલ્સ",
+      "ડ્રાઈવ રોલ્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નાના વ્યાસવાળા વર્ક રોલ્સને બેન્ડિંગ અને ડિફ્લેક્શનથી બચાવવા મોટા બેક-અપ રોલ્સ વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 92,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Forging, Rolling, Extrusion & Drawing",
+    "question": "What is the process of forcing metal in a closed chamber through a die orifice called?",
+    "gujaratiQuestion": "092. મેટલને બંધ ચેમ્બરમાં દબાણ આપીને ડાઈમાંથી બહાર કાઢવાની પ્રક્રિયા કઈ છે?",
+    "options": [
+      "રોલિંગ",
+      "વાયર ડ્રોઇંગ",
+      "એક્સટ્રુઝન",
+      "પિયર્સિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કન્ટેનરમાં રહેલી ધાતુ પર ઊંચું દબાણ આપી ડાઈના મુખમાંથી બહાર કાઢવાની ક્રિયાને એક્સટ્રુઝન (Extrusion) કહે છે[cite: 6]."
+  },
+  {
+    "id": 93,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Match the welding processes with their characteristics/applications:\nP. Friction welding - 4. Joining dissimilar cylindrical materials\nQ. Gas metal arc welding - 3. Consumable electrode wire\nR. Tungsten inert gas welding - 1. Non-consumable electrode\nS. Electroslag welding - 2. Joining thick plates",
+    "gujaratiQuestion": "Q93. નીચેના જોડકાં જોડો:\nપ્રોસેસિસ:\nP. ફ્રિક્શન વેલ્ડિંગ\nQ. ગેસ મેટલ આર્ક વેલ્ડિંગ\nR. ટંગસ્ટન ઇનર્ટ ગેસ વેલ્ડિંગ\nS. ઈલેક્ટ્રોસ્લેગ વેલ્ડિંગ\nલાક્ષણિકતા/ઉપયોગ:\n1. નોન-કન્ઝ્યુમેબલ ઈલેક્ટ્રોડ\n2. જાડી પ્લેટ્સને જોડવા\n3. કન્ઝ્યુમેબલ ઇલેક્ટ્રોડ વાયર\n4. સિલિન્ડ્રિકલ ડિસ-સિમિલર મટિરિયલ્સને જોડવા",
+    "options": [
+      "P-4, Q-3, R-1, S-2",
+      "P-4, Q-2, R-3, S-1",
+      "P-2, Q-3, R-4, S-1",
+      "P-2, Q-4, R-1, S-3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સાચો ક્રમ: Friction welding -> Dissimilar cylindrical materials (4), GMAW -> Consumable wire (3), TIG -> Non-consumable electrode (1), Electroslag -> Thick plates (2)[cite: 6]."
+  },
+  {
+    "id": 94,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Forging, Rolling, Extrusion & Drawing",
+    "question": "In which type of extrusion is there no friction between die billet and container wall?",
+    "gujaratiQuestion": "094. કયા પ્રકારના એક્સટ્રુઝનમાં ડાઈ અને બિલેટ કન્ટેનર વચ્ચે ઘર્ષણ (Friction) થતું નથી?",
+    "options": [
+      "ફોરવર્ડ એક્સટ્રુઝન",
+      "ડાયરેક્ટ એક્સટ્રુઝન",
+      "બેકવર્ડ એક્સટ્રુઝન",
+      "ઈમ્પેક્ટ એક્સટ્રુઝન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બેકવર્ડ (ઇનડાયરેક્ટ) એક્સટ્રુઝનમાં બિલેટ કન્ટેનરની સાપેક્ષે ખસતો ન હોવાથી દીવાલ સાથે ઘર્ષણ શૂન્ય રહે છે[cite: 6]."
+  },
+  {
+    "id": 95,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Forging, Rolling, Extrusion & Drawing",
+    "question": "Which process pulls metal through a die orifice to reduce its diameter?",
+    "gujaratiQuestion": "095. મેટલને ડાઈના છિદ્રમાંથી ખેંચીને તેનો ડાયામીટર ઘટાડવાની પ્રક્રિયા કઈ છે?",
+    "options": [
+      "એક્સટ્રુઝન",
+      "વાયર ડ્રોઇંગ",
+      "રોલિંગ",
+      "અપસેટિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ધાતુને ટેન્સાઇલ પુલિંગ ફોર્સ આપી ડાઈમાંથી ખેંચીને વ્યાસ ઘટાડવાની ક્રિયા વાયર ડ્રોઇંગ (Wire Drawing) છે[cite: 6]."
+  },
+  {
+    "id": 96,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Forging, Rolling, Extrusion & Drawing",
+    "question": "When metal passes through a die in a drawing operation, what type of stress is induced in it?",
+    "gujaratiQuestion": "096. ડ્રોઇંગ ઓપરેશનમાં મેટલ ડાઈમાંથી પસાર થાય ત્યારે તેમાં કયા પ્રકારનો સ્ટ્રેસ ઉત્પન્ન થાય છે?",
+    "options": [
+      "માત્ર ટેન્સાઈલ",
+      "માત્ર કમ્પ્રેસિવ",
+      "ટેન્સાઈલ અને કમ્પ્રેસિવ બંને",
+      "માત્ર શીયર"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડ્રોઇંગમાં આગળ ખેંચાણથી ટેન્સાઇલ અને ડાઇની સપાટીના દબાણથી કમ્પ્રેસિવ બંને સ્ટ્રેસ પેદા થાય છે[cite: 6]."
+  },
+  {
+    "id": 97,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Electrical, Electrochemical & Thermal Machining",
+    "question": "In Electrical Discharge Machining (EDM), what is the tool made of?",
+    "gujaratiQuestion": "097. ઈલેક્ટ્રો ડિસ્ચાર્જ મશીનિંગ (EDM) માં, ટૂલ શેમાંથી બનેલું હોય છે?",
+    "options": [
+      "પ્લેન કાર્બન સ્ટીલ",
+      "કોપર",
+      "કાસ્ટ આયર્ન",
+      "હાઈ સ્પીડ સ્ટીલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "EDM ટૂલ ઉચ્ચ વાહકતા ધરાવતી ધાતુઓ જેમ કે કોપર, બ્રાસ અથવા ગ્રેફાઇટમાંથી બનાવવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 98,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Forging, Rolling, Extrusion & Drawing",
+    "question": "What is the primary function of flash in closed-die forging?",
+    "gujaratiQuestion": "098. ક્લોઝ્ડ-ડાઈ ફોર્જિંગમાં ફ્લેશ (Flash) નું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "મટિરિયલનો બગાડ અટકાવવો",
+      "કેવિટીમાં મેટલને પૂરેપૂરું ભરવા માટે દબાણ પૂરું પાડવું",
+      "ડાઈની અંદર પ્રવાહી મેટલને રોકવું",
+      "મેટલને ઝડપથી ઠંડુ કરવું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ફ્લેશ ગટર આગળ ઝડપથી ઠંડી થતી ધાતુ અવરોધ પેદા કરે છે, જે ઊંચું દબાણ રચીને ડાઇની તમામ બારીક કેવિટી ભરી દે છે[cite: 6]."
+  },
+  {
+    "id": 99,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Sheet Metal Forming Processes",
+    "question": "Which process is used to make a hole in sheet metal where the punched-out piece is considered scrap?",
+    "gujaratiQuestion": "099. શીટ મેટલમાંથી છિદ્ર (Hole) બનાવવા માટે કઈ પ્રક્રિયા વપરાય છે, જેમાં કાપેલું મેટલ સ્ક્રેપ ગણાય છે?",
+    "options": [
+      "બ્લેન્કિંગ",
+      "કોઇનિંગ",
+      "પંચિંગ",
+      "બેન્ડિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પંચિંગ (Punching / Piercing) માં બહાર નીકળતો કટ-આઉટ ટુકડો સ્ક્રેપ બને છે અને બાકીની શીટ મુખ્ય પ્રોડક્ટ હોય છે[cite: 6]."
+  },
+  {
+    "id": 100,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Unconventional Machining Processes",
+    "question": "In Abrasive Jet Machining, as stand-off distance (SOD) between nozzle tip and work surface increases, the Material Removal Rate (MRR):",
+    "gujaratiQuestion": "0100. એબ્રેસિવ જેટ મશીનિંગમાં, જેમ-જેમ નોઝલ ટિપ અને વર્ક સરફેસ વચ્ચેનું અંતર વધે છે, તેમ મટિરિયલ રિમૂવલ રેટ:",
+    "options": [
+      "સતત વધે છે",
+      "સતત ઘટે છે",
+      "ઘટે છે, સ્થિર થાય છે અને પછી વધે છે",
+      "વધે છે, સ્થિર થાય છે અને પછી ઘટે છે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "SOD વધતાં જેટ ફેલાય છે જેથી શરૂઆતમાં MRR વધે છે, મહત્તમ બને છે અને વધુ અંતરે વેગ ઘટતાં MRR ઘટે છે[cite: 6]."
+  },
+  {
+    "id": 101,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Sheet Metal Forming Processes",
+    "question": "If the cut-out piece is the useful product and the remaining sheet is scrap, the process is:",
+    "gujaratiQuestion": "0101. જો કાપીને અલગ કરેલો ભાગ પ્રોડક્ટ હોય અને બાકીની શીટ સ્ક્રેપ હોય, તો તે પ્રક્રિયા કઈ છે?",
+    "options": [
+      "પંચિંગ",
+      "બ્લેન્કિંગ",
+      "પિયર્સિંગ",
+      "નોચિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "જ્યારે કપાતો ટુકડો મુખ્ય ઉપયોગી પાર્ટ (Blank) હોય ત્યારે તે પ્રક્રિયાને બ્લેન્કિંગ (Blanking) કહે છે[cite: 6]."
+  },
+  {
+    "id": 102,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Sheet Metal Forming Processes",
+    "question": "In deep drawing, what is used to prevent wrinkling of the sheet flange?",
+    "gujaratiQuestion": "0102. ડીપ ડ્રોઈંગ પ્રક્રિયામાં શીટને કરચલી પડતી (Wrinkling) અટકાવવા કોનો ઉપયોગ થાય છે?",
+    "options": [
+      "ડાઈ રેડિયસ",
+      "બ્લેન્ક હોલ્ડર",
+      "પાઈલોટ પંચ",
+      "સ્ટ્રિપર"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બ્લેન્ક હોલ્ડર (Blank holder / Pressure pad) ફ્લેન્જ પર દબાણ જાળવી રાખી કરચલીઓ પડતી અટકાવે છે[cite: 6]."
+  },
+  {
+    "id": 103,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "In Mohr's circle, the maximum shear stress is equal to:",
+    "gujaratiQuestion": "0103. મોહરના સર્કલમાં મેક્સિમમ શિયર સ્ટ્રેસ કોના બરાબર હોય છે?",
+    "options": [
+      "મોહર સર્કલની ત્રિજ્યા (radius) બરાબર",
+      "મોહર સર્કલની ત્રિજ્યા કરતા વધારે",
+      "મોહર સર્કલની ત્રિજ્યા કરતા ઓછો",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "મોહર્સ સર્કલની ત્રિજ્યા R = (σ1 - σ2)/2 એ મહત્તમ શીયર સ્ટ્રેસ (τ_max) દર્શાવે છે[cite: 6]."
+  },
+  {
+    "id": 104,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Sheet Metal Forming Processes",
+    "question": "The tendency of sheet metal to slightly recover its original shape upon unloading after bending is called:",
+    "gujaratiQuestion": "0104. બેન્ડિંગ પૂરું થયા પછી ફોર્સ દૂર કરતા શીટની થોડી પાછી ફરવાની વૃત્તિને શું કહે છે?",
+    "options": [
+      "રિઝિલિયન્સ",
+      "સ્પ્રિંગબેક",
+      "પ્લાસ્ટિસિટી",
+      "હાર્ડનિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇલાસ્ટિક રિકવરીને કારણે બેન્ડિંગ પછી શીટ મૂળ આકાર તરફ સહેજ ખુલી જવાની ક્રિયાને સ્પ્રિંગબેક (Springback) કહે છે[cite: 6]."
+  },
+  {
+    "id": 105,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Powder Metallurgy",
+    "question": "What is the first step in the powder metallurgy process?",
+    "gujaratiQuestion": "0105. પાઉડર મેટલર્જી પ્રક્રિયાનો સૌથી પહેલો તબક્કો કયો છે?",
+    "options": [
+      "બ્લેન્ડિંગ",
+      "સિન્ટરિંગ",
+      "પાઉડર બનાવવો",
+      "કોમ્પેક્ટિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "પાઉડર મેટલર્જીનો પ્રથમ તબક્કો ધાતુનો પાઉડર બનાવવો (Powder manufacturing / Atomization) છે[cite: 6]."
+  },
+  {
+    "id": 106,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Which of the following welding processes uses a non-consumable electrode?",
+    "gujaratiQuestion": "0106. નીચેનામાંથી કઈ વેલ્ડિંગ પ્રોસેસમાં નોન-કન્ઝ્યુમેબલ ઈલેક્ટ્રોડનો ઉપયોગ થાય છે?",
+    "options": [
+      "લેસર વેલ્ડિંગ",
+      "MIG વેલ્ડિંગ",
+      "TIG વેલ્ડિંગ",
+      "પ્લાઝમા વેલ્ડિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "TIG (GTAW) વેલ્ડિંગમાં આર્ક રચવા માટે નોન-કન્ઝ્યુમેબલ ટંગસ્ટન ઇલેક્ટ્રોડ વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 107,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Powder Metallurgy",
+    "question": "In powder metallurgy, the operation of pressing mixed powder in a die with punches is called:",
+    "gujaratiQuestion": "0107. પાઉડર મેટલર્જીમાં મિક્સ કરેલા પાઉડરને ડાઈ અને પંચ વડે દબાવવાની ક્રિયાને શું કહે છે?",
+    "options": [
+      "સિન્ટરિંગ",
+      "કોમ્પેક્ટિંગ",
+      "બ્લેન્ડિંગ",
+      "સાઈઝિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પાઉડરને ડાઇમાં મૂકી ઊંચા દબાણે ગ્રીન કોમ્પેક્ટ બનાવવાની ક્રિયાને કોમ્પેક્ટિંગ (Compacting) કહે છે[cite: 6]."
+  },
+  {
+    "id": 108,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Powder Metallurgy",
+    "question": "What is the pressed powder part after compacting but before sintering called?",
+    "gujaratiQuestion": "0108. કોમ્પેક્ટિંગ કર્યા પછી પણ સિન્ટરિંગ કરતા પહેલાના દબાવેલા પાઉડરના ભાગને શું કહેવાય છે?",
+    "options": [
+      "ગ્રીન કોમ્પેક્ટ",
+      "વ્હાઈટ કોમ્પેક્ટ",
+      "બ્લેક કોમ્પેક્ટ",
+      "રો પાઉડર"
+    ],
+    "correctAnswer": 0,
+    "explanation": "કોમ્પેક્શન પછી મળતા અને સિન્ટરિંગ પહેલાંના અનસિન્ટર્ડ દબાયેલા ભાગને ગ્રીન કોમ્પેક્ટ (Green compact) કહે છે[cite: 6]."
+  },
+  {
+    "id": 109,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Better arc stability is obtained with which type of welding power source?",
+    "gujaratiQuestion": "0109. આર્ક સ્ટેબિલિટી (સ્થિરતા) શેનાથી વધુ સારી મળે છે?",
+    "options": [
+      "AC વેલ્ડિંગ",
+      "DC વેલ્ડિંગ",
+      "AC અને DC બંને વેલ્ડિંગ",
+      "રેક્ટિફાઈડ સપ્લાય"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DC વેલ્ડિંગમાં સતત એકદિશીય પ્રવાહ વહેતો હોવાથી આર્ક વધુ સ્થિર અને સ્મૂથ રહે છે[cite: 6]."
+  },
+  {
+    "id": 110,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Powder Metallurgy",
+    "question": "What temperature is maintained during the sintering process in powder metallurgy?",
+    "gujaratiQuestion": "Q110. પાઉડર મેટલર્જીમાં સિન્ટરિંગ (Sintering) પ્રક્રિયા દરમિયાન તાપમાન કેટલું રાખવામાં આવે છે?",
+    "options": [
+      "ધાતુના ગલનબિંદુથી ઉપર",
+      "ધાતુના ગલનબિંદુથી થોડું નીચે",
+      "રૂમ તાપમાન જેટલું",
+      "100°C થી નીચે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સિન્ટરિંગ પ્રક્રિયા મુખ્ય ઘટક ધાતુના ગલનબિંદુથી સહેજ નીચે (0.7 થી 0.8 Tm) કણોના થર્મલ બોન્ડિંગ માટે થાય છે[cite: 6]."
+  },
+  {
+    "id": 111,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Which gas mixture is most commonly used in gas welding?",
+    "gujaratiQuestion": "0111. ગેસ વેલ્ડિંગમાં સૌથી વધુ કયા ગેસ મિશ્રણનો ઉપયોગ થાય છે?",
+    "options": [
+      "ઓક્સિજન અને હાઈડ્રોજન",
+      "ઓક્સિજન અને એસિટિલીન",
+      "નાઇટ્રોજન અને મિથેન",
+      "હિલિયમ અને ઑક્સિજન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "લગભગ 3200°C જેટલું ઊંચું જ્વાળા તાપમાન આપતું ઓક્સી-એસિટિલીન (Oxy-acetylene) મિશ્રણ સૌથી વધુ વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 112,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Forge welding is most suitable for which material?",
+    "gujaratiQuestion": "0112. ફોર્જ વેલ્ડિંગ કયા મટિરિયલ માટે સૌથી વધુ યોગ્ય છે?",
+    "options": [
+      "સ્ટેનલેસ સ્ટીલ",
+      "હાઈ કાર્બન સ્ટીલ",
+      "કાસ્ટ આયર્ન",
+      "રોટ આયર્ન"
+    ],
+    "correctAnswer": 3,
+    "explanation": "રોટ આયર્ન (Wrought iron) માં ઓછો કાર્બન અને સ્લેગ ફાઇબર્સ હોવાથી તે ફોર્જ વેલ્ડિંગ માટે સૌથી વધુ અનુકૂળ છે[cite: 6]."
+  },
+  {
+    "id": 113,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Which type of electrode is used in TIG welding?",
+    "gujaratiQuestion": "Q113. TIG (Tungsten Inert Gas) વેલ્ડિંગમાં કયા પ્રકારના ઈલેક્ટ્રોડનો ઉપયોગ થાય છે?",
+    "options": [
+      "કન્ઝ્યુમેબલ",
+      "નોન-કન્ઝ્યુમેબલ ટંગસ્ટન",
+      "કોટેડ",
+      "કાર્બન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TIG વેલ્ડિંગમાં નોન-કન્ઝ્યુમેબલ ટંગસ્ટન ઇલેક્ટ્રોડ આર્ક જાળવવા માટે વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 114,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "What is the melting temperature of filler metal in a brazing process?",
+    "gujaratiQuestion": "0114. બ્રેઝિંગ પ્રક્રિયામાં ફિલર મેટલનું તાપમાન કેટલું હોય છે?",
+    "options": [
+      "450°C થી નીચે",
+      "બેઝ મેટલના ગલનબિંદુથી ઉપર",
+      "450°C થી ઉપર પરંતુ બેઝ મેટલના ગલનબિંદુથી નીચે",
+      "3000°C"
+    ],
+    "correctAnswer": 2,
+    "explanation": "બ્રેઝિંગમાં ફિલર મેટલ 450°C થી ઉપર પરંતુ બેઝ મેટલના ગલનબિંદુથી નીચા તાપમાને ઓગળે છે[cite: 6]."
+  },
+  {
+    "id": 115,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "In arc welding operations, the current value is primarily selected based on:",
+    "gujaratiQuestion": "0115. આર્ક વેલ્ડિંગ ઓપરેશન્સમાં કરંટનું મૂલ્ય શેના આધારે નક્કી થાય છે?",
+    "options": [
+      "પ્લેટની જાડાઈ",
+      "વેલ્ડ કરવાના ભાગની લંબાઈ",
+      "આર્ક વચ્ચેનો વોલ્ટેજ",
+      "ઈલેક્ટ્રોડની સાઈઝ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "આર્ક વેલ્ડિંગમાં વેલ્ડિંગ કરંટ મુખ્યત્વે વપરાતા ઇલેક્ટ્રોડના વ્યાસ (Electrode size) ના આધારે પસંદ કરાય છે[cite: 6]."
+  },
+  {
+    "id": 116,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Soft solder is primarily an alloy of which metals?",
+    "gujaratiQuestion": "0116. સોફ્ટ સોલ્ડર મુખ્યત્વે કઈ ધાતુઓનો એલોય છે?",
+    "options": [
+      "કોપર અને ઝીંક",
+      "લેડ અને ટીન",
+      "એલ્યુમિનિયમ અને મેગ્નેશિયમ",
+      "આયર્ન અને કાર્બન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સોફ્ટ સોલ્ડર એ લેડ (Lead) અને ટીન (Tin) નો મિશ્રધાતુ છે[cite: 6]."
+  },
+  {
+    "id": 117,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Where is heat obtained from in Thermit welding?",
+    "gujaratiQuestion": "0117. થર્મિટ વેલ્ડિંગમાં ઉષ્મા (Heat) ક્યાંથી મેળવવામાં આવે છે?",
+    "options": [
+      "ઇલેક્ટ્રિક આર્ક",
+      "ગેસ ફ્લેમ",
+      "રાસાયણિક પ્રક્રિયા",
+      "લેસર બીમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "એલ્યુમિનિયમ અને આયર્ન ઓક્સાઇડ વચ્ચેની થર્મિટ રાસાયણિક પ્રક્રિયામાંથી વિપુલ ઉષ્મા મળે છે[cite: 6]."
+  },
+  {
+    "id": 118,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Which of the following is a widely used flux in brazing process?",
+    "gujaratiQuestion": "0118. બ્રેઝિંગ પ્રોસેસમાં _____ એ વ્યાપકપણે વપરાતો ફ્લક્સ છે.",
+    "options": [
+      "NaCl",
+      "બોરેક્સ (Borax)",
+      "સ્લેગ",
+      "સીસું (Lead)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બ્રેઝિંગમાં ઓક્સાઇડ દૂર કરવા અને સપાટી સ્વચ્છ રાખવા બોરેક્સ (Borax) નો વ્યાપક ઉપયોગ થાય છે[cite: 6]."
+  },
+  {
+    "id": 119,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "In resistance spot welding, electrodes are mostly made of which metal?",
+    "gujaratiQuestion": "0119. રેઝિસ્ટન્સ સ્પોટ વેલ્ડિંગમાં ઇલેક્ટ્રોડ્સ મોટેભાગે કઈ ધાતુમાંથી બને છે?",
+    "options": [
+      "સ્ટીલ",
+      "કોપર",
+      "કાસ્ટ આયર્ન",
+      "ટંગસ્ટન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઉચ્ચ વિદ્યુત અને ઉષ્મા વાહકતા માટે સ્પોટ વેલ્ડિંગ ઇલેક્ટ્રોડ્સ કોપર અથવા કોપર એલોયમાંથી બને છે[cite: 6]."
+  },
+  {
+    "id": 120,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "What is used in soldering to prevent oxidation and clean the surface?",
+    "gujaratiQuestion": "0120. સોલ્ડરિંગમાં ઓક્સિડેશન રોકવા અને સરફેસ સાફ કરવા શું વપરાય છે?",
+    "options": [
+      "ફ્લક્સ",
+      "સ્લેગ",
+      "પાણી",
+      "એસિડ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સોલ્ડરિંગ ફ્લક્સ સપાટી પરથી ઓક્સાઈડ સાફ કરી સોલ્ડરના ફેલાવાને સરળ બનાવે છે[cite: 6]."
+  },
+  {
+    "id": 121,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "If V is the volume of metal in casting and A is its surface area, solidification time is proportional to:",
+    "gujaratiQuestion": "0121. જો V એ કાસ્ટિંગમાં મેટલનું વોલ્યુમ હોય અને A તેનો સરફેસ એરિયા હોય, તો સોલિડિફિકેશનનો સમય કોના સમપ્રમાણમાં હશે?",
+    "options": [
+      "V / A",
+      "V / A²",
+      "V² / A",
+      "V² / A²"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ચ્વોરિનોવના નિયમ મુજબ ઘનીકરણ સમય ts ∝ (V / A)² = V² / A²[cite: 6]."
+  },
+  {
+    "id": 122,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Heat Treatment & Surface Hardening",
+    "question": "Which heat treatment is performed to soften steel and relieve internal stresses?",
+    "gujaratiQuestion": "0122. સ્ટીલને નરમ બનાવવા અને આંતરિક સ્ટ્રેસ દૂર કરવા કઈ હીટ ટ્રીટમેન્ટ થાય છે?",
+    "options": [
+      "નોર્મલાઇઝિંગ",
+      "ઍનીલિંગ",
+      "હાર્ડનિંગ",
+      "ટેમ્પરિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "એનીલિંગ (Full Annealing) પ્રક્રિયા સ્ટીલને સોફ્ટ બનાવવા અને આંતરિક સ્ટ્રેસ દૂર કરવા માટે વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 123,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Heat Treatment & Surface Hardening",
+    "question": "In the normalizing process, where is steel cooled?",
+    "gujaratiQuestion": "0123. નોર્મલાઇઝિંગ પ્રક્રિયામાં સ્ટીલને ક્યાં ઠંડુ પાડવામાં આવે છે?",
+    "options": [
+      "ભઠ્ઠીમાં",
+      "સ્થિર હવામાં",
+      "પાણીમાં",
+      "તેલમાં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "નોર્મલાઇઝિંગમાં સ્ટીલને અપર ક્રિટિકલ ટેમ્પરેચરથી ઉપર ગરમ કર્યા બાદ ઓરડાના તાપમાને સ્થિર હવામાં (Still air) ઠંડુ કરાય છે[cite: 6]."
+  },
+  {
+    "id": 124,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "Undercutting is a cutting operation performed:",
+    "gujaratiQuestion": "0124. અંડરકટિંગ એ ક્યાં કટિંગ કરવાનું ઓપરેશન છે?",
+    "options": [
+      "નિર્દિષ્ટ (specified) ઝોનની નીચે",
+      "ઊંડો ગ્રૂવ (Deep groove)",
+      "સ્પાઈરલ",
+      "શોલ્ડરની બાજુમાં ગ્રૂવ (A groove next to shoulder)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "શાફ્ટના સ્ટેપ્ડ ડાયામીટર આગળ શોલ્ડરની લગોલગ ગ્રૂવિંગ કરવાની ક્રિયાને અંડરકટિંગ કહે છે[cite: 6]."
+  },
+  {
+    "id": 125,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Heat Treatment & Surface Hardening",
+    "question": "Which process is done after hardening to reduce brittleness and increase toughness of steel?",
+    "gujaratiQuestion": "Q125. સ્ટીલની બરડતા (Brittleness) ઘટાડવા અને ટફનેસ વધારવા હાર્ડનિંગ પછી કઈ પ્રક્રિયા થાય છે?",
+    "options": [
+      "એનીલિંગ",
+      "ટેમ્પરિંગ",
+      "સાયનાઈડિંગ",
+      "સ્ફેરોઇડાઇઝિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હાર્ડનિંગ પછી માર્ટેનસાઇટની બરડતા ઘટાડવા ટેમ્પરિંગ (Tempering) કરવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 126,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Heat Treatment & Surface Hardening",
+    "question": "When steel is rapidly quenched in water, which hard and brittle structure is formed?",
+    "gujaratiQuestion": "0126. સ્ટીલને ઝડપથી પાણીમાં ઠંડુ પાડતા કયું કઠણ અને બરડ સ્ટ્રક્ચર બને છે?",
+    "options": [
+      "પર્લાઇટ",
+      "ફેરાઇટ",
+      "માર્ટેનસાઇટ",
+      "ઓસ્ટેનાઈટ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઝડપી ક્વેન્ચિંગથી કાર્બન ડિફ્યુઝન અટકીને અત્યંત કઠણ માર્ટેનસાઇટ (Martensite) માઇક્રોસ્ટ્રક્ચર બને છે[cite: 6]."
+  },
+  {
+    "id": 127,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Ferrous Materials & Steel Alloys",
+    "question": "Adding chromium to steel primarily increases which property?",
+    "gujaratiQuestion": "0127. સ્ટીલમાં ક્રોમિયમ ઉમેરવાથી કયા ગુણધર્મમાં મુખ્યત્વે વધારો થાય છે?",
+    "options": [
+      "મશીનેબિલિટી",
+      "ઇલેક્ટ્રિકલ કન્ડક્ટિવિટી",
+      "કાટ સામેનો પ્રતિકાર",
+      "સોફ્ટનેસ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સ્ટીલમાં ક્રોમિયમ ઉમેરવાથી કાટ પ્રતિકારકતા (Corrosion resistance) વધે છે[cite: 6]."
+  },
+  {
+    "id": 128,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "What is the included angle (in degrees) of standard lathe centers?",
+    "gujaratiQuestion": "Q128. લેથ સેન્ટર્સ વચ્ચેનો એંગલ (ડિગ્રીમાં) કેટલો હોય છે?",
+    "options": [
+      "60",
+      "30",
+      "45",
+      "15"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સામાન્ય વર્ક હોલ્ડિંગ માટે સ્ટાન્ડર્ડ લેથ સેન્ટર્સનો શંકુ ખૂણો 60° (અને હેવી ડ્યુટી માટે 75°/90°) હોય છે[cite: 6]."
+  },
+  {
+    "id": 129,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Ferrous Materials & Steel Alloys",
+    "question": "What is the primary function of tungsten in High Speed Steel (HSS)?",
+    "gujaratiQuestion": "0129. હાઈ સ્પીડ સ્ટીલ (HSS) માં ટંગસ્ટન (Tungsten) નું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "વજન ઘટાડવું",
+      "રેડ હાર્ડનેસ વધારવી",
+      "ગલનબિંદુ ઘટાડવું",
+      "કાટ લાગવા દેવો"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ટંગસ્ટન ઊંચા કટિંગ તાપમાને પણ ટૂલની કટિંગ ક્ષમતા જાળવવા રેડ હાર્ડનેસ (Red hardness) પૂરી પાડે છે[cite: 6]."
+  },
+  {
+    "id": 130,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Ferrous Materials & Steel Alloys",
+    "question": "In 18/8 stainless steel, what do 18% and 8% represent?",
+    "gujaratiQuestion": "Q130. 18/8 સ્ટેનલેસ સ્ટીલમાં 18% અને 8% શું હોય છે?",
+    "options": [
+      "18% નિકલ, 8% ક્રોમિયમ",
+      "18% ક્રોમિયમ, 8% નિકલ",
+      "18% કાર્બન, 8% આયર્ન",
+      "18% ટંગસ્ટન, 8% વેનેડિયમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "18/8 સ્ટેનલેસ સ્ટીલમાં 18% ક્રોમિયમ (Cr) અને 8% નિકલ (Ni) હોય છે[cite: 6]."
+  },
+  {
+    "id": 132,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Ferrous Materials & Steel Alloys",
+    "question": "In grey cast iron, in which form is carbon mostly present?",
+    "gujaratiQuestion": "0132. ગ્રે કાસ્ટ આયર્નમાં કાર્બન મોટાભાગે કયા સ્વરૂપે રહેલો હોય છે?",
+    "options": [
+      "સિમેન્ટાઈટ",
+      "ગ્રેફાઈટ ફ્લેક્સ",
+      "ઑસ્ટેનાઈટ",
+      "માર્ટેનસાઇટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગ્રે કાસ્ટ આયર્નમાં કાર્બન મુક્ત ગ્રેફાઇટ ફ્લેક્સ (Graphite flakes) ના સ્વરૂપમાં છૂટો રહે છે[cite: 6]."
+  },
+  {
+    "id": 133,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Ferrous Materials & Steel Alloys",
+    "question": "In white cast iron, in which form is carbon present?",
+    "gujaratiQuestion": "0133. વ્હાઈટ કાસ્ટ આયર્નમાં કાર્બન કયા સ્વરૂપે હોય છે?",
+    "options": [
+      "ફ્રી ગ્રેફાઇટ",
+      "આયર્ન કાર્બાઇડ (સિમેન્ટાઈટ)",
+      "માર્ટેનસાઇટ",
+      "લેડેબ્યુરાઈટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વ્હાઇટ કાસ્ટ આયર્નમાં તમામ કાર્બન સંયોજિત આયર્ન કાર્બાઇડ (સિમેન્ટાઇટ Fe3C) તરીકે રહે છે[cite: 6]."
+  },
+  {
+    "id": 134,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Unconventional Machining Processes",
+    "question": "How does ultrasonic machining remove material?",
+    "gujaratiQuestion": "0134. અલ્ટ્રાસોનિક મશીનિંગ કઈ રીતે મટિરિયલ દૂર કરે છે?",
+    "options": [
+      "ટૂલનું વર્કપીસ સાથે સીધું વાઇબ્રેશન કરાવીને",
+      "ટૂલ અને વર્કપીસ વચ્ચે એબ્રેસિવ સ્લરી (slurry) નો ઉપયોગ કરીને",
+      "ટૂલ અને વર્કપીસની આસપાસની હવાને વાઇબ્રેટ કરીને અને કોઇ સંપર્ક ન કરીને",
+      "ઉપરના તમામ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "USM માં અલ્ટ્રાસોનિક વાઇબ્રેટ થતા ટૂલ અને વર્કપીસ વચ્ચે વહેતી એબ્રેસિવ સ્લરીના માઇક્રો-ચિપિંગથી મટીરીયલ દૂર થાય છે[cite: 6]."
+  },
+  {
+    "id": 135,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Ferrous Materials & Steel Alloys",
+    "question": "Which cast iron is used to manufacture machine tool beds due to its good vibration damping capacity?",
+    "gujaratiQuestion": "0135. મશીન ટૂલના બેડ બનાવવા કયું કાસ્ટ આયર્ન વપરાય છે કારણ કે તેમાં સારી વાઈબ્રેશન ડેમ્પિંગ ક્ષમતા હોય છે?",
+    "options": [
+      "વ્હાઈટ કાસ્ટ આયર્ન",
+      "નોડ્યુલર કાસ્ટ આયર્ન",
+      "ગ્રે કાસ્ટ આયર્ન",
+      "મેલિએબલ કાસ્ટ આયર્ન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ગ્રે કાસ્ટ આયર્નમાં ગ્રેફાઇટ ફ્લેક્સ હોવાથી તે વાઇબ્રેશન શોષવાની ઉત્કૃષ્ટ ક્ષમતા ધરાવે છે[cite: 6]."
+  },
+  {
+    "id": 136,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Ferrous Materials & Steel Alloys",
+    "question": "Malleable cast iron is obtained from:",
+    "gujaratiQuestion": "Q136. મેલિએબલ કાસ્ટ આયર્ન શેમાંથી મેળવવામાં આવે છે?",
+    "options": [
+      "ગ્રે કાસ્ટ આયર્નમાંથી",
+      "વ્હાઇટ કાસ્ટ આયર્નની એનીલિંગ પ્રક્રિયાથી",
+      "નોડ્યુલર કાસ્ટ આયર્નમાંથી",
+      "સ્ટીલમાંથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વ્હાઇટ કાસ્ટ આયર્નને લાંબી એનીલિંગ હીટ ટ્રીટમેન્ટ આપવાથી મેલિએબલ કાસ્ટ આયર્ન બને છે[cite: 6]."
+  },
+  {
+    "id": 137,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "Which is the best coolant and lubricant for brass, copper, bronze, and monel metal?",
+    "gujaratiQuestion": "0137. બ્રાસ, કોપર, બ્રોન્ઝ અને મોનેલ (monel) મેટલ માટે બેસ્ટ કૂલન્ટ અને લ્યુબ્રિકન્ટ કયું છે?",
+    "options": [
+      "પાણી, સોલ્યુબલ ઓઇલ્સ અથવા સલ્ફર-આધારિત મિનરલ ઓઇલ્સ",
+      "મિનરલ અને ફેટી ઓઈલ્સ",
+      "સોલ્યુબલ ઓઈલ",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કોપર અને બ્રાસ એલોયના મશીનિંગ માટે વોટર-ઇમલ્સિફાઇડ સોલ્યુબલ ઓઇલ સૌથી અનુકૂળ કૂલન્ટ છે[cite: 6]."
+  },
+  {
+    "id": 138,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Non-Ferrous Materials & Super Alloys",
+    "question": "Brass is an alloy of which two metals?",
+    "gujaratiQuestion": "Q138. બ્રાસ (Brass) એ કઈ બે ધાતુઓનો એલોય છે?",
+    "options": [
+      "કોપર અને ટીન",
+      "કોપર અને ઝીંક",
+      "આયર્ન અને કાર્બન",
+      "કોપર અને એલ્યુમિનિયમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બ્રાસ (પિત્તળ) એ કોપર અને ઝીંકનો મિશ્રધાતુ છે[cite: 6]."
+  },
+  {
+    "id": 139,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Non-Ferrous Materials & Super Alloys",
+    "question": "Bronze is primarily an alloy of which two metals?",
+    "gujaratiQuestion": "0139. બ્રોન્ઝ (Bronze) એ મુખ્યત્વે કઈ બે ધાતુઓનો એલોય છે?",
+    "options": [
+      "કોપર અને ઝીંક",
+      "કોપર અને ટીન",
+      "લેડ અને ટીન",
+      "એલ્યુમિનિયમ અને નિકલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બ્રોન્ઝ (કાંસું) એ મુખ્યત્વે કોપર અને ટીનનો મિશ્રધાતુ છે[cite: 6]."
+  },
+  {
+    "id": 140,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "Metallic patterns are used for:",
+    "gujaratiQuestion": "Q140. મેટલ પેટર્નનો ઉપયોગ શેના માટે થાય છે?",
+    "options": [
+      "નાના કાસ્ટિંગ માટે",
+      "મોટા કાસ્ટિંગ માટે",
+      "કોમ્પ્લિકેટેડ કાસ્ટિંગ માટે",
+      "કાસ્ટિંગના લાર્જ સ્કેલ પ્રોડક્શન માટે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "મોટા જથ્થામાં માસ પ્રોડક્શન (Large scale production) કરવા માટે ટકાઉ મેટલ પેટર્ન વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 141,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Non-Ferrous Materials & Super Alloys",
+    "question": "Which copper alloy is best suited to prevent corrosion in marine environments?",
+    "gujaratiQuestion": "0141. દરિયાઈ વાતાવરણમાં કાટ ન લાગે તે માટે કયો કોપર એલોય શ્રેષ્ઠ છે?",
+    "options": [
+      "માઈલ્ડ સ્ટીલ",
+      "ક્યુપ્રો-નિકલ",
+      "હાઈ કાર્બન સ્ટીલ",
+      "કાસ્ટ આયર્ન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ક્યુપ્રો-નિકલ (Cupronickel) દરિયાઈ ખારા પાણી સામે ઉત્તમ કાટ પ્રતિકારકતા ધરાવે છે[cite: 6]."
+  },
+  {
+    "id": 142,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Ferrous Materials & Steel Alloys",
+    "question": "Approximately what percentage of nickel is present in Maraging Steel?",
+    "gujaratiQuestion": "Q142. માર્જિંગ સ્ટીલ (Maraging Steel) માં નિકલનું પ્રમાણ અંદાજે કેટલું હોય છે?",
+    "options": [
+      "1% થી 2%",
+      "5% થી 10%",
+      "18% થી 25%",
+      "40% થી 50%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "મારેજિંગ સ્ટીલમાં અલ્ટ્રા-હાઇ સ્ટ્રેન્થ મેળવવા માટે આશરે 18% થી 25% નિકલ હોય છે[cite: 6]."
+  },
+  {
+    "id": 143,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "Thread rolling is limited to which materials?",
+    "gujaratiQuestion": "0143. થ્રેડ રોલિંગ કયા મટિરિયલ્સ પૂરતું મર્યાદિત છે?",
+    "options": [
+      "ફેરસ મટિરિયલ્સ",
+      "ડક્ટાઇલ મટિરિયલ્સ",
+      "હાર્ડ મટિરિયલ્સ",
+      "આમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "થ્રેડ રોલિંગ એ કોલ્ડ ફોર્મિંગ પ્રોસેસ હોવાથી તે પૂરતી ડક્ટિલિટી ધરાવતી સામગ્રી પૂરતી મર્યાદિત છે[cite: 6]."
+  },
+  {
+    "id": 144,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Ferrous Materials & Steel Alloys",
+    "question": "What is an important characteristic property of Austenitic Stainless Steel?",
+    "gujaratiQuestion": "0144. ઑસ્ટેનિટિક સ્ટેનલેસ સ્ટીલનો એક અગત્યનો ગુણધર્મ કયો છે?",
+    "options": [
+      "તે ચુંબકીય છે",
+      "તે નોન-મેગ્નેટિક છે",
+      "તેને હીટ ટ્રીટમેન્ટથી હાર્ડ કરી શકાય છે",
+      "તે કાસ્ટ આયર્ન કરતા સસ્તું છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઓસ્ટેનિટિક સ્ટેનલેસ સ્ટીલ બિન-ચુંબકીય (Non-magnetic) હોય છે[cite: 6]."
+  },
+  {
+    "id": 145,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Ferrous Materials & Steel Alloys",
+    "question": "Which element is added to steel to reduce the harmful effects of sulfur?",
+    "gujaratiQuestion": "0145. સલ્ફરની ખરાબ અસરો ઘટાડવા સ્ટીલમાં કયું તત્વ ઉમેરવામાં આવે છે?",
+    "options": [
+      "નિકલ",
+      "મેંગેનીઝ",
+      "સિલિકોન",
+      "કોબાલ્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મેંગેનીઝ (Mn) સલ્ફર સાથે MnS બનાવીને રેડ શોર્ટનેસની ખરાબ અસરો ઘટાડે છે[cite: 6]."
+  },
+  {
+    "id": 146,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "A casting defect that results in the enlargement of the casting is called:",
+    "gujaratiQuestion": "Q146. એવી કાસ્ટિંગ ડિફેક્ટ કે જેના પરિણામે કાસ્ટિંગ સામાન્ય રીતે મોટું થઈ જાય છે (enlargement), તેને શું કહેવાય છે?",
+    "options": [
+      "શિફ્ટ",
+      "સેન્ડ વોશ",
+      "સ્વેલ",
+      "સ્કેબ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ધાતુના દબાણથી મોલ્ડ કેવિટી ફૂલી જતાં કાસ્ટિંગ મોટું થઈ જવાની ખામીને સ્વેલ (Swell) કહે છે[cite: 6]."
+  },
+  {
+    "id": 147,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Heat Treatment & Surface Hardening",
+    "question": "Which heat treatment is given to improve the machinability of high carbon steel?",
+    "gujaratiQuestion": "0147. હાઈ કાર્બન સ્ટીલની મશીનેબિલિટી સુધારવા માટે કઈ હીટ ટ્રીટમેન્ટ અપાય છે?",
+    "options": [
+      "નોર્મલાઈઝિંગ",
+      "સ્ફેરોઈડાઈઝિંગ",
+      "ટેમ્પરિંગ",
+      "નાઈટ્રાઈડિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સ્ફેરોઇડાઇઝિંગ પ્રક્રિયા હાઇ કાર્બન સ્ટીલમાં સિમેન્ટાઇટને ગોળાકાર બનાવી મશીનેબિલિટી વધારે છે[cite: 6]."
+  },
+  {
+    "id": 148,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Non-Ferrous Materials & Super Alloys",
+    "question": "What is the primary alloying element in duralumin besides aluminum?",
+    "gujaratiQuestion": "0148. ડ્યુરાલ્યુમિનમાં એલ્યુમિનિયમ સિવાયનું મુખ્ય એલોયિંગ એલિમેન્ટ કયું હોય છે?",
+    "options": [
+      "કાર્બન",
+      "ઝીંક",
+      "કોપર",
+      "ટીન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ડ્યુરાલ્યુમિનમાં આશરે 4% કોપર (Cu) મુખ્ય એલોયિંગ તત્વ તરીકે હોય છે[cite: 6]."
+  },
+  {
+    "id": 149,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Electrical, Electrochemical & Thermal Machining",
+    "question": "EDM is generally preferred for which type of materials?",
+    "gujaratiQuestion": "Q149. EDM સામાન્ય રીતે શેના માટે પસંદ કરવામાં આવે છે?",
+    "options": [
+      "નોન-ફેરસ મટિરિયલ્સ",
+      "નોન-મેટાલિક કમ્પાઉન્ડ્સ",
+      "પોલિમર્સ",
+      "કંડક્ટિવ મટિરિયલ્સ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "EDM માં સ્પાર્ક પેદા કરવા માટે વર્કપીસ વિદ્યુત વાહક (Electrically conductive) હોવો અનિવાર્ય છે[cite: 6]."
+  },
+  {
+    "id": 150,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Heat Treatment & Surface Hardening",
+    "question": "Which heat treatment process is used to increase the strength of aluminum-copper alloys?",
+    "gujaratiQuestion": "0150. એલ્યુમિનિયમ-કોપર એલોયની તાકાત વધારવા કઈ હીટ ટ્રીટમેન્ટ પ્રક્રિયા વપરાય છે?",
+    "options": [
+      "એજ હાર્ડનિંગ",
+      "કાર્બ્યુરાઇઝિંગ",
+      "નોર્મલાઇઝિંગ",
+      "સાયનાઈડિંગ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Al-Cu એલોયની મજબૂતાઈ વધારવા માટે પ્રેસિપિટેશન અથવા એજ હાર્ડનિંગ (Age hardening) કરવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 151,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Non-Ferrous Materials & Super Alloys",
+    "question": "Which aluminum alloy is used for manufacturing pistons and cylinder heads?",
+    "gujaratiQuestion": "0151. પિસ્ટન અને સિલિન્ડર હેડ બનાવવા માટે કયો એલ્યુમિનિયમ એલોય વપરાય છે?",
+    "options": [
+      "બ્રાસ",
+      "Y-એલોય",
+      "હાઈ સ્પીડ સ્ટીલ",
+      "ઈન્કોનેલ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Y-એલોય (Al-Cu-Ni-Mg) ઊંચા તાપમાને પણ સારી સ્ટ્રેન્થ જાળવી રાખતો હોવાથી એન્જિનના પિસ્ટન અને સિલિન્ડર હેડ માટે વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 152,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Forging, Rolling, Extrusion & Drawing",
+    "question": "What is the process of passing a rod through multiple dies of progressively decreasing diameters called?",
+    "gujaratiQuestion": "Q152 રોડને ક્રમશઃ ઘટતા વ્યાસવાળી અનેક ડાઈમાંથી પસાર કરવાની પ્રક્રિયાને શું કહેવાય છે?",
+    "options": [
+      "રોલિંગ",
+      "સ્ટ્રેચ ફોર્મિંગ",
+      "ટ્રીમિંગ",
+      "વાયર ડ્રોઇંગ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ક્રમશઃ નાના છિદ્રવાળી ડાઇસમાંથી ખેંચીને સળિયા કે વાયરનો વ્યાસ ઘટાડવાની પ્રક્રિયાને વાયર ડ્રોઇંગ કહે છે[cite: 6]."
+  },
+  {
+    "id": 153,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Non-Ferrous Materials & Super Alloys",
+    "question": "What is the primary characteristic property of nickel-based superalloys (such as Inconel)?",
+    "gujaratiQuestion": "0153. નિકલ-બેઝ્ડ સુપરએલોય (જેમ કે ઈન્કોનેલ) નો મુખ્ય ગુણધર્મ શું છે?",
+    "options": [
+      "ખૂબ જ ઓછું વજન",
+      "ઊંચા તાપમાને ઊંચી તાકાત અને ક્રીપ રેઝિસ્ટન્સ",
+      "હાઈ મેગ્નેટિક પ્રોપર્ટી",
+      "સરળ મશીનિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇન્કોનેલ જેવા સુપરએલોય ઊંચા તાપમાને ઉચ્ચ યાંત્રિક મજબૂતાઈ અને ઉત્કૃષ્ટ ક્રીપ રેઝિસ્ટન્સ ધરાવે છે[cite: 6]."
+  },
+  {
+    "id": 154,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Non-Ferrous Materials & Super Alloys",
+    "question": "What is the biggest advantage of titanium alloys?",
+    "gujaratiQuestion": "Q154. ટાઈટેનિયમ એલોયનો સૌથી મોટો ફાયદો કયો છે?",
+    "options": [
+      "હાઈ સ્ટ્રેન્થ-ટુ-વેઇટ રેશિયો",
+      "ઊંચી થર્મલ કન્ડક્ટિવિટી",
+      "સૌથી સસ્તી કિંમત",
+      "નીચું ગલનબિંદુ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ટાઇટેનિયમ એલોય હળવા હોવાની સાથે ખૂબ મજબૂત હોવાથી તેનો સ્ટ્રેન્થ-ટુ-વેઇટ રેશિયો ઘણો ઊંચો હોય છે[cite: 6]."
+  },
+  {
+    "id": 155,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Which welding process strictly requires a vacuum environment?",
+    "gujaratiQuestion": "0155. કયા વેલ્ડિંગમાં વેક્યૂમ વાતાવરણ (Vacuum environment) ની જરૂર પડે છે?",
+    "options": [
+      "અલ્ટ્રાસોનિક વેલ્ડિંગ",
+      "લેસર બીમ વેલ્ડિંગ",
+      "પ્લાઝમા આર્ક વેલ્ડિંગ",
+      "ઈલેક્ટ્રોન બીમ વેલ્ડિંગ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઇલેક્ટ્રોન બીમ વેલ્ડિંગ (EBW) માં ઇલેક્ટ્રોન બીમનું હવાના અણુઓ દ્વારા વિખેરણ રોકવા વેક્યુમ ચેમ્બર અનિવાર્ય છે[cite: 6]."
+  },
+  {
+    "id": 156,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Electrical, Electrochemical & Thermal Machining",
+    "question": "How is material removed in Electrical Discharge Machining (EDM)?",
+    "gujaratiQuestion": "0156. ઈલેક્ટ્રો-ડિસ્ચાર્જ મશીનિંગ (EDM) માં મટિરિયલ કઈ રીતે દૂર થાય છે?",
+    "options": [
+      "કેમિકલ રિએક્શનથી",
+      "સ્પાર્ક ઇરોઝન અને મેલ્ટિંગથી",
+      "ગ્લાસ અને સિરામિક જેવા બરડ મટિરિયલ્સ",
+      "માત્ર લાકડું"
+    ],
+    "correctAnswer": 1,
+    "explanation": "EDM માં ટૂલ અને વર્કપીસ વચ્ચે થતા સતત ઇલેક્ટ્રિક સ્પાર્ક ઇરોઝન અને સ્થાનિક મેલ્ટિંગ/વેપોરાઇઝેશનથી મટીરીયલ દૂર થાય છે[cite: 6]."
+  },
+  {
+    "id": 157,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Electrical, Electrochemical & Thermal Machining",
+    "question": "In EDM, what material is the tool mostly made of?",
+    "gujaratiQuestion": "0157. EDM માં ટૂલ મોટાભાગે કઈ ધાતુમાંથી બનેલું હોય છે?",
+    "options": [
+      "કોપર યા ગ્રેફાઈટ",
+      "હાઈ સ્પીડ સ્ટીલ",
+      "કાસ્ટ આયર્ન",
+      "માઈલ્ડ સ્ટીલ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "EDM ટૂલ ઉચ્ચ વિદ્યુત વાહકતા અને ઉચ્ચ ગલનબિંદુ ધરાવતી સામગ્રી જેવી કે કોપર, બ્રાસ અથવા ગ્રેફાઇટમાંથી બને છે[cite: 6]."
+  },
+  {
+    "id": 158,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Unconventional Machining Processes",
+    "question": "Ultrasonic Machining (USM) is most useful for which type of materials?",
+    "gujaratiQuestion": "0158. અલ્ટ્રાસોનિક મશીનિંગ (USM) કયા મટિરિયલ માટે સૌથી વધુ ઉપયોગી છે?",
+    "options": [
+      "ડક્ટાઈલ ધાતુઓ",
+      "રબર અને પ્લાસ્ટિક",
+      "ગ્લાસ અને સિરામિક જેવા બરડ મટિરિયલ્સ",
+      "માત્ર લાકડું"
+    ],
+    "correctAnswer": 2,
+    "explanation": "USM અલ્ટ્રાસોનિક ફ્રિક્વન્સી પર એબ્રેસિવ સ્લરી વડે કાચ, સિરામિક જેવા કઠણ અને બરડ મટીરીયલ્સના મશીનિંગ માટે શ્રેષ્ઠ છે[cite: 6]."
+  },
+  {
+    "id": 159,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "In arc welding, the arc is initiated/produced primarily by:",
+    "gujaratiQuestion": "Q159. આર્ક વેલ્ડિંગમાં આર્ક શેના દ્વારા પેદા કરવામાં આવે છે?",
+    "options": [
+      "વોલ્ટેજ",
+      "કરંટ",
+      "ફ્રિક્વન્સી",
+      "કોન્ટેક્ટ રેઝિસ્ટન્સ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ઇલેક્ટ્રોડ અને વર્કપીસ વચ્ચે ટચ કરાવીને છૂટા પાડતાં કોન્ટેક્ટ રેઝિસ્ટન્સથી ઇલેક્ટ્રોન ઉત્સર્જન શરૂ થઈને આર્ક બને છે[cite: 6]."
+  },
+  {
+    "id": 160,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Electrical, Electrochemical & Thermal Machining",
+    "question": "On which principle does Electrochemical Machining (ECM) work?",
+    "gujaratiQuestion": "Q160. ઈલેક્ટ્રોકેમિકલ મશીનિંગ (ECM) કયા સિદ્ધાંત પર કામ કરે છે?",
+    "options": [
+      "ન્યુટનનો નિયમ",
+      "પાસ્કલનો નિયમ",
+      "ફેરાડેના ઈલેક્ટ્રોલિસિસના નિયમો",
+      "ચાર્લ્સનો નિયમ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ECM પ્રક્રિયા ફેરાડેના ઇલેક્ટ્રોલિસિસ અને એનોડિક ડિસઓલ્યુશનના નિયમો પર કાર્ય કરે છે[cite: 6]."
+  },
+  {
+    "id": 161,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Electrical, Electrochemical & Thermal Machining",
+    "question": "What is the energy source in Laser Beam Machining (LBM)?",
+    "gujaratiQuestion": "0161. લેસર બીમ મશીનિંગ (LBM) માં ઉર્જાનો સ્ત્રોત શું છે?",
+    "options": [
+      "હાઈ-સ્પીડ ઈલેક્ટ્રોન",
+      "ફોટોન્સ",
+      "વોટર જેટ",
+      "મેગ્નેટિક ફિલ્ડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "લેસર કિરણોત્સર્ગ એ સુસંગત (Coherent) પ્રકાશ ઊર્જા એટલે કે ફોટોન્સ (Photons) નો સ્ત્રોત છે[cite: 6]."
+  },
+  {
+    "id": 162,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "Which of the following engineering materials is most suitable for hot chamber die casting?",
+    "gujaratiQuestion": "0162. નીચેનામાંથી કયું એન્જિનિયરિંગ મટિરિયલ હોટ ચેમ્બર ડાઈ કાસ્ટિંગ માટે સૌથી વધુ યોગ્ય છે?",
+    "options": [
+      "લો કાર્બન સ્ટીલ",
+      "ટાઇટેનિયમ",
+      "કોપર",
+      "ટિન (Tin)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "નીચું ગલનબિંદુ ધરાવતી ધાતુઓ જેવી કે ઝિંક, લેડ અને ટિન (Tin) હોટ ચેમ્બર ડાઇ કાસ્ટિંગ માટે સૌથી યોગ્ય છે[cite: 6]."
+  },
+  {
+    "id": 163,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Unconventional Machining Processes",
+    "question": "What is used to cut material in Abrasive Jet Machining (AJM)?",
+    "gujaratiQuestion": "0163. એબ્રેસિવ જેટ મશીનિંગ (AJM) માં મટિરિયલ કાપવા માટે શું વપરાય છે?",
+    "options": [
+      "હાઈ-વેલોસિટી ગેસ અને એબ્રેસિવ કણોનું મિશ્રણ",
+      "ઇલેક્ટ્રિક સ્પાર્ક",
+      "એસિડ સોલ્યુશન",
+      "પ્લાઝ્મા આર્ક"
+    ],
+    "correctAnswer": 0,
+    "explanation": "AJM માં ઉચ્ચ વેગથી આવતા વાયુ અને બારીક એબ્રેસિવ કણોના માઇક્રો-ઇરોઝન દ્વારા મટીરીયલ કપાય છે[cite: 6]."
+  },
+  {
+    "id": 164,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Unconventional Machining Processes",
+    "question": "In which unconventional machining process is a vacuum chamber strictly required?",
+    "gujaratiQuestion": "Q164. કઈ UCM પ્રોસેસમાં વેક્યુમ ચેમ્બર હોવું અત્યંત જરૂરી છે?",
+    "options": [
+      "USM",
+      "ECM",
+      "ઈલેક્ટ્રોન બીમ મશીનિંગ (EBM)",
+      "AWJM"
+    ],
+    "correctAnswer": 2,
+    "explanation": "EBM માં ઇલેક્ટ્રોન્સનું વાયુઓ સાથેનું વિખેરણ અટકાવવા ઉચ્ચ વેક્યુમ ચેમ્બર અનિવાર્ય છે[cite: 6]."
+  },
+  {
+    "id": 165,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Which of the following is a solid-state joining process?",
+    "gujaratiQuestion": "Q165. નીચેનામાંથી કઈ સોલિડ-સ્ટેટ જોઈનિંગ પ્રોસેસ છે?",
+    "options": [
+      "ગેસ ટંગસ્ટન આર્ક વેલ્ડિંગ",
+      "રેઝિસ્ટન્સ સ્પોટ વેલ્ડિંગ",
+      "ફ્રિક્શન વેલ્ડિંગ",
+      "સબમર્જ્ડ આર્ક વેલ્ડિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ફ્રિક્શન વેલ્ડિંગ (Friction welding) માં ધાતુને ઓગાળ્યા વગર ઘર્ષણ ઉષ્મા અને દબાણથી સોલિડ સ્ટેટમાં જોઈનિંગ થાય છે[cite: 6]."
+  },
+  {
+    "id": 168,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Powder Metallurgy",
+    "question": "What is the operation of permeating oil into the pores of a powder metallurgy product called?",
+    "gujaratiQuestion": "0168. પાવડર મેટલર્જી પ્રોડક્ટના છિદ્રો (pores) માં ઓઈલ ભરવાના (permeate) ઓપરેશનને શું કહેવાય છે?",
+    "options": [
+      "મિક્સિંગ",
+      "સિન્ટરિંગ",
+      "ઈમ્પ્રેગ્નેશન",
+      "ઇન્ફિલ્ટ્રેશન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "સેલ્ફ-લ્યુબ્રિકેટિંગ બેરિંગ્સ બનાવવા છિદ્રોમાં ઓઇલ ભરવાની ક્રિયાને ઇમ્પ્રેગ્નેશન (Impregnation) કહેવાય છે (ધાતુ ભરવાને ઇન્ફિલ્ટ્રેશન કહે છે)[cite: 6]."
+  },
+  {
+    "id": 171,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "What causes the casting defect known as Cold Shut?",
+    "gujaratiQuestion": "Q171. કોલ્ડ શટ (Cold shut) નામની કાસ્ટિંગ ડિફેક્ટ શેના કારણે થાય છે?",
+    "options": [
+      "મેટલનું ખૂબ ઊંચું પોરિંગ ટેમ્પરેચર (pouring temperature)",
+      "પીગળેલી મેટલની અપૂરતી ફ્લુઈડિટી (fluidity)",
+      "લિક્વિડ મેટલ દ્વારા ગેસનું શોષણ (absorption)",
+      "મોલ્ડ ફ્લાસ્કની અયોગ્ય ગોઠવણી (alignment)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પીગળેલી ધાતુનું તાપમાન ઓછું હોવાથી તેની તરલતા (Fluidity) અપૂરતી હોય છે, જેથી બે પ્રવાહો બરાબર જોડાઈ શકતા નથી[cite: 6]."
+  },
+  {
+    "id": 174,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Solidification, Cooling, Riser & Gating Systems",
+    "question": "With a solidification constant of 0.97 x 10^6 s/m², what is the solidification time (in seconds) for a 200 mm diameter spherical casting?",
+    "gujaratiQuestion": "Q174. 0.97×10^6 s/m² ના સોલિડિફિકેશન કોન્સ્ટન્ટ સાથે, 200 mm વ્યાસના સ્ફેરિકલ કાસ્ટિંગ માટે સોલિડિફિકેશનનો સમય (સેકન્ડમાં) કેટલો હશે?",
+    "options": [
+      "539",
+      "1078",
+      "4311",
+      "3233"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ગોળા માટે V/A = D/6 = 0.2 / 6 = 1/30 m. ts = k · (V/A)² = 0.97 × 10^6 × (1/30)² ≈ 1078 સેકન્ડ[cite: 6]."
+  },
+  {
+    "id": 177,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "In an arc welding process, voltage is 25 V, current is 300 A, heat transfer efficiency is 0.85, and welding speed is 8 mm/sec. What is the net heat input (in J/mm)?",
+    "gujaratiQuestion": "0177. આર્ક વેલ્ડિંગ પ્રોસેસમાં, વોલ્ટેજ અને કરંટ અનુક્રમે 25 V અને 300 A છે. આર્ક હીટ ટ્રાન્સફર એફિશિયન્સી 0.85 છે અને વેલ્ડિંગ સ્પીડ 8 mm/sec છે. તો નેટ હીટ ઈનપુટ (J/mm માં) કેટલું હશે?",
+    "options": [
+      "64",
+      "797",
+      "1103",
+      "79700"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Net Heat Input = (η · V · I) / v = (0.85 × 25 × 300) / 8 = 6375 / 8 ≈ 797 J/mm[cite: 6]."
+  },
+  {
+    "id": 180,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "How is the strength of a brazed joint affected by joint clearance?",
+    "gujaratiQuestion": "Q180. બ્રેઝ્ડ જોઈન્ટની સ્ટ્રેન્થ પર શું અસર થાય છે?",
+    "options": [
+      "જોડવામાં આવતી બે સપાટીઓ વચ્ચે ગેપ વધતા ઘટે છે",
+      "જોડવામાં આવતી બે સપાટીઓ વચ્ચે ગેપ વધતા વધે છે",
+      "બે સપાટીઓ વચ્ચે અમુક ગેપ સુધી ઘટે છે અને તે પછી વધે છે",
+      "બે સપાટીઓ વચ્ચે અમુક ગેપ સુધી વધે છે અને તે પછી ઘટે છે"
+    ],
+    "correctAnswer": 3,
+    "explanation": "બ્રેઝિંગમાં કેપિલરી એક્શનથી જોઈન્ટ ગેપ અમુક લિમિટ (0.05 mm) સુધી વધતાં સ્ટ્રેન્થ વધે છે અને વધુ મોટો ગેપ થતાં સ્ટ્રેન્થ ઘટે છે[cite: 6]."
+  },
+  {
+    "id": 183,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Pattern, Mould & Core Design",
+    "question": "Which pattern is used to generate a 3D mold by sweeping a planar profile?",
+    "gujaratiQuestion": "Q183. થ્રી-ડાયમેન્શનલ (3D) મોલ્ડ બનાવવા માટે કઈ પેટર્નનો ઉપયોગ થાય છે?",
+    "options": [
+      "મેચ પ્લેટ પેટર્ન",
+      "ફોલો બોર્ડ પેટર્ન",
+      "સ્વીપ પેટર્ન",
+      "લૂઝ પીસ પેટર્ન"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2D રૂપરેખા ધરાવતી બોર્ડને ધરી પર ફેરવીને 3D કેવિટી બનાવવા સ્વીપ પેટર્ન વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 186,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Unconventional Machining Processes",
+    "question": "Match the unconventional machining processes with their material removal mechanisms:\nP. Chemical Machining - 2. Corrosive reaction\nQ. Electrochemical Machining - 3. Ion displacement\nR. Electrical Discharge Machining - 4. Fusion and vaporization\nS. Ultrasonic Machining - 1. Erosion",
+    "gujaratiQuestion": "Q186. નીચેની નોન-ટ્રેડિશનલ મશીનિંગ પ્રોસેસિસને તેમના અનુરૂપ મટિરિયલ રિમૂવલ મિકેનિઝમ સાથે જોડો:\nમશીનિંગ પ્રોસેસ:\nP. કેમિકલ મશીનિંગ\nQ. ઈલેક્ટ્રો-કેમિકલ મશીનિંગ\nR. ઈલેક્ટ્રો-ડિસ્ચાર્જ મશીનિંગ\nS. અલ્ટ્રાસોનિક મશીનિંગ\nમટિરિયલ રિમૂવલ મિકેનિઝમ:\n1. ઇરોઝન\n2. કોરોઝિવ રિએક્શન\n3. આયન ડિસ્પ્લેસમેન્ટ\n4. ફ્યુઝન અને વેપોરાઈઝેશન",
+    "options": [
+      "P-2, Q-3, R-4, S-1",
+      "P-2, Q-4, R-3, S-1",
+      "P-3, Q-2, R-4, S-1",
+      "P-2, Q-3, R-1, S-4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સાચો જોડકો ક્રમ: P-2 (કોરોઝિવ રિએક્શન), Q-3 (આયન ડિસ્પ્લેસમેન્ટ), R-4 (ફ્યુઝન/વેપોરાઇઝેશન), S-1 (એબ્રેસિવ ઇરોઝન)[cite: 6]."
+  },
+  {
+    "id": 190,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Unconventional Machining Processes",
+    "question": "Where is Abrasive Jet Machining (AJM) used?",
+    "gujaratiQuestion": "Q190. AJM નો ઉપયોગ ક્યાં થાય છે?",
+    "options": [
+      "જ્યાં મટિરિયલ્સ હીટ સેન્સિટિવ હોય",
+      "હાર્ડ મટિરિયલના પાતળા (thin) સેક્શન બનાવવા હોય",
+      "જટિલ છિદ્રો (intricate holes) બનાવવાના હોય, જે અન્ય મશીનિંગ પ્રોસેસથી બનાવવા મુશ્કેલ હોય",
+      "ઉપરના તમામ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "AJM હીટ-સેન્સિટિવ, કઠણ બરડ મટીરીયલ્સના પાતળા સેક્શન્સ અને જટિલ કટિંગ તમામ માટે વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 193,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Electrical, Electrochemical & Thermal Machining",
+    "question": "In which of the following machining processes is the workpiece metal dissolved anodically?",
+    "gujaratiQuestion": "Q193. નીચેનામાંથી કઈ મશીનિંગ પ્રોસેસમાં વર્કપીસની મેટલ ડિઝોલ્વ (ઓગાળવી) થાય છે?",
+    "options": [
+      "ઈલેક્ટ્રો-ડિસ્ચાર્જ મશીનિંગ",
+      "અલ્ટ્રાસોનિક મશીનિંગ",
+      "ઈલેક્ટ્રો-કેમિકલ મશીનિંગ",
+      "કેમિકલ મશીનિંગ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ECM પ્રક્રિયામાં ઇલેક્ટ્રોલાઇટના પ્રવાહમાં ફેરાડેના નિયમ મુજબ એનોડિક ડિસઓલ્યુશનથી મેટલ ઓગળે છે[cite: 6]."
+  },
+  {
+    "id": 196,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Unconventional Machining Processes",
+    "question": "In ultrasonic drilling, which motion is generally given to the tool?",
+    "gujaratiQuestion": "0196. અલ્ટ્રાસોનિક ડ્રિલિંગ પ્રોસેસમાં, ટૂલને સામાન્ય રીતે કઈ મોશન આપવામાં આવે છે?",
+    "options": [
+      "રોટરી મોશન",
+      "રેસિપ્રોકેટિંગ મોશન",
+      "લિનિયર મોશન",
+      "રોટરી અને રેસિપ્રોકેટિંગ બંને મોશન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અલ્ટ્રાસોનિક મશીનિંગમાં ટૂલ ઊંચી ફ્રિક્વન્સી (20 kHz) પર ઊભી રેસિપ્રોકેટિંગ (વાઇબ્રેટરી) ગતિ કરે છે[cite: 6]."
+  },
+  {
+    "id": 199,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Electrical, Electrochemical & Thermal Machining",
+    "question": "Which process is the reverse of electroplating?",
+    "gujaratiQuestion": "0199. ઈલેક્ટ્રો-પ્લેટિંગ પ્રોસેસથી વિપરીત (reverse) પ્રોસેસ કઈ છે?",
+    "options": [
+      "EDM",
+      "ECM",
+      "ECG",
+      "LBM"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઇલેક્ટ્રોપ્લેટિંગમાં કેથોડ પર મેટલ જમા થાય છે, જ્યારે ઇલેક્ટ્રોકેમિકલ મશીનિંગ (ECM) માં એનોડ પરથી મેટલ દૂર થાય છે[cite: 6]."
+  },
+  {
+    "id": 202,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Forging, Rolling, Extrusion & Drawing",
+    "question": "Seamless tubes are manufactured by which process?",
+    "gujaratiQuestion": "0202. સીમલેસ ટ્યુબ્સ શેના દ્વારા બનાવવામાં આવે છે?",
+    "options": [
+      "પિયર્સિંગ ઓપરેશન",
+      "હોટ ફોર્જિંગ",
+      "પાવર રોલિંગ",
+      "આમાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 0,
+    "explanation": "રોલ પિયર્સિંગ (Mannesmann process) દ્વારા ગોળ બિલેટમાંથી સીમલેસ ટ્યુબ્સ અને પાઇપ્સ બનાવવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 205,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "On which of the following tools is a negative rake angle generally provided?",
+    "gujaratiQuestion": "0205. નીચેનામાંથી કયા ટૂલ પર નેગેટિવ રેક એંગલ આપવામાં આવે છે?",
+    "options": [
+      "સિમેન્ટેડ કાર્બાઇડ ટૂલ્સ",
+      "HSS ટૂલ્સ",
+      "હાઈ કાર્બન સ્ટીલ ટૂલ્સ",
+      "ઉપરના તમામ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સિમેન્ટેડ કાર્બાઇડ અને સિરામિક ટૂલ્સ બરડ હોવાથી કટિંગ એજને મજબૂતી આપવા નેગેટિવ રેક એંગલ અપાય છે[cite: 6]."
+  },
+  {
+    "id": 208,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Hot & Cold Metal Working Processes",
+    "question": "In an oblique cutting system, the chip thickness is:",
+    "gujaratiQuestion": "0208. ઓબ્લિક કટિંગ સિસ્ટમમાં, ચિપની જાડાઈ કેવી હોય છે?",
+    "options": [
+      "બધે સમાન હોય છે",
+      "મધ્યમાં ન્યૂનતમ હોય છે",
+      "મધ્યમાં મહત્તમ હોય છે",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ઓબ્લિક કટિંગમાં કટિંગ એજ ત્રાંસી હોવાથી ચિપનો ક્રોસ-સેક્શનલ ફ્લો અસમાન બની મધ્યમાં જાડાઈ મહત્તમ હોય છે[cite: 6]."
+  },
+  {
+    "id": 211,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Electrical, Electrochemical & Thermal Machining",
+    "question": "In which category can Electron Beam Machining (EBM) be placed?",
+    "gujaratiQuestion": "0211. ઈલેક્ટ્રોન બીમ મશીનિંગ એ એવી પ્રોસેસ છે જેને નીચેનામાંથી કઈ કેટેગરીમાં મૂકી શકાય?",
+    "options": [
+      "થર્મલ એનર્જી આધારિત પ્રોસેસ",
+      "મિકેનિકલ એનર્જી આધારિત પ્રોસેસ",
+      "કેમિકલ એનર્જી આધારિત પ્રોસેસ",
+      "ઈલેક્ટ્રો-કેમિકલ પ્રોસેસ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "EBM માં ઇલેક્ટ્રોનની ગતિજ ઊર્જાનું ઉચ્ચ ઉષ્મા ઊર્જામાં રૂપાંતર થઈ મટીરીયલ ઓગળીને ઉડી જતું હોવાથી તે થર્મલ પ્રોસેસ છે[cite: 6]."
+  },
+  {
+    "id": 214,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Welding of stainless steel is difficult primarily due to which reason?",
+    "gujaratiQuestion": "0214 નીચેનામાંથી કયા કારણસર સ્ટેનલેસ સ્ટીલનું વેલ્ડિંગ મુશ્કેલ છે?",
+    "options": [
+      "ઓક્સાઇડ ફિલ્મની રચના થવાથી",
+      "સ્ટેનલેસ સ્ટીલનું ગલનબિંદુ ખૂબ ઊંચું હોવાથી",
+      "ક્રેક પડવાના ડરથી",
+      "કાટ લાગવાને કારણે"
+    ],
+    "correctAnswer": 0,
+    "explanation": "સ્ટેનલેસ સ્ટીલમાં રહેલું ક્રોમિયમ હવામાં ઝડપથી કઠણ ક્રોમિયમ ઓક્સાઇડ ફિલ્મ બનાવે છે જે યોગ્ય ફ્યુઝન અટકાવે છે[cite: 6]."
+  },
+  {
+    "id": 217,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "In arc welding, the arc length should ideally be equal to:",
+    "gujaratiQuestion": "Q217. આર્ક વેલ્ડિંગમાં, આર્કની લંબાઈ કોના બરાબર હોવી જોઈએ?",
+    "options": [
+      "ઈલેક્ટ્રોડના વ્યાસથી અડધી",
+      "ઈલેક્ટ્રોડના વ્યાસ બરાબર",
+      "ઈલેક્ટ્રોડના વ્યાસથી બમણી",
+      "ઉપરનામાંથી એક પણ નહીં"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ઉત્તમ વેલ્ડિંગ ગુણવત્તા અને આર્ક સ્થિરતા માટે આર્ક લંબાઈ વપરાતા ઇલેક્ટ્રોડના વ્યાસ (Electrode diameter) જેટલી હોવી જોઈએ[cite: 6]."
+  },
+  {
+    "id": 166,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "On which principle does a centrifugal pump work?",
+    "gujaratiQuestion": "0166. સેન્ટ્રીફયુગલ પંપ કયા સિદ્ધાંત પર કાર્ય કરે છે?",
+    "options": [
+      "પોઝિટિવ ડિસ્પ્લેસમેન્ટ",
+      "સેન્ટ્રીફયુગલ ફોર્સ",
+      "ગ્રેવિટી ફોર્સ",
+      "મેગ્નેટિક ફોર્સ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સેન્ટ્રીફ્યુગલ પંપ ઇમ્પેલર દ્વારા પ્રવાહીને ઘુમાવીને કેન્દ્રત્યાગી બળ (Centrifugal force) પેદા કરી દબાણ વધારે છે[cite: 6]."
+  },
+  {
+    "id": 167,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "What is the operation of filling the casing and suction pipe of a pump with liquid before starting called?",
+    "gujaratiQuestion": "0167. પંપ ચાલુ કરતા પહેલા તેની કેસિંગ અને સક્શન પાઈપને પ્રવાહીથી ભરવાની ક્રિયાને શું કહે છે?",
+    "options": [
+      "કેવિટેશન",
+      "પ્રાઈમિંગ",
+      "વોટર હેમર",
+      "બ્લિડિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "કેસિંગમાંથી હવા દૂર કરીને પંપને પ્રવાહીથી ભરવાની ક્રિયાને પ્રાઇમિંગ (Priming) કહે છે[cite: 6]."
+  },
+  {
+    "id": 169,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "In what position should the delivery valve be when starting a centrifugal pump?",
+    "gujaratiQuestion": "0169. સેન્ટ્રીફયુગલ પંપ શરૂ કરતી વખતે તેનો ડિલિવરી વાલ્વ કઈ સ્થિતિમાં હોવો જોઈએ?",
+    "options": [
+      "સંપૂર્ણ ખુલ્લો",
+      "સંપૂર્ણ બંધ",
+      "અડધો ખુલ્લો",
+      "વાલ્વની સ્થિતિથી કોઈ ફરક પડતો નથી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોટર પર સ્ટાર્ટિંગ પાવર લોડ લઘુત્તમ રાખવા માટે સેન્ટ્રીફ્યુગલ પંપ શરૂ કરતી વખતે ડિલિવરી વાલ્વ સંપૂર્ણ બંધ રાખવામાં આવે છે[cite: 6]."
+  },
+  {
+    "id": 170,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "What is the primary cause of cavitation in pumps?",
+    "gujaratiQuestion": "0170. કેવિટેશન (Cavitation) થવાનું મુખ્ય કારણ શું છે?",
+    "options": [
+      "પ્રવાહીનું દબાણ તેના વેપર પ્રેશર કરતા ઘટી જવું",
+      "પંપની ઝડપ ઘટી જવી",
+      "પ્રવાહીનું દબાણ વધી જવું",
+      "તાપમાન ઘટી જવી"
+    ],
+    "correctAnswer": 0,
+    "explanation": "જ્યારે સક્શન આગળ પ્રવાહીનું સ્થાનિક દબાણ તેના સંતૃપ્ત વેપર પ્રેશર કરતાં ઘટી જાય ત્યારે વરાળના પરપોટા બને છે અને કેવિટેશન થાય છે[cite: 6]."
+  },
+  {
+    "id": 172,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "What is the full form of NPSH?",
+    "gujaratiQuestion": "Q172. NPSH નું પૂરું નામ શું છે?",
+    "options": [
+      "નેટ પ્રેશર સક્શન હેડ",
+      "નેટ પોઝિટિવ સક્શન હેડ",
+      "નોમિનલ પોઝિટિવ સક્શન હેડ",
+      "નેટ પંપ સક્શન હેડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NPSH એટલે Net Positive Suction Head[cite: 6]."
+  },
+  {
+    "id": 173,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "Which condition is necessary to prevent cavitation in a pump?",
+    "gujaratiQuestion": "0173. પંપમાં કેવિટેશન અટકાવવા માટે કઈ શરત જરૂરી છે?",
+    "options": [
+      "NPSHa < NPSHr",
+      "NPSHa = 0",
+      "NPSHa > NPSHr",
+      "NPSHr = 0"
+    ],
+    "correctAnswer": 2,
+    "explanation": "કેવિટેશન અટકાવવા માટે ઉપલબ્ધ હેડ હંમેશા જરૂરી હેડ કરતાં વધુ (NPSHa > NPSHr) હોવો જોઈએ[cite: 6]."
+  },
+  {
+    "id": 175,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "Why is the casing of a centrifugal pump designed in a volute shape?",
+    "gujaratiQuestion": "0175. સેન્ટ્રીફયુગલ પંપની કેસિંગનો આકાર વૉલ્યુટ (Volute) કેમ રાખવામાં આવે છે?",
+    "options": [
+      "દેખાવ સારો કરવા",
+      "કાઈનેટિક એનર્જીનું પ્રેશર એનર્જીમાં રૂપાંતર કરવા",
+      "વજન ઘટાડવા",
+      "કેવિટેશન વધારવા"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વોલ્યુટ કેસિંગનો ક્રમશઃ વધતો એરિયા પ્રવાહીના વેગને ઘટાડી ગતિજ ઊર્જાનું પ્રેશર ઊર્જામાં રૂપાંતર કરે છે[cite: 6]."
+  },
+  {
+    "id": 176,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "What is the effect on pump efficiency when pumping high viscosity fluids?",
+    "gujaratiQuestion": "0176. વધુ વિસ્કોસિટી (Viscosity) ધરાવતા પ્રવાહીને પંપ કરવાથી પંપની કાર્યક્ષમતા (Efficiency) પર શું અસર થાય છે?",
+    "options": [
+      "વધે છે",
+      "ઘટે છે",
+      "સમાન રહે છે",
+      "પંપ કામ કરતો બંધ થઈ જાય છે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વિસ્કોસિટી વધવાથી ઘર્ષણ લોસ વધે છે, જેનાથી પંપની કાર્યક્ષમતા ઘટે છે[cite: 6]."
+  },
+  {
+    "id": 178,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "According to ANSI/HI 9.6.7, which parameters are considered for pump viscosity correction?",
+    "gujaratiQuestion": "Q178. ANSI/HI 9.6.7 મુજબ પંપની વિસ્કોસિટી કરેક્શન માટે કયા પેરામીટર્સ ગણતરીમાં લેવાય છે?",
+    "options": [
+      "માત્ર હેડ",
+      "ફ્લો રેટ, હેડ અને એફિશિયન્સી",
+      "માત્ર તાપમાન",
+      "માત્ર પંપનું વજન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ANSI/HI સ્ટાન્ડર્ડ મુજબ વિસ્કોસિટી કરેક્શનમાં ફ્લો રેટ, હેડ અને એફિશિયન્સી ત્રણેય ફેક્ટર્સ ધ્યાને લેવાય છે[cite: 6]."
+  },
+  {
+    "id": 179,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "According to Affinity Laws, how does pump flow rate (Q) vary with speed (N)?",
+    "gujaratiQuestion": "0179. પંપની ઍફિનિટી લો (Affinity Laws) મુજબ, પંપનો ફ્લો રેટ (Q) તેની સ્પીડ (N) સાથે કેવી રીતે બદલાય છે?",
+    "options": [
+      "Q ∝ N",
+      "Q ∝ N²",
+      "Q ∝ N³",
+      "Q ∝ 1/N"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પંપ એફિનિટી લો મુજબ ડિસ્ચાર્જ સ્પીડના સીધા સમપ્રમાણમાં (Q ∝ N) હોય છે[cite: 6]."
+  },
+  {
+    "id": 181,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "According to Affinity Laws, how does pump head (H) vary with speed (N)?",
+    "gujaratiQuestion": "0181. પંપની ઍફિનિટી લો મુજબ, પંપનો હેડ (H) તેની સ્પીડ (N) સાથે કેવી રીતે બદલાય છે?",
+    "options": [
+      "H ∝ N",
+      "H ∝ N²",
+      "H ∝ N³",
+      "H ∝ 1/N"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પંપ એફિનિટી લો મુજબ પંપનો હેડ સ્પીડના વર્ગના સમપ્રમાણમાં (H ∝ N²) બદલાય છે[cite: 6]."
+  },
+  {
+    "id": 182,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "Which pump is most suitable for pumping thick and sludgy fluids?",
+    "gujaratiQuestion": "Q182. થિક અને સ્લજ જેવા પ્રવાહીને પંપ કરવા કયા પ્રકારનો પંપ વધુ યોગ્ય છે?",
+    "options": [
+      "સેન્ટ્રીફયુગલ પંપ",
+      "પ્રોગ્રેસિવ કેવિટી પંપ",
+      "ટર્બાઈન પંપ",
+      "જેટ પંપ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અતિ ચીકણા, સ્લજ અને સોલિડ કણો ધરાવતા પ્રવાહી માટે પ્રોગ્રેસિવ કેવીટી પંપ (PCP) શ્રેષ્ઠ છે[cite: 6]."
+  },
+  {
+    "id": 184,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "In a hydraulic turbine, into what form is water energy converted?",
+    "gujaratiQuestion": "0184. હાઈડ્રોલિક ટર્બાઈનમાં પાણીની એનર્જીનું શેમાં રૂપાંતર થાય છે?",
+    "options": [
+      "ઇલેક્ટ્રિકલ એનર્જી",
+      "મિકેનિકલ એનર્જી",
+      "હીટ એનર્જી",
+      "સોલાર એનર્જી"
+    ],
+    "correctAnswer": 1,
+    "explanation": "હાઇડ્રોલિક ટર્બાઇન પાણીની હાઇડ્રોલિક ઊર્જાનું રોટેશનલ યાંત્રિક ઊર્જા (Mechanical energy) માં રૂપાંતર કરે છે[cite: 6]."
+  },
+  {
+    "id": 185,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "On which principle does a progressive cavity pump operate?",
+    "gujaratiQuestion": "0185. પ્રોગ્રેસિવ કેવિટી પંપ કયા સિદ્ધાંત પર કાર્ય કરે છે?",
+    "options": [
+      "સેન્ટ્રીફયુગલ ફોર્સ",
+      "પોઝિટિવ ડિસ્પ્લેસમેન્ટ",
+      "ગ્રેવિટી ફોર્સ",
+      "મેગ્નેટિક ઇન્ડક્શન"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પ્રોગ્રેસિવ કેવિટી પંપ રોટરી પોઝિટિવ ડિસ્પ્લેસમેન્ટના સિદ્ધાંત પર કાર્ય કરે છે[cite: 6]."
+  },
+  {
+    "id": 187,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "What are the two main parts of a progressive cavity pump?",
+    "gujaratiQuestion": "Q187. પ્રોગ્રેસિવ કેવિટી પંપના મુખ્ય બે ભાગો કયા છે?",
+    "options": [
+      "ઇમ્પેલર અને કેસિંગ",
+      "રોટર અને સ્ટેટર",
+      "પિસ્ટન અને સિલિન્ડર",
+      "ગિયર અને શાફ્ટ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "તેના મુખ્ય બે ભાગો મેટાલિક સ્ક્રૂ રોટર અને ઇલાસ્ટોમેરિક સ્ટેટર છે[cite: 6]."
+  },
+  {
+    "id": 188,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "Where is a submersible pump mostly used?",
+    "gujaratiQuestion": "0188. સબમર્સિબલ પંપ (Submersible pump) મોટેભાગે ક્યાં વપરાય છે?",
+    "options": [
+      "સપાટી પરના પાણી માટે",
+      "ઊંડા બોરવેલ અને ટ્યુબવેલમાંથી પાણી ખેંચવા",
+      "બોઈલર ફીડ માટે",
+      "હવા ભરવા માટે"
+    ],
+    "correctAnswer": 1,
+    "explanation": "સબમર્સિબલ પંપ પાણીની અંદર ડૂબેલો રહીને ઊંડા બોરવેલ અને ટ્યુબવેલમાંથી પાણી ખેંચવા વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 189,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "In a vertical turbine pump lineshaft model, where is the motor mounted?",
+    "gujaratiQuestion": "Q189. વર્ટિકલ ટર્બાઇન પંપમાં લાઈનશાફ્ટ મોડલમાં મોટર ક્યાં લગાવેલી હોય છે?",
+    "options": [
+      "પાણીની અંદર તળિયે",
+      "જમીનની સપાટી પર",
+      "પાઈપની વચ્ચે",
+      "પંપની અંદર જ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "લાઇનશાફ્ટ મોડેલમાં મોટર જમીનની સપાટી પર ડિસ્ચાર્જ હેડ ઉપર માઉન્ટ થયેલી હોય છે[cite: 6]."
+  },
+  {
+    "id": 191,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "What type of pump is a Rope pump?",
+    "gujaratiQuestion": "Q191. રોપ પંપ (Rope pump) કયા પ્રકારનો પંપ છે?",
+    "options": [
+      "હાઈ સ્પીડ સેન્ટ્રીફયુગલ પંપ",
+      "ઓછી કિંમતનો મેન્યુઅલ પંપ",
+      "સબમર્સિબલ પંપ",
+      "ગિયર પંપ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "રોપ પંપ ઓછી કિંમતનો, હાથથી સંચાલિત મેન્યુઅલ પંપ છે[cite: 6]."
+  },
+  {
+    "id": 192,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "In deep borewells, what is the section connecting the submersible motor and pump called?",
+    "gujaratiQuestion": "Q192. ઊંડા બોરવેલમાં મોટર અને પંપને જોડતા ભાગને શું કહે છે?",
+    "options": [
+      "ઈમ્પેલર",
+      "કપલિંગ સેક્શન",
+      "કેસિંગ",
+      "ડિસ્ચાર્જ વાલ્વ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "મોટર અને પંપ શાફ્ટને જોડતા ભાગને કપલિંગ સેક્શન (સક્શન ઇન્ટરમીડિયેટ) કહે છે[cite: 6]."
+  },
+  {
+    "id": 194,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "Which law states that pressure applied to a static fluid is transmitted equally in all directions?",
+    "gujaratiQuestion": "0194. પ્રવાહીની સ્થિર અવસ્થામાં દબાણ માપવા કયો નિયમ વપરાય છે?",
+    "options": [
+      "પાસ્કલનો નિયમ",
+      "ન્યુટનનો નિયમ",
+      "બોઈલનો નિયમ",
+      "ચાર્લ્સનો નિયમ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પાસ્કલના નિયમ મુજબ બંધ સ્થિર પ્રવાહી પરનું દબાણ તમામ દિશાઓમાં સરખું પ્રસરણ પામે છે[cite: 6]."
+  },
+  {
+    "id": 195,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "On which principle is Bernoulli's equation based?",
+    "gujaratiQuestion": "0195. બર્નુલીનું સમીકરણ કયા સિદ્ધાંત પર આધારિત છે?",
+    "options": [
+      "માસ કન્ઝર્વેશન",
+      "ઊર્જા સંરક્ષણનો નિયમ",
+      "મોમેન્ટમ કન્ઝર્વેશન",
+      "થર્મોડાયનેમિક્સનો બીજો નિયમ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "બર્નોલીનું સમીકરણ પ્રવાહી પ્રવાહ માટે ઊર્જા સંરક્ષણ (Conservation of Energy) પર આધારિત છે[cite: 6]."
+  },
+  {
+    "id": 197,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "What is the pressure surge produced in a pipe when a flowing liquid is suddenly stopped called?",
+    "gujaratiQuestion": "0197. પાઈપમાં વહેતા પ્રવાહીમાં અચાનક વાલ્વ બંધ કરવાથી પાઈપમાં ઉત્પન્ન થતા પ્રેસર સર્જ (Surge) ને શું કહે છે?",
+    "options": [
+      "કેવિટેશન",
+      "વોટર હેમર",
+      "પ્રાઈમિંગ",
+      "સર્જિંગ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "અચાનક વાલ્વ બંધ કરવાથી ગતિજ ઊર્જાનું શોક પ્રેશર તરંગોમાં રૂપાંતર થવાને વોટર હેમર (Water hammer) કહે છે[cite: 6]."
+  },
+  {
+    "id": 198,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "Which equation is used to calculate water hammer pressure?",
+    "gujaratiQuestion": "0198. વોટર હેમરનું દબાણ માપવા માટે કયું સમીકરણ વપરાય છે?",
+    "options": [
+      "બર્નુલીનું સમીકરણ",
+      "જૂકોવ્સ્કી સમીકરણ",
+      "યુલર સમીકરણ",
+      "ડાર્સીનું સમીકરણ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "વોટર હેમર પ્રેશર ગણવા જૂકોવ્સ્કી સમીકરણ (Joukowsky equation) વપરાય છે[cite: 6]."
+  },
+  {
+    "id": 200,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "What is the vertical height to which a pump pushes the liquid called?",
+    "gujaratiQuestion": "0200. પંપ દ્વારા પ્રવાહીને જે ઊંચાઈ સુધી ધકેલવામાં આવે છે તેને શું કહેવાય છે?",
+    "options": [
+      "સક્શન હેડ",
+      "ડિલિવરી હેડ",
+      "ફ્રિક્શન હેડ",
+      "કાઈનેટિક હેડ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "પંપથી ડિલિવરી પોઇન્ટ સુધીની ઊર્ધ્વ ઊંચાઈને ડિલિવરી હેડ (Delivery head) કહેવાય છે[cite: 6]."
+  },
+  {
+    "id": 215,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "On which law is a hydraulic press based?",
+    "gujaratiQuestion": "0215. હાઈડ્રોલિક પ્રેસ કયા નિયમ પર આધારિત છે?",
+    "options": [
+      "પાસ્કલનો નિયમ",
+      "બર્નુલીનો નિયમ",
+      "આર્કિમિડીઝનો નિયમ",
+      "ન્યૂટનનો નિયમ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "હાઇડ્રોલિક પ્રેસ પાસ્કલના દબાણ પ્રસરણના નિયમ પર કાર્ય કરે છે[cite: 6]."
+  },
+  {
+    "id": 216,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Pumps & Pumping Fundamentals",
+    "question": "Overall efficiency of a pump is the ratio of:",
+    "gujaratiQuestion": "0216. પંપની એકંદર કાર્યક્ષમતા (Overall efficiency) કોનો ગુણોત્તર છે?",
+    "options": [
+      "વોટર પાવર અને શાફ્ટ પાવર",
+      "શાફ્ટ પાવર અને વોટર પાવર",
+      "ઇલેક્ટ્રિક પાવર અને મિકેનિકલ પાવર",
+      "સક્શન હેડ અને ડિલિવરી હેડ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "પંપની ઓવરઓલ એફિશિયન્સી = આઉટપુટ વોટર પાવર / ઇનપુટ શાફ્ટ પાવર (Water Power / Shaft Power)[cite: 6]."
+  },
+  {
+    "id": 1501,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Spillways & Spillway Crest Gates",
+    "question": "Which type of spillway is also known as a morning glory spillway?",
+    "options": [
+      "Ogee Spillway",
+      "Shaft Spillway",
+      "Chute Spillway",
+      "Side Channel Spillway"
+    ],
+    "explanation": "Shaft spillway is vertical drop inlet shaped like a morning glory flower.",
+    "gujaratiQuestion": "કયા પ્રકારના spillway ને morning glory spillway તરીકે પણ ઓળખવામાં આવે છે?",
+    "correctAnswer": 1
+  },
+  {
+    "id": 1502,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Spillways & Spillway Crest Gates",
+    "question": "Which type of crest gate is pie-shaped and rotates around a horizontal axis?",
+    "options": [
+      "Vertical Lift Gate",
+      "Radial (Tainter) Gate",
+      "Drum Gate",
+      "Rolling Gate"
+    ],
+    "explanation": "Radial or Tainter gates have a curved face pivoting on a horizontal trunnion pin.",
+    "gujaratiQuestion": "કયો crest gate pie-shaped હોય છે અને horizontal axisની આસપાસ rotate થાય છે?",
+    "correctAnswer": 1
+  },
+  {
+    "id": 1503,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Spillways & Spillway Crest Gates",
+    "question": "The profile of an Ogee spillway is designed to conform closely to the lower nappe of a ventilated:",
+    "options": [
+      "Broad crested weir",
+      "Sharp crested weir",
+      "Submerged weir",
+      "Trapezoidal weir"
+    ],
+    "explanation": "Ogee spillway profile matches the natural trajectory of water over a sharp-crested weir.",
+    "gujaratiQuestion": "Ogee spillway નો profile ventilated કયા પ્રકારના weir ની lower nappeને અનુરૂપ બનાવવામાં આવે છે?",
+    "correctAnswer": 1
+  },
+  {
+    "subject": "Manufacturing Processes",
+    "subTopic": "Unconventional Machining Processes",
+    "question": "For a small-lot production job requiring T-slots on machine tables, which machine is most suitable?",
+    "gujaratiQuestion": "Machine table પર T-slot બનાવવા માટે small-lot productionમાં કયું machine વધુ યોગ્ય છે?",
+    "options": [
+      "Shaping machine",
+      "Broaching machine",
+      "Vertical milling machine",
+      "Horizontal milling machine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Shaping machine is commonly selected for such small-lot slotting work.",
+    "id": 1504
+  },
+  {
+    "subject": "Manufacturing Processes",
+    "subTopic": "Unconventional Machining Processes",
+    "question": "Which welding process produces the smallest heat-affected zone among the following?",
+    "gujaratiQuestion": "નીચેનામાંથી કઈ welding process સૌથી નાનો heat-affected zone આપે છે?",
+    "options": [
+      "Shielded metal arc welding",
+      "Gas welding",
+      "Laser beam welding",
+      "Thermit welding"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Laser beam welding concentrates heat in a very small zone.",
+    "id": 1505
+  },
+  {
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "In a full-mould casting (lost-foam) process, the pattern is generally made of:",
+    "gujaratiQuestion": "Full-mould અથવા lost-foam castingમાં pattern સામાન્ય રીતે શેનું બને છે?",
+    "options": [
+      "Expandable polystyrene",
+      "Wax",
+      "Epoxy",
+      "Plaster of Paris"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Expanded polystyrene foam is used as the expendable pattern.",
+    "id": 1506
+  },
+  {
+    "subject": "Manufacturing Processes",
+    "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
+    "question": "Which pair consists of autogenous joining processes?",
+    "gujaratiQuestion": "નીચેનામાંથી કઈ જોડી autogenous joining processesની છે?",
+    "options": [
+      "Diffusion welding and friction welding",
+      "Electroslag welding and TIG welding",
+      "Electroslag welding and friction welding",
+      "Diffusion welding and TIG welding"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The source identifies diffusion welding and friction welding as the intended autogenous pair.",
+    "id": 1507
+  },
+  {
+    "subject": "Manufacturing Processes",
+    "subTopic": "Metal Casting Processes",
+    "question": "A riser in casting primarily compensates for:",
+    "gujaratiQuestion": "Castingમાં riser મુખ્યત્વે કયા માટે હોય છે?",
+    "options": [
+      "Machining allowance",
+      "Solidification shrinkage",
+      "Tool wear",
+      "Surface roughness"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: The riser feeds liquid metal during solidification shrinkage.",
+    "id": 1508
+  },
+  {
+    "subject": "Manufacturing Processes",
+    "subTopic": "Forging, Rolling, Extrusion & Drawing",
+    "question": "Extrusion is a process in which metal is forced through a:",
+    "gujaratiQuestion": "Extrusion processમાં metalને શું through force કરવામાં આવે છે?",
+    "options": [
+      "Mould cavity only",
+      "Die opening",
+      "Lathe chuck",
+      "Grinding wheel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Extrusion forces billet through a die orifice.",
+    "id": 1509
+  },
+  {
+    "subject": "Manufacturing Processes",
+    "subTopic": "Electrical, Electrochemical & Thermal Machining",
+    "question": "In EDM, material removal occurs mainly by:",
+    "gujaratiQuestion": "EDMમાં material removal મુખ્યત્વે કેવી રીતે થાય છે?",
+    "options": [
+      "Mechanical rubbing",
+      "Electrical spark erosion",
+      "Chemical dissolution only",
+      "Plastic deformation only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: EDM uses controlled electrical discharges between electrode and workpiece.",
+    "id": 1510
+  },
+  {
+    "subject": "Manufacturing Processes",
+    "subTopic": "Powder Metallurgy",
+    "question": "Powder metallurgy is especially suitable for producing:",
+    "gujaratiQuestion": "Powder metallurgy ખાસ કરીને કયા માટે યોગ્ય છે?",
+    "options": [
+      "Only huge castings",
+      "Complex small components and porous parts",
+      "Only welded plates",
+      "Only wooden patterns"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: It is useful for controlled-porosity and near-net-shape small components.",
+    "id": 1511
+  },
+  {
+    "subject": "Manufacturing Processes",
+    "subTopic": "Industrial Heat Treatment & Surface Hardening",
+    "question": "Case hardening is used mainly to obtain:",
+    "gujaratiQuestion": "Case hardeningનો મુખ્ય હેતુ શું છે?",
+    "options": [
+      "Soft surface and soft core",
+      "Hard surface with a relatively tough core",
+      "Only lower density",
+      "Only higher electrical resistance"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expected MCQ: Surface hardness improves wear resistance while the core retains toughness.",
+    "id": 1512
+  },
+  {
+    "id": 1513,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Machine Tools & Metal Cutting Operations",
+    "question": "Which machine tool is commonly used for turning?",
+    "gujaratiQuestion": "Which machine tool is commonly used for turning?",
+    "options": [
+      "Lathe",
+      "Shaper",
+      "Drill press only",
+      "Broaching machine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A lathe rotates the workpiece while the cutting tool removes material."
+  },
+  {
+    "id": 1514,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Machine Tools & Metal Cutting Operations",
+    "question": "In orthogonal cutting, the cutting edge is approximately:",
+    "gujaratiQuestion": "In orthogonal cutting, the cutting edge is approximately:",
+    "options": [
+      "perpendicular to cutting velocity",
+      "parallel to cutting velocity",
+      "at 45° always",
+      "curved around the workpiece"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Orthogonal cutting assumes a cutting edge normal to the cutting velocity direction."
+  },
+  {
+    "id": 1515,
+    "subject": "Manufacturing Processes",
+    "subTopic": "Machine Tools & Metal Cutting Operations",
+    "question": "Built-up edge is more likely to form during machining of:",
+    "gujaratiQuestion": "Built-up edge is more likely to form during machining of:",
+    "options": [
+      "ductile materials at suitable low-to-medium cutting speeds",
+      "brittle ceramics only",
+      "wood only",
+      "rubber only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adhesion between tool and ductile work material can form a built-up edge."
+  }
+]
