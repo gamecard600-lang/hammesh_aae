@@ -6,10 +6,10 @@ class AppConfig {
   static const int defaultContentVersion = 10;
 
   // Remote version manifest endpoint for automatic background updates
-  static String updateManifestUrl = 'https://raw.githubusercontent.com/HammeshVasoya/hammesh_aae/main/app/version.json';
+  static String updateManifestUrl = 'https://raw.githubusercontent.com/gamecard600-lang/hammesh_aae/main/app/version.json';
   
   // Configurable share URL for APK Distribution
-  static String shareUrl = 'https://github.com/HammeshVasoya/hammesh_aae/releases/latest';
+  static String shareUrl = 'https://github.com/gamecard600-lang/hammesh_aae/releases/latest';
   
   static const String shareMessage =
       '🎯 GSSSB AAE Mechanical Exam Prep App!\n\n'
