@@ -1,9 +1,10 @@
 class AppConfig {
   static const String appName = 'hammesh_aae';
   static const String appTitle = 'GSSSB AAE Mechanical Exam Prep';
-  static const String currentAppVersion = '1.0.0';
-  static const int currentVersionCode = 1;
-  static const int defaultContentVersion = 10;
+  static const String currentAppVersion = '1.2.0';
+  static const int currentVersionCode = 3;
+  static const int defaultContentVersion = 11;
+  static const String firebaseWebApiKey = String.fromEnvironment('FIREBASE_WEB_API_KEY');
 
   // Remote version manifest endpoint for automatic background updates
   static String updateManifestUrl = 'https://raw.githubusercontent.com/gamecard600-lang/hammesh_aae/main/app/version.json';

@@ -124,7 +124,7 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
     WidgetsBinding.instance.addPostFrameCallback((_) {
       if (mounted) {
         ChatNotificationService.startNotificationListener(context);
-        AutoUpdateService.checkForUpdates();
+        AutoUpdateService.checkForUpdates(context: context);
       }
     });
   }
@@ -474,8 +474,9 @@ class _HomePageState extends State<HomePage> {
                 children: [
                   const Text('Your Progress', style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold)),
                   const SizedBox(height: 4),
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  Wrap(
+                    spacing: 8,
+                    runSpacing: 2,
                     children: [
                       Text('Solved: $_totalSolved', style: const TextStyle(fontSize: 11, color: Colors.grey)),
                       Text('Correct: $_totalCorrect', style: const TextStyle(fontSize: 11, color: Colors.grey)),
@@ -524,7 +525,7 @@ class _HomePageState extends State<HomePage> {
                       children: [
                         Text('Daily Task', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15)),
                         SizedBox(height: 2),
-                        Text('Today\'s Challenge • 10 Important PYQs', style: TextStyle(fontSize: 12, color: Colors.grey)),
+                        Text('Today\'s Challenge • 50% PYQs & All Subjects', style: TextStyle(fontSize: 12, color: Colors.grey)),
                       ],
                     ),
                   ),
@@ -554,16 +555,19 @@ class _HomePageState extends State<HomePage> {
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  Text(
-                    isCompleted
-                        ? 'Score: ${session?.correctCount ?? 0}/$totalCount (${session?.accuracy.toStringAsFixed(0) ?? 0}%)'
-                        : 'Progress: $attempted / $totalCount Questions',
-                    style: TextStyle(
-                      fontSize: 12,
-                      fontWeight: FontWeight.bold,
-                      color: isCompleted ? Colors.green.shade800 : Colors.black87,
+                  Expanded(
+                    child: Text(
+                      isCompleted
+                          ? 'Score: ${session?.correctCount ?? 0}/$totalCount (${session?.accuracy.toStringAsFixed(0) ?? 0}%)'
+                          : 'Progress: $attempted / $totalCount Questions',
+                      style: TextStyle(
+                        fontSize: 12,
+                        fontWeight: FontWeight.bold,
+                        color: isCompleted ? Colors.green.shade800 : Colors.black87,
+                      ),
                     ),
                   ),
+                  const SizedBox(width: 8),
                   ElevatedButton(
                     style: ElevatedButton.styleFrom(
                       backgroundColor: isCompleted ? Colors.green : const Color(0xFF2563EB),

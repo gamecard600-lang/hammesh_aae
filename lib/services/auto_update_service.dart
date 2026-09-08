@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 import 'package:flutter/foundation.dart';
+import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
 import 'package:crypto/crypto.dart';
@@ -13,7 +14,7 @@ import 'study_material_loader.dart';
 class AutoUpdateService {
   static const String _updaterChannel = 'com.example.hammesh_aae/app_updater';
   static const String _lastCheckKey = 'auto_update_last_check_time';
-  
+
   // Specific content version keys
   static const String _contentVersionKey = 'local_content_version';
   static const String _mcqVersionKey = 'local_mcq_version';
@@ -25,9 +26,11 @@ class AutoUpdateService {
   static const MethodChannel _channel = MethodChannel(_updaterChannel);
   static bool _isChecking = false;
 
-  /// Main entry point triggered on app startup or manual check.
-  /// Executes silently in background without UI popups or disrupting user experience.
-  static Future<void> checkForUpdates({bool force = false}) async {
+  /// Main entry point triggered on app startup or manual check from settings.
+  static Future<void> checkForUpdates({
+    bool force = false,
+    BuildContext? context,
+  }) async {
     if (_isChecking) return;
     _isChecking = true;
 
@@ -47,27 +50,62 @@ class AutoUpdateService {
       // Fetch remote manifest JSON
       final manifest = await _fetchRemoteManifest();
       if (manifest == null) {
+        if (force && context != null && context.mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('Could not check for updates. Check internet connection.'),
+              backgroundColor: Colors.red,
+            ),
+          );
+        }
         _isChecking = false;
         return;
       }
 
       // 1. Process Automatic Content Update (MCQs, Study Material, Formulas, Quick Revision, Visuals)
-      await _processContentUpdate(manifest, prefs);
+      final contentUpdated = await _processContentUpdate(manifest, prefs);
+      if (contentUpdated && context != null && context.mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('App content updated automatically!'),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
 
-      // 2. Process Automatic APK Background Update
-      await _processApkUpdate(manifest);
+      // 2. Process APK Update
+      final remoteVersionCode = manifest['versionCode'] as int? ?? AppConfig.currentVersionCode;
+      if (remoteVersionCode > AppConfig.currentVersionCode) {
+        if (context != null && context.mounted) {
+          _showUpdateDialog(context, manifest);
+        } else {
+          await _processApkUpdate(manifest);
+        }
+      } else if (force && context != null && context.mounted) {
+        final versionStr = manifest['version'] as String? ?? AppConfig.currentAppVersion;
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('You are using the latest version (v$versionStr)!'),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
     } catch (e) {
-      debugPrint('Silent auto update error: $e');
+      debugPrint('Auto update error: $e');
     } finally {
       _isChecking = false;
     }
   }
 
-  /// Fetches version.json silently from remote server
+  /// Fetches version.json from remote server bypassing GitHub raw CDN cache
   static Future<Map<String, dynamic>?> _fetchRemoteManifest() async {
     try {
+      final timestamp = DateTime.now().millisecondsSinceEpoch;
+      final baseUrl = AppConfig.updateManifestUrl;
+      final url = baseUrl.contains('?') ? '$baseUrl&t=$timestamp' : '$baseUrl?t=$timestamp';
+
       final response = await http
-          .get(Uri.parse(AppConfig.updateManifestUrl))
+          .get(Uri.parse(url))
           .timeout(const Duration(seconds: 10));
 
       if (response.statusCode == 200) {
@@ -84,7 +122,7 @@ class AutoUpdateService {
 
   /// Safe Content Update Process:
   /// Download -> Temp File -> JSON Validation -> Checksum -> Backup -> Atomic Activation -> Rollback on Failure
-  static Future<void> _processContentUpdate(
+  static Future<bool> _processContentUpdate(
     Map<String, dynamic> manifest,
     SharedPreferences prefs,
   ) async {
@@ -110,7 +148,7 @@ class AutoUpdateService {
           remoteQuickVer > localQuickVer ||
           remoteVisualVer > localVisualVer;
 
-      if (!needsUpdate) return;
+      if (!needsUpdate) return false;
 
       debugPrint('Content update detected! Processing safe download and activation...');
 
@@ -132,12 +170,11 @@ class AutoUpdateService {
           final tempFile = File('${tempDir.path}/master_study_material.json');
           await tempFile.writeAsString(res.body);
 
-          // Schema Validation
           if (_validateJsonSchema(res.body, isList: true)) {
             updateSuccess = true;
           } else {
             debugPrint('Study material JSON validation failed! Aborting content update.');
-            return;
+            return false;
           }
         }
       }
@@ -161,7 +198,6 @@ class AutoUpdateService {
       // Atomic Activation with Backup & Rollback
       if (updateSuccess) {
         try {
-          // Backup existing active content
           if (await activeDir.exists()) {
             if (await backupDir.exists()) await backupDir.delete(recursive: true);
             await _copyDirectory(activeDir, backupDir);
@@ -169,11 +205,9 @@ class AutoUpdateService {
             await activeDir.create(recursive: true);
           }
 
-          // Move validated temp content to active directory
           await _copyDirectory(tempDir, activeDir);
           await tempDir.delete(recursive: true);
 
-          // Update version tags in SharedPreferences
           await prefs.setInt(_contentVersionKey, remoteContentVer);
           await prefs.setInt(_mcqVersionKey, remoteMcqVer);
           await prefs.setInt(_studyMaterialVersionKey, remoteStudyVer);
@@ -181,13 +215,13 @@ class AutoUpdateService {
           await prefs.setInt(_quickRevisionVersionKey, remoteQuickVer);
           await prefs.setInt(_visualVersionKey, remoteVisualVer);
 
-          // Reload caches
           QuestionService.clearCache();
           StudyMaterialLoader.reloadContent();
 
           debugPrint('Content update activated successfully! Content Version: $remoteContentVer');
+          return true;
         } catch (e) {
-          debugPrint('Activation failed! Rolling back to previous version: $e');
+          debugPrint('Activation failed! Rolling back: $e');
           if (await backupDir.exists()) {
             if (await activeDir.exists()) await activeDir.delete(recursive: true);
             await _copyDirectory(backupDir, activeDir);
@@ -197,6 +231,7 @@ class AutoUpdateService {
     } catch (e) {
       debugPrint('Error during safe content update: $e');
     }
+    return false;
   }
 
   /// Validates downloaded JSON content structure before activating
@@ -225,7 +260,211 @@ class AutoUpdateService {
     }
   }
 
-  /// Downloads & verifies APK in background, then triggers Android package installer
+  /// Displays interactive update dialog to the user
+  static void _showUpdateDialog(BuildContext context, Map<String, dynamic> manifest) {
+    final version = manifest['version'] as String? ?? 'New';
+    final releaseNotes = manifest['releaseNotes'] as List<dynamic>?;
+    final changelog = manifest['changelog'] as String? ?? '';
+
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (dialogContext) {
+        return AlertDialog(
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+          title: Row(
+            children: [
+              Container(
+                padding: const EdgeInsets.all(8),
+                decoration: BoxDecoration(
+                  color: Colors.blue.shade50,
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                child: const Icon(Icons.system_update_rounded, color: Colors.blue, size: 28),
+              ),
+              const SizedBox(width: 12),
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const Text(
+                      'Update Available!',
+                      style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+                    ),
+                    Text(
+                      'Version $version',
+                      style: TextStyle(fontSize: 13, color: Colors.grey.shade600),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          content: SingleChildScrollView(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                const Text(
+                  'What\'s New:',
+                  style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14),
+                ),
+                const SizedBox(height: 8),
+                if (releaseNotes != null && releaseNotes.isNotEmpty)
+                  ...releaseNotes.map((note) => Padding(
+                        padding: const EdgeInsets.only(bottom: 6),
+                        child: Row(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            const Text('• ', style: TextStyle(fontWeight: FontWeight.bold, color: Colors.blue)),
+                            Expanded(child: Text(note.toString(), style: const TextStyle(fontSize: 13))),
+                          ],
+                        ),
+                      ))
+                else if (changelog.isNotEmpty)
+                  Text(changelog, style: const TextStyle(fontSize: 13))
+                else
+                  const Text('General performance improvements and bug fixes.', style: TextStyle(fontSize: 13)),
+              ],
+            ),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(dialogContext).pop(),
+              child: Text('Later', style: TextStyle(color: Colors.grey.shade600)),
+            ),
+            ElevatedButton.icon(
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.blue,
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+              ),
+              icon: const Icon(Icons.file_download, size: 18),
+              label: const Text('Update Now'),
+              onPressed: () {
+                Navigator.of(dialogContext).pop();
+                downloadAndInstallApk(context, manifest);
+              },
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  /// Downloads & verifies APK with UI progress dialog, then triggers Android package installer
+  static Future<void> downloadAndInstallApk(
+    BuildContext context,
+    Map<String, dynamic> manifest,
+  ) async {
+    final downloadUrl = (manifest['downloadUrl'] ?? manifest['apkUrl']) as String?;
+    final expectedSha256 = manifest['sha256'] as String? ?? '';
+
+    if (downloadUrl == null || downloadUrl.isEmpty) return;
+
+    double progress = 0.0;
+    StateSetter? dialogSetState;
+
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (dialogContext) {
+        return StatefulBuilder(
+          builder: (context, setState) {
+            dialogSetState = setState;
+            return AlertDialog(
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+              title: const Row(
+                children: [
+                  Icon(Icons.downloading, color: Colors.blue),
+                  SizedBox(width: 8),
+                  Text('Downloading Update...'),
+                ],
+              ),
+              content: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  LinearProgressIndicator(value: progress > 0 ? progress : null),
+                  const SizedBox(height: 16),
+                  Text(
+                    progress > 0
+                        ? '${(progress * 100).toStringAsFixed(0)}% Completed'
+                        : 'Starting download...',
+                    style: const TextStyle(fontWeight: FontWeight.w500),
+                  ),
+                ],
+              ),
+            );
+          },
+        );
+      },
+    );
+
+    try {
+      final client = http.Client();
+      final request = http.Request('GET', Uri.parse(downloadUrl));
+      final response = await client.send(request).timeout(const Duration(minutes: 5));
+
+      if (response.statusCode != 200) {
+        if (context.mounted) Navigator.of(context, rootNavigator: true).pop();
+        if (context.mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(content: Text('Failed to download update (HTTP ${response.statusCode})')),
+          );
+        }
+        return;
+      }
+
+      final contentLength = response.contentLength ?? 0;
+      final tempDir = await getTemporaryDirectory();
+      final tempApkFile = File('${tempDir.path}/update_release.apk');
+      if (await tempApkFile.exists()) await tempApkFile.delete();
+
+      final bytes = <int>[];
+      int received = 0;
+
+      await for (var chunk in response.stream) {
+        bytes.addAll(chunk);
+        received += chunk.length;
+        if (contentLength > 0 && dialogSetState != null) {
+          dialogSetState!(() {
+            progress = received / contentLength;
+          });
+        }
+      }
+
+      await tempApkFile.writeAsBytes(bytes);
+
+      if (expectedSha256.isNotEmpty) {
+        final calculatedSha256 = sha256.convert(bytes).toString().toLowerCase();
+        if (calculatedSha256 != expectedSha256.trim().toLowerCase()) {
+          if (context.mounted) Navigator.of(context, rootNavigator: true).pop();
+          if (context.mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              const SnackBar(content: Text('Update verification failed (SHA-256 mismatch).')),
+            );
+          }
+          if (await tempApkFile.exists()) await tempApkFile.delete();
+          return;
+        }
+      }
+
+      if (context.mounted) Navigator.of(context, rootNavigator: true).pop();
+
+      if (Platform.isAndroid) {
+        await _triggerApkInstall(tempApkFile.path);
+      }
+    } catch (e) {
+      if (context.mounted) Navigator.of(context, rootNavigator: true).pop();
+      if (context.mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('Error downloading update: $e')),
+        );
+      }
+    }
+  }
+
+  /// Downloads & verifies APK in background without UI dialogs
   static Future<void> _processApkUpdate(Map<String, dynamic> manifest) async {
     try {
       final remoteVersionCode = manifest['versionCode'] as int? ?? AppConfig.currentVersionCode;
@@ -237,7 +476,6 @@ class AutoUpdateService {
 
       debugPrint('New APK version available ($remoteVersionCode > ${AppConfig.currentVersionCode}). Downloading in background...');
 
-      // Download to temp directory
       final tempDir = await getTemporaryDirectory();
       final tempApkFile = File('${tempDir.path}/update_release.apk');
       if (await tempApkFile.exists()) {
@@ -252,7 +490,6 @@ class AutoUpdateService {
 
       await tempApkFile.writeAsBytes(response.bodyBytes);
 
-      // SHA-256 Checksum Verification
       if (expectedSha256.isNotEmpty) {
         final calculatedSha256 = sha256.convert(response.bodyBytes).toString().toLowerCase();
         if (calculatedSha256 != expectedSha256.trim().toLowerCase()) {
@@ -260,10 +497,8 @@ class AutoUpdateService {
           if (await tempApkFile.exists()) await tempApkFile.delete();
           return;
         }
-        debugPrint('SHA-256 verification passed!');
       }
 
-      // Trigger installation via Android Package Installer MethodChannel
       if (Platform.isAndroid) {
         await _triggerApkInstall(tempApkFile.path);
       }

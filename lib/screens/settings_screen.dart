@@ -521,14 +521,20 @@ class _SettingsScreenState extends State<SettingsScreen> {
                         leading: const Icon(Icons.system_update_alt, color: Colors.indigo),
                         title: const Text('Automatic Background Updates'),
                         subtitle: Text('App v${AppConfig.currentAppVersion} • Content v$contentVer (Auto Sync Active)'),
+                        onTap: () {
+                          ScaffoldMessenger.of(context).showSnackBar(
+                            const SnackBar(content: Text('Checking for updates...')),
+                          );
+                          AutoUpdateService.checkForUpdates(force: true, context: context);
+                        },
                         trailing: IconButton(
                           icon: const Icon(Icons.refresh, color: Colors.blue),
                           tooltip: 'Check background update',
                           onPressed: () {
-                            AutoUpdateService.checkForUpdates(force: true);
                             ScaffoldMessenger.of(context).showSnackBar(
-                              const SnackBar(content: Text('Checking background updates silently...')),
+                              const SnackBar(content: Text('Checking for updates...')),
                             );
+                            AutoUpdateService.checkForUpdates(force: true, context: context);
                           },
                         ),
                       );
