@@ -27,7 +27,6 @@ jobs:
       - name: 💙 Setup Flutter SDK
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.24.x'
           channel: 'stable'
           cache: true
 
@@ -37,10 +36,19 @@ jobs:
       - name: 🔍 Run Static Code Analysis (flutter analyze)
         run: flutter analyze
 
-      - name: 🧪 Validate JSON Content Schemas
+      - name: 🧪 Strict MCQ Structure Audit
+        run: python3 tool/verify_mcqs.py
+
+      - name: 🧪 Validate JSON Syntax
         run: |
-          dart pub get
-          dart run bin/validate_content_json.dart || dart run scratch/test_json_load.dart || echo "JSON Validation passed."
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          files = list(Path('assets').rglob('*.json'))
+          for f in files:
+              json.loads(f.read_text(encoding='utf-8'))
+          print(f'Validated {len(files)} JSON files.')
+          PY
 
       - name: 🏗️ Build Release APK
         run: flutter build apk --release
