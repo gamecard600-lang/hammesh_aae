@@ -71,13 +71,13 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: hammesh_aae_release_apk
-          path: build/app/outputs/flutter-apk/app-release.apk
+          path: build/app/outputs/**/*.apk
 
       - name: 🚀 Create GitHub Release (On Version Tag)
         if: startsWith(github.ref, 'refs/tags/')
         uses: softprops/action-gh-release@v2
         with:
-          files: build/app/outputs/flutter-apk/app-release.apk
+          files: build/app/outputs/**/*.apk
           generate_release_notes: true
           draft: false
           prerelease: false
