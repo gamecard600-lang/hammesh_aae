@@ -12,7 +12,7 @@
       "સ્ટેટિક્સ"
     ],
     "correctAnswer": 2,
-    "explanation": "બળોને ધ્યાનમાં લીધા વિના માત્ર ગતિ (relative motion) નો અભ્યાસ કરતી શાખાને કાઈનેમેટિક્સ (Kinematics) કહેવાય છે[cite: 7]."
+    "explanation": "બળોને ધ્યાનમાં લીધા વિના માત્ર ગતિ (relative motion) નો અભ્યાસ કરતી શાખાને કાઈનેમેટિક્સ (Kinematics) કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
       "સ્ફેરિકલ પેર"
     ],
     "correctAnswer": 1,
-    "explanation": "સપાટી અથવા એરિયા કોન્ટેક્ટ (Surface/Area contact) ધરાવતી પેરને લોઅર પેર (Lower pair) કહે છે[cite: 7]."
+    "explanation": "સપાટી અથવા એરિયા કોન્ટેક્ટ (Surface/Area contact) ધરાવતી પેરને લોઅર પેર (Lower pair) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
       "સ્ફેરિકલ પેર"
     ],
     "correctAnswer": 3,
-    "explanation": "ત્રિ-પરિમાણીય પરિભ્રમણ આપતો બોલ અને સોકેટ જોઈન્ટ એ સ્ફેરિકલ પેર (Spherical pair) નું ઉદાહરણ છે[cite: 7]."
+    "explanation": "ત્રિ-પરિમાણીય રોટેશન આપતો બોલ અને સોકેટ જોઈન્ટ એ સ્ફેરિકલ પેર (Spherical pair) નું ઉદાહરણ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
       "મશરૂમ"
     ],
     "correctAnswer": 0,
-    "explanation": "નાઈફ-એજ (Knife-edge) ફોલોઅર નાની સંપર્ક સપાટીને લીધે ચોક્કસ મોશન આપે છે પરંતુ ઊંચા સાઇડ થ્રસ્ટથી ઘસારો વધારે થાય છે[cite: 7]."
+    "explanation": "નાઈફ-એજ (Knife-edge) ફોલોઅર નાની સંપર્ક સપાટીને લીધે ચોક્કસ મોશન આપે છે પરંતુ ઊંચા સાઇડ થ્રસ્ટથી ઘસારો વધારે થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
       "ટર્નિંગ પેર"
     ],
     "correctAnswer": 0,
-    "explanation": "કેમ અને ફોલોઅર વચ્ચે પોઇન્ટ અથવા લાઇન કોન્ટેક્ટ હોવાથી તે હાયર પેર (Higher pair) બનાવે છે[cite: 7]."
+    "explanation": "કેમ અને ફોલોઅર વચ્ચે પોઇન્ટ અથવા લાઇન કોન્ટેક્ટ હોવાથી તે હાયર પેર (Higher pair) બનાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
       "સ્ફેરિકલ પેર"
     ],
     "correctAnswer": 2,
-    "explanation": "એક લિંક બીજી લિંકની સાપેક્ષે માત્ર પરિભ્રમણ કરતી હોવાથી તે ટર્નિંગ પેર (Turning pair / Revolute pair) છે[cite: 7]."
+    "explanation": "એક લિંક બીજી લિંકની સાપેક્ષે માત્ર રોટેશન કરતી હોવાથી તે ટર્નિંગ પેર (Turning pair / Revolute pair) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@
       "F · a"
     ],
     "correctAnswer": 1,
-    "explanation": "રોટેશનલ ગતિ કરતી બોડીમાં સંગ્રહિત કાઇનેટિક એનર્જી E = 1/2 Iω² થાય છે[cite: 7]."
+    "explanation": "રોટેશનલ ગતિ કરતી બોડીમાં સંગ્રહિત કાઇનેટિક એનર્જી E = 1/2 Iω² થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 8,
@@ -117,7 +117,7 @@
       "ક્લોઝ્ડ પેર"
     ],
     "correctAnswer": 0,
-    "explanation": "બિંદુ અથવા રેખા સંપર્ક ધરાવતી કાઈનેમેટિક પેરને હાયર પેર (Higher pair) કહેવાય છે[cite: 7]."
+    "explanation": "બિંદુ અથવા રેખા સંપર્ક ધરાવતી કાઈનેમેટિક પેરને હાયર પેર (Higher pair) કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 9,
@@ -132,7 +132,7 @@
       "ફ્રેમ"
     ],
     "correctAnswer": 2,
-    "explanation": "કાઈનેમેટિક ચેઇનની કોઈ એક લિંકને ફિક્સ કરવાથી મિકેનિઝમ (Mechanism) બને છે[cite: 7]."
+    "explanation": "કાઈનેમેટિક ચેઇનની કોઈ એક લિંકને ફિક્સ કરવાથી મિકેનિઝમ (Mechanism) બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 10,
@@ -147,14 +147,14 @@
       "વર્તુળ"
     ],
     "correctAnswer": 0,
-    "explanation": "કોન્સ્ટન્ટ વેલોસિટી દરમિયાન વેગનું મૂલ્ય અચળ રહેવાથી તેનો વેલોસિટી ડાયાગ્રામ લંબચોરસ (Rectangular) બને છે[cite: 7]."
+    "explanation": "કોન્સ્ટન્ટ વેલોસિટી દરમિયાન વેલોસિટીનું મૂલ્ય અચળ રહેવાથી તેનો વેલોસિટી ડાયાગ્રામ લંબચોરસ (Rectangular) બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 11,
     "subject": "Kinematics & Theory of Machines",
     "subTopic": "Degree of Freedom & Mobility",
     "question": "How many degrees of freedom does an unconstrained rigid body have in 3D space?",
-    "gujaratiQuestion": "011. અવકાશમાં એક મુક્ત રિજિડ બોડીને કેટલી ડિગ્રી ઓફ ફ્રીડમ હોય છે?",
+    "gujaratiQuestion": "011. સ્પેસમાં એક મુક્ત રિજિડ બોડીને કેટલી ડિગ્રી ઓફ ફ્રીડમ હોય છે?",
     "options": [
       "2",
       "3",
@@ -162,7 +162,7 @@
       "6"
     ],
     "correctAnswer": 3,
-    "explanation": "3D અવકાશમાં મુક્ત બોડીને 3 ટ્રાન્સલેશન અને 3 રોટેશન એમ કુલ 6 ડિગ્રી ઓફ ફ્રીડમ હોય છે[cite: 7]."
+    "explanation": "3D સ્પેસમાં મુક્ત બોડીને 3 ટ્રાન્સલેશન અને 3 રોટેશન એમ કુલ 6 ડિગ્રી ઓફ ફ્રીડમ હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 12,
@@ -177,14 +177,14 @@
       "કિનેમેટિક ચેઇન"
     ],
     "correctAnswer": 2,
-    "explanation": "DOF = 0 હોય ત્યારે સાપેક્ષ ગતિ શક્ય બનતી નથી અને તે લોડ સહન કરતું સ્ટ્રક્ચર (Structure / Frame) બને છે[cite: 7]."
+    "explanation": "DOF = 0 હોય ત્યારે સાપેક્ષ ગતિ શક્ય બનતી નથી અને તે લોડ સહન કરતું સ્ટ્રક્ચર (Structure / Frame) બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 13,
     "subject": "Kinematics & Theory of Machines",
     "subTopic": "Flywheels & Governors",
     "question": "What is the combined function of a flywheel and a governor in an engine?",
-    "gujaratiQuestion": "013. ફ્લાયવ્હીલ અને ગવર્નરનું સંયુક્ત કાર્ય શું સુનિશ્ચિત કરવાનું છે?",
+    "gujaratiQuestion": "013. ફ્લાયવ્હીલ અને ગવર્નરનું સંયુક્ત વર્ક શું સુનિશ્ચિત કરવાનું છે?",
     "options": [
       "યુનિફોર્મ અને કંટ્રોલ્ડ સ્પીડ",
       "વધેલો એન્જિન ટોર્ક",
@@ -192,7 +192,7 @@
       "કોઈ વાઈબ્રેશન નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "ફ્લાયવ્હીલ સાયકલ દરમિયાન અને ગવર્નર લોડ બદલાતાં સ્પીડ નિયંત્રિત કરી એકંદર યુનિફોર્મ અને કંટ્રોલ્ડ સ્પીડ આપે છે[cite: 7]."
+    "explanation": "ફ્લાયવ્હીલ સાયકલ દરમિયાન અને ગવર્નર લોડ બદલાતાં સ્પીડ નિયંત્રિત કરી એકંદર યુનિફોર્મ અને કંટ્રોલ્ડ સ્પીડ આપે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 14,
@@ -207,7 +207,7 @@
       "3(l - 1) - 2j + h"
     ],
     "correctAnswer": 0,
-    "explanation": "પ્લેનર મિકેનિઝમ માટે કુત્ઝબેક સમીકરણ n = 3(l - 1) - 2j - h છે[cite: 7]."
+    "explanation": "પ્લેનર મિકેનિઝમ માટે કુત્ઝબેક સમીકરણ n = 3(l - 1) - 2j - h છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 15,
@@ -222,7 +222,7 @@
       "L = P - 2"
     ],
     "correctAnswer": 1,
-    "explanation": "કાઈનેમેટિક ચેઇન માટે લિંક્સ અને લોઅર પેર વચ્ચેનો સંબંધ L = 2P - 4 છે[cite: 7]."
+    "explanation": "કાઈનેમેટિક ચેઇન માટે લિંક્સ અને લોઅર પેર વચ્ચેનો સંબંધ L = 2P - 4 છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 16,
@@ -237,7 +237,7 @@
       "6"
     ],
     "correctAnswer": 2,
-    "explanation": "અવકાશમાં મુક્ત કણ (Point mass) માત્ર X, Y, Z દિશામાં ટ્રાન્સલેટ થઈ શકે છે, તેથી તેને 3 ડિગ્રી ઓફ ફ્રીડમ હોય છે[cite: 7]."
+    "explanation": "સ્પેસમાં મુક્ત કણ (Point mass) માત્ર X, Y, Z દિશામાં ટ્રાન્સલેટ થઈ શકે છે, તેથી તેને 3 ડિગ્રી ઓફ ફ્રીડમ હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 17,
@@ -252,7 +252,7 @@
       "હંમેશા બને"
     ],
     "correctAnswer": 1,
-    "explanation": "L = 2P - 4 માં 5 ≠ 2(5) - 4 = 6 થવાથી અને DOF = 3(5-1)-2(5) = 2 થતાં તે અનકન્સ્ટ્રેઇન્ડ ચેઇન બને છે, કાઈનેમેટિક ચેઇન નહીં[cite: 7]."
+    "explanation": "L = 2P - 4 માં 5 ≠ 2(5) - 4 = 6 થવાથી અને DOF = 3(5-1)-2(5) = 2 થતાં તે અનકન્સ્ટ્રેઇન્ડ ચેઇન બને છે, કાઈનેમેટિક ચેઇન નહીં[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 18,
@@ -267,7 +267,7 @@
       "3"
     ],
     "correctAnswer": 1,
-    "explanation": "ગ્રેબલર ક્રાઇટેરિયન એવા પ્લેનર મિકેનિઝમ માટે છે જેની ડિગ્રી ઓફ ફ્રીડમ 1 (F = 1) હોય[cite: 7]."
+    "explanation": "ગ્રેબલર ક્રાઇટેરિયન એવા પ્લેનર મિકેનિઝમ માટે છે જેની ડિગ્રી ઓફ ફ્રીડમ 1 (F = 1) હોય[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 19,
@@ -282,7 +282,7 @@
       "અંતમાં"
     ],
     "correctAnswer": 1,
-    "explanation": "જ્યારે ક્રેન્ક અને કનેક્ટિંગ રોડ એકબીજાને લગભગ લંબરૂપ હોય (મિડ-સ્ટ્રોકની નજીક), ત્યારે પિસ્ટનની વેલોસિટી મહત્તમ બને છે[cite: 7]."
+    "explanation": "જ્યારે ક્રેન્ક અને કનેક્ટિંગ રોડ એકબીજાને લગભગ લંબરૂપ હોય (મિડ-સ્ટ્રોકની નજીક), ત્યારે પિસ્ટનની વેલોસિટી મહત્તમ બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 20,
@@ -297,7 +297,7 @@
       "6"
     ],
     "correctAnswer": 2,
-    "explanation": "2D સમતલમાં રિજિડ બોડી 2 ટ્રાન્સલેશન (X, Y) અને 1 રોટેશન (θ) મળીને મહત્તમ 3 ડિગ્રી ઓફ ફ્રીડમ ધરાવે છે[cite: 7]."
+    "explanation": "2D સમતલમાં રિજિડ બોડી 2 ટ્રાન્સલેશન (X, Y) અને 1 રોટેશન (θ) મળીને મહત્તમ 3 ડિગ્રી ઓફ ફ્રીડમ ધરાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 21,
@@ -312,7 +312,7 @@
       "2L"
     ],
     "correctAnswer": 1,
-    "explanation": "વારાફરતી દરેક લિંકને ફિક્સ કરવાથી મહત્તમ L જેટલા ઇન્વર્ઝન (Inversions) મેળવી શકાય છે[cite: 7]."
+    "explanation": "વારાફરતી દરેક લિંકને ફિક્સ કરવાથી મહત્તમ L જેટલા ઇન્વર્ઝન (Inversions) મેળવી શકાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 22,
@@ -327,7 +327,7 @@
       "5"
     ],
     "correctAnswer": 2,
-    "explanation": "સરળ 4-બાર લિન્કેજમાં 4 લિંક અને 4 રિવોલ્યુટ/ટર્નિંગ પેર (4R) હોય છે[cite: 7]."
+    "explanation": "સરળ 4-બાર લિન્કેજમાં 4 લિંક અને 4 રિવોલ્યુટ/ટર્નિંગ પેર (4R) હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 23,
@@ -342,7 +342,7 @@
       "રોકર"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇનપુટ અને આઉટપુટ લિંકને જોડતી મુક્ત લિંકને કપલર (Coupler / Connecting link) કહે છે[cite: 7]."
+    "explanation": "ઇનપુટ અને આઉટપુટ લિંકને જોડતી મુક્ત લિંકને કપલર (Coupler / Connecting link) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 24,
@@ -357,7 +357,7 @@
       "ડ્રિલિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "શેપિંગ અને સ્લોટિંગ મશીનમાં કટિંગ વખતે ધીમી અને રિટર્ન વખતે ઝડપી ગતિ મેળવવા ક્વિક રિટર્ન મિકેનિઝમ વપરાય છે[cite: 7]."
+    "explanation": "શેપિંગ અને સ્લોટિંગ મશીનમાં કટિંગ વખતે ધીમી અને રિટર્ન વખતે ઝડપી ગતિ મેળવવા ક્વિક રિટર્ન મિકેનિઝમ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 25,
@@ -372,7 +372,7 @@
       "ક્રોસ્ડ સ્લાઈડર ચેઇન"
     ],
     "correctAnswer": 2,
-    "explanation": "લોકોમોટિવના પૈડાં જોડતો કપલિંગ રોડ એ 4-બાર ચેઇનનું પેરેલલોગ્રામ (Double crank) ઇન્વર્ઝન છે[cite: 7]."
+    "explanation": "લોકોમોટિવના પૈડાં જોડતો કપલિંગ રોડ એ 4-બાર ચેઇનનું પેરેલલોગ્રામ (Double crank) ઇન્વર્ઝન છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 26,
@@ -387,7 +387,7 @@
       "સ્લીવ જોઈન્ટ"
     ],
     "correctAnswer": 0,
-    "explanation": "કોણીય વિચલન ધરાવતા શાફ્ટ વચ્ચે પાવર ટ્રાન્સમિટ કરવા માટે યુનિવર્સલ (હૂક્સ) જોઈન્ટ વપરાય છે[cite: 7]."
+    "explanation": "કોણીય વિચલન ધરાવતા શાફ્ટ વચ્ચે પાવર ટ્રાન્સમિટ કરવા માટે યુનિવર્સલ (હૂક્સ) જોઈન્ટ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 27,
@@ -402,7 +402,7 @@
       "ગિયર ચેઈન"
     ],
     "correctAnswer": 2,
-    "explanation": "ઓલ્ડહામ કપલિંગ એ ડબલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન છે[cite: 7]."
+    "explanation": "ઓલ્ડહામ કપલિંગ એ ડબલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 28,
@@ -417,7 +417,7 @@
       "વ્હીટવર્થ મિકેનિઝમ"
     ],
     "correctAnswer": 2,
-    "explanation": "બીમ એન્જિન (ક્રેન્ક અને લીવર મિકેનિઝમ) સિંગલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન છે[cite: 7]."
+    "explanation": "બીમ એન્જિન (ક્રેન્ક અને લીવર મિકેનિઝમ) સિંગલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 29,
@@ -432,7 +432,7 @@
       "ટોર્શન અને બેન્ડિંગ મોમેન્ટ"
     ],
     "correctAnswer": 0,
-    "explanation": "ટોર્ક ટ્રાન્સમિશન દરમિયાન બોલ્ટ્સ પર શિયર સ્ટ્રેસ અને બેન્ડિંગ મોમેન્ટ બંને લાગે છે[cite: 7]."
+    "explanation": "ટોર્ક ટ્રાન્સમિશન દરમિયાન બોલ્ટ્સ પર શિયર સ્ટ્રેસ અને બેન્ડિંગ મોમેન્ટ બંને લાગે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 30,
@@ -447,7 +447,7 @@
       "રોકર મિકેનિઝમ"
     ],
     "correctAnswer": 1,
-    "explanation": "વ્હીટવર્થ ક્વિક રિટર્ન મિકેનિઝમ એ સિંગલ સ્લાઇડર ક્રેન્ક ચેઇનનું બીજું ઇન્વર્ઝન (ક્રેન્ક ફિક્સ કરીને) છે[cite: 7]."
+    "explanation": "વ્હીટવર્થ ક્વિક રિટર્ન મિકેનિઝમ એ સિંગલ સ્લાઇડર ક્રેન્ક ચેઇનનું બીજું ઇન્વર્ઝન (ક્રેન્ક ફિક્સ કરીને) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 31,
@@ -462,7 +462,7 @@
       "ક્રોસ્ડ બાર ચેઈન"
     ],
     "correctAnswer": 0,
-    "explanation": "ઓસિલેટિંગ સિલિન્ડર એન્જિન એ સિંગલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન છે[cite: 7]."
+    "explanation": "ઓસિલેટિંગ સિલિન્ડર એન્જિન એ સિંગલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 32,
@@ -477,7 +477,7 @@
       "125"
     ],
     "correctAnswer": 0,
-    "explanation": "ΔE = I · ω² · Cs. અહીં Cs = 2 × 2% = 0.04. 400 = I × (20)² × 0.04 = I × 400 × 0.04 => I = 1 / 0.04 = 25 kg-m²[cite: 7]."
+    "explanation": "ΔE = I · ω² · Cs. અહીં Cs = 2 × 2% = 0.04. 400 = I × (20)² × 0.04 = I × 400 × 0.04 => I = 1 / 0.04 = 25 kg-m²[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 33,
@@ -492,7 +492,7 @@
       "રોકર ચેઈન"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇલિપ્ટિકલ ટ્રેમલ એ ડબલ સ્લાઇડર ક્રેન્ક ચેઇનનું પ્રથમ ઇન્વર્ઝન (સ્લોટેડ પ્લેટ ફિક્સ કરીને) છે[cite: 7]."
+    "explanation": "ઇલિપ્ટિકલ ટ્રેમલ એ ડબલ સ્લાઇડર ક્રેન્ક ચેઇનનું પ્રથમ ઇન્વર્ઝન (સ્લોટેડ પ્લેટ ફિક્સ કરીને) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 34,
@@ -507,7 +507,7 @@
       "એકરમેન મિકેનિઝમ"
     ],
     "correctAnswer": 2,
-    "explanation": "પૌસેલિયર (Peaucellier) મિકેનિઝમ 8 લિંક્સ ધરાવે છે અને સંપૂર્ણ ચોક્કસ સીધી રેખા ગતિ આપે છે[cite: 7]."
+    "explanation": "પૌસેલિયર (Peaucellier) મિકેનિઝમ 8 લિંક્સ ધરાવે છે અને સંપૂર્ણ ચોક્કસ સીધી રેખા ગતિ આપે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 35,
@@ -522,7 +522,7 @@
       "250 Nm"
     ],
     "correctAnswer": 0,
-    "explanation": "ωp = v / R = 20 / 100 = 0.2 rad/s. C = I · ω · ωp = 10 × 100 × 0.2 = 200 N-m[cite: 7]."
+    "explanation": "ωp = v / R = 20 / 100 = 0.2 rad/s. C = I · ω · ωp = 10 × 100 × 0.2 = 200 N-m[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 36,
@@ -537,7 +537,7 @@
       "રોટરી મિકેનિઝમ"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્કોચ યોક મિકેનિઝમ સરળ હાર્મોનિક મોશન આપતું ડબલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન છે[cite: 7]."
+    "explanation": "સ્કોચ યોક મિકેનિઝમ સરળ હાર્મોનિક મોશન આપતું ડબલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 37,
@@ -552,7 +552,7 @@
       "સ્કોચ યોક મિકેનિઝમ"
     ],
     "correctAnswer": 0,
-    "explanation": "વોટ (Watt's) મિકેનિઝમ એ એપ્રોક્સિમેટ (અંદાજિત) સ્ટ્રેટ લાઇન મોશન મિકેનિઝમ છે[cite: 7]."
+    "explanation": "વોટ (Watt's) મિકેનિઝમ એ એપ્રોક્સિમેટ (અંદાજિત) સ્ટ્રેટ લાઇન મોશન મિકેનિઝમ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 38,
@@ -567,7 +567,7 @@
       "x(t) = 1/2 + cos t, y(t) = sin t"
     ],
     "correctAnswer": 2,
-    "explanation": "પિચ કર્વ x(t) = 1/2 + cos t, y(t) = 2 sin t માટે મહત્તમ અને લઘુત્તમ ત્રિજ્યા વચ્ચેનો તફાવત સૌથી વધુ હોવાથી તે મહત્તમ લિફ્ટ આપે છે[cite: 7]."
+    "explanation": "પિચ કર્વ x(t) = 1/2 + cos t, y(t) = 2 sin t માટે મહત્તમ અને લઘુત્તમ ત્રિજ્યા વચ્ચેનો તફાવત સૌથી વધુ હોવાથી તે મહત્તમ લિફ્ટ આપે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 39,
@@ -582,7 +582,7 @@
       "ટર્નિંગ અને સ્લાઈડિંગ પેર"
     ],
     "correctAnswer": 1,
-    "explanation": "એકરમેન સ્ટીયરિંગ ગિયરમાં માત્ર ટર્નિંગ પેર (Revolute pairs) હોય છે[cite: 7]."
+    "explanation": "એકરમેન સ્ટીયરિંગ ગિયરમાં માત્ર ટર્નિંગ પેર (Revolute pairs) હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 40,
@@ -597,7 +597,7 @@
       "ડબલ સ્લાઈડર ચેઈન"
     ],
     "correctAnswer": 0,
-    "explanation": "IC એન્જિનમાં સ્લાઇડર ક્રેન્ક મિકેનિઝમ પિસ્ટનની રેસીપ્રોકેટિંગ ગતિને ક્રેન્કની રોટરી ગતિમાં ફેરવે છે[cite: 7]."
+    "explanation": "IC એન્જિનમાં સ્લાઇડર ક્રેન્ક મિકેનિઝમ પિસ્ટનની રેસીપ્રોકેટિંગ ગતિને ક્રેન્કની રોટરી ગતિમાં ફેરવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 41,
@@ -612,7 +612,7 @@
       "સિંગલ રો ટેપર્ડ રોલર બેરિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "સિલિન્ડ્રિકલ રોલર બેરિંગ માત્ર ભારે રેડિયલ લોડ લઈ શકે છે, તે કોઈ થ્રસ્ટ/એક્સિયલ લોડ સહન કરી શકતી નથી[cite: 7]."
+    "explanation": "સિલિન્ડ્રિકલ રોલર બેરિંગ માત્ર ભારે રેડિયલ લોડ લઈ શકે છે, તે કોઈ થ્રસ્ટ/એક્સિયલ લોડ સહન કરી શકતી નથી[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 42,
@@ -627,7 +627,7 @@
       "કોઈ લિંક ફિક્સ ન હોવી જોઇએ"
     ],
     "correctAnswer": 1,
-    "explanation": "ગ્રેશોફના નિયમ મુજબ s + l ≤ p + q હોવું જરૂરી છે[cite: 7]."
+    "explanation": "ગ્રેશોફના નિયમ મુજબ s + l ≤ p + q હોવું જરૂરી છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 43,
@@ -642,7 +642,7 @@
       "સ્લાઈડર ક્રેન્ક મિકેનિઝમ"
     ],
     "correctAnswer": 2,
-    "explanation": "સૌથી નાની લિંક (s) ફિક્સ કરવાથી બંને સંલગ્ન લિંક્સ 360° ફરી શકે છે, જેથી ડબલ ક્રેન્ક (Drag link) મિકેનિઝમ બને છે[cite: 7]."
+    "explanation": "સૌથી નાની લિંક (s) ફિક્સ કરવાથી બંને સંલગ્ન લિંક્સ 360° ફરી શકે છે, જેથી ડબલ ક્રેન્ક (Drag link) મિકેનિઝમ બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 44,
@@ -657,7 +657,7 @@
       "ટર્નિંગ રોકર મિકેનિઝમ"
     ],
     "correctAnswer": 1,
-    "explanation": "સૌથી નાની લિંકની બાજુની લિંક ફિક્સ કરવાથી ક્રેન્ક-રોકર (Crank-rocker) મિકેનિઝમ રચાય છે[cite: 7]."
+    "explanation": "સૌથી નાની લિંકની બાજુની લિંક ફિક્સ કરવાથી ક્રેન્ક-રોકર (Crank-rocker) મિકેનિઝમ રચાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 45,
@@ -672,7 +672,7 @@
       "સિંગલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન"
     ],
     "correctAnswer": 3,
-    "explanation": "શેપરમાં ક્વિક રિટર્ન માટે સિંગલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન (ક્રેન્ક અને સ્લોટેડ લીવર) વપરાય છે[cite: 7]."
+    "explanation": "શેપરમાં ક્વિક રિટર્ન માટે સિંગલ સ્લાઇડર ક્રેન્ક ચેઇનનું ઇન્વર્ઝન (ક્રેન્ક અને સ્લોટેડ લીવર) વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 46,
@@ -687,7 +687,7 @@
       "ઓસિલેટિંગ મિકેનિઝમ"
     ],
     "correctAnswer": 2,
-    "explanation": "સૌથી નાની લિંકની સામેની લિંક (Coupler) ફિક્સ કરતાં બંને ઇનપુટ/આઉટપુટ લિંક્સ માત્ર ઓસિલેટ કરે છે, જેથી ડબલ રોકર બને છે[cite: 7]."
+    "explanation": "સૌથી નાની લિંકની સામેની લિંક (Coupler) ફિક્સ કરતાં બંને ઇનપુટ/આઉટપુટ લિંક્સ માત્ર ઓસિલેટ કરે છે, જેથી ડબલ રોકર બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 47,
@@ -702,7 +702,7 @@
       "સ્ટ્રક્ચર"
     ],
     "correctAnswer": 1,
-    "explanation": "નોન-ગ્રેશોફિયન લિન્કેજમાં કોઈપણ લિંક પૂર્ણ 360° ફરી શકતી નથી, તેથી તમામ ઇન્વર્ઝન ડબલ રોકર (Double rocker / Triple rocker) બને છે[cite: 7]."
+    "explanation": "નોન-ગ્રેશોફિયન લિન્કેજમાં કોઈપણ લિંક પૂર્ણ 360° ફરી શકતી નથી, તેથી તમામ ઇન્વર્ઝન ડબલ રોકર (Double rocker / Triple rocker) બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 48,
@@ -717,7 +717,7 @@
       "આર્ક ઓફ કોન્ટેક્ટની લંબાઈ અને સર્ક્યુલર પિચનો ગુણોત્તર"
     ],
     "correctAnswer": 3,
-    "explanation": "કોન્ટેક્ટ રેશિયો = આર્ક ઓફ કોન્ટેક્ટની લંબાઈ / સર્ક્યુલર પિચ (Arc of contact / Circular pitch)[cite: 7]."
+    "explanation": "કોન્ટેક્ટ રેશિયો = આર્ક ઓફ કોન્ટેક્ટની લંબાઈ / સર્ક્યુલર પિચ (Arc of contact / Circular pitch)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 49,
@@ -732,7 +732,7 @@
       "છેદતા ન હોય તેવા"
     ],
     "correctAnswer": 2,
-    "explanation": "યુનિવર્સલ જોઈન્ટ નાના ખૂણે એકબીજાને છેદતા (Intersecting non-parallel) શાફ્ટ વચ્ચે પાવર ટ્રાન્સમિટ કરે છે[cite: 7]."
+    "explanation": "યુનિવર્સલ જોઈન્ટ નાના ખૂણે એકબીજાને છેદતા (Intersecting non-parallel) શાફ્ટ વચ્ચે પાવર ટ્રાન્સમિટ કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 50,
@@ -747,7 +747,7 @@
       "સ્લીવ જોઈન્ટ"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્રોપેલર શાફ્ટના છેડા પર વેરિયેબલ એંગલ સમાવવા હૂક્સ જોઈન્ટ (Universal joint) વપરાય છે[cite: 7]."
+    "explanation": "પ્રોપેલર શાફ્ટના છેડા પર વેરિયેબલ એંગલ સમાવવા હૂક્સ જોઈન્ટ (Universal joint) વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 51,
@@ -762,7 +762,7 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "રિવર્સ રિડક્શન માટે સન ગિયર ઇનપુટ હોય અને કેરિયર ફિક્સ હોય ત્યારે રિંગ ગિયર વિરુદ્ધ દિશામાં ધીમી ગતિએ આઉટપુટ આપે છે[cite: 7]."
+    "explanation": "રિવર્સ રિડક્શન માટે સન ગિયર ઇનપુટ હોય અને કેરિયર ફિક્સ હોય ત્યારે રિંગ ગિયર વિરુદ્ધ દિશામાં ધીમી ગતિએ આઉટપુટ આપે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 52,
@@ -777,7 +777,7 @@
       "ફ્લેન્જ જોઈન્ટ"
     ],
     "correctAnswer": 2,
-    "explanation": "યુનિવર્સલ જોઈન્ટને હૂક્સ જોઈન્ટ (Hooke's joint) અથવા કાર્ડન જોઈન્ટ કહે છે[cite: 7]."
+    "explanation": "યુનિવર્સલ જોઈન્ટને હૂક્સ જોઈન્ટ (Hooke's joint) અથવા કાર્ડન જોઈન્ટ કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 53,
@@ -792,7 +792,7 @@
       "હાયર પેર"
     ],
     "correctAnswer": 1,
-    "explanation": "હુક્સ જોઈન્ટના સેન્ટ્રલ ક્રોસ (સ્પાઈડર) અને શાફ્ટ યોક વચ્ચે ટર્નિંગ પેર (Revolute pair) હોય છે[cite: 7]."
+    "explanation": "હુક્સ જોઈન્ટના સેન્ટ્રલ ક્રોસ (સ્પાઈડર) અને શાફ્ટ યોક વચ્ચે ટર્નિંગ પેર (Revolute pair) હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 54,
@@ -807,7 +807,7 @@
       "500 mm"
     ],
     "correctAnswer": 1,
-    "explanation": "સેન્ટર ડિસ્ટન્સ C = m · (T1 + T2) / 2 = 5 · (70 + 30) / 2 = 5 · 100 / 2 = 250 mm[cite: 7]."
+    "explanation": "સેન્ટર ડિસ્ટન્સ C = m · (T1 + T2) / 2 = 5 · (70 + 30) / 2 = 5 · 100 / 2 = 250 mm[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 55,
@@ -822,7 +822,7 @@
       "ફ્રેમ"
     ],
     "correctAnswer": 1,
-    "explanation": "ટાઇપરાઇટર કીબોર્ડ એ કી દબાવવાથી ટાઇપ-બાર સુધી મોશન ટ્રાન્સફર કરતી મિકેનિઝમ (Mechanism) છે[cite: 7]."
+    "explanation": "ટાઇપરાઇટર કીબોર્ડ એ કી દબાવવાથી ટાઇપ-બાર સુધી મોશન ટ્રાન્સફર કરતી મિકેનિઝમ (Mechanism) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 56,
@@ -837,7 +837,7 @@
       "ઇન્વર્ઝન"
     ],
     "correctAnswer": 2,
-    "explanation": "જ્યારે મિકેનિઝમ ઉપલબ્ધ ઊર્જાનું રૂપાંતર કરી ઉપયોગી યાંત્રિક કાર્ય કરે ત્યારે તેને મશીન (Machine) કહેવાય છે[cite: 7]."
+    "explanation": "જ્યારે મિકેનિઝમ ઉપલબ્ધ ઊર્જાનું રૂપાંતર કરી ઉપયોગી યાંત્રિક વર્ક કરે ત્યારે તેને મશીન (Machine) કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 57,
@@ -852,7 +852,7 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇન્ટરફિયરન્સ વિનાનું મહત્તમ સ્ટાન્ડર્ડ એડેન્ડમ ગણતરી મુજબ 4.9 mm (અથવા 5.46 mm) મળે છે[cite: 7]."
+    "explanation": "ઇન્ટરફિયરન્સ વિનાનું મહત્તમ સ્ટાન્ડર્ડ એડેન્ડમ ગણતરી મુજબ 4.9 mm (અથવા 5.46 mm) મળે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 58,
@@ -867,7 +867,7 @@
       "સિંગલ લિંક"
     ],
     "correctAnswer": 1,
-    "explanation": "ત્રણ કનેક્શન પોઇન્ટ્સ ધરાવતી લિંકને ટર્નરી લિંક (Ternary link) કહે છે[cite: 7]."
+    "explanation": "ત્રણ કનેક્શન પોઇન્ટ્સ ધરાવતી લિંકને ટર્નરી લિંક (Ternary link) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 59,
@@ -882,7 +882,7 @@
       "4"
     ],
     "correctAnswer": 1,
-    "explanation": "કાઈનેમેટિક પેર એ બે લિંક્સ વચ્ચેનો સંપર્ક અને સાપેક્ષ જોડાણ હોવાથી ઓછામાં ઓછી 2 લિંક જરૂરી છે[cite: 7]."
+    "explanation": "કાઈનેમેટિક પેર એ બે લિંક્સ વચ્ચેનો સંપર્ક અને સાપેક્ષ જોડાણ હોવાથી ઓછામાં ઓછી 2 લિંક જરૂરી છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 60,
@@ -897,7 +897,7 @@
       "કેમનો આકાર"
     ],
     "correctAnswer": 2,
-    "explanation": "કેમનું વર્ગીકરણ આકાર, ફોલોઅરની મોશન અને ફોલોઅરના પ્રકાર મુજબ થાય છે, કેમના વજન પર નહીં[cite: 7]."
+    "explanation": "કેમનું વર્ગીકરણ આકાર, ફોલોઅરની મોશન અને ફોલોઅરના પ્રકાર મુજબ થાય છે, કેમના વજન પર નહીં[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 61,
@@ -912,7 +912,7 @@
       "પંચકોણ"
     ],
     "correctAnswer": 1,
-    "explanation": "સામસામેની લિંક્સ સમાન લંબાઈની હોવાથી તે સમાંતરબાજુ ચતુષ્કોણ (Parallelogram linkage) બનાવે છે[cite: 7]."
+    "explanation": "સામસામેની લિંક્સ સમાન લંબાઈની હોવાથી તે સમાંતરબાજુ ચતુષ્કોણ (Parallelogram linkage) બનાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 62,
@@ -927,7 +927,7 @@
       "જનરલ પ્લેન મોશન"
     ],
     "correctAnswer": 2,
-    "explanation": "ક્રેન્ક-રોકરમાં ક્રેન્ક 360° પરિભ્રમણ કરે છે જ્યારે રોકર ચોક્કસ ખૂણા વચ્ચે દોલિત ગતિ (Oscillatory motion) કરે છે[cite: 7]."
+    "explanation": "ક્રેન્ક-રોકરમાં ક્રેન્ક 360° રોટેશન કરે છે જ્યારે રોકર ચોક્કસ ખૂણા વચ્ચે દોલિત ગતિ (Oscillatory motion) કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 63,
@@ -942,7 +942,7 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "ક્લેઈન કન્સ્ટ્રક્શન સિંગલ સ્લાઇડર ક્રેન્ક મિકેનિઝમમાં પિસ્ટનનો પ્રવેગ (Acceleration) અને વેગ ગ્રાફિકલી શોધવા વપરાય છે[cite: 7]."
+    "explanation": "ક્લેઈન કન્સ્ટ્રક્શન સિંગલ સ્લાઇડર ક્રેન્ક મિકેનિઝમમાં પિસ્ટનનો પ્રવેલોસિટી (Acceleration) અને વેલોસિટી ગ્રાફિકલી શોધવા વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 64,
@@ -957,7 +957,7 @@
       "ઇલિપ્સ"
     ],
     "correctAnswer": 3,
-    "explanation": "ઇલિપ્ટિકલ ટ્રેમલ સિદ્ધાંત મુજબ કનેક્ટિંગ લિંક પરનું કોઈપણ બિંદુ ઉપવલય (Ellipse) ટ્રેસ કરે છે[cite: 7]."
+    "explanation": "ઇલિપ્ટિકલ ટ્રેમલ સિદ્ધાંત મુજબ કનેક્ટિંગ લિંક પરનું કોઈપણ બિંદુ ઉપવલય (Ellipse) ટ્રેસ કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 65,
@@ -972,7 +972,7 @@
       "4 ટર્નિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "ડબલ સ્લાઇડર ચેઇનમાં 2 ટર્નિંગ પેર અને 2 સ્લાઇડિંગ પેર (2R + 2P) હોય છે[cite: 7]."
+    "explanation": "ડબલ સ્લાઇડર ચેઇનમાં 2 ટર્નિંગ પેર અને 2 સ્લાઇડિંગ પેર (2R + 2P) હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 66,
@@ -987,7 +987,7 @@
       "3n(n - 1) / 2"
     ],
     "correctAnswer": 0,
-    "explanation": "ઇન્સ્ટન્ટેનિયસ સેન્ટર્સની સંખ્યા N = n(n - 1) / 2 સૂત્ર વડે મળે છે[cite: 7]."
+    "explanation": "ઇન્સ્ટન્ટેનિયસ સેન્ટર્સની સંખ્યા N = n(n - 1) / 2 સૂત્ર વડે મળે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 67,
@@ -1002,7 +1002,7 @@
       "150 N અને -150 N"
     ],
     "correctAnswer": 3,
-    "explanation": "રિએક્શન બળ R = Couple / Span = 300 N-m / 2.0 m = 150 N. સંતુલન માટે બંને છેડે સમાન અને વિરુદ્ધ (150 N અને -150 N) રિએક્શન લાગે છે[cite: 7]."
+    "explanation": "રિએક્શન બળ R = Couple / Span = 300 N-m / 2.0 m = 150 N. સંતુલન માટે બંને છેડે સમાન અને વિરુદ્ધ (150 N અને -150 N) રિએક્શન લાગે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 68,
@@ -1017,7 +1017,7 @@
       "12"
     ],
     "correctAnswer": 1,
-    "explanation": "N = n(n - 1) / 2 = 4(3) / 2 = 6[cite: 7]."
+    "explanation": "N = n(n - 1) / 2 = 4(3) / 2 = 6[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 69,
@@ -1032,7 +1032,7 @@
       "વર્તુળના પરિઘ પર"
     ],
     "correctAnswer": 2,
-    "explanation": "કેનેડીના થિયરમ મુજબ ત્રણ બોડીના સંબંધિત ત્રણ ઇન્સ્ટન્ટેનિયસ સેન્ટર્સ એક જ સીધી રેખા પર (Collinear) આવેલા હોય છે[cite: 7]."
+    "explanation": "કેનેડીના થિયરમ મુજબ ત્રણ બોડીના સંબંધિત ત્રણ ઇન્સ્ટન્ટેનિયસ સેન્ટર્સ એક જ સીધી રેખા પર (Collinear) આવેલા હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 70,
@@ -1047,7 +1047,7 @@
       "100.00%"
     ],
     "correctAnswer": 0,
-    "explanation": "VR = y / x = 10 / 2.5 = 4. Efficiency η = MA / VR = 2.5 / 4 = 0.625 = 62.50%[cite: 7]."
+    "explanation": "VR = y / x = 10 / 2.5 = 4. Efficiency η = MA / VR = 2.5 / 4 = 0.625 = 62.50%[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 71,
@@ -1062,7 +1062,7 @@
       "યુલર પદ્ધતિ"
     ],
     "correctAnswer": 1,
-    "explanation": "ક્લેઈન કન્સ્ટ્રક્શન (Klein's construction) સ્લાઇડર ક્રેન્ક મિકેનિઝમ માટે સૌથી ઝડપી ગ્રાફિકલ પદ્ધતિ છે[cite: 7]."
+    "explanation": "ક્લેઈન કન્સ્ટ્રક્શન (Klein's construction) સ્લાઇડર ક્રેન્ક મિકેનિઝમ માટે સૌથી ઝડપી ગ્રાફિકલ પદ્ધતિ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 72,
@@ -1077,7 +1077,7 @@
       "સેન્ટ્રીપેટલ એક્સેલરેશન"
     ],
     "correctAnswer": 2,
-    "explanation": "ફરતી લિંક પર સ્લાઇડરની સાપેક્ષ રેખીય ગતિને કારણે કોરિઓલિસ એક્સેલરેશન (Coriolis component) ઉદભવે છે[cite: 7]."
+    "explanation": "ફરતી લિંક પર સ્લાઇડરની સાપેક્ષ રેખીય ગતિને કારણે કોરિઓલિસ એક્સેલરેશન (Coriolis component) ઉદભવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 73,
@@ -1092,7 +1092,7 @@
       "7.0 rad/sec"
     ],
     "correctAnswer": 1,
-    "explanation": "h = g / ω² => ω = √(g / h) = √(9.81 / 0.15) = √65.4 = 8.087 ≈ 8.1 rad/sec[cite: 7]."
+    "explanation": "h = g / ω² => ω = √(g / h) = √(9.81 / 0.15) = √65.4 = 8.087 ≈ 8.1 rad/sec[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 75,
@@ -1107,7 +1107,7 @@
       "સમાન દિશામાં"
     ],
     "correctAnswer": 1,
-    "explanation": "કોઈપણ કઠણ લિંક માટે બે બિંદુઓ વચ્ચેનો સાપેક્ષ વેગ વેક્ટર હંમેશા તે લિંકને લંબરૂપ (Perpendicular) દિશામાં હોય છે[cite: 7]."
+    "explanation": "કોઈપણ કઠણ લિંક માટે બે બિંદુઓ વચ્ચેનો સાપેક્ષ વેલોસિટી વેક્ટર હંમેશા તે લિંકને લંબરૂપ (Perpendicular) દિશામાં હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 76,
@@ -1122,22 +1122,22 @@
       "64 ગણી"
     ],
     "correctAnswer": 0,
-    "explanation": "બોલ બેરિંગ માટે Life L ∝ (1/P)³ થાય છે. લોડ P અડધો (P/2) કરતાં લાઈફ (2)³ = 8 ગણી વધશે[cite: 7]."
+    "explanation": "બોલ બેરિંગ માટે Life L ∝ (1/P)³ થાય છે. લોડ P અડધો (P/2) કરતાં લાઈફ (2)³ = 8 ગણી વધશે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 77,
     "subject": "Kinematics & Theory of Machines",
     "subTopic": "Displacement, Velocity & Acceleration Analysis",
     "question": "In a four-bar mechanism, what is the velocity of the instantaneous center of the fixed link?",
-    "gujaratiQuestion": "077. ફોર-બાર મિકેનિઝમમાં ફિક્સ લિંકના ઇન્સ્ટન્ટેનિયસ સેન્ટરનો વેગ કેટલો હોય છે?",
+    "gujaratiQuestion": "077. ફોર-બાર મિકેનિઝમમાં ફિક્સ લિંકના ઇન્સ્ટન્ટેનિયસ સેન્ટરનો વેલોસિટી કેટલો હોય છે?",
     "options": [
       "મહત્તમ",
       "અનંત",
       "શૂન્ય",
-      "ઈનપુટ વેગ જેટલો"
+      "ઈનપુટ વેલોસિટી જેટલો"
     ],
     "correctAnswer": 2,
-    "explanation": "ફિક્સ લિંક સાથે જોડાયેલા કાયમી ઇન્સ્ટન્ટેનિયસ સેન્ટર્સ સ્થિર હોવાથી તેમનો વેગ શૂન્ય (Zero) હોય છે[cite: 7]."
+    "explanation": "ફિક્સ લિંક સાથે જોડાયેલા કાયમી ઇન્સ્ટન્ટેનિયસ સેન્ટર્સ સ્થિર હોવાથી તેમનો વેલોસિટી શૂન્ય (Zero) હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 78,
@@ -1152,7 +1152,7 @@
       "પેરેલલ અને નોર્મલ"
     ],
     "correctAnswer": 0,
-    "explanation": "વક્ર ગતિમાં વેગની દિશા બદલાવાથી સેન્ટ્રીપીટલ/નોર્મલ ઘટક (an) અને મૂલ્ય બદલાવાથી ટેન્જેન્શિયલ ઘટક (at) દોરાય છે[cite: 7]."
+    "explanation": "વક્ર ગતિમાં વેલોસિટીની દિશા બદલાવાથી સેન્ટ્રીપીટલ/નોર્મલ ઘટક (an) અને મૂલ્ય બદલાવાથી ટેન્જેન્શિયલ ઘટક (at) દોરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 79,
@@ -1167,14 +1167,14 @@
       "એડેન્ડમ સર્કલ"
     ],
     "correctAnswer": 0,
-    "explanation": "ઇન્વોલ્યુટ ટૂથ પ્રોફાઇલ હંમેશા બેઝ સર્કલ (Base circle) પરથી જનરેટ કરવામાં આવે છે[cite: 7]."
+    "explanation": "ઇન્વોલ્યુટ ટૂથ પ્રોફાઇલ હંમેશા બેઝ સર્કલ (Base circle) પરથી જનરેટ કરવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 80,
     "subject": "Kinematics & Theory of Machines",
     "subTopic": "Displacement, Velocity & Acceleration Analysis",
     "question": "In a slider-crank mechanism, at which position is the piston velocity zero?",
-    "gujaratiQuestion": "Q80. સ્લાઈડર ક્રેન્ક મિકેનિઝમમાં પિસ્ટનનો વેગ કયા સ્થાને શૂન્ય હોય છે?",
+    "gujaratiQuestion": "Q80. સ્લાઈડર ક્રેન્ક મિકેનિઝમમાં પિસ્ટનનો વેલોસિટી કયા સ્થાને શૂન્ય હોય છે?",
     "options": [
       "સ્ટ્રોકની મધ્યમાં",
       "ક્રેન્ક જ્યારે 90 ડિગ્રી હોય",
@@ -1182,7 +1182,7 @@
       "ક્રેન્ક જ્યારે 45 ડિગ્રી હોય"
     ],
     "correctAnswer": 2,
-    "explanation": "પિસ્ટનની ગતિ દિશા બદલતી વખતે ઈનર ડેડ સેન્ટર (IDC) અને આઉટર ડેડ સેન્ટર (ODC) પર વેગ શૂન્ય થાય છે[cite: 7]."
+    "explanation": "પિસ્ટનની ગતિ દિશા બદલતી વખતે ઈનર ડેડ સેન્ટર (IDC) અને આઉટર ડેડ સેન્ટર (ODC) પર વેલોસિટી શૂન્ય થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 81,
@@ -1197,7 +1197,7 @@
       "અચળ"
     ],
     "correctAnswer": 2,
-    "explanation": "IDC (θ = 0°) પર પિસ્ટન પ્રવેગ a = ω²r(1 + 1/n) મહત્તમ (Maximum) હોય છે[cite: 7]."
+    "explanation": "IDC (θ = 0°) પર પિસ્ટન પ્રવેલોસિટી a = ω²r(1 + 1/n) મહત્તમ (Maximum) હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 82,
@@ -1208,11 +1208,11 @@
     "options": [
       "બેલ્ટ્સ સેટમાં જ ઉપલબ્ધ હોય છે",
       "માત્ર એક જ બેલ્ટ અન્ય વપરાયેલા બેલ્ટ્સ સાથે ફીટ કરવામાં આવે છે",
-      "નવો બેલ્ટ તેના ભાગ કરતા વધારે લોડ વહન કરશે અને પરિણામે આયુષ્ય ઘટશે",
+      "નવો બેલ્ટ તેના ભાગ કરતા વધારે લોડ ફ્લો કરશે અને પરિણામે આયુષ્ય ઘટશે",
       "નવા અને જૂના બેલ્ટ વાઈબ્રેશન પેદા કરશે"
     ],
     "correctAnswer": 2,
-    "explanation": "નવો બેલ્ટ ટૂંકો હોવાથી તમામ લોડ તેના પર આવશે અને તે ઝડપથી ક્ષતિગ્રસ્ત થઈ જશે[cite: 7]."
+    "explanation": "નવો બેલ્ટ ટૂંકો હોવાથી તમામ લોડ તેના પર આવશે અને તે ઝડપથી ક્ષતિગ્રસ્ત થઈ જશે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 83,
@@ -1227,7 +1227,7 @@
       "પાસ્કલનો સિદ્ધાંત"
     ],
     "correctAnswer": 1,
-    "explanation": "ગતિશીલ સમસ્યાને સ્ટેટિક સમકક્ષ બનાવી ઉકેલવાના સિદ્ધાંતને ડી-એલમ્બર્ટનો સિદ્ધાંત (D'Alembert's Principle) કહે છે[cite: 7]."
+    "explanation": "ગતિશીલ સમસ્યાને સ્ટેટિક સમકક્ષ બનાવી ઉકેલવાના સિદ્ધાંતને ડી-એલમ્બર્ટનો સિદ્ધાંત (D'Alembert's Principle) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 84,
@@ -1242,7 +1242,7 @@
       "સેન્ટ્રીફ્યુગલ ફોર્સ"
     ],
     "correctAnswer": 2,
-    "explanation": "બાહ્ય પરિણામી બળ અને રિવર્સ્ડ ઇફેક્ટિવ બળ (ઇનર્શિયા ફોર્સ: -m·a) નો સરવાળો શૂન્ય થાય છે (ΣF - ma = 0)[cite: 7]."
+    "explanation": "બાહ્ય પરિણામી બળ અને રિવર્સ્ડ ઇફેક્ટિવ બળ (ઇનર્શિયા ફોર્સ: -m·a) નો સરવાળો શૂન્ય થાય છે (ΣF - ma = 0)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 85,
@@ -1257,7 +1257,7 @@
       "અનંત (Infinite)"
     ],
     "correctAnswer": 2,
-    "explanation": "pc = (π·D)/T અને P = T/D હોવાથી pc × P = π થાય છે[cite: 7]."
+    "explanation": "pc = (π·D)/T અને P = T/D હોવાથી pc × P = π થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 86,
@@ -1272,7 +1272,7 @@
       "કોઈપણ દિશામાં"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇનર્શિયા ફોર્સ (Fi = -m·a) હંમેશા પ્રવેગની દિશાની બરાબર વિરુદ્ધ દિશામાં લાગે છે[cite: 7]."
+    "explanation": "ઇનર્શિયા ફોર્સ (Fi = -m·a) હંમેશા પ્રવેલોસિટીની દિશાની બરાબર વિરુદ્ધ દિશામાં લાગે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 87,
@@ -1287,7 +1287,7 @@
       "કેમ"
     ],
     "correctAnswer": 1,
-    "explanation": "પંચિંગ જેવા ઇન્ટરમીટન્ટ લોડમાં ઊર્જાનો સંગ્રહ અને મુક્તિ કરવા ફ્લાયવ્હીલ વપરાય છે[cite: 7]."
+    "explanation": "પંચિંગ જેવા ઇન્ટરમીટન્ટ લોડમાં ઊર્જાનો સંગ્રહ અને મુક્તિ કરવા ફ્લાયવ્હીલ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 88,
@@ -1302,7 +1302,7 @@
       "ટોર્ક અને સ્પીડ"
     ],
     "correctAnswer": 0,
-    "explanation": "ટર્નિંગ મોમેન્ટ ડાયાગ્રામ એ ક્રેન્ક એન્ગલ (θ) ની સાપેક્ષે ટર્નિંગ મોમેન્ટ (T) નો આલેખ છે[cite: 7]."
+    "explanation": "ટર્નિંગ મોમેન્ટ ડાયાગ્રામ એ ક્રેન્ક એન્ગલ (θ) ની સાપેક્ષે ટર્નિંગ મોમેન્ટ (T) નો આલેખ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 89,
@@ -1317,7 +1317,7 @@
       "કમ્પોનન્ટની જિયોમેટ્રી અને મટિરિયલ સિવાયના અન્ય પરિબળો પર"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્ટ્રેસ કોન્સન્ટ્રેશન ફેક્ટર ઘટકના ભૌમિતિક આકાર (ખાંચા, છિદ્રો) અને મટિરિયલની નોચ સેન્સિટિવિટી પર આધારિત છે[cite: 7]."
+    "explanation": "સ્ટ્રેસ કોન્સન્ટ્રેશન ફેક્ટર ઘટકના ભૌમિતિક આકાર (ખાંચા, છિદ્રો) અને મટિરિયલની નોચ સેન્સિટિવિટી પર આધારિત છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 90,
@@ -1332,7 +1332,7 @@
       "સરેરાશ પાવર"
     ],
     "correctAnswer": 0,
-    "explanation": "T-θ ડાયાગ્રામ હેઠળનો વિસ્તાર કાર્ય એટલે કે વર્ક ડન પ્રતિ ક્રાંતિ (Work done per cycle/revolution) દર્શાવે છે[cite: 7]."
+    "explanation": "T-θ ડાયાગ્રામ હેઠળનો વિસ્તાર વર્ક એટલે કે વર્ક ડન પ્રતિ ક્રાંતિ (Work done per cycle/revolution) દર્શાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 91,
@@ -1347,7 +1347,7 @@
       "સ્કોચ યોક મિકેનિઝમ"
     ],
     "correctAnswer": 1,
-    "explanation": "કેમ અને ફોલોઅર મિકેનિઝમ રોટરી મોશનનું પ્રી-ડિટર્માઇન્ડ રેખીય કે ઓસિલેટિંગ મોશનમાં રૂપાંતર કરે છે[cite: 7]."
+    "explanation": "કેમ અને ફોલોઅર મિકેનિઝમ રોટરી મોશનનું પ્રી-ડિટર્માઇન્ડ રેખીય કે ઓસિલેટિંગ મોશનમાં રૂપાંતર કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 92,
@@ -1362,7 +1362,7 @@
       "આમાંથી એક પણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "ફ્લેન્જ કપલિંગના બંને અર્ધભાગને પરિઘ પર બોલ્ટ્સ અને નટ્સ (Fitted bolts) વડે જોડવામાં આવે છે[cite: 7]."
+    "explanation": "ફ્લેન્જ કપલિંગના બંને અર્ધભાગને પરિઘ પર બોલ્ટ્સ અને નટ્સ (Fitted bolts) વડે જોડવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 93,
@@ -1377,7 +1377,7 @@
       "લોઅર પેર"
     ],
     "correctAnswer": 2,
-    "explanation": "તેમની વચ્ચે પોઇન્ટ અથવા લાઇન સંપર્ક હોવાથી તે હાયર પેર (Higher pair) છે[cite: 7]."
+    "explanation": "તેમની વચ્ચે પોઇન્ટ અથવા લાઇન સંપર્ક હોવાથી તે હાયર પેર (Higher pair) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 94,
@@ -1392,7 +1392,7 @@
       "પ્રાઈમ પોઈન્ટ"
     ],
     "correctAnswer": 0,
-    "explanation": "પિચ કર્વ પર જે બિંદુએ પ્રેશર એંગલ મહત્તમ હોય તેને પિચ પોઇન્ટ (Pitch point) કહે છે[cite: 7]."
+    "explanation": "પિચ કર્વ પર જે બિંદુએ પ્રેશર એંગલ મહત્તમ હોય તેને પિચ પોઇન્ટ (Pitch point) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 95,
@@ -1407,7 +1407,7 @@
       "યોગ્ય એલાઈનમેન્ટ સુનિશ્ચિત કરી શકાય"
     ],
     "correctAnswer": 2,
-    "explanation": "બધા બેલ્ટ પર સમાન ખેંચાણ અને એકસમાન લોડ વહેંચણી (Uniform loading) સુનિશ્ચિત કરવા આખો સેટ બદલાય છે[cite: 7]."
+    "explanation": "બધા બેલ્ટ પર સમાન ખેંચાણ અને એકસમાન લોડ વહેંચણી (Uniform loading) સુનિશ્ચિત કરવા આખો સેટ બદલાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 96,
@@ -1422,7 +1422,7 @@
       "હાઈપરબોલા"
     ],
     "correctAnswer": 1,
-    "explanation": "અચળ વેગ માટે સ્થાનાંતર સમયના સમપ્રમાણમાં વધતું હોવાથી ડાયાગ્રામ સીધી રેખા (Straight line) બને છે[cite: 7]."
+    "explanation": "અચળ વેલોસિટી માટે સ્થાનાંતર સમયના સમપ્રમાણમાં વધતું હોવાથી ડાયાગ્રામ સીધી રેખા (Straight line) બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 97,
@@ -1437,14 +1437,14 @@
       "સાયક્લોઇડલ મોશન"
     ],
     "correctAnswer": 3,
-    "explanation": "સાયક્લોઇડલ મોશનમાં કોઈ ઝર્ક (Jerk) કે પ્રવેગમાં અચાનક ઉછાળો ન હોવાથી હાઈ સ્પીડ કેમ માટે તે સર્વશ્રેષ્ઠ છે[cite: 7]."
+    "explanation": "સાયક્લોઇડલ મોશનમાં કોઈ ઝર્ક (Jerk) કે પ્રવેલોસિટીમાં અચાનક ઉછાળો ન હોવાથી હાઈ સ્પીડ કેમ માટે તે સર્વશ્રેષ્ઠ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 98,
     "subject": "Kinematics & Theory of Machines",
     "subTopic": "Dynamic Analysis of Linkages",
     "question": "What is the primary function of a washer?",
-    "gujaratiQuestion": "098. વોશરનું કાર્ય શું છે?",
+    "gujaratiQuestion": "098. વોશરનું વર્ક શું છે?",
     "options": [
       "કુશનિંગ ઇફેક્ટ પૂરી પાડવી",
       "બેરિંગ એરિયા પૂરો પાડવો",
@@ -1452,7 +1452,7 @@
       "ખરબચડી સપાટીને બદલે લીસી સપાટી પૂરી પાડવી"
     ],
     "correctAnswer": 1,
-    "explanation": "વોશર નટ કે બોલ્ટના ક્લેમ્પિંગ લોડને મોટા વિસ્તાર પર વહેંચવા બેરિંગ એરિયા પૂરો પાડે છે[cite: 7]."
+    "explanation": "વોશર નટ કે બોલ્ટના ક્લેમ્પિંગ લોડને મોટા વિસ્તાર પર વહેંચવા બેરિંગ એરિયા પૂરો પાડે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 99,
@@ -1467,7 +1467,7 @@
       "સ્ફેરિકલ ફોલોઅર"
     ],
     "correctAnswer": 1,
-    "explanation": "રોલર ફોલોઅરમાં રોલિંગ કોન્ટેક્ટ થતો હોવાથી સ્લાઇડિંગ ઘર્ષણ અને ઘસારો અત્યંત ઘટી જાય છે[cite: 7]."
+    "explanation": "રોલર ફોલોઅરમાં રોલિંગ કોન્ટેક્ટ થતો હોવાથી સ્લાઇડિંગ ઘર્ષણ અને ઘસારો અત્યંત ઘટી જાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 100,
@@ -1482,7 +1482,7 @@
       "પિચ સર્કલ પર"
     ],
     "correctAnswer": 1,
-    "explanation": "રોલર ફોલોઅર માટે પિચ કર્વ જનરેટ કરતો ટ્રેસ પોઇન્ટ રોલર પિનના કેન્દ્ર (Center of roller) પર હોય છે[cite: 7]."
+    "explanation": "રોલર ફોલોઅર માટે પિચ કર્વ જનરેટ કરતો ટ્રેસ પોઇન્ટ રોલર પિનના કેન્દ્ર (Center of roller) પર હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 101,
@@ -1497,7 +1497,7 @@
       "બેન્ડિંગ સ્ટ્રેન્થ"
     ],
     "correctAnswer": 0,
-    "explanation": "ટ્રાન્સવર્સ ફિલેટ વેલ્ડ્સ લોડની દિશાને લંબ હોવાથી મુખ્યત્વે ટેન્સાઇલ સ્ટ્રેન્થ માટે ડિઝાઈન કરાય છે[cite: 7]."
+    "explanation": "ટ્રાન્સવર્સ ફિલેટ વેલ્ડ્સ લોડની દિશાને લંબ હોવાથી મુખ્યત્વે ટેન્સાઇલ સ્ટ્રેન્થ માટે ડિઝાઈન કરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 102,
@@ -1507,12 +1507,12 @@
     "gujaratiQuestion": "0102. જો કેમ અને ફોલોઅરમાં પ્રેશર એન્ગલ ખૂબ મોટો હોય, તો શું સમસ્યા થઈ શકે છે?",
     "options": [
       "ફોલોઅર ઝડપથી ફરે છે",
-      "કેમનું કદ વધે છે",
+      "કેમનું વોલ્યુમ વધે છે",
       "ફોલોઅર તેની ગાઈડમાં જામ થઇ શકે છે",
       "પાવર વધુ ઉત્પન્ન થાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "મોટો પ્રેશર એંગલ સાઇડ થ્રસ્ટ વધારે છે, જેથી ફોલોઅર તેની ગાઇડ વેઝમાં જામ (Jamming in guide) થઈ શકે છે[cite: 7]."
+    "explanation": "મોટો પ્રેશર એંગલ સાઇડ થ્રસ્ટ વધારે છે, જેથી ફોલોઅર તેની ગાઇડ વેઝમાં જામ (Jamming in guide) થઈ શકે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 103,
@@ -1527,7 +1527,7 @@
       "કેમ સર્કલ"
     ],
     "correctAnswer": 1,
-    "explanation": "કેમ પ્રોફાઇલ દોરવા માટે સૌથી નાનું અને પાયાનું બેઝ સર્કલ (Base circle) સૌપ્રથમ દોરાય છે[cite: 7]."
+    "explanation": "કેમ પ્રોફાઇલ દોરવા માટે સૌથી નાનું અને પાયાનું બેઝ સર્કલ (Base circle) સૌપ્રથમ દોરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 104,
@@ -1542,7 +1542,7 @@
       "કાસ્ટિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "એરક્રાફ્ટ સ્ટ્રક્ચરમાં એલ્યુમિનિયમ શીટ્સ જોડવા વાઇબ્રેશન અને થાક સામે ટકાઉ રિવેટિંગ (Riveting) પદ્ધતિ વપરાય છે[cite: 7]."
+    "explanation": "એરક્રાફ્ટ સ્ટ્રક્ચરમાં એલ્યુમિનિયમ શીટ્સ જોડવા વાઇબ્રેશન અને થાક સામે ટકાઉ રિવેટિંગ (Riveting) પદ્ધતિ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 105,
@@ -1557,7 +1557,7 @@
       "ફ્લેટ ફોલોઅર"
     ],
     "correctAnswer": 0,
-    "explanation": "જ્યારે મોશન અક્ષ કેમ સેન્ટરમાંથી પસાર થાય ત્યારે તેને રેડિયલ ફોલોઅર (Radial follower) કહે છે[cite: 7]."
+    "explanation": "જ્યારે મોશન અક્ષ કેમ સેન્ટરમાંથી પસાર થાય ત્યારે તેને રેડિયલ ફોલોઅર (Radial follower) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 106,
@@ -1572,7 +1572,7 @@
       "નાઈફ એજ ફોલોઅર"
     ],
     "correctAnswer": 1,
-    "explanation": "ગતિ રેખા કેમ અક્ષથી અમુક અંતરે ખસેલી હોય તેને ઓફસેટ ફોલોઅર (Offset follower) કહે છે[cite: 7]."
+    "explanation": "ગતિ રેખા કેમ અક્ષથી અમુક અંતરે ખસેલી હોય તેને ઓફસેટ ફોલોઅર (Offset follower) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 107,
@@ -1587,14 +1587,14 @@
       "હોલો શાફ્ટ તરીકે"
     ],
     "correctAnswer": 3,
-    "explanation": "મફ કપલિંગની કાસ્ટ આયર્ન સ્લીવ ટોર્ક ટ્રાન્સમિટ કરતો હોલો શાફ્ટ (Hollow shaft) ગણીને ડિઝાઈન કરાય છે[cite: 7]."
+    "explanation": "મફ કપલિંગની કાસ્ટ આયર્ન સ્લીવ ટોર્ક ટ્રાન્સમિટ કરતો હોલો શાફ્ટ (Hollow shaft) ગણીને ડિઝાઈન કરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 108,
     "subject": "Kinematics & Theory of Machines",
     "subTopic": "Cams",
     "question": "What is the shape of the velocity diagram of a follower moving with uniform velocity?",
-    "gujaratiQuestion": "0108. સમાન વેગથી ચાલતા ફૉલોઅરના વેલોસિટી ડાયાગ્રામનો આકાર કેવો હોય છે?",
+    "gujaratiQuestion": "0108. સમાન વેલોસિટીથી ચાલતા ફૉલોઅરના વેલોસિટી ડાયાગ્રામનો આકાર કેવો હોય છે?",
     "options": [
       "ત્રિકોણ",
       "પેરાબોલા",
@@ -1602,7 +1602,7 @@
       "વળાંકવાળો"
     ],
     "correctAnswer": 2,
-    "explanation": "અચળ વેગ દરમિયાન વેલોસિટી સમય સાથે અચળ રહેતી હોવાથી ડાયાગ્રામ લંબચોરસ (Rectangular) બને છે[cite: 7]."
+    "explanation": "અચળ વેલોસિટી દરમિયાન વેલોસિટી સમય સાથે અચળ રહેતી હોવાથી ડાયાગ્રામ લંબચોરસ (Rectangular) બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 109,
@@ -1617,7 +1617,7 @@
       "એલિપ્ટિકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "બનાવટમાં સરળતા અને સેન્ટર ડિસ્ટન્સના નાના ફેરફાર સામે અચળ વેલોસિટી રેશિયો આપવા ઇન્વોલ્યુટ (Involute) પ્રોફાઇલ સૌથી વધુ વપરાય છે[cite: 7]."
+    "explanation": "બનાવટમાં સરળતા અને સેન્ટર ડિસ્ટન્સના નાના ફેરફાર સામે અચળ વેલોસિટી રેશિયો આપવા ઇન્વોલ્યુટ (Involute) પ્રોફાઇલ સૌથી વધુ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 110,
@@ -1632,7 +1632,7 @@
       "ક્રોસ્ડ હેલિકલ ગિયર"
     ],
     "correctAnswer": 1,
-    "explanation": "સમાંતર શાફ્ટ વચ્ચે પાવર ટ્રાન્સમિશન માટે સ્પર ગિયર અથવા હેલિકલ ગિયર વપરાય છે[cite: 7]."
+    "explanation": "સમાંતર શાફ્ટ વચ્ચે પાવર ટ્રાન્સમિશન માટે સ્પર ગિયર અથવા હેલિકલ ગિયર વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 111,
@@ -1647,7 +1647,7 @@
       "ટફનેસ (Toughness)"
     ],
     "correctAnswer": 2,
-    "explanation": "ગિયર દાંતાની સપાટી પર થતા પિટિંગ સામેની એન્ડ્યોરન્સ લિમિટ બ્રિનેલ હાર્ડનેસ નંબર (BHN) પર આધાર રાખે છે[cite: 7]."
+    "explanation": "ગિયર દાંતાની સપાટી પર થતા પિટિંગ સામેની એન્ડ્યોરન્સ લિમિટ બ્રિનેલ હાર્ડનેસ નંબર (BHN) પર આધાર રાખે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 112,
@@ -1662,7 +1662,7 @@
       "વોર્મ ગિયર"
     ],
     "correctAnswer": 2,
-    "explanation": "એકબીજાને છેદતા શાફ્ટ વચ્ચે પાવર ટ્રાન્સમિશન માટે બેવલ ગિયર્સ (Bevel gears) વપરાય છે[cite: 7]."
+    "explanation": "એકબીજાને છેદતા શાફ્ટ વચ્ચે પાવર ટ્રાન્સમિશન માટે બેવલ ગિયર્સ (Bevel gears) વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 113,
@@ -1677,7 +1677,7 @@
       "ઇન્ટરનલ ગિયર"
     ],
     "correctAnswer": 1,
-    "explanation": "નોન-ઇન્ટરસેક્ટિંગ અને નોન-પેરેલલ શાફ્ટ માટે વોર્મ ગિયર અથવા ક્રોસ્ડ હેલિકલ ગિયર (Spiral gears) વપરાય છે[cite: 7]."
+    "explanation": "નોન-ઇન્ટરસેક્ટિંગ અને નોન-પેરેલલ શાફ્ટ માટે વોર્મ ગિયર અથવા ક્રોસ્ડ હેલિકલ ગિયર (Spiral gears) વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 114,
@@ -1692,7 +1692,7 @@
       "હોલ માટે ટોલરન્સ ગ્રેડ 4 થી 8 અને શાફ્ટ માટે 3 થી 7 છે"
     ],
     "correctAnswer": 0,
-    "explanation": "H6 હોલ માટે ગ્રેડ IT6 અને g5 શાફ્ટ માટે ગ્રેડ IT5 દર્શાવે છે[cite: 7]."
+    "explanation": "H6 હોલ માટે ગ્રેડ IT6 અને g5 શાફ્ટ માટે ગ્રેડ IT5 દર્શાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 115,
@@ -1707,7 +1707,7 @@
       "m × T"
     ],
     "correctAnswer": 3,
-    "explanation": "મોડ્યુલ m = D / T હોવાથી પિચ સર્કલ વ્યાસ D = m × T થાય[cite: 7]."
+    "explanation": "મોડ્યુલ m = D / T હોવાથી પિચ સર્કલ વ્યાસ D = m × T થાય[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 116,
@@ -1722,7 +1722,7 @@
       "વર્કિંગ ડેપ્થ"
     ],
     "correctAnswer": 2,
-    "explanation": "પિચ સર્કલથી દાંતાની ટોચ (એડેન્ડમ સર્કલ) વચ્ચેના ત્રિજ્યાવર્તી અંતરને એડેન્ડમ (Addendum) કહે છે[cite: 7]."
+    "explanation": "પિચ સર્કલથી દાંતાની ટોચ (એડેન્ડમ સર્કલ) વચ્ચેના ત્રિજ્યાવર્તી અંતરને એડેન્ડમ (Addendum) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 117,
@@ -1737,7 +1737,7 @@
       "81 ગણી"
     ],
     "correctAnswer": 1,
-    "explanation": "L ∝ (1/P)³ હોવાથી લોડ 1/3 કરતાં લાઈફ (3)³ = 27 ગણી વધશે[cite: 7]."
+    "explanation": "L ∝ (1/P)³ હોવાથી લોડ 1/3 કરતાં લાઈફ (3)³ = 27 ગણી વધશે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 118,
@@ -1752,7 +1752,7 @@
       "ક્લિયરન્સ સર્કલ પર"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇન્ટરફિયરન્સમાં મેટિંગ ગિયરની એડેન્ડમ ટીપ પિનિયનના બેઝ સર્કલ નીચે ફ્લેન્ક/રૂટ ભાગમાં ખોતરાય છે[cite: 7]."
+    "explanation": "ઇન્ટરફિયરન્સમાં મેટિંગ ગિયરની એડેન્ડમ ટીપ પિનિયનના બેઝ સર્કલ નીચે ફ્લેન્ક/રૂટ ભાગમાં ખોતરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 119,
@@ -1767,7 +1767,7 @@
       "એપિસાઇક્લિક ગિયર ટ્રેન"
     ],
     "correctAnswer": 2,
-    "explanation": "જ્યારે પ્રથમ અને અંતિમ શાફ્ટની અક્ષો એકરૂપ/કો-એક્સિયલ હોય ત્યારે તેને રિવર્ટેડ ગિયર ટ્રેન (Reverted gear train) કહેવાય છે[cite: 7]."
+    "explanation": "જ્યારે પ્રથમ અને અંતિમ શાફ્ટની અક્ષો એકરૂપ/કો-એક્સિયલ હોય ત્યારે તેને રિવર્ટેડ ગિયર ટ્રેન (Reverted gear train) કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 120,
@@ -1782,7 +1782,7 @@
       "આમાંથી એક પણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "સતત પાવર ટ્રાન્સમિશન માટે કોન્ટેક્ટ રેશિયો હંમેશા 1 કરતાં વધારે (CR > 1, સામાન્ય રીતે 1.2 થી 1.8) હોવો જોઈએ[cite: 7]."
+    "explanation": "સતત પાવર ટ્રાન્સમિશન માટે કોન્ટેક્ટ રેશિયો હંમેશા 1 કરતાં વધારે (CR > 1, સામાન્ય રીતે 1.2 થી 1.8) હોવો જોઈએ[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 121,
@@ -1797,7 +1797,7 @@
       "ક્રોસ્ડ ગિયર ટ્રેન"
     ],
     "correctAnswer": 1,
-    "explanation": "બંને કાંટા એક જ કેન્દ્રિય અક્ષ પર ફરતા હોવાથી ઘડિયાળમાં રિવર્ટેડ ગિયર ટ્રેન વપરાય છે[cite: 7]."
+    "explanation": "બંને કાંટા એક જ કેન્દ્રિય અક્ષ પર ફરતા હોવાથી ઘડિયાળમાં રિવર્ટેડ ગિયર ટ્રેન વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 122,
@@ -1812,7 +1812,7 @@
       "કમ્પાઉન્ડ ગિયર ટ્રેન"
     ],
     "correctAnswer": 2,
-    "explanation": "ડિફરન્શિયલ ગિયરબોક્સ સન અને પ્લેનેટ ગિયર્સ ધરાવતી એપિસાઇક્લિક ગિયર ટ્રેન (Epicyclic gear train) છે[cite: 7]."
+    "explanation": "ડિફરન્શિયલ ગિયરબોક્સ સન અને પ્લેનેટ ગિયર્સ ધરાવતી એપિસાઇક્લિક ગિયર ટ્રેન (Epicyclic gear train) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 123,
@@ -1827,7 +1827,7 @@
       "ઝીરો બેવલ ગિયર્સ"
     ],
     "correctAnswer": 2,
-    "explanation": "90° ના ખૂણે સમાન દાંતા (1:1 સ્પીડ રેશિયો) ધરાવતા બેવલ ગિયર્સને માઇટર ગિયર્સ (Miter gears) કહે છે[cite: 7]."
+    "explanation": "90° ના ખૂણે સમાન દાંતા (1:1 સ્પીડ રેશિયો) ધરાવતા બેવલ ગિયર્સને માઇટર ગિયર્સ (Miter gears) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 124,
@@ -1842,7 +1842,7 @@
       "દિશા નક્કી ન થઇ શકે"
     ],
     "correctAnswer": 1,
-    "explanation": "એકી સંખ્યામાં (Odd) આઇડલર ગિયર્સ હોય ત્યારે ડ્રાઇવર અને ડ્રિવન બંને સમાન દિશામાં (Same direction) ફરે છે[cite: 7]."
+    "explanation": "એકી સંખ્યામાં (Odd) આઇડલર ગિયર્સ હોય ત્યારે ડ્રાઇવર અને ડ્રિવન બંને સમાન દિશામાં (Same direction) ફરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 125,
@@ -1857,7 +1857,7 @@
       "કોઈ સંબંધ નથી"
     ],
     "correctAnswer": 1,
-    "explanation": "ટ્રેન વેલ્યુ = N_output / N_input, જે સ્પીડ રેશિયો (N_input / N_output) નો વ્યસ્ત (Reciprocal) છે[cite: 7]."
+    "explanation": "ટ્રેન વેલ્યુ = N_output / N_input, જે સ્પીડ રેશિયો (N_input / N_output) નો વ્યસ્ત (Reciprocal) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 126,
@@ -1872,7 +1872,7 @@
       "મેથડ ઓફ હિન્જીસ"
     ],
     "correctAnswer": 2,
-    "explanation": "ટ્રસના સભ્યોમાં આંતરિક બળો શોધવા મેથડ ઓફ જોઈન્ટ્સ (Method of Joints) અને મેથડ ઓફ સેક્શન્સ વપરાય છે[cite: 7]."
+    "explanation": "ટ્રસના સભ્યોમાં આંતરિક બળો શોધવા મેથડ ઓફ જોઈન્ટ્સ (Method of Joints) અને મેથડ ઓફ સેક્શન્સ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 127,
@@ -1887,7 +1887,7 @@
       "બેવલ ગિયર"
     ],
     "correctAnswer": 1,
-    "explanation": "હેરિંગબોન (ડબલ હેલિકલ) ગિયરમાં બંને બાજુના વિરુદ્ધ હેલિક્સ એંગલ સામસામેનો એક્સિયલ થ્રસ્ટ કેન્સલ કરે છે[cite: 7]."
+    "explanation": "હેરિંગબોન (ડબલ હેલિકલ) ગિયરમાં બંને બાજુના વિરુદ્ધ હેલિક્સ એંગલ સામસામેનો એક્સિયલ થ્રસ્ટ કેન્સલ કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 128,
@@ -1896,13 +1896,13 @@
     "question": "What is the biggest advantage of a worm and worm wheel drive?",
     "gujaratiQuestion": "0128. વોર્મ અને વોર્મ વ્હીલ ડ્રાઈવનો સૌથી મોટો ફાયદો શું છે?",
     "options": [
-      "100% કાર્યક્ષમતા",
+      "100% વર્કક્ષમતા",
       "ખૂબ મોટો વેલોસિટી રેશિયો",
       "સમાંતર શાફ્ટ પર વપરાય છે",
       "પાવર લોસ હોતો નથી"
     ],
     "correctAnswer": 1,
-    "explanation": "વોર્મ ડ્રાઇવ કોમ્પેક્ટ સ્પેસમાં ખૂબ મોટો સ્પીડ રિડક્શન રેશિયો (સામાન્ય રીતે 100:1 સુધી) પૂરો પાડે છે[cite: 7]."
+    "explanation": "વોર્મ ડ્રાઇવ કોમ્પેક્ટ સ્પેસમાં ખૂબ મોટો સ્પીડ રિડક્શન રેશિયો (સામાન્ય રીતે 100:1 સુધી) પૂરો પાડે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 129,
@@ -1917,7 +1917,7 @@
       "સ્લાઈડિંગ પેર"
     ],
     "correctAnswer": 0,
-    "explanation": "માત્ર એક અક્ષ પર પરિભ્રમણની છૂટ આપતી પેરને ટર્નિંગ પેર (Turning pair) કહે છે[cite: 7]."
+    "explanation": "માત્ર એક અક્ષ પર રોટેશનની છૂટ આપતી પેરને ટર્નિંગ પેર (Turning pair) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 130,
@@ -1932,7 +1932,7 @@
       "ફેસ વિડ્થ"
     ],
     "correctAnswer": 2,
-    "explanation": "ગિયર્સ યોગ્ય રીતે મેશ થવા માટે બંનેનો મોડ્યુલ (Module m) અને પ્રેશર એંગલ સમાન હોવા અનિવાર્ય છે[cite: 7]."
+    "explanation": "ગિયર્સ યોગ્ય રીતે મેશ થવા માટે બંનેનો મોડ્યુલ (Module m) અને પ્રેશર એંગલ સમાન હોવા અનિવાર્ય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 131,
@@ -1947,14 +1947,14 @@
       "ઇન્ટરનલ ગિયર"
     ],
     "correctAnswer": 0,
-    "explanation": "રેક એ અનંત પિચ સર્કલ ડાયામીટર (Infinite pitch circle diameter) ધરાવતો સ્પર ગિયર છે[cite: 7]."
+    "explanation": "રેક એ અનંત પિચ સર્કલ ડાયામીટર (Infinite pitch circle diameter) ધરાવતો સ્પર ગિયર છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 132,
     "subject": "Kinematics & Theory of Machines",
     "subTopic": "Flywheels & Governors",
     "question": "What is the primary function of a flywheel in an engine?",
-    "gujaratiQuestion": "0132. એન્જિનમાં ફ્લાયવ્હીલનું મુખ્ય કાર્ય શું છે?",
+    "gujaratiQuestion": "0132. એન્જિનમાં ફ્લાયવ્હીલનું મુખ્ય વર્ક શું છે?",
     "options": [
       "એન્જિનની સરેરાશ સ્પીડ જાળવવી",
       "સાયકિલક ઊર્જાના ફેરફારને કારણે થતી સ્પીડની વધઘટને કંટ્રોલ કરવી",
@@ -1962,7 +1962,7 @@
       "ફ્રિક્શન ઘટાડવું"
     ],
     "correctAnswer": 1,
-    "explanation": "ફ્લાયવ્હીલ એક સાયકલ દરમિયાન ટર્નિંગ મોમેન્ટના ફ્લક્ચ્યુએશનથી થતી સ્પીડ વધઘટને નિયંત્રિત કરે છે[cite: 7]."
+    "explanation": "ફ્લાયવ્હીલ એક સાયકલ દરમિયાન ટર્નિંગ મોમેન્ટના ફ્લક્ચ્યુએશનથી થતી સ્પીડ વધઘટને નિયંત્રિત કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 133,
@@ -1977,7 +1977,7 @@
       "બેલ્ટ અને પુલી"
     ],
     "correctAnswer": 3,
-    "explanation": "બેલ્ટ અને પુલી વચ્ચે લાઇન સંપર્ક હોવાથી તે હાયર પેર (Higher pair) છે[cite: 7]."
+    "explanation": "બેલ્ટ અને પુલી વચ્ચે લાઇન સંપર્ક હોવાથી તે હાયર પેર (Higher pair) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 134,
@@ -1992,7 +1992,7 @@
       "હીટ એનર્જી"
     ],
     "correctAnswer": 2,
-    "explanation": "ફ્લાયવ્હીલ રોટેશનલ કાઇનેટિક એનર્જી (Kinetic energy) સ્વરૂપે વધારાની ઊર્જા સંગ્રહે છે[cite: 7]."
+    "explanation": "ફ્લાયવ્હીલ રોટેશનલ કાઇનેટિક એનર્જી (Kinetic energy) સ્વરૂપે વધારાની ઊર્જા સંગ્રહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 135,
@@ -2007,7 +2007,7 @@
       "I²ω"
     ],
     "correctAnswer": 1,
-    "explanation": "સંગ્રહિત ગતિજ ઊર્જા E = 0.5 · I · ω² થાય છે[cite: 7]."
+    "explanation": "સંગ્રહિત ગતિજ ઊર્જા E = 0.5 · I · ω² થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 136,
@@ -2022,7 +2022,7 @@
       "પિસ્ટન, પિસ્ટન રોડ અને ક્રોસ હેડ"
     ],
     "correctAnswer": 3,
-    "explanation": "સ્ટીમ એન્જિનમાં પિસ્ટન, પિસ્ટન રોડ અને ક્રોસહેડ વચ્ચે કોઈ સાપેક્ષ ગતિ ન હોવાથી તેઓ મળીને એક જ લિંક બનાવે છે[cite: 7]."
+    "explanation": "સ્ટીમ એન્જિનમાં પિસ્ટન, પિસ્ટન રોડ અને ક્રોસહેડ વચ્ચે કોઈ સાપેક્ષ ગતિ ન હોવાથી તેઓ મળીને એક જ લિંક બનાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 137,
@@ -2037,14 +2037,14 @@
       "I²ω Cs"
     ],
     "correctAnswer": 1,
-    "explanation": "મહત્તમ ઊર્જા વધઘટ ΔE = I · ω² · Cs થાય છે[cite: 7]."
+    "explanation": "મહત્તમ ઊર્જા વધઘટ ΔE = I · ω² · Cs થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 138,
     "subject": "Kinematics & Theory of Machines",
     "subTopic": "Flywheels & Governors",
     "question": "What is the primary function of a governor in an engine?",
-    "gujaratiQuestion": "0138. એન્જિનમાં ગવર્નરનું મુખ્ય કાર્ય શું છે?",
+    "gujaratiQuestion": "0138. એન્જિનમાં ગવર્નરનું મુખ્ય વર્ક શું છે?",
     "options": [
       "ઊર્જાનો સંગ્રહ કરવો",
       "એક સાઈકલ દરમિયાન સ્પીડ કંટ્રોલ કરવી",
@@ -2052,7 +2052,7 @@
       "કાઈનેમેટિક લિંકને સપોર્ટ કરવો"
     ],
     "correctAnswer": 2,
-    "explanation": "ગવર્નર બાહ્ય લોડમાં ફેરફાર થાય ત્યારે ફ્યુઅલ સપ્લાય કંટ્રોલ કરીને એન્જિનની સરેરાશ સ્પીડ જાળવી રાખે છે[cite: 7]."
+    "explanation": "ગવર્નર બાહ્ય લોડમાં ફેરફાર થાય ત્યારે ફ્યુઅલ સપ્લાય કંટ્રોલ કરીને એન્જિનની સરેરાશ સ્પીડ જાળવી રાખે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 140,
@@ -2067,7 +2067,7 @@
       "ઈનર્શિયા"
     ],
     "correctAnswer": 2,
-    "explanation": "વોટ ગવર્નર એ ગુરુત્વાકર્ષણ આધારિત સાદું પેન્ડુલમ ટાઇપ (Pendulum type) ગવર્નર છે[cite: 7]."
+    "explanation": "વોટ ગવર્નર એ ગુરુત્વાકર્ષણ આધારિત સાદું પેન્ડુલમ ટાઇપ (Pendulum type) ગવર્નર છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 141,
@@ -2082,7 +2082,7 @@
       "હાઈડ્રોલિક ગવર્નર"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્લીવ પર વધારાનો સેન્ટ્રલ લોડ હોવાથી પોર્ટર અને પ્રોએલ ડેડ-વેઇટ (Dead-weight loaded) ગવર્નર્સ છે[cite: 7]."
+    "explanation": "સ્લીવ પર વધારાનો સેન્ટ્રલ લોડ હોવાથી પોર્ટર અને પ્રોએલ ડેડ-વેઇટ (Dead-weight loaded) ગવર્નર્સ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 142,
@@ -2097,7 +2097,7 @@
       "ડિડેન્ડમ સર્કલ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇન્વોલ્યુટ વક્ર પર દોરેલો નોર્મલ હંમેશા બેઝ સર્કલ (Base circle) નો સ્પર્શક બને છે[cite: 7]."
+    "explanation": "ઇન્વોલ્યુટ વક્ર પર દોરેલો નોર્મલ હંમેશા બેઝ સર્કલ (Base circle) નો સ્પર્શક બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 143,
@@ -2112,7 +2112,7 @@
       "સ્પ્રિંગ કંટ્રોલ્ડ ટાઈપ"
     ],
     "correctAnswer": 3,
-    "explanation": "હાર્ટનેલ ગવર્નર એ બેલ ક્રેન્ક લીવર અને હેલિકલ સ્પ્રિંગ ધરાવતું સ્પ્રિંગ કંટ્રોલ્ડ ગવર્નર છે[cite: 7]."
+    "explanation": "હાર્ટનેલ ગવર્નર એ બેલ ક્રેન્ક લીવર અને હેલિકલ સ્પ્રિંગ ધરાવતું સ્પ્રિંગ કંટ્રોલ્ડ ગવર્નર છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 144,
@@ -2127,7 +2127,7 @@
       "અનસ્ટેબલ"
     ],
     "correctAnswer": 1,
-    "explanation": "તમામ સ્થિતિમાં એક જ સંતુલન ઝડપ ધરાવતા અનંત સંવેદનશીલ ગવર્નરને આઇસોક્રોનસ (Isochronous governor) કહે છે[cite: 7]."
+    "explanation": "તમામ સ્થિતિમાં એક જ સંતુલન ઝડપ ધરાવતા અનંત સંવેદનશીલ ગવર્નરને આઇસોક્રોનસ (Isochronous governor) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 145,
@@ -2142,7 +2142,7 @@
       "ઓલ્ડહામ કપલિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "નોન-પેરેલલ અને નોન-ઇન્ટરસેક્ટિંગ (Skew shafts) માટે સ્પાઇરલ / ક્રોસ્ડ હેલિકલ ગિયર્સ વપરાય છે[cite: 7]."
+    "explanation": "નોન-પેરેલલ અને નોન-ઇન્ટરસેક્ટિંગ (Skew shafts) માટે સ્પાઇરલ / ક્રોસ્ડ હેલિકલ ગિયર્સ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 146,
@@ -2157,22 +2157,22 @@
       "બેલેન્સિંગ"
     ],
     "correctAnswer": 0,
-    "explanation": "અતિશય સેન્સિટિવિટીને લીધે સ્લીવનું સતત ઉપર-નીચે ઓસિલેશન થવું હન્ટિંગ (Hunting) કહેવાય છે[cite: 7]."
+    "explanation": "અતિશય સેન્સિટિવિટીને લીધે સ્લીવનું સતત ઉપર-નીચે ઓસિલેશન થવું હન્ટિંગ (Hunting) કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 147,
     "subject": "Kinematics & Theory of Machines",
     "subTopic": "Flywheels & Governors",
     "question": "What is the combined function of a flywheel and a governor in a mechanical system?",
-    "gujaratiQuestion": "0147. ફ્લાયવ્હીલ અને ગવર્નરનું સંયુક્ત કાર્ય સિસ્ટમમાં શું સુનિશ્ચિત કરવાનું છે?",
+    "gujaratiQuestion": "0147. ફ્લાયવ્હીલ અને ગવર્નરનું સંયુક્ત વર્ક સિસ્ટમમાં શું સુનિશ્ચિત કરવાનું છે?",
     "options": [
       "એન્જિન ટોર્કમાં વધારો",
-      "તાપમાનમાં ઘટાડો",
+      "ટેમ્પરેચરમાં ઘટાડો",
       "એકસમાન અને નિયંત્રિત સ્પીડ",
       "ઘર્ષણ ઘટાડવું"
     ],
     "correctAnswer": 2,
-    "explanation": "ફ્લાયવ્હીલ અને ગવર્નર બંને મળીને એન્જિનની ઝડપને સંપૂર્ણ નિયંત્રિત અને યુનિફોર્મ રાખે છે[cite: 7]."
+    "explanation": "ફ્લાયવ્હીલ અને ગવર્નર બંને મળીને એન્જિનની ઝડપને સંપૂર્ણ નિયંત્રિત અને યુનિફોર્મ રાખે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 148,
@@ -2187,7 +2187,7 @@
       "શંકુના ફ્રસ્ટમ (frustum) ની સપાટી પર કાપેલા"
     ],
     "correctAnswer": 1,
-    "explanation": "હેલિકલ ગિયરમાં દાંતા પરિભ્રમણ અક્ષની સાપેક્ષે ચોક્કસ હેલિક્સ એંગલ પર ત્રાંસા (Inclined) કાપેલા હોય છે[cite: 7]."
+    "explanation": "હેલિકલ ગિયરમાં દાંતા રોટેશન અક્ષની સાપેક્ષે ચોક્કસ હેલિક્સ એંગલ પર ત્રાંસા (Inclined) કાપેલા હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 149,
@@ -2199,10 +2199,10 @@
       "તમામ ડાયનેમિક ફોર્સનું પરિણામી મૂલ્ય શૂન્ય હોવું જોઇએ",
       "પરિણામી કપલ શૂન્ય હોવું જોઈએ",
       "ફક્ત ગુરુત્વાકર્ષણ બળ શૂન્ય હોવું જોઈએ",
-      "માસનું કદ સમાન હોવું જોઈએ"
+      "માસનું વોલ્યુમ સમાન હોવું જોઈએ"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્ટેટિક બેલેન્સિંગ માટે સેન્ટ્રીફ્યુગલ બળોનો પરિણામી સરવાળો (Net Dynamic Force ΣF) શૂન્ય થવો જોઈએ[cite: 7]."
+    "explanation": "સ્ટેટિક બેલેન્સિંગ માટે સેન્ટ્રીફ્યુગલ બળોનો પરિણામી સરવાળો (Net Dynamic Force ΣF) શૂન્ય થવો જોઈએ[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 150,
@@ -2217,7 +2217,7 @@
       "શાફ્ટની લંબાઈ ટૂંકી હોવી જોઇએ"
     ],
     "correctAnswer": 2,
-    "explanation": "સંપૂર્ણ ડાયનેમિક સંતુલન માટે પરિણામી બળ (ΣF = 0) અને પરિણામી કપલ (ΣC = 0) બંને શૂન્ય હોવા અનિવાર્ય છે[cite: 7]."
+    "explanation": "સંપૂર્ણ ડાયનેમિક સંતુલન માટે પરિણામી બળ (ΣF = 0) અને પરિણામી કપલ (ΣC = 0) બંને શૂન્ય હોવા અનિવાર્ય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 151,
@@ -2232,7 +2232,7 @@
       "1 / N²"
     ],
     "correctAnswer": 3,
-    "explanation": "વોટ ગવર્નરની ઊંચાઈ h = 895 / N² હોવાથી તે સ્પીડના વર્ગના વ્યસ્ત પ્રમાણમાં (h ∝ 1/N²) હોય છે[cite: 7]."
+    "explanation": "વોટ ગવર્નરની ઊંચાઈ h = 895 / N² હોવાથી તે સ્પીડના વર્ગના વ્યસ્ત પ્રમાણમાં (h ∝ 1/N²) હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 152,
@@ -2247,7 +2247,7 @@
       "4"
     ],
     "correctAnswer": 1,
-    "explanation": "જુદા જુદા સમતલના અસંતુલિત બળો અને કપલ્સ બંનેને સંતુલિત કરવા ઓછામાં ઓછા બે બેલેન્સિંગ માસ (2 masses in 2 reference planes) જરૂરી છે[cite: 7]."
+    "explanation": "જુદા જુદા સમતલના અસંતુલિત બળો અને કપલ્સ બંનેને સંતુલિત કરવા ઓછામાં ઓછા બે બેલેન્સિંગ માસ (2 masses in 2 reference planes) જરૂરી છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 153,
@@ -2262,7 +2262,7 @@
       "કારણ કે તે હંમેશા શૂન્ય હોય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "રોટેટિંગ માસ વડે સંપૂર્ણ બેલેન્સ કરતાં લાઇન ઓફ સ્ટ્રોકને લંબ દિશામાં તેટલો જ નવો અનબેલેન્સ્ડ ફોર્સ પેદા થાય છે[cite: 7]."
+    "explanation": "રોટેટિંગ માસ વડે સંપૂર્ણ બેલેન્સ કરતાં લાઇન ઓફ સ્ટ્રોકને લંબ દિશામાં તેટલો જ નવો અનબેલેન્સ્ડ ફોર્સ પેદા થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 154,
@@ -2277,7 +2277,7 @@
       "ફ્રિક્શન ફોર્સ"
     ],
     "correctAnswer": 0,
-    "explanation": "લોકોમોટિવમાં બેલેન્સિંગ માસના કારણે રેલ પાટા પર લાગતા વધારાના મહત્તમ શિરોલંબ અનબેલેન્સ્ડ બળને હેમર બ્લો કહે છે[cite: 7]."
+    "explanation": "લોકોમોટિવમાં બેલેન્સિંગ માસના કારણે રેલ પાટા પર લાગતા વધારાના મહત્તમ શિરોલંબ અનબેલેન્સ્ડ બળને હેમર બ્લો કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 155,
@@ -2292,7 +2292,7 @@
       "પિકરિંગ ગવર્નર"
     ],
     "correctAnswer": 0,
-    "explanation": "પોર્ટર ગવર્નર એ સ્લીવ પર સેન્ટ્રલ ડેડ-વેઇટ ધરાવતું ગવર્નર છે[cite: 7]."
+    "explanation": "પોર્ટર ગવર્નર એ સ્લીવ પર સેન્ટ્રલ ડેડ-વેઇટ ધરાવતું ગવર્નર છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 156,
@@ -2307,7 +2307,7 @@
       "ફક્ત 0°"
     ],
     "correctAnswer": 0,
-    "explanation": "સેકન્ડરી ફોર્સ Fs = (m·ω²·r/n)·cos(2θ) હોવાથી cos(2θ) = ±1 થતાં θ = 0°, 90°, 180°, 270° પર તે મહત્તમ બને છે[cite: 7]."
+    "explanation": "સેકન્ડરી ફોર્સ Fs = (m·ω²·r/n)·cos(2θ) હોવાથી cos(2θ) = ±1 થતાં θ = 0°, 90°, 180°, 270° પર તે મહત્તમ બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 157,
@@ -2322,7 +2322,7 @@
       "ગ્રાફિકલ સ્ટેટિક મેથડ"
     ],
     "correctAnswer": 1,
-    "explanation": "રેડીયલ અને V-એન્જિન્સમાં બેલેન્સિંગ માટે ડાયરેક્ટ અને રિવર્સ ક્રેન્ક મેથડ (Direct and Reverse Crank Method) વપરાય છે[cite: 7]."
+    "explanation": "રેડીયલ અને V-એન્જિન્સમાં બેલેન્સિંગ માટે ડાયરેક્ટ અને રિવર્સ ક્રેન્ક મેથડ (Direct and Reverse Crank Method) વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 158,
@@ -2337,7 +2337,7 @@
       "ઉપરના તમામ"
     ],
     "correctAnswer": 3,
-    "explanation": "આંશિક બેલેન્સિંગથી વર્ટિકલ હેમર બ્લો, અનબેલેન્સ્ડ ટ્રેક્ટિવ એફર્ટ અને સ્વેઇંગ કપલ ત્રણેય ઉત્પન્ન થાય છે[cite: 7]."
+    "explanation": "આંશિક બેલેન્સિંગથી વર્ટિકલ હેમર બ્લો, અનબેલેન્સ્ડ ટ્રેક્ટિવ એફર્ટ અને સ્વેઇંગ કપલ ત્રણેય ઉત્પન્ન થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 159,
@@ -2352,7 +2352,7 @@
       "ગુરુત્વાકર્ષણ બળ બરાબર"
     ],
     "correctAnswer": 2,
-    "explanation": "અનબેલેન્સ્ડ ફોર્સ રેસીપ્રોકેટિંગ પાર્ટ્સના લીનિયર ઇનર્શિયા ફોર્સ (m·a) બરાબર હોય છે[cite: 7]."
+    "explanation": "અનબેલેન્સ્ડ ફોર્સ રેસીપ્રોકેટિંગ પાર્ટ્સના લીનિયર ઇનર્શિયા ફોર્સ (m·a) બરાબર હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 160,
@@ -2367,7 +2367,7 @@
       "0.5 I · ω · ωp"
     ],
     "correctAnswer": 1,
-    "explanation": "ગાયરોસ્કોપિક કપલનું સૂત્ર C = I · ω · ωp થાય છે[cite: 7]."
+    "explanation": "ગાયરોસ્કોપિક કપલનું સૂત્ર C = I · ω · ωp થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 161,
@@ -2382,7 +2382,7 @@
       "સ્પ્રિંગના વાયરની સ્ટ્રેન્થ સાથે સંબંધિત બાબત"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્પ્રિંગનો ફોર્મ ફેક્ટર તેની પ્રતિ યુનિટ વોલ્યુમ દીઠ સ્ટ્રેઇન એનર્જી સંગ્રહવાની ક્ષમતા દર્શાવે છે[cite: 7]."
+    "explanation": "સ્પ્રિંગનો ફોર્મ ફેક્ટર તેની પ્રતિ યુનિટ વોલ્યુમ દીઠ સ્ટ્રેઇન એનર્જી સંગ્રહવાની ક્ષમતા દર્શાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 162,
@@ -2397,7 +2397,7 @@
       "પીચિંગ જેટલી"
     ],
     "correctAnswer": 2,
-    "explanation": "રોલિંગ દરમિયાન પ્રિસિઝન અક્ષ અને સ્પિન અક્ષ સમાંતર રહેતી હોવાથી કોઈ ગાયરોસ્કોપિક કપલ ઉત્પન્ન થતો નથી (Zero)[cite: 7]."
+    "explanation": "રોલિંગ દરમિયાન પ્રિસિઝન અક્ષ અને સ્પિન અક્ષ સમાંતર રહેતી હોવાથી કોઈ ગાયરોસ્કોપિક કપલ ઉત્પન્ન થતો નથી (Zero)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 163,
@@ -2412,7 +2412,7 @@
       "ટર્નિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "શિપનું ટ્રાન્સવર્સ અક્ષની આસપાસ ઊર્ધ્વ સમતલમાં ઊંચા-નીચા થવાનું પીચિંગ (Pitching) કહેવાય છે[cite: 7]."
+    "explanation": "શિપનું ટ્રાન્સવર્સ અક્ષની આસપાસ ઊર્ધ્વ સમતલમાં ઊંચા-નીચા થવાનું પીચિંગ (Pitching) કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 164,
@@ -2427,7 +2427,7 @@
       "ઉપરના તમામ"
     ],
     "correctAnswer": 3,
-    "explanation": "રિવેટેડ જોઈન્ટ રિવેટ શિયરિંગ, પ્લેટ ટીઅરિંગ અને બેરિંગ/ક્રશિંગ તમામ રીતે ફેલ થઈ શકે છે[cite: 7]."
+    "explanation": "રિવેટેડ જોઈન્ટ રિવેટ શિયરિંગ, પ્લેટ ટીઅરિંગ અને બેરિંગ/ક્રશિંગ તમામ રીતે ફેલ થઈ શકે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 165,
@@ -2442,7 +2442,7 @@
       "આપેલ તમામ"
     ],
     "correctAnswer": 3,
-    "explanation": "ટુ-વ્હીલર્સ, કાર, વિમાનો અને જહાજો તમામમાં ગાયરોસ્કોપિક ઇફેક્ટ સ્થિરતા માટે મહત્વપૂર્ણ છે[cite: 7]."
+    "explanation": "ટુ-વ્હીલર્સ, કાર, વિમાનો અને જહાજો તમામમાં ગાયરોસ્કોપિક ઇફેક્ટ સ્થિરતા માટે મહત્વપૂર્ણ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 166,
@@ -2457,7 +2457,7 @@
       "ઓસિલેશન અને પ્રિસિઝન"
     ],
     "correctAnswer": 1,
-    "explanation": "ગાયરોસ્કોપિક કપલ ઉત્પન્ન થવા રોટરનું પોતાની અક્ષ પર સ્પિન (Spin) અને તે અક્ષનું પ્રિસિઝન (Precession) બંને એકસાથે થવું જરૂરી છે[cite: 7]."
+    "explanation": "ગાયરોસ્કોપિક કપલ ઉત્પન્ન થવા રોટરનું પોતાની અક્ષ પર સ્પિન (Spin) અને તે અક્ષનું પ્રિસિઝન (Precession) બંને એકસાથે થવું જરૂરી છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 167,
@@ -2472,7 +2472,7 @@
       "બેલ્ટની વેલોસિટી ઘટાડીને"
     ],
     "correctAnswer": 0,
-    "explanation": "બેલ્ટમાં કાર્યકારી વર્કિંગ સ્ટ્રેસ ઘટાડીને તેના ખેંચાણ અને ઇલાસ્ટિક ક્રીપને નિયંત્રિત કરી શકાય છે[cite: 7]."
+    "explanation": "બેલ્ટમાં વર્કકારી વર્કિંગ સ્ટ્રેસ ઘટાડીને તેના ખેંચાણ અને ઇલાસ્ટિક ક્રીપને નિયંત્રિત કરી શકાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 168,
@@ -2487,7 +2487,7 @@
       "બેન્ડિંગ કપલ"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ટીયરિંગ વખતે સ્પિનિંગ રોટર પર ગાયરોસ્કોપિક કપલ ઉત્પન્ન થાય છે જે વિમાનના નાકને ઊંચું કે નીચું કરે છે[cite: 7]."
+    "explanation": "સ્ટીયરિંગ વખતે સ્પિનિંગ રોટર પર ગાયરોસ્કોપિક કપલ ઉત્પન્ન થાય છે જે વિમાનના નાકને ઊંચું કે નીચું કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 169,
@@ -2502,7 +2502,7 @@
       "અનંત"
     ],
     "correctAnswer": 2,
-    "explanation": "Fs = Fp / n (જ્યાં n = l/r = 4 થી 5) હોવાથી સેકન્ડરી ફોર્સ પ્રાઇમરી કરતાં ઘણો ઓછો હોય છે[cite: 7]."
+    "explanation": "Fs = Fp / n (જ્યાં n = l/r = 4 થી 5) હોવાથી સેકન્ડરી ફોર્સ પ્રાઇમરી કરતાં ઘણો ઓછો હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 170,
@@ -2517,7 +2517,7 @@
       "એપિસાયક્લોઇડ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓછા દાંતા સાથે ઇન્ટરફિયરન્સ વિના સરળ ગતિ આપવા ઘડિયાળોમાં સાયક્લોઇડલ (Cycloidal) પ્રોફાઇલ વપરાય છે[cite: 7]."
+    "explanation": "ઓછા દાંતા સાથે ઇન્ટરફિયરન્સ વિના સરળ ગતિ આપવા ઘડિયાળોમાં સાયક્લોઇડલ (Cycloidal) પ્રોફાઇલ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 171,
@@ -2532,7 +2532,7 @@
       "180°"
     ],
     "correctAnswer": 2,
-    "explanation": "ગાયરોસ્કોપમાં સ્પિન અક્ષ, પ્રિસિઝન અક્ષ અને ગાયરોસ્કોપિક કપલ અક્ષ ત્રણેય પરસ્પર 90° ના ખૂણે લંબરૂપ હોય છે[cite: 7]."
+    "explanation": "ગાયરોસ્કોપમાં સ્પિન અક્ષ, પ્રિસિઝન અક્ષ અને ગાયરોસ્કોપિક કપલ અક્ષ ત્રણેય પરસ્પર 90° ના ખૂણે લંબરૂપ હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 172,
@@ -2547,7 +2547,7 @@
       "પિસ્ટન"
     ],
     "correctAnswer": 1,
-    "explanation": "મહત્તમ ઊર્જા વધઘટ (ΔE) શોધીને ફ્લાયવ્હીલનું માપ અને મોમેન્ટ ઓફ ઇનર્શિયા નક્કી કરવા T-θ ડાયાગ્રામ વપરાય છે[cite: 7]."
+    "explanation": "મહત્તમ ઊર્જા વધઘટ (ΔE) શોધીને ફ્લાયવ્હીલનું માપ અને મોમેન્ટ ઓફ ઇનર્શિયા નક્કી કરવા T-θ ડાયાગ્રામ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 173,
@@ -2562,7 +2562,7 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "dM/dx = V = 0 હોવાથી જે બિંદુએ શીયર ફોર્સ શૂન્ય થાય ત્યાં બેન્ડિંગ મોમેન્ટ મહત્તમ (Maximum) હોય છે[cite: 7]."
+    "explanation": "dM/dx = V = 0 હોવાથી જે બિંદુએ શીયર ફોર્સ શૂન્ય થાય ત્યાં બેન્ડિંગ મોમેન્ટ મહત્તમ (Maximum) હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "subject": "Kinematics & Theory of Machines",
@@ -2591,7 +2591,7 @@
       "x=1/2-cos t, y=sin t"
     ],
     "correctAnswer": 1,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The cited paper gives the parametric choice with y=2 sin t.",
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The cited paper gives the parametric choice with y=2 sin t.\n\n💡 [High Yield Expected Question - 2026 Exam]",
     "id": 175
   },
   {
@@ -2621,7 +2621,7 @@
       "Axle housing"
     ],
     "correctAnswer": 1,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The ring gear is mounted to the differential case/carrier assembly; the cited item uses differential case as the answer.",
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The ring gear is mounted to the differential case/carrier assembly; the cited item uses differential case as the answer.\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
     "id": 177
   },
   {
@@ -2651,7 +2651,7 @@
       "Length of arc of contact / circular pitch"
     ],
     "correctAnswer": 3,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Contact ratio = length of path/arc of contact divided by circular pitch in the cited formulation.",
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Contact ratio = length of path/arc of contact divided by circular pitch in the cited formulation.\n\n💡 [High Yield Expected Question - 2026 Exam]",
     "id": 179
   },
   {
@@ -2666,7 +2666,7 @@
       "6"
     ],
     "correctAnswer": 2,
-    "explanation": "Expected MCQ: Two translations and one rotation give 3 DOF.",
+    "explanation": "Expected MCQ: Two translations and one rotation give 3 DOF. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]",
     "id": 180
   },
   {
@@ -2681,7 +2681,7 @@
       "s=l=p=q only"
     ],
     "correctAnswer": 2,
-    "explanation": "Expected MCQ: Grashof criterion is s+l≤p+q.",
+    "explanation": "Expected MCQ: Grashof criterion is s+l≤p+q. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]",
     "id": 181
   },
   {
@@ -2696,7 +2696,7 @@
       "Bearing clearance"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Flywheel smooths cyclic speed fluctuations by storing/releasing energy.",
+    "explanation": "Expected MCQ: Flywheel smooths cyclic speed fluctuations by storing/releasing energy. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]",
     "id": 182
   },
   {
@@ -2711,7 +2711,7 @@
       "Infinite backlash"
     ],
     "correctAnswer": 0,
-    "explanation": "Expected MCQ: Involute gears maintain constant velocity ratio when correctly meshed.",
+    "explanation": "Expected MCQ: Involute gears maintain constant velocity ratio when correctly meshed. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]",
     "id": 183
   },
   {
@@ -2726,7 +2726,7 @@
       "Independent of speed"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Reciprocating inertia forces include primary/secondary components and cannot be completely balanced by a single rotating counterweight.",
+    "explanation": "Expected MCQ: Reciprocating inertia forces include primary/secondary components and cannot be completely balanced by a single rotating counterweight. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]",
     "id": 184
   },
   {
@@ -2742,7 +2742,7 @@
       "zero factor of safety"
     ],
     "correctAnswer": 0,
-    "explanation": "Design must satisfy strength, stiffness, reliability, manufacturability and service requirements."
+    "explanation": "Design must satisfy strength, stiffness, reliability, manufacturability and service requirements. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 186,
@@ -2757,7 +2757,7 @@
       "stress/strain"
     ],
     "correctAnswer": 0,
-    "explanation": "Factor of safety provides a margin between failure capacity and design level."
+    "explanation": "Factor of safety provides a margin between failure capacity and design level. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 187,
@@ -2772,6 +2772,6 @@
       "compressive buckling only"
     ],
     "correctAnswer": 0,
-    "explanation": "Torque produces torsional shear stress in the shaft."
+    "explanation": "Torque produces torsional shear stress in the shaft. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   }
 ]

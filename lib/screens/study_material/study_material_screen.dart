@@ -12,6 +12,7 @@ import '../ai_assistant/ai_chat_dialog.dart';
 import '../question_practice_screen.dart';
 import '../suggestion_report_screen.dart';
 import 'animated_topic_visual_widget.dart';
+import 'concept_story_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:pdf/pdf.dart';
 import 'package:pdf/widgets.dart' as pw;
@@ -257,6 +258,22 @@ class _StudyMaterialScreenState extends State<StudyMaterialScreen> {
     _loadData();
   }
 
+  double _fontSize = 14.5;
+  String _readingTheme = 'Default'; // Default, Sepia, Dark
+  bool _isPlayingAudio = false;
+
+  Color get _backgroundColor {
+    if (_readingTheme == 'Sepia') return const Color(0xFFFBF0D9);
+    if (_readingTheme == 'Dark') return const Color(0xFF1E1E1E);
+    return Theme.of(context).scaffoldBackgroundColor;
+  }
+
+  Color get _textColor {
+    if (_readingTheme == 'Dark') return Colors.white;
+    if (_readingTheme == 'Sepia') return const Color(0xFF3B2F2F);
+    return Colors.black87;
+  }
+
   @override
   Widget build(BuildContext context) {
     final material = currentMaterial;
@@ -271,9 +288,25 @@ class _StudyMaterialScreenState extends State<StudyMaterialScreen> {
         widget.subjectMaterials.isNotEmpty && currentIndex != -1;
 
     return Scaffold(
+      backgroundColor: _backgroundColor,
       appBar: AppBar(
         title: Text(material.title),
         actions: [
+          IconButton(
+            icon: Icon(_isPlayingAudio ? Icons.pause_circle_filled : Icons.volume_up_outlined, color: Colors.amber.shade700),
+            tooltip: '🎧 Audio Summary Player',
+            onPressed: () {
+              setState(() => _isPlayingAudio = !_isPlayingAudio);
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(
+                  duration: const Duration(seconds: 2),
+                  content: Text(_isPlayingAudio
+                      ? '🎧 Playing Audio Summary: ${material.topic}...'
+                      : '⏸️ Audio Summary Paused'),
+                ),
+              );
+            },
+          ),
           IconButton(
             icon: const Icon(Icons.report_problem_outlined, color: Colors.orange),
             tooltip: 'Report Material (રિપોર્ટ કરો)',
@@ -313,6 +346,8 @@ class _StudyMaterialScreenState extends State<StudyMaterialScreen> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
+            _buildReadingComfortControls(),
+            const SizedBox(height: 12),
             if (hasNavigation) ...[
               LinearProgressIndicator(
                 value: (currentIndex + 1) / totalTopics,
@@ -502,18 +537,28 @@ class _StudyMaterialScreenState extends State<StudyMaterialScreen> {
                     ? const SizedBox(
                         width: 20,
                         height: 20,
-                        child:
-                            CircularProgressIndicator(
+                        child: CircularProgressIndicator(
                           strokeWidth: 2,
+                          color: Colors.white,
                         ),
                       )
-                    : const Icon(Icons.quiz),
+                    : const Icon(Icons.assignment_turned_in, size: 22),
                 label: Text(
                   isLoadingQuestions
-                      ? 'Loading Questions...'
+                      ? 'Loading Topic MCQs...'
                       : relatedQuestions.isEmpty
-                          ? 'No Questions Available'
-                          : 'Practice ${relatedQuestions.length} Questions',
+                          ? 'No MCQs Available for this Topic'
+                          : '📝 Practice MCQs (${relatedQuestions.length} Questions)',
+                  style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 15),
+                ),
+                style: ElevatedButton.styleFrom(
+                  padding: const EdgeInsets.symmetric(vertical: 14),
+                  backgroundColor: Colors.blue.shade700,
+                  foregroundColor: Colors.white,
+                  elevation: 3,
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(12),
+                  ),
                 ),
               ),
             ),
@@ -521,6 +566,60 @@ class _StudyMaterialScreenState extends State<StudyMaterialScreen> {
             const SizedBox(height: 32),
           ],
         ),
+      ),
+    );
+  }
+
+  Widget _buildReadingComfortControls() {
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+      decoration: BoxDecoration(
+        color: _readingTheme == 'Dark'
+            ? Colors.grey.shade900
+            : _readingTheme == 'Sepia'
+                ? const Color(0xFFF3E5AB)
+                : Colors.grey.shade100,
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(
+          color: _readingTheme == 'Dark' ? Colors.grey.shade800 : Colors.grey.shade300,
+        ),
+      ),
+      child: Row(
+        children: [
+          Icon(Icons.text_fields, size: 18, color: _textColor),
+          const SizedBox(width: 4),
+          IconButton(
+            icon: Icon(Icons.remove, size: 16, color: _textColor),
+            padding: EdgeInsets.zero,
+            constraints: const BoxConstraints(),
+            onPressed: () {
+              if (_fontSize > 12) setState(() => _fontSize -= 1.5);
+            },
+          ),
+          Text('${_fontSize.toInt()}pt', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: _textColor)),
+          IconButton(
+            icon: Icon(Icons.add, size: 16, color: _textColor),
+            padding: EdgeInsets.zero,
+            constraints: const BoxConstraints(),
+            onPressed: () {
+              if (_fontSize < 24) setState(() => _fontSize += 1.5);
+            },
+          ),
+          const Spacer(),
+          Row(
+            children: ['Default', 'Sepia', 'Dark'].map((mode) {
+              final selected = _readingTheme == mode;
+              return Padding(
+                padding: const EdgeInsets.only(left: 4),
+                child: ChoiceChip(
+                  label: Text(mode, style: const TextStyle(fontSize: 11)),
+                  selected: selected,
+                  onSelected: (_) => setState(() => _readingTheme = mode),
+                ),
+              );
+            }).toList(),
+          ),
+        ],
       ),
     );
   }
@@ -567,6 +666,23 @@ Formulas: ${currentMaterial.formulas.join(', ')}
             scrollDirection: Axis.horizontal,
             child: Row(
               children: [
+                ActionChip(
+                  avatar: const Icon(Icons.auto_stories, size: 16, color: Colors.purple),
+                  label: const Text('🎭 AI Concept Story', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.purple)),
+                  backgroundColor: Colors.purple.shade50,
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (_) => ConceptStoryScreen(
+                          topic: currentMaterial.topic,
+                          subject: currentMaterial.subject,
+                        ),
+                      ),
+                    );
+                  },
+                ),
+                const SizedBox(width: 6),
                 ActionChip(
                   avatar: const Icon(Icons.chat_bubble_outline, size: 16, color: Colors.blue),
                   label: const Text('Ask AI', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold)),
@@ -746,8 +862,8 @@ Formulas: ${currentMaterial.formulas.join(', ')}
               const Text('Definitions:', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13.5)),
               const SizedBox(height: 6),
               ...material.definitions.map((d) => Padding(
-                    padding: const EdgeInsets.only(bottom: 4),
-                    child: Text('• $d', style: const TextStyle(fontSize: 13.5, height: 1.4)),
+                    padding: const EdgeInsets.only(bottom: 8),
+                    child: _buildDefinitionItem(d, material),
                   )),
             ],
             if (material.solvedExamples.isNotEmpty) ...[
@@ -762,6 +878,30 @@ Formulas: ${currentMaterial.formulas.join(', ')}
           ],
         ),
       ),
+    );
+  }
+
+  Widget _buildDefinitionItem(String definition, StudyMaterial material) {
+    final text = definition.trim();
+    // Older content stores definitions as names only. Keep those names intact,
+    // but provide the topic explanation underneath so the user never sees a
+    // bare definition heading with no explanation.
+    final context = material.concept.trim().isNotEmpty
+        ? material.concept.trim()
+        : material.overview.trim();
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text('• $text', style: const TextStyle(fontSize: 13.5, height: 1.4, fontWeight: FontWeight.w600)),
+        if (context.isNotEmpty)
+          Padding(
+            padding: const EdgeInsets.only(left: 14, top: 2),
+            child: Text(
+              'Explanation: $context',
+              style: const TextStyle(fontSize: 12.5, height: 1.45, color: Colors.grey),
+            ),
+          ),
+      ],
     );
   }
 

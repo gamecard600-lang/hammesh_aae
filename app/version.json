@@ -1,21 +1,21 @@
 {
-  "version": "1.2.0",
-  "versionCode": 3,
-  "downloadUrl": "https://github.com/gamecard600-lang/hammesh_aae/releases/download/v1.2.0/app-release.apk",
+  "version": "1.3.0",
+  "versionCode": 6,
+  "downloadUrl": "https://github.com/gamecard600-lang/hammesh_aae/releases/download/v1.3.0/hammesh_aae.apk",
   "sha256": "",
   "forceUpdate": false,
   "minimumSupportedVersionCode": 2,
   "releaseNotes": [
-    "Automatic In-App Update system activated with interactive popup & progress bar",
-    "Instant GitHub Raw CDN Cache bypass for real-time update detection",
-    "Dark Theme & Live Aspirant Chat performance optimizations",
-    "2,551 Verified Technical MCQs & study material updates"
+    "Added Non-Technical section (Reasoning, Quantitative Aptitude, Constitution of India, Current Affairs, Comprehension)",
+    "Audited Fluid Mechanics MCQs removing out-of-scope Thermodynamics questions",
+    "Enhanced study material with complete statement definitions across 198 topics",
+    "Streamlined video-only resource UI with direct YouTube video links"
   ],
-  "contentVersion": 11,
-  "mcqVersion": 11,
-  "studyMaterialVersion": 11,
-  "formulaVersion": 11,
-  "quickRevisionVersion": 11,
-  "visualVersion": 11,
-  "changelog": "v1.2.0 Update: Automatic In-App Update system with real-time progress, instant CDN cache bypass, and performance optimizations."
+  "contentVersion": 13,
+  "mcqVersion": 13,
+  "studyMaterialVersion": 13,
+  "formulaVersion": 13,
+  "quickRevisionVersion": 13,
+  "visualVersion": 13,
+  "changelog": "v1.3.0 Update: Full Non-Technical section integration, audited Fluid Mechanics MCQs, complete study material statements, and video learning."
 }

@@ -12,7 +12,7 @@
       "મશીનોની સંખ્યા વધારવી"
     ],
     "correctAnswer": 2,
-    "explanation": "ઓપરેશન્સ રિસર્ચનો મુખ્ય હેતુ ઉપલબ્ધ મર્યાદિત સંસાધનોનો શ્રેષ્ઠ (ઈષ્ટતમ) ઉપયોગ કરીને નિર્ણય લેવાનો છે[cite: 7]."
+    "explanation": "ઓપરેશન્સ રિસર્ચનો મુખ્ય હેતુ ઉપલબ્ધ મર્યાદિત સંસાધનોનો શ્રેષ્ઠ (ઈષ્ટતમ) ઉપયોગ કરીને નિર્ણય લેવાનો છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
       "નોન-લીનિયર"
     ],
     "correctAnswer": 1,
-    "explanation": "LPP માં હેતુલક્ષી વિધેય (Objective function) અને તમામ મર્યાદાઓ એકઘાતી (લીનિયર) હોવા જરૂરી છે[cite: 7]."
+    "explanation": "LPP માં હેતુલક્ષી વિધેય (Objective function) અને તમામ મર્યાદાઓ એકઘાતી (લીનિયર) હોવા જરૂરી છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
       "ગમે તે હોઈ શકે"
     ],
     "correctAnswer": 2,
-    "explanation": "નોન-નેગેટિવિટી શરત અનુસાર તમામ ડિસિઝન વેરિયેબલ્સ શૂન્ય અથવા ધન (>= 0) હોવા જોઈએ[cite: 7]."
+    "explanation": "નોન-નેગેટિવિટી શરત અનુસાર તમામ ડિસિઝન વેરિયેબલ્સ શૂન્ય અથવા ધન (>= 0) હોવા જોઈએ[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
       "ફિઝિબલ રીજિયન સ્પષ્ટ કરવો"
     ],
     "correctAnswer": 0,
-    "explanation": "LPP ફોર્મ્યુલેશનમાં સૌથી પ્રથમ પગલું અજ્ઞાત ચલો એટલે કે ડિસિઝન વેરિયેબલ્સને ઓળખવાનું છે[cite: 7]."
+    "explanation": "LPP ફોર્મ્યુલેશનમાં સૌથી પ્રથમ પગલું અજ્ઞાત ચલો એટલે કે ડિસિઝન વેરિયેબલ્સને ઓળખવાનું છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
       "અનબાઉન્ડેડ કન્સ્ટ્રેઇન્ટ"
     ],
     "correctAnswer": 1,
-    "explanation": "જે મર્યાદા ફિઝિબલ વિસ્તાર પર કોઈ અસર ન કરતી હોય તેને બિનજરૂરી અથવા રિડન્ડન્ટ કન્સ્ટ્રેઇન્ટ (Redundant constraint) કહે છે[cite: 7]."
+    "explanation": "જે મર્યાદા ફિઝિબલ વિસ્તાર પર કોઈ અસર ન કરતી હોય તેને બિનજરૂરી અથવા રિડન્ડન્ટ કન્સ્ટ્રેઇન્ટ (Redundant constraint) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
       "ગમે તેટલા"
     ],
     "correctAnswer": 1,
-    "explanation": "આલેખ પદ્ધતિ માત્ર 2-પરિમાણીય હોવાથી મહત્તમ 2 ડિસિઝન વેરિયેબલ્સ માટે જ વાપરી શકાય છે[cite: 7]."
+    "explanation": "આલેખ પદ્ધતિ માત્ર 2-પરિમાણીય હોવાથી મહત્તમ 2 ડિસિઝન વેરિયેબલ્સ માટે જ વાપરી શકાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@
       "કન્સ્ટ્રેઇન્ટ્સ ફોર્મ્યુલેટ કરવા"
     ],
     "correctAnswer": 0,
-    "explanation": "ગ્રાફિકલ મેથડનો ઉપયોગ બે વેરિયેબલવાળા પ્રશ્નો માટે શ્રેષ્ઠતમ ઉકેલ (Optimum solution) શોધવા થાય છે[cite: 7]."
+    "explanation": "ગ્રાફિકલ મેથડનો ઉપયોગ બે વેરિયેબલવાળા પ્રશ્નો માટે શ્રેષ્ઠતમ ઉકેલ (Optimum solution) શોધવા થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 8,
@@ -117,7 +117,7 @@
       "આર્ટિફિશિયલ રીજિયન"
     ],
     "correctAnswer": 2,
-    "explanation": "તમામ મર્યાદાઓ અને અસમતાઓને સંતોષતા સામાન્ય પ્રદેશને ફિઝિબલ રીજિયન (Feasible region) કહેવાય છે[cite: 7]."
+    "explanation": "તમામ મર્યાદાઓ અને અસમતાઓને સંતોષતા સામાન્ય પ્રદેશને ફિઝિબલ રીજિયન (Feasible region) કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 9,
@@ -132,7 +132,7 @@
       "ડીજનરેટ સોલ્યુશન"
     ],
     "correctAnswer": 1,
-    "explanation": "જ્યારે ફિઝિબલ વિસ્તાર ખુલ્લો હોય અને મહત્તમ મૂલ્ય અનંત તરફ જતું હોય ત્યારે અનબાઉન્ડેડ સોલ્યુશન મળે છે[cite: 7]."
+    "explanation": "જ્યારે ફિઝિબલ વિસ્તાર ખુલ્લો હોય અને મહત્તમ મૂલ્ય અનંત તરફ જતું હોય ત્યારે અનબાઉન્ડેડ સોલ્યુશન મળે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 10,
@@ -147,7 +147,7 @@
       "ઈન-ફિઝિબિલિટી (infeasibility) પેદા કરે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "પિવોટિંગ ઓપરેશન ઇનકમિંગ વેરિયેબલને બેઝિસમાં દાખલ કરીને આઉટગોઇંગ વેરિયેબલને બદલે છે[cite: 7]."
+    "explanation": "પિવોટિંગ ઓપરેશન ઇનકમિંગ વેરિયેબલને બેઝિસમાં દાખલ કરીને આઉટગોઇંગ વેરિયેબલને બદલે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 11,
@@ -162,7 +162,7 @@
       "ઈનફિઝિબલ સોલ્યુશન"
     ],
     "correctAnswer": 2,
-    "explanation": "જ્યારે ઓબ્જેક્ટિવ લાઇન બાઉન્ડ્રીને સમાંતર બને ત્યારે તે બાજુ પરના અનંત બિંદુઓ મલ્ટિપલ ઓપ્ટિમલ સોલ્યુશન્સ આપે છે[cite: 7]."
+    "explanation": "જ્યારે ઓબ્જેક્ટિવ લાઇન બાઉન્ડ્રીને સમાંતર બને ત્યારે તે બાજુ પરના અનંત બિંદુઓ મલ્ટિપલ ઓપ્ટિમલ સોલ્યુશન્સ આપે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 12,
@@ -177,7 +177,7 @@
       "આર્ટિફિશિયલ સોલ્યુશન"
     ],
     "correctAnswer": 1,
-    "explanation": "શ્રેષ્ઠતમ પરિણામ (મહત્તમ કે ન્યૂનતમ) આપતા ઉકેલને ઓપ્ટિમલ સોલ્યુશન કહેવામાં આવે છે[cite: 7]."
+    "explanation": "શ્રેષ્ઠતમ પરિણામ (મહત્તમ કે ન્યૂનતમ) આપતા ઉકેલને ઓપ્ટિમલ સોલ્યુશન કહેવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 13,
@@ -192,7 +192,7 @@
       "એસાઈનમેન્ટ પ્રોબ્લેમ્સ"
     ],
     "correctAnswer": 0,
-    "explanation": "નોર્થ-વેસ્ટ કોર્નર પદ્ધતિ પ્રારંભિક ઉકેલ મેળવવાની સૌથી ઝડપી રીત છે[cite: 7]."
+    "explanation": "નોર્થ-વેસ્ટ કોર્નર પદ્ધતિ પ્રારંભિક ઉકેલ મેળવવાની સૌથી ઝડપી રીત છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 14,
@@ -207,7 +207,7 @@
       "ફાઈનાઈટનેસ"
     ],
     "correctAnswer": 0,
-    "explanation": "સમપ્રમાણતા (Proportionality) અને સરવાળાનો ગુણધર્મ (Additivity) લિનિયારિટી (રેખીયતા) વ્યાખ્યાયિત કરે છે[cite: 7]."
+    "explanation": "સમપ્રમાણતા (Proportionality) અને સરવાળાનો પ્રોપર્ટી (Additivity) લિનિયારિટી (રેખીયતા) વ્યાખ્યાયિત કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 15,
@@ -222,7 +222,7 @@
       "મશીનોને વિભાજીત કરી શકાય છે"
     ],
     "correctAnswer": 0,
-    "explanation": "ડિવિઝિબિલિટીનો અર્થ એ છે કે ડિસિઝન વેરિયેબલ્સ સતત (Continuous) અને અપૂર્ણાંક હોઈ શકે છે[cite: 7]."
+    "explanation": "ડિવિઝિબિલિટીનો અર્થ એ છે કે ડિસિઝન વેરિયેબલ્સ સતત (Continuous) અને અપૂર્ણાંક હોઈ શકે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 16,
@@ -237,7 +237,7 @@
       "બેલમેન-ફોર્ડ અલ્ગોરિધમ"
     ],
     "correctAnswer": 1,
-    "explanation": "નેટવર્કમાં મહત્તમ પ્રવાહ શોધવા માટે ફોર્ડ-ફુલકરસન (Ford-Fulkerson) અલ્ગોરિધમ વપરાય છે[cite: 7]."
+    "explanation": "નેટવર્કમાં મહત્તમ ફ્લો શોધવા માટે ફોર્ડ-ફુલકરસન (Ford-Fulkerson) અલ્ગોરિધમ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 17,
@@ -252,7 +252,7 @@
       "અનબાઉન્ડેડ સોલ્યુશન"
     ],
     "correctAnswer": 2,
-    "explanation": "જ્યારે કોઈ પણ બિંદુ તમામ શરતોને એકસાથે સંતોષી ન શકે ત્યારે ઈનફિઝિબલ સોલ્યુશન (Infeasible solution) મળે છે[cite: 7]."
+    "explanation": "જ્યારે કોઈ પણ બિંદુ તમામ શરતોને એકસાથે સંતોષી ન શકે ત્યારે ઈનફિઝિબલ સોલ્યુશન (Infeasible solution) મળે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 18,
@@ -267,7 +267,7 @@
       "નિશ્ચિત અને જ્ઞાત"
     ],
     "correctAnswer": 3,
-    "explanation": "Certainty ની ધારણા મુજબ તમામ ગુણાંકો (Coefficients) ચોક્કસ, અચળ અને પૂર્વનિર્ધારિત જ્ઞાત હોય છે[cite: 7]."
+    "explanation": "Certainty ની ધારણા મુજબ તમામ ગુણાંકો (Coefficients) ચોક્કસ, અચળ અને પૂર્વનિર્ધારિત જ્ઞાત હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 19,
@@ -282,7 +282,7 @@
       "ઓબ્જેક્ટિવ ફંક્શન ક્વોડ્રેટિક હોય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "LPP માં ડિસિઝન વેરિયેબલ્સ કન્ટીન્યુઅસ (સતત) હોય છે અને કોઈપણ વાસ્તવિક મૂલ્ય ધારણ કરી શકે છે[cite: 7]."
+    "explanation": "LPP માં ડિસિઝન વેરિયેબલ્સ કન્ટીન્યુઅસ (સતત) હોય છે અને કોઈપણ વાસ્તવિક મૂલ્ય ધારણ કરી શકે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 20,
@@ -297,7 +297,7 @@
       "ડીજનરેસી"
     ],
     "correctAnswer": 1,
-    "explanation": "બે અલગ અલગ કોર્નર પોઇન્ટ પર સમાન મહત્તમ મૂલ્ય (150) મળતું હોવાથી મલ્ટિપલ ઓપ્ટિમલ સોલ્યુશન મળે છે[cite: 7]."
+    "explanation": "બે અલગ અલગ કોર્નર પોઇન્ટ પર સમાન મહત્તમ મૂલ્ય (150) મળતું હોવાથી મલ્ટિપલ ઓપ્ટિમલ સોલ્યુશન મળે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 21,
@@ -312,7 +312,7 @@
       "x-અક્ષ પર"
     ],
     "correctAnswer": 2,
-    "explanation": "કોર્નર પોઇન્ટ થિયરમ મુજબ શ્રેષ્ઠતમ ઉકેલ હંમેશા ફિઝિબલ પ્રદેશના શિરોબિંદુ (Corner point) પર જ સ્થિત હોય છે[cite: 7]."
+    "explanation": "કોર્નર પોઇન્ટ થિયરમ મુજબ શ્રેષ્ઠતમ ઉકેલ હંમેશા ફિઝિબલ પ્રદેશના શિરોબિંદુ (Corner point) પર જ સ્થિત હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 22,
@@ -327,7 +327,7 @@
       "રિસોર્સિસ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઉત્પાદન જથ્થો દર્શાવતા ચલો X અને Y ને ડિસિઝન વેરિયેબલ્સ (Decision variables) કહે છે[cite: 7]."
+    "explanation": "ઉત્પાદન જથ્થો દર્શાવતા ચલો X અને Y ને ડિસિઝન વેરિયેબલ્સ (Decision variables) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 23,
@@ -342,7 +342,7 @@
       "એક્ઝેક્ટ અલ્ગોરિધમ"
     ],
     "correctAnswer": 1,
-    "explanation": "VAM એ પેનલ્ટી કોસ્ટના આધારે કામ કરતી હ્યુરિસ્ટિક (Heuristic) પદ્ધતિ છે જે શ્રેષ્ઠ પ્રારંભિક ઉકેલ આપે છે[cite: 7]."
+    "explanation": "VAM એ પેનલ્ટી કોસ્ટના આધારે કામ કરતી હ્યુરિસ્ટિક (Heuristic) પદ્ધતિ છે જે શ્રેષ્ઠ પ્રારંભિક ઉકેલ આપે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 24,
@@ -357,7 +357,7 @@
       "સ્લેક ફંક્શન"
     ],
     "correctAnswer": 2,
-    "explanation": "મુખ્ય લક્ષ્ય (નફો મહત્તમ કે ખર્ચ ન્યૂનતમ કરવો) દર્શાવતા ગાણિતિક સમીકરણને ઓબ્જેક્ટિવ ફંક્શન કહે છે[cite: 7]."
+    "explanation": "મુખ્ય લક્ષ્ય (નફો મહત્તમ કે ખર્ચ ન્યૂનતમ કરવો) દર્શાવતા ગાણિતિક સમીકરણને ઓબ્જેક્ટિવ ફંક્શન કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 25,
@@ -372,7 +372,7 @@
       "એચ. ડબલ્યુ. કુહ્ન"
     ],
     "correctAnswer": 0,
-    "explanation": "સિમ્પ્લેક્સ મેથડની શોધ 1947 માં જ્યોર્જ બી. ડેન્ટઝિગ (George B. Dantzig) દ્વારા કરવામાં આવી હતી[cite: 7]."
+    "explanation": "સિમ્પ્લેક્સ મેથડની શોધ 1947 માં જ્યોર્જ બી. ડેન્ટઝિગ (George B. Dantzig) દ્વારા કરવામાં આવી હતી[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 26,
@@ -387,7 +387,7 @@
       "3 કલાક"
     ],
     "correctAnswer": 2,
-    "explanation": "Wq = λ / [μ(μ - λ)] = 10 / [12 × (12 - 10)] = 10 / 24 કલાક = (10/24) × 60 = 25 મિનિટ[cite: 7]."
+    "explanation": "Wq = λ / [μ(μ - λ)] = 10 / [12 × (12 - 10)] = 10 / 24 કલાક = (10/24) × 60 = 25 મિનિટ[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 27,
@@ -402,7 +402,7 @@
       "ડિસિઝન વેરિયેબલ"
     ],
     "correctAnswer": 2,
-    "explanation": "'<=' અસમતાને સમાનતામાં ફેરવવા ડાબી બાજુ સ્લેક વેરિયેબલ (Slack variable) ઉમેરવામાં આવે છે[cite: 7]."
+    "explanation": "'<=' અસમતાને સમાનતામાં ફેરવવા ડાબી બાજુ સ્લેક વેરિયેબલ (Slack variable) ઉમેરવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 28,
@@ -417,7 +417,7 @@
       "ડમી વેરિયેબલ"
     ],
     "correctAnswer": 1,
-    "explanation": "'>=' અસમતાને સમીકરણ બનાવવા વધારાનો જથ્થો એટલે કે સરપ્લસ વેરિયેબલ (Surplus variable) બાદ કરાય છે[cite: 7]."
+    "explanation": "'>=' અસમતાને સમીકરણ બનાવવા વધારાનો જથ્થો એટલે કે સરપ્લસ વેરિયેબલ (Surplus variable) બાદ કરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 29,
@@ -432,7 +432,7 @@
       "ઇન્ટરફિયરિંગ ફ્લોટ"
     ],
     "correctAnswer": 2,
-    "explanation": "પછીની પ્રવૃત્તિઓના વહેલા શરૂ થવાના સમય (EST) ને અસર કર્યા વિના મળતી છૂટછાટને ફ્રી ફ્લોટ (Free float) કહે છે[cite: 7]."
+    "explanation": "પછીની પ્રવૃત્તિઓના વહેલા શરૂ થવાના સમય (EST) ને અસર કર્યા વિના મળતી છૂટછાટને ફ્રી ફ્લોટ (Free float) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 30,
@@ -447,7 +447,7 @@
       "0"
     ],
     "correctAnswer": 3,
-    "explanation": "સ્લેક વેરિયેબલ કાલ્પનિક હોવાથી ઓબ્જેક્ટિવ ફંક્શનમાં તેનો કોસ્ટ ગુણાંક શૂન્ય (0) લેવાય છે[cite: 7]."
+    "explanation": "સ્લેક વેરિયેબલ કાલ્પનિક હોવાથી ઓબ્જેક્ટિવ ફંક્શનમાં તેનો કોસ્ટ ગુણાંક શૂન્ય (0) લેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 31,
@@ -462,7 +462,7 @@
       "નેગેટિવ વેરિયેબલ"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રારંભિક બેઝિક ફિઝિબલ સોલ્યુશન મેળવવા માટે આર્ટિફિશિયલ વેરિયેબલ (Artificial variable) ઉમેરવામાં આવે છે[cite: 7]."
+    "explanation": "પ્રારંભિક બેઝિક ફિઝિબલ સોલ્યુશન મેળવવા માટે આર્ટિફિશિયલ વેરિયેબલ (Artificial variable) ઉમેરવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 32,
@@ -477,7 +477,7 @@
       "નેટવર્ક થિયરી"
     ],
     "correctAnswer": 0,
-    "explanation": "ક્યૂઇંગ થિયરી (Queuing theory) ગ્રાહકોના વેઇટિંગ ખર્ચ અને સર્વિસ આપવાના ખર્ચ વચ્ચે સંતુલન બનાવે છે[cite: 7]."
+    "explanation": "ક્યૂઇંગ થિયરી (Queuing theory) ગ્રાહકોના વેઇટિંગ ખર્ચ અને સર્વિસ આપવાના ખર્ચ વચ્ચે સંતુલન બનાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 33,
@@ -492,7 +492,7 @@
       "1"
     ],
     "correctAnswer": 1,
-    "explanation": "મેક્સિમાઇઝેશન પ્રોબ્લેમમાં આર્ટિફિશિયલ ચલને ઉકેલમાંથી બહાર કાઢવા પેનલ્ટી તરીકે -M ગુણાંક અપાય છે[cite: 7]."
+    "explanation": "મેક્સિમાઇઝેશન પ્રોબ્લેમમાં આર્ટિફિશિયલ ચલને ઉકેલમાંથી બહાર કાઢવા પેનલ્ટી તરીકે -M ગુણાંક અપાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 34,
@@ -507,7 +507,7 @@
       "સ્લેક વેરિયેબલ્સને દૂર કરવા"
     ],
     "correctAnswer": 2,
-    "explanation": "ટુ-ફેઝ સિમ્પ્લેક્સ મેથડના પ્રથમ તબક્કા (Phase-I) નો હેતુ આર્ટિફિશિયલ વેરિયેબલ્સનું મૂલ્ય શૂન્ય કરીને તેને દૂર કરવાનો છે[cite: 7]."
+    "explanation": "ટુ-ફેઝ સિમ્પ્લેક્સ મેથડના પ્રથમ તબક્કા (Phase-I) નો હેતુ આર્ટિફિશિયલ વેરિયેબલ્સનું મૂલ્ય શૂન્ય કરીને તેને દૂર કરવાનો છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 35,
@@ -522,7 +522,7 @@
       "18"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્ટાન્ડર્ડ ડેવિએશન σ = (tp - to) / 6 = (10 - 4) / 6 = 1. વેરિયન્સ σ² = 1² = 1[cite: 7]."
+    "explanation": "સ્ટાન્ડર્ડ ડેવિએશન σ = (tp - to) / 6 = (10 - 4) / 6 = 1. વેરિયન્સ σ² = 1² = 1[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 36,
@@ -537,7 +537,7 @@
       "આઉટગોઇંગ વેરિયેબલ"
     ],
     "correctAnswer": 2,
-    "explanation": "મહત્તમ ધન Cj - Zj ધરાવતી કોલમ એન્ટરિંગ વેરિયેબલ નક્કી કરે છે, જેને કી કોલમ (Key column) કહેવાય છે[cite: 7]."
+    "explanation": "મહત્તમ ધન Cj - Zj ધરાવતી કોલમ એન્ટરિંગ વેરિયેબલ નક્કી કરે છે, જેને કી કોલમ (Key column) કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 37,
@@ -552,7 +552,7 @@
       "ઝીરો રેશિયો"
     ],
     "correctAnswer": 1,
-    "explanation": "ફિઝિબિલિટી જાળવવા માટે રાઈટ-હેન્ડ સાઇડ અને કી-કોલમનો લઘુત્તમ ધન ગુણોત્તર (Minimum positive ratio) લેવાય છે[cite: 7]."
+    "explanation": "ફિઝિબિલિટી જાળવવા માટે રાઈટ-હેન્ડ સાઇડ અને કી-કોલમનો લઘુત્તમ ધન ગુણોત્તર (Minimum positive ratio) લેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 38,
@@ -567,7 +567,7 @@
       "બીટા (Beta)"
     ],
     "correctAnswer": 3,
-    "explanation": "PERT માં વ્યક્તિગત પ્રવૃત્તિઓનો સમય બીટા ડિસ્ટ્રિબ્યુશન (Beta distribution) અનુસરે છે તેમ માનવામાં આવે છે[cite: 7]."
+    "explanation": "PERT માં વ્યક્તિગત પ્રવૃત્તિઓનો સમય બીટા ડિસ્ટ્રિબ્યુશન (Beta distribution) અનુસરે છે તેમ માનવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 39,
@@ -582,7 +582,7 @@
       "ડ્યુઅલ એલિમેન્ટ"
     ],
     "correctAnswer": 0,
-    "explanation": "કી કોલમ અને કી રો ના છેદનબિંદુ પરના ઘટકને પિવોટ એલિમેન્ટ (Pivot element અથવા Key element) કહે છે[cite: 7]."
+    "explanation": "કી કોલમ અને કી રો ના છેદનબિંદુ પરના ઘટકને પિવોટ એલિમેન્ટ (Pivot element અથવા Key element) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 40,
@@ -597,7 +597,7 @@
       "ઓપ્ટિમાલિટી"
     ],
     "correctAnswer": 1,
-    "explanation": "મિનિમમ પોઝિટિવ રેશિયોમાં ટાઈ થવાની સ્થિતિને ડીજનરેસી (Degeneracy) કહેવામાં આવે છે[cite: 7]."
+    "explanation": "મિનિમમ પોઝિટિવ રેશિયોમાં ટાઈ થવાની સ્થિતિને ડીજનરેસી (Degeneracy) કહેવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 41,
@@ -612,7 +612,7 @@
       "9"
     ],
     "correctAnswer": 3,
-    "explanation": "ટ્રાન્સપોર્ટેશન સમસ્યામાં કુલ મર્યાદાઓની સંખ્યા = m + n = 4 + 5 = 9 થાય[cite: 7]."
+    "explanation": "ટ્રાન્સપોર્ટેશન સમસ્યામાં કુલ મર્યાદાઓની સંખ્યા = m + n = 4 + 5 = 9 થાય[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 42,
@@ -627,7 +627,7 @@
       "નો સોલ્યુશન"
     ],
     "correctAnswer": 1,
-    "explanation": "મેક્સિમાઇઝેશન માટે તમામ Cj - Zj <= 0 થતાં ઓપ્ટિમાલિટી શરત સંતોષાય છે અને શ્રેષ્ઠતમ ઉકેલ મળે છે[cite: 7]."
+    "explanation": "મેક્સિમાઇઝેશન માટે તમામ Cj - Zj <= 0 થતાં ઓપ્ટિમાલિટી શરત સંતોષાય છે અને શ્રેષ્ઠતમ ઉકેલ મળે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 43,
@@ -642,7 +642,7 @@
       "ઓપ્ટિમલ સોલ્યુશન"
     ],
     "correctAnswer": 0,
-    "explanation": "કી કોલમમાં કોઈ ધન ઘટક ન હોવાથી રેશિયો શોધી શકાતો નથી અને ઉકેલ અનબાઉન્ડેડ (Unbounded) બને છે[cite: 7]."
+    "explanation": "કી કોલમમાં કોઈ ધન ઘટક ન હોવાથી રેશિયો શોધી શકાતો નથી અને ઉકેલ અનબાઉન્ડેડ (Unbounded) બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 44,
@@ -657,7 +657,7 @@
       "પેનલ્ટી"
     ],
     "correctAnswer": 0,
-    "explanation": "દરેક પ્રાઇમલ (Primal) સમસ્યા સાથે ગાણિતિક રીતે જોડાયેલ દ્વૈત સમસ્યાને ડ્યુઅલ (Dual) કહે છે[cite: 7]."
+    "explanation": "દરેક પ્રાઇમલ (Primal) સમસ્યા સાથે ગાણિતિક રીતે જોડાયેલ દ્વૈત સમસ્યાને ડ્યુઅલ (Dual) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 45,
@@ -672,7 +672,7 @@
       "PERT"
     ],
     "correctAnswer": 2,
-    "explanation": "VAM પદ્ધતિ ટ્રાન્સપોર્ટેશન સમસ્યામાં પ્રારંભિક ઉકેલ મેળવવા માટે વપરાય છે[cite: 7]."
+    "explanation": "VAM પદ્ધતિ ટ્રાન્સપોર્ટેશન સમસ્યામાં પ્રારંભિક ઉકેલ મેળવવા માટે વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 46,
@@ -687,7 +687,7 @@
       "ગમે તે હોઈ શકે"
     ],
     "correctAnswer": 1,
-    "explanation": "ડ્યુઆલિટી સિદ્ધાંત મુજબ જો પ્રાઇમલ મેક્સિમાઇઝેશન હોય તો તેનો ડ્યુઅલ હંમેશા મિનિમાઇઝેશન બને છે[cite: 7]."
+    "explanation": "ડ્યુઆલિટી સિદ્ધાંત મુજબ જો પ્રાઇમલ મેક્સિમાઇઝેશન હોય તો તેનો ડ્યુઅલ હંમેશા મિનિમાઇઝેશન બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 47,
@@ -702,7 +702,7 @@
       "જ્યારે પ્રોબ્લેમમાં માત્ર 2 વેરિયેબલ્સ હોય"
     ],
     "correctAnswer": 1,
-    "explanation": "જ્યારે ટેબલ ઓપ્ટિમલ હોય (તમામ Cj - Zj <= 0) પરંતુ ફિઝિબલ ન હોય (RHS માં ઋણ મૂલ્ય હોય) ત્યારે ડ્યુઅલ સિમ્પ્લેક્સ વપરાય છે[cite: 7]."
+    "explanation": "જ્યારે ટેબલ ઓપ્ટિમલ હોય (તમામ Cj - Zj <= 0) પરંતુ ફિઝિબલ ન હોય (RHS માં ઋણ મૂલ્ય હોય) ત્યારે ડ્યુઅલ સિમ્પ્લેક્સ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 48,
@@ -717,7 +717,7 @@
       "18.5"
     ],
     "correctAnswer": 1,
-    "explanation": "પછીની પ્રવૃત્તિ ત્યારે જ શરૂ થઈ શકે જ્યારે અગાઉની તમામ પ્રવૃત્તિઓ પૂર્ણ થાય, તેથી EST(Y) = Max(12, 15, 10) = 15[cite: 7]."
+    "explanation": "પછીની પ્રવૃત્તિ ત્યારે જ શરૂ થઈ શકે જ્યારે અગાઉની તમામ પ્રવૃત્તિઓ પૂર્ણ થાય, તેથી EST(Y) = Max(12, 15, 10) = 15[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 49,
@@ -727,12 +727,12 @@
     "gujaratiQuestion": "Q49. Transportation problem નો મુખ્ય ઉદ્દેશ્ય શું હોય છે?",
     "options": [
       "કુલ નફો શૂન્ય કરવો",
-      "પરિવહન ખર્ચ ન્યૂનતમ કરવો",
+      "પરિફ્લો ખર્ચ ન્યૂનતમ કરવો",
       "માત્ર માંગ વધારવી",
       "સપ્લાય ઘટાડવો"
     ],
     "correctAnswer": 1,
-    "explanation": "ટ્રાન્સપોર્ટેશન પ્રોબ્લેમનો મૂળ ઉદ્દેશ વિવિધ સ્રોતોથી ગંતવ્ય સ્થાનો સુધી માલ પહોંચાડવાનો કુલ પરિવહન ખર્ચ ન્યૂનતમ કરવાનો છે[cite: 7]."
+    "explanation": "ટ્રાન્સપોર્ટેશન પ્રોબ્લેમનો મૂળ ઉદ્દેશ વિવિધ સ્રોતોથી ગંતવ્ય સ્થાનો સુધી માલ પહોંચાડવાનો કુલ પરિફ્લો ખર્ચ ન્યૂનતમ કરવાનો છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 50,
@@ -747,7 +747,7 @@
       "પ્રોહિબિટેડ"
     ],
     "correctAnswer": 1,
-    "explanation": "કુલ પુરવઠો = કુલ માંગ (Total Supply = Total Demand) હોય તે સમસ્યાને બેલેન્સ્ડ ટ્રાન્સપોર્ટેશન કહેવાય છે[cite: 7]."
+    "explanation": "કુલ પુરવઠો = કુલ માંગ (Total Supply = Total Demand) હોય તે સમસ્યાને બેલેન્સ્ડ ટ્રાન્સપોર્ટેશન કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 51,
@@ -762,7 +762,7 @@
       "રિસોર્સ આઇડલનેસ"
     ],
     "correctAnswer": 0,
-    "explanation": "ડમી એક્ટિવિટી કોઈ સમય કે સંસાધન વાપર્યા વિના માત્ર તાર્કિક પૂર્વાધિકાર સંબંધ (Precedence relationship) દર્શાવે છે[cite: 7]."
+    "explanation": "ડમી એક્ટિવિટી કોઈ સમય કે સંસાધન વાપર્યા વિના માત્ર તાર્કિક પૂર્વાધિકાર સંબંધ (Precedence relationship) દર્શાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 52,
@@ -777,14 +777,14 @@
       "સ્લેક મશીન"
     ],
     "correctAnswer": 2,
-    "explanation": "પુરવઠો કે માંગ સરખી કરવા માટે જરૂરિયાત મુજબ શૂન્ય ખર્ચવાળી ડમી રો અથવા ડમી કોલમ ઉમેરવામાં આવે છે[cite: 7]."
+    "explanation": "પુરવઠો કે માંગ સરખી કરવા માટે જરૂરિયાત મુજબ શૂન્ય ખર્ચવાળી ડમી રો અથવા ડમી કોલમ ઉમેરવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 53,
     "subject": "Operations Research",
     "subTopic": "Transportation Model",
     "question": "What is the transportation cost of Dummy rows or Dummy columns generally taken as?",
-    "gujaratiQuestion": "Q53. Dummy rows કે Dummy column નો પરિવહન ખર્ચ સામાન્ય રીતે કેટલો લેવામાં આવે છે?",
+    "gujaratiQuestion": "Q53. Dummy rows કે Dummy column નો પરિફ્લો ખર્ચ સામાન્ય રીતે કેટલો લેવામાં આવે છે?",
     "options": [
       "1",
       "100",
@@ -792,7 +792,7 @@
       "0"
     ],
     "correctAnswer": 3,
-    "explanation": "ડમી રો કે કોલમ વાસ્તવિક ન હોવાથી તેમાં પ્રતિ યુનિટ પરિવહન ખર્ચ 0 (શૂન્ય) લેવાય છે[cite: 7]."
+    "explanation": "ડમી રો કે કોલમ વાસ્તવિક ન હોવાથી તેમાં પ્રતિ યુનિટ પરિફ્લો ખર્ચ 0 (શૂન્ય) લેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 54,
@@ -807,7 +807,7 @@
       "અણધારી (અનુમાન ન કરી શકાય તેવો)"
     ],
     "correctAnswer": 2,
-    "explanation": "ક્રિટિકલ પાથ પરના તમામ ઇવેન્ટ્સ માટે સ્લેક શૂન્ય હોય છે (એટલે કે સમગ્ર પાથ પર અચળ શૂન્ય રહે છે)[cite: 7]."
+    "explanation": "ક્રિટિકલ પાથ પરના તમામ ઇવેન્ટ્સ માટે સ્લેક શૂન્ય હોય છે (એટલે કે સમગ્ર પાથ પર અચળ શૂન્ય રહે છે)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 55,
@@ -822,7 +822,7 @@
       "MODI મેથડ"
     ],
     "correctAnswer": 3,
-    "explanation": "MODI પદ્ધતિ ઉકેલની ઓપ્ટિમાલિટી ચકાસવા માટે વપરાય છે, IBFS શોધવા માટે નહીં[cite: 7]."
+    "explanation": "MODI પદ્ધતિ ઉકેલની ઓપ્ટિમાલિટી ચકાસવા માટે વપરાય છે, IBFS શોધવા માટે નહીં[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 56,
@@ -837,7 +837,7 @@
       "સૌથી નીચેના અને જમણી બાજુના ખૂણાથી"
     ],
     "correctAnswer": 2,
-    "explanation": "આ પદ્ધતિમાં પ્રથમ ફાળવણી મેટ્રિક્સના સૌથી ઉપરના ડાબા ખૂણાના સેલ (1,1) થી શરૂ થાય છે[cite: 7]."
+    "explanation": "આ પદ્ધતિમાં પ્રથમ ફાળવણી મેટ્રિક્સના સૌથી ઉપરના ડાબા ખૂણાના સેલ (1,1) થી શરૂ થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 57,
@@ -852,7 +852,7 @@
       "ઓબ્જેક્ટિવ"
     ],
     "correctAnswer": 2,
-    "explanation": "CPM (Critical Path Method) એ એક્ટિવિટી-ઓરિએન્ટેડ (Activity-oriented) પદ્ધતિ છે[cite: 7]."
+    "explanation": "CPM (Critical Path Method) એ એક્ટિવિટી-ઓરિએન્ટેડ (Activity-oriented) પદ્ધતિ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 58,
@@ -867,7 +867,7 @@
       "વોગેલની એપ્રોક્સિમેશન મેથડ"
     ],
     "correctAnswer": 3,
-    "explanation": "VAM પદ્ધતિ પેનલ્ટી કોસ્ટ ધ્યાને લેતી હોવાથી સૌથી શ્રેષ્ઠ અને ઓપ્ટિમમની નજીકનો ઉકેલ આપે છે[cite: 7]."
+    "explanation": "VAM પદ્ધતિ પેનલ્ટી કોસ્ટ ધ્યાને લેતી હોવાથી સૌથી શ્રેષ્ઠ અને ઓપ્ટિમમની નજીકનો ઉકેલ આપે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 59,
@@ -882,7 +882,7 @@
       "રો અને કૉલમના ખર્ચનો ગુણાકાર"
     ],
     "correctAnswer": 1,
-    "explanation": "પેનલ્ટી એ દરેક રો અથવા કોલમના સૌથી નાના બે પરિવહન ખર્ચ વચ્ચેનો તફાવત છે[cite: 7]."
+    "explanation": "પેનલ્ટી એ દરેક રો અથવા કોલમના સૌથી નાના બે પરિફ્લો ખર્ચ વચ્ચેનો તફાવત છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 60,
@@ -897,7 +897,7 @@
       "લેટેસ્ટ એલાવેબલ ટાઈમ અને અર્લિએસ્ટ એક્સપેક્ટેડ ટાઈમ"
     ],
     "correctAnswer": 3,
-    "explanation": "ઇવેન્ટ સ્લેક = લેટેસ્ટ એલાવેબલ અકરન્સ ટાઇમ (TL) - અર્લિએસ્ટ એક્સપેક્ટેડ ટાઇમ (TE)[cite: 7]."
+    "explanation": "ઇવેન્ટ સ્લેક = લેટેસ્ટ એલાવેબલ અકરન્સ ટાઇમ (TL) - અર્લિએસ્ટ એક્સપેક્ટેડ ટાઇમ (TE)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 61,
@@ -912,7 +912,7 @@
       "m × n"
     ],
     "correctAnswer": 2,
-    "explanation": "નોન-ડીજનરેટ બેઝિક ફિઝિબલ સોલ્યુશન માટે સ્વતંત્ર સેલમાં બરાબર m + n - 1 ફાળવણીઓ હોવી જોઈએ[cite: 7]."
+    "explanation": "નોન-ડીજનરેટ બેઝિક ફિઝિબલ સોલ્યુશન માટે સ્વતંત્ર સેલમાં બરાબર m + n - 1 ફાળવણીઓ હોવી જોઈએ[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 62,
@@ -927,7 +927,7 @@
       "ઇનફિઝિબલ"
     ],
     "correctAnswer": 2,
-    "explanation": "ફાળવણીઓની સંખ્યા m + n - 1 કરતાં ઓછી થાય ત્યારે સમસ્યામાં ડીજનરેસી (Degeneracy) ઉત્પન્ન થાય છે[cite: 7]."
+    "explanation": "ફાળવણીઓની સંખ્યા m + n - 1 કરતાં ઓછી થાય ત્યારે સમસ્યામાં ડીજનરેસી (Degeneracy) ઉત્પન્ન થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 63,
@@ -942,7 +942,7 @@
       "નોર્મલ કોસ્ટ"
     ],
     "correctAnswer": 0,
-    "explanation": "પ્રોજેક્ટ ક્રેશિંગમાં સૌથી ઓછો વધારાનો ખર્ચ કરવા લઘુત્તમ કોસ્ટ સ્લોપવાળી ક્રિટિકલ એક્ટિવિટી પ્રથમ ક્રેશ કરાય છે[cite: 7]."
+    "explanation": "પ્રોજેક્ટ ક્રેશિંગમાં સૌથી ઓછો વધારાનો ખર્ચ કરવા લઘુત્તમ કોસ્ટ સ્લોપવાળી ક્રિટિકલ એક્ટિવિટી પ્રથમ ક્રેશ કરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 64,
@@ -957,7 +957,7 @@
       "નેગેટિવ 1"
     ],
     "correctAnswer": 1,
-    "explanation": "ડીજનરેસી ઉકેલવા માટે સ્વતંત્ર બિન-ફાળવેલ સેલમાં અત્યંત નાનું ધન મૂલ્ય એપ્સાયલોન (ε) મૂકવામાં આવે છે[cite: 7]."
+    "explanation": "ડીજનરેસી ઉકેલવા માટે સ્વતંત્ર બિન-ફાળવેલ સેલમાં અત્યંત નાનું ધન મૂલ્ય એપ્સાયલોન (ε) મૂકવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 65,
@@ -972,7 +972,7 @@
       "લીસ્ટ કોસ્ટ મેથડ"
     ],
     "correctAnswer": 2,
-    "explanation": "ટ્રાન્સપોર્ટેશન ઉકેલની ઓપ્ટિમાલિટી ચકાસવા માટે MODI (Modified Distribution) મેથડ વપરાય છે[cite: 7]."
+    "explanation": "ટ્રાન્સપોર્ટેશન ઉકેલની ઓપ્ટિમાલિટી ચકાસવા માટે MODI (Modified Distribution) મેથડ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 66,
@@ -987,7 +987,7 @@
       "Cij = 0"
     ],
     "correctAnswer": 0,
-    "explanation": "ફાળવેલ (Occupied) સેલ્સ માટે ડ્યુઅલ વેરિયેબલ્સ ui અને vj નો સંબંધ ui + vj = Cij લેવાય છે[cite: 7]."
+    "explanation": "ફાળવેલ (Occupied) સેલ્સ માટે ડ્યુઅલ વેરિયેબલ્સ ui અને vj નો સંબંધ ui + vj = Cij લેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 67,
@@ -1002,7 +1002,7 @@
       "પિવોટલ વેલ્યુ નેગેટિવ હોય"
     ],
     "correctAnswer": 2,
-    "explanation": "ઓપ્ટિમાલિટી ટેબલમાં જો ધન મૂલ્ય સાથે આર્ટિફિશિયલ વેરિયેબલ બેઝિસમાં રહે તો સમસ્યા ઈનફિઝિબલ ગણાય[cite: 7]."
+    "explanation": "ઓપ્ટિમાલિટી ટેબલમાં જો ધન મૂલ્ય સાથે આર્ટિફિશિયલ વેરિયેબલ બેઝિસમાં રહે તો સમસ્યા ઈનફિઝિબલ ગણાય[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 68,
@@ -1017,7 +1017,7 @@
       "Δij = Cij × (ui + vj)"
     ],
     "correctAnswer": 1,
-    "explanation": "ખાલી સેલ માટે ઓપોર્ચ્યુનિટી કોસ્ટનું સૂત્ર Δij = Cij - (ui + vj) છે[cite: 7]."
+    "explanation": "ખાલી સેલ માટે ઓપોર્ચ્યુનિટી કોસ્ટનું સૂત્ર Δij = Cij - (ui + vj) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 69,
@@ -1032,7 +1032,7 @@
       "કોઈ પણ એક Opportunity cost ઋણ હોવો જોઈએ"
     ],
     "correctAnswer": 1,
-    "explanation": "ખર્ચ ન્યૂનતમ કરવા માટે તમામ ખાલી સેલ્સના Δij >= 0 હોવા જરૂરી છે[cite: 7]."
+    "explanation": "ખર્ચ ન્યૂનતમ કરવા માટે તમામ ખાલી સેલ્સના Δij >= 0 હોવા જરૂરી છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 70,
@@ -1047,7 +1047,7 @@
       "x' >= 0 અને x'' >= 0"
     ],
     "correctAnswer": 3,
-    "explanation": "અનરિસ્ટ્રિક્ટેડ ચલને બે અઋણ ચલોની બાદબાકી x = x' - x'' તરીકે લખાય છે જ્યાં x' >= 0 અને x'' >= 0[cite: 7]."
+    "explanation": "અનરિસ્ટ્રિક્ટેડ ચલને બે અઋણ ચલોની બાદબાકી x = x' - x'' તરીકે લખાય છે જ્યાં x' >= 0 અને x'' >= 0[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 71,
@@ -1062,7 +1062,7 @@
       "ઇનફિઝિબલ સોલ્યુશન"
     ],
     "correctAnswer": 2,
-    "explanation": "બિન-ફાળવેલ સેલ માટે Δij = 0 હોવું વૈકલ્પિક શ્રેષ્ઠતમ ઉકેલ (Alternative optimal solution) ની હાજરી સૂચવે છે[cite: 7]."
+    "explanation": "બિન-ફાળવેલ સેલ માટે Δij = 0 હોવું વૈકલ્પિક શ્રેષ્ઠતમ ઉકેલ (Alternative optimal solution) ની હાજરી સૂચવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 72,
@@ -1077,7 +1077,7 @@
       "ક્યુઇંગ પ્રોબ્લેમ"
     ],
     "correctAnswer": 1,
-    "explanation": "એસાઇન્મેન્ટ પ્રોબ્લેમ એ ટ્રાન્સપોર્ટેશન પ્રોબ્લેમનો વિશિષ્ટ કેસ છે જેમાં દરેક સપ્લાય અને ડિમાન્ડ 1 હોય છે[cite: 7]."
+    "explanation": "એસાઇન્મેન્ટ પ્રોબ્લેમ એ ટ્રાન્સપોર્ટેશન પ્રોબ્લેમનો વિશિષ્ટ કેસ છે જેમાં દરેક સપ્લાય અને ડિમાન્ડ 1 હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 73,
@@ -1092,7 +1092,7 @@
       "ઓપ્ટિમમ ફંક્શન વેલ્યુ શૂન્ય હોય"
     ],
     "correctAnswer": 2,
-    "explanation": "ઓપ્ટિમલ ટેબલમાં જો કોઈ નોન-બેઝિક વેરિયેબલ માટે Cj - Zj = 0 હોય, તો વૈકલ્પિક ઓપ્ટિમલ સોલ્યુશન શક્ય બને છે[cite: 7]."
+    "explanation": "ઓપ્ટિમલ ટેબલમાં જો કોઈ નોન-બેઝિક વેરિયેબલ માટે Cj - Zj = 0 હોય, તો વૈકલ્પિક ઓપ્ટિમલ સોલ્યુશન શક્ય બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 74,
@@ -1107,7 +1107,7 @@
       "1 x N સાઈઝનો"
     ],
     "correctAnswer": 1,
-    "explanation": "જોબ અને મશીનોની સંખ્યા સમાન રાખવા એસાઇન્મેન્ટ મેટ્રિક્સ હંમેશા ચોરસ (N × N) હોવો જરૂરી છે[cite: 7]."
+    "explanation": "જોબ અને મશીનોની સંખ્યા સમાન રાખવા એસાઇન્મેન્ટ મેટ્રિક્સ હંમેશા ચોરસ (N × N) હોવો જરૂરી છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 75,
@@ -1122,7 +1122,7 @@
       "માત્ર નફો 0 કરવો"
     ],
     "correctAnswer": 1,
-    "explanation": "વન-ટુ-વન આધારે 1 કામ 1 સાધનને સોંપીને કુલ ખર્ચ કે સમય લઘુત્તમ કરવાનો ઉદ્દેશ હોય છે[cite: 7]."
+    "explanation": "વન-ટુ-વન આધારે 1 કામ 1 સાધનને સોંપીને કુલ ખર્ચ કે સમય લઘુત્તમ કરવાનો ઉદ્દેશ હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 76,
@@ -1137,7 +1137,7 @@
       "14"
     ],
     "correctAnswer": 3,
-    "explanation": "નોન-ડીજનરેટ સોલ્યુશન માટે ફાળવણીઓની સંખ્યા = m + n - 1 = 8 + 7 - 1 = 14 હોવી જરૂરી છે[cite: 7]."
+    "explanation": "નોન-ડીજનરેટ સોલ્યુશન માટે ફાળવણીઓની સંખ્યા = m + n - 1 = 8 + 7 - 1 = 14 હોવી જરૂરી છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 77,
@@ -1152,7 +1152,7 @@
       "MODI મેથડ"
     ],
     "correctAnswer": 2,
-    "explanation": "એસાઇન્મેન્ટ સમસ્યાનો ઇષ્ટતમ ઉકેલ મેળવવા માટે હંગેરિયન મેથડ (Hungarian Method) સૌથી પ્રચલિત પદ્ધતિ છે[cite: 7]."
+    "explanation": "એસાઇન્મેન્ટ સમસ્યાનો ઇષ્ટતમ ઉકેલ મેળવવા માટે હંગેરિયન મેથડ (Hungarian Method) સૌથી પ્રચલિત પદ્ધતિ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 78,
@@ -1167,7 +1167,7 @@
       "પ્રોબ્લેમ ઉકેલી ન શકાય"
     ],
     "correctAnswer": 0,
-    "explanation": "ચોરસ મેટ્રિક્સ (4 × 4) બનાવવા માટે શૂન્ય ખર્ચવાળી 1 ડમી જોબ (Dummy row/column) ઉમેરવામાં આવે છે[cite: 7]."
+    "explanation": "ચોરસ મેટ્રિક્સ (4 × 4) બનાવવા માટે શૂન્ય ખર્ચવાળી 1 ડમી જોબ (Dummy row/column) ઉમેરવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 80,
@@ -1182,7 +1182,7 @@
       "ઝીરો એસાઈનમેન્ટ"
     ],
     "correctAnswer": 1,
-    "explanation": "હંગેરિયન પદ્ધતિનું પ્રથમ પગથિયું દરેક રોમાંથી લઘુત્તમ ઘટક બાદ કરવાનું એટલે કે રો રિડક્શન (Row reduction) છે[cite: 7]."
+    "explanation": "હંગેરિયન પદ્ધતિનું પ્રથમ પગથિયું દરેક રોમાંથી લઘુત્તમ ઘટક બાદ કરવાનું એટલે કે રો રિડક્શન (Row reduction) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 81,
@@ -1197,7 +1197,7 @@
       "જ્યારે મેટ્રિક્સમાં કોઈ શૂન્ય ન હોય"
     ],
     "correctAnswer": 0,
-    "explanation": "જ્યારે તમામ શૂન્યને આવરી લેતી ન્યૂનતમ આડી અને ઊભી લાઈનોની સંખ્યા મેટ્રિક્સના ક્રમ N જેટલી થાય ત્યારે ઓપ્ટિમલ એસાઇન્મેન્ટ શક્ય બને છે[cite: 7]."
+    "explanation": "જ્યારે તમામ શૂન્યને આવરી લેતી ન્યૂનતમ આડી અને ઊભી લાઈનોની સંખ્યા મેટ્રિક્સના ક્રમ N જેટલી થાય ત્યારે ઓપ્ટિમલ એસાઇન્મેન્ટ શક્ય બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 82,
@@ -1212,7 +1212,7 @@
       "મેન સર્વિસનો વધુ સારો ઉપયોગ"
     ],
     "correctAnswer": 2,
-    "explanation": "ક્યૂઇંગ થિયરી મુખ્યત્વે ગ્રાહકો કે જોબ્સના લાઈનમાં ઊભા રહેવાના વેઇટિંગ ટાઈમ અને સંબંધિત ખર્ચ ઘટાડવા સાથે સંબંધિત છે[cite: 7]."
+    "explanation": "ક્યૂઇંગ થિયરી મુખ્યત્વે ગ્રાહકો કે જોબ્સના લાઈનમાં ઊભા રહેવાના વેઇટિંગ ટાઈમ અને સંબંધિત ખર્ચ ઘટાડવા સાથે સંબંધિત છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 83,
@@ -1227,7 +1227,7 @@
       "મેટ્રિક્સને 2 વડે ભાગી દેવો"
     ],
     "correctAnswer": 1,
-    "explanation": "અનકવર્ડ ઘટકોમાંથી લઘુત્તમ મૂલ્ય શોધીને તેને અનકવર્ડમાંથી બાદ કરવું અને છેદન બિંદુ (Intersection) પર ઉમેરવું[cite: 7]."
+    "explanation": "અનકવર્ડ ઘટકોમાંથી લઘુત્તમ મૂલ્ય શોધીને તેને અનકવર્ડમાંથી બાદ કરવું અને છેદન બિંદુ (Intersection) પર ઉમેરવું[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 84,
@@ -1242,7 +1242,7 @@
       "100"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્રતિબંધિત એસાઇન્મેન્ટ (Prohibited assignment) માટે તે સેલનો ખર્ચ અત્યંત મોટો એટલે કે અનંત (M અથવા ∞) લેવામાં આવે છે[cite: 7]."
+    "explanation": "પ્રતિબંધિત એસાઇન્મેન્ટ (Prohibited assignment) માટે તે સેલનો ખર્ચ અત્યંત મોટો એટલે કે અનંત (M અથવા ∞) લેવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 85,
@@ -1257,7 +1257,7 @@
       "લેઆઉટ એનાલિસિસ"
     ],
     "correctAnswer": 1,
-    "explanation": "SIMO (Simultaneous Motion Cycle) ચાર્ટનો ઉપયોગ થર્બલિગ્સની સૂક્ષ્મ ગતિવિધિઓ નોંધવા માઇક્રોમોશન સ્ટડીમાં થાય છે[cite: 7]."
+    "explanation": "SIMO (Simultaneous Motion Cycle) ચાર્ટનો ઉપયોગ થર્બલિગ્સની સૂક્ષ્મ ગતિવિધિઓ નોંધવા માઇક્રોમોશન સ્ટડીમાં થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 86,
@@ -1272,7 +1272,7 @@
       "N²"
     ],
     "correctAnswer": 1,
-    "explanation": "વન-ટુ-વન એસાઇન્મેન્ટ મુજબ N કદના મેટ્રિક્સમાં ચોક્કસ N ફાળવણીઓ થાય છે[cite: 7]."
+    "explanation": "વન-ટુ-વન એસાઇન્મેન્ટ મુજબ N વોલ્યુમના મેટ્રિક્સમાં ચોક્કસ N ફાળવણીઓ થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 87,
@@ -1287,7 +1287,7 @@
       "M"
     ],
     "correctAnswer": 2,
-    "explanation": "એસાઇન્મેન્ટ સમસ્યામાં પ્રત્યેક સ્રોતનો સપ્લાય 1 અને પ્રત્યેક ડેસ્ટિનેશનની ડિમાન્ડ 1 હોય છે[cite: 7]."
+    "explanation": "એસાઇન્મેન્ટ સમસ્યામાં પ્રત્યેક સ્રોતનો સપ્લાય 1 અને પ્રત્યેક ડેસ્ટિનેશનની ડિમાન્ડ 1 હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 88,
@@ -1302,7 +1302,7 @@
       "રિપ્લેસમેન્ટ મોડેલ"
     ],
     "correctAnswer": 2,
-    "explanation": "TSP એ એસાઇન્મેન્ટ મોડેલનું વિશેષ સ્વરૂપ છે જેમાં સબ-ટૂર ન બને તેવી વધારાની શરત હોય છે[cite: 7]."
+    "explanation": "TSP એ એસાઇન્મેન્ટ મોડેલનું વિશેષ સ્વરૂપ છે જેમાં સબ-ટૂર ન બને તેવી વધારાની શરત હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 89,
@@ -1317,7 +1317,7 @@
       "પેટા-કાયદા"
     ],
     "correctAnswer": 1,
-    "explanation": "100 કે તેથી વધુ કામદારો ધરાવતા ઔદ્યોગિક એકમો માટે વર્ક્સ કમિટી એ કાયદાકીય વૈધાનિક જોગવાઈ (Statutory provision) છે[cite: 7]."
+    "explanation": "100 કે તેથી વધુ કામદારો ધરાવતા ઔદ્યોગિક એકમો માટે વર્ક્સ કમિટી એ કાયદાકીય વૈધાનિક જોગવાઈ (Statutory provision) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 90,
@@ -1332,14 +1332,14 @@
       "સેલ્સમેને અડધા શહેરો જ ફરવાના છે"
     ],
     "correctAnswer": 1,
-    "explanation": "સેલ્સમેને દરેક શહેરની એક જ વાર મુલાકાત લઈને ફરી મૂળ શરૂઆતના શહેરે પાછા ફરવાનું હોય છે (No sub-tour condition)[cite: 7]."
+    "explanation": "સેલ્સમેને દરેક શહેરની એક જ વાર મુલાકાત લઈને ફરી મૂળ શરૂઆતના શહેરે પાછા ફરવાનું હોય છે (No sub-tour condition)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 91,
     "subject": "Operations Research",
     "subTopic": "Network Flow Models",
     "question": "In a network flow model, what are the points between which flow occurs called?",
-    "gujaratiQuestion": "091. નેટવર્ક ફ્લો મોડેલમાં જે બિંદુઓ વચ્ચે પ્રવાહ વહે છે તેને શું કહેવાય છે?",
+    "gujaratiQuestion": "091. નેટવર્ક ફ્લો મોડેલમાં જે બિંદુઓ વચ્ચે ફ્લો વહે છે તેને શું કહેવાય છે?",
     "options": [
       "આર્ક",
       "નોડ્સ",
@@ -1347,7 +1347,7 @@
       "લૂપ્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "નેટવર્કમાં જંક્શન અથવા બિંદુઓને નોડ્સ (Nodes અથવા Vertices) કહેવાય છે[cite: 7]."
+    "explanation": "નેટવર્કમાં જંક્શન અથવા બિંદુઓને નોડ્સ (Nodes અથવા Vertices) કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 92,
@@ -1362,7 +1362,7 @@
       "નેશનલ-લેવલ ફેડરેશન"
     ],
     "correctAnswer": 2,
-    "explanation": "ચોક્કસ ભૌગોલિક પ્રદેશ કે રાજ્યસ્તરના યુનિયનોના જોડાણને રીજિયોનલ-લેવલ ફેડરેશન કહે છે[cite: 7]."
+    "explanation": "ચોક્કસ ભૌગોલિક પ્રદેશ કે રાજ્યસ્તરના યુનિયનોના જોડાણને રીજિયોનલ-લેવલ ફેડરેશન કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 93,
@@ -1377,14 +1377,14 @@
       "એક્ટિવિટી"
     ],
     "correctAnswer": 0,
-    "explanation": "બે નોડ્સને જોડતી શાખાને એજ (Edge), આર્ક (Arc) અથવા લિંક કહે છે[cite: 7]."
+    "explanation": "બે નોડ્સને જોડતી શાખાને એજ (Edge), આર્ક (Arc) અથવા લિંક કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 94,
     "subject": "Operations Research",
     "subTopic": "Network Flow Models",
     "question": "If flow direction in an arc is fixed (only in one direction), what is such a graph called?",
-    "gujaratiQuestion": "Q94. જો આર્કમાં પ્રવાહની દિશા નિશ્ચિત હોય (માત્ર એક જ દિશામાં), તો તેને કેવો આલેખ કહેવાય?",
+    "gujaratiQuestion": "Q94. જો આર્કમાં ફ્લોની દિશા નિશ્ચિત હોય (માત્ર એક જ દિશામાં), તો તેને કેવો આલેખ કહેવાય?",
     "options": [
       "અનડાયરેક્ટેડ ગ્રાફ",
       "ડાયરેક્ટેડ ગ્રાફ",
@@ -1392,7 +1392,7 @@
       "લૂપ"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રવાહની દિશા નક્કી હોય તેવા નેટવર્કને ડાયરેક્ટેડ ગ્રાફ (Directed graph અથવા Digraph) કહે છે[cite: 7]."
+    "explanation": "ફ્લોની દિશા નક્કી હોય તેવા નેટવર્કને ડાયરેક્ટેડ ગ્રાફ (Directed graph અથવા Digraph) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 95,
@@ -1407,14 +1407,14 @@
       "વોશ બોરિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "સખત માટી અને નરમ ખડકોના સ્તરોમાં બોરહોલ માટે રોટરી ડ્રિલિંગ (Rotary drilling) સૌથી ઝડપી અને યોગ્ય પદ્ધતિ છે[cite: 7]."
+    "explanation": "સખત માટી અને નરમ ખડકોના સ્તરોમાં બોરહોલ માટે રોટરી ડ્રિલિંગ (Rotary drilling) સૌથી ઝડપી અને યોગ્ય પદ્ધતિ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 96,
     "subject": "Operations Research",
     "subTopic": "Network Flow Models",
     "question": "In a network, what is the node called from which flow only leaves (no flow enters)?",
-    "gujaratiQuestion": "096. નેટવર્કમાં જે નોડમાંથી માત્ર પ્રવાહ બહાર નીકળતો હોય (કોઈ પ્રવાહ અંદર આવતો ન હોય) તેને કયો નોડ કહે છે?",
+    "gujaratiQuestion": "096. નેટવર્કમાં જે નોડમાંથી માત્ર ફ્લો બહાર નીકળતો હોય (કોઈ ફ્લો અંદર આવતો ન હોય) તેને કયો નોડ કહે છે?",
     "options": [
       "સિંક નોડ",
       "સોર્સ નોડ",
@@ -1422,14 +1422,14 @@
       "ડમી નોડ"
     ],
     "correctAnswer": 1,
-    "explanation": "જ્યાંથી પ્રવાહની શરૂઆત થાય છે તેને સોર્સ નોડ (Source node) કહેવાય છે[cite: 7]."
+    "explanation": "જ્યાંથી ફ્લોની શરૂઆત થાય છે તેને સોર્સ નોડ (Source node) કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 97,
     "subject": "Operations Research",
     "subTopic": "Network Flow Models",
     "question": "In a network, what is the node called where flow only enters (no flow leaves)?",
-    "gujaratiQuestion": "097. નેટવર્કમાં જે નોડમાં માત્ર પ્રવાહ અંદર આવતો હોય (કોઈ પ્રવાહ બહાર જતો ન હોય) તેને કયો નોડ કહે છે?",
+    "gujaratiQuestion": "097. નેટવર્કમાં જે નોડમાં માત્ર ફ્લો અંદર આવતો હોય (કોઈ ફ્લો બહાર જતો ન હોય) તેને કયો નોડ કહે છે?",
     "options": [
       "સોર્સ નોડ",
       "સિંક નોડ",
@@ -1437,7 +1437,7 @@
       "સપ્લાય નોડ"
     ],
     "correctAnswer": 1,
-    "explanation": "જ્યાં નેટવર્કનો તમામ પ્રવાહ સમાપ્ત થાય છે તેને સિંક નોડ (Sink node) કહેવાય છે[cite: 7]."
+    "explanation": "જ્યાં નેટવર્કનો તમામ ફ્લો સમાપ્ત થાય છે તેને સિંક નોડ (Sink node) કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 98,
@@ -1452,7 +1452,7 @@
       "હાઈડ્રોમીટર ટેસ્ટ"
     ],
     "correctAnswer": 0,
-    "explanation": "માટીની કુદરતી રચના અને શિયર સ્ટ્રેન્થ માપવા માટે કન્સોલિડેશન ટેસ્ટમાં અનડિસ્ટર્બ્ડ સેમ્પલ જરૂરી છે[cite: 7]."
+    "explanation": "માટીની કુદરતી રચના અને શિયર સ્ટ્રેન્થ માપવા માટે કન્સોલિડેશન ટેસ્ટમાં અનડિસ્ટર્બ્ડ સેમ્પલ જરૂરી છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 99,
@@ -1467,7 +1467,7 @@
       "સિમ્પ્લેક્સ અલ્ગોરિધમ"
     ],
     "correctAnswer": 1,
-    "explanation": "સૌથી ટૂંકો માર્ગ શોધવા માટે ડાઇજક્સ્ટ્રા અલ્ગોરિધમ (Dijkstra's Algorithm) વપરાય છે[cite: 7]."
+    "explanation": "સૌથી ટૂંકો માર્ગ શોધવા માટે ડાઇજક્સ્ટ્રા અલ્ગોરિધમ (Dijkstra's Algorithm) વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 100,
@@ -1477,12 +1477,12 @@
     "gujaratiQuestion": "Q100. Maximum Flow Problem નો મુખ્ય હેતુ શું હોય છે?",
     "options": [
       "નેટવર્કનો ખર્ચ ન્યૂનતમ કરવો",
-      "સોર્સથી સિંક સુધી મહત્તમ પ્રવાહ મોકલવો",
+      "સોર્સથી સિંક સુધી મહત્તમ ફ્લો મોકલવો",
       "બધા નોડ્સની મુલાકાત લેવી",
       "ટૂંકો રસ્તો શોધવો"
     ],
     "correctAnswer": 1,
-    "explanation": "આર્કની ક્ષમતાઓને આધીન રહીને સોર્સથી સિંક વચ્ચે મહત્તમ કુલ પ્રવાહ મોકલવો તે તેનો મુખ્ય ઉદ્દેશ છે[cite: 7]."
+    "explanation": "આર્કની ક્ષમતાઓને આધીન રહીને સોર્સથી સિંક વચ્ચે મહત્તમ કુલ ફ્લો મોકલવો તે તેનો મુખ્ય ઉદ્દેશ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 101,
@@ -1497,7 +1497,7 @@
       "એક્સપોનેન્શિયલ"
     ],
     "correctAnswer": 2,
-    "explanation": "PERT માં દરેક પ્રવૃત્તિનો સમયગાળો બીટા વિતરણ (Beta distribution) અનુસરે છે[cite: 7]."
+    "explanation": "PERT માં દરેક પ્રવૃત્તિનો સમયગાળો બીટા વિતરણ (Beta distribution) અનુસરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 102,
@@ -1512,14 +1512,14 @@
       "નોર્થ-વેસ્ટ કોર્નર મેથડ"
     ],
     "correctAnswer": 2,
-    "explanation": "મેક્સિમમ ફ્લો પ્રોબ્લેમ માટે ફોર્ડ-ફલ્કર્સન ઓગમેન્ટીંગ પાથ અલ્ગોરિધમ વપરાય છે[cite: 7]."
+    "explanation": "મેક્સિમમ ફ્લો પ્રોબ્લેમ માટે ફોર્ડ-ફલ્કર્સન ઓગમેન્ટીંગ પાથ અલ્ગોરિધમ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 103,
     "subject": "Operations Research",
     "subTopic": "Network Flow Models",
     "question": "According to the 'Max Flow - Min Cut' theorem, maximum network flow is equal to:",
-    "gujaratiQuestion": "Q103. 'Max Flow - Min Cut' થિયરમ મુજબ, નેટવર્કનો મહત્તમ પ્રવાહ કોના બરાબર હોય છે?",
+    "gujaratiQuestion": "Q103. 'Max Flow - Min Cut' થિયરમ મુજબ, નેટવર્કનો મહત્તમ ફ્લો કોના બરાબર હોય છે?",
     "options": [
       "મહત્તમ કટની ક્ષમતા",
       "ન્યૂનતમ કટની ક્ષમતા",
@@ -1527,7 +1527,7 @@
       "સોર્સની ક્ષમતા"
     ],
     "correctAnswer": 1,
-    "explanation": "મેક્સ ફ્લો - મિન કટ પ્રમેય અનુસાર નેટવર્કનો મહત્તમ પ્રવાહ લઘુત્તમ કટ કેપેસિટી (Capacity of minimum cut) બરાબર હોય છે[cite: 7]."
+    "explanation": "મેક્સ ફ્લો - મિન કટ પ્રમેય અનુસાર નેટવર્કનો મહત્તમ ફ્લો લઘુત્તમ કટ કેપેસિટી (Capacity of minimum cut) બરાબર હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 104,
@@ -1542,7 +1542,7 @@
       "ફિઝિબલ રીજિયનના માત્ર ઇન્ટિરિયર પોઇન્ટ્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "સિમ્પ્લેક્સ મેથડ માત્ર ફિઝિબલ રીજિયનના એક્સ્ટ્રીમ/કોર્નર પોઇન્ટ્સ (Extreme points) ની ઇટરેટિવ તપાસ કરે છે[cite: 7]."
+    "explanation": "સિમ્પ્લેક્સ મેથડ માત્ર ફિઝિબલ રીજિયનના એક્સ્ટ્રીમ/કોર્નર પોઇન્ટ્સ (Extreme points) ની ઇટરેટિવ તપાસ કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 105,
@@ -1553,11 +1553,11 @@
     "options": [
       "નેટવર્કના બધા નોડ્સને જોડતો લૂપ વગરનો ન્યૂનતમ ખર્ચનો માર્ગ",
       "માત્ર સોર્સ અને સિંકને જોડતો માર્ગ",
-      "પ્રવાહને મહત્તમ કરવો",
+      "ફ્લોને મહત્તમ કરવો",
       "કતારની લંબાઇ ઘટાડવી"
     ],
     "correctAnswer": 0,
-    "explanation": "MST એ નેટવર્કના તમામ નોડ્સને કોઈ સાયકલ/લૂપ વગર લઘુત્તમ કુલ લંબાઈ કે ખર્ચથી જોડે છે[cite: 7]."
+    "explanation": "MST એ નેટવર્કના તમામ નોડ્સને કોઈ સાયકલ/લૂપ વગર લઘુત્તમ કુલ લંબાઈ કે ખર્ચથી જોડે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 106,
@@ -1572,7 +1572,7 @@
       "હંગેરિયન મેથડ"
     ],
     "correctAnswer": 1,
-    "explanation": "ન્યૂનતમ સ્પાનિંગ ટ્રી મેળવવા માટે ક્રુસ્કલ (Kruskal's) અને પ્રિમ (Prim's) અલ્ગોરિધમ વપરાય છે[cite: 7]."
+    "explanation": "ન્યૂનતમ સ્પાનિંગ ટ્રી મેળવવા માટે ક્રુસ્કલ (Kruskal's) અને પ્રિમ (Prim's) અલ્ગોરિધમ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 107,
@@ -1587,7 +1587,7 @@
       "20,000"
     ],
     "correctAnswer": 1,
-    "explanation": "BEP (Units) = Fixed Cost / (Selling Price - Variable Cost) = 80000 / (20 - 4) = 80000 / 16 = 5000 units[cite: 7]."
+    "explanation": "BEP (Units) = Fixed Cost / (Selling Price - Variable Cost) = 80000 / (20 - 4) = 80000 / 16 = 5000 units[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 108,
@@ -1602,7 +1602,7 @@
       "Inflow = 0"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇન્ટરમીડિયેટ નોડ્સ પર કુલ પ્રવેશતો પ્રવાહ એ બહાર નીકળતા કુલ પ્રવાહ બરાબર હોવો જોઈએ (Inflow = Outflow)[cite: 7]."
+    "explanation": "ઇન્ટરમીડિયેટ નોડ્સ પર કુલ પ્રવેશતો ફ્લો એ બહાર નીકળતા કુલ ફ્લો બરાબર હોવો જોઈએ (Inflow = Outflow)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 109,
@@ -1614,10 +1614,10 @@
       "માલસામાનનો ખર્ચ અને મજૂરી ખર્ચ",
       "સર્વિસ ખર્ચ અને ગ્રાહકના વેઇટિંગનો ખર્ચ",
       "ઉત્પાદન ખર્ચ અને વેચાણ ખર્ચ",
-      "વહન ખર્ચ અને સંગ્રહ ખર્ચ"
+      "ફ્લો ખર્ચ અને સંગ્રહ ખર્ચ"
     ],
     "correctAnswer": 1,
-    "explanation": "ક્યૂઇંગ સિસ્ટમમાં સર્વિસ સુવિધા ઊભી કરવાનો ખર્ચ અને ગ્રાહકના વેઇટિંગ ખર્ચ વચ્ચે કુલ ખર્ચ ન્યૂનતમ કરાય છે[cite: 7]."
+    "explanation": "ક્યૂઇંગ સિસ્ટમમાં સર્વિસ સુવિધા ઊભી કરવાનો ખર્ચ અને ગ્રાહકના વેઇટિંગ ખર્ચ વચ્ચે કુલ ખર્ચ ન્યૂનતમ કરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 110,
@@ -1632,7 +1632,7 @@
       "યુનિફોર્મ ડિસ્ટ્રિબ્યુશન"
     ],
     "correctAnswer": 2,
-    "explanation": "સમયગાળા દીઠ ગ્રાહકોનું આગમન રેન્ડમ હોવાથી પોઇસન ડિસ્ટ્રિબ્યુશન (Poisson distribution) ને અનુસરે છે[cite: 7]."
+    "explanation": "સમયગાળા દીઠ ગ્રાહકોનું આગમન રેન્ડમ હોવાથી પોઇસન ડિસ્ટ્રિબ્યુશન (Poisson distribution) ને અનુસરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 111,
@@ -1647,7 +1647,7 @@
       "કન્ટીન્યુઅસ પ્રોડક્શનમાં બેસ્ટ મશીન યુટિલાઇઝેશન શોધે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્રોસેસ (અથવા ફંક્શનલ) લેઆઉટ ઓછો જથ્થો અને વિવિધ પ્રકારના ઉત્પાદન (Low volume, High variety) માટે વપરાય છે[cite: 7]."
+    "explanation": "પ્રોસેસ (અથવા ફંક્શનલ) લેઆઉટ ઓછો જથ્થો અને વિવિધ પ્રકારના ઉત્પાદન (Low volume, High variety) માટે વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 112,
@@ -1662,7 +1662,7 @@
       "બીટા ડિસ્ટ્રિબ્યુશન"
     ],
     "correctAnswer": 1,
-    "explanation": "બે આગમન વચ્ચેનો સમયગાળો ઘાતાંકીય એટલે કે એક્સપોનેન્શિયલ ડિસ્ટ્રિબ્યુશન (Exponential distribution) અનુસરે છે[cite: 7]."
+    "explanation": "બે આગમન વચ્ચેનો સમયગાળો ઘાતાંકીય એટલે કે એક્સપોનેન્શિયલ ડિસ્ટ્રિબ્યુશન (Exponential distribution) અનુસરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 113,
@@ -1677,7 +1677,7 @@
       "ક્યૂ ડિસિપ્લિન"
     ],
     "correctAnswer": 1,
-    "explanation": "કેન્ડાલ નોટેશનમાં A = આગમન વિતરણ (Arrival distribution) અને B = સર્વિસ વિતરણ દર્શાવે છે[cite: 7]."
+    "explanation": "કેન્ડાલ નોટેશનમાં A = આગમન વિતરણ (Arrival distribution) અને B = સર્વિસ વિતરણ દર્શાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 114,
@@ -1692,7 +1692,7 @@
       "આપેલ તમામ વિકલ્પો સાચા છે"
     ],
     "correctAnswer": 0,
-    "explanation": "POQ મોડેલમાં માલ એકસાથે આવવાને બદલે ક્રમશઃ ઉત્પાદન સાથે જમા થાય છે (Non-instantaneous receipt)[cite: 7]."
+    "explanation": "POQ મોડેલમાં માલ એકસાથે આવવાને બદલે ક્રમશઃ ઉત્પાદન સાથે જમા થાય છે (Non-instantaneous receipt)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 115,
@@ -1707,7 +1707,7 @@
       "1 કલાકનો આગમન દર"
     ],
     "correctAnswer": 2,
-    "explanation": "M/M/1 માં ત્રીજો અક્ષર સર્વિસ ચેનલ/સર્વરની સંખ્યા દર્શાવે છે, જે અહીં સિંગલ સર્વર (Single Server) છે[cite: 7]."
+    "explanation": "M/M/1 માં ત્રીજો અક્ષર સર્વિસ ચેનલ/સર્વરની સંખ્યા દર્શાવે છે, જે અહીં સિંગલ સર્વર (Single Server) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 116,
@@ -1722,7 +1722,7 @@
       "ρ = λ + μ"
     ],
     "correctAnswer": 2,
-    "explanation": "ટ્રાફિક ઇન્ટેન્સિટી ρ = અરાઇવલ રેટ / સર્વિસ રેટ = λ / μ થાય છે[cite: 7]."
+    "explanation": "ટ્રાફિક ઇન્ટેન્સિટી ρ = અરાઇવલ રેટ / સર્વિસ રેટ = λ / μ થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 117,
@@ -1737,7 +1737,7 @@
       "જોબ શિડ્યુલ કરતા પાછળ (behind) ચાલી રહી છે"
     ],
     "correctAnswer": 2,
-    "explanation": "જ્યારે CR > 1 હોય ત્યારે કાર્ય સમય કરતાં આગળ ચાલી રહ્યું છે (Ahead of schedule)[cite: 7]."
+    "explanation": "જ્યારે CR > 1 હોય ત્યારે વર્ક સમય કરતાં આગળ ચાલી રહ્યું છે (Ahead of schedule)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 118,
@@ -1752,7 +1752,7 @@
       "λ = 0"
     ],
     "correctAnswer": 2,
-    "explanation": "કતાર અનંત ન બને તે માટે આગમન દર સર્વિસ દર કરતાં ઓછો (λ < μ એટલે કે ρ < 1) હોવો જરૂરી છે[cite: 7]."
+    "explanation": "કતાર અનંત ન બને તે માટે આગમન દર સર્વિસ દર કરતાં ઓછો (λ < μ એટલે કે ρ < 1) હોવો જરૂરી છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 119,
@@ -1767,7 +1767,7 @@
       "Priority"
     ],
     "correctAnswer": 2,
-    "explanation": "પહેલા આવનારને પ્રથમ સેવા એટલે First-In First-Out (FIFO) અથવા First-Come First-Served (FCFS)[cite: 7]."
+    "explanation": "પહેલા આવનારને પ્રથમ સેવા એટલે First-In First-Out (FIFO) અથવા First-Come First-Served (FCFS)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 120,
@@ -1782,7 +1782,7 @@
       "ઓર્ડર ક્યારે આપવો અને આઈટમનો કેટલો ઓર્ડર આપવો"
     ],
     "correctAnswer": 3,
-    "explanation": "ઇન્વેન્ટરી કંટ્રોલ મુખ્ય બે બાબતો નક્કી કરે છે: ક્યારે ઓર્ડર કરવો (ROP) અને કેટલો ઓર્ડર કરવો (EOQ)[cite: 7]."
+    "explanation": "ઇન્વેન્ટરી કંટ્રોલ મુખ્ય બે બાબતો નક્કી કરે છે: ક્યારે ઓર્ડર કરવો (ROP) અને કેટલો ઓર્ડર કરવો (EOQ)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 121,
@@ -1797,7 +1797,7 @@
       "Waiting"
     ],
     "correctAnswer": 1,
-    "explanation": "લાઈન જોઈને દાખલ થયા વગર જ જતા રહેવાના વર્તનને બાલ્કિંગ (Balking) કહે છે[cite: 7]."
+    "explanation": "લાઈન જોઈને દાખલ થયા વગર જ જતા રહેવાના વર્તનને બાલ્કિંગ (Balking) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 122,
@@ -1812,7 +1812,7 @@
       "Collusion"
     ],
     "correctAnswer": 1,
-    "explanation": "લાઈનમાં ઊભા રહ્યા પછી કંટાળીને અધવચ્ચેથી જતા રહેવાને રિનેગિંગ (Reneging) કહેવાય છે[cite: 7]."
+    "explanation": "લાઈનમાં ઊભા રહ્યા પછી કંટાળીને અધવચ્ચેથી જતા રહેવાને રિનેગિંગ (Reneging) કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 123,
@@ -1827,7 +1827,7 @@
       "અંશ (numerator) તરીકે ઘણા ફેક્ટર્સનો ઉપયોગ કરી શકે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "જ્યારે આઉટપુટ અને ઇનપુટ બંને નાણાકીય મૂલ્યમાં મપાય ત્યારે ઉત્પાદકતા પરિમાણરહિત બને છે[cite: 7]."
+    "explanation": "જ્યારે આઉટપુટ અને ઇનપુટ બંને નાણાકીય મૂલ્યમાં મપાય ત્યારે ઉત્પાદકતા પરિમાણરહિત બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 124,
@@ -1842,7 +1842,7 @@
       "Skipping"
     ],
     "correctAnswer": 2,
-    "explanation": "એક લાઇનમાંથી બીજી ઝડપી લાઇનમાં સ્વિચ કરવાના વર્તનને જોકીઇંગ (Jockeying) કહે છે[cite: 7]."
+    "explanation": "એક લાઇનમાંથી બીજી ઝડપી લાઇનમાં સ્વિચ કરવાના વર્તનને જોકીઇંગ (Jockeying) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 125,
@@ -1857,7 +1857,7 @@
       "1 / ρ"
     ],
     "correctAnswer": 2,
-    "explanation": "સિસ્ટમ આઇડલ (ખાલી) હોવાની સંભાવના P0 = 1 - ρ (જ્યાં ρ = λ/μ) થાય છે[cite: 7]."
+    "explanation": "સિસ્ટમ આઇડલ (ખાલી) હોવાની સંભાવના P0 = 1 - ρ (જ્યાં ρ = λ/μ) થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 126,
@@ -1872,7 +1872,7 @@
       "મિડિયમ રેન્જ પ્રોડક્શન પ્લાન્સ"
     ],
     "correctAnswer": 3,
-    "explanation": "એગ્રીગેટ પ્લાનિંગ સામાન્ય રીતે 3 થી 18 મહિનાના મધ્યમ ગાળાના (Medium range) પ્લાનિંગ માટે વપરાય છે[cite: 7]."
+    "explanation": "એગ્રીગેટ પ્લાનિંગ સામાન્ય રીતે 3 થી 18 મહિનાના મધ્યમ ગાળાના (Medium range) પ્લાનિંગ માટે વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 127,
@@ -1887,7 +1887,7 @@
       "μ / λ"
     ],
     "correctAnswer": 0,
-    "explanation": "સિસ્ટમમાં રહેલા સરેરાશ ગ્રાહકોની સંખ્યા Ls = ρ / (1 - ρ) અથવા λ / (μ - λ) થાય[cite: 7]."
+    "explanation": "સિસ્ટમમાં રહેલા સરેરાશ ગ્રાહકોની સંખ્યા Ls = ρ / (1 - ρ) અથવા λ / (μ - λ) થાય[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 128,
@@ -1902,7 +1902,7 @@
       "λ / (μ - λ)"
     ],
     "correctAnswer": 1,
-    "explanation": "કતારમાં રહેલા સરેરાશ ગ્રાહકો Lq = ρ² / (1 - ρ) અથવા λ² / [μ(μ - λ)] થાય[cite: 7]."
+    "explanation": "કતારમાં રહેલા સરેરાશ ગ્રાહકો Lq = ρ² / (1 - ρ) અથવા λ² / [μ(μ - λ)] થાય[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 129,
@@ -1917,7 +1917,7 @@
       "તમામ રાઈટ હેન્ડ સાઇડ્સ શૂન્ય બની જાય"
     ],
     "correctAnswer": 0,
-    "explanation": "જ્યારે કી કોલમના તમામ ઘટકો ઋણ કે શૂન્ય હોય અને રેશિયો નેગેટિવ/અવ્યાખ્યાયિત બને ત્યારે અનબાઉન્ડેડ ઉકેલ મળે છે[cite: 7]."
+    "explanation": "જ્યારે કી કોલમના તમામ ઘટકો ઋણ કે શૂન્ય હોય અને રેશિયો નેગેટિવ/અવ્યાખ્યાયિત બને ત્યારે અનબાઉન્ડેડ ઉકેલ મળે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 130,
@@ -1932,7 +1932,7 @@
       "L = λ - W"
     ],
     "correctAnswer": 2,
-    "explanation": "લિટલનો નિયમ L = λ · W (અથવા Lq = λ · Wq) નો સંબંધ આપે છે[cite: 7]."
+    "explanation": "લિટલનો નિયમ L = λ · W (અથવા Lq = λ · Wq) નો સંબંધ આપે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 131,
@@ -1947,7 +1947,7 @@
       "1 / λ"
     ],
     "correctAnswer": 0,
-    "explanation": "સિસ્ટમમાં વિતાવેલો કુલ સરેરાશ સમય Ws = 1 / (μ - λ) થાય છે[cite: 7]."
+    "explanation": "સિસ્ટમમાં વિતાવેલો કુલ સરેરાશ સમય Ws = 1 / (μ - λ) થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 132,
@@ -1962,7 +1962,7 @@
       "1 - ρ"
     ],
     "correctAnswer": 1,
-    "explanation": "કતારમાં વેઇટિંગ ટાઇમ Wq = λ / [μ(μ - λ)] થાય છે[cite: 7]."
+    "explanation": "કતારમાં વેઇટિંગ ટાઇમ Wq = λ / [μ(μ - λ)] થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 133,
@@ -1977,7 +1977,7 @@
       "આપેલ વિકલ્પોમાંથી એક પણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "જે ચલોનું મૂલ્ય શૂન્ય સિવાયનું હોય અને બેઝિસમાં હોય તેને બેઝિક વેરિયેબલ્સ (Basic variables) કહે છે[cite: 7]."
+    "explanation": "જે ચલોનું મૂલ્ય શૂન્ય સિવાયનું હોય અને બેઝિસમાં હોય તેને બેઝિક વેરિયેબલ્સ (Basic variables) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 134,
@@ -1992,7 +1992,7 @@
       "કોલિંગ પોપ્યુલેશન"
     ],
     "correctAnswer": 1,
-    "explanation": "'c' એ સમાંતર કામ કરતા સર્વિસ ચેનલો અથવા સર્વર્સની સંખ્યા (Multiple servers) દર્શાવે છે[cite: 7]."
+    "explanation": "'c' એ સમાંતર કામ કરતા સર્વિસ ચેનલો અથવા સર્વર્સની સંખ્યા (Multiple servers) દર્શાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 135,
@@ -2007,7 +2007,7 @@
       "Project Engineering and Research Technique"
     ],
     "correctAnswer": 0,
-    "explanation": "PERT એટલે Program Evaluation and Review Technique[cite: 7]."
+    "explanation": "PERT એટલે Program Evaluation and Review Technique[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 136,
@@ -2022,7 +2022,7 @@
       "ફિઝિબલ રીજિયનના માત્ર ઇન્ટિરિયર પોઇન્ટ્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "ગ્રાફિકલ મેથડમાં ઓપ્ટિમલ પોઈન્ટ શોધવા ફિઝિબલ રીજિયનના કોર્નર પોઇન્ટ્સનું મૂલ્યાંકન કરાય છે[cite: 7]."
+    "explanation": "ગ્રાફિકલ મેથડમાં ઓપ્ટિમલ પોઈન્ટ શોધવા ફિઝિબલ રીજિયનના કોર્નર પોઇન્ટ્સનું મૂલ્યાંકન કરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 137,
@@ -2037,7 +2037,7 @@
       "Common Program Method"
     ],
     "correctAnswer": 1,
-    "explanation": "CPM નું પૂરું નામ Critical Path Method છે[cite: 7]."
+    "explanation": "CPM નું પૂરું નામ Critical Path Method છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 138,
@@ -2052,7 +2052,7 @@
       "સ્ટેટિક"
     ],
     "correctAnswer": 1,
-    "explanation": "સંશોધન પ્રોજેક્ટ્સ માટે અનિશ્ચિત સમય હોવાથી PERT એ સંભાવના આધારિત (Probabilistic) મોડેલ છે[cite: 7]."
+    "explanation": "સંશોધન પ્રોજેક્ટ્સ માટે અનિશ્ચિત સમય હોવાથી PERT એ સંભાવના આધારિત (Probabilistic) મોડેલ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 139,
@@ -2067,7 +2067,7 @@
       "ડેમ્પિંગ કેરેક્ટરિસ્ટિક્સ"
     ],
     "correctAnswer": 3,
-    "explanation": "કાસ્ટ આયર્નમાં વાઇબ્રેશન શોષવાની ક્ષમતા (Damping capacity) ખૂબ જ ઊંચી હોય છે[cite: 7]."
+    "explanation": "કાસ્ટ આયર્નમાં વાઇબ્રેશન શોષવાની ક્ષમતા (Damping capacity) ખૂબ જ ઊંચી હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 140,
@@ -2082,7 +2082,7 @@
       "સ્ટોકેસ્ટિક"
     ],
     "correctAnswer": 1,
-    "explanation": "બાંધકામ અને પુનરાવર્તિત પ્રોજેક્ટ્સમાં પ્રવૃત્તિનો સમય જ્ઞાત હોવાથી CPM એ ડિટરમિનિસ્ટિક (નિશ્ચિત) મોડેલ છે[cite: 7]."
+    "explanation": "બાંધકામ અને પુનરાવર્તિત પ્રોજેક્ટ્સમાં પ્રવૃત્તિનો સમય જ્ઞાત હોવાથી CPM એ ડિટરમિનિસ્ટિક (નિશ્ચિત) મોડેલ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 141,
@@ -2097,7 +2097,7 @@
       "4"
     ],
     "correctAnswer": 2,
-    "explanation": "PERT માં 3 સમય અંદાજ લેવાય છે: Optimistic (to), Most likely (tm), અને Pessimistic (tp)[cite: 7]."
+    "explanation": "PERT માં 3 સમય અંદાજ લેવાય છે: Optimistic (to), Most likely (tm), અને Pessimistic (tp)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 142,
@@ -2112,7 +2112,7 @@
       "આપેલ વિકલ્પોમાંથી એક પણ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "જ્યારે કુલ સપ્લાય અને કુલ ડિમાન્ડ સમાન હોય (ભલે m ≠ n હોય) ત્યારે તે બેલેન્સ્ડ કહેવાય છે[cite: 7]."
+    "explanation": "જ્યારે કુલ સપ્લાય અને કુલ ડિમાન્ડ સમાન હોય (ભલે m ≠ n હોય) ત્યારે તે બેલેન્સ્ડ કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 143,
@@ -2127,7 +2127,7 @@
       "te = (to + tm + 4tp) / 6"
     ],
     "correctAnswer": 2,
-    "explanation": "બીટા વિતરણ મુજબ અપેક્ષિત સમય te = (to + 4tm + tp) / 6 થાય છે[cite: 7]."
+    "explanation": "બીટા વિતરણ મુજબ અપેક્ષિત સમય te = (to + 4tm + tp) / 6 થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 144,
@@ -2142,7 +2142,7 @@
       "[(tp - to) / 3.5]²"
     ],
     "correctAnswer": 0,
-    "explanation": "વેરિયન્સ σ² = [(tp - to) / 6]² થાય છે[cite: 7]."
+    "explanation": "વેરિયન્સ σ² = [(tp - to) / 6]² થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 145,
@@ -2157,7 +2157,7 @@
       "m × n"
     ],
     "correctAnswer": 2,
-    "explanation": "નોન-ડીજનરેટ બેઝિક ફિઝિબલ ઉકેલમાં બેઝિક વેરિયેબલ્સની સંખ્યા m + n - 1 હોય છે[cite: 7]."
+    "explanation": "નોન-ડીજનરેટ બેઝિક ફિઝિબલ ઉકેલમાં બેઝિક વેરિયેબલ્સની સંખ્યા m + n - 1 હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 146,
@@ -2172,7 +2172,7 @@
       "પ્રિડિસેસર એક્ટિવિટી"
     ],
     "correctAnswer": 1,
-    "explanation": "ડમી એક્ટિવિટી (Dummy activity) શૂન્ય સમય અને શૂન્ય સંસાધન વાપરી માત્ર તાર્કિક સંબંધ દર્શાવે છે[cite: 7]."
+    "explanation": "ડમી એક્ટિવિટી (Dummy activity) શૂન્ય સમય અને શૂન્ય સંસાધન વાપરી માત્ર તાર્કિક સંબંધ દર્શાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 147,
@@ -2187,7 +2187,7 @@
       "સૌથી ઓછો ખર્ચ વાળો પાથ"
     ],
     "correctAnswer": 1,
-    "explanation": "ક્રિટિકલ પાથ એ પ્રોજેક્ટ નેટવર્કનો સમયગાળાની દ્રષ્ટિએ સૌથી લાંબો પાથ છે[cite: 7]."
+    "explanation": "ક્રિટિકલ પાથ એ પ્રોજેક્ટ નેટવર્કનો સમયગાળાની દ્રષ્ટિએ સૌથી લાંબો પાથ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 148,
@@ -2202,7 +2202,7 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 3,
-    "explanation": "ડીજનરેસીનો અર્થ એ છે કે સ્વતંત્ર ફાળવણીઓની સંખ્યા m + n - 1 કરતાં ઓછી થઈ જાય છે[cite: 7]."
+    "explanation": "ડીજનરેસીનો અર્થ એ છે કે સ્વતંત્ર ફાળવણીઓની સંખ્યા m + n - 1 કરતાં ઓછી થઈ જાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 149,
@@ -2217,7 +2217,7 @@
       "ઋણ"
     ],
     "correctAnswer": 2,
-    "explanation": "ક્રિટિકલ એક્ટિવિટીમાં વિલંબ સહન ન થઈ શકતો હોવાથી તેનો ટોટલ ફ્લોટ શૂન્ય (0) હોય છે[cite: 7]."
+    "explanation": "ક્રિટિકલ એક્ટિવિટીમાં વિલંબ સહન ન થઈ શકતો હોવાથી તેનો ટોટલ ફ્લોટ શૂન્ય (0) હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 150,
@@ -2232,7 +2232,7 @@
       "ઇન્ટરફિયરિંગ ફ્લોટ"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્રોજેક્ટ પૂરો થવાના સમયને અસર કર્યા વિના મળતી કુલ છૂટછાટને ટોટલ ફ્લોટ (Total Float) કહેવાય છે[cite: 7]."
+    "explanation": "પ્રોજેક્ટ પૂરો થવાના સમયને અસર કર્યા વિના મળતી કુલ છૂટછાટને ટોટલ ફ્લોટ (Total Float) કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 151,
@@ -2247,7 +2247,7 @@
       "આપેલ વિકલ્પોમાંથી એક પણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "એસાઇન્મેન્ટ સમસ્યા એ ચોરસ મેટ્રિક્સ ધરાવતી ટ્રાન્સપોર્ટેશન સમસ્યા છે જેમાં સ્રોતો (Origins) અને ગંતવ્યો (Destinations) ની સંખ્યા સમાન હોય છે[cite: 4]."
+    "explanation": "એસાઇન્મેન્ટ સમસ્યા એ ચોરસ મેટ્રિક્સ ધરાવતી ટ્રાન્સપોર્ટેશન સમસ્યા છે જેમાં સ્રોતો (Origins) અને ગંતવ્યો (Destinations) ની સંખ્યા સમાન હોય છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 152,
@@ -2262,7 +2262,7 @@
       "ઇવેન્ટ સ્લેક"
     ],
     "correctAnswer": 1,
-    "explanation": "પછીની પ્રવૃત્તિઓના Earliest Start Time ને અસર કર્યા વિના મળતી છૂટછાટને ફ્રી ફ્લોટ (Free Float) કહેવાય છે[cite: 4]."
+    "explanation": "પછીની પ્રવૃત્તિઓના Earliest Start Time ને અસર કર્યા વિના મળતી છૂટછાટને ફ્રી ફ્લોટ (Free Float) કહેવાય છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 153,
@@ -2277,7 +2277,7 @@
       "ઈવેન્ટ સ્લેક - ફ્રી ફ્લોટ"
     ],
     "correctAnswer": 0,
-    "explanation": "ઇન્ટરફિયરિંગ ફ્લોટ એ ટોટલ ફ્લોટ અને ફ્રી ફ્લોટ વચ્ચેનો તફાવત (Total Float - Free Float) છે, જે હેડ ઇવેન્ટ સ્લેક બરાબર થાય છે[cite: 4]."
+    "explanation": "ઇન્ટરફિયરિંગ ફ્લોટ એ ટોટલ ફ્લોટ અને ફ્રી ફ્લોટ વચ્ચેનો તફાવત (Total Float - Free Float) છે, જે હેડ ઇવેન્ટ સ્લેક બરાબર થાય છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 154,
@@ -2292,14 +2292,14 @@
       "ટોટલ ફ્લોટ - હેડ ઇવેન્ટ સ્લેક"
     ],
     "correctAnswer": 0,
-    "explanation": "ઇન્ડિપેન્ડન્ટ ફ્લોટ = ફ્રી ફ્લોટ - ટેલ ઇવેન્ટ સ્લેક (Free Float - Tail Event Slack) સૂત્ર વડે મળે છે[cite: 4]."
+    "explanation": "ઇન્ડિપેન્ડન્ટ ફ્લોટ = ફ્રી ફ્લોટ - ટેલ ઇવેન્ટ સ્લેક (Free Float - Tail Event Slack) સૂત્ર વડે મળે છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 155,
     "subject": "Operations Research",
     "subTopic": "Decision-Making Tools",
     "question": "The property of a material to resist fracture due to high impact load is called:",
-    "gujaratiQuestion": "0155. મટિરિયલનો એવો ગુણધર્મ કે જે હાઇ ઇમ્પેક્ટ લોડને કારણે થતા ફ્રેક્ચરનો પ્રતિકાર કરે છે, તેને શું કહેવાય છે?",
+    "gujaratiQuestion": "0155. મટિરિયલનો એવો પ્રોપર્ટી કે જે હાઇ ઇમ્પેક્ટ લોડને કારણે થતા ફ્રેક્ચરનો પ્રતિકાર કરે છે, તેને શું કહેવાય છે?",
     "options": [
       "ઈલાસ્ટિસિટી",
       "એન્ડ્યોરન્સ",
@@ -2307,14 +2307,14 @@
       "ટફનેસ"
     ],
     "correctAnswer": 3,
-    "explanation": "આંચકાજનક અથવા ઇમ્પેક્ટ લોડ સામે તૂટ્યા વગર ઊર્જા શોષવાની ક્ષમતાને ટફનેસ (Toughness) કહે છે[cite: 4]."
+    "explanation": "આંચકાજનક અથવા ઇમ્પેક્ટ લોડ સામે તૂટ્યા વગર ઊર્જા શોષવાની ક્ષમતાને ટફનેસ (Toughness) કહે છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 156,
     "subject": "Operations Research",
     "subTopic": "CPM",
     "question": "In CPM, the process of reducing activity duration by spending additional direct cost is called:",
-    "gujaratiQuestion": "Q156. CPM માં પ્રોજેક્ટનો સમય ઘટાડવા માટે વધારાનો ખર્ચ કરીને ઍક્ટિવિટીનો સમય ઓછો કરવાની પ્રક્રિયાને શું કહેવાય છે?",
+    "gujaratiQuestion": "Q156. CPM માં પ્રોજેક્ટનો સમય ઘટાડવા માટે વધારાનો ખર્ચ કરીને ઍક્ટિવિટીનો સમય ઓછો કરવાની પ્રોસેસને શું કહેવાય છે?",
     "options": [
       "ફ્લોટિંગ",
       "સ્લેકનિંગ",
@@ -2322,7 +2322,7 @@
       "સ્કૂલિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "વધારાના સંસાધનો કે ખર્ચ ફાળવીને પ્રવૃત્તિનો સમયગાળો ઘટાડવાની તકનીકને ક્રેશિંગ (Crashing) કહે છે[cite: 4]."
+    "explanation": "વધારાના સંસાધનો કે ખર્ચ ફાળવીને પ્રવૃત્તિનો સમયગાળો ઘટાડવાની તકનીકને ક્રેશિંગ (Crashing) કહે છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 157,
@@ -2337,7 +2337,7 @@
       "(ક્રેશ ટાઈમ - નોર્મલ ટાઈમ) / (ક્રેશ કોસ્ટ - નોર્મલ કોસ્ટ)"
     ],
     "correctAnswer": 0,
-    "explanation": "કોસ્ટ સ્લોપ = (Crash Cost - Normal Cost) / (Normal Time - Crash Time)[cite: 4]."
+    "explanation": "કોસ્ટ સ્લોપ = (Crash Cost - Normal Cost) / (Normal Time - Crash Time)[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 158,
@@ -2352,7 +2352,7 @@
       "આપેલ વિકલ્પોમાંથી એક પણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "એસાઇન્મેન્ટ સમસ્યાને ઉકેલવા માટે હંગેરિયન મેથડ (Hungarian Method) અથવા ફ્લડ ટેકનિક વપરાય છે[cite: 4]."
+    "explanation": "એસાઇન્મેન્ટ સમસ્યાને ઉકેલવા માટે હંગેરિયન મેથડ (Hungarian Method) અથવા ફ્લડ ટેકનિક વપરાય છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 159,
@@ -2367,7 +2367,7 @@
       "સૌથી લાંબો સમય લેતી એક્ટિવિટી"
     ],
     "correctAnswer": 2,
-    "explanation": "ખર્ચમાં ન્યૂનતમ વધારો કરવા માટે ક્રિટિકલ પાથ પર રહેલી લઘુત્તમ કોસ્ટ સ્લોપવાળી એક્ટિવિટી સૌથી પહેલાં ક્રેશ કરાય છે[cite: 4]."
+    "explanation": "ખર્ચમાં ન્યૂનતમ વધારો કરવા માટે ક્રિટિકલ પાથ પર રહેલી લઘુત્તમ કોસ્ટ સ્લોપવાળી એક્ટિવિટી સૌથી પહેલાં ક્રેશ કરાય છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 160,
@@ -2382,7 +2382,7 @@
       "એક્સપોનેન્શિયલ ડિસ્ટ્રિબ્યુશન"
     ],
     "correctAnswer": 2,
-    "explanation": "સેન્ટ્રલ લિમિટ થિયરમ (CLT) મુજબ સમગ્ર પ્રોજેક્ટ પૂર્ણ થવાનો કુલ સમય નોર્મલ ડિસ્ટ્રિબ્યુશન (Normal distribution) અનુસરે છે[cite: 4]."
+    "explanation": "સેન્ટ્રલ લિમિટ થિયરમ (CLT) મુજબ સમગ્ર પ્રોજેક્ટ પૂર્ણ થવાનો કુલ સમય નોર્મલ ડિસ્ટ્રિબ્યુશન (Normal distribution) અનુસરે છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 161,
@@ -2397,7 +2397,7 @@
       "n"
     ],
     "correctAnswer": 1,
-    "explanation": "n × n મેટ્રિક્સમાં દરેક સેલ દીઠ એક બાઈનરી વેરિયેબલ x_ij હોવાથી કુલ ડિસિઝન વેરિયેબલ્સની સંખ્યા n² થાય છે[cite: 4]."
+    "explanation": "n × n મેટ્રિક્સમાં દરેક સેલ દીઠ એક બાઈનરી વેરિયેબલ x_ij હોવાથી કુલ ડિસિઝન વેરિયેબલ્સની સંખ્યા n² થાય છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 162,
@@ -2412,7 +2412,7 @@
       "યુનિફોર્મ ડિસ્ટ્રિબ્યુશન"
     ],
     "correctAnswer": 1,
-    "explanation": "PERT માં વ્યક્તિગત પ્રવૃત્તિનો સમયગાળો બીટા વિતરણ (Beta distribution) વક્રને અનુસરે છે[cite: 4]."
+    "explanation": "PERT માં વ્યક્તિગત પ્રવૃત્તિનો સમયગાળો બીટા વિતરણ (Beta distribution) વક્રને અનુસરે છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 163,
@@ -2427,7 +2427,7 @@
       "Latest Finish Time (LFT)"
     ],
     "correctAnswer": 1,
-    "explanation": "અગાઉની તમામ પ્રવૃત્તિઓ વહેલી પૂર્ણ થતાં જે વહેલામાં વહેલી શરૂઆત શક્ય બને તેને Earliest Start Time (EST) કહે છે[cite: 4]."
+    "explanation": "અગાઉની તમામ પ્રવૃત્તિઓ વહેલી પૂર્ણ થતાં જે વહેલામાં વહેલી શરૂઆત શક્ય બને તેને Earliest Start Time (EST) કહે છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 164,
@@ -2442,7 +2442,7 @@
       "કાર્બ્યુરેટર"
     ],
     "correctAnswer": 3,
-    "explanation": "પેટ્રોલ (SI) એન્જિનમાં હવા અને બળતણનું યોગ્ય પ્રમાણમાં મિશ્રણ પૂરું પાડવાનું કાર્ય કાર્બ્યુરેટર (Carburetor) કરે છે[cite: 4]."
+    "explanation": "પેટ્રોલ (SI) એન્જિનમાં હવા અને બળતણનું યોગ્ય પ્રમાણમાં મિશ્રણ પૂરું પાડવાનું વર્ક કાર્બ્યુરેટર (Carburetor) કરે છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 165,
@@ -2457,7 +2457,7 @@
       "પ્રોજેક્ટ વહેલો પૂરો થવો"
     ],
     "correctAnswer": 0,
-    "explanation": "જ્યારે કોઈ પ્રવૃત્તિ પ્રોજેક્ટના અંતિમ નોડ સાથે જોડાયા વગર અધવચ્ચે જ લટકતી (અસંપૂર્ણ) રહી જાય તેને ડૅંગલિંગ (Dangling) એરર કહે છે[cite: 4]."
+    "explanation": "જ્યારે કોઈ પ્રવૃત્તિ પ્રોજેક્ટના અંતિમ નોડ સાથે જોડાયા વગર અધવચ્ચે જ લટકતી (અસંપૂર્ણ) રહી જાય તેને ડૅંગલિંગ (Dangling) એરર કહે છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 166,
@@ -2472,7 +2472,7 @@
       "સમય બચાવનાર"
     ],
     "correctAnswer": 1,
-    "explanation": "નેટવર્કમાં લૂપ અથવા સાયકલ બનવાથી પ્રક્રિયા અનંત બની જાય છે, જે નેટવર્ક રૂલ્સ મુજબ અમાન્ય ત્રુટિ (Error) ગણાય છે[cite: 4]."
+    "explanation": "નેટવર્કમાં લૂપ અથવા સાયકલ બનવાથી પ્રોસેસ અનંત બની જાય છે, જે નેટવર્ક રૂલ્સ મુજબ અમાન્ય ત્રુટિ (Error) ગણાય છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 167,
@@ -2487,7 +2487,7 @@
       "એક્સપોનેન્શિયલ"
     ],
     "correctAnswer": 2,
-    "explanation": "PERT મોડેલમાં પ્રત્યેક પ્રવૃત્તિનો સમય બીટા ડિસ્ટ્રિબ્યુશન (Beta distribution) અનુસરે છે[cite: 4]."
+    "explanation": "PERT મોડેલમાં પ્રત્યેક પ્રવૃત્તિનો સમય બીટા ડિસ્ટ્રિબ્યુશન (Beta distribution) અનુસરે છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 168,
@@ -2502,7 +2502,7 @@
       "VAM"
     ],
     "correctAnswer": 1,
-    "explanation": "CPM પદ્ધતિમાં સમય ઘટાડવા અને ખર્ચ વચ્ચેના સંબંધ (Time-Cost Trade-Off / Crashing) પર પ્રાથમિક ધ્યાન અપાય છે[cite: 4]."
+    "explanation": "CPM પદ્ધતિમાં સમય ઘટાડવા અને ખર્ચ વચ્ચેના સંબંધ (Time-Cost Trade-Off / Crashing) પર પ્રાથમિક ધ્યાન અપાય છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 169,
@@ -2517,7 +2517,7 @@
       "રિસોર્સ-ઓરિએન્ટેડ"
     ],
     "correctAnswer": 1,
-    "explanation": "PERT પદ્ધતિ ચોક્કસ ઘટનાઓ કે માઇલસ્ટોન પર આધારિત હોવાથી તે ઇવેન્ટ-ઓરિએન્ટેડ (Event-oriented) નેટવર્ક છે[cite: 4]."
+    "explanation": "PERT પદ્ધતિ ચોક્કસ ઘટનાઓ કે માઇલસ્ટોન પર આધારિત હોવાથી તે ઇવેન્ટ-ઓરિએન્ટેડ (Event-oriented) નેટવર્ક છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 170,
@@ -2532,7 +2532,7 @@
       "ક્રેશિંગ પ્લાનને સરળ બનાવવા માટે"
     ],
     "correctAnswer": 2,
-    "explanation": "ડમી એક્ટિવિટી કોઈપણ સમય કે સંસાધન લીધા વિના માત્ર પ્રવૃત્તિઓ વચ્ચેનો તાર્કિક પૂર્વાધિકાર સંબંધ દર્શાવવા વપરાય છે[cite: 4]."
+    "explanation": "ડમી એક્ટિવિટી કોઈપણ સમય કે સંસાધન લીધા વિના માત્ર પ્રવૃત્તિઓ વચ્ચેનો તાર્કિક પૂર્વાધિકાર સંબંધ દર્શાવવા વપરાય છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 171,
@@ -2547,7 +2547,7 @@
       "ટાઈમ-ઓરિએન્ટેડ"
     ],
     "correctAnswer": 2,
-    "explanation": "CPM (Critical Path Method) એ ચોક્કસ કાર્યો અને પ્રવૃત્તિઓ પર કેન્દ્રિત હોવાથી એક્ટિવિટી-ઓરિએન્ટેડ (Activity-oriented) છે[cite: 4]."
+    "explanation": "CPM (Critical Path Method) એ ચોક્કસ વર્કો અને પ્રવૃત્તિઓ પર કેન્દ્રિત હોવાથી એક્ટિવિટી-ઓરિએન્ટેડ (Activity-oriented) છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 172,
@@ -2562,7 +2562,7 @@
       "8 દિવસ"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected time te = (to + 4tm + tp) / 6 = (2 + 4×5 + 14) / 6 = (2 + 20 + 14) / 6 = 36 / 6 = 6 દિવસ[cite: 4]."
+    "explanation": "Expected time te = (to + 4tm + tp) / 6 = (2 + 4×5 + 14) / 6 = (2 + 20 + 14) / 6 = 36 / 6 = 6 દિવસ[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 173,
@@ -2577,7 +2577,7 @@
       "આપેલ વિકલ્પોમાંથી એક પણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "CPM માં પ્રવૃત્તિઓનો સમયગાળો અગાઉથી નિશ્ચિત જ્ઞાત હોવાથી તે ડિટરમિનિસ્ટિક (Deterministic) સ્વરૂપની પદ્ધતિ છે[cite: 4]."
+    "explanation": "CPM માં પ્રવૃત્તિઓનો સમયગાળો અગાઉથી નિશ્ચિત જ્ઞાત હોવાથી તે ડિટરમિનિસ્ટિક (Deterministic) સ્વરૂપની પદ્ધતિ છે[cite: 4]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "subject": "Operations Research",
@@ -2591,7 +2591,7 @@
       "Only integer variables"
     ],
     "correctAnswer": 0,
-    "explanation": "Expected MCQ: The feasible region contains points satisfying all constraints.",
+    "explanation": "Expected MCQ: The feasible region contains points satisfying all constraints. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]",
     "id": 174
   },
   {
@@ -2606,7 +2606,7 @@
       "Increase variables indefinitely"
     ],
     "correctAnswer": 0,
-    "explanation": "Expected MCQ: Simplex iteratively improves the objective until optimality conditions are met.",
+    "explanation": "Expected MCQ: Simplex iteratively improves the objective until optimality conditions are met. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]",
     "id": 175
   },
   {
@@ -2621,7 +2621,7 @@
       "Always zero"
     ],
     "correctAnswer": 2,
-    "explanation": "Expected MCQ: Balanced means total supply equals total demand.",
+    "explanation": "Expected MCQ: Balanced means total supply equals total demand. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]",
     "id": 176
   },
   {
@@ -2636,7 +2636,7 @@
       "No precedence"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Critical activities have zero total float.",
+    "explanation": "Expected MCQ: Critical activities have zero total float. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]",
     "id": 177
   },
   {
@@ -2651,7 +2651,7 @@
       "Independent of project"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: PERT uses probabilistic time estimates for uncertain activities.",
+    "explanation": "Expected MCQ: PERT uses probabilistic time estimates for uncertain activities. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]",
     "id": 178
   },
   {
@@ -2667,7 +2667,7 @@
       "only machine painting"
     ],
     "correctAnswer": 0,
-    "explanation": "PPC ensures resources and production activities are planned and controlled to meet demand."
+    "explanation": "PPC ensures resources and production activities are planned and controlled to meet demand. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 180,
@@ -2682,7 +2682,7 @@
       "stress concentration calculation"
     ],
     "correctAnswer": 0,
-    "explanation": "Gantt charts display activities against time and help track planned versus actual progress."
+    "explanation": "Gantt charts display activities against time and help track planned versus actual progress. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 181,
@@ -2697,6 +2697,6 @@
       "product colour"
     ],
     "correctAnswer": 0,
-    "explanation": "Routing defines the path a job follows through machines or work centres."
+    "explanation": "Routing defines the path a job follows through machines or work centres. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   }
 ]

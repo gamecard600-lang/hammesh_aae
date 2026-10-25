@@ -1,0 +1,17 @@
+{
+  "contentVersion": 11,
+  "mcqVersion": 11,
+  "studyMaterialVersion": 11,
+  "formulaVersion": 11,
+  "quickRevisionVersion": 11,
+  "visualVersion": 11,
+  "studyMaterialUrl": "https://YOUR_HOST/master_study_material.json",
+  "questionUrls": {
+    "Thermodynamics": "https://YOUR_HOST/questions/thermodynamics.json",
+    "Fluid Mechanics": "https://YOUR_HOST/questions/fluid_mechanics.json"
+  },
+  "sha256": {
+    "master_study_material.json": "OPTIONAL_SHA256",
+    "questions/thermodynamics.json": "OPTIONAL_SHA256"
+  }
+}

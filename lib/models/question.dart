@@ -24,13 +24,10 @@ class Question {
   });
 
   factory Question.fromJson(Map<String, dynamic> json) {
-    final List<int> correctAnswers = json['correctAnswers'] is List
-        ? (json['correctAnswers'] as List)
-            .map<int>((e) => (e as num?)?.toInt() ?? 0)
-            .toList()
-        : [
-            (json['correctAnswer'] as num?)?.toInt() ?? 0
-          ];
+    final raw = json['correctAnswers'];
+    final List<int> correctAnswers = raw is List ? raw.whereType<num>().map((e) => e.toInt()).toList() : <int>[];
+    final fallback = json['correctAnswer'] is num ? (json['correctAnswer'] as num).toInt() : null;
+    if (correctAnswers.isEmpty && fallback != null) correctAnswers.add(fallback);
 
     final bool isMSQ = json['isMSQ'] as bool? ?? correctAnswers.length > 1;
 
@@ -68,15 +65,32 @@ class Question {
     };
   }
 
-  /// Identifies if a question is a Previous Year Question (PYQ) or High Difficulty / Conceptual
-  bool get isHardOrPYQ {
+  /// Identifies if a question is explicitly a Previous Year Question (PYQ)
+  bool get isPYQ {
     final text = '$question $gujaratiQuestion $explanation $subTopic'.toLowerCase();
-    final bool hasPyqCite = explanation.contains('[cite:') ||
+    return explanation.contains('[cite:') ||
         text.contains('pyq') ||
         text.contains('gsssb') ||
         text.contains('gpsc') ||
-        text.contains('gate') ||
         text.contains('ssc') ||
+        text.contains('gate') ||
+        text.contains('p.y.q') ||
+        text.contains('previous year');
+  }
+
+  /// Identifies if a question is an Expected / High Probability question
+  bool get isExpected {
+    final text = '$question $gujaratiQuestion $explanation $subTopic'.toLowerCase();
+    return text.contains('expected') ||
+        text.contains('predicted') ||
+        text.contains('high yield') ||
+        text.contains('high probability');
+  }
+
+  /// Identifies if a question is a Previous Year Question (PYQ) or High Difficulty / Conceptual
+  bool get isHardOrPYQ {
+    final text = '$question $gujaratiQuestion $explanation $subTopic'.toLowerCase();
+    final bool hasPyqCite = isPYQ ||
         text.contains('exam');
 
     final bool isComplex = isMSQ ||

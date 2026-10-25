@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import '../../models/formula.dart';
 import '../../services/study_material_loader.dart';
+import '../../services/formula_pdf_service.dart';
 import 'formula_flashcard_screen.dart';
 
 class FormulaSheetScreen extends StatefulWidget {
@@ -34,9 +35,14 @@ class _FormulaSheetScreenState extends State<FormulaSheetScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Formula Sheet'),
+        title: const Text('Formula Sheet & PDF Export'),
         actions: [
-          if (formulas.isNotEmpty)
+          if (formulas.isNotEmpty) ...[
+            IconButton(
+              icon: const Icon(Icons.print_outlined),
+              tooltip: 'Export Printable PDF',
+              onPressed: () => FormulaPdfService.exportAndPrintFormulas(formulas),
+            ),
             IconButton(
               icon: const Icon(Icons.style),
               tooltip: 'Switch to Flashcards',
@@ -49,6 +55,7 @@ class _FormulaSheetScreenState extends State<FormulaSheetScreen> {
                 );
               },
             ),
+          ],
         ],
       ),
       body: isLoading

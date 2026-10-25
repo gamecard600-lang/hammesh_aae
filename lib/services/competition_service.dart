@@ -4,6 +4,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../models/competition.dart';
 import '../models/exam_result.dart';
 import 'competition_backend_service.dart';
+import 'online_auth_service.dart';
 
 class CompetitionService {
   static const String _myMemberIdKey = 'comp_my_member_id';
@@ -17,6 +18,13 @@ class CompetitionService {
     final prefs = await SharedPreferences.getInstance();
     String? id = prefs.getString(_myMemberIdKey);
     if (id == null || id.isEmpty) {
+      await OnlineAuthService.getIdToken();
+      final firebaseUid = await OnlineAuthService.getUid();
+      if (firebaseUid != null && firebaseUid.isNotEmpty) {
+        id = firebaseUid;
+        await prefs.setString(_myMemberIdKey, id);
+        return id;
+      }
       final random = Random();
       final time = DateTime.now().millisecondsSinceEpoch.toString();
       final randNum = random.nextInt(9000) + 1000;

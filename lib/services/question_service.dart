@@ -4,6 +4,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 import 'package:path_provider/path_provider.dart';
 import '../models/question.dart';
+import 'question_validator.dart';
 
 class QuestionService {
   static final Map<String, List<Question>> _cache = {};
@@ -58,10 +59,13 @@ class QuestionService {
         return [];
       }
 
-      final questions = decoded
-          .whereType<Map<String, dynamic>>()
-          .map((json) => Question.fromJson(json))
-          .toList();
+      final questions = <Question>[];
+      final seen = <int>{};
+      for (final raw in decoded) {
+        if (raw is! Map) continue;
+        final q = Question.fromJson(Map<String, dynamic>.from(raw));
+        if (QuestionValidator.isValid(q) && seen.add(q.id)) questions.add(q);
+      }
 
       _cache[subject] = questions;
       return questions;

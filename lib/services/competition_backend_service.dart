@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import '../models/competition.dart';
+import 'online_auth_service.dart';
 
 class CompetitionBackendService {
   // Default shared Firebase Realtime DB endpoint for synchronized leaderboards
@@ -18,10 +19,12 @@ class CompetitionBackendService {
 
   static String get baseUrl => _baseUrl;
 
+  static Future<Uri?> _authUri(String path) async { final token=await OnlineAuthService.getIdToken(); if(token==null||token.isEmpty)return null; return Uri.parse('$_baseUrl/$path.json?auth=${Uri.encodeQueryComponent(token)}'); }
+
   /// Registers or updates a member on the global leaderboard.
   static Future<bool> registerGlobalMember(CompetitionMember member) async {
     try {
-      final url = Uri.parse('$_baseUrl/global_leaderboard/members/${member.id}.json');
+      final url = (await _authUri('global_leaderboard/members/${member.id}')); if (url == null) return false;
       final body = jsonEncode(member.toJson());
       final response = await http
           .put(url, headers: {'Content-Type': 'application/json'}, body: body)
@@ -37,7 +40,7 @@ class CompetitionBackendService {
   /// Fetches all members registered on the global leaderboard.
   static Future<Map<String, CompetitionMember>> fetchGlobalMembers() async {
     try {
-      final url = Uri.parse('$_baseUrl/global_leaderboard/members.json');
+      final url = (await _authUri('global_leaderboard/members')); if (url == null) return {};
       final response = await http.get(url).timeout(const Duration(seconds: 8));
 
       if (response.statusCode == 200 && response.body != 'null' && response.body.isNotEmpty) {
@@ -63,7 +66,7 @@ class CompetitionBackendService {
   /// Submits a test result to the global leaderboard database.
   static Future<bool> submitGlobalResult(CompetitionResult result) async {
     try {
-      final url = Uri.parse('$_baseUrl/global_leaderboard/results/${result.id}.json');
+      final url = (await _authUri('global_leaderboard/results/${result.id}')); if (url == null) return false;
       final body = jsonEncode(result.toJson());
       final response = await http
           .put(url, headers: {'Content-Type': 'application/json'}, body: body)
@@ -79,7 +82,7 @@ class CompetitionBackendService {
   /// Fetches all test results from the global leaderboard database.
   static Future<List<CompetitionResult>> fetchGlobalResults() async {
     try {
-      final url = Uri.parse('$_baseUrl/global_leaderboard/results.json');
+      final url = (await _authUri('global_leaderboard/results')); if (url == null) return [];
       final response = await http.get(url).timeout(const Duration(seconds: 8));
 
       if (response.statusCode == 200 && response.body != 'null' && response.body.isNotEmpty) {

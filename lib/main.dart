@@ -4,10 +4,12 @@ import 'screens/bookmarks_screen.dart';
 import 'screens/mistakes_screen.dart';
 import 'screens/mock_test_setup_screen.dart';
 import 'screens/settings_screen.dart';
+import 'screens/progress_screen.dart';
 
 import 'screens/question_practice_screen.dart';
 import 'screens/result_screen.dart';
 import 'screens/study_material/study_material_subjects_screen.dart';
+import 'screens/engineering_calculator_screen.dart';
 import 'models/exam_history.dart';
 import 'models/exam_result.dart';
 import 'models/study_progress.dart';
@@ -124,7 +126,7 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
     WidgetsBinding.instance.addPostFrameCallback((_) {
       if (mounted) {
         ChatNotificationService.startNotificationListener(context);
-        AutoUpdateService.checkForUpdates(context: context);
+        AutoUpdateService.checkForUpdates();
       }
     });
   }
@@ -225,7 +227,7 @@ class _HomePageState extends State<HomePage> {
         LocalStorageService.loadMistakes(),
         LocalStorageService.loadTopicMistakes(),
         LocalStorageService.loadExamHistory(),
-        LocalStorageService.loadStudyProgress(),
+        LocalStorageService.loadCombinedStudyProgress(),
         DailyTaskService.getTodaySession(),
       ]);
 
@@ -383,6 +385,8 @@ class _HomePageState extends State<HomePage> {
           children: [
             _buildExamCountdownBanner(),
             const SizedBox(height: 16),
+            _buildDailyQuestionChallengeCard(),
+            const SizedBox(height: 16),
             const AiDashboardView(),
             const SizedBox(height: 16),
             _buildProgressCard(overallProgress),
@@ -436,58 +440,147 @@ class _HomePageState extends State<HomePage> {
     );
   }
 
-  Widget _buildProgressCard(double overallProgress) {
-    final percentageInt = (overallProgress * 100).toInt();
-
+  Widget _buildDailyQuestionChallengeCard() {
     return Card(
-      child: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+      elevation: 2,
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+      child: Container(
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(16),
+          gradient: LinearGradient(
+            colors: [Colors.orange.shade800, Colors.amber.shade700],
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+          ),
+        ),
+        padding: const EdgeInsets.all(16),
         child: Row(
           children: [
-            SizedBox(
-              width: 52,
-              height: 52,
-              child: Stack(
-                alignment: Alignment.center,
-                children: [
-                  SizedBox(
-                    width: 52,
-                    height: 52,
-                    child: CircularProgressIndicator(
-                      value: overallProgress,
-                      strokeWidth: 5,
-                      backgroundColor: Colors.blue.shade50,
-                      valueColor: const AlwaysStoppedAnimation<Color>(Color(0xFF2563EB)),
-                    ),
-                  ),
-                  Text(
-                    '$percentageInt%',
-                    style: const TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Color(0xFF2563EB)),
-                  ),
-                ],
+            Container(
+              padding: const EdgeInsets.all(10),
+              decoration: const BoxDecoration(
+                color: Colors.white24,
+                shape: BoxShape.circle,
               ),
+              child: const Icon(Icons.local_fire_department, color: Colors.white, size: 28),
             ),
-            const SizedBox(width: 16),
+            const SizedBox(width: 12),
             Expanded(
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  const Text('Your Progress', style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold)),
-                  const SizedBox(height: 4),
-                  Wrap(
-                    spacing: 8,
-                    runSpacing: 2,
-                    children: [
-                      Text('Solved: $_totalSolved', style: const TextStyle(fontSize: 11, color: Colors.grey)),
-                      Text('Correct: $_totalCorrect', style: const TextStyle(fontSize: 11, color: Colors.grey)),
-                      Text('Accuracy: ${_accuracy.toStringAsFixed(0)}%', style: const TextStyle(fontSize: 11, color: Colors.grey)),
-                      Text('Avg: ${_avgScore.toStringAsFixed(0)}%', style: const TextStyle(fontSize: 11, color: Colors.grey)),
-                    ],
+                  const Text(
+                    '🎯 Daily Challenge & Streak',
+                    style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 15),
+                  ),
+                  const SizedBox(height: 2),
+                  Text(
+                    '🔥 Keep your study streak active! Solve today\'s challenge.',
+                    style: TextStyle(color: Colors.white.withValues(alpha: 0.9), fontSize: 11.5),
                   ),
                 ],
               ),
             ),
+            ElevatedButton(
+              onPressed: () async {
+                final session = await DailyTaskService.getTodaySession();
+                final questions = await QuestionService.getQuestionsByIds(session.questionIds);
+                if (!mounted) return;
+                if (questions.isNotEmpty) {
+                  await DailyTaskService.incrementStreak();
+                  if (!mounted) return;
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (_) => QuestionPracticeScreen(
+                        questions: questions,
+                        subject: 'Daily Challenge',
+                        subTopic: 'Question of the Day',
+                      ),
+                    ),
+                  ).then((_) => _loadData());
+                }
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.white,
+                foregroundColor: Colors.orange.shade900,
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+              ),
+              child: const Text('Solve Now', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12)),
+            ),
           ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildProgressCard(double overallProgress) {
+    final percentageInt = (overallProgress * 100).toInt();
+
+    return Card(
+      child: InkWell(
+        borderRadius: BorderRadius.circular(16),
+        onTap: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (_) => const ProgressScreen()),
+          ).then((_) => _loadData());
+        },
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+          child: Row(
+            children: [
+              SizedBox(
+                width: 52,
+                height: 52,
+                child: Stack(
+                  alignment: Alignment.center,
+                  children: [
+                    SizedBox(
+                      width: 52,
+                      height: 52,
+                      child: CircularProgressIndicator(
+                        value: overallProgress,
+                        strokeWidth: 5,
+                        backgroundColor: Colors.blue.shade50,
+                        valueColor: const AlwaysStoppedAnimation<Color>(Color(0xFF2563EB)),
+                      ),
+                    ),
+                    Text(
+                      '$percentageInt%',
+                      style: const TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Color(0xFF2563EB)),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(width: 16),
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        const Text('Your Progress', style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold)),
+                        Text('Dashboard ›', style: TextStyle(fontSize: 11, fontWeight: FontWeight.bold, color: Colors.blue.shade700)),
+                      ],
+                    ),
+                    const SizedBox(height: 4),
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        Text('Solved: $_totalSolved', style: const TextStyle(fontSize: 11, color: Colors.grey)),
+                        Text('Correct: $_totalCorrect', style: const TextStyle(fontSize: 11, color: Colors.grey)),
+                        Text('Accuracy: ${_accuracy.toStringAsFixed(0)}%', style: const TextStyle(fontSize: 11, color: Colors.grey)),
+                        Text('Avg: ${_avgScore.toStringAsFixed(0)}%', style: const TextStyle(fontSize: 11, color: Colors.grey)),
+                      ],
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
         ),
       ),
     );
@@ -555,19 +648,16 @@ class _HomePageState extends State<HomePage> {
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  Expanded(
-                    child: Text(
-                      isCompleted
-                          ? 'Score: ${session?.correctCount ?? 0}/$totalCount (${session?.accuracy.toStringAsFixed(0) ?? 0}%)'
-                          : 'Progress: $attempted / $totalCount Questions',
-                      style: TextStyle(
-                        fontSize: 12,
-                        fontWeight: FontWeight.bold,
-                        color: isCompleted ? Colors.green.shade800 : Colors.black87,
-                      ),
+                  Text(
+                    isCompleted
+                        ? 'Score: ${session?.correctCount ?? 0}/$totalCount (${session?.accuracy.toStringAsFixed(0) ?? 0}%)'
+                        : 'Progress: $attempted / $totalCount Questions',
+                    style: TextStyle(
+                      fontSize: 12,
+                      fontWeight: FontWeight.bold,
+                      color: isCompleted ? Colors.green.shade800 : Colors.black87,
                     ),
                   ),
-                  const SizedBox(width: 8),
                   ElevatedButton(
                     style: ElevatedButton.styleFrom(
                       backgroundColor: isCompleted ? Colors.green : const Color(0xFF2563EB),
@@ -607,6 +697,11 @@ class _HomePageState extends State<HomePage> {
               }),
             ),
             Expanded(
+              child: _buildQuickIconItem('Study Notes', Icons.menu_book_outlined, Colors.teal, () {
+                Navigator.push(context, MaterialPageRoute(builder: (_) => const StudyMaterialSubjectsScreen())).then((_) => _loadData());
+              }),
+            ),
+            Expanded(
               child: _buildQuickIconItem('Mock Test', Icons.timer_outlined, Colors.orange, () {
                 Navigator.push(context, MaterialPageRoute(builder: (_) => const MockTestSetupScreen())).then((_) => _loadData());
               }),
@@ -620,6 +715,11 @@ class _HomePageState extends State<HomePage> {
               child: _buildQuickIconItem('Mistakes', Icons.error_outline, Colors.red, () {
                 Navigator.push(context, MaterialPageRoute(builder: (_) => const MistakesScreen())).then((_) => _loadData());
               }, badge: _mistakeCount > 0 ? '$_mistakeCount' : null),
+            ),
+            Expanded(
+              child: _buildQuickIconItem('Calculator', Icons.calculate_outlined, Colors.purple, () {
+                Navigator.push(context, MaterialPageRoute(builder: (_) => const EngineeringCalculatorScreen()));
+              }),
             ),
           ],
         ),

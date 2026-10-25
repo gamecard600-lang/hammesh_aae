@@ -4,6 +4,7 @@ import '../models/question.dart';
 import '../models/practice_mode.dart';
 import '../services/question_service.dart';
 import 'question_practice_screen.dart';
+import 'study_material/concept_story_screen.dart';
 
 class TopicScreen extends StatefulWidget {
   final Subject subject;
@@ -146,6 +147,21 @@ class _TopicScreenState extends State<TopicScreen> {
                         trailing: Row(
                           mainAxisSize: MainAxisSize.min,
                           children: [
+                            IconButton(
+                              icon: const Icon(Icons.auto_stories, color: Colors.purple),
+                              tooltip: 'AI Concept Story',
+                              onPressed: () {
+                                Navigator.push(
+                                  context,
+                                  MaterialPageRoute(
+                                    builder: (_) => ConceptStoryScreen(
+                                      topic: subTopic,
+                                      subject: widget.subject.name,
+                                    ),
+                                  ),
+                                );
+                              },
+                            ),
                             IconButton(
                               icon: const Icon(Icons.timer_outlined, color: Colors.orange),
                               tooltip: 'Topic Test',

@@ -45,16 +45,25 @@ class DailyTaskService {
     );
   }
 
-  /// Generates a randomized, balanced 10-question set for today prioritizing Hard Questions & PYQs while avoiding recent questions
+  /// Generates a randomized 10-question Daily Task covering all subjects evenly with 50% PYQs
   static Future<DailyTaskSession> _generateNewDailySession(String dateStr) async {
-    final List<Question> allQuestions = [];
+    final Map<String, List<Question>> pyqsBySubject = {};
+    final Map<String, List<Question>> allBySubject = {};
 
     for (final subject in QuestionService.subjectFiles.keys) {
       final subjectQuestions = await QuestionService.loadQuestionsBySubject(subject);
-      allQuestions.addAll(subjectQuestions);
+      if (subjectQuestions.isNotEmpty) {
+        allBySubject[subject] = List.from(subjectQuestions);
+        final pyqs = subjectQuestions.where((q) => q.isPYQ || q.isHardOrPYQ).toList();
+        if (pyqs.isNotEmpty) {
+          pyqsBySubject[subject] = pyqs;
+        } else {
+          pyqsBySubject[subject] = List.from(subjectQuestions);
+        }
+      }
     }
 
-    if (allQuestions.isEmpty) {
+    if (allBySubject.isEmpty) {
       return DailyTaskSession(date: dateStr, questionIds: []);
     }
 
@@ -65,85 +74,96 @@ class DailyTaskService {
         .whereType<int>()
         .toSet();
 
-    // 1. First priority: Hard & PYQ questions that have NOT been recently shown
-    List<Question> primaryCandidates = allQuestions
-        .where((q) => q.isHardOrPYQ && !recentlyShownIds.contains(q.id))
-        .toList();
-
-    // 2. Second priority: Any unused questions that have NOT been recently shown
-    if (primaryCandidates.length < 10) {
-      final additional = allQuestions
-          .where((q) => !recentlyShownIds.contains(q.id) && !primaryCandidates.contains(q))
-          .toList();
-      primaryCandidates.addAll(additional);
-    }
-
-    // 3. Fallback: If still under 10, include all Hard & PYQ questions
-    if (primaryCandidates.length < 10) {
-      final hardAndPyqAll = allQuestions.where((q) => q.isHardOrPYQ).toList();
-      primaryCandidates = List.from(hardAndPyqAll);
-    }
-
-    // 4. Ultimate Fallback: All questions
-    if (primaryCandidates.length < 10) {
-      primaryCandidates = List.from(allQuestions);
-    }
-
-    // Shuffle and pick 10 questions with balanced subject distribution
-    primaryCandidates.shuffle(Random());
-
-    final Map<String, List<Question>> bySubject = {};
-    for (var q in primaryCandidates) {
-      bySubject.putIfAbsent(q.subject, () => []).add(q);
-    }
-
     final List<Question> selected = [];
-    final subjects = bySubject.keys.toList()..shuffle(Random());
+    final Set<String> usedSubjects = {};
 
-    // Round-robin selection across subjects for balance
-    int subjectIdx = 0;
-    while (selected.length < 10 && primaryCandidates.isNotEmpty) {
-      if (subjects.isEmpty) break;
-      final sub = subjects[subjectIdx % subjects.length];
-      if (bySubject[sub] != null && bySubject[sub]!.isNotEmpty) {
-        final q = bySubject[sub]!.removeAt(0);
-        if (!selected.any((s) => s.id == q.id)) {
-          selected.add(q);
+    // Get all available subjects and shuffle them for today
+    final allSubjects = QuestionService.subjectFiles.keys.toList()..shuffle(Random());
+
+    // Step 1: Pick 5 PYQ questions from 5 distinct subjects (50% PYQs)
+    for (final subject in allSubjects) {
+      if (selected.length >= 5) break;
+      final candidates = (pyqsBySubject[subject] ?? [])
+          .where((q) => !recentlyShownIds.contains(q.id) && !selected.any((s) => s.id == q.id))
+          .toList();
+
+      if (candidates.isNotEmpty) {
+        candidates.shuffle(Random());
+        selected.add(candidates.first);
+        usedSubjects.add(subject);
+      }
+    }
+
+    // Fallback for Step 1 if less than 5 PYQs found from distinct subjects:
+    if (selected.length < 5) {
+      for (final subject in allSubjects) {
+        if (selected.length >= 5) break;
+        final candidates = (allBySubject[subject] ?? [])
+            .where((q) => !selected.any((s) => s.id == q.id))
+            .toList();
+        if (candidates.isNotEmpty) {
+          candidates.shuffle(Random());
+          selected.add(candidates.first);
+          usedSubjects.add(subject);
         }
       }
-      subjectIdx++;
+    }
 
-      if (bySubject.values.every((list) => list.isEmpty)) {
-        break;
+    // Step 2: Pick 5 questions from remaining unused subjects to cover all 14 subjects evenly
+    final remainingSubjects = allSubjects.where((s) => !usedSubjects.contains(s)).toList()..shuffle(Random());
+
+    for (final subject in remainingSubjects) {
+      if (selected.length >= 10) break;
+      final candidates = (allBySubject[subject] ?? [])
+          .where((q) => !recentlyShownIds.contains(q.id) && !selected.any((s) => s.id == q.id))
+          .toList();
+
+      if (candidates.isNotEmpty) {
+        candidates.shuffle(Random());
+        selected.add(candidates.first);
+        usedSubjects.add(subject);
       }
     }
 
-    // If still less than 10, fill from all questions
-    if (selected.length < 10) {
-      allQuestions.shuffle(Random());
-      for (var q in allQuestions) {
-        if (!selected.any((s) => s.id == q.id)) {
-          selected.add(q);
-          if (selected.length >= 10) break;
+    // Step 3: If still under 10 questions, fill from any remaining subjects
+    int loopSafety = 0;
+    while (selected.length < 10 && loopSafety < 30) {
+      loopSafety++;
+      for (final subject in allSubjects) {
+        if (selected.length >= 10) break;
+        final candidates = (allBySubject[subject] ?? [])
+            .where((q) => !selected.any((s) => s.id == q.id))
+            .toList();
+        if (candidates.isNotEmpty) {
+          candidates.shuffle(Random());
+          selected.add(candidates.first);
         }
       }
     }
 
     final selectedIds = selected.take(10).map((q) => q.id).toList();
 
-    // Update recently shown history (keep last 150 IDs to avoid long term repeats)
+    // Update recently shown history (keep last 120 IDs to rotate properly)
     List<int> updatedHistory = [...selectedIds, ...recentlyShownIds];
-    if (updatedHistory.length > 150) {
-      updatedHistory = updatedHistory.sublist(0, 150);
+    if (updatedHistory.length > 120) {
+      updatedHistory = updatedHistory.sublist(0, 120);
     }
-    await prefs.setStringList(
-      _shownHistoryKey,
-      updatedHistory.map((e) => e.toString()).toList(),
-    );
+    await prefs.setStringList(_shownHistoryKey, updatedHistory.map((e) => e.toString()).toList());
 
     return DailyTaskSession(
       date: dateStr,
       questionIds: selectedIds,
     );
+  }
+
+  static Future<int> getTodayStreak() async {
+    final prefs = await SharedPreferences.getInstance();
+    return prefs.getInt('daily_study_streak_v1') ?? 1;
+  }
+
+  static Future<void> incrementStreak() async {
+    final prefs = await SharedPreferences.getInstance();
+    final streak = (prefs.getInt('daily_study_streak_v1') ?? 1) + 1;
+    await prefs.setInt('daily_study_streak_v1', streak);
   }
 }

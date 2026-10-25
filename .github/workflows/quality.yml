@@ -1,0 +1,29 @@
+name: Hammesh AAE Quality
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+          cache: true
+
+      - run: flutter pub get
+      - run: flutter analyze
+      - run: flutter test
+
+      - run: |
+          if [ -f test/golden/goldens/home_page.png ]; then
+            flutter test test/golden/home_golden_test.dart
+          else
+            echo 'Golden baseline not committed yet; generate it locally with --update-goldens.'
+          fi
+
+      - run: flutter build apk --debug

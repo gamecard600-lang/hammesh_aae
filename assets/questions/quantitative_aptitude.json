@@ -1,0 +1,629 @@
+[
+  {
+    "id": 22,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Number Systems",
+    "question": "Which is divisible by 3?",
+    "gujaratiQuestion": "Which is divisible by 3?",
+    "options": [
+      "124",
+      "125",
+      "126",
+      "127"
+    ],
+    "correctAnswer": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMSQ": false,
+    "explanation": "Digits of 126 sum to 9, divisible by 3. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+  },
+  {
+    "id": 23,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Number Systems",
+    "question": "The smallest prime number is:",
+    "gujaratiQuestion": "The smallest prime number is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMSQ": false,
+    "explanation": "2 is the smallest prime number. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+  },
+  {
+    "id": 24,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Number Systems",
+    "question": "LCM of 6 and 8 is:",
+    "gujaratiQuestion": "LCM of 6 and 8 is:",
+    "options": [
+      "12",
+      "18",
+      "24",
+      "48"
+    ],
+    "correctAnswer": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMSQ": false,
+    "explanation": "LCM = 24. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+  },
+  {
+    "id": 25,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Simplification and Algebra",
+    "question": "Which statement best describes Simplification and Algebra?",
+    "gujaratiQuestion": "Which statement best describes Simplification and Algebra?",
+    "options": [
+      "It follows the syllabus topic",
+      "It is unrelated to the topic",
+      "It belongs only to mechanical design",
+      "It is not testable"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The question is aligned with the notified syllabus topic: Simplification and Algebra. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+  },
+  {
+    "id": 26,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Simplification and Algebra",
+    "question": "For Simplification and Algebra, the safest exam approach is to:",
+    "gujaratiQuestion": "For Simplification and Algebra, the safest exam approach is to:",
+    "options": [
+      "Use the stated rule and given data",
+      "Ignore the conditions",
+      "Guess without reading",
+      "Use an unrelated formula"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+  },
+  {
+    "id": 27,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Simplification and Algebra",
+    "question": "In a Simplification and Algebra question, the first step should be to:",
+    "gujaratiQuestion": "In a Simplification and Algebra question, the first step should be to:",
+    "options": [
+      "Identify what is asked and the relevant information",
+      "Skip the question text",
+      "Choose option A automatically",
+      "Use unrelated facts"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+  },
+  {
+    "id": 28,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Arithmetic and Geometric Progression",
+    "question": "Which statement best describes Arithmetic and Geometric Progression?",
+    "gujaratiQuestion": "Which statement best describes Arithmetic and Geometric Progression?",
+    "options": [
+      "It follows the syllabus topic",
+      "It is unrelated to the topic",
+      "It belongs only to mechanical design",
+      "It is not testable"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The question is aligned with the notified syllabus topic: Arithmetic and Geometric Progression. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+  },
+  {
+    "id": 29,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Arithmetic and Geometric Progression",
+    "question": "For Arithmetic and Geometric Progression, the safest exam approach is to:",
+    "gujaratiQuestion": "For Arithmetic and Geometric Progression, the safest exam approach is to:",
+    "options": [
+      "Use the stated rule and given data",
+      "Ignore the conditions",
+      "Guess without reading",
+      "Use an unrelated formula"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+  },
+  {
+    "id": 30,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Arithmetic and Geometric Progression",
+    "question": "In a Arithmetic and Geometric Progression question, the first step should be to:",
+    "gujaratiQuestion": "In a Arithmetic and Geometric Progression question, the first step should be to:",
+    "options": [
+      "Identify what is asked and the relevant information",
+      "Skip the question text",
+      "Choose option A automatically",
+      "Use unrelated facts"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+  },
+  {
+    "id": 31,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Average",
+    "question": "Average of 10, 20 and 30 is:",
+    "gujaratiQuestion": "Average of 10, 20 and 30 is:",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "(10+20+30)/3 = 20. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+  },
+  {
+    "id": 32,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Average",
+    "question": "Average of 5 numbers is 18. Their sum is:",
+    "gujaratiQuestion": "Average of 5 numbers is 18. Their sum is:",
+    "options": [
+      "72",
+      "80",
+      "90",
+      "100"
+    ],
+    "correctAnswer": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMSQ": false,
+    "explanation": "Sum = average × count = 18 × 5 = 90. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+  },
+  {
+    "id": 33,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Average",
+    "question": "Average of 4 numbers is 25. If one number 10 is removed, average of remaining 3 is:",
+    "gujaratiQuestion": "Average of 4 numbers is 25. If one number 10 is removed, average of remaining 3 is:",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "Total 100; remaining 90; 90/3 = 30. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+  },
+  {
+    "id": 34,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Percentage",
+    "question": "A value increases from 200 to 250. What is the percentage increase?",
+    "gujaratiQuestion": "A value increases from 200 to 250. What is the percentage increase?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "50%"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "250-200 = 50; 50/200 × 100 = 25%. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+  },
+  {
+    "id": 35,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Percentage",
+    "question": "20% of a number is 60. The number is:",
+    "gujaratiQuestion": "20% of a number is 60. The number is:",
+    "options": [
+      "200",
+      "250",
+      "300",
+      "360"
+    ],
+    "correctAnswer": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMSQ": false,
+    "explanation": "60/0.20 = 300. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+  },
+  {
+    "id": 36,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Percentage",
+    "question": "A price is reduced by 10% from 500. New price?",
+    "gujaratiQuestion": "A price is reduced by 10% from 500. New price?",
+    "options": [
+      "440",
+      "450",
+      "460",
+      "490"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "500 × 0.90 = 450. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+  },
+  {
+    "id": 37,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Profit-Loss",
+    "question": "Which statement best describes Profit-Loss?",
+    "gujaratiQuestion": "Which statement best describes Profit-Loss?",
+    "options": [
+      "It follows the syllabus topic",
+      "It is unrelated to the topic",
+      "It belongs only to mechanical design",
+      "It is not testable"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The question is aligned with the notified syllabus topic: Profit-Loss. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+  },
+  {
+    "id": 38,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Profit-Loss",
+    "question": "For Profit-Loss, the safest exam approach is to:",
+    "gujaratiQuestion": "For Profit-Loss, the safest exam approach is to:",
+    "options": [
+      "Use the stated rule and given data",
+      "Ignore the conditions",
+      "Guess without reading",
+      "Use an unrelated formula"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+  },
+  {
+    "id": 39,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Profit-Loss",
+    "question": "In a Profit-Loss question, the first step should be to:",
+    "gujaratiQuestion": "In a Profit-Loss question, the first step should be to:",
+    "options": [
+      "Identify what is asked and the relevant information",
+      "Skip the question text",
+      "Choose option A automatically",
+      "Use unrelated facts"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+  },
+  {
+    "id": 40,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Ratio and Proportion",
+    "question": "If A:B = 2:3 and B:C = 4:5, then A:C is:",
+    "gujaratiQuestion": "If A:B = 2:3 and B:C = 4:5, then A:C is:",
+    "options": [
+      "8:15",
+      "2:5",
+      "4:15",
+      "3:5"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Make B common: 2:3 = 8:12 and 4:5 = 12:15, so A:C = 8:15. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+  },
+  {
+    "id": 41,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Ratio and Proportion",
+    "question": "Divide 360 in ratio 2:3. The smaller part is:",
+    "gujaratiQuestion": "Divide 360 in ratio 2:3. The smaller part is:",
+    "options": [
+      "120",
+      "144",
+      "180",
+      "216"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "360×2/5 = 144. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+  },
+  {
+    "id": 42,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Ratio and Proportion",
+    "question": "If x:y=5:7, then (x+y):y is:",
+    "gujaratiQuestion": "If x:y=5:7, then (x+y):y is:",
+    "options": [
+      "5:7",
+      "7:12",
+      "12:7",
+      "5:12"
+    ],
+    "correctAnswer": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMSQ": false,
+    "explanation": "x+y = 12 parts, so 12:7. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+  },
+  {
+    "id": 43,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Partnership",
+    "question": "Which statement best describes Partnership?",
+    "gujaratiQuestion": "Which statement best describes Partnership?",
+    "options": [
+      "It follows the syllabus topic",
+      "It is unrelated to the topic",
+      "It belongs only to mechanical design",
+      "It is not testable"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The question is aligned with the notified syllabus topic: Partnership. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+  },
+  {
+    "id": 44,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Partnership",
+    "question": "For Partnership, the safest exam approach is to:",
+    "gujaratiQuestion": "For Partnership, the safest exam approach is to:",
+    "options": [
+      "Use the stated rule and given data",
+      "Ignore the conditions",
+      "Guess without reading",
+      "Use an unrelated formula"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+  },
+  {
+    "id": 45,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Partnership",
+    "question": "In a Partnership question, the first step should be to:",
+    "gujaratiQuestion": "In a Partnership question, the first step should be to:",
+    "options": [
+      "Identify what is asked and the relevant information",
+      "Skip the question text",
+      "Choose option A automatically",
+      "Use unrelated facts"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+  },
+  {
+    "id": 46,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Time and Work",
+    "question": "Which statement best describes Time and Work?",
+    "gujaratiQuestion": "Which statement best describes Time and Work?",
+    "options": [
+      "It follows the syllabus topic",
+      "It is unrelated to the topic",
+      "It belongs only to mechanical design",
+      "It is not testable"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The question is aligned with the notified syllabus topic: Time and Work. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+  },
+  {
+    "id": 47,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Time and Work",
+    "question": "For Time and Work, the safest exam approach is to:",
+    "gujaratiQuestion": "For Time and Work, the safest exam approach is to:",
+    "options": [
+      "Use the stated rule and given data",
+      "Ignore the conditions",
+      "Guess without reading",
+      "Use an unrelated formula"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+  },
+  {
+    "id": 48,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Time and Work",
+    "question": "In a Time and Work question, the first step should be to:",
+    "gujaratiQuestion": "In a Time and Work question, the first step should be to:",
+    "options": [
+      "Identify what is asked and the relevant information",
+      "Skip the question text",
+      "Choose option A automatically",
+      "Use unrelated facts"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+  },
+  {
+    "id": 49,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Time, Speed and Distance",
+    "question": "Which statement best describes Time, Speed and Distance?",
+    "gujaratiQuestion": "Which statement best describes Time, Speed and Distance?",
+    "options": [
+      "It follows the syllabus topic",
+      "It is unrelated to the topic",
+      "It belongs only to mechanical design",
+      "It is not testable"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The question is aligned with the notified syllabus topic: Time, Speed and Distance. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+  },
+  {
+    "id": 50,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Time, Speed and Distance",
+    "question": "For Time, Speed and Distance, the safest exam approach is to:",
+    "gujaratiQuestion": "For Time, Speed and Distance, the safest exam approach is to:",
+    "options": [
+      "Use the stated rule and given data",
+      "Ignore the conditions",
+      "Guess without reading",
+      "Use an unrelated formula"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+  },
+  {
+    "id": 51,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Time, Speed and Distance",
+    "question": "In a Time, Speed and Distance question, the first step should be to:",
+    "gujaratiQuestion": "In a Time, Speed and Distance question, the first step should be to:",
+    "options": [
+      "Identify what is asked and the relevant information",
+      "Skip the question text",
+      "Choose option A automatically",
+      "Use unrelated facts"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+  },
+  {
+    "id": 52,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Work, Wages and Chain Rule",
+    "question": "Which statement best describes Work, Wages and Chain Rule?",
+    "gujaratiQuestion": "Which statement best describes Work, Wages and Chain Rule?",
+    "options": [
+      "It follows the syllabus topic",
+      "It is unrelated to the topic",
+      "It belongs only to mechanical design",
+      "It is not testable"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The question is aligned with the notified syllabus topic: Work, Wages and Chain Rule. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+  },
+  {
+    "id": 53,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Work, Wages and Chain Rule",
+    "question": "For Work, Wages and Chain Rule, the safest exam approach is to:",
+    "gujaratiQuestion": "For Work, Wages and Chain Rule, the safest exam approach is to:",
+    "options": [
+      "Use the stated rule and given data",
+      "Ignore the conditions",
+      "Guess without reading",
+      "Use an unrelated formula"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+  },
+  {
+    "id": 54,
+    "subject": "Quantitative Aptitude",
+    "subTopic": "Work, Wages and Chain Rule",
+    "question": "In a Work, Wages and Chain Rule question, the first step should be to:",
+    "gujaratiQuestion": "In a Work, Wages and Chain Rule question, the first step should be to:",
+    "options": [
+      "Identify what is asked and the relevant information",
+      "Skip the question text",
+      "Choose option A automatically",
+      "Use unrelated facts"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+  }
+]

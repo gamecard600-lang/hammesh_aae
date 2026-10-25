@@ -1,5 +1,6 @@
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
 import '../../models/study_material.dart';
 
 class AnimatedTopicVisualWidget extends StatefulWidget {
@@ -251,7 +252,7 @@ class _AnimatedTopicVisualWidgetState extends State<AnimatedTopicVisualWidget>
                   if (diagrams.contains('graph'))
                     _buildTabButton('graph', '📐 Plot / Curve', Icons.draw),
                   _buildTabButton('steps', '📋 Process Steps (${steps.length})', Icons.list_alt),
-                  if (vl?.videoUrl != null || vl?.imageUrl != null)
+                  if ((vl?.videos.isNotEmpty ?? false) || vl?.videoUrl != null || vl?.imageUrl != null)
                     _buildTabButton('online', '🌐 Online Media', Icons.language),
                 ],
               ),
@@ -461,39 +462,95 @@ class _AnimatedTopicVisualWidgetState extends State<AnimatedTopicVisualWidget>
   Widget _buildOnlineMediaView() {
     final imageUrl = vl?.imageUrl;
     if (imageUrl != null && imageUrl.isNotEmpty) {
+      final isAsset = imageUrl.startsWith('assets/');
       return InteractiveViewer(
-        child: Image.network(
-          imageUrl,
-          fit: BoxFit.contain,
-          errorBuilder: (context, error, stackTrace) {
-            return Center(
-              child: Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  const Icon(Icons.wifi_off, color: Colors.amberAccent, size: 36),
-                  const SizedBox(height: 8),
-                  const Text('Online diagram unavailable offline.', style: TextStyle(color: Colors.white70)),
-                  const SizedBox(height: 8),
-                  ElevatedButton(
-                    onPressed: () => setState(() => _activeTab = 'animation'),
-                    child: const Text('View Offline Canvas Visual'),
-                  ),
-                ],
+        child: isAsset
+            ? Image.asset(
+                imageUrl,
+                fit: BoxFit.contain,
+                errorBuilder: (context, error, stackTrace) {
+                  return Center(
+                    child: Column(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        const Icon(Icons.broken_image, color: Colors.amberAccent, size: 36),
+                        const SizedBox(height: 8),
+                        const Text('Diagram image unavailable.', style: TextStyle(color: Colors.white70)),
+                        const SizedBox(height: 8),
+                        ElevatedButton(
+                          onPressed: () => setState(() => _activeTab = 'animation'),
+                          child: const Text('View Interactive Canvas Visual'),
+                        ),
+                      ],
+                    ),
+                  );
+                },
+              )
+            : Image.network(
+                imageUrl,
+                fit: BoxFit.contain,
+                errorBuilder: (context, error, stackTrace) {
+                  return Center(
+                    child: Column(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        const Icon(Icons.wifi_off, color: Colors.amberAccent, size: 36),
+                        const SizedBox(height: 8),
+                        const Text('Online diagram unavailable offline.', style: TextStyle(color: Colors.white70)),
+                        const SizedBox(height: 8),
+                        ElevatedButton(
+                          onPressed: () => setState(() => _activeTab = 'animation'),
+                          child: const Text('View Offline Canvas Visual'),
+                        ),
+                      ],
+                    ),
+                  );
+                },
               ),
-            );
-          },
-        ),
       );
     }
-    return Center(
+    final videos = <StudyVideo>[...(vl?.videos ?? const [])];
+    if (videos.isEmpty && vl?.videoUrl != null && vl!.videoUrl!.isNotEmpty) {
+      videos.add(StudyVideo(title: 'Online Video Explanation', url: vl!.videoUrl!));
+    }
+    return SingleChildScrollView(
+      padding: const EdgeInsets.all(14),
       child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
+        crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
-          const Icon(Icons.play_circle_fill, color: Colors.amberAccent, size: 48),
-          const SizedBox(height: 8),
-          Text(vl?.title ?? 'Online Video Explanation', style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
+          const Row(children: [
+            Icon(Icons.ondemand_video, color: Colors.amberAccent, size: 28),
+            SizedBox(width: 8),
+            Expanded(child: Text('Topic Video Learning', style: TextStyle(color: Colors.white, fontSize: 17, fontWeight: FontWeight.bold))),
+          ]),
+          const SizedBox(height: 6),
+          const Text('Selected learning resources for quick and practical understanding. Internet connection required.', style: TextStyle(color: Colors.white70, fontSize: 12)),
           const SizedBox(height: 12),
-          ElevatedButton.icon(
+          ...videos.asMap().entries.map((entry) {
+            final i = entry.key + 1;
+            final v = entry.value;
+            return Card(
+              color: const Color(0xFF162033),
+              child: ListTile(
+                leading: CircleAvatar(child: Text('$i')),
+                title: Text(v.title, style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w600)),
+                subtitle: v.description.isEmpty ? const Text('Open video resource', style: TextStyle(color: Colors.white60)) : Text(v.description, style: const TextStyle(color: Colors.white70)),
+                trailing: const Icon(Icons.play_circle_fill, color: Colors.amberAccent, size: 32),
+                onTap: () async {
+                  final uri = Uri.tryParse(v.url);
+                  if (uri == null || uri.scheme.isEmpty) return;
+                  final opened = await launchUrl(uri, mode: LaunchMode.externalApplication);
+                  if (!opened && mounted) {
+                    await launchUrl(uri, mode: LaunchMode.platformDefault);
+                  }
+                },
+              ),
+            );
+          }),
+          if (videos.isEmpty)
+            const Padding(padding: EdgeInsets.all(24), child: Text('No online video resource is configured for this topic.', textAlign: TextAlign.center, style: TextStyle(color: Colors.white70))),
+          const SizedBox(height: 8),
+          OutlinedButton.icon(
             onPressed: () => setState(() => _activeTab = 'animation'),
             icon: const Icon(Icons.art_track),
             label: const Text('Switch to Technical Canvas Visual'),

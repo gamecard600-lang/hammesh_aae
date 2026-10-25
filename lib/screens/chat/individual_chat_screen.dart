@@ -66,29 +66,72 @@ class _IndividualChatScreenState extends State<IndividualChatScreen> {
     });
   }
 
+  void _clearInputAndRefresh() {
+    _inputController.clear();
+    _fetchMessages();
+    _scrollToBottom();
+  }
+
   Future<void> _sendMessage() async {
     final text = _inputController.text.trim();
     if (text.isEmpty || _isSending) return;
 
-    _inputController.clear();
-    setState(() => _isSending = true);
+    setState(() {
+      _isSending = true;
+    });
 
-    final success = await ChatService.sendMessage(
+    final ChatSendResult result = await ChatService.sendMessage(
       recipientId: widget.recipientId,
       text: text,
     );
 
     if (!mounted) return;
-    setState(() => _isSending = false);
 
-    if (success) {
-      _fetchMessages();
-      _scrollToBottom();
-    } else {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('Failed to send message. Please wait a moment before sending again.')),
-      );
+    setState(() {
+      _isSending = false;
+    });
+
+    if (result.status == ChatSendStatus.success) {
+      _clearInputAndRefresh();
+      return;
     }
+
+    if (result.status == ChatSendStatus.networkError ||
+        result.status == ChatSendStatus.serverError) {
+      _clearInputAndRefresh();
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(
+            result.errorMessage.isNotEmpty
+                ? result.errorMessage
+                : 'Saved offline. Will sync when connected.',
+          ),
+          duration: const Duration(seconds: 3),
+        ),
+      );
+      return;
+    }
+
+    if (result.status == ChatSendStatus.rateLimited) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('⏳ Tapping too fast. Please wait a second before sending again.'),
+          duration: Duration(seconds: 2),
+        ),
+      );
+      return;
+    }
+
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text(
+          result.errorMessage.isNotEmpty
+              ? result.errorMessage
+              : 'Could not send message. Please try again.',
+        ),
+        duration: const Duration(seconds: 3),
+      ),
+    );
   }
 
   void _scrollToBottom() {

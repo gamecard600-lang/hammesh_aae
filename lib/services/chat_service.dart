@@ -3,6 +3,27 @@ import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 import 'competition_backend_service.dart';
+import 'online_auth_service.dart';
+
+enum ChatSendStatus {
+  success,
+  rateLimited,
+  networkError,
+  serverError,
+  emptyMessage,
+}
+
+class ChatSendResult {
+  final ChatSendStatus status;
+  final String errorMessage;
+
+  ChatSendResult(this.status, [this.errorMessage = '']);
+
+  bool get isSuccess => status == ChatSendStatus.success;
+  bool get isNetworkOrServerError =>
+      status == ChatSendStatus.networkError || status == ChatSendStatus.serverError;
+  bool get isRateLimited => status == ChatSendStatus.rateLimited;
+}
 
 class ChatMessage {
   final String id;
@@ -89,6 +110,8 @@ class ChatService {
 
   static String get _baseUrl => CompetitionBackendService.baseUrl;
 
+  static Future<Uri?> _authUri(String path) async { final token=await OnlineAuthService.getIdToken(); if(token==null||token.isEmpty)return null; return Uri.parse('$_baseUrl/$path.json?auth=${Uri.encodeQueryComponent(token)}'); }
+
   /// Gets current user profile or initializes a unique aspirant ID
   static Future<ChatUser> getCurrentUser() async {
     final prefs = await SharedPreferences.getInstance();
@@ -127,7 +150,8 @@ class ChatService {
 
   static Future<void> _syncUserHeartbeat(ChatUser user) async {
     try {
-      final url = Uri.parse('$_baseUrl/chat_users/${user.id}.json');
+      final url = await _authUri('chat_users/${user.id}');
+      if (url == null) return;
       await http.put(
         url,
         headers: {'Content-Type': 'application/json'},
@@ -138,23 +162,27 @@ class ChatService {
     }
   }
 
-  /// Sends a message (Rate limiting: max 1 per 1.5 seconds)
-  static Future<bool> sendMessage({
+  /// Sends a message with rate-limiting, local optimistic cache & offline queuing
+  static Future<ChatSendResult> sendMessage({
     required String recipientId,
     required String text,
   }) async {
     final cleanText = text.trim();
-    if (cleanText.isEmpty) return false;
+    if (cleanText.isEmpty) {
+      return ChatSendResult(ChatSendStatus.emptyMessage, 'Message cannot be empty.');
+    }
 
-    // Rate limiting check
+    // Rate limiting check (800 ms)
     if (_lastMessageTime != null) {
       final diff = DateTime.now().difference(_lastMessageTime!).inMilliseconds;
-      if (diff < 1200) {
+      if (diff < 800) {
         debugPrint('Rate limited message');
-        return false;
+        return ChatSendResult(
+          ChatSendStatus.rateLimited,
+          'Please wait a second before sending again.',
+        );
       }
     }
-    _lastMessageTime = DateTime.now();
 
     final user = await getCurrentUser();
     final msgId = 'msg_${DateTime.now().millisecondsSinceEpoch}';
@@ -168,36 +196,66 @@ class ChatService {
       timestamp: DateTime.now().millisecondsSinceEpoch,
     );
 
+    final String channel = recipientId == 'global' ? 'global' : _getChannelId(user.id, recipientId);
+
+    // Optimistically add message to local cache
+    await _addMessageToLocalCache(channel, message);
+
     try {
-      final String channel = recipientId == 'global' ? 'global' : _getChannelId(user.id, recipientId);
-      final url = Uri.parse('$_baseUrl/messages/$channel/$msgId.json');
+      final url = await _authUri('messages/$channel/$msgId');
+      if (url == null) {
+        await _addPendingMessage(channel, message);
+        return ChatSendResult(
+          ChatSendStatus.networkError,
+          'Auth offline. Saved locally.',
+        );
+      }
 
       final response = await http.put(
         url,
         headers: {'Content-Type': 'application/json'},
         body: jsonEncode(message.toJson()),
-      ).timeout(const Duration(seconds: 8));
+      ).timeout(const Duration(seconds: 6));
 
-      return response.statusCode >= 200 && response.statusCode < 300;
+      if (response.statusCode >= 200 && response.statusCode < 300) {
+        _lastMessageTime = DateTime.now();
+        _syncPendingMessages();
+        return ChatSendResult(ChatSendStatus.success);
+      } else {
+        await _addPendingMessage(channel, message);
+        return ChatSendResult(
+          ChatSendStatus.serverError,
+          'Server error (${response.statusCode}). Saved locally.',
+        );
+      }
     } catch (e) {
       debugPrint('Error sending chat message: $e');
-      return false;
+      await _addPendingMessage(channel, message);
+      return ChatSendResult(
+        ChatSendStatus.networkError,
+        'Network offline. Saved locally, will sync when connected.',
+      );
     }
   }
 
-  /// Fetches messages for a channel
+  /// Fetches messages for a channel with local cache fallback
   static Future<List<ChatMessage>> fetchMessages(String recipientId) async {
-    try {
-      final user = await getCurrentUser();
-      final String channel = recipientId == 'global' ? 'global' : _getChannelId(user.id, recipientId);
-      final url = Uri.parse('$_baseUrl/messages/$channel.json');
+    final user = await getCurrentUser();
+    final String channel = recipientId == 'global' ? 'global' : _getChannelId(user.id, recipientId);
+    
+    final cachedList = await _getCacheMessages(channel);
+    final blocked = await getBlockedUsers();
 
-      final response = await http.get(url).timeout(const Duration(seconds: 8));
+    try {
+      final url = await _authUri('messages/$channel');
+      if (url == null) {
+        return cachedList.where((msg) => !blocked.contains(msg.senderId)).toList();
+      }
+      final response = await http.get(url).timeout(const Duration(seconds: 6));
 
       if (response.statusCode == 200 && response.body != 'null' && response.body.isNotEmpty) {
         final decoded = jsonDecode(response.body);
         final List<ChatMessage> list = [];
-        final blocked = await getBlockedUsers();
 
         if (decoded is Map) {
           decoded.forEach((key, value) {
@@ -210,20 +268,29 @@ class ChatService {
           });
         }
         list.sort((a, b) => a.timestamp.compareTo(b.timestamp));
+
+        await _saveCacheMessages(channel, list);
         return list;
       }
-      return [];
     } catch (e) {
       debugPrint('Error fetching chat messages: $e');
-      return [];
     }
+
+    return cachedList.where((msg) => !blocked.contains(msg.senderId)).toList();
   }
 
-  /// Fetches online aspirants list
+  /// Fetches online aspirants list with cache fallback
   static Future<List<ChatUser>> fetchAspirants() async {
+    final cachedUsers = await _getCachedAspirants();
+
     try {
-      final url = Uri.parse('$_baseUrl/chat_users.json');
-      final response = await http.get(url).timeout(const Duration(seconds: 8));
+      final url = await _authUri('chat_users');
+      if (url == null) {
+        final currentUser = await getCurrentUser();
+        final blocked = await getBlockedUsers();
+        return cachedUsers.where((u) => u.id != currentUser.id && !blocked.contains(u.id)).toList();
+      }
+      final response = await http.get(url).timeout(const Duration(seconds: 6));
 
       if (response.statusCode == 200 && response.body != 'null' && response.body.isNotEmpty) {
         final decoded = jsonDecode(response.body);
@@ -241,13 +308,16 @@ class ChatService {
             }
           });
         }
+        await _saveCachedAspirants(users);
         return users;
       }
-      return [];
     } catch (e) {
       debugPrint('Error fetching chat users: $e');
-      return [];
     }
+
+    final currentUser = await getCurrentUser();
+    final blocked = await getBlockedUsers();
+    return cachedUsers.where((u) => u.id != currentUser.id && !blocked.contains(u.id)).toList();
   }
 
   /// Safety: Block User
@@ -269,7 +339,8 @@ class ChatService {
     try {
       final currentUser = await getCurrentUser();
       final reportId = 'rep_${DateTime.now().millisecondsSinceEpoch}';
-      final url = Uri.parse('$_baseUrl/reports/$reportId.json');
+      final url = await _authUri('reports/$reportId');
+      if (url == null) return false;
 
       final body = jsonEncode({
         'reporterId': currentUser.id,
@@ -290,5 +361,106 @@ class ChatService {
   static String _getChannelId(String user1, String user2) {
     final sorted = [user1, user2]..sort();
     return 'p2p_${sorted[0]}_${sorted[1]}';
+  }
+
+  // Helper Methods for Storage Caching & Offline Queue
+  static Future<List<ChatMessage>> _getCacheMessages(String channel) async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final raw = prefs.getString('chat_cached_msg_$channel');
+      if (raw == null || raw.isEmpty) return [];
+      final List decoded = jsonDecode(raw);
+      final list = decoded.map((e) => ChatMessage.fromJson(Map<String, dynamic>.from(e))).toList();
+      list.sort((a, b) => a.timestamp.compareTo(b.timestamp));
+      return list;
+    } catch (_) {
+      return [];
+    }
+  }
+
+  static Future<void> _saveCacheMessages(String channel, List<ChatMessage> messages) async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final raw = jsonEncode(messages.map((e) => e.toJson()).toList());
+      await prefs.setString('chat_cached_msg_$channel', raw);
+    } catch (_) {}
+  }
+
+  static Future<void> _addMessageToLocalCache(String channel, ChatMessage msg) async {
+    final list = await _getCacheMessages(channel);
+    if (!list.any((m) => m.id == msg.id)) {
+      list.add(msg);
+      await _saveCacheMessages(channel, list);
+    }
+  }
+
+  static Future<void> _addPendingMessage(String channel, ChatMessage msg) async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final raw = prefs.getString('chat_pending_msg_v1');
+      List list = raw != null && raw.isNotEmpty ? jsonDecode(raw) : [];
+      list.add({'channel': channel, 'msg': msg.toJson()});
+      await prefs.setString('chat_pending_msg_v1', jsonEncode(list));
+    } catch (_) {}
+  }
+
+  static Future<void> _syncPendingMessages() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final raw = prefs.getString('chat_pending_msg_v1');
+      if (raw == null || raw.isEmpty) return;
+
+      final List list = jsonDecode(raw);
+      if (list.isEmpty) return;
+
+      final remaining = [];
+      for (var item in list) {
+        if (item is Map) {
+          final channel = item['channel'] as String?;
+          final msgMap = item['msg'] as Map?;
+          if (channel != null && msgMap != null) {
+            final msg = ChatMessage.fromJson(Map<String, dynamic>.from(msgMap));
+            final url = await _authUri('messages/$channel/${msg.id}');
+            if (url != null) {
+              try {
+                final response = await http.put(
+                  url,
+                  headers: {'Content-Type': 'application/json'},
+                  body: jsonEncode(msg.toJson()),
+                ).timeout(const Duration(seconds: 5));
+                if (response.statusCode < 200 || response.statusCode >= 300) {
+                  remaining.add(item);
+                }
+              } catch (_) {
+                remaining.add(item);
+              }
+            } else {
+              remaining.add(item);
+            }
+          }
+        }
+      }
+      await prefs.setString('chat_pending_msg_v1', jsonEncode(remaining));
+    } catch (_) {}
+  }
+
+  static Future<List<ChatUser>> _getCachedAspirants() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final raw = prefs.getString('chat_cached_aspirants_v1');
+      if (raw == null || raw.isEmpty) return [];
+      final List decoded = jsonDecode(raw);
+      return decoded.map((e) => ChatUser.fromJson(Map<String, dynamic>.from(e))).toList();
+    } catch (_) {
+      return [];
+    }
+  }
+
+  static Future<void> _saveCachedAspirants(List<ChatUser> users) async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final raw = jsonEncode(users.map((e) => e.toJson()).toList());
+      await prefs.setString('chat_cached_aspirants_v1', raw);
+    } catch (_) {}
   }
 }

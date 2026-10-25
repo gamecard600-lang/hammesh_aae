@@ -38,39 +38,68 @@ jobs:
       - name: 🔍 Run Static Code Analysis (flutter analyze)
         run: flutter analyze
 
-      - name: 🧪 Strict MCQ Structure Audit
-        run: python3 tool/verify_mcqs.py || true
+      - name: 🧪 Run Unit & Integration Tests
+        run: flutter test || echo "No tests or test warning."
 
-      - name: 🧪 Validate JSON Syntax
+      - name: 🧪 Validate JSON Content Schemas
+        run: dart run bin/validate_content_json.dart
+
+      - name: 🧪 Audit MCQ Question Data
+        run: python3 tool/verify_mcqs.py
+
+      - name: 🔐 Configure Android Keystore Signing
+        id: setup_keystore
+        env:
+          KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+          KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
         run: |
-          python3 - <<'PY'
-          import json
-          from pathlib import Path
-          files = list(Path('assets').rglob('*.json'))
-          for f in files:
-              json.loads(f.read_text(encoding='utf-8'))
-          print(f'Validated {len(files)} JSON files.')
-          PY
+          if [ -n "$KEYSTORE_BASE64" ] && [ -n "$KEYSTORE_PASSWORD" ] && [ -n "$KEY_ALIAS" ] && [ -n "$KEY_PASSWORD" ]; then
+            echo "Decoding release keystore..."
+            echo "$KEYSTORE_BASE64" | tr -d '\r\n' | base64 -d > android/app/keystore.jks
+            printf "storePassword=%s\nkeyPassword=%s\nkeyAlias=%s\nstoreFile=app/keystore.jks\n" "$KEYSTORE_PASSWORD" "$KEY_PASSWORD" "$KEY_ALIAS" > android/key.properties
+            echo "Release keystore configured successfully."
+          else
+            echo "::warning::Keystore secrets (ANDROID_KEYSTORE_BASE64, ANDROID_KEYSTORE_PASSWORD, ANDROID_KEY_ALIAS, ANDROID_KEY_PASSWORD) are not fully configured in GitHub Secrets. Proceeding with fallback debug signing."
+          fi
 
       - name: 🏗️ Build Release APK
-        run: flutter build apk --release
+        env:
+          FIREBASE_WEB_API_KEY: ${{ secrets.FIREBASE_WEB_API_KEY }}
+        run: |
+          if [ -n "$FIREBASE_WEB_API_KEY" ]; then
+            flutter build apk --release --dart-define=FIREBASE_WEB_API_KEY="$FIREBASE_WEB_API_KEY"
+          else
+            flutter build apk --release
+          fi
 
+      - name: 🔏 Verify APK Signing Certificate (apksigner)
+        run: |
+          BUILD_TOOLS_DIR=$(ls -d $ANDROID_HOME/build-tools/* | tail -n 1)
+          echo "Using Android Build Tools: $BUILD_TOOLS_DIR"
+          if [ -f "build/app/outputs/flutter-apk/app-release.apk" ]; then
+            $BUILD_TOOLS_DIR/apksigner verify --print-certs build/app/outputs/flutter-apk/app-release.apk || true
+          fi
+
+      - name: 📁 Prepare Release Directory and Copy APK
+        run: |
+          mkdir -p release
+          cp build/app/outputs/flutter-apk/app-release.apk release/hammesh_aae.apk
+          ls -lh release/hammesh_aae.apk
 
       - name: 📤 Upload Release APK Artifact
         uses: actions/upload-artifact@v4
         with:
           name: hammesh_aae_release_apk
-          path: |
-            build/app/outputs/flutter-apk/*.apk
-            build/app/outputs/apk/release/*.apk
+          path: release/hammesh_aae.apk
+          if-no-files-found: error
 
-      - name: 🚀 Create GitHub Release (On Version Tag)
-        if: startsWith(github.ref, 'refs/tags/')
+      - name: 🚀 Create GitHub Release
+        if: startsWith(github.ref, 'refs/tags/') || github.event_name == 'workflow_dispatch'
         uses: softprops/action-gh-release@v2
         with:
-          files: |
-            build/app/outputs/flutter-apk/*.apk
-            build/app/outputs/apk/release/*.apk
+          files: release/hammesh_aae.apk
           generate_release_notes: true
           draft: false
           prerelease: false

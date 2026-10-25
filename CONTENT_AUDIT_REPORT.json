@@ -1,0 +1,29 @@
+{
+  "version": "v1.3.0-audit-content",
+  "base": "hammesh_aae_latest_source_reference_v1.2.0(1).zip",
+  "technical_subjects": 14,
+  "technical_topics": 165,
+  "fluid_mechanics_removed_ids": [
+    91,
+    101,
+    104,
+    119,
+    123,
+    129,
+    132,
+    138,
+    166
+  ],
+  "nontechnical_subjects": 5,
+  "nontechnical_topics": 33,
+  "progress_files_changed": false,
+  "pyq_source": "GSSSB AAE Mechanical 2025 (17 Nov 2025) listing/reference",
+  "video_provider": "Bhains ki Pathshala / Bakul Patel for non-technical resources",
+  "notes": [
+    "Technical subject/topic names preserved from source.",
+    "Nontechnical structure follows Advt 419/202627 Part-A: Reasoning & Data Interpretation 30, Quantitative Aptitude 30, Constitution 10, Current Affairs 10, Comprehension 10.",
+    "Exact full PYQ text is not bundled; source link is provided and in-app practice questions are syllabus-aligned/paraphrased.",
+    "All existing technical visual canvases were replaced with video-only rendering.",
+    "Your Progress persistence logic was not edited."
+  ]
+}

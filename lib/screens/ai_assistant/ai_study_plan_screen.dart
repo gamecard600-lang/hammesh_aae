@@ -31,7 +31,7 @@ class _AiStudyPlanScreenState extends State<AiStudyPlanScreen> {
     final results = await Future.wait([
       LocalStorageService.loadTopicMistakes(),
       LocalStorageService.loadExamHistory(),
-      LocalStorageService.loadStudyProgress(),
+      LocalStorageService.loadCombinedStudyProgress(),
     ]);
 
     _topicMistakes = results[0] as Map<String, int>;

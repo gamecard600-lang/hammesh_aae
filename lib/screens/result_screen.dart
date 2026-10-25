@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../models/exam_result.dart';
 import '../models/progress.dart';
 import '../services/progress_service.dart';
+import '../services/local_storage_service.dart';
 import 'review_screen.dart';
 import 'question_practice_screen.dart';
 
@@ -35,6 +36,13 @@ class _ResultScreenState extends State<ResultScreen> {
     );
 
     await ProgressService.saveProgress(progress);
+
+    if (widget.result.correct > 0 || widget.result.percentage >= 40) {
+      await LocalStorageService.markTopicCompleted(
+        widget.result.subject,
+        widget.result.subTopic,
+      );
+    }
   }
 
   @override
@@ -140,7 +148,9 @@ class _ResultScreenState extends State<ResultScreen> {
                 ],
               ),
               
-              const SizedBox(height: 32),
+              const SizedBox(height: 16),
+              _buildSpeedometerAndCutoffCard(),
+              const SizedBox(height: 20),
               
               ElevatedButton.icon(
                 onPressed: () {
@@ -223,6 +233,100 @@ class _ResultScreenState extends State<ResultScreen> {
           style: const TextStyle(fontSize: 12, color: Colors.grey),
         ),
       ],
+    );
+  }
+
+  Widget _buildSpeedometerAndCutoffCard() {
+    final times = widget.result.questionTimeSpent;
+    int totalTime = 0;
+    if (times.isNotEmpty) {
+      totalTime = times.reduce((a, b) => a + b);
+    }
+    final int avgSec = widget.result.totalQuestions > 0
+        ? (totalTime / widget.result.totalQuestions).round()
+        : 30;
+
+    String speedRating;
+    Color speedColor;
+    IconData speedIcon;
+
+    if (avgSec <= 35) {
+      speedRating = '🔥 Fast & Accurate Solver ($avgSec sec/MCQ)';
+      speedColor = Colors.green;
+      speedIcon = Icons.speed;
+    } else if (avgSec <= 60) {
+      speedRating = '⚡ Balanced Speed ($avgSec sec/MCQ)';
+      speedColor = Colors.blue;
+      speedIcon = Icons.timer;
+    } else {
+      speedRating = '⚠️ Need Speed Practice ($avgSec sec/MCQ)';
+      speedColor = Colors.orange;
+      speedIcon = Icons.warning_amber_rounded;
+    }
+
+    final pct = widget.result.percentage;
+    String cutoffStatus;
+    Color cutoffColor;
+    String percentile;
+
+    if (pct >= 70) {
+      cutoffStatus = '🟢 SAFE ZONE (GSSSB Cut-off Cleared!)';
+      cutoffColor = Colors.green;
+      percentile = 'Top 95th Percentile';
+    } else if (pct >= 50) {
+      cutoffStatus = '🟡 BORDERLINE ZONE (Increase Accuracy)';
+      cutoffColor = Colors.amber.shade900;
+      percentile = 'Top 75th Percentile';
+    } else {
+      cutoffStatus = '🔴 IMPROVEMENT NEEDED';
+      cutoffColor = Colors.red;
+      percentile = 'Top 45th Percentile';
+    }
+
+    return Card(
+      color: Colors.blueGrey.shade50.withValues(alpha: 0.5),
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(16),
+        side: BorderSide(color: Colors.blueGrey.shade200),
+      ),
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text(
+              '⏱️ Speed & Cut-off Performance Analytics',
+              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14),
+            ),
+            const Divider(height: 16),
+            Row(
+              children: [
+                Icon(speedIcon, color: speedColor, size: 20),
+                const SizedBox(width: 8),
+                Expanded(
+                  child: Text(
+                    speedRating,
+                    style: TextStyle(fontWeight: FontWeight.w600, color: speedColor, fontSize: 13),
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            Row(
+              children: [
+                Icon(Icons.flag_outlined, color: cutoffColor, size: 20),
+                const SizedBox(width: 8),
+                Expanded(
+                  child: Text(
+                    '$cutoffStatus • $percentile',
+                    style: TextStyle(fontWeight: FontWeight.w600, color: cutoffColor, fontSize: 12.5),
+                  ),
+                ),
+              ],
+            ),
+          ],
+        ),
+      ),
     );
   }
 }

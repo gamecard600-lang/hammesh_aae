@@ -1,1 +1,3 @@
-// Legacy Group Dialog - Group system removed in favor of Global Automatic Leaderboard.
+/// Legacy Group Dialog - Group system removed in favor of Global Automatic Leaderboard.
+library;
+

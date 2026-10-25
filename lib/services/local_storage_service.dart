@@ -5,6 +5,8 @@ import '../models/app_backup.dart';
 import '../models/study_progress.dart';
 import '../models/study_bookmark.dart';
 import '../models/mistake.dart';
+import '../models/test_session.dart';
+import 'progress_service.dart';
 
 class LocalStorageService {
   static const String _bookmarksKey = 'bookmarked_questions_ids';
@@ -131,10 +133,65 @@ class LocalStorageService {
     return data.map((item) => StudyProgress.fromJson(jsonDecode(item))).toList();
   }
 
+  /// Combines explicit study progress with exam history and MCQ practice test
+  /// completions so user progress is never lost or shown as 0.
+  static Future<List<StudyProgress>> loadCombinedStudyProgress() async {
+    final studyProgress = await loadStudyProgress();
+    final examHistory = await loadExamHistory();
+    final mcqProgress = await ProgressService.loadProgress();
+
+    final Map<String, StudyProgress> combined = {};
+
+    for (final p in studyProgress) {
+      final key = '${p.subject.trim().toLowerCase()}__${p.topic.trim().toLowerCase()}';
+      combined[key] = p;
+    }
+
+    for (final h in examHistory) {
+      if (h.isPracticeRetry) continue;
+      final cleanSubTopic = h.subTopic.replaceAll(RegExp(r'\(.*?\)'), '').trim();
+      if (cleanSubTopic.isEmpty || h.subject.isEmpty) continue;
+
+      final key = '${h.subject.trim().toLowerCase()}__${cleanSubTopic.toLowerCase()}';
+      if (!combined.containsKey(key) || !combined[key]!.completed) {
+        if (h.percentage >= 40 || h.correct > 0) {
+          combined[key] = StudyProgress(
+            subject: h.subject,
+            topic: cleanSubTopic,
+            completed: true,
+            progress: h.percentage.toInt().clamp(0, 100),
+          );
+        }
+      }
+    }
+
+    for (final p in mcqProgress) {
+      if (p.subject.isEmpty || p.subTopic.isEmpty) continue;
+      final key = '${p.subject.trim().toLowerCase()}__${p.subTopic.trim().toLowerCase()}';
+      if (!combined.containsKey(key) || !combined[key]!.completed) {
+        if (p.correctAnswers > 0 || p.attemptedQuestions > 0) {
+          combined[key] = StudyProgress(
+            subject: p.subject,
+            topic: p.subTopic,
+            completed: true,
+            progress: 100,
+          );
+        }
+      }
+    }
+
+    return combined.values.toList();
+  }
+
   static Future<void> markTopicCompleted(String subject, String topic) async {
     final progressList = await loadStudyProgress();
-    final index = progressList.indexWhere((p) => p.subject == subject && p.topic == topic);
-    
+    final normSubject = subject.trim().toLowerCase();
+    final normTopic = topic.trim().toLowerCase();
+
+    final index = progressList.indexWhere(
+      (p) => p.subject.trim().toLowerCase() == normSubject && p.topic.trim().toLowerCase() == normTopic,
+    );
+
     final newProgress = StudyProgress(
       subject: subject,
       topic: topic,
@@ -221,6 +278,30 @@ class LocalStorageService {
     } catch (_) {
       return {};
     }
+  }
+
+  // --- Test Sessions (Resume) ---
+  static const String _testSessionPrefix = 'test_session_v1_';
+
+  static Future<void> saveTestSession(TestSession session) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString('$_testSessionPrefix${session.sessionType}', jsonEncode(session.toJson()));
+  }
+
+  static Future<TestSession?> loadTestSession(String sessionType) async {
+    final prefs = await SharedPreferences.getInstance();
+    final raw = prefs.getString('$_testSessionPrefix$sessionType');
+    if (raw == null || raw.isEmpty) return null;
+    try {
+      return TestSession.fromJson(jsonDecode(raw));
+    } catch (_) {
+      return null;
+    }
+  }
+
+  static Future<void> clearTestSession(String sessionType) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.remove('$_testSessionPrefix$sessionType');
   }
 
   // --- Backup & Restore ---

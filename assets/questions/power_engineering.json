@@ -4,7 +4,7 @@
     "subject": "Power Engineering",
     "subTopic": "Air Compressors",
     "question": "What is the machine used to increase the pressure of air or gas called?",
-    "gujaratiQuestion": "01. હવા કે ગેસનું દબાણ વધારવા માટે વપરાતા મશીનને શું કહેવામાં આવે છે?",
+    "gujaratiQuestion": "01. હવા કે ગેસનું પ્રેશર વધારવા માટે વપરાતા મશીનને શું કહેવામાં આવે છે?",
     "options": [
       "ટર્બાઇન",
       "કમ્પ્રેસર",
@@ -12,7 +12,7 @@
       "બોઈલર"
     ],
     "correctAnswer": 1,
-    "explanation": "હવા કે ગેસ જેવા સંકોચાઈ શકે તેવા (compressible) ફ્લુઇડનું દબાણ વધારવા માટે કમ્પ્રેસર વપરાય છે[cite: 6]."
+    "explanation": "હવા કે ગેસ જેવા સંકોચાઈ શકે તેવા (compressible) ફ્લુઇડનું પ્રેશર વધારવા માટે કમ્પ્રેસર વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
       "એડિઆબેટિક કમ્પ્રેશન"
     ],
     "correctAnswer": 2,
-    "explanation": "આઇસોથર્મલ પ્રક્રિયા દરમિયાન તાપમાન અચળ રહેતું હોવાથી કમ્પ્રેશન માટે જરૂરી કાર્ય ન્યૂનતમ હોય છે[cite: 6]."
+    "explanation": "આઇસોથર્મલ પ્રોસેસ દરમિયાન ટેમ્પરેચર અચળ રહેતું હોવાથી કમ્પ્રેશન માટે જરૂરી વર્ક ન્યૂનતમ હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
       "રેડિયલ કમ્પ્રેસર"
     ],
     "correctAnswer": 1,
-    "explanation": "રિસીપ્રોકેટિંગ કમ્પ્રેસરમાં પિસ્ટનની આગળ-પાછળ ગતિને કારણે હવાનો પ્રવાહ અટક્યા પછી (Intermittent) મળે છે[cite: 6]."
+    "explanation": "રિસીપ્રોકેટિંગ કમ્પ્રેસરમાં પિસ્ટનની આગળ-પાછળ ગતિને કારણે હવાનો ફ્લો અટક્યા પછી (Intermittent) મળે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 4,
@@ -54,10 +54,10 @@
       "વોલ્યુમેટ્રિક એફિશિયન્સી ઘટે છે",
       "વર્ક ઈનપુટ વધે છે",
       "પ્રતિ યુનિટ હવાનું વર્ક ઇનપુટ ઘટે છે",
-      "ડિસ્ચાર્જ તાપમાન વધે છે"
+      "ડિસ્ચાર્જ ટેમ્પરેચર વધે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇન્ટરકૂલિંગ સાથે મલ્ટીસ્ટેજ કમ્પ્રેશન કરવાથી પ્રતિ યુનિટ માસ માટે જરૂરી કમ્પ્રેશન વર્ક ઘટે છે[cite: 6]."
+    "explanation": "ઇન્ટરકૂલિંગ સાથે મલ્ટીસ્ટેજ કમ્પ્રેશન કરવાથી પ્રતિ યુનિટ માસ માટે જરૂરી કમ્પ્રેશન વર્ક ઘટે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 5,
@@ -72,14 +72,14 @@
       "9 બાર"
     ],
     "correctAnswer": 0,
-    "explanation": "આદર્શ ઇન્ટરકૂલર પ્રેશર P2 = √(P1 × P3) = √(1 × 36) = 6 બાર થાય છે[cite: 6]."
+    "explanation": "આદર્શ ઇન્ટરકૂલર પ્રેશર P2 = √(P1 × P3) = √(1 × 36) = 6 બાર થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 6,
     "subject": "Power Engineering",
     "subTopic": "Air Compressors",
     "question": "Which of the following is not a function of compressed air?",
-    "gujaratiQuestion": "06. નીચેનામાંથી કયું સંકુચિત હવા (compressed air) નું કાર્ય નથી?",
+    "gujaratiQuestion": "06. નીચેનામાંથી કયું સંકુચિત હવા (compressed air) નું વર્ક નથી?",
     "options": [
       "સંકુચિત હવાનો ઉપયોગ વાહનના ટાયરમાં થાય છે",
       "સંકુચિત હવાનો ઉપયોગ ટર્બાઈન અને પ્રોપલ્ઝન યુનિટ્સમાં થાય છે",
@@ -87,7 +87,7 @@
       "સંકુચિત હવાનો ઉપયોગ ન્યુમેટિક બ્રેક્સમાં થાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "હાઇડ્રોલિક પ્રેસ ચલાવવા માટે તેલ અથવા પાણી જેવા પ્રવાહી વપરાય છે, સંકુચિત હવા નહીં[cite: 6]."
+    "explanation": "હાઇડ્રોલિક પ્રેસ ચલાવવા માટે તેલ અથવા પાણી જેવા ફ્લુઇડ વપરાય છે, સંકુચિત હવા નહીં[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@
       "પહેલા વધે અને પછી ઘટે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "η_vol = 1 + C - C(P2/P1)^(1/n) સૂત્ર મુજબ કમ્પ્રેશન રેશિયો વધવાથી વોલ્યુમેટ્રિક કાર્યક્ષમતા ઘટે છે[cite: 6]."
+    "explanation": "η_vol = 1 + C - C(P2/P1)^(1/n) સૂત્ર મુજબ કમ્પ્રેશન રેશિયો વધવાથી વોલ્યુમેટ્રિક વર્કક્ષમતા ઘટે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 8,
@@ -117,14 +117,14 @@
       "આઈસોથર્મલ એફિશિયન્સી વધારવા"
     ],
     "correctAnswer": 1,
-    "explanation": "પિસ્ટન સિલિન્ડર કવર સાથે અથડાય નહીં અને વાલ્વ સરળતાથી ખુલી-બંધ થઈ શકે તે માટે ક્લિયરન્સ વોલ્યુમ અપાય છે[cite: 6]."
+    "explanation": "પિસ્ટન સિલિન્ડર કવર સાથે અથડાય નહીં અને વાલ્વ સરળતાથી ખુલી-બંધ થઈ શકે તે માટે ક્લિયરન્સ વોલ્યુમ અપાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 9,
     "subject": "Power Engineering",
     "subTopic": "Compressor Classification",
     "question": "A compressor having rows of rotor and stator blades where air flows parallel to the axis of rotation is called:",
-    "gujaratiQuestion": "09. એવું કમ્પ્રેસર જેમાં રોટર અને સ્ટેટર બ્લેડની હરોળ હોય અને હવાનો પ્રવાહ પરિભ્રમણની ધરીને સમાંતર વહેતો હોય તેને શું કહેવાય છે?",
+    "gujaratiQuestion": "09. એવું કમ્પ્રેસર જેમાં રોટર અને સ્ટેટર બ્લેડની હરોળ હોય અને હવાનો ફ્લો રોટેશનની ધરીને સમાંતર વહેતો હોય તેને શું કહેવાય છે?",
     "options": [
       "રિસીપ્રોકેટિંગ કમ્પ્રેસર",
       "સેન્ટ્રિફ્યુગલ કમ્પ્રેસર",
@@ -132,14 +132,14 @@
       "એક્ષિયલ ફ્લો કમ્પ્રેસર"
     ],
     "correctAnswer": 3,
-    "explanation": "હવાનો પ્રવાહ અક્ષને સમાંતર વહેતો હોવાથી તેને એક્સિયલ ફ્લો કમ્પ્રેસર (Axial flow compressor) કહે છે[cite: 6]."
+    "explanation": "હવાનો ફ્લો અક્ષને સમાંતર વહેતો હોવાથી તેને એક્સિયલ ફ્લો કમ્પ્રેસર (Axial flow compressor) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 10,
     "subject": "Power Engineering",
     "subTopic": "Compressor Classification",
     "question": "Which compressor is most suitable for supplying large volume of air at low pressure?",
-    "gujaratiQuestion": "010. મોટા જથ્થામાં અને નીચા દબાણે હવા સપ્લાય કરવા માટે કયું કમ્પ્રેસર સૌથી વધુ યોગ્ય છે?",
+    "gujaratiQuestion": "010. મોટા જથ્થામાં અને નીચા પ્રેશરે હવા સપ્લાય કરવા માટે કયું કમ્પ્રેસર સૌથી વધુ યોગ્ય છે?",
     "options": [
       "રિસીપ્રોકેટિંગ કમ્પ્રેસર",
       "રોટરી કમ્પ્રેસર",
@@ -147,7 +147,7 @@
       "હાઈ પ્રેશર કમ્પ્રેસર"
     ],
     "correctAnswer": 1,
-    "explanation": "મોટા ડિસ્ચાર્જ અને નીચાથી મધ્યમ દબાણ માટે રોટરી/સેન્ટ્રિફ્યુગલ કમ્પ્રેસર સૌથી યોગ્ય છે[cite: 6]."
+    "explanation": "મોટા ડિસ્ચાર્જ અને નીચાથી મધ્યમ પ્રેશર માટે રોટરી/સેન્ટ્રિફ્યુગલ કમ્પ્રેસર સૌથી યોગ્ય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 11,
@@ -162,7 +162,7 @@
       "ફ્લો રેટ અને બ્લેડ વેલોસિટીનો ગુણોત્તર"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્લિપ ફેક્ટર એ એક્ચ્યુઅલ વ્હર્લ વેલોસિટી (Vw2) અને બ્લેડ વેલોસિટી (u2) નો ગુણોત્તર છે[cite: 6]."
+    "explanation": "સ્લિપ ફેક્ટર એ એક્ચ્યુઅલ વ્હર્લ વેલોસિટી (Vw2) અને બ્લેડ વેલોસિટી (u2) નો ગુણોત્તર છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 12,
@@ -177,14 +177,14 @@
       "0.1"
     ],
     "correctAnswer": 1,
-    "explanation": "Pressure ratio = Delivery Pressure / Suction Pressure = 800 / 100 = 8[cite: 6]."
+    "explanation": "Pressure ratio = Delivery Pressure / Suction Pressure = 800 / 100 = 8[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 13,
     "subject": "Power Engineering",
     "subTopic": "Gas Power Cycles",
     "question": "On which cycle does a gas turbine operate?",
-    "gujaratiQuestion": "013. ગેસ ટર્બાઈન કઈ સાયકલ પર કાર્ય કરે છે?",
+    "gujaratiQuestion": "013. ગેસ ટર્બાઈન કઈ સાયકલ પર વર્ક કરે છે?",
     "options": [
       "રેન્કિન સાયકલ",
       "ઓટો સાયકલ",
@@ -192,14 +192,14 @@
       "ડીઝલ સાયકલ"
     ],
     "correctAnswer": 2,
-    "explanation": "ગેસ ટર્બાઇન પ્લાન્ટ બ્રેટન (અથવા જૂલ) સાયકલ પર કાર્ય કરે છે[cite: 6]."
+    "explanation": "ગેસ ટર્બાઇન પ્લાન્ટ બ્રેટન (અથવા જૂલ) સાયકલ પર વર્ક કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 14,
     "subject": "Power Engineering",
     "subTopic": "Gas Power Cycles",
     "question": "Which four main processes are present in a Brayton cycle?",
-    "gujaratiQuestion": "014. બ્રેટન સાયકલમાં કઈ ચાર મુખ્ય પ્રક્રિયાઓ હોય છે?",
+    "gujaratiQuestion": "014. બ્રેટન સાયકલમાં કઈ ચાર મુખ્ય પ્રોસેસીસ હોય છે?",
     "options": [
       "બે આઈસેન્ટ્રોપિક અને બે આઈસોબેરિક",
       "બે આઈસેન્ટ્રોપિક અને બે આઇસોકોરિક",
@@ -207,7 +207,7 @@
       "બે આઈસોથર્મલ અને બે આઈસોકોરિક"
     ],
     "correctAnswer": 0,
-    "explanation": "બ્રેટન સાયકલમાં 2 રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક) અને 2 આઈસોબારિક (અચળ દબાણ) પ્રક્રિયાઓ હોય છે[cite: 6]."
+    "explanation": "બ્રેટન સાયકલમાં 2 રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક) અને 2 આઈસોબારિક (અચળ પ્રેશર) પ્રોસેસીસ હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 15,
@@ -217,12 +217,12 @@
     "gujaratiQuestion": "015. રિજનરેટિવ રેન્કિન સાયકલમાં, સ્ટીમ ટર્બાઇનમાંથી કાઢવામાં આવેલી સ્ટીમનો ઉપયોગ શેના માટે થાય છે?",
     "options": [
       "બોઈલરમાં બળતણ સળગતા પહેલા તેને પ્રીહીટ કરવા",
-      "ફીડ પંપ ચલાવવા અને સ્ટીમનું દબાણ વધારવા",
+      "ફીડ પંપ ચલાવવા અને સ્ટીમનું પ્રેશર વધારવા",
       "ફીડ વોટર બોઈલરમાં પ્રવેશે તે પહેલા તેને પ્રીહીટ કરવા",
       "ટર્બાઈન સ્ટેજીસ વચ્ચે સ્ટીમને રિહીટ કરવા"
     ],
     "correctAnswer": 2,
-    "explanation": "ટર્બાઇનમાંથી બ્લીડ કરેલી સ્ટીમ બોઇલરમાં પ્રવેશતા પહેલા ફીડ વોટરને પ્રીહીટ કરવા માટે વપરાય છે[cite: 6]."
+    "explanation": "ટર્બાઇનમાંથી બ્લીડ કરેલી સ્ટીમ બોઇલરમાં પ્રવેશતા પહેલા ફીડ વોટરને પ્રીહીટ કરવા માટે વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 16,
@@ -237,7 +237,7 @@
       "1 - rp^((γ - 1)/γ)"
     ],
     "correctAnswer": 1,
-    "explanation": "બ્રેટન સાયકલની કાર્યક્ષમતાનું સૂત્ર η = 1 - 1 / [rp^((γ-1)/γ)] છે[cite: 6]."
+    "explanation": "બ્રેટન સાયકલની વર્કક્ષમતાનું સૂત્ર η = 1 - 1 / [rp^((γ-1)/γ)] છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 17,
@@ -252,37 +252,37 @@
       "શૂન્ય થાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્રેશર રેશિયો rp વધવાથી બ્રેટન સાયકલની થર્મલ કાર્યક્ષમતા વધે છે[cite: 6]."
+    "explanation": "પ્રેશર રેશિયો rp વધવાથી બ્રેટન સાયકલની થર્મલ વર્કક્ષમતા વધે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 18,
     "subject": "Power Engineering",
     "subTopic": "Air Compressors",
     "question": "In which thermodynamic process is minimum theoretical work required to compress gas between two given pressures?",
-    "gujaratiQuestion": "Q18. નીચેનામાંથી કઈ થર્મોડાયનેમિક પ્રક્રિયામાં આપેલા બે દબાણ વચ્ચે ગેસને સંકુચિત કરવા માટે ન્યૂનતમ સૈદ્ધાંતિક કાર્યની જરૂર પડે છે?",
+    "gujaratiQuestion": "Q18. નીચેનામાંથી કઈ થર્મોડાયનેમિક પ્રોસેસમાં આપેલા બે પ્રેશર વચ્ચે ગેસને સંકુચિત કરવા માટે ન્યૂનતમ સૈદ્ધાંતિક વર્કની જરૂર પડે છે?",
     "options": [
-      "આઇસોકોરિક પ્રક્રિયા",
-      "એડિયાબેટિક પ્રક્રિયા",
-      "પોલિટ્રોપિક પ્રક્રિયા",
-      "આઇસોથર્મલ પ્રક્રિયા"
+      "આઇસોકોરિક પ્રોસેસ",
+      "એડિયાબેટિક પ્રોસેસ",
+      "પોલિટ્રોપિક પ્રોસેસ",
+      "આઇસોથર્મલ પ્રોસેસ"
     ],
     "correctAnswer": 3,
-    "explanation": "આઇસોથર્મલ કમ્પ્રેશનમાં p-v ડાયાગ્રામ નીચેનો વિસ્તાર સૌથી ઓછો હોવાથી કાર્ય ન્યૂનતમ થાય છે[cite: 6]."
+    "explanation": "આઇસોથર્મલ કમ્પ્રેશનમાં p-v ડાયાગ્રામ નીચેનો વિસ્તાર સૌથી ઓછો હોવાથી વર્ક ન્યૂનતમ થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 19,
     "subject": "Power Engineering",
     "subTopic": "Gas Power Cycles",
     "question": "In a closed cycle gas turbine, by which process is the gas cooled in the cooling chamber?",
-    "gujaratiQuestion": "019. ક્લોઝડ સાયકલ ગેસ ટર્બાઈનમાં કૂલિંગ ચેમ્બરમાં ગેસને કઈ પ્રક્રિયા દ્વારા ઠંડો કરવામાં આવે છે?",
+    "gujaratiQuestion": "019. ક્લોઝડ સાયકલ ગેસ ટર્બાઈનમાં કૂલિંગ ચેમ્બરમાં ગેસને કઈ પ્રોસેસ દ્વારા ઠંડો કરવામાં આવે છે?",
     "options": [
-      "આઈસોકોરિક પ્રક્રિયા",
-      "આઇસોથર્મલ પ્રક્રિયા",
-      "આઈસેન્ટ્રોપિક પ્રક્રિયા",
-      "આઇસોબેરિક પ્રક્રિયા"
+      "આઈસોકોરિક પ્રોસેસ",
+      "આઇસોથર્મલ પ્રોસેસ",
+      "આઈસેન્ટ્રોપિક પ્રોસેસ",
+      "આઇસોબેરિક પ્રોસેસ"
     ],
     "correctAnswer": 3,
-    "explanation": "કૂલિંગ ચેમ્બરમાં ગેસને અચળ દબાણે (Isobaric process) ઉષ્મા મુક્ત કરીને ઠંડો પાડવામાં આવે છે[cite: 6]."
+    "explanation": "કૂલિંગ ચેમ્બરમાં ગેસને અચળ પ્રેશરે (Isobaric process) હીટ મુક્ત કરીને ઠંડો પાડવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 20,
@@ -297,7 +297,7 @@
       "ઉપરોક્ત તમામ"
     ],
     "correctAnswer": 2,
-    "explanation": "રેટો (Rateau) ટર્બાઇન એ પ્રેશર કમ્પાઉન્ડેડ ઇમ્પલ્સ ટર્બાઇન છે (કર્ટિસ એ વેલોસિટી કમ્પાઉન્ડેડ છે)[cite: 6]."
+    "explanation": "રેટો (Rateau) ટર્બાઇન એ પ્રેશર કમ્પાઉન્ડેડ ઇમ્પલ્સ ટર્બાઇન છે (કર્ટિસ એ વેલોસિટી કમ્પાઉન્ડેડ છે)[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 21,
@@ -312,7 +312,7 @@
       "20% થી 30%"
     ],
     "correctAnswer": 1,
-    "explanation": "રિસીપ્રોકેટિંગ કમ્પ્રેસરમાં ક્લિયરન્સ રેશિયો સામાન્ય રીતે 4% થી 10% ની વચ્ચે રાખવામાં આવે છે[cite: 6]."
+    "explanation": "રિસીપ્રોકેટિંગ કમ્પ્રેસરમાં ક્લિયરન્સ રેશિયો સામાન્ય રીતે 4% થી 10% ની વચ્ચે રાખવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 22,
@@ -321,13 +321,13 @@
     "question": "What is the main purpose of an intercooler in multi-stage compression?",
     "gujaratiQuestion": "022. મલ્ટીસ્ટેજ કમ્પ્રેશરમાં ઇન્ટરકૂલરનો મુખ્ય હેતુ શું છે?",
     "options": [
-      "હવાનું દબાણ વધારવું",
-      "હવાનું કદ વધારવું",
-      "હવાને અચળ દબાણે ઠંડી કરવી",
+      "હવાનું પ્રેશર વધારવું",
+      "હવાનું વોલ્યુમ વધારવું",
+      "હવાને અચળ પ્રેશરે ઠંડી કરવી",
       "હવાની ભેજ દૂર કરવી"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇન્ટરકૂલરનું કાર્ય બે સ્ટેજ વચ્ચે હવાને અચળ દબાણે ઠંડી પાડી તેનું કદ અને કમ્પ્રેશન વર્ક ઘટાડવાનું છે[cite: 6]."
+    "explanation": "ઇન્ટરકૂલરનું વર્ક બે સ્ટેજ વચ્ચે હવાને અચળ પ્રેશરે ઠંડી પાડી તેનું વોલ્યુમ અને કમ્પ્રેશન વર્ક ઘટાડવાનું છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 23,
@@ -342,7 +342,7 @@
       "આપેલ તમામ"
     ],
     "correctAnswer": 3,
-    "explanation": "ટર્બાઇનમાં રિવર્સિબલ હીટ ટ્રાન્સફરની અશક્યતા અને સ્ટીમનું ઊંચું ભેજ પ્રમાણ જેવા તમામ કારણો જવાબદાર છે[cite: 6]."
+    "explanation": "ટર્બાઇનમાં રિવર્સિબલ હીટ ટ્રાન્સફરની અશક્યતા અને સ્ટીમનું ઊંચું ભેજ પ્રમાણ જેવા તમામ કારણો જવાબદાર છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 24,
@@ -357,7 +357,7 @@
       "સ્ટીમ એન્જિન"
     ],
     "correctAnswer": 1,
-    "explanation": "બળતણનું દહન વર્કિંગ ગેસમાં અંદર જ થતું હોવાથી અને રોટરી ગતિ હોવાથી તે રોટરી IC એન્જિન ગણાય છે[cite: 6]."
+    "explanation": "બળતણનું દહન વર્કિંગ ગેસમાં અંદર જ થતું હોવાથી અને રોટરી ગતિ હોવાથી તે રોટરી IC એન્જિન ગણાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 25,
@@ -367,12 +367,12 @@
     "gujaratiQuestion": "025. સિમ્પલ ગેસ ટર્બાઇન સાયકલનો વર્ક રેશિયો કોના પર આધાર રાખે છે?",
     "options": [
       "માત્ર પ્રેશર રેશિયો",
-      "માત્ર મહત્તમ સાયકલ તાપમાન",
-      "માત્ર ન્યૂનતમ સાયકલ તાપમાન",
+      "માત્ર મહત્તમ સાયકલ ટેમ્પરેચર",
+      "માત્ર ન્યૂનતમ સાયકલ ટેમ્પરેચર",
       "આપેલ તમામ"
     ],
     "correctAnswer": 3,
-    "explanation": "વર્ક રેશિયો rw = Wnet / WT એ પ્રેશર રેશિયો અને મહત્તમ/ન્યૂનતમ તાપમાન ગુણોત્તર પર આધારિત છે[cite: 6]."
+    "explanation": "વર્ક રેશિયો rw = Wnet / WT એ પ્રેશર રેશિયો અને મહત્તમ/ન્યૂનતમ ટેમ્પરેચર ગુણોત્તર પર આધારિત છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 26,
@@ -387,7 +387,7 @@
       "બળતણની કેલરીફિક વેલ્યુ"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્રાયોગિક રીતે એન્જિનમાં એક્ઝોસ્ટમાંથી પાણીની વરાળ નીકળી જતી હોવાથી નેટ કેલરીફિક વેલ્યુ (LCV) વપરાય છે[cite: 6]."
+    "explanation": "પ્રાયોગિક રીતે એન્જિનમાં એક્ઝોસ્ટમાંથી પાણીની વરાળ નીકળી જતી હોવાથી નેટ કેલરીફિક વેલ્યુ (LCV) વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 27,
@@ -402,7 +402,7 @@
       "સિલિન્ડરની જાડાઈ"
     ],
     "correctAnswer": 3,
-    "explanation": "વોલ્યુમેટ્રિક કાર્યક્ષમતા ક્લિયરન્સ, પ્રેશર રેશિયો અને ઇન્ડેક્સ પર આધાર રાખે છે, સિલિન્ડરની જાડાઈ પર નહીં[cite: 6]."
+    "explanation": "વોલ્યુમેટ્રિક વર્કક્ષમતા ક્લિયરન્સ, પ્રેશર રેશિયો અને ઇન્ડેક્સ પર આધાર રાખે છે, સિલિન્ડરની જાડાઈ પર નહીં[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 28,
@@ -417,7 +417,7 @@
       "સેન્ટ્રિફ્યુગલ કમ્પ્રેસર"
     ],
     "correctAnswer": 3,
-    "explanation": "સેન્ટ્રિફ્યુગલ કમ્પ્રેસર એ ડાયનેમિક (રોટોડાયનેમિક) કમ્પ્રેસર છે, પોઝિટિવ ડિસ્પ્લેસમેન્ટ નથી[cite: 6]."
+    "explanation": "સેન્ટ્રિફ્યુગલ કમ્પ્રેસર એ ડાયનેમિક (રોટોડાયનેમિક) કમ્પ્રેસર છે, પોઝિટિવ ડિસ્પ્લેસમેન્ટ નથી[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 29,
@@ -432,14 +432,14 @@
       "દર્શાવેલ પૈકી કોઈ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "રેન્કિન સાયકલમાં પાણીમાંથી વરાળ ફેઝ ચેન્જ થાય છે, જ્યારે બ્રેટન સાયકલમાં ગેસ માત્ર વાયુ સ્વરૂપે રહે છે[cite: 6]."
+    "explanation": "રેન્કિન સાયકલમાં પાણીમાંથી વરાળ ફેઝ ચેન્જ થાય છે, જ્યારે બ્રેટન સાયકલમાં ગેસ માત્ર વાયુ સ્વરૂપે રહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 30,
     "subject": "Power Engineering",
     "subTopic": "Air Compressors",
     "question": "To increase the efficiency of an air compressor, from where should air be drawn?",
-    "gujaratiQuestion": "030. એર કમ્પ્રેસરની કાર્યક્ષમતા વધારવા માટે હવા ક્યાંથી ખેંચવી જોઇએ?",
+    "gujaratiQuestion": "030. એર કમ્પ્રેસરની વર્કક્ષમતા વધારવા માટે હવા ક્યાંથી ખેંચવી જોઇએ?",
     "options": [
       "ગરમ રૂમમાંથી",
       "ઠંડા વાતાવરણમાંથી",
@@ -447,7 +447,7 @@
       "સીલબંધ રૂમમાંથી"
     ],
     "correctAnswer": 1,
-    "explanation": "ઠંડી હવાની ઘનતા વધારે હોય છે, જેથી ઓછું કમ્પ્રેશન વર્ક લાગે છે અને કાર્યક્ષમતા સુધરે છે[cite: 6]."
+    "explanation": "ઠંડી હવાની ડેન્સિટી વધારે હોય છે, જેથી ઓછું કમ્પ્રેશન વર્ક લાગે છે અને વર્કક્ષમતા સુધરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 31,
@@ -462,7 +462,7 @@
       "mCv * (T2 - T1)"
     ],
     "correctAnswer": 0,
-    "explanation": "પોલિટ્રોપિક પ્રક્રિયા માટે વર્ક ડન W = [n / (n - 1)] * mR(T2 - T1) થાય છે[cite: 6]."
+    "explanation": "પોલિટ્રોપિક પ્રોસેસ માટે વર્ક ડન W = [n / (n - 1)] * mR(T2 - T1) થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 32,
@@ -477,7 +477,7 @@
       "રિસીપ્રોકેટિંગ અથવા સ્ક્રુ કમ્પ્રેસર"
     ],
     "correctAnswer": 2,
-    "explanation": "મોટા જથ્થામાં હવાના પ્રવાહ માટે ગેસ ટર્બાઇનમાં મલ્ટિસ્ટેજ એક્સિયલ ફ્લો કમ્પ્રેસર વપરાય છે[cite: 6]."
+    "explanation": "મોટા જથ્થામાં હવાના ફ્લો માટે ગેસ ટર્બાઇનમાં મલ્ટિસ્ટેજ એક્સિયલ ફ્લો કમ્પ્રેસર વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 33,
@@ -487,12 +487,12 @@
     "gujaratiQuestion": "033. ફ્રી એર ડિલિવરી (FAD) હંમેશા કઈ કન્ડિશન પર માપવામાં આવે છે?",
     "options": [
       "કમ્પ્રેસરના ડિસ્ચાર્જ પ્રેશર પર",
-      "ઇન્ટેક તાપમાન અને વાતાવરણીય દબાણ પર",
+      "ઇન્ટેક ટેમ્પરેચર અને વાતાવરણીય પ્રેશર પર",
       "NTP કન્ડિશન પર",
       "સ્ટાન્ડર્ડ ટેમ્પરેચર અને પ્રેશર પર"
     ],
     "correctAnswer": 1,
-    "explanation": "FAD એટલે કમ્પ્રેસર દ્વારા બહાર નીકળેલી હવાનું કદ, જે ઇનલેટ તાપમાન અને એમ્બિયન્ટ પ્રેશરે માપવામાં આવે છે[cite: 6]."
+    "explanation": "FAD એટલે કમ્પ્રેસર દ્વારા બહાર નીકળેલી હવાનું વોલ્યુમ, જે ઇનલેટ ટેમ્પરેચર અને એમ્બિયન્ટ પ્રેશરે માપવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 34,
@@ -507,7 +507,7 @@
       "ફ્લો અને એફિશિયન્સી ઘટે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "સેન્ટ્રિફ્યુગલ કમ્પ્રેસરની ગતિ વધારવાથી માસ ફ્લો રેટ વધે છે[cite: 6]."
+    "explanation": "સેન્ટ્રિફ્યુગલ કમ્પ્રેસરની ગતિ વધારવાથી માસ ફ્લો રેટ વધે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 35,
@@ -522,7 +522,7 @@
       "થર્મલ, મોટું સ્ટીમ ટર્બાઇન"
     ],
     "correctAnswer": 1,
-    "explanation": "હાઈડ્રો પાવર પ્લાન્ટમાં લાંબા પેનસ્ટોકમાં વોટર હેમરિંગ ઘટાડવા માટે સર્જ ટેન્ક મૂકાય છે[cite: 6]."
+    "explanation": "હાઈડ્રો પાવર પ્લાન્ટમાં લાંબા પેનસ્ટોકમાં વોટર હેમરિંગ ઘટાડવા માટે સર્જ ટેન્ક મૂકાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 36,
@@ -537,7 +537,7 @@
       "બ્રેક પાવર અને ઈન્ડિકેટેડ પાવરનો ગુણોત્તર"
     ],
     "correctAnswer": 0,
-    "explanation": "આઇસોથર્મલ કાર્યક્ષમતા = આઇસોથર્મલ વર્ક / એક્ચ્યુઅલ વર્ક (Isothermal Work / Actual Work)[cite: 6]."
+    "explanation": "આઇસોથર્મલ વર્કક્ષમતા = આઇસોથર્મલ વર્ક / એક્ચ્યુઅલ વર્ક (Isothermal Work / Actual Work)[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 37,
@@ -552,14 +552,14 @@
       "ત્રિજ્યા દિશામાં"
     ],
     "correctAnswer": 1,
-    "explanation": "એક્સિયલ ફ્લો કમ્પ્રેસરમાં હવા શાફ્ટની ધરીને સમાંતર (Parallel to axis) વહે છે[cite: 6]."
+    "explanation": "એક્સિયલ ફ્લો કમ્પ્રેસરમાં હવા શાફ્ટની ધરીને સમાંતર (Parallel to axis) વહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 38,
     "subject": "Power Engineering",
     "subTopic": "Thermal Efficiency Concepts",
     "question": "What is the function of an economizer in a thermal power plant?",
-    "gujaratiQuestion": "038. થર્મલ પાવર પ્લાન્ટમાં ઈકોનોમાઈઝરનું કાર્ય શું છે?",
+    "gujaratiQuestion": "038. થર્મલ પાવર પ્લાન્ટમાં ઈકોનોમાઈઝરનું વર્ક શું છે?",
     "options": [
       "બોઈલરમાંથી સ્ટીમને ગરમ કરવી",
       "ફ્લુ ગેસનો ઉપયોગ કરીને ફીડ વોટરને ગરમ કરવું",
@@ -567,7 +567,7 @@
       "ટર્બાઇન આઉટલેટમાંથી લીધેલી સ્ટીમને ગરમ કરવી"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇકોનોમાઇઝર એક્ઝોસ્ટ ફ્લુ ગેસની ઉષ્માનો ઉપયોગ કરીને બોઇલર ફીડ વોટરને ગરમ કરે છે[cite: 6]."
+    "explanation": "ઇકોનોમાઇઝર એક્ઝોસ્ટ ફ્લુ ગેસની હીટનો ઉપયોગ કરીને બોઇલર ફીડ વોટરને ગરમ કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 39,
@@ -582,7 +582,7 @@
       "કમ્પ્રેસર વર્ક વધે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "ઇન્ટરકૂલિંગ કરવાથી કમ્પ્રેસર માટે જરૂરી વર્ક ઇનપુટ ઘટે છે, જેથી નેટ વર્ક આઉટપુટ વધે છે[cite: 6]."
+    "explanation": "ઇન્ટરકૂલિંગ કરવાથી કમ્પ્રેસર માટે જરૂરી વર્ક ઇનપુટ ઘટે છે, જેથી નેટ વર્ક આઉટપુટ વધે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 40,
@@ -597,7 +597,7 @@
       "20%"
     ],
     "correctAnswer": 3,
-    "explanation": "ભારતીય કોલસામાં રાખ (Ash) નું પ્રમાણ વધારે (સામાન્ય રીતે 20% થી 40%) હોય છે[cite: 6]."
+    "explanation": "ભારતીય કોલસામાં રાખ (Ash) નું પ્રમાણ વધારે (સામાન્ય રીતે 20% થી 40%) હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 41,
@@ -612,7 +612,7 @@
       "J/kg"
     ],
     "correctAnswer": 1,
-    "explanation": "BSFC નો એકમ કિલોગ્રામ પ્રતિ કિલોવોટ-કલાક (kg/kW-hr) છે[cite: 6]."
+    "explanation": "BSFC નો એકમ કિલોગ્રામ પ્રતિ કિલોવોટ-કલાક (kg/kW-hr) છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 42,
@@ -627,7 +627,7 @@
       "શૂન્ય થાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "દરેક સ્ટેજનો પ્રેશર રેશિયો ઘટવાથી ક્લિયરન્સ ગેસનું વિસ્તરણ ઘટે છે, જેથી વોલ્યુમેટ્રિક કાર્યક્ષમતા વધે છે[cite: 6]."
+    "explanation": "દરેક સ્ટેજનો પ્રેશર રેશિયો ઘટવાથી ક્લિયરન્સ ગેસનું વિસ્તરણ ઘટે છે, જેથી વોલ્યુમેટ્રિક વર્કક્ષમતા વધે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 43,
@@ -642,7 +642,7 @@
       "ઉપરોક્ત પૈકી કોઈ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "ઇવેપોરેટિવ કન્ડેન્સરમાં કોઈલની અંદર સ્ટીમ વહે છે અને બહારથી પાણીનો સ્પ્રે તથા હવા પસાર થાય છે[cite: 6]."
+    "explanation": "ઇવેપોરેટિવ કન્ડેન્સરમાં કોઈલની અંદર સ્ટીમ વહે છે અને બહારથી પાણીનો સ્પ્રે તથા હવા પસાર થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 44,
@@ -657,7 +657,7 @@
       "64"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્ટેજ પ્રેશર રેશિયો r = (P_final / P_initial)^(1/3) = (64 / 1)^(1/3) = 4[cite: 6]."
+    "explanation": "સ્ટેજ પ્રેશર રેશિયો r = (P_final / P_initial)^(1/3) = (64 / 1)^(1/3) = 4[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 45,
@@ -672,7 +672,7 @@
       "કમ્પ્રેસર વર્ક ઘટે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "રિજનરેટર એક્ઝોસ્ટ હીટનો ઉપયોગ કરી બળતણનો વપરાશ ઘટાડે છે, જેથી થર્મલ કાર્યક્ષમતા વધે છે[cite: 6]."
+    "explanation": "રિજનરેટર એક્ઝોસ્ટ હીટનો ઉપયોગ કરી બળતણનો વપરાશ ઘટાડે છે, જેથી થર્મલ વર્કક્ષમતા વધે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 46,
@@ -687,22 +687,22 @@
       "દર્શાવેલ તમામ"
     ],
     "correctAnswer": 2,
-    "explanation": "હાઈડ્રો પાવર પ્લાન્ટમાં કોઈ બળતણ ખર્ચ ન હોવાથી તેનો ઓપરેશન અને મેન્ટેનન્સ ખર્ચ સૌથી ઓછો હોય છે[cite: 6]."
+    "explanation": "હાઈડ્રો પાવર પ્લાન્ટમાં કોઈ બળતણ ખર્ચ ન હોવાથી તેનો ઓપરેશન અને મેન્ટેનન્સ ખર્ચ સૌથી ઓછો હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 47,
     "subject": "Power Engineering",
     "subTopic": "Air Compressors",
     "question": "When is minimum work obtained in a compression process?",
-    "gujaratiQuestion": "047. કમ્પ્રેશન પ્રક્રિયામાં ન્યૂનતમ વર્ક ક્યારે મળે છે?",
+    "gujaratiQuestion": "047. કમ્પ્રેશન પ્રોસેસમાં ન્યૂનતમ વર્ક ક્યારે મળે છે?",
     "options": [
-      "જ્યારે પ્રક્રિયા એડિઆબેટિક હોય",
-      "જ્યારે પ્રક્રિયા આઇસોથર્મલ હોય",
-      "જ્યારે પ્રક્રિયા આઇસોકોરિક હોય",
-      "જ્યારે પ્રક્રિયા આઇસોબેરિક હોય"
+      "જ્યારે પ્રોસેસ એડિઆબેટિક હોય",
+      "જ્યારે પ્રોસેસ આઇસોથર્મલ હોય",
+      "જ્યારે પ્રોસેસ આઇસોકોરિક હોય",
+      "જ્યારે પ્રોસેસ આઇસોબેરિક હોય"
     ],
     "correctAnswer": 1,
-    "explanation": "આઇસોથર્મલ કમ્પ્રેશન દરમિયાન જરૂરી વર્ક ઇનપુટ લઘુત્તમ હોય છે[cite: 6]."
+    "explanation": "આઇસોથર્મલ કમ્પ્રેશન દરમિયાન જરૂરી વર્ક ઇનપુટ લઘુત્તમ હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 48,
@@ -717,7 +717,7 @@
       "કમ્પ્રેસર, ઇવેપોરેટર અને ટર્બાઈન"
     ],
     "correctAnswer": 0,
-    "explanation": "ઓપન સાયકલ ગેસ ટર્બાઇનમાં મુખ્યત્વે કમ્પ્રેસર, કમ્બશન ચેમ્બર અને ટર્બાઇન હોય છે[cite: 6]."
+    "explanation": "ઓપન સાયકલ ગેસ ટર્બાઇનમાં મુખ્યત્વે કમ્પ્રેસર, કમ્બશન ચેમ્બર અને ટર્બાઇન હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 49,
@@ -732,7 +732,7 @@
       "હાર્ડ કોલ"
     ],
     "correctAnswer": 3,
-    "explanation": "પાવર જનરેશનમાં વપરાતા કોલસાને બોઈલર કોલ અથવા સ્ટીમ/હાર્ડ કોલ કહે છે (આન્સર કી D મુજબ)[cite: 6]."
+    "explanation": "પાવર જનરેશનમાં વપરાતા કોલસાને બોઈલર કોલ અથવા સ્ટીમ/હાર્ડ કોલ કહે છે (આન્સર કી D મુજબ)[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 50,
@@ -747,7 +747,7 @@
       "P2 = P1 / P3"
     ],
     "correctAnswer": 2,
-    "explanation": "ન્યૂનતમ કાર્ય માટે આદર્શ ઇન્ટરમીડિયેટ પ્રેશર P2 = √(P1 × P3) થાય છે[cite: 6]."
+    "explanation": "ન્યૂનતમ વર્ક માટે આદર્શ ઇન્ટરમીડિયેટ પ્રેશર P2 = √(P1 × P3) થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 51,
@@ -762,7 +762,7 @@
       "આપેલ તમામ"
     ],
     "correctAnswer": 3,
-    "explanation": "સંકુચિત હવા ન્યુમેટિક ટૂલ્સ, ગેસ ટર્બાઇન અને સ્પ્રે પેઇન્ટિંગ તમામમાં વપરાય છે[cite: 6]."
+    "explanation": "સંકુચિત હવા ન્યુમેટિક ટૂલ્સ, ગેસ ટર્બાઇન અને સ્પ્રે પેઇન્ટિંગ તમામમાં વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 52,
@@ -777,7 +777,7 @@
       "સુપરહીટેડ સ્ટીમ"
     ],
     "correctAnswer": 1,
-    "explanation": "ન્યુક્લિયર રિએક્ટર સ્ટીમ જનરેટરમાંથી નીકળતી સ્ટીમ સામાન્ય રીતે સેચ્યુરેટેડ વેટ સ્ટીમ હોય છે[cite: 6]."
+    "explanation": "ન્યુક્લિયર રિએક્ટર સ્ટીમ જનરેટરમાંથી નીકળતી સ્ટીમ સામાન્ય રીતે સેચ્યુરેટેડ વેટ સ્ટીમ હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 53,
@@ -792,7 +792,7 @@
       "સ્વેપ્ટ વોલ્યુમ અને ક્લિયરન્સ વોલ્યુમ"
     ],
     "correctAnswer": 0,
-    "explanation": "વોલ્યુમેટ્રિક કાર્યક્ષમતા = એક્ચ્યુઅલ ફ્રી એર વોલ્યુમ / સ્વેપ્ટ વોલ્યુમ (Actual volume / Swept volume)[cite: 6]."
+    "explanation": "વોલ્યુમેટ્રિક વર્કક્ષમતા = એક્ચ્યુઅલ ફ્રી એર વોલ્યુમ / સ્વેપ્ટ વોલ્યુમ (Actual volume / Swept volume)[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 54,
@@ -807,7 +807,7 @@
       "સુપિરિયર કેલરીફિક વેલ્યુ"
     ],
     "correctAnswer": 1,
-    "explanation": "ગેસ ટર્બાઇનમાં એક્ઝોસ્ટ વાયુઓ સાથે વરાળ બહાર જતી હોવાથી લોઅર હીટિંગ વેલ્યુ (LHV) લેવાય છે[cite: 6]."
+    "explanation": "ગેસ ટર્બાઇનમાં એક્ઝોસ્ટ વાયુઓ સાથે વરાળ બહાર જતી હોવાથી લોઅર હીટિંગ વેલ્યુ (LHV) લેવાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 55,
@@ -822,14 +822,14 @@
       "ગેસ ઓઈલ"
     ],
     "correctAnswer": 1,
-    "explanation": "ગેસ ટર્બાઇન મુખ્યત્વે નેચરલ ગેસ અને લાઇટ લિક્વિડ હાઇડ્રોકાર્બન ફ્યુઅલ પર ચાલે છે[cite: 6]."
+    "explanation": "ગેસ ટર્બાઇન મુખ્યત્વે નેચરલ ગેસ અને લાઇટ લિક્વિડ હાઇડ્રોકાર્બન ફ્યુઅલ પર ચાલે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 56,
     "subject": "Power Engineering",
     "subTopic": "Gas Power Cycles",
     "question": "During which process does heat addition occur in a Brayton cycle?",
-    "gujaratiQuestion": "056. બ્રેટન સાયકલમાં હીટ એડિશન કઈ પ્રક્રિયા દરમિયાન થાય છે?",
+    "gujaratiQuestion": "056. બ્રેટન સાયકલમાં હીટ એડિશન કઈ પ્રોસેસ દરમિયાન થાય છે?",
     "options": [
       "આઇસોથર્મલ",
       "આઇસોકોરિક",
@@ -837,7 +837,7 @@
       "આઈસેન્ટ્રોપિક"
     ],
     "correctAnswer": 2,
-    "explanation": "બ્રેટન સાયકલની કમ્બશન ચેમ્બરમાં અચળ દબાણે (Isobaric process) ઉષ્મા ઉમેરાય છે[cite: 6]."
+    "explanation": "બ્રેટન સાયકલની કમ્બશન ચેમ્બરમાં અચળ પ્રેશરે (Isobaric process) હીટ ઉમેરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 57,
@@ -852,14 +852,14 @@
       "ફીડવોટર પ્યુરિફિકેશન"
     ],
     "correctAnswer": 0,
-    "explanation": "ઓપન ફીડવોટર હીટર પાણીને ગરમ કરવાની સાથે ઓગળેલા વાયુઓ દૂર કરવાનું (Deaeration) કાર્ય કરે છે[cite: 6]."
+    "explanation": "ઓપન ફીડવોટર હીટર પાણીને ગરમ કરવાની સાથે ઓગળેલા વાયુઓ દૂર કરવાનું (Deaeration) વર્ક કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 58,
     "subject": "Power Engineering",
     "subTopic": "Air Compressors",
     "question": "If compression process follows PV^n = C and n = 1, which process is it?",
-    "gujaratiQuestion": "058. જો કમ્પ્રેશન પ્રક્રિયા PV^n = C ને અનુસરતી હોય અને n=1 હોય, તો તે કઈ પ્રક્રિયા છે?",
+    "gujaratiQuestion": "058. જો કમ્પ્રેશન પ્રોસેસ PV^n = C ને અનુસરતી હોય અને n=1 હોય, તો તે કઈ પ્રોસેસ છે?",
     "options": [
       "આઇસોથર્મલ",
       "એડિઆબેટિક",
@@ -867,7 +867,7 @@
       "આઇસોકોરિક"
     ],
     "correctAnswer": 0,
-    "explanation": "PV = C એ આદર્શ વાયુ માટે આઇસોથર્મલ (કોન્સ્ટન્ટ ટેમ્પરેચર) પ્રક્રિયા દર્શાવે છે[cite: 6]."
+    "explanation": "PV = C એ આદર્શ વાયુ માટે આઇસોથર્મલ (કોન્સ્ટન્ટ ટેમ્પરેચર) પ્રોસેસ દર્શાવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 59,
@@ -882,7 +882,7 @@
       "પ્રેશર રેશિયો ઘટે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "રિહીટિંગ કરવાથી વિસ્તરણ કાર્ય વધે છે, જેથી ટર્બાઇન વર્ક આઉટપુટમાં વધારો થાય છે[cite: 6]."
+    "explanation": "રિહીટિંગ કરવાથી વિસ્તરણ વર્ક વધે છે, જેથી ટર્બાઇન વર્ક આઉટપુટમાં વધારો થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 60,
@@ -891,20 +891,20 @@
     "question": "Why is compounding done in steam turbines?",
     "gujaratiQuestion": "060. સ્ટીમ ટર્બાઈનનું કમ્પાઉન્ડિંગ શા માટે કરવામાં આવે છે?",
     "options": [
-      "થયેલ કાર્ય ઘટાડવા માટે",
+      "થયેલ વર્ક ઘટાડવા માટે",
       "રોટરની ગતિ વધારવા માટે",
       "રોટરની ગતિ ઘટાડવા માટે",
       "ટર્બાઈનને બેલેન્સ કરવા માટે"
     ],
     "correctAnswer": 2,
-    "explanation": "કમ્પાઉન્ડિંગ કરવાથી સ્ટીમનો વેગ કે દબાણ તબક્કાવાર ઘટે છે, જેથી રોટરની સ્પીડ ઘટીને વ્યવહારુ બને છે[cite: 6]."
+    "explanation": "કમ્પાઉન્ડિંગ કરવાથી સ્ટીમનો વેલોસિટી કે પ્રેશર તબક્કાવાર ઘટે છે, જેથી રોટરની સ્પીડ ઘટીને વ્યવહારુ બને છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 61,
     "subject": "Power Engineering",
     "subTopic": "Air Compressors",
     "question": "Compression in actual air compressors generally follows which process?",
-    "gujaratiQuestion": "061. વાસ્તવિક એર કમ્પ્રેસરમાં થતું કમ્પ્રેશન સામાન્ય રીતે કઈ પ્રક્રિયાને અનુસરે છે?",
+    "gujaratiQuestion": "061. વાસ્તવિક એર કમ્પ્રેસરમાં થતું કમ્પ્રેશન સામાન્ય રીતે કઈ પ્રોસેસને અનુસરે છે?",
     "options": [
       "આઇસોથર્મલ",
       "આઈસેન્ટ્રોપિક",
@@ -912,7 +912,7 @@
       "આઇસોબેરિક"
     ],
     "correctAnswer": 2,
-    "explanation": "વાસ્તવિક કમ્પ્રેસરમાં ઘર્ષણ અને આંશિક હીટ ટ્રાન્સફરને કારણે કમ્પ્રેશન પોલિટ્રોપિક (PV^n = C) હોય છે[cite: 6]."
+    "explanation": "વાસ્તવિક કમ્પ્રેસરમાં ઘર્ષણ અને આંશિક હીટ ટ્રાન્સફરને કારણે કમ્પ્રેશન પોલિટ્રોપિક (PV^n = C) હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 62,
@@ -927,14 +927,14 @@
       "πD²L"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્વેપ્ટ વોલ્યુમ Vs = સિલિન્ડર એરિયા × સ્ટ્રોક લંબાઈ = (π/4) * D² * L થાય છે[cite: 6]."
+    "explanation": "સ્વેપ્ટ વોલ્યુમ Vs = સિલિન્ડર એરિયા × સ્ટ્રોક લંબાઈ = (π/4) * D² * L થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 63,
     "subject": "Power Engineering",
     "subTopic": "Vapor Power Cycles",
     "question": "What is the Rankine cycle efficiency range of a good steam power plant?",
-    "gujaratiQuestion": "063. સારા સ્ટીમ પાવર પ્લાન્ટની રેન્કિન સાયકલની કાર્યક્ષમતા કેટલી રેન્જમાં હોય છે?",
+    "gujaratiQuestion": "063. સારા સ્ટીમ પાવર પ્લાન્ટની રેન્કિન સાયકલની વર્કક્ષમતા કેટલી રેન્જમાં હોય છે?",
     "options": [
       "15% થી 20%",
       "35% થી 45%",
@@ -942,7 +942,7 @@
       "90% થી 95%"
     ],
     "correctAnswer": 1,
-    "explanation": "આધુનિક સ્ટીમ પાવર પ્લાન્ટની રેન્કિન કાર્યક્ષમતા સામાન્ય રીતે 35% થી 45% ની રેન્જમાં હોય છે[cite: 6]."
+    "explanation": "આધુનિક સ્ટીમ પાવર પ્લાન્ટની રેન્કિન વર્કક્ષમતા સામાન્ય રીતે 35% થી 45% ની રેન્જમાં હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 64,
@@ -957,14 +957,14 @@
       "નેટ વર્ક આઉટપુટ / હીટ ઈનપુટ"
     ],
     "correctAnswer": 0,
-    "explanation": "વર્ક રેશિયો rw = Net Work Output / Turbine Work (Wnet / WT) થાય છે[cite: 6]."
+    "explanation": "વર્ક રેશિયો rw = Net Work Output / Turbine Work (Wnet / WT) થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 65,
     "subject": "Power Engineering",
     "subTopic": "Gas Power Cycles",
     "question": "In a gas turbine, maximum temperature is limited by:",
-    "gujaratiQuestion": "065. ગેસ ટર્બાઈનમાં મહત્તમ તાપમાન કોના દ્વારા મર્યાદિત (limited) કરવામાં આવે છે?",
+    "gujaratiQuestion": "065. ગેસ ટર્બાઈનમાં મહત્તમ ટેમ્પરેચર કોના દ્વારા મર્યાદિત (limited) કરવામાં આવે છે?",
     "options": [
       "કમ્પ્રેસર બ્લેડ મટિરિયલ",
       "ટર્બાઈન બ્લેડ અને નોઝલ મટિરિયલ",
@@ -972,7 +972,7 @@
       "હવાનું પ્રમાણ"
     ],
     "correctAnswer": 1,
-    "explanation": "ટર્બાઇન બ્લેડ મટીરીયલની ઊંચા તાપમાને સહનશક્તિ (Thermal stress limits) મહત્તમ તાપમાનને મર્યાદિત કરે છે[cite: 6]."
+    "explanation": "ટર્બાઇન બ્લેડ મટીરીયલની ઊંચા ટેમ્પરેચરે સહનશક્તિ (Thermal stress limits) મહત્તમ ટેમ્પરેચરને મર્યાદિત કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 66,
@@ -987,7 +987,7 @@
       "ઉપરોક્ત તમામ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇકોનોમાઇઝર બોઇલરમાં પ્રવેશતા ફીડ વોટર (Feed water) ને ગરમ કરવા માટે વપરાય છે[cite: 6]."
+    "explanation": "ઇકોનોમાઇઝર બોઇલરમાં પ્રવેશતા ફીડ વોટર (Feed water) ને ગરમ કરવા માટે વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 67,
@@ -1002,7 +1002,7 @@
       "શૂન્ય થઈ જાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "ક્લિયરન્સ વધવાથી ક્ષમતા ઘટે છે પરંતુ પ્રતિ kg હવાના સૈદ્ધાંતિક વર્ક ઇનપુટ પર કોઈ અસર થતી નથી[cite: 6]."
+    "explanation": "ક્લિયરન્સ વધવાથી ક્ષમતા ઘટે છે પરંતુ પ્રતિ kg હવાના સૈદ્ધાંતિક વર્ક ઇનપુટ પર કોઈ અસર થતી નથી[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 68,
@@ -1017,7 +1017,7 @@
       "રૂટ બ્લોઅર"
     ],
     "correctAnswer": 1,
-    "explanation": "સેન્ટ્રિફ્યુગલ કમ્પ્રેસરમાં હવા અક્ષીય દિશામાં પ્રવેશી ઇમ્પેલર દ્વારા રેડિયલ (ત્રિજ્યા) દિશામાં બહાર ફેંકાય છે[cite: 6]."
+    "explanation": "સેન્ટ્રિફ્યુગલ કમ્પ્રેસરમાં હવા અક્ષીય દિશામાં પ્રવેશી ઇમ્પેલર દ્વારા રેડિયલ (ત્રિજ્યા) દિશામાં બહાર ફેંકાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 69,
@@ -1032,14 +1032,14 @@
       "ઉપરોક્ત તમામ"
     ],
     "correctAnswer": 3,
-    "explanation": "મિકેનિકલ આર્ટિફિશિયલ ડ્રાફ્ટ FD ફેન, ID ફેન અથવા બેલેન્સ્ડ ડ્રાફ્ટ ફેન દ્વારા ઉત્પન્ન કરાય છે[cite: 6]."
+    "explanation": "મિકેનિકલ આર્ટિફિશિયલ ડ્રાફ્ટ FD ફેન, ID ફેન અથવા બેલેન્સ્ડ ડ્રાફ્ટ ફેન દ્વારા ઉત્પન્ન કરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 70,
     "subject": "Power Engineering",
     "subTopic": "Vapor Power Cycles",
     "question": "A steam power plant operates on which ideal cycle?",
-    "gujaratiQuestion": "Q70. સ્ટીમ પાવર પ્લાન્ટ કઈ આદર્શ સાયકલ પર કાર્ય કરે છે?",
+    "gujaratiQuestion": "Q70. સ્ટીમ પાવર પ્લાન્ટ કઈ આદર્શ સાયકલ પર વર્ક કરે છે?",
     "options": [
       "ઓટો સાયકલ",
       "બ્રેટન સાયકલ",
@@ -1047,37 +1047,37 @@
       "ડીઝલ સાયકલ"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્ટીમ પાવર પ્લાન્ટ માટે સ્ટાન્ડર્ડ રેફરન્સ સાયકલ રેન્કિન સાયકલ (Rankine cycle) છે[cite: 6]."
+    "explanation": "સ્ટીમ પાવર પ્લાન્ટ માટે સ્ટાન્ડર્ડ રેફરન્સ સાયકલ રેન્કિન સાયકલ (Rankine cycle) છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 71,
     "subject": "Power Engineering",
     "subTopic": "Vapor Power Cycles",
     "question": "Which four processes are mainly present in a Rankine cycle?",
-    "gujaratiQuestion": "071. રેન્કિન સાયકલમાં મુખ્યત્વે કઈ ચાર પ્રક્રિયાઓ હોય છે?",
+    "gujaratiQuestion": "071. રેન્કિન સાયકલમાં મુખ્યત્વે કઈ ચાર પ્રોસેસીસ હોય છે?",
     "options": [
-      "બે આઈસેન્ટ્રોપિક અને બે અચળ કદની પ્રક્રિયાઓ",
-      "બે આઈસેન્ટ્રોપિક અને બે અચળ દબાણની પ્રક્રિયાઓ",
-      "બે આઇસોથર્મલ અને બે અચળ દબાણની પ્રક્રિયાઓ",
-      "બે આઇસોથર્મલ અને બે અચળ કદની પ્રક્રિયાઓ"
+      "બે આઈસેન્ટ્રોપિક અને બે અચળ વોલ્યુમની પ્રોસેસીસ",
+      "બે આઈસેન્ટ્રોપિક અને બે અચળ પ્રેશરની પ્રોસેસીસ",
+      "બે આઇસોથર્મલ અને બે અચળ પ્રેશરની પ્રોસેસીસ",
+      "બે આઇસોથર્મલ અને બે અચળ વોલ્યુમની પ્રોસેસીસ"
     ],
     "correctAnswer": 1,
-    "explanation": "રેન્કિન સાયકલમાં 2 આઈસેન્ટ્રોપિક (પંપ અને ટર્બાઇન) અને 2 આઈસોબારિક (બોઇલર અને કન્ડેન્સર) પ્રક્રિયાઓ હોય છે[cite: 6]."
+    "explanation": "રેન્કિન સાયકલમાં 2 આઈસેન્ટ્રોપિક (પંપ અને ટર્બાઇન) અને 2 આઈસોબારિક (બોઇલર અને કન્ડેન્સર) પ્રોસેસીસ હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 72,
     "subject": "Power Engineering",
     "subTopic": "Vapor Power Cycles",
     "question": "For the same maximum and minimum temperatures, what does Rankine cycle have compared to Carnot cycle?",
-    "gujaratiQuestion": "072. સમાન મહત્તમ અને ન્યૂનતમ તાપમાન માટે, રેન્કિન સાયકલમાં કાર્નોટ સાયકલની સરખામણીએ શું હોય છે?",
+    "gujaratiQuestion": "072. સમાન મહત્તમ અને ન્યૂનતમ ટેમ્પરેચર માટે, રેન્કિન સાયકલમાં કાર્નોટ સાયકલની સરખામણીએ શું હોય છે?",
     "options": [
-      "કાર્નોટ સાયકલ કરતા વધુ કાર્યક્ષમતા",
-      "કાર્નોટ સાયકલ જેટલી જ કાર્યક્ષમતા",
+      "કાર્નોટ સાયકલ કરતા વધુ વર્કક્ષમતા",
+      "કાર્નોટ સાયકલ જેટલી જ વર્કક્ષમતા",
       "કાર્નોટ સાયકલ કરતા ઓછું સ્પેસિફિક વર્ક આઉટપુટ",
       "કાર્નોટ સાયકલ કરતા વધુ સ્પેસિફિક વર્ક આઉટપુટ"
     ],
     "correctAnswer": 3,
-    "explanation": "રેન્કિન સાયકલમાં પંપ વર્ક ઘણું ઓછું હોવાથી કાર્નોટ વેપર સાયકલ કરતાં વધુ સ્પેસિફિક વર્ક આઉટપુટ મળે છે[cite: 6]."
+    "explanation": "રેન્કિન સાયકલમાં પંપ વર્ક ઘણું ઓછું હોવાથી કાર્નોટ વેપર સાયકલ કરતાં વધુ સ્પેસિફિક વર્ક આઉટપુટ મળે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 73,
@@ -1088,33 +1088,33 @@
     "options": [
       "એન્ટ્રોપી",
       "ઇન્ટરનલ એનર્જી",
-      "કદ (વોલ્યુમ)",
+      "વોલ્યુમ (વોલ્યુમ)",
       "એન્થેલ્પી"
     ],
     "correctAnswer": 3,
-    "explanation": "સ્ટીડી ફ્લો એનર્જી ઇક્વેશન મુજબ ટર્બાઇન વર્ક WT = h1 - h2 (એન્થાલ્પી ડ્રોપ) બરાબર હોય છે[cite: 6]."
+    "explanation": "સ્ટીડી ફ્લો એનર્જી ઇક્વેશન મુજબ ટર્બાઇન વર્ક WT = h1 - h2 (એન્થાલ્પી ડ્રોપ) બરાબર હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 74,
     "subject": "Power Engineering",
     "subTopic": "Vapor Power Cycles",
     "question": "What is the main function of a condenser in a Rankine cycle?",
-    "gujaratiQuestion": "074. રેન્કિન સાયકલમાં કન્ડેન્સરનું મુખ્ય કાર્ય શું છે?",
+    "gujaratiQuestion": "074. રેન્કિન સાયકલમાં કન્ડેન્સરનું મુખ્ય વર્ક શું છે?",
     "options": [
-      "અચળ દબાણે ઉષ્મા ઉમેરવી",
-      "અચળ દબાણે ઉષ્મા દૂર કરવી",
+      "અચળ પ્રેશરે હીટ ઉમેરવી",
+      "અચળ પ્રેશરે હીટ દૂર કરવી",
       "આઇસેન્ટ્રોપિક વિસ્તરણ કરવું",
-      "પાણીનું દબાણ વધારવું"
+      "પાણીનું પ્રેશર વધારવું"
     ],
     "correctAnswer": 1,
-    "explanation": "કન્ડેન્સરમાં ટર્બાઇનમાંથી નીકળતી સ્ટીમમાંથી અચળ દબાણે ઉષ્મા દૂર કરીને પાણી બનાવવામાં આવે છે[cite: 6]."
+    "explanation": "કન્ડેન્સરમાં ટર્બાઇનમાંથી નીકળતી સ્ટીમમાંથી અચળ પ્રેશરે હીટ દૂર કરીને પાણી બનાવવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 75,
     "subject": "Power Engineering",
     "subTopic": "Vapor Power Cycles",
     "question": "If dry saturated steam enters a turbine following an isentropic process, what will it be at the turbine outlet?",
-    "gujaratiQuestion": "075. જો આઈસેન્ટ્રોપિક પ્રક્રિયાને અનુસરીને ડ્રાય સેચ્યુરેટેડ સ્ટીમને સ્ટીમ ટર્બાઇનમાં દાખલ કરવામાં આવે, તો ટર્બાઈનના આઉટલેટ પર તે કેવી હશે?",
+    "gujaratiQuestion": "075. જો આઈસેન્ટ્રોપિક પ્રોસેસને અનુસરીને ડ્રાય સેચ્યુરેટેડ સ્ટીમને સ્ટીમ ટર્બાઇનમાં દાખલ કરવામાં આવે, તો ટર્બાઈનના આઉટલેટ પર તે કેવી હશે?",
     "options": [
       "સુપરહીટેડ સ્ટીમ",
       "ડ્રાય સેચ્યુરેટેડ સ્ટીમ",
@@ -1122,7 +1122,7 @@
       "વેટ સ્ટીમ"
     ],
     "correctAnswer": 3,
-    "explanation": "h-s અથવા T-s ડાયાગ્રામ મુજબ આઇસેન્ટ્રોપિક વિસ્તરણ થતાં સ્ટીમ ટુ-ફેઝ વેટ રીજનમાં આવીને વેટ સ્ટીમ બને છે[cite: 6]."
+    "explanation": "h-s અથવા T-s ડાયાગ્રામ મુજબ આઇસેન્ટ્રોપિક વિસ્તરણ થતાં સ્ટીમ ટુ-ફેઝ વેટ રીજનમાં આવીને વેટ સ્ટીમ બને છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 76,
@@ -1137,7 +1137,7 @@
       "0.99"
     ],
     "correctAnswer": 1,
-    "explanation": "Work ratio = (WT - WP) / WT = (1000 - 50) / 1000 = 950 / 1000 = 0.95[cite: 6]."
+    "explanation": "Work ratio = (WT - WP) / WT = (1000 - 50) / 1000 = 950 / 1000 = 0.95[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 77,
@@ -1152,7 +1152,7 @@
       "રેડિયોએક્ટિવિટી"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇલેક્ટ્રોન-વોલ્ટ (eV) એ પરમાણુ અને ન્યુક્લિયર સ્તરે ઊર્જા (Energy) નો એકમ છે[cite: 6]."
+    "explanation": "ઇલેક્ટ્રોન-વોલ્ટ (eV) એ પરમાણુ અને ન્યુક્લિયર સ્તરે ઊર્જા (Energy) નો એકમ છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 78,
@@ -1167,22 +1167,22 @@
       "હીટ રેટ = થર્મલ એફિશિયન્સી / 3600"
     ],
     "correctAnswer": 0,
-    "explanation": "હીટ રેટ (kJ/kWh) = 3600 / η_th થાય છે[cite: 6]."
+    "explanation": "હીટ રેટ (kJ/kWh) = 3600 / η_th થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 79,
     "subject": "Power Engineering",
     "subTopic": "Vapor Power Cycles",
     "question": "Which of the following is the best measure to increase the efficiency of a Rankine cycle?",
-    "gujaratiQuestion": "Q79. રેન્કિન સાયકલની કાર્યક્ષમતા વધારવા માટે નીચેનામાંથી કયો ઉપાય શ્રેષ્ઠ છે?",
+    "gujaratiQuestion": "Q79. રેન્કિન સાયકલની વર્કક્ષમતા વધારવા માટે નીચેનામાંથી કયો ઉપાય શ્રેષ્ઠ છે?",
     "options": [
-      "બોઈલરનું દબાણ ઘટાડવું",
+      "બોઈલરનું પ્રેશર ઘટાડવું",
       "સ્ટીમનું સુપરહીટિંગ ઘટાડવું",
-      "કન્ડેન્સરનું દબાણ ઘટાડવું",
+      "કન્ડેન્સરનું પ્રેશર ઘટાડવું",
       "એક્સપાન્શન રેશિયો ઘટાડવો"
     ],
     "correctAnswer": 2,
-    "explanation": "કન્ડેન્સરનું દબાણ ઘટાડવાથી હીટ રિજેક્શનનું સરેરાશ તાપમાન ઘટે છે અને કાર્યક્ષમતા વધે છે[cite: 6]."
+    "explanation": "કન્ડેન્સરનું પ્રેશર ઘટાડવાથી હીટ રિજેક્શનનું સરેરાશ ટેમ્પરેચર ઘટે છે અને વર્કક્ષમતા વધે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 80,
@@ -1197,7 +1197,7 @@
       "ફ્રીઓન"
     ],
     "correctAnswer": 1,
-    "explanation": "ન્યુક્લિયર રિએક્ટરમાં લિક્વિડ મેટલ કૂલન્ટ તરીકે પીગળેલું સોડિયમ અથવા સીસું (Lead) વપરાય છે (Answer Key B મુજબ)[cite: 6]."
+    "explanation": "ન્યુક્લિયર રિએક્ટરમાં લિક્વિડ મેટલ કૂલન્ટ તરીકે પીગળેલું સોડિયમ અથવા સીસું (Lead) વપરાય છે (Answer Key B મુજબ)[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 81,
@@ -1212,14 +1212,14 @@
       "80% થી 90%"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્ટીમ પ્લાન્ટમાં પંપ વર્ક ઘણું ઓછું હોવાથી બેક વર્ક રેશિયો (WP / WT) માત્ર 1% થી 2% ની આસપાસ હોય છે[cite: 6]."
+    "explanation": "સ્ટીમ પ્લાન્ટમાં પંપ વર્ક ઘણું ઓછું હોવાથી બેક વર્ક રેશિયો (WP / WT) માત્ર 1% થી 2% ની આસપાસ હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 82,
     "subject": "Power Engineering",
     "subTopic": "Vapor Power Cycles",
     "question": "In a Rankine cycle, pump work is represented by which process?",
-    "gujaratiQuestion": "082. રેન્કિન સાયકલમાં પંપનું કાર્ય કઈ પ્રક્રિયા દ્વારા દર્શાવવામાં આવે છે?",
+    "gujaratiQuestion": "082. રેન્કિન સાયકલમાં પંપનું વર્ક કઈ પ્રોસેસ દ્વારા દર્શાવવામાં આવે છે?",
     "options": [
       "આઈસોથર્મલ કમ્પ્રેશન",
       "આઇસોબેરિક કમ્પ્રેશન",
@@ -1227,37 +1227,37 @@
       "આઇસોકોરિક કમ્પ્રેશન"
     ],
     "correctAnswer": 2,
-    "explanation": "આદર્શ રેન્કિન સાયકલમાં ફીડ પંપનું કાર્ય રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક) કમ્પ્રેશન દ્વારા દર્શાવાય છે[cite: 6]."
+    "explanation": "આદર્શ રેન્કિન સાયકલમાં ફીડ પંપનું વર્ક રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક) કમ્પ્રેશન દ્વારા દર્શાવાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 83,
     "subject": "Power Engineering",
     "subTopic": "Thermal Efficiency Concepts",
     "question": "What is the process of carbonization of coal?",
-    "gujaratiQuestion": "083. કોલસાનું કાર્બોનાઇઝેશન કઈ પ્રક્રિયા છે?",
+    "gujaratiQuestion": "083. કોલસાનું કાર્બોનાઇઝેશન કઈ પ્રોસેસ છે?",
     "options": [
       "નિષ્ક્રિય વાતાવરણમાં કોલસાને પલ્વેરાઈઝ કરવો",
-      "300°C થી નીચેના તાપમાને હવાની મર્યાદિત સપ્લાયમાં લાકડાને ગરમ કરવું",
+      "300°C થી નીચેના ટેમ્પરેચરે હવાની મર્યાદિત સપ્લાયમાં લાકડાને ગરમ કરવું",
       "બંધ વાસણમાં હવાની ગેરહાજરીમાં લગભગ 48 કલાક સુધી કોલસાને સતત સખત રીતે ગરમ કરવો",
       "કોલસામાં કાર્બનનું પ્રમાણ વધારવું"
     ],
     "correctAnswer": 2,
-    "explanation": "હવાની ગેરહાજરીમાં કોલસાને ઊંચા તાપમાને ગરમ કરીને કોક બનાવવાની પ્રક્રિયાને કાર્બોનાઇઝેશન કહે છે[cite: 6]."
+    "explanation": "હવાની ગેરહાજરીમાં કોલસાને ઊંચા ટેમ્પરેચરે ગરમ કરીને કોક બનાવવાની પ્રોસેસને કાર્બોનાઇઝેશન કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 84,
     "subject": "Power Engineering",
     "subTopic": "Vapor Power Cycles",
     "question": "In a boiler, how is heat added while converting water into steam?",
-    "gujaratiQuestion": "Q84. બોઈલરમાં પાણીને વરાળમાં ફેરવતી વખતે ઉષ્મા કઈ રીતે ઉમેરવામાં આવે છે?",
+    "gujaratiQuestion": "Q84. બોઈલરમાં પાણીને વરાળમાં ફેરવતી વખતે હીટ કઈ રીતે ઉમેરવામાં આવે છે?",
     "options": [
-      "અચળ કદ પર",
-      "અચળ દબાણ પર",
-      "અચળ તાપમાન પર",
+      "અચળ વોલ્યુમ પર",
+      "અચળ પ્રેશર પર",
+      "અચળ ટેમ્પરેચર પર",
       "અચળ એન્ટ્રોપી પર"
     ],
     "correctAnswer": 1,
-    "explanation": "બોઇલરમાં સ્ટીમ જનરેશન અચળ દબાણે (Isobaric process) થાય છે[cite: 6]."
+    "explanation": "બોઇલરમાં સ્ટીમ જનરેશન અચળ પ્રેશરે (Isobaric process) થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 85,
@@ -1272,7 +1272,7 @@
       "એરિક્સન સાયકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "ગેસ ટર્બાઇન પાવર પ્લાન્ટ આદર્શ બ્રેટન સાયકલ પર આધારિત છે[cite: 6]."
+    "explanation": "ગેસ ટર્બાઇન પાવર પ્લાન્ટ આદર્શ બ્રેટન સાયકલ પર આધારિત છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 86,
@@ -1287,7 +1287,7 @@
       "1.0 થી 1.5 kg"
     ],
     "correctAnswer": 2,
-    "explanation": "સામાન્ય ભારતીય થર્મલ પાવર પ્લાન્ટમાં 1 kWh વીજળી માટે આશરે 0.6 થી 0.8 kg કોલસો વપરાય છે[cite: 6]."
+    "explanation": "સામાન્ય ભારતીય થર્મલ પાવર પ્લાન્ટમાં 1 kWh વીજળી માટે આશરે 0.6 થી 0.8 kg કોલસો વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 87,
@@ -1296,13 +1296,13 @@
     "question": "In a Brayton cycle, thermal efficiency mainly depends on:",
     "gujaratiQuestion": "087. બ્રેટન સાયકલમાં થર્મલ એફિશિયન્સી મુખ્યત્વે કોના પર આધાર રાખે છે?",
     "options": [
-      "માત્ર મહત્તમ તાપમાન પર",
-      "માત્ર ન્યૂનતમ તાપમાન પર",
+      "માત્ર મહત્તમ ટેમ્પરેચર પર",
+      "માત્ર ન્યૂનતમ ટેમ્પરેચર પર",
       "પ્રેશર રેશિયો પર",
       "કટ-ઓફ રેશિયો પર"
     ],
     "correctAnswer": 2,
-    "explanation": "આદર્શ બ્રેટન સાયકલની કાર્યક્ષમતા η = 1 - (1 / rp^((γ-1)/γ)) માત્ર પ્રેશર રેશિયો (rp) પર આધાર રાખે છે[cite: 6]."
+    "explanation": "આદર્શ બ્રેટન સાયકલની વર્કક્ષમતા η = 1 - (1 / rp^((γ-1)/γ)) માત્ર પ્રેશર રેશિયો (rp) પર આધાર રાખે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 88,
@@ -1317,7 +1317,7 @@
       "98% થી 99%"
     ],
     "correctAnswer": 2,
-    "explanation": "ગેસ ટર્બાઇનમાં હવાને કમ્પ્રેસ કરવા માટે ટર્બાઇન વર્કનો મોટો ભાગ (40% થી 60%) કમ્પ્રેસર વાપરી નાખે છે[cite: 6]."
+    "explanation": "ગેસ ટર્બાઇનમાં હવાને કમ્પ્રેસ કરવા માટે ટર્બાઇન વર્કનો મોટો ભાગ (40% થી 60%) કમ્પ્રેસર વાપરી નાખે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 89,
@@ -1332,7 +1332,7 @@
       "હોરિઝોન્ટલ મલ્ટિટ્યુબ્યુલર ફાયર ટ્યુબ બોઈલર"
     ],
     "correctAnswer": 3,
-    "explanation": "લોકોમોટિવ બોઇલર એ આડું (Horizontal), બહુનળીય (Multi-tubular) ફાયર ટ્યુબ મોબાઈલ બોઇલર છે[cite: 6]."
+    "explanation": "લોકોમોટિવ બોઇલર એ આડું (Horizontal), બહુનળીય (Multi-tubular) ફાયર ટ્યુબ મોબાઈલ બોઇલર છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 90,
@@ -1347,7 +1347,7 @@
       "સ્ટીમ એન્જિન"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓપન સાયકલ ગેસ ટર્બાઇન રોટરી મોશન ધરાવતું ઇન્ટરનલ કમ્બશન (IC) એન્જિન છે[cite: 6]."
+    "explanation": "ઓપન સાયકલ ગેસ ટર્બાઇન રોટરી મોશન ધરાવતું ઇન્ટરનલ કમ્બશન (IC) એન્જિન છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 91,
@@ -1357,12 +1357,12 @@
     "gujaratiQuestion": "091. ક્લોઝડ સાયકલ ગેસ ટર્બાઈનનો મુખ્ય ફાયદો કયો છે?",
     "options": [
       "હળવું વજન",
-      "કાર્યકારી પ્રવાહીનો વારંવાર ઉપયોગ",
+      "વર્કકારી ફ્લુઇડનો વારંવાર ઉપયોગ",
       "ઓછો પ્રારંભિક ખર્ચ",
       "સીધી વાતાવરણમાં એક્ઝોસ્ટ નિકાલ"
     ],
     "correctAnswer": 1,
-    "explanation": "ક્લોઝ્ડ સાયકલમાં વર્કિંગ ફ્લુઇડ (જેમ કે હિલિયમ કે હવા) સતત પુનઃ પરિભ્રમણ પામે છે અને ફરી વપરાય છે[cite: 6]."
+    "explanation": "ક્લોઝ્ડ સાયકલમાં વર્કિંગ ફ્લુઇડ (જેમ કે હિલિયમ કે હવા) સતત પુનઃ રોટેશન પામે છે અને ફરી વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 92,
@@ -1377,14 +1377,14 @@
       "ઉપરોક્ત તમામ"
     ],
     "correctAnswer": 3,
-    "explanation": "લંકાશાયર બોઇલર સ્ટેશનરી, હોરિઝોન્ટલ, ફાયર-ટ્યુબ અને નેચરલ સર્ક્યુલેશન ધરાવતું બોઇલર છે[cite: 6]."
+    "explanation": "લંકાશાયર બોઇલર સ્ટેશનરી, હોરિઝોન્ટલ, ફાયર-ટ્યુબ અને નેચરલ સર્ક્યુલેશન ધરાવતું બોઇલર છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 93,
     "subject": "Power Engineering",
     "subTopic": "Gas Power Cycles",
     "question": "What is the correct efficiency equation for an air standard Brayton cycle?",
-    "gujaratiQuestion": "093. એર સ્ટાન્ડર્ડ બ્રેટન સાયકલની કાર્યક્ષમતાનું સાચું સમીકરણ કયું છે?",
+    "gujaratiQuestion": "093. એર સ્ટાન્ડર્ડ બ્રેટન સાયકલની વર્કક્ષમતાનું સાચું સમીકરણ કયું છે?",
     "options": [
       "1 - (1 / rp)",
       "1 - 1 / (rp^(γ - 1))",
@@ -1392,7 +1392,7 @@
       "1 - rp^((γ - 1)/γ)"
     ],
     "correctAnswer": 2,
-    "explanation": "બ્રેટન સાયકલની થર્મલ કાર્યક્ષમતા η = 1 - 1 / [rp^((γ-1)/γ)] છે[cite: 6]."
+    "explanation": "બ્રેટન સાયકલની થર્મલ વર્કક્ષમતા η = 1 - 1 / [rp^((γ-1)/γ)] છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 94,
@@ -1407,7 +1407,7 @@
       "ફ્યુઝિબલ પ્લગ"
     ],
     "correctAnswer": 1,
-    "explanation": "બોઇલરના તળિયે જમા થયેલા ક્ષાર અને કાદવ (sludge) બ્લો-ઓફ કોક (Blow-off cock) દ્વારા બહાર કઢાય છે[cite: 6]."
+    "explanation": "બોઇલરના તળિયે જમા થયેલા ક્ષાર અને કાદવ (sludge) બ્લો-ઓફ કોક (Blow-off cock) દ્વારા બહાર કઢાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 95,
@@ -1422,7 +1422,7 @@
       "અનિશ્ચિત છે"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રેશર રેશિયો વધવાથી આદર્શ બ્રેટન સાયકલની કાર્યક્ષમતા વધે છે[cite: 6]."
+    "explanation": "પ્રેશર રેશિયો વધવાથી આદર્શ બ્રેટન સાયકલની વર્કક્ષમતા વધે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 96,
@@ -1437,7 +1437,7 @@
       "મરીન એન્જિનમાં"
     ],
     "correctAnswer": 2,
-    "explanation": "હળવા વજનના ફાયદાને લીધે રિવર્સ્ડ બ્રેટન સાયકલ એરક્રાફ્ટ રેફ્રિજરેશન સિસ્ટમમાં વપરાય છે[cite: 6]."
+    "explanation": "હળવા વજનના ફાયદાને લીધે રિવર્સ્ડ બ્રેટન સાયકલ એરક્રાફ્ટ રેફ્રિજરેશન સિસ્ટમમાં વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 97,
@@ -1446,20 +1446,20 @@
     "question": "In a closed cycle gas turbine, under what condition is the gas cooled in the cooling chamber?",
     "gujaratiQuestion": "Q97. ક્લોઝડ સાયકલ ગેસ ટર્બાઈનની કૂલિંગ ચેમ્બરમાં ગેસને કઈ સ્થિતિમાં ઠંડો કરવામાં આવે છે?",
     "options": [
-      "અચળ કદ",
-      "અચળ દબાણ",
-      "અચળ તાપમાન",
+      "અચળ વોલ્યુમ",
+      "અચળ પ્રેશર",
+      "અચળ ટેમ્પરેચર",
       "આમાંથી કોઈ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "કૂલિંગ ચેમ્બરમાં ઉષ્મા નિકાલ અચળ દબાણે (Constant pressure) થાય છે[cite: 6]."
+    "explanation": "કૂલિંગ ચેમ્બરમાં હીટ નિકાલ અચળ પ્રેશરે (Constant pressure) થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 98,
     "subject": "Power Engineering",
     "subTopic": "Gas Power Cycles",
     "question": "Where does heat addition take place in a Brayton cycle?",
-    "gujaratiQuestion": "098. બ્રેટન સાયકલમાં ઉષ્મા ઉમેરવાની પ્રક્રિયા ક્યાં થાય છે?",
+    "gujaratiQuestion": "098. બ્રેટન સાયકલમાં હીટ ઉમેરવાની પ્રોસેસ ક્યાં થાય છે?",
     "options": [
       "કમ્પ્રેસરમાં",
       "કમ્બશન ચેમ્બરમાં",
@@ -1467,7 +1467,7 @@
       "નોઝલમાં"
     ],
     "correctAnswer": 1,
-    "explanation": "બ્રેટન સાયકલમાં કમ્બશન ચેમ્બરમાં બળતણ બાળીને ઉષ્મા ઉમેરવામાં આવે છે[cite: 6]."
+    "explanation": "બ્રેટન સાયકલમાં કમ્બશન ચેમ્બરમાં બળતણ બાળીને હીટ ઉમેરવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 99,
@@ -1479,10 +1479,10 @@
       "ટર્બાઇનનું વર્ક ઘટાડવું",
       "કમ્પ્રેસરનું વર્ક વધારવું",
       "કમ્પ્રેસરનું વર્ક ઘટાડવું",
-      "ઉષ્મા ઉમેરો ઘટાડવો"
+      "હીટ ઉમેરો ઘટાડવો"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇન્ટરકૂલિંગ દ્વારા કમ્પ્રેસરનું વર્ક ઘટાડવાથી વર્ક રેશિયો (Wnet / WT) સુધરે છે[cite: 6]."
+    "explanation": "ઇન્ટરકૂલિંગ દ્વારા કમ્પ્રેસરનું વર્ક ઘટાડવાથી વર્ક રેશિયો (Wnet / WT) સુધરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 100,
@@ -1491,13 +1491,13 @@
     "question": "What is the result of intercooling in a gas turbine?",
     "gujaratiQuestion": "0100. ગેસ ટર્બાઈનમાં ઈન્ટરકૂલિંગનું પરિણામ શું આવે છે?",
     "options": [
-      "નેટ આઉટપુટમાં વધારો પણ થર્મલ કાર્યક્ષમતામાં ઘટાડો",
-      "થર્મલ કાર્યક્ષમતામાં વધારો પણ નેટ આઉટપુટમાં ઘટાડો",
-      "થર્મલ કાર્યક્ષમતા અને નેટ આઉટપુટ બંનેમાં વધારો",
-      "થર્મલ કાર્યક્ષમતા અને નેટ આઉટપુટ બંનેમાં ઘટાડો"
+      "નેટ આઉટપુટમાં વધારો પણ થર્મલ વર્કક્ષમતામાં ઘટાડો",
+      "થર્મલ વર્કક્ષમતામાં વધારો પણ નેટ આઉટપુટમાં ઘટાડો",
+      "થર્મલ વર્કક્ષમતા અને નેટ આઉટપુટ બંનેમાં વધારો",
+      "થર્મલ વર્કક્ષમતા અને નેટ આઉટપુટ બંનેમાં ઘટાડો"
     ],
     "correctAnswer": 0,
-    "explanation": "ઇન્ટરકૂલિંગથી કમ્પ્રેસર વર્ક ઘટીને નેટ આઉટપુટ વધે છે, પરંતુ સરેરાશ હીટ એડિશન તાપમાન ઘટતાં થર્મલ કાર્યક્ષમતા સહેજ ઘટે છે[cite: 6]."
+    "explanation": "ઇન્ટરકૂલિંગથી કમ્પ્રેસર વર્ક ઘટીને નેટ આઉટપુટ વધે છે, પરંતુ સરેરાશ હીટ એડિશન ટેમ્પરેચર ઘટતાં થર્મલ વર્કક્ષમતા સહેજ ઘટે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 101,
@@ -1512,7 +1512,7 @@
       "પ્રેશર રેશિયો ઘટાડવો"
     ],
     "correctAnswer": 2,
-    "explanation": "રિહીટિંગથી ટર્બાઇન વિસ્તરણ કાર્ય વધે છે, જેનાથી એકંદર પાવર આઉટપુટ વધે છે[cite: 6]."
+    "explanation": "રિહીટિંગથી ટર્બાઇન વિસ્તરણ વર્ક વધે છે, જેનાથી એકંદર પાવર આઉટપુટ વધે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 102,
@@ -1524,32 +1524,32 @@
       "ભેજ વધે છે",
       "ભેજ ઘટે છે",
       "ભેજ સમાન રહે છે",
-      "સ્ટીમ પ્રવાહી બની જાય છે"
+      "સ્ટીમ ફ્લુઇડ બની જાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "રિહીટિંગ કરવાથી એક્ઝોસ્ટ સ્ટીમની ડ્રાયનેસ ફ્રેક્શન સુધરે છે અને ભેજનું પ્રમાણ ઘટે છે, જેથી બ્લેડનું ઇરોઝન અટકે છે[cite: 6]."
+    "explanation": "રિહીટિંગ કરવાથી એક્ઝોસ્ટ સ્ટીમની ડ્રાયનેસ ફ્રેક્શન સુધરે છે અને ભેજનું પ્રમાણ ઘટે છે, જેથી બ્લેડનું ઇરોઝન અટકે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 103,
     "subject": "Power Engineering",
     "subTopic": "Compressor Classification",
     "question": "Due to what does pressure increase in a centrifugal compressor?",
-    "gujaratiQuestion": "0103. સેન્ટ્રિફ્યુગલ કમ્પ્રેસરમાં દબાણ શેના કારણે વધે છે?",
+    "gujaratiQuestion": "0103. સેન્ટ્રિફ્યુગલ કમ્પ્રેસરમાં પ્રેશર શેના કારણે વધે છે?",
     "options": [
-      "ડિફ્યુઝન પ્રક્રિયા",
-      "સેન્ટ્રિફ્યુગલ પ્રક્રિયા",
-      "સેન્ટ્રિફ્યુગલ અને ડિફ્યુઝન પ્રક્રિયા બંને",
+      "ડિફ્યુઝન પ્રોસેસ",
+      "સેન્ટ્રિફ્યુગલ પ્રોસેસ",
+      "સેન્ટ્રિફ્યુગલ અને ડિફ્યુઝન પ્રોસેસ બંને",
       "ઉપરોક્ત પૈકી કોઈ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇમ્પેલરમાં સેન્ટ્રિફ્યુગલ એક્શનથી અને ત્યારબાદ ડિફ્યુઝરમાં ગતિજ ઊર્જાનું દબાણમાં રૂપાંતર થવાથી પ્રેશર વધે છે[cite: 6]."
+    "explanation": "ઇમ્પેલરમાં સેન્ટ્રિફ્યુગલ એક્શનથી અને ત્યારબાદ ડિફ્યુઝરમાં ગતિજ ઊર્જાનું પ્રેશરમાં રૂપાંતર થવાથી પ્રેશર વધે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 104,
     "subject": "Power Engineering",
     "subTopic": "Regeneration",
     "question": "What happens in the regeneration process in a gas turbine?",
-    "gujaratiQuestion": "0104. ગેસ ટર્બાઈનમાં રિજનરેશન પ્રક્રિયામાં શું થાય છે?",
+    "gujaratiQuestion": "0104. ગેસ ટર્બાઈનમાં રિજનરેશન પ્રોસેસમાં શું થાય છે?",
     "options": [
       "ટર્બાઈનમાંથી નીકળતા ગરમ ગેસ દ્વારા કોમ્પ્રેસ્ડ હવાને ગરમ કરવામાં આવે છે",
       "હવાને કમ્પ્રેસરમાં ઠંડી પાડવામાં આવે છે",
@@ -1557,7 +1557,7 @@
       "એક્ઝોસ્ટ ગેસને સીધો વાતાવરણમાં છોડવામાં આવે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "રિજનરેટરમાં ટર્બાઇન એક્ઝોસ્ટ ગેસની ઉષ્માનો ઉપયોગ કરીને કમ્પ્રેસ્ડ હવાને કમ્બશન ચેમ્બરમાં પ્રવેશતા પહેલા ગરમ કરાય છે[cite: 6]."
+    "explanation": "રિજનરેટરમાં ટર્બાઇન એક્ઝોસ્ટ ગેસની હીટનો ઉપયોગ કરીને કમ્પ્રેસ્ડ હવાને કમ્બશન ચેમ્બરમાં પ્રવેશતા પહેલા ગરમ કરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 105,
@@ -1572,7 +1572,7 @@
       "પ્રેશર રેશિયો વધે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "બહારથી આપવી પડતી ઉષ્મા (બળતણ) ઘટી જવાથી પ્લાન્ટની થર્મલ કાર્યક્ષમતા નોંધપાત્ર વધે છે[cite: 6]."
+    "explanation": "બહારથી આપવી પડતી હીટ (બળતણ) ઘટી જવાથી પ્લાન્ટની થર્મલ વર્કક્ષમતા નોંધપાત્ર વધે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 106,
@@ -1581,13 +1581,13 @@
     "question": "What phenomenon is 'blade stalling' in an axial flow compressor?",
     "gujaratiQuestion": "0106. ઍક્ષિયલ ફ્લો કમ્પ્રેસરમાં બ્લેડનું 'સ્ટોલિંગ' કઈ ઘટના છે?",
     "options": [
-      "હવાનો પ્રવાહ માર્ગને અવરોધે",
-      "સોનિક વેગ પર હવાની ગતિ",
-      "અસ્થિર, સમયાંતરે અને વિપરીત પ્રવાહ",
-      "હવાનો પ્રવાહ બ્લેડના આકારને અનુસરી ન શકે"
+      "હવાનો ફ્લો માર્ગને અવરોધે",
+      "સોનિક વેલોસિટી પર હવાની ગતિ",
+      "અસ્થિર, સમયાંતરે અને વિપરીત ફ્લો",
+      "હવાનો ફ્લો બ્લેડના આકારને અનુસરી ન શકે"
     ],
     "correctAnswer": 3,
-    "explanation": "જ્યારે એંગલ ઓફ એટેક વધવાથી હવાનો પ્રવાહ બ્લેડની એરોફોઇલ સપાટી પરથી અલગ (flow separation) થઈ જાય તેને સ્ટોલિંગ કહે છે[cite: 6]."
+    "explanation": "જ્યારે એંગલ ઓફ એટેક વધવાથી હવાનો ફ્લો બ્લેડની એરોફોઇલ સપાટી પરથી અલગ (flow separation) થઈ જાય તેને સ્ટોલિંગ કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 107,
@@ -1602,7 +1602,7 @@
       "બમણી થાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "કમ્પ્રેસ્ડ હવા પહેલાથી ગરમ થઈને આવતી હોવાથી કમ્બશન ચેમ્બરમાં જરૂરી બળતણની માત્રામાં ઘટાડો થાય છે[cite: 6]."
+    "explanation": "કમ્પ્રેસ્ડ હવા પહેલાથી ગરમ થઈને આવતી હોવાથી કમ્બશન ચેમ્બરમાં જરૂરી બળતણની માત્રામાં ઘટાડો થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 108,
@@ -1617,14 +1617,14 @@
       "શૂન્ય થઈ જાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "ગેસ ટર્બાઇનમાં માત્ર રિહીટ કરવાથી ઉષ્મા ઉમેરો વધે છે, જેથી કાર્યક્ષમતા ઘટી શકે છે અથવા નજીવો ફેરફાર થાય છે[cite: 6]."
+    "explanation": "ગેસ ટર્બાઇનમાં માત્ર રિહીટ કરવાથી હીટ ઉમેરો વધે છે, જેથી વર્કક્ષમતા ઘટી શકે છે અથવા નજીવો ફેરફાર થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 109,
     "subject": "Power Engineering",
     "subTopic": "Thermal Efficiency Concepts",
     "question": "When a static mass of fluid comes in contact with a surface, what is the point of application of total pressure called?",
-    "gujaratiQuestion": "Q109. જ્યારે પ્રવાહીનો સ્થિર જથ્થો કોઇ સપાટીના સંપર્કમાં આવે છે, ત્યારે સપાટી પર કુલ દબાણ લાગુ પડવાનાં બિંદુને શું કહે છે?",
+    "gujaratiQuestion": "Q109. જ્યારે ફ્લુઇડનો સ્થિર જથ્થો કોઇ સપાટીના સંપર્કમાં આવે છે, ત્યારે સપાટી પર કુલ પ્રેશર લાગુ પડવાનાં બિંદુને શું કહે છે?",
     "options": [
       "સેન્ટર ઓફ પ્રેશર",
       "સેન્ટર ઓફ માસ",
@@ -1632,7 +1632,7 @@
       "સેન્ટર ઓફ બોયન્સી"
     ],
     "correctAnswer": 0,
-    "explanation": "હાઇડ્રોસ્ટેટિક દબાણનું પરિણામી બળ જે બિંદુ પર લાગે તેને સેન્ટર ઓફ પ્રેશર (Center of Pressure) કહે છે[cite: 6]."
+    "explanation": "હાઇડ્રોસ્ટેટિક પ્રેશરનું પરિણામી બળ જે બિંદુ પર લાગે તેને સેન્ટર ઓફ પ્રેશર (Center of Pressure) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 110,
@@ -1647,7 +1647,7 @@
       "સુપરહીટિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "ફીડ વોટર હીટર દ્વારા બોઇલર વોટરને ગરમ કરવાની પ્રક્રિયા રિજનરેશન (Regeneration) નો ભાગ છે[cite: 6]."
+    "explanation": "ફીડ વોટર હીટર દ્વારા બોઇલર વોટરને ગરમ કરવાની પ્રોસેસ રિજનરેશન (Regeneration) નો ભાગ છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 111,
@@ -1662,7 +1662,7 @@
       "માત્ર એફિશિયન્સી વધે છે, વર્ક આઉટપુટ ઘટે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇન્ટરકૂલિંગ અને રિહીટિંગ વર્ક આઉટપુટ વધારે છે, જ્યારે રિજનરેટર થર્મલ કાર્યક્ષમતામાં મોટો વધારો કરે છે[cite: 6]."
+    "explanation": "ઇન્ટરકૂલિંગ અને રિહીટિંગ વર્ક આઉટપુટ વધારે છે, જ્યારે રિજનરેટર થર્મલ વર્કક્ષમતામાં મોટો વધારો કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 112,
@@ -1677,7 +1677,7 @@
       "કશું જ કહી શકાય નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "જ્યારે મેટાસેન્ટ્રિક હાઇટ GM = 0 થાય (M અને G એકરૂપ બને) ત્યારે પદાર્થ ન્યુટ્રલ સંતુલનમાં રહે છે[cite: 6]."
+    "explanation": "જ્યારે મેટાસેન્ટ્રિક હાઇટ GM = 0 થાય (M અને G એકરૂપ બને) ત્યારે પદાર્થ ન્યુટ્રલ સંતુલનમાં રહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 113,
@@ -1689,10 +1689,10 @@
       "ટર્બાઇન વર્ક વધારવું",
       "કમ્પ્રેસર વર્ક ઘટાડવું",
       "ગરમીનો નિકાલ ઘટાડવો",
-      "તાપમાન વધારવું"
+      "ટેમ્પરેચર વધારવું"
     ],
     "correctAnswer": 1,
-    "explanation": "મલ્ટિસ્ટેજ કમ્પ્રેશન અને ઇન્ટરકૂલિંગનો મુખ્ય ઉદ્દેશ્ય કમ્પ્રેસર વર્ક ઇનપુટ ઘટાડવાનો છે[cite: 6]."
+    "explanation": "મલ્ટિસ્ટેજ કમ્પ્રેશન અને ઇન્ટરકૂલિંગનો મુખ્ય ઉદ્દેશ્ય કમ્પ્રેસર વર્ક ઇનપુટ ઘટાડવાનો છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 114,
@@ -1701,13 +1701,13 @@
     "question": "If streamlines are straight and parallel in a steady flow, then:",
     "gujaratiQuestion": "0114. જો સ્ટીડી ફ્લોમાં સ્ટ્રીમલાઈન સીધી અને એકબીજાને સમાંતર હોય તો:",
     "options": [
-      "ત્યાં પ્રવેગ (acceleration) હોતો નથી",
-      "ત્યાં નોર્મલ કન્વેક્ટિવ પ્રવેગ હોય છે",
-      "ત્યાં ટેન્જેન્શિયલ કન્વેક્ટિવ પ્રવેગ હોય છે",
+      "ત્યાં પ્રવેલોસિટી (acceleration) હોતો નથી",
+      "ત્યાં નોર્મલ કન્વેક્ટિવ પ્રવેલોસિટી હોય છે",
+      "ત્યાં ટેન્જેન્શિયલ કન્વેક્ટિવ પ્રવેલોસિટી હોય છે",
       "(b) અને (c) બંને"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્ટ્રીમલાઇન સીધી (વક્રતા શૂન્ય) અને સમાંતર હોવાથી કન્વેક્ટિવ અને નોર્મલ બંને પ્રવેગ શૂન્ય થાય છે[cite: 6]."
+    "explanation": "સ્ટ્રીમલાઇન સીધી (વક્રતા શૂન્ય) અને સમાંતર હોવાથી કન્વેક્ટિવ અને નોર્મલ બંને પ્રવેલોસિટી શૂન્ય થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 115,
@@ -1722,7 +1722,7 @@
       "રેન્કિન અને સ્ટર્લિંગ સાયકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "કમ્બાઇન્ડ સાયકલમાં ટોપિંગ સાયકલ તરીકે ગેસ ટર્બાઇન (બ્રેટન) અને બોટમિંગ સાયકલ તરીકે સ્ટીમ ટર્બાઇન (રેન્કિન) વપરાય છે[cite: 6]."
+    "explanation": "કમ્બાઇન્ડ સાયકલમાં ટોપિંગ સાયકલ તરીકે ગેસ ટર્બાઇન (બ્રેટન) અને બોટમિંગ સાયકલ તરીકે સ્ટીમ ટર્બાઇન (રેન્કિન) વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 116,
@@ -1737,7 +1737,7 @@
       "વેલોક્સ બોઈલર"
     ],
     "correctAnswer": 3,
-    "explanation": "વેલોક્સ (Velox) બોઇલર એ ફોર્સ્ડ સર્ક્યુલેશન ધરાવતું હાઈ-પ્રેશર વોટર ટ્યુબ બોઇલર છે[cite: 6]."
+    "explanation": "વેલોક્સ (Velox) બોઇલર એ ફોર્સ્ડ સર્ક્યુલેશન ધરાવતું હાઈ-પ્રેશર વોટર ટ્યુબ બોઇલર છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 117,
@@ -1752,7 +1752,7 @@
       "કન્ઝર્વેશન ઓફ એનર્જી"
     ],
     "correctAnswer": 3,
-    "explanation": "બર્નોલીનું સમીકરણ ફ્લુઇડ ફ્લો માટે કન્ઝર્વેશન ઓફ એનર્જી (ઊર્જા સંરક્ષણ) પર આધારિત છે[cite: 6]."
+    "explanation": "બર્નોલીનું સમીકરણ ફ્લુઇડ ફ્લો માટે કન્ઝર્વેશન ઓફ એનર્જી (ઊર્જા સંરક્ષણ) પર આધારિત છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 118,
@@ -1767,7 +1767,7 @@
       "(m1 + m2) / m2"
     ],
     "correctAnswer": 1,
-    "explanation": "ડ્રાયનેસ ફ્રેક્શન x = ડ્રાય સ્ટીમનું દળ / કુલ દળ = m2 / (m1 + m2) થાય છે[cite: 6]."
+    "explanation": "ડ્રાયનેસ ફ્રેક્શન x = ડ્રાય સ્ટીમનું માસ / કુલ માસ = m2 / (m1 + m2) થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 119,
@@ -1782,14 +1782,14 @@
       "નેટ વર્ક આઉટપુટ / હીટ સપ્લાય"
     ],
     "correctAnswer": 0,
-    "explanation": "વર્ક રેશિયો = નેટ વર્ક આઉટપુટ / ટર્બાઇન વર્ક (Wnet / WT)[cite: 6]."
+    "explanation": "વર્ક રેશિયો = નેટ વર્ક આઉટપુટ / ટર્બાઇન વર્ક (Wnet / WT)[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 120,
     "subject": "Power Engineering",
     "subTopic": "Thermal Efficiency Concepts",
     "question": "What is the phenomenon resulting from the formation of vapor and air pockets in a liquid called?",
-    "gujaratiQuestion": "Q120. પ્રવાહીમાં વરાળ અને હવાના પોકેટ્સ બનવાનાં પરિણામે થતી ઘટનાને શું કહેવાય છે?",
+    "gujaratiQuestion": "Q120. ફ્લુઇડમાં વરાળ અને હવાના પોકેટ્સ બનવાનાં પરિણામે થતી ઘટનાને શું કહેવાય છે?",
     "options": [
       "ઇરોઝન",
       "કેવિટેશન",
@@ -1797,7 +1797,7 @@
       "વ્હર્લિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "નીચા દબાણે વરાળના પરપોટા બનવા અને ઊંચા દબાણે ફૂટવાની ઘટનાને કેવિટેશન (Cavitation) કહે છે[cite: 6]."
+    "explanation": "નીચા પ્રેશરે વરાળના પરપોટા બનવા અને ઊંચા પ્રેશરે ફૂટવાની ઘટનાને કેવિટેશન (Cavitation) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 121,
@@ -1812,7 +1812,7 @@
       "0.5 kJ/kg"
     ],
     "correctAnswer": 1,
-    "explanation": "Wnet = WT - WC = 800 - 400 = 400 kJ/kg[cite: 6]."
+    "explanation": "Wnet = WT - WC = 800 - 400 = 400 kJ/kg[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 122,
@@ -1827,7 +1827,7 @@
       "1.5"
     ],
     "correctAnswer": 0,
-    "explanation": "Work ratio = Wnet / WT = 400 / 800 = 0.5[cite: 6]."
+    "explanation": "Work ratio = Wnet / WT = 400 / 800 = 0.5[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 123,
@@ -1842,14 +1842,14 @@
       "ઉપરોક્ત તમામ"
     ],
     "correctAnswer": 3,
-    "explanation": "વેન્ચ્યુરીમીટર, ઓરિફિસમીટર અને નોઝલ મીટર તમામ બર્નોલીના સિદ્ધાંત પર કાર્ય કરે છે[cite: 6]."
+    "explanation": "વેન્ચ્યુરીમીટર, ઓરિફિસમીટર અને નોઝલ મીટર તમામ બર્નોલીના સિદ્ધાંત પર વર્ક કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 124,
     "subject": "Power Engineering",
     "subTopic": "Air Compressors",
     "question": "To increase the efficiency of an air compressor, compression of air should ideally be close to which process?",
-    "gujaratiQuestion": "0124. એર કમ્પ્રેસરની કાર્યક્ષમતા વધારવા માટે, હવાનું કમ્પ્રેશન આદર્શ રીતે કઈ પ્રક્રિયાની નજીક હોવું જોઈએ?",
+    "gujaratiQuestion": "0124. એર કમ્પ્રેસરની વર્કક્ષમતા વધારવા માટે, હવાનું કમ્પ્રેશન આદર્શ રીતે કઈ પ્રોસેસની નજીક હોવું જોઈએ?",
     "options": [
       "આઇસેન્ટ્રોપિક",
       "આઇસોબેરિક",
@@ -1857,22 +1857,22 @@
       "આઇસોકોરિક"
     ],
     "correctAnswer": 2,
-    "explanation": "આઇસોથર્મલ કમ્પ્રેશનમાં સૌથી ઓછી ઊર્જા વપરાતી હોવાથી કમ્પ્રેશન આઇસોથર્મલની નજીક હોવું જોઈએ[cite: 6]."
+    "explanation": "આઇસોથર્મલ કમ્પ્રેશનમાં સૌથી ઓછી ઊર્જા વપરાતી હોવાથી કમ્પ્રેશન આઇસોથર્મલની નજીક હોવું જોઈએ[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 125,
     "subject": "Power Engineering",
     "subTopic": "Gas Power Cycles",
     "question": "By which process does heat rejection occur in an ideal gas power cycle?",
-    "gujaratiQuestion": "0125. કઈ પ્રક્રિયા દ્વારા ગેસ પાવર સાયકલમાં ઉષ્માનો નિકાલ (Heat rejection) થાય છે?",
+    "gujaratiQuestion": "0125. કઈ પ્રોસેસ દ્વારા ગેસ પાવર સાયકલમાં હીટનો નિકાલ (Heat rejection) થાય છે?",
     "options": [
-      "અચળ દબાણે",
-      "અચળ કદ પર",
+      "અચળ પ્રેશરે",
+      "અચળ વોલ્યુમ પર",
       "આઇસેન્ટ્રોપિક વિસ્તરણથી",
       "આઇસોથર્મલ કમ્પ્રેશનથી"
     ],
     "correctAnswer": 0,
-    "explanation": "બ્રેટન સાયકલમાં હીટ રિજેક્શન અચળ દબાણે (Constant pressure) થાય છે[cite: 6]."
+    "explanation": "બ્રેટન સાયકલમાં હીટ રિજેક્શન અચળ પ્રેશરે (Constant pressure) થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 126,
@@ -1881,13 +1881,13 @@
     "question": "Darcy-Weisbach equation is generally used to calculate:",
     "gujaratiQuestion": "Q126. ડાર્સી-વેઈસબેક (Darcy-Weisbach) સમીકરણનો ઉપયોગ સામાન્ય રીતે શેની ગણતરી માટે થાય છે?",
     "options": [
-      "પાઈપમાં વહેતા પ્રવાહીનો વેગ",
+      "પાઈપમાં વહેતા ફ્લુઇડનો વેલોસિટી",
       "પાઈપમાં ઘર્ષણને કારણે થતો હેડ લોસ",
       "પાઈપમાં સ્ટ્રીમલાઈન ફ્લોનો લોસ",
       "ઉપરોક્ત પૈકી કોઈ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "પાઇપમાં ઘર્ષણને લીધે થતા હેડ લોસની ગણતરી માટે hf = (4fLV²) / (2gd) ડાર્સી સમીકરણ વપરાય છે[cite: 6]."
+    "explanation": "પાઇપમાં ઘર્ષણને લીધે થતા હેડ લોસની ગણતરી માટે hf = (4fLV²) / (2gd) ડાર્સી સમીકરણ વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 127,
@@ -1902,7 +1902,7 @@
       "ભારે વજન ધરાવે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "ગેસ ટર્બાઇન ખૂબ ઝડપથી (અમુક મિનિટોમાં) શરૂ થઈને પૂર્ણ લોડ લઈ શકે છે, જેથી પીક લોડ માટે ઉત્તમ છે[cite: 6]."
+    "explanation": "ગેસ ટર્બાઇન ખૂબ ઝડપથી (અમુક મિનિટોમાં) શરૂ થઈને પૂર્ણ લોડ લઈ શકે છે, જેથી પીક લોડ માટે ઉત્તમ છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 128,
@@ -1917,7 +1917,7 @@
       "કાર્નોટ સાયકલ"
     ],
     "correctAnswer": 3,
-    "explanation": "કાર્નોટ સાયકલ વ્યવહારમાં અશક્ય છે અને તેનો ઉપયોગ મહત્તમ મર્યાદાની સરખામણી માટે થાય છે[cite: 6]."
+    "explanation": "કાર્નોટ સાયકલ વ્યવહારમાં અશક્ય છે અને તેનો ઉપયોગ મહત્તમ મર્યાદાની સરખામણી માટે થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 130,
@@ -1932,7 +1932,7 @@
       "2.50 kW"
     ],
     "correctAnswer": 1,
-    "explanation": "1 TR = 3.517 kW થાય છે[cite: 6]."
+    "explanation": "1 TR = 3.517 kW થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 131,
@@ -1947,7 +1947,7 @@
       "ઉપરોક્ત તમામ"
     ],
     "correctAnswer": 3,
-    "explanation": "સંપૂર્ણ સમાનતા માટે જિયોમેટ્રિક (પરિમાણ), કાઇનેમેટિક (વેગ/પ્રવેગ) અને ડાયનેમિક (બળ) ત્રણેય સમાનતા હોવી જરૂરી છે[cite: 6]."
+    "explanation": "સંપૂર્ણ સમાનતા માટે જિયોમેટ્રિક (પરિમાણ), કાઇનેમેટિક (વેલોસિટી/પ્રવેલોસિટી) અને ડાયનેમિક (બળ) ત્રણેય સમાનતા હોવી જરૂરી છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "subject": "Power Engineering",
@@ -1961,7 +1961,7 @@
       "All of the above"
     ],
     "correctAnswer": 2,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Rateau is a pressure-compounding turbine; Curtis is velocity-compounded and Parsons is reaction.",
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Rateau is a pressure-compounding turbine; Curtis is velocity-compounded and Parsons is reaction.\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
     "id": 132
   },
   {
@@ -1991,7 +1991,7 @@
       "Brayton"
     ],
     "correctAnswer": 1,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Constant-pressure heat addition with isentropic compression/expansion and constant-volume rejection is the ideal Diesel sequence.",
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Constant-pressure heat addition with isentropic compression/expansion and constant-volume rejection is the ideal Diesel sequence.\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
     "id": 134
   },
   {
@@ -2006,7 +2006,7 @@
       "Mass flow to zero"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Cooling between stages reduces compression work and lowers delivery temperature.",
+    "explanation": "Expected MCQ: Cooling between stages reduces compression work and lowers delivery temperature. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]",
     "id": 135
   },
   {
@@ -2021,7 +2021,7 @@
       "Ejector only"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: It traps and compresses a finite volume of gas.",
+    "explanation": "Expected MCQ: It traps and compresses a finite volume of gas. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]",
     "id": 136
   },
   {
@@ -2036,7 +2036,7 @@
       "Eliminate the turbine"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Feedwater heating raises the average temperature at which heat is supplied.",
+    "explanation": "Expected MCQ: Feedwater heating raises the average temperature at which heat is supplied. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]",
     "id": 137
   },
   {
@@ -2051,7 +2051,7 @@
       "Reduce boiler pressure to zero"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Reheat reduces moisture at later turbine stages and can improve work output.",
+    "explanation": "Expected MCQ: Reheat reduces moisture at later turbine stages and can improve work output. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]",
     "id": 138
   },
   {
@@ -2066,7 +2066,7 @@
       "Wnet/Qout"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: ηth=Wnet/Qin.",
+    "explanation": "Expected MCQ: ηth=Wnet/Qin. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]",
     "id": 139
   },
   {
@@ -2082,7 +2082,7 @@
       "constant mass flow"
     ],
     "correctAnswer": 1,
-    "explanation": "Clearance gas re-expands during suction, reducing the fresh charge admitted."
+    "explanation": "Clearance gas re-expands during suction, reducing the fresh charge admitted. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 141,
@@ -2097,7 +2097,7 @@
       "zero"
     ],
     "correctAnswer": 0,
-    "explanation": "For the same pressure limits, reversible isothermal compression gives minimum work input."
+    "explanation": "For the same pressure limits, reversible isothermal compression gives minimum work input. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 142,
@@ -2112,6 +2112,6 @@
       "speed is zero"
     ],
     "correctAnswer": 0,
-    "explanation": "Higher clearance causes more re-expansion of trapped air and reduces fresh-air intake."
+    "explanation": "Higher clearance causes more re-expansion of trapped air and reduces fresh-air intake. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   }
 ]

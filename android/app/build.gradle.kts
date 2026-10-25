@@ -4,6 +4,17 @@ plugins {
     id("dev.flutter.flutter-gradle-plugin")
 }
 
+import java.io.FileInputStream
+import java.util.Properties
+
+val keystoreProperties = Properties()
+val keystorePropertiesFile = rootProject.file("key.properties")
+val keyPropertiesExists = keystorePropertiesFile.exists()
+
+if (keyPropertiesExists) {
+    keystoreProperties.load(FileInputStream(keystorePropertiesFile))
+}
+
 android {
     namespace = "com.example.hammesh_aae"
     compileSdk = flutter.compileSdkVersion
@@ -29,11 +40,33 @@ android {
         versionName = flutter.versionName
     }
 
+    signingConfigs {
+        create("release") {
+            if (keyPropertiesExists) {
+                val storeFileProp = keystoreProperties["storeFile"] as String?
+                if (!storeFileProp.isNullOrEmpty()) {
+                    val fApp = file(storeFileProp)
+                    val fRoot = rootProject.file(storeFileProp)
+                    storeFile = if (fApp.exists()) fApp else if (fRoot.exists()) fRoot else fRoot
+                }
+                storePassword = keystoreProperties["storePassword"] as String?
+                keyAlias = keystoreProperties["keyAlias"] as String?
+                keyPassword = keystoreProperties["keyPassword"] as String?
+            }
+        }
+    }
+
     buildTypes {
         release {
-            // TODO: Add your own signing config for the release build.
-            // Signing with the debug keys for now, so `flutter run --release` works.
-            signingConfig = signingConfigs.getByName("debug")
+            if (keyPropertiesExists) {
+                val releaseSigning = signingConfigs.getByName("release")
+                if (releaseSigning.storeFile == null || !releaseSigning.storeFile!!.exists()) {
+                    throw GradleException("key.properties was found, but release storeFile '${releaseSigning.storeFile}' does not exist!")
+                }
+                signingConfig = releaseSigning
+            } else {
+                signingConfig = signingConfigs.getByName("debug")
+            }
         }
     }
 }

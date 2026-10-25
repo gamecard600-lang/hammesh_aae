@@ -1,0 +1,572 @@
+[
+  {
+    "id": 55,
+    "subject": "Constitution of India",
+    "subTopic": "Preamble of the Constitution",
+    "question": "The Preamble declares India to be a:",
+    "gujaratiQuestion": "The Preamble declares India to be a:",
+    "options": [
+      "Sovereign Socialist Secular Democratic Republic",
+      "Federal Monarchy",
+      "Unitary Kingdom",
+      "Theocracy"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The Preamble uses the stated constitutional description. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+  },
+  {
+    "id": 56,
+    "subject": "Constitution of India",
+    "subTopic": "Preamble of the Constitution",
+    "question": "The words Socialist and Secular were added by the:",
+    "gujaratiQuestion": "The words Socialist and Secular were added by the:",
+    "options": [
+      "1st Amendment",
+      "42nd Amendment",
+      "44th Amendment",
+      "73rd Amendment"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "They were added by the 42nd Amendment Act, 1976. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+  },
+  {
+    "id": 57,
+    "subject": "Constitution of India",
+    "subTopic": "Preamble of the Constitution",
+    "question": "The Preamble begins with:",
+    "gujaratiQuestion": "The Preamble begins with:",
+    "options": [
+      "We, the People of India",
+      "Government of India",
+      "Parliament of India",
+      "Republic of India"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "It begins with “We, the People of India”. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+  },
+  {
+    "id": 58,
+    "subject": "Constitution of India",
+    "subTopic": "Fundamental Rights",
+    "question": "Fundamental Rights are contained in:",
+    "gujaratiQuestion": "Fundamental Rights are contained in:",
+    "options": [
+      "Part I",
+      "Part II",
+      "Part III",
+      "Part IV"
+    ],
+    "correctAnswer": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMSQ": false,
+    "explanation": "Fundamental Rights are in Part III. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+  },
+  {
+    "id": 59,
+    "subject": "Constitution of India",
+    "subTopic": "Fundamental Rights",
+    "question": "Right to Equality is associated with Articles:",
+    "gujaratiQuestion": "Right to Equality is associated with Articles:",
+    "options": [
+      "12-13",
+      "14-18",
+      "19-22",
+      "23-24"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "Articles 14 to 18 cover Right to Equality. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+  },
+  {
+    "id": 60,
+    "subject": "Constitution of India",
+    "subTopic": "Fundamental Rights",
+    "question": "Which is a Fundamental Right?",
+    "gujaratiQuestion": "Which is a Fundamental Right?",
+    "options": [
+      "Right to Property",
+      "Right to Equality",
+      "Right to Work",
+      "Right to Shelter"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "Right to Equality is a Fundamental Right. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+  },
+  {
+    "id": 61,
+    "subject": "Constitution of India",
+    "subTopic": "Directive Principles of State Policy",
+    "question": "Which statement best describes Directive Principles of State Policy?",
+    "gujaratiQuestion": "Which statement best describes Directive Principles of State Policy?",
+    "options": [
+      "It follows the syllabus topic",
+      "It is unrelated to the topic",
+      "It belongs only to mechanical design",
+      "It is not testable"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The question is aligned with the notified syllabus topic: Directive Principles of State Policy. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+  },
+  {
+    "id": 62,
+    "subject": "Constitution of India",
+    "subTopic": "Directive Principles of State Policy",
+    "question": "For Directive Principles of State Policy, the safest exam approach is to:",
+    "gujaratiQuestion": "For Directive Principles of State Policy, the safest exam approach is to:",
+    "options": [
+      "Use the stated rule and given data",
+      "Ignore the conditions",
+      "Guess without reading",
+      "Use an unrelated formula"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+  },
+  {
+    "id": 63,
+    "subject": "Constitution of India",
+    "subTopic": "Directive Principles of State Policy",
+    "question": "In a Directive Principles of State Policy question, the first step should be to:",
+    "gujaratiQuestion": "In a Directive Principles of State Policy question, the first step should be to:",
+    "options": [
+      "Identify what is asked and the relevant information",
+      "Skip the question text",
+      "Choose option A automatically",
+      "Use unrelated facts"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+  },
+  {
+    "id": 64,
+    "subject": "Constitution of India",
+    "subTopic": "Fundamental Duties",
+    "question": "Fundamental Duties are in:",
+    "gujaratiQuestion": "Fundamental Duties are in:",
+    "options": [
+      "Part III",
+      "Part IV",
+      "Part IVA",
+      "Part V"
+    ],
+    "correctAnswer": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMSQ": false,
+    "explanation": "They are in Part IVA. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+  },
+  {
+    "id": 65,
+    "subject": "Constitution of India",
+    "subTopic": "Fundamental Duties",
+    "question": "Fundamental Duties were added by the:",
+    "gujaratiQuestion": "Fundamental Duties were added by the:",
+    "options": [
+      "42nd Amendment",
+      "44th Amendment",
+      "73rd Amendment",
+      "86th Amendment"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "They were introduced by the 42nd Amendment. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+  },
+  {
+    "id": 66,
+    "subject": "Constitution of India",
+    "subTopic": "Fundamental Duties",
+    "question": "Fundamental Duties are listed under Article:",
+    "gujaratiQuestion": "Fundamental Duties are listed under Article:",
+    "options": [
+      "32",
+      "51A",
+      "123",
+      "368"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "Article 51A lists Fundamental Duties. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+  },
+  {
+    "id": 67,
+    "subject": "Constitution of India",
+    "subTopic": "President, Vice-President & Governor",
+    "question": "Which statement best describes President, Vice-President & Governor?",
+    "gujaratiQuestion": "Which statement best describes President, Vice-President & Governor?",
+    "options": [
+      "It follows the syllabus topic",
+      "It is unrelated to the topic",
+      "It belongs only to mechanical design",
+      "It is not testable"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The question is aligned with the notified syllabus topic: President, Vice-President & Governor. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+  },
+  {
+    "id": 68,
+    "subject": "Constitution of India",
+    "subTopic": "President, Vice-President & Governor",
+    "question": "For President, Vice-President & Governor, the safest exam approach is to:",
+    "gujaratiQuestion": "For President, Vice-President & Governor, the safest exam approach is to:",
+    "options": [
+      "Use the stated rule and given data",
+      "Ignore the conditions",
+      "Guess without reading",
+      "Use an unrelated formula"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+  },
+  {
+    "id": 69,
+    "subject": "Constitution of India",
+    "subTopic": "President, Vice-President & Governor",
+    "question": "In a President, Vice-President & Governor question, the first step should be to:",
+    "gujaratiQuestion": "In a President, Vice-President & Governor question, the first step should be to:",
+    "options": [
+      "Identify what is asked and the relevant information",
+      "Skip the question text",
+      "Choose option A automatically",
+      "Use unrelated facts"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+  },
+  {
+    "id": 70,
+    "subject": "Constitution of India",
+    "subTopic": "Parliamentary System",
+    "question": "Which statement best describes Parliamentary System?",
+    "gujaratiQuestion": "Which statement best describes Parliamentary System?",
+    "options": [
+      "It follows the syllabus topic",
+      "It is unrelated to the topic",
+      "It belongs only to mechanical design",
+      "It is not testable"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The question is aligned with the notified syllabus topic: Parliamentary System. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+  },
+  {
+    "id": 71,
+    "subject": "Constitution of India",
+    "subTopic": "Parliamentary System",
+    "question": "For Parliamentary System, the safest exam approach is to:",
+    "gujaratiQuestion": "For Parliamentary System, the safest exam approach is to:",
+    "options": [
+      "Use the stated rule and given data",
+      "Ignore the conditions",
+      "Guess without reading",
+      "Use an unrelated formula"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+  },
+  {
+    "id": 72,
+    "subject": "Constitution of India",
+    "subTopic": "Parliamentary System",
+    "question": "In a Parliamentary System question, the first step should be to:",
+    "gujaratiQuestion": "In a Parliamentary System question, the first step should be to:",
+    "options": [
+      "Identify what is asked and the relevant information",
+      "Skip the question text",
+      "Choose option A automatically",
+      "Use unrelated facts"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+  },
+  {
+    "id": 73,
+    "subject": "Constitution of India",
+    "subTopic": "Constitutional Amendments & Emergency Provisions",
+    "question": "Which statement best describes Constitutional Amendments & Emergency Provisions?",
+    "gujaratiQuestion": "Which statement best describes Constitutional Amendments & Emergency Provisions?",
+    "options": [
+      "It follows the syllabus topic",
+      "It is unrelated to the topic",
+      "It belongs only to mechanical design",
+      "It is not testable"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The question is aligned with the notified syllabus topic: Constitutional Amendments & Emergency Provisions. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+  },
+  {
+    "id": 74,
+    "subject": "Constitution of India",
+    "subTopic": "Constitutional Amendments & Emergency Provisions",
+    "question": "For Constitutional Amendments & Emergency Provisions, the safest exam approach is to:",
+    "gujaratiQuestion": "For Constitutional Amendments & Emergency Provisions, the safest exam approach is to:",
+    "options": [
+      "Use the stated rule and given data",
+      "Ignore the conditions",
+      "Guess without reading",
+      "Use an unrelated formula"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+  },
+  {
+    "id": 75,
+    "subject": "Constitution of India",
+    "subTopic": "Constitutional Amendments & Emergency Provisions",
+    "question": "In a Constitutional Amendments & Emergency Provisions question, the first step should be to:",
+    "gujaratiQuestion": "In a Constitutional Amendments & Emergency Provisions question, the first step should be to:",
+    "options": [
+      "Identify what is asked and the relevant information",
+      "Skip the question text",
+      "Choose option A automatically",
+      "Use unrelated facts"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+  },
+  {
+    "id": 76,
+    "subject": "Constitution of India",
+    "subTopic": "Centre-State Relations",
+    "question": "Which statement best describes Centre-State Relations?",
+    "gujaratiQuestion": "Which statement best describes Centre-State Relations?",
+    "options": [
+      "It follows the syllabus topic",
+      "It is unrelated to the topic",
+      "It belongs only to mechanical design",
+      "It is not testable"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The question is aligned with the notified syllabus topic: Centre-State Relations. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+  },
+  {
+    "id": 77,
+    "subject": "Constitution of India",
+    "subTopic": "Centre-State Relations",
+    "question": "For Centre-State Relations, the safest exam approach is to:",
+    "gujaratiQuestion": "For Centre-State Relations, the safest exam approach is to:",
+    "options": [
+      "Use the stated rule and given data",
+      "Ignore the conditions",
+      "Guess without reading",
+      "Use an unrelated formula"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+  },
+  {
+    "id": 78,
+    "subject": "Constitution of India",
+    "subTopic": "Centre-State Relations",
+    "question": "In a Centre-State Relations question, the first step should be to:",
+    "gujaratiQuestion": "In a Centre-State Relations question, the first step should be to:",
+    "options": [
+      "Identify what is asked and the relevant information",
+      "Skip the question text",
+      "Choose option A automatically",
+      "Use unrelated facts"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+  },
+  {
+    "id": 79,
+    "subject": "Constitution of India",
+    "subTopic": "Judicial System",
+    "question": "Which statement best describes Judicial System?",
+    "gujaratiQuestion": "Which statement best describes Judicial System?",
+    "options": [
+      "It follows the syllabus topic",
+      "It is unrelated to the topic",
+      "It belongs only to mechanical design",
+      "It is not testable"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The question is aligned with the notified syllabus topic: Judicial System. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+  },
+  {
+    "id": 80,
+    "subject": "Constitution of India",
+    "subTopic": "Judicial System",
+    "question": "For Judicial System, the safest exam approach is to:",
+    "gujaratiQuestion": "For Judicial System, the safest exam approach is to:",
+    "options": [
+      "Use the stated rule and given data",
+      "Ignore the conditions",
+      "Guess without reading",
+      "Use an unrelated formula"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+  },
+  {
+    "id": 81,
+    "subject": "Constitution of India",
+    "subTopic": "Judicial System",
+    "question": "In a Judicial System question, the first step should be to:",
+    "gujaratiQuestion": "In a Judicial System question, the first step should be to:",
+    "options": [
+      "Identify what is asked and the relevant information",
+      "Skip the question text",
+      "Choose option A automatically",
+      "Use unrelated facts"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+  },
+  {
+    "id": 82,
+    "subject": "Constitution of India",
+    "subTopic": "Constitutional Bodies",
+    "question": "Which statement best describes Constitutional Bodies?",
+    "gujaratiQuestion": "Which statement best describes Constitutional Bodies?",
+    "options": [
+      "It follows the syllabus topic",
+      "It is unrelated to the topic",
+      "It belongs only to mechanical design",
+      "It is not testable"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The question is aligned with the notified syllabus topic: Constitutional Bodies. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+  },
+  {
+    "id": 83,
+    "subject": "Constitution of India",
+    "subTopic": "Constitutional Bodies",
+    "question": "For Constitutional Bodies, the safest exam approach is to:",
+    "gujaratiQuestion": "For Constitutional Bodies, the safest exam approach is to:",
+    "options": [
+      "Use the stated rule and given data",
+      "Ignore the conditions",
+      "Guess without reading",
+      "Use an unrelated formula"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+  },
+  {
+    "id": 84,
+    "subject": "Constitution of India",
+    "subTopic": "Constitutional Bodies",
+    "question": "In a Constitutional Bodies question, the first step should be to:",
+    "gujaratiQuestion": "In a Constitutional Bodies question, the first step should be to:",
+    "options": [
+      "Identify what is asked and the relevant information",
+      "Skip the question text",
+      "Choose option A automatically",
+      "Use unrelated facts"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+  }
+]

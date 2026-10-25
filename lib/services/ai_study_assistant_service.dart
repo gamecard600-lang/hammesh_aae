@@ -2,16 +2,17 @@ import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import '../models/ai_context.dart';
+import '../models/concept_story.dart';
 import '../models/exam_history.dart';
 import '../models/study_progress.dart';
 import 'local_storage_service.dart';
 
 class AiStudyAssistantService {
   static const List<String> _modelCandidates = [
-    'gemini-1.5-flash',
     'gemini-2.0-flash',
+    'gemini-1.5-flash',
     'gemini-1.5-pro',
-    'gemini-2.5-flash',
+    'gemini-2.0-flash-lite',
   ];
 
   /// Central Gemini API Call Routine
@@ -81,7 +82,8 @@ class AiStudyAssistantService {
     }
 
     if (lastErrorMessage.isNotEmpty) {
-      return '⚠️ **AI Response Failed:**\n$lastErrorMessage\n\n*Please verify your API key at https://aistudio.google.com/app/apikey*';
+      final fallback = _generateSmartOfflineFallback(prompt);
+      return '⚠️ **AI Response Notice / AI માહિતી:**\n$lastErrorMessage\n\n---\n\n$fallback';
     }
 
     return _generateSmartOfflineFallback(prompt);
@@ -98,13 +100,14 @@ class AiStudyAssistantService {
 
   static String _getSystemInstruction() {
     return '''
-You are the "AAE Study Assistant", an expert AI Tutor designed specifically for GSSSB AAE (Additional Assistant Engineer) Mechanical Engineering Exam aspirants.
+You are "AAE AI Guru" (ઇજનેરી AI ગુરુ), an expert Mechanical Engineering AI Tutor & Doubt Solver created specifically for GSSSB AAE (Additional Assistant Engineer) aspirants.
 
 STRICT GUIDELINES:
-1. Language: Use Gujarati primarily, but keep technical terms in English (e.g. Entropy, Thermodynamics, Heat Transfer, Stress, Strain, Rankine Cycle, Clearance Volume). Do NOT translate technical terms unnecessarily.
-2. Accuracy: Ensure high technical accuracy for competitive exam preparation. Do NOT invent facts or formulas. Verify all calculations step-by-step.
-3. Context Honor: Prioritize any provided Study Material or Question Explanation context. Never contradict the provided study material.
-4. Formatting: Use clear bullet points, bold headings, and clean markdown formatting.
+1. Identity: Introduce yourself as "AAE AI Guru (ઇજનેરી AI ગુરુ)".
+2. Language: Use Gujarati primarily for explanation, but keep technical terms in English / English transliteration (e.g., Entropy, Thermodynamics, Viscosity, Stress, Strain, Rankine Cycle, Clearance Volume).
+3. Accuracy: Ensure top-tier accuracy for Mechanical Engineering GATE/GSSSB/GPSC competitive exam preparation. Verify all numerical calculations step-by-step.
+4. Context Honor: Prioritize provided Study Material or Question Explanation context. Never contradict official syllabus or formulas.
+5. Formatting: Use clean markdown, bold headings, bullet points, and step-by-step solved examples.
 ''';
   }
 
@@ -337,6 +340,84 @@ Temperature = Thermal State (Kelvin/Celsius)
       prompt: prompt.toString(),
       systemInstruction: _getSystemInstruction(),
     );
+  }
+
+  /// 10. AI Storywise Concept Generator
+  static Future<ConceptStory> generateConceptStory({
+    required String topic,
+    required String subject,
+  }) async {
+    final prompt = '''
+STORYWISE CONCEPT GENERATOR REQUEST:
+Topic: $topic
+Subject: $subject
+
+Create a 4-scene engaging story in Gujarati (with English technical terms) explaining this engineering concept visually.
+Return strictly valid JSON format only:
+{
+  "topic": "$topic",
+  "subject": "$subject",
+  "overall_moral": "One line summary in Gujarati",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "title": "🎬 1. Real Life Scenario / વાસ્તવિક ઉદાહરણ",
+      "narration": "Engaging real-life story scene in Gujarati...",
+      "key_takeaway": "Key core point",
+      "visual_symbol": "⚙️",
+      "color_theme_hex": "#1E88E5"
+    },
+    {
+      "scene_number": 2,
+      "title": "🧠 2. Core Engineering Law / મુખ્ય નિયમ",
+      "narration": "Scientific rule or formula explained in simple Gujarati...",
+      "key_takeaway": "Formula / Equation",
+      "visual_symbol": "🔥",
+      "color_theme_hex": "#2E7D32"
+    },
+    {
+      "scene_number": 3,
+      "title": "⚠️ 3. Exam Trap / પરીક્ષાની ખાસ ભૂલ",
+      "narration": "Common mistake or trick examiners use in exam...",
+      "key_takeaway": "Warning / Tip",
+      "visual_symbol": "⚠️",
+      "color_theme_hex": "#E65100"
+    },
+    {
+      "scene_number": 4,
+      "title": "🎯 4. Exam Shortcut & Memory Tip",
+      "narration": "Quick summary to remember forever in Gujarati...",
+      "key_takeaway": "Short Memory Tip",
+      "visual_symbol": "🏆",
+      "color_theme_hex": "#6A1B9A"
+    }
+  ]
+}
+''';
+
+    try {
+      final jsonRaw = await _generateContent(
+        prompt: prompt,
+        systemInstruction: "You are a master engineering teacher who creates engaging story-wise lessons in Gujarati with English technical terms. Always respond in valid JSON format only.",
+      );
+
+      String cleaned = jsonRaw.trim();
+      if (cleaned.startsWith('```json')) {
+        cleaned = cleaned.substring(7);
+      } else if (cleaned.startsWith('```')) {
+        cleaned = cleaned.substring(3);
+      }
+      if (cleaned.endsWith('```')) {
+        cleaned = cleaned.substring(0, cleaned.length - 3);
+      }
+      cleaned = cleaned.trim();
+
+      final decoded = jsonDecode(cleaned);
+      return ConceptStory.fromJson(Map<String, dynamic>.from(decoded));
+    } catch (e) {
+      debugPrint('Failed to parse AI story JSON: $e');
+      return ConceptStory.createFallbackStory(topic, subject);
+    }
   }
 
   /// Smart Offline / Fallback Generator if AI key is unavailable or offline

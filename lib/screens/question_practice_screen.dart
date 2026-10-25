@@ -552,23 +552,44 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    if (question.explanation.toUpperCase().contains('PYQ') || question.explanation.toUpperCase().contains('GSSSB'))
+                    if (question.isPYQ)
                       Container(
                         margin: const EdgeInsets.only(bottom: 12),
-                        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
                         decoration: BoxDecoration(
-                          color: Colors.amber.shade50,
-                          borderRadius: BorderRadius.circular(6),
-                          border: Border.all(color: Colors.amber.shade300),
+                          color: Colors.amber.shade100,
+                          borderRadius: BorderRadius.circular(8),
+                          border: Border.all(color: Colors.amber.shade400),
                         ),
                         child: Row(
                           mainAxisSize: MainAxisSize.min,
                           children: [
-                            Icon(Icons.history_edu, size: 14, color: Colors.amber.shade900),
-                            const SizedBox(width: 4),
+                            Icon(Icons.verified, size: 15, color: Colors.amber.shade900),
+                            const SizedBox(width: 6),
                             Text(
-                              'Genuine PYQ',
-                              style: TextStyle(fontSize: 11, fontWeight: FontWeight.bold, color: Colors.amber.shade900),
+                              'GSSSB AAE Genuine PYQ (અગાઉની પરીક્ષાનો પ્રશ્ન)',
+                              style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.amber.shade900),
+                            ),
+                          ],
+                        ),
+                      ),
+                    if (question.isExpected)
+                      Container(
+                        margin: const EdgeInsets.only(bottom: 12),
+                        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+                        decoration: BoxDecoration(
+                          color: Colors.deepOrange.shade50,
+                          borderRadius: BorderRadius.circular(8),
+                          border: Border.all(color: Colors.deepOrange.shade300),
+                        ),
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            const Icon(Icons.local_fire_department, size: 15, color: Colors.deepOrange),
+                            const SizedBox(width: 6),
+                            Text(
+                              '🔥 Expected Question (GSSSB 2026 સંભવિત પ્રશ્ન)',
+                              style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.deepOrange.shade900),
                             ),
                           ],
                         ),

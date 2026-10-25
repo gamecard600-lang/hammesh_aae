@@ -1,3 +1,23 @@
+class StudyVideo {
+  final String title;
+  final String url;
+  final String description;
+
+  const StudyVideo({required this.title, required this.url, this.description = ''});
+
+  factory StudyVideo.fromJson(Map<String, dynamic> json) => StudyVideo(
+    title: json['title'] as String? ?? 'Video Explanation',
+    url: json['url'] as String? ?? '',
+    description: json['description'] as String? ?? '',
+  );
+
+  Map<String, dynamic> toJson() => {
+    'title': title,
+    'url': url,
+    if (description.isNotEmpty) 'description': description,
+  };
+}
+
 class VisualLearning {
   final bool enabled;
   final bool visualRequired;
@@ -11,6 +31,7 @@ class VisualLearning {
   final String rule;
   final String? videoUrl;
   final String? imageUrl;
+  final List<StudyVideo> videos;
 
   VisualLearning({
     required this.enabled,
@@ -25,6 +46,7 @@ class VisualLearning {
     required this.rule,
     this.videoUrl,
     this.imageUrl,
+    this.videos = const [],
   });
 
   factory VisualLearning.fromJson(Map<String, dynamic>? json) {
@@ -42,6 +64,7 @@ class VisualLearning {
         rule: '',
         videoUrl: null,
         imageUrl: null,
+        videos: const [],
       );
     }
     List<String> safeList(dynamic list) {
@@ -66,6 +89,7 @@ class VisualLearning {
       rule: json['rule'] as String? ?? '',
       videoUrl: json['videoUrl'] as String?,
       imageUrl: json['imageUrl'] as String?,
+      videos: json['videos'] is List ? (json['videos'] as List).whereType<Map>().map((e) => StudyVideo.fromJson(Map<String, dynamic>.from(e))).toList() : const [],
     );
   }
 
@@ -83,6 +107,7 @@ class VisualLearning {
       'rule': rule,
       if (videoUrl != null) 'videoUrl': videoUrl,
       if (imageUrl != null) 'imageUrl': imageUrl,
+      if (videos.isNotEmpty) 'videos': videos.map((e) => e.toJson()).toList(),
     };
   }
 }

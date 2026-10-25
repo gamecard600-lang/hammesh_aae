@@ -171,6 +171,9 @@ class _MockTestSetupScreenState extends State<MockTestSetupScreen> {
       } else if (index == 2) {
         questionLimit = 100;
         durationMinutes = 120;
+      } else if (index == 4) {
+        questionLimit = 120;
+        durationMinutes = 120;
       }
     });
   }
@@ -197,6 +200,7 @@ class _MockTestSetupScreenState extends State<MockTestSetupScreen> {
                       _buildTestTypeCard(0, 'ઝડપી ટેસ્ટ', '25 પ્રશ્નો • 30 મિનિટ', Icons.flash_on, Colors.red),
                       _buildTestTypeCard(1, 'વિષય ટેસ્ટ', '50 પ્રશ્નો • 60 મિનિટ', Icons.my_library_books, Colors.orange),
                       _buildTestTypeCard(2, 'AAE પૂરી લંબાઈ ટેસ્ટ', '100 પ્રશ્નો • 120 મિનિટ', Icons.military_tech, Colors.blue),
+                      _buildTestTypeCard(4, '3-Round Exam Strategy Simulator', '120 પ્રશ્નો • Time-Allocation Pass', Icons.timer_3, Colors.purple),
                       _buildTestTypeCard(3, 'કસ્ટમ ટેસ્ટ', 'તમારી પસંદગી મુજબ સેટિંગ્સ', Icons.tune, Colors.teal),
                       const SizedBox(height: 20),
                       if (testTypeIndex == 3) ...[

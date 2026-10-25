@@ -4,7 +4,7 @@
     "subject": "Manufacturing Processes",
     "subTopic": "Metal Casting Processes",
     "question": "In which casting process is a wax pattern used?",
-    "gujaratiQuestion": "01. કઈ કાસ્ટિંગ પ્રક્રિયામાં મીણની (Wax) પેટર્નનો ઉપયોગ થાય છે?",
+    "gujaratiQuestion": "01. કઈ કાસ્ટિંગ પ્રોસેસમાં મીણની (Wax) પેટર્નનો ઉપયોગ થાય છે?",
     "options": [
       "સેન્ડ કાસ્ટિંગ",
       "ડાઈ કાસ્ટિંગ",
@@ -12,14 +12,14 @@
       "ઇન્વેસ્ટમેન્ટ કાસ્ટિંગ"
     ],
     "correctAnswer": 3,
-    "explanation": "ઇન્વેસ્ટમેન્ટ કાસ્ટિંગમાં મીણ (Wax) ની પેટર્ન બનાવી તેના પર સિરામિકનું કોટિંગ કરીને મોલ્ડ તૈયાર કરાય છે[cite: 6]."
+    "explanation": "ઇન્વેસ્ટમેન્ટ કાસ્ટિંગમાં મીણ (Wax) ની પેટર્ન બનાવી તેના પર સિરામિકનું કોટિંગ કરીને મોલ્ડ તૈયાર કરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 2,
     "subject": "Manufacturing Processes",
     "subTopic": "Metal Casting Processes",
     "question": "Which casting process is used to make hollow pipes without using a core?",
-    "gujaratiQuestion": "02. કોરના ઉપયોગ વિના પોલા પાઈપ બનાવવા કઈ કાસ્ટિંગ પ્રક્રિયા વપરાય છે?",
+    "gujaratiQuestion": "02. કોરના ઉપયોગ વિના પોલા પાઈપ બનાવવા કઈ કાસ્ટિંગ પ્રોસેસ વપરાય છે?",
     "options": [
       "ડાઈ કાસ્ટિંગ",
       "ઈન્વેસ્ટમેન્ટ કાસ્ટિંગ",
@@ -27,7 +27,7 @@
       "શેલ મોલ્ડિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "સેન્ટ્રીફ્યુગલ કાસ્ટિંગમાં કેન્દ્રત્યાગી બળને લીધે પ્રવાહી ધાતુ બહારની તરફ ધકેલાય છે, જેથી સેન્ટ્રલ કોર વિના પોલા નળાકાર પાઈપ બને છે[cite: 6]."
+    "explanation": "સેન્ટ્રીફ્યુગલ કાસ્ટિંગમાં કેન્દ્રત્યાગી બળને લીધે ફ્લુઇડ ધાતુ બહારની તરફ ધકેલાય છે, જેથી સેન્ટ્રલ કોર વિના પોલા નળાકાર પાઈપ બને છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
       "સ્લશ કાસ્ટિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "એલ્યુમિનિયમનું ગલનબિંદુ ઊંચું હોવાથી પમ્પિંગ સિલિન્ડરનું ધોવાણ ન થાય તે માટે કોલ્ડ ચેમ્બર ડાઈ કાસ્ટિંગ વપરાય છે[cite: 6]."
+    "explanation": "એલ્યુમિનિયમનું ગલનબિંદુ ઊંચું હોવાથી પમ્પિંગ સિલિન્ડરનું ધોવાણ ન થાય તે માટે કોલ્ડ ચેમ્બર ડાઈ કાસ્ટિંગ વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
       "કાસ્ટિંગ પછી સરળતાથી દૂર કરી શકાય તેવું"
     ],
     "correctAnswer": 2,
-    "explanation": "મોલ્ડ કેવિટી સંપૂર્ણપણે ભરાય તે પહેલાં જ ધાતુનું જામી જવું (સોલિડિફિકેશન થવું) એ અનિચ્છનીય ખામી (Misrun) પેદા કરે છે[cite: 6]."
+    "explanation": "મોલ્ડ કેવિટી સંપૂર્ણપણે ભરાય તે પહેલાં જ ધાતુનું જામી જવું (સોલિડિફિકેશન થવું) એ અનિચ્છનીય ખામી (Misrun) પેદા કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
       "પાણી"
     ],
     "correctAnswer": 1,
-    "explanation": "શેલ મોલ્ડિંગમાં સિલિકા રેતી સાથે થર્મોસેટિંગ પ્લાસ્ટિક જેમ કે ફેનોલિક રેઝિન બાઈન્ડર તરીકે વપરાય છે[cite: 6]."
+    "explanation": "શેલ મોલ્ડિંગમાં સિલિકા રેતી સાથે થર્મોસેટિંગ પ્લાસ્ટિક જેમ કે ફેનોલિક રેઝિન બાઈન્ડર તરીકે વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
       "સેન્ડ કાસ્ટિંગ"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્લશ કાસ્ટિંગમાં મોલ્ડની દીવાલ પર પાતળું શેલ બન્યા પછી બાકીનું પ્રવાહી ઉલટાવીને કાઢી લેવામાં આવે છે, જેથી પોલા રમકડાં અને આભૂષણો બને છે[cite: 6]."
+    "explanation": "સ્લશ કાસ્ટિંગમાં મોલ્ડની દીવાલ પર પાતળું શેલ બન્યા પછી બાકીનું ફ્લુઇડ ઉલટાવીને કાઢી લેવામાં આવે છે, જેથી પોલા રમકડાં અને આભૂષણો બને છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@
       "ઇન્વેસ્ટમેન્ટ કાસ્ટિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "ડાઇ કાસ્ટિંગ (Permanent mold casting) માં મેટાલિક ડાઇસ વારંવાર ઉપયોગમાં લેવાય છે[cite: 6]."
+    "explanation": "ડાઇ કાસ્ટિંગ (Permanent mold casting) માં મેટાલિક ડાઇસ વારંવાર ઉપયોગમાં લેવાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 8,
@@ -117,7 +117,7 @@
       "શેકિંગ એલાઉન્સ"
     ],
     "correctAnswer": 2,
-    "explanation": "પીગળેલી ધાતુ ઠંડી પડતાં થતા ઘન સંકોચનને સરભર કરવા પેટર્નને મૂળ માપ કરતાં સહેજ મોટી બનાવાય છે, જેને શ્રિન્કેજ એલાઉન્સ કહે છે[cite: 6]."
+    "explanation": "પીગળેલી ધાતુ ઠંડી પડતાં થતા ઘન સંકોચનને સરભર કરવા પેટર્નને મૂળ માપ કરતાં સહેજ મોટી બનાવાય છે, જેને શ્રિન્કેજ એલાઉન્સ કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 9,
@@ -132,7 +132,7 @@
       "મશીનિંગ એલાઉન્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "મોલ્ડની રેતીની કેવિટી તૂટ્યા વિના પેટર્ન સહેલાઈથી ઊભી ખેંચી શકાય તે માટે અપાતા ઢાળને ડ્રાફ્ટ એલાઉન્સ કહે છે[cite: 6]."
+    "explanation": "મોલ્ડની રેતીની કેવિટી તૂટ્યા વિના પેટર્ન સહેલાઈથી ઊભી ખેંચી શકાય તે માટે અપાતા ઢાળને ડ્રાફ્ટ એલાઉન્સ કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 10,
@@ -147,7 +147,7 @@
       "બંધ ચેમ્બરમાં ગરમ થાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "ઓપન-ડાઇ ફોર્જિંગમાં વર્કપીસ સાદા આકારની કે સપાટ ડાઇ વચ્ચે કમ્પ્રેસ થાય છે અને બાજુઓ પર મુક્તપણે વિસ્તરે છે[cite: 6]."
+    "explanation": "ઓપન-ડાઇ ફોર્જિંગમાં વર્કપીસ સાદા આકારની કે સપાટ ડાઇ વચ્ચે કમ્પ્રેસ થાય છે અને બાજુઓ પર મુક્તપણે વિસ્તરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 11,
@@ -162,7 +162,7 @@
       "શ્રિન્કેજ એલાઉન્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "અસમાન સંકોચનથી થતા વાંકા વળવા સામે પેટર્નને વિરુદ્ધ દિશામાં પૂર્વનિર્ધારિત ઢાળ આપવા કેમ્બર અથવા ડિસ્ટોર્શન એલાઉન્સ અપાય છે[cite: 6]."
+    "explanation": "અસમાન સંકોચનથી થતા વાંકા વળવા સામે પેટર્નને વિરુદ્ધ દિશામાં પૂર્વનિર્ધારિત ઢાળ આપવા કેમ્બર અથવા ડિસ્ટોર્શન એલાઉન્સ અપાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 12,
@@ -177,7 +177,7 @@
       "ગેટિડ પેટર્ન"
     ],
     "correctAnswer": 2,
-    "explanation": "ઝડપી અને લાર્જ સ્કેલ મશીન મોલ્ડિંગ માટે મેચ પ્લેટ પેટર્નનો વ્યાપક ઉપયોગ થાય છે[cite: 6]."
+    "explanation": "ઝડપી અને લાર્જ સ્કેલ મશીન મોલ્ડિંગ માટે મેચ પ્લેટ પેટર્નનો વ્યાપક ઉપયોગ થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 13,
@@ -192,7 +192,7 @@
       "નાઇટ્રોજન"
     ],
     "correctAnswer": 2,
-    "explanation": "MIG વેલ્ડિંગમાં નિષ્ક્રિય વાતાવરણ બનાવવા માટે આર્ગોન અથવા હિલીયમ જેવા ઇનર્ટ ગેસનું મિશ્રણ વપરાય છે[cite: 6]."
+    "explanation": "MIG વેલ્ડિંગમાં નિષ્ક્રિય વાતાવરણ બનાવવા માટે આર્ગોન અથવા હિલીયમ જેવા ઇનર્ટ ગેસનું મિશ્રણ વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 14,
@@ -207,7 +207,7 @@
       "મેચ પ્લેટ પેટર્ન"
     ],
     "correctAnswer": 0,
-    "explanation": "પરિભ્રમણીય સમપ્રમાણ આકાર ધરાવતા મોટા ભાગો માટે 2D કન્ટેનર પ્રોફાઇલ ફેરવીને સ્વીપ પેટર્ન વડે કેવિટી બનાવાય છે[cite: 6]."
+    "explanation": "રોટેશનીય સમપ્રમાણ આકાર ધરાવતા મોટા ભાગો માટે 2D કન્ટેનર પ્રોફાઇલ ફેરવીને સ્વીપ પેટર્ન વડે કેવિટી બનાવાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 15,
@@ -222,7 +222,7 @@
       "ચિલ્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "કાસ્ટિંગમાં આંતરિક પોલાણ, છિદ્ર કે પેસેજ રચવા માટે બેક કરેલી રેતીમાંથી બનાવેલ કોર વપરાય છે[cite: 6]."
+    "explanation": "કાસ્ટિંગમાં આંતરિક પોલાણ, છિદ્ર કે પેસેજ રચવા માટે બેક કરેલી રેતીમાંથી બનાવેલ કોર વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 16,
@@ -237,7 +237,7 @@
       "ડ્રાફ્ટ એંગલ"
     ],
     "correctAnswer": 1,
-    "explanation": "NRL મેથડમાં કાસ્ટિંગના પરિમાણોના આધારે શેપ ફેક્ટર (Length + Width) / Thickness નો ઉપયોગ થાય છે[cite: 6]."
+    "explanation": "NRL મેથડમાં કાસ્ટિંગના પરિમાણોના આધારે શેપ ફેક્ટર (Length + Width) / Thickness નો ઉપયોગ થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 17,
@@ -252,7 +252,7 @@
       "ગેટ"
     ],
     "correctAnswer": 1,
-    "explanation": "કોરને મોલ્ડની અંદર તેના સ્થાને ટેકો આપી બેસાડવા પેટર્ન પર કોર પ્રિન્ટ (Core print) બનાવવામાં આવે છે[cite: 6]."
+    "explanation": "કોરને મોલ્ડની અંદર તેના સ્થાને ટેકો આપી બેસાડવા પેટર્ન પર કોર પ્રિન્ટ (Core print) બનાવવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 18,
@@ -267,7 +267,7 @@
       "ડ્રાફ્ટ"
     ],
     "correctAnswer": 1,
-    "explanation": "કોરને તેના પોતાના વજન કે પ્રવાહી ધાતુના બળ સામે ટેકો આપવા ધાતુના ચેપલેટ્સ (Chaplets) વપરાય છે[cite: 6]."
+    "explanation": "કોરને તેના પોતાના વજન કે ફ્લુઇડ ધાતુના બળ સામે ટેકો આપવા ધાતુના ચેપલેટ્સ (Chaplets) વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 19,
@@ -282,7 +282,7 @@
       "એર બેન્ડિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "V-બેન્ડિંગમાં પંચ અને V-આકારની ડાઈ કેવિટી વચ્ચે શીટને દબાવીને ચોક્કસ ખૂણે વાળવામાં આવે છે[cite: 6]."
+    "explanation": "V-બેન્ડિંગમાં પંચ અને V-આકારની ડાઈ કેવિટી વચ્ચે શીટને દબાવીને ચોક્કસ ખૂણે વાળવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 20,
@@ -294,10 +294,10 @@
       "લીલો રંગ",
       "માટીનું પ્રમાણ",
       "રેતીમાં રહેલો ભેજ",
-      "તાપમાન"
+      "ટેમ્પરેચર"
     ],
     "correctAnswer": 2,
-    "explanation": "ગ્રીન સેન્ડમાં 'ગ્રીન' શબ્દ રેતીની અંદર ભેજ/પાણી (Moisture) ની હાજરી દર્શાવે છે[cite: 6]."
+    "explanation": "ગ્રીન સેન્ડમાં 'ગ્રીન' શબ્દ રેતીની અંદર ભેજ/પાણી (Moisture) ની હાજરી દર્શાવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 21,
@@ -312,7 +312,7 @@
       "બેઝ પ્લેટ"
     ],
     "correctAnswer": 2,
-    "explanation": "મોલ્ડિંગ બોક્સના ઉપરના ભાગને કોપ (Cope) અને નીચેના ભાગને ડ્રેગ (Drag) કહે છે[cite: 6]."
+    "explanation": "મોલ્ડિંગ બોક્સના ઉપરના ભાગને કોપ (Cope) અને નીચેના ભાગને ડ્રેગ (Drag) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 22,
@@ -323,11 +323,11 @@
     "options": [
       "માત્ર શિલ્ડિંગ ગેસ પૂરો પાડે છે",
       "માત્ર આર્ક ઇનિશિએશન પૂરું પાડે છે",
-      "ફિલર મેટલ અને કન્ડક્ટર એમ બંને તરીકે કાર્ય કરે છે",
+      "ફિલર મેટલ અને કન્ડક્ટર એમ બંને તરીકે વર્ક કરે છે",
       "માત્ર બેઝ મેટલને પીગળાવે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "SMAW માં કન્ઝ્યુમેબલ ઇલેક્ટ્રોડ કરંટનું વહન કરવા ઉપરાંત ઓગળીને ફિલર મેટલ તરીકે પણ કાર્ય કરે છે[cite: 6]."
+    "explanation": "SMAW માં કન્ઝ્યુમેબલ ઇલેક્ટ્રોડ કરંટનું ફ્લો કરવા ઉપરાંત ઓગળીને ફિલર મેટલ તરીકે પણ વર્ક કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 23,
@@ -342,7 +342,7 @@
       "પાર્ટિંગ સેન્ડ"
     ],
     "correctAnswer": 1,
-    "explanation": "કોર બનાવવા માટે ઓર્ગેનિક બાઈન્ડર અને ઓઈલ ધરાવતી ઓઈલ સેન્ડ (Core sand) વપરાય છે[cite: 6]."
+    "explanation": "કોર બનાવવા માટે ઓર્ગેનિક બાઈન્ડર અને ઓઈલ ધરાવતી ઓઈલ સેન્ડ (Core sand) વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 24,
@@ -357,7 +357,7 @@
       "(V / A)³"
     ],
     "correctAnswer": 1,
-    "explanation": "ચ્વોરિનોવના નિયમ મુજબ ઘનીકરણ સમય ts = k · (V / A)² અનુસાર (V/A)² ના સમપ્રમાણમાં હોય છે[cite: 6]."
+    "explanation": "ચ્વોરિનોવના નિયમ મુજબ ઘનીકરણ સમય ts = k · (V / A)² અનુસાર (V/A)² ના સમપ્રમાણમાં હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 25,
@@ -372,7 +372,7 @@
       "ટોર્ચને ખૂબ ધીમી ટ્રાવેલ સ્પીડથી ચલાવવાથી"
     ],
     "correctAnswer": 1,
-    "explanation": "વધુ પડતો વેલ્ડિંગ કરંટ અથવા લાંબો આર્ક ગેપ આર્કની અસ્થિરતા પેદા કરી વધુ સ્પેટેર સર્જે છે[cite: 6]."
+    "explanation": "વધુ પડતો વેલ્ડિંગ કરંટ અથવા લાંબો આર્ક ગેપ આર્કની અસ્થિરતા પેદા કરી વધુ સ્પેટેર સર્જે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 26,
@@ -387,7 +387,7 @@
       "સમયથી કોઈ ફેર પડતો નથી"
     ],
     "correctAnswer": 2,
-    "explanation": "રાઇઝર છેલ્લે સુધી પ્રવાહી રહીને કાસ્ટિંગના સંકોચનને ફીડ કરી શકે તે માટે triser > tcasting હોવું જોઈએ[cite: 6]."
+    "explanation": "રાઇઝર છેલ્લે સુધી ફ્લુઇડ રહીને કાસ્ટિંગના સંકોચનને ફીડ કરી શકે તે માટે triser > tcasting હોવું જોઈએ[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 27,
@@ -402,7 +402,7 @@
       "પેડિંગ"
     ],
     "correctAnswer": 0,
-    "explanation": "કાસ્ટિંગના જાડા સેક્શનમાં ઝડપી ઠંડક પૂરી પાડવા માટે ચિલ્સ (Chills) વપરાય છે[cite: 6]."
+    "explanation": "કાસ્ટિંગના જાડા સેક્શનમાં ઝડપી ઠંડક પૂરી પાડવા માટે ચિલ્સ (Chills) વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 28,
@@ -417,14 +417,14 @@
       "નોઝલને નુકસાન થાય અને નબળું સરફેસ ફિનિશ મળે"
     ],
     "correctAnswer": 3,
-    "explanation": "ખૂબ મોટા કણો નોઝલનું ધોવાણ/ક્લોગિંગ કરે છે અને વર્કપીસ પર ખરબચડી સરફેસ ફિનિશ આપે છે[cite: 6]."
+    "explanation": "ખૂબ મોટા કણો નોઝલનું ધોવાણ/ક્લોગિંગ કરે છે અને વર્કપીસ પર ખરબચડી સરફેસ ફિનિશ આપે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 29,
     "subject": "Manufacturing Processes",
     "subTopic": "Solidification, Cooling, Riser & Gating Systems",
     "question": "For the same volume, which shape has the maximum solidification time?",
-    "gujaratiQuestion": "029. સમાન કદ માટે કયા આકારનો સોલિડિફિકેશન સમય સૌથી વધુ હોય છે?",
+    "gujaratiQuestion": "029. સમાન વોલ્યુમ માટે કયા આકારનો સોલિડિફિકેશન સમય સૌથી વધુ હોય છે?",
     "options": [
       "સમઘન",
       "નળાકાર",
@@ -432,7 +432,7 @@
       "ચોરસ"
     ],
     "correctAnswer": 2,
-    "explanation": "આપેલા કદ માટે ગોળા (Sphere) નો સપાટી વિસ્તાર લઘુત્તમ હોવાથી (V/A) મહત્તમ મળે છે અને ઘનીકરણ સમય સૌથી વધુ હોય છે[cite: 6]."
+    "explanation": "આપેલા વોલ્યુમ માટે ગોળા (Sphere) નો સપાટી વિસ્તાર લઘુત્તમ હોવાથી (V/A) મહત્તમ મળે છે અને ઘનીકરણ સમય સૌથી વધુ હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 30,
@@ -447,7 +447,7 @@
       "રાઇઝરથી કાસ્ટિંગ તરફ ઘનીકરણ કરવું"
     ],
     "correctAnswer": 1,
-    "explanation": "કાસ્ટિંગથી શરૂ કરીને રાઇઝર તરફ ક્રમિક ઘનીકરણ થવાથી સંકોચન કેવિટી વિના સાઉન્ડ કાસ્ટિંગ મળે છે[cite: 6]."
+    "explanation": "કાસ્ટિંગથી શરૂ કરીને રાઇઝર તરફ ક્રમિક ઘનીકરણ થવાથી સંકોચન કેવિટી વિના સાઉન્ડ કાસ્ટિંગ મળે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 31,
@@ -462,14 +462,14 @@
       "બે મેટલ્સને જોડવા"
     ],
     "correctAnswer": 1,
-    "explanation": "કઠણ વાહક ધાતુઓમાં જટિલ ડાઇ કેવિટી અને સૂક્ષ્મ છિદ્રો બનાવવા માટે EDM ઉત્તમ છે[cite: 6]."
+    "explanation": "કઠણ વાહક ધાતુઓમાં જટિલ ડાઇ કેવિટી અને સૂક્ષ્મ છિદ્રો બનાવવા માટે EDM ઉત્તમ છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 32,
     "subject": "Manufacturing Processes",
     "subTopic": "Solidification, Cooling, Riser & Gating Systems",
     "question": "What is the vertical passage in a gating system that carries molten metal downwards called?",
-    "gujaratiQuestion": "032. ગેટિંગ સિસ્ટમમાં પ્રવાહી ધાતુને નીચે લઈ જતા ઊભા માર્ગને શું કહેવાય છે?",
+    "gujaratiQuestion": "032. ગેટિંગ સિસ્ટમમાં ફ્લુઇડ ધાતુને નીચે લઈ જતા ઊભા માર્ગને શું કહેવાય છે?",
     "options": [
       "રનર",
       "ગેટ",
@@ -477,7 +477,7 @@
       "રાઇઝર"
     ],
     "correctAnswer": 2,
-    "explanation": "પોરિંગ બેસિનમાંથી ધાતુને નીચે રનર સુધી પહોંચાડતા ઊભા માર્ગને સ્પ્રુ (Sprue) કહે છે[cite: 6]."
+    "explanation": "પોરિંગ બેસિનમાંથી ધાતુને નીચે રનર સુધી પહોંચાડતા ઊભા માર્ગને સ્પ્રુ (Sprue) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 33,
@@ -492,22 +492,22 @@
       "ગોળાકાર"
     ],
     "correctAnswer": 1,
-    "explanation": "મુક્ત પતન દરમિયાન વેગ વધતાં પ્રવાહ સાંકડો થતો હોવાથી હવા અંદર ખેંચાતી રોકવા સ્પ્રુ નીચેથી ટેપર્ડ રખાય છે[cite: 6]."
+    "explanation": "મુક્ત પતન દરમિયાન વેલોસિટી વધતાં ફ્લો સાંકડો થતો હોવાથી હવા અંદર ખેંચાતી રોકવા સ્પ્રુ નીચેથી ટેપર્ડ રખાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 34,
     "subject": "Manufacturing Processes",
     "subTopic": "Solidification, Cooling, Riser & Gating Systems",
     "question": "What is the primary function of a riser?",
-    "gujaratiQuestion": "034. રાઈઝરનું મુખ્ય કાર્ય શું છે?",
+    "gujaratiQuestion": "034. રાઈઝરનું મુખ્ય વર્ક શું છે?",
     "options": [
       "વાયુઓ બહાર કાઢવા",
       "સ્લેગ રોકવા",
-      "પ્રવાહી ધાતુનું સંકોચન સરભર કરવું",
+      "ફ્લુઇડ ધાતુનું સંકોચન સરભર કરવું",
       "કાસ્ટિંગને મજબૂતી આપવી"
     ],
     "correctAnswer": 2,
-    "explanation": "રાઇઝર ઘનીકરણ દરમિયાન પ્રવાહી ધાતુ પૂરું પાડીને સંકોચન સરભર કરે છે[cite: 6]."
+    "explanation": "રાઇઝર ઘનીકરણ દરમિયાન ફ્લુઇડ ધાતુ પૂરું પાડીને સંકોચન સરભર કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 35,
@@ -522,7 +522,7 @@
       "3.34"
     ],
     "correctAnswer": 3,
-    "explanation": "tan(φ) = (r·cos α) / (1 - r·sin α) = 0.306 => φ ≈ 17.03°. Shear strain γ = cot(φ) + tan(φ - α) = cot(17.03°) + tan(7.03°) ≈ 3.27 + 0.123 = 3.39 ≈ 3.34[cite: 6]."
+    "explanation": "tan(φ) = (r·cos α) / (1 - r·sin α) = 0.306 => φ ≈ 17.03°. Shear strain γ = cot(φ) + tan(φ - α) = cot(17.03°) + tan(7.03°) ≈ 3.27 + 0.123 = 3.39 ≈ 3.34[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 36,
@@ -537,7 +537,7 @@
       "સાઇડ રાઇઝર"
     ],
     "correctAnswer": 1,
-    "explanation": "જે રાઇઝર મોલ્ડની અંદર સંપૂર્ણ બંધ હોય તેને બ્લાઇન્ડ રાઇઝર (Blind riser) કહેવાય છે[cite: 6]."
+    "explanation": "જે રાઇઝર મોલ્ડની અંદર સંપૂર્ણ બંધ હોય તેને બ્લાઇન્ડ રાઇઝર (Blind riser) કહેવાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 37,
@@ -546,13 +546,13 @@
     "question": "Why is a skim bob provided in a gating system?",
     "gujaratiQuestion": "037. ગેટિંગ સિસ્ટમમાં સ્કીમ બોબ (Skim bob) શા માટે આપવામાં આવે છે?",
     "options": [
-      "ધાતુનું દબાણ વધારવા",
+      "ધાતુનું પ્રેશર વધારવા",
       "સ્લેગ અને અશુદ્ધિઓ પકડવા",
       "પેટર્ન કાઢવા",
       "રાઇઝરને ટેકો આપવા"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્કીમ બોબ હલકો કચરો અને સ્લેગ મોલ્ડ કેવિટીમાં પ્રવેશતા અટકાવે છે[cite: 6]."
+    "explanation": "સ્કીમ બોબ હલકો કચરો અને સ્લેગ મોલ્ડ કેવિટીમાં પ્રવેશતા અટકાવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 38,
@@ -567,7 +567,7 @@
       "વધુ સારા હીટ ડિસિપેશન માટે"
     ],
     "correctAnswer": 2,
-    "explanation": "પોઝિટિવ રેક એંગલ વધારવાથી ચિપનો ફ્લો સરળ બને છે અને કટિંગ ફોર્સ તથા પાવર વપરાશ ઘટે છે[cite: 6]."
+    "explanation": "પોઝિટિવ રેક એંગલ વધારવાથી ચિપનો ફ્લો સરળ બને છે અને કટિંગ ફોર્સ તથા પાવર વપરાશ ઘટે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 39,
@@ -578,11 +578,11 @@
     "options": [
       "રેતીમાં વધુ પડતા ભેજ અને વાયુઓથી",
       "ધાતુના સંકોચનથી",
-      "નીચા તાપમાનથી",
+      "નીચા ટેમ્પરેચરથી",
       "પેટર્નની ખામીથી"
     ],
     "correctAnswer": 0,
-    "explanation": "મોલ્ડિંગ સેન્ડમાં વધુ પડતો ભેજ હોવાથી અને વાયુઓ બહાર ન નીકળી શકતાં બ્લોહોલ્સ બને છે[cite: 6]."
+    "explanation": "મોલ્ડિંગ સેન્ડમાં વધુ પડતો ભેજ હોવાથી અને વાયુઓ બહાર ન નીકળી શકતાં બ્લોહોલ્સ બને છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 40,
@@ -591,13 +591,13 @@
     "question": "Due to what does the Misrun defect occur in casting?",
     "gujaratiQuestion": "040. મિસરન (Misrun) ડિફેક્ટ શાના કારણે ઉદ્ભવે છે?",
     "options": [
-      "ઊંચા તાપમાનથી",
-      "પ્રવાહી ધાતુના નીચા તાપમાનથી",
-      "રેતીના વધુ પડતા દબાણથી",
+      "ઊંચા ટેમ્પરેચરથી",
+      "ફ્લુઇડ ધાતુના નીચા ટેમ્પરેચરથી",
+      "રેતીના વધુ પડતા પ્રેશરથી",
       "ગેટની સાઇઝ મોટી હોવાથી"
     ],
     "correctAnswer": 1,
-    "explanation": "પોરિંગ તાપમાન નીચું હોવાથી ધાતુની તરલતા ઘટે છે અને કેવિટી અધૂરી ભરાય ત્યારે મિસરન થાય છે[cite: 6]."
+    "explanation": "પોરિંગ ટેમ્પરેચર નીચું હોવાથી ધાતુની તરલતા ઘટે છે અને કેવિટી અધૂરી ભરાય ત્યારે મિસરન થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 41,
@@ -612,14 +612,14 @@
       "મિલિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "આંતરિક ગિયર્સ કાપવા માટે પિનિયન કટર ધરાવતી ગિયર શેપિંગ પદ્ધતિ વપરાય છે (હોબિંગ માત્ર બાહ્ય ગિયર માટે વપરાય છે)[cite: 6]."
+    "explanation": "આંતરિક ગિયર્સ કાપવા માટે પિનિયન કટર ધરાવતી ગિયર શેપિંગ પદ્ધતિ વપરાય છે (હોબિંગ માત્ર બાહ્ય ગિયર માટે વપરાય છે)[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 42,
     "subject": "Manufacturing Processes",
     "subTopic": "Metal Casting Processes",
     "question": "Which defect is observed when two streams of molten metal meet but fail to fuse properly?",
-    "gujaratiQuestion": "042. પ્રવાહી ધાતુના બે પ્રવાહ ભેગા થાય પણ બરાબર જોડાય નહીં ત્યારે કઈ ખામી જોવા મળે છે?",
+    "gujaratiQuestion": "042. ફ્લુઇડ ધાતુના બે ફ્લો ભેગા થાય પણ બરાબર જોડાય નહીં ત્યારે કઈ ખામી જોવા મળે છે?",
     "options": [
       "બ્લોહોલ",
       "સ્વેલ",
@@ -627,7 +627,7 @@
       "શિફ્ટ"
     ],
     "correctAnswer": 2,
-    "explanation": "નીચા તાપમાને બે પ્રવાહો ભેગા મળીને એકરસ ન થઈ શકે ત્યારે કોલ્ડ શટ (Cold shut) ખામી સર્જાય છે[cite: 6]."
+    "explanation": "નીચા ટેમ્પરેચરે બે ફ્લોો ભેગા મળીને એકરસ ન થઈ શકે ત્યારે કોલ્ડ શટ (Cold shut) ખામી સર્જાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 43,
@@ -642,14 +642,14 @@
       "મિસરન"
     ],
     "correctAnswer": 1,
-    "explanation": "પાર્ટિંગ લાઇન આગળ કોપ અને ડ્રેગ બોક્સનું મિસ-એલાઈનમેન્ટ મોલ્ડ શિફ્ટ (Shift) ખામી પેદા કરે છે[cite: 6]."
+    "explanation": "પાર્ટિંગ લાઇન આગળ કોપ અને ડ્રેગ બોક્સનું મિસ-એલાઈનમેન્ટ મોલ્ડ શિફ્ટ (Shift) ખામી પેદા કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 44,
     "subject": "Manufacturing Processes",
     "subTopic": "Metal Casting Processes",
     "question": "In hollow cylindrical parts made by centrifugal casting, part density is:",
-    "gujaratiQuestion": "044. સેન્ટ્રીફયુગલ કાસ્ટિંગ દ્વારા બનાવવામાં આવતા હોલો સિલિન્ડ્રિકલ પાર્ટ્સમાં, પાર્ટની ડેન્સિટી (ઘનતા) કેવી હોય છે?",
+    "gujaratiQuestion": "044. સેન્ટ્રીફયુગલ કાસ્ટિંગ દ્વારા બનાવવામાં આવતા હોલો સિલિન્ડ્રિકલ પાર્ટ્સમાં, પાર્ટની ડેન્સિટી (ડેન્સિટી) કેવી હોય છે?",
     "options": [
       "બહારના ભાગમાં (outer region) મહત્તમ",
       "અંદરના ભાગમાં (inner region) મહત્તમ",
@@ -657,7 +657,7 @@
       "બધે જ સમાન"
     ],
     "correctAnswer": 0,
-    "explanation": "કેન્દ્રત્યાગી બળને લીધે ભારે શુદ્ધ ધાતુ બહારની પરિઘ તરફ ફેંકાય છે, જેથી બહારના ભાગમાં ઘનતા મહત્તમ હોય છે[cite: 6]."
+    "explanation": "કેન્દ્રત્યાગી બળને લીધે ભારે શુદ્ધ ધાતુ બહારની પરિઘ તરફ ફેંકાય છે, જેથી બહારના ભાગમાં ડેન્સિટી મહત્તમ હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 45,
@@ -672,7 +672,7 @@
       "રેટ-ટેલ"
     ],
     "correctAnswer": 2,
-    "explanation": "સંકોચન સામે મોલ્ડનો અવરોધ આવતાં પેદા થતા તણાવથી હોટ ટીઅર (Hot tear) તિરાડો પડે છે[cite: 6]."
+    "explanation": "સંકોચન સામે મોલ્ડનો અવરોધ આવતાં પેદા થતા તણાવથી હોટ ટીઅર (Hot tear) તિરાડો પડે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 46,
@@ -687,7 +687,7 @@
       "વોશ"
     ],
     "correctAnswer": 0,
-    "explanation": "કોપની ઉપરની સપાટી પરથી રેતી તૂટીને પ્રવાહી ધાતુમાં પડવાથી ડ્રોપ (Drop) ખામી થાય છે[cite: 6]."
+    "explanation": "કોપની ઉપરની સપાટી પરથી રેતી તૂટીને ફ્લુઇડ ધાતુમાં પડવાથી ડ્રોપ (Drop) ખામી થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 47,
@@ -702,14 +702,14 @@
       "400%"
     ],
     "correctAnswer": 2,
-    "explanation": "V1·T1^0.5 = V2·T2^0.5 => V1·T1^0.5 = 0.5V1·T2^0.5 => T2/T1 = (1/0.5)² = 4. વધારો = (4 - 1) × 100 = 300%[cite: 6]."
+    "explanation": "V1·T1^0.5 = V2·T2^0.5 => V1·T1^0.5 = 0.5V1·T2^0.5 => T2/T1 = (1/0.5)² = 4. વધારો = (4 - 1) × 100 = 300%[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 48,
     "subject": "Manufacturing Processes",
     "subTopic": "Metal Casting Processes",
     "question": "What is the defect of enlargement of mold cavity under the pressure of molten metal called?",
-    "gujaratiQuestion": "048. પ્રવાહી ધાતુના દબાણને કારણે મોલ્ડ કેવિટી ફૂલી જવાની ખામીને શું કહેવાય છે?",
+    "gujaratiQuestion": "048. ફ્લુઇડ ધાતુના પ્રેશરને કારણે મોલ્ડ કેવિટી ફૂલી જવાની ખામીને શું કહેવાય છે?",
     "options": [
       "સ્વેલ",
       "વોશ",
@@ -717,7 +717,7 @@
       "રેટ-ટેલ"
     ],
     "correctAnswer": 0,
-    "explanation": "પ્રવાહી ધાતુના હાઇડ્રોસ્ટેટિક દબાણથી કેવિટી ફૂલી જવાની ખામીને સ્વેલ (Swell) કહે છે[cite: 6]."
+    "explanation": "ફ્લુઇડ ધાતુના હાઇડ્રોસ્ટેટિક પ્રેશરથી કેવિટી ફૂલી જવાની ખામીને સ્વેલ (Swell) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 49,
@@ -732,7 +732,7 @@
       "વેક્યુમ સિસ્ટમ"
     ],
     "correctAnswer": 1,
-    "explanation": "As : Ar : Ag માં ગેટ એરિયા રનર કરતાં ઓછો હોવાથી (1:2:1) તે પ્રેસરાઇઝ્ડ ગેટિંગ સિસ્ટમ છે[cite: 6]."
+    "explanation": "As : Ar : Ag માં ગેટ એરિયા રનર કરતાં ઓછો હોવાથી (1:2:1) તે પ્રેસરાઇઝ્ડ ગેટિંગ સિસ્ટમ છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 50,
@@ -747,7 +747,7 @@
       "(i) અને (iii)"
     ],
     "correctAnswer": 0,
-    "explanation": "ડિફ્યુઝન વેલ્ડિંગ અને ફ્રિક્શન વેલ્ડિંગ સોલિડ સ્ટેટ પ્રોસેસ હોવાથી તેમાં કોઈ ફિલર મેટલ વગર ઓટોજિનસ જોઈનિંગ થાય છે[cite: 6]."
+    "explanation": "ડિફ્યુઝન વેલ્ડિંગ અને ફ્રિક્શન વેલ્ડિંગ સોલિડ સ્ટેટ પ્રોસેસ હોવાથી તેમાં કોઈ ફિલર મેટલ વગર ઓટોજિનસ જોઈનિંગ થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 51,
@@ -762,7 +762,7 @@
       "રાઈઝરમાં"
     ],
     "correctAnswer": 2,
-    "explanation": "અન-પ્રેસરાઇઝ્ડ 1:2:4 સિસ્ટમમાં ચોક એરિયા સ્પ્રુના તળિયે (Sprue base) હોય છે[cite: 6]."
+    "explanation": "અન-પ્રેસરાઇઝ્ડ 1:2:4 સિસ્ટમમાં ચોક એરિયા સ્પ્રુના તળિયે (Sprue base) હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 52,
@@ -777,7 +777,7 @@
       "રાઈઝર"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્રેસરાઇઝ્ડ સિસ્ટમમાં ચોક એરિયા ઇન-ગેટ (In-gate) આગળ રાખવામાં આવે છે[cite: 6]."
+    "explanation": "પ્રેસરાઇઝ્ડ સિસ્ટમમાં ચોક એરિયા ઇન-ગેટ (In-gate) આગળ રાખવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 53,
@@ -792,7 +792,7 @@
       "પ્લાસ્ટર ઓફ પેરિસ"
     ],
     "correctAnswer": 0,
-    "explanation": "ફુલ મોલ્ડ કાસ્ટિંગમાં એક્સપાન્ડેડ પોલિસ્ટાયરીન (થર્મોકોલ) ની પેટર્ન વપરાય છે[cite: 6]."
+    "explanation": "ફુલ મોલ્ડ કાસ્ટિંગમાં એક્સપાન્ડેડ પોલિસ્ટાયરીન (થર્મોકોલ) ની પેટર્ન વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 54,
@@ -802,19 +802,19 @@
     "gujaratiQuestion": "054. પોરિંગ બેસિનમાં સ્ટ્રેનર કોરનો ઉપયોગ શું છે?",
     "options": [
       "સ્લેગ અને કચરો ગાળવા",
-      "તાપમાન ઘટાડવા",
+      "ટેમ્પરેચર ઘટાડવા",
       "મોલ્ડની મજબૂતી વધારવા",
       "સંકોચન રોકવા"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્ટ્રેનર કોર પ્રવાહી ધાતુમાંથી સ્લેગ અને કચરો ગાળી લે છે[cite: 6]."
+    "explanation": "સ્ટ્રેનર કોર ફ્લુઇડ ધાતુમાંથી સ્લેગ અને કચરો ગાળી લે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 55,
     "subject": "Manufacturing Processes",
     "subTopic": "Metal Casting Processes",
     "question": "In which casting process are gating and risers not required?",
-    "gujaratiQuestion": "055. કઈ કાસ્ટિંગ પ્રક્રિયામાં ગેટિંગ અને રાઈઝરની જરૂર પડતી નથી?",
+    "gujaratiQuestion": "055. કઈ કાસ્ટિંગ પ્રોસેસમાં ગેટિંગ અને રાઈઝરની જરૂર પડતી નથી?",
     "options": [
       "સેન્ડ કાસ્ટિંગ",
       "શેલ મોલ્ડિંગ",
@@ -822,7 +822,7 @@
       "ઈન્વેસ્ટમેન્ટ કાસ્ટિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "ટ્રુ સેન્ટ્રીફ્યુગલ કાસ્ટિંગમાં સેન્ટ્રીફ્યુગલ ફોર્સ સીધું ફીડિંગ કરતું હોવાથી રાઇઝરની જરૂર પડતી નથી[cite: 6]."
+    "explanation": "ટ્રુ સેન્ટ્રીફ્યુગલ કાસ્ટિંગમાં સેન્ટ્રીફ્યુગલ ફોર્સ સીધું ફીડિંગ કરતું હોવાથી રાઇઝરની જરૂર પડતી નથી[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 56,
@@ -837,7 +837,7 @@
       "હોરિઝોન્ટલ મિલિંગ મશીન"
     ],
     "correctAnswer": 2,
-    "explanation": "T-સ્લોટ કટર સાથે વર્ટિકલ મિલિંગ મશીનનો ઉપયોગ T-સ્લોટ બનાવવા માટે થાય છે[cite: 6]."
+    "explanation": "T-સ્લોટ કટર સાથે વર્ટિકલ મિલિંગ મશીનનો ઉપયોગ T-સ્લોટ બનાવવા માટે થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 57,
@@ -852,14 +852,14 @@
       "રિફ્રેક્ટરીનેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "વાયુઓ અને વરાળને બહાર નીકળવા દેવાની મોલ્ડિંગ રેતીની ક્ષમતાને પરમીએબિલિટી કહે છે[cite: 6]."
+    "explanation": "વાયુઓ અને વરાળને બહાર નીકળવા દેવાની મોલ્ડિંગ રેતીની ક્ષમતાને પરમીએબિલિટી કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 58,
     "subject": "Manufacturing Processes",
     "subTopic": "Pattern, Mould & Core Design",
     "question": "What is the ability of molding sand to withstand high temperatures called?",
-    "gujaratiQuestion": "058. મોલ્ડિંગ રેતીની ઊંચા તાપમાન સહન કરવાની ક્ષમતાને શું કહેવાય છે?",
+    "gujaratiQuestion": "058. મોલ્ડિંગ રેતીની ઊંચા ટેમ્પરેચર સહન કરવાની ક્ષમતાને શું કહેવાય છે?",
     "options": [
       "પરમીએબિલિટી",
       "રિફ્રેક્ટરીનેસ",
@@ -867,7 +867,7 @@
       "હાર્ડનેસ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓગળ્યા વિના ઊંચા તાપમાન સામે ટકી રહેવાની ક્ષમતાને રિફ્રેક્ટરીનેસ કહે છે[cite: 6]."
+    "explanation": "ઓગળ્યા વિના ઊંચા ટેમ્પરેચર સામે ટકી રહેવાની ક્ષમતાને રિફ્રેક્ટરીનેસ કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 59,
@@ -882,7 +882,7 @@
       "થર્મિટ વેલ્ડિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "લેસર બીમ વેલ્ડિંગમાં પાવર ડેન્સિટી અતિશય ઊંચી હોવાથી હીટ એફેક્ટેડ ઝોન (HAZ) સૌથી સાંકડો બને છે[cite: 6]."
+    "explanation": "લેસર બીમ વેલ્ડિંગમાં પાવર ડેન્સિટી અતિશય ઊંચી હોવાથી હીટ એફેક્ટેડ ઝોન (HAZ) સૌથી સાંકડો બને છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 60,
@@ -897,7 +897,7 @@
       "માટી"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇવેપોરેટિવ કાસ્ટિંગમાં એક્સપાન્ડેડ પોલિસ્ટાયરીન પેટર્ન વપરાય છે[cite: 6]."
+    "explanation": "ઇવેપોરેટિવ કાસ્ટિંગમાં એક્સપાન્ડેડ પોલિસ્ટાયરીન પેટર્ન વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 61,
@@ -912,7 +912,7 @@
       "ગ્રીન સેન્ડ"
     ],
     "correctAnswer": 1,
-    "explanation": "કોપ અને ડ્રેગને અલગ રાખવા માટે પાર્ટિંગ સેન્ડ (Parting sand) છાંટવામાં આવે છે[cite: 6]."
+    "explanation": "કોપ અને ડ્રેગને અલગ રાખવા માટે પાર્ટિંગ સેન્ડ (Parting sand) છાંટવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 63,
@@ -927,14 +927,14 @@
       "બોટમ બોર્ડ"
     ],
     "correctAnswer": 0,
-    "explanation": "મોલ્ડિંગ બોક્સના નીચેના ભાગને ડ્રેગ (Drag) કહે છે[cite: 6]."
+    "explanation": "મોલ્ડિંગ બોક્સના નીચેના ભાગને ડ્રેગ (Drag) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 64,
     "subject": "Manufacturing Processes",
     "subTopic": "Solidification, Cooling, Riser & Gating Systems",
     "question": "Which method is used to determine the size of a riser?",
-    "gujaratiQuestion": "064. રાઈઝરનું કદ નક્કી કરવા માટે કઈ પદ્ધતિનો ઉપયોગ થાય છે?",
+    "gujaratiQuestion": "064. રાઈઝરનું વોલ્યુમ નક્કી કરવા માટે કઈ પદ્ધતિનો ઉપયોગ થાય છે?",
     "options": [
       "ચ્વોરિનોવની પદ્ધતિ",
       "પાસ્કલની પદ્ધતિ",
@@ -942,7 +942,7 @@
       "ન્યૂટનની પદ્ધતિ"
     ],
     "correctAnswer": 0,
-    "explanation": "રાઇઝરનું કદ નક્કી કરવા ચ્વોરિનોવના નિયમ (Modulus method) નો ઉપયોગ થાય છે[cite: 6]."
+    "explanation": "રાઇઝરનું વોલ્યુમ નક્કી કરવા ચ્વોરિનોવના નિયમ (Modulus method) નો ઉપયોગ થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 65,
@@ -957,7 +957,7 @@
       "104mm"
     ],
     "correctAnswer": 2,
-    "explanation": "Pattern dimension = 100 + (100 × 0.02) = 102 mm[cite: 6]."
+    "explanation": "Pattern dimension = 100 + (100 × 0.02) = 102 mm[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 66,
@@ -972,7 +972,7 @@
       "કોમ્પેક્ટિંગ"
     ],
     "correctAnswer": 0,
-    "explanation": "શીયરિંગ અને કટિંગ ઓપરેશન્સ મેટલ ફોર્મિંગ અને શીટ મેટલ વર્કિંગ સાથે સંકળાયેલા છે[cite: 6]."
+    "explanation": "શીયરિંગ અને કટિંગ ઓપરેશન્સ મેટલ ફોર્મિંગ અને શીટ મેટલ વર્કિંગ સાથે સંકળાયેલા છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 67,
@@ -987,7 +987,7 @@
       "ટંગસ્ટન"
     ],
     "correctAnswer": 1,
-    "explanation": "સિલિકોન પીગળેલી ધાતુની તરલતા (Fluidity) વધારે છે[cite: 6]."
+    "explanation": "સિલિકોન પીગળેલી ધાતુની તરલતા (Fluidity) વધારે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 68,
@@ -1002,7 +1002,7 @@
       "ચોરસ"
     ],
     "correctAnswer": 2,
-    "explanation": "મોલ્ડિંગ સરળ બનાવવા અને ટર્બ્યુલન્સ ઘટાડવા રનર સમલંબ (Trapezoidal) રાખવામાં આવે છે[cite: 6]."
+    "explanation": "મોલ્ડિંગ સરળ બનાવવા અને ટર્બ્યુલન્સ ઘટાડવા રનર સમલંબ (Trapezoidal) રાખવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 69,
@@ -1017,7 +1017,7 @@
       "ફિક્સ્ડ"
     ],
     "correctAnswer": 1,
-    "explanation": "કન્વેન્શનલ મશીનિંગમાં જોબ રોટરી, ટ્રાન્સલેટરી કે ફિક્સ હોય છે; વાઇબ્રેટરી મોશન સામાન્ય કટિંગમાં જોબની મોશન નથી[cite: 6]."
+    "explanation": "કન્વેન્શનલ મશીનિંગમાં જોબ રોટરી, ટ્રાન્સલેટરી કે ફિક્સ હોય છે; વાઇબ્રેટરી મોશન સામાન્ય કટિંગમાં જોબની મોશન નથી[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 70,
@@ -1032,7 +1032,7 @@
       "કોલ્ડ શટ"
     ],
     "correctAnswer": 2,
-    "explanation": "મોલ્ડના ભેજમાંથી બનેલી વરાળ બ્લોહોલ્સ બનાવે છે[cite: 6]."
+    "explanation": "મોલ્ડના ભેજમાંથી બનેલી વરાળ બ્લોહોલ્સ બનાવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 71,
@@ -1047,7 +1047,7 @@
       "ફ્લાસ્કની બહાર"
     ],
     "correctAnswer": 0,
-    "explanation": "મેચ પ્લેટમાં એક જ પ્લેટની બંને સામસામે બાજુએ કોપ અને ડ્રેગ પેટર્ન લગાવેલી હોય છે[cite: 6]."
+    "explanation": "મેચ પ્લેટમાં એક જ પ્લેટની બંને સામસામે બાજુએ કોપ અને ડ્રેગ પેટર્ન લગાવેલી હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 72,
@@ -1062,7 +1062,7 @@
       "લિપ્સ"
     ],
     "correctAnswer": 3,
-    "explanation": "ટ્વિસ્ટ ડ્રિલની મુખ્ય બે કટિંગ કિનારીઓને લિપ્સ (Lips / Cutting edges) કહે છે[cite: 6]."
+    "explanation": "ટ્વિસ્ટ ડ્રિલની મુખ્ય બે કટિંગ કિનારીઓને લિપ્સ (Lips / Cutting edges) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 73,
@@ -1072,12 +1072,12 @@
     "gujaratiQuestion": "Q73. કાસ્ટિંગમાં ચિલ્સ (Chills) નો ઉપયોગ શેના માટે થાય છે?",
     "options": [
       "ડાયરેકશનલ સોલિડિફિકેશન મેળવવા",
-      "ધાતુનું તાપમાન વધારવા",
+      "ધાતુનું ટેમ્પરેચર વધારવા",
       "રાઇઝરની સાઇઝ વધારવા",
       "પેટર્ન કાઢવા"
     ],
     "correctAnswer": 0,
-    "explanation": "ચિલ્સ ઝડપી ઠંડક પૂરી પાડીને ડાયરેક્શનલ સોલિડિફિકેશન પ્રાપ્ત કરવામાં મદદ કરે છે[cite: 6]."
+    "explanation": "ચિલ્સ ઝડપી ઠંડક પૂરી પાડીને ડાયરેક્શનલ સોલિડિફિકેશન પ્રાપ્ત કરવામાં મદદ કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 74,
@@ -1092,7 +1092,7 @@
       "ફ્રેક્ચર"
     ],
     "correctAnswer": 1,
-    "explanation": "યીલ્ડ પોઇન્ટ પછી પદાર્થમાં કાયમી પ્લાસ્ટિક ડિફોર્મેશન શરૂ થાય છે[cite: 6]."
+    "explanation": "યીલ્ડ પોઇન્ટ પછી પદાર્થમાં કાયમી પ્લાસ્ટિક ડિફોર્મેશન શરૂ થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 75,
@@ -1107,7 +1107,7 @@
       "રેડિયો-એક્ટિવ રીત"
     ],
     "correctAnswer": 3,
-    "explanation": "રેડિયો-એક્ટિવ પદ્ધતિ ટૂલ વિયર (ઘસારો) માપવા વપરાય છે, ઇન્ટરફેસ તાપમાન માપવા માટે નહીં[cite: 6]."
+    "explanation": "રેડિયો-એક્ટિવ પદ્ધતિ ટૂલ વિયર (ઘસારો) માપવા વપરાય છે, ઇન્ટરફેસ ટેમ્પરેચર માપવા માટે નહીં[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 76,
@@ -1122,7 +1122,7 @@
       "મેક્સિમમ સ્ટ્રેન થિયરી"
     ],
     "correctAnswer": 1,
-    "explanation": "ટ્રેસ્કા યીલ્ડ ક્રાઇટેરિયા મહત્તમ શીયર સ્ટ્રેસ થિયરી (Maximum Shear Stress Theory) તરીકે ઓળખાય છે[cite: 6]."
+    "explanation": "ટ્રેસ્કા યીલ્ડ ક્રાઇટેરિયા મહત્તમ શીયર સ્ટ્રેસ થિયરી (Maximum Shear Stress Theory) તરીકે ઓળખાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 77,
@@ -1137,7 +1137,7 @@
       "મેક્સિમમ સ્ટ્રેન થિયરી"
     ],
     "correctAnswer": 2,
-    "explanation": "વોન મિસેસ ક્રાઇટેરિયા ડિસ્ટોર્શન એનર્જી થિયરી (Distortion Energy Theory / Maximum Distortion Strain Energy) તરીકે ઓળખાય છે[cite: 6]."
+    "explanation": "વોન મિસેસ ક્રાઇટેરિયા ડિસ્ટોર્શન એનર્જી થિયરી (Distortion Energy Theory / Maximum Distortion Strain Energy) તરીકે ઓળખાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 78,
@@ -1152,44 +1152,44 @@
       "મોલ્ડિંગ અને પ્લેટિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "પોલિશિંગ અને લેપિંગ (Lapping and Polishing) અતિ-ઉચ્ચ સપાટી ફિનિશિંગ પ્રક્રિયાઓ છે[cite: 6]."
+    "explanation": "પોલિશિંગ અને લેપિંગ (Lapping and Polishing) અતિ-ઉચ્ચ સપાટી ફિનિશિંગ પ્રોસેસીસ છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 79,
     "subject": "Manufacturing Processes",
     "subTopic": "Hot & Cold Metal Working Processes",
     "question": "At what temperature is hot working of metals performed?",
-    "gujaratiQuestion": "079. મેટલનું હોટ વર્કિંગ (Hot working) કયા તાપમાને કરવામાં આવે છે?",
+    "gujaratiQuestion": "079. મેટલનું હોટ વર્કિંગ (Hot working) કયા ટેમ્પરેચરે કરવામાં આવે છે?",
     "options": [
       "રૂમ ટેમ્પરેચર પર",
-      "રિક્રિસ્ટલાઇઝેશન તાપમાનથી નીચે",
-      "રિક્રિસ્ટલાઇઝેશન તાપમાનથી ઉપર",
+      "રિક્રિસ્ટલાઇઝેશન ટેમ્પરેચરથી નીચે",
+      "રિક્રિસ્ટલાઇઝેશન ટેમ્પરેચરથી ઉપર",
       "મેલ્ટિંગ પોઈન્ટથી ઉપર"
     ],
     "correctAnswer": 2,
-    "explanation": "હોટ વર્કિંગ ધાતુના રિક્રિસ્ટલાઇઝેશન તાપમાનથી ઉપર કરવામાં આવે છે જેથી તેમાં સ્ટ્રેઇન હાર્ડનિંગ થતું નથી[cite: 6]."
+    "explanation": "હોટ વર્કિંગ ધાતુના રિક્રિસ્ટલાઇઝેશન ટેમ્પરેચરથી ઉપર કરવામાં આવે છે જેથી તેમાં સ્ટ્રેઇન હાર્ડનિંગ થતું નથી[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 80,
     "subject": "Manufacturing Processes",
     "subTopic": "Hot & Cold Metal Working Processes",
     "question": "At what temperature is cold working of metals performed?",
-    "gujaratiQuestion": "080. મેટલનું કોલ્ડ વર્કિંગ (Cold working) કયા તાપમાને કરવામાં આવે છે?",
+    "gujaratiQuestion": "080. મેટલનું કોલ્ડ વર્કિંગ (Cold working) કયા ટેમ્પરેચરે કરવામાં આવે છે?",
     "options": [
       "રૂમ ટેમ્પરેચર પર",
-      "રિક્રિસ્ટલાઇઝેશન તાપમાનથી નીચે",
-      "રિક્રિસ્ટલાઇઝેશન તાપમાનથી ઉપર",
+      "રિક્રિસ્ટલાઇઝેશન ટેમ્પરેચરથી નીચે",
+      "રિક્રિસ્ટલાઇઝેશન ટેમ્પરેચરથી ઉપર",
       "મેલ્ટિંગ પોઈન્ટ પર"
     ],
     "correctAnswer": 1,
-    "explanation": "કોલ્ડ વર્કિંગ ધાતુના રિક્રિસ્ટલાઇઝેશન તાપમાનથી નીચે કરવામાં આવે છે[cite: 6]."
+    "explanation": "કોલ્ડ વર્કિંગ ધાતુના રિક્રિસ્ટલાઇઝેશન ટેમ્પરેચરથી નીચે કરવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 81,
     "subject": "Manufacturing Processes",
     "subTopic": "Forging, Rolling, Extrusion & Drawing",
     "question": "The process of increasing the cross-sectional area of a stock at the expense of its length by applying axial force is called:",
-    "gujaratiQuestion": "Q81. લંબાઈની દિશામાં ફોર્સ લગાવીને લંબાઈના ભોગે સ્ટોકનો ક્રોસ-સેક્શનલ એરિયા વધારવાની પ્રક્રિયાને _____ કહેવાય છે.",
+    "gujaratiQuestion": "Q81. લંબાઈની દિશામાં ફોર્સ લગાવીને લંબાઈના ભોગે સ્ટોકનો ક્રોસ-સેક્શનલ એરિયા વધારવાની પ્રોસેસને _____ કહેવાય છે.",
     "options": [
       "ફુલરિંગ",
       "અપસેટિંગ",
@@ -1197,14 +1197,14 @@
       "સ્વેજિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "અક્ષીય દિશામાં બળ આપીને લંબાઈ ઘટાડી આડછેદનું ક્ષેત્રફળ વધારવાની ફોર્જિંગ ક્રિયાને અપસેટિંગ (Upsetting) કહે છે[cite: 6]."
+    "explanation": "અક્ષીય દિશામાં બળ આપીને લંબાઈ ઘટાડી આડછેદનું ક્ષેત્રફળ વધારવાની ફોર્જિંગ ક્રિયાને અપસેટિંગ (Upsetting) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 82,
     "subject": "Manufacturing Processes",
     "subTopic": "Hot & Cold Metal Working Processes",
     "question": "What change occurs in metal properties due to cold working?",
-    "gujaratiQuestion": "082. કોલ્ડ વર્કિંગના કારણે મેટલના ગુણધર્મોમાં શું ફેરફાર થાય છે?",
+    "gujaratiQuestion": "082. કોલ્ડ વર્કિંગના કારણે મેટલના પ્રોપર્ટીઝમાં શું ફેરફાર થાય છે?",
     "options": [
       "મજબૂતાઈ ઘટે છે",
       "ડક્ટિલિટી વધે છે",
@@ -1212,7 +1212,7 @@
       "રિક્રિસ્ટલાઈઝેશન થાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "કોલ્ડ વર્કિંગથી ધાતુમાં સ્ટ્રેઇન હાર્ડનિંગ (વર્ક હાર્ડનિંગ) થતાં તેની તાકાત અને હાર્ડનેસ વધે છે[cite: 6]."
+    "explanation": "કોલ્ડ વર્કિંગથી ધાતુમાં સ્ટ્રેઇન હાર્ડનિંગ (વર્ક હાર્ડનિંગ) થતાં તેની તાકાત અને હાર્ડનેસ વધે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 83,
@@ -1227,7 +1227,7 @@
       "મેટલનું ઓક્સિડેશન થાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "ઓક્સિડેશન અને સ્કેલિંગ ન થવાને કારણે કોલ્ડ વર્કિંગમાં ઉત્તમ સરફેસ ફિનિશ અને ડાયમેન્શનલ એક્યુરેસી મળે છે[cite: 6]."
+    "explanation": "ઓક્સિડેશન અને સ્કેલિંગ ન થવાને કારણે કોલ્ડ વર્કિંગમાં ઉત્તમ સરફેસ ફિનિશ અને ડાયમેન્શનલ એક્યુરેસી મળે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 84,
@@ -1242,7 +1242,7 @@
       "ઈનડાયરેક્ટ એક્સટ્રુઝન"
     ],
     "correctAnswer": 2,
-    "explanation": "પાતળી દીવાલવાળી એલ્યુમિનિયમ ટૂથપેસ્ટ ટ્યુબ બનાવવા માટે ઇમ્પેક્ટ એક્સટ્રુઝન (Impact Extrusion) પદ્ધતિ વપરાય છે[cite: 6]."
+    "explanation": "પાતળી દીવાલવાળી એલ્યુમિનિયમ ટૂથપેસ્ટ ટ્યુબ બનાવવા માટે ઇમ્પેક્ટ એક્સટ્રુઝન (Impact Extrusion) પદ્ધતિ વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 85,
@@ -1257,7 +1257,7 @@
       "ગ્રેઈન સ્ટ્રક્ચર ખરાબ થાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "ઊંચા તાપમાને હવામાં ઓક્સિજન સાથે પ્રક્રિયા થવાથી ધાતુની સપાટી પર ઓક્સાઇડ સ્કેલ બને છે[cite: 6]."
+    "explanation": "ઊંચા ટેમ્પરેચરે હવામાં ઓક્સિજન સાથે પ્રોસેસ થવાથી ધાતુની સપાટી પર ઓક્સાઇડ સ્કેલ બને છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 86,
@@ -1272,7 +1272,7 @@
       "નેકિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "ડાઇ અને વર્કપીસ વચ્ચેના ઘર્ષણને લીધે મધ્ય ભાગ બહાર ફૂલીને પીપળા જેવો આકાર ધારણ કરે છે જેને બેરલિંગ (Barrelling) કહે છે[cite: 6]."
+    "explanation": "ડાઇ અને વર્કપીસ વચ્ચેના ઘર્ષણને લીધે મધ્ય ભાગ બહાર ફૂલીને પીપળા જેવો આકાર ધારણ કરે છે જેને બેરલિંગ (Barrelling) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 87,
@@ -1287,7 +1287,7 @@
       "20.12 mm"
     ],
     "correctAnswer": 0,
-    "explanation": "બ્લેન્કિંગ ઓપરેશનમાં Blank Size = Die Size = 20 mm. Punch Size = Die Size - 2C = 20 - 2(0.03 × 2) = 20 - 0.12 = 19.88 mm[cite: 6]."
+    "explanation": "બ્લેન્કિંગ ઓપરેશનમાં Blank Size = Die Size = 20 mm. Punch Size = Die Size - 2C = 20 - 2(0.03 × 2) = 20 - 0.12 = 19.88 mm[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 88,
@@ -1296,20 +1296,20 @@
     "question": "What is the main cause of barreling in upset forging?",
     "gujaratiQuestion": "088. અપસેટ ફોર્જિંગમાં બરેલિંગ થવાનું મુખ્ય કારણ શું છે?",
     "options": [
-      "ઓછું તાપમાન",
+      "ઓછું ટેમ્પરેચર",
       "ડાઈ અને વર્કપીસ વચ્ચેનું ફ્રિક્શન",
       "મેટલની ડક્ટિલિટી",
       "વધુ પડતું લ્યુબ્રિકેશન"
     ],
     "correctAnswer": 1,
-    "explanation": "ડાઇ સપાટી અને બિલેટના છેડા વચ્ચે રહેલું ઘર્ષણ સપાટીના ધાતુ વિસ્તરણને રોકે છે, જેનાથી બેરલિંગ થાય છે[cite: 6]."
+    "explanation": "ડાઇ સપાટી અને બિલેટના છેડા વચ્ચે રહેલું ઘર્ષણ સપાટીના ધાતુ વિસ્તરણને રોકે છે, જેનાથી બેરલિંગ થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 89,
     "subject": "Manufacturing Processes",
     "subTopic": "Forging, Rolling, Extrusion & Drawing",
     "question": "What is the process of reducing metal thickness by passing it between two rotating rolls called?",
-    "gujaratiQuestion": "089. બે ફરતા રોલર્સ વચ્ચેથી મેટલને પસાર કરીને તેની જાડાઈ ઘટાડવાની પ્રક્રિયાને શું કહે છે?",
+    "gujaratiQuestion": "089. બે ફરતા રોલર્સ વચ્ચેથી મેટલને પસાર કરીને તેની જાડાઈ ઘટાડવાની પ્રોસેસને શું કહે છે?",
     "options": [
       "રોલિંગ",
       "ફોર્જિંગ",
@@ -1317,7 +1317,7 @@
       "ડ્રોઇંગ"
     ],
     "correctAnswer": 0,
-    "explanation": "પરિભ્રમણ કરતા રોલર્સ વચ્ચે કમ્પ્રેસિવ બળ આપીને જાડાઈ ઘટાડવાની ક્રિયાને રોલિંગ (Rolling) કહે છે[cite: 6]."
+    "explanation": "રોટેશન કરતા રોલર્સ વચ્ચે કમ્પ્રેસિવ બળ આપીને જાડાઈ ઘટાડવાની ક્રિયાને રોલિંગ (Rolling) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 90,
@@ -1332,7 +1332,7 @@
       "મિલિંગ મશીન"
     ],
     "correctAnswer": 2,
-    "explanation": "શીટ મેટલ સ્પિનિંગ ઓપરેશન ફોર્મિંગ ટૂલ અને મેન્ડ્રેલનો ઉપયોગ કરીને લેથ મશીન (Lathe) પર કરવામાં આવે છે[cite: 6]."
+    "explanation": "શીટ મેટલ સ્પિનિંગ ઓપરેશન ફોર્મિંગ ટૂલ અને મેન્ડ્રેલનો ઉપયોગ કરીને લેથ મશીન (Lathe) પર કરવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 91,
@@ -1347,14 +1347,14 @@
       "ડ્રાઈવ રોલ્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "નાના વ્યાસવાળા વર્ક રોલ્સને બેન્ડિંગ અને ડિફ્લેક્શનથી બચાવવા મોટા બેક-અપ રોલ્સ વપરાય છે[cite: 6]."
+    "explanation": "નાના વ્યાસવાળા વર્ક રોલ્સને બેન્ડિંગ અને ડિફ્લેક્શનથી બચાવવા મોટા બેક-અપ રોલ્સ વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 92,
     "subject": "Manufacturing Processes",
     "subTopic": "Forging, Rolling, Extrusion & Drawing",
     "question": "What is the process of forcing metal in a closed chamber through a die orifice called?",
-    "gujaratiQuestion": "092. મેટલને બંધ ચેમ્બરમાં દબાણ આપીને ડાઈમાંથી બહાર કાઢવાની પ્રક્રિયા કઈ છે?",
+    "gujaratiQuestion": "092. મેટલને બંધ ચેમ્બરમાં પ્રેશર આપીને ડાઈમાંથી બહાર કાઢવાની પ્રોસેસ કઈ છે?",
     "options": [
       "રોલિંગ",
       "વાયર ડ્રોઇંગ",
@@ -1362,7 +1362,7 @@
       "પિયર્સિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "કન્ટેનરમાં રહેલી ધાતુ પર ઊંચું દબાણ આપી ડાઈના મુખમાંથી બહાર કાઢવાની ક્રિયાને એક્સટ્રુઝન (Extrusion) કહે છે[cite: 6]."
+    "explanation": "કન્ટેનરમાં રહેલી ધાતુ પર ઊંચું પ્રેશર આપી ડાઈના મુખમાંથી બહાર કાઢવાની ક્રિયાને એક્સટ્રુઝન (Extrusion) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 93,
@@ -1377,7 +1377,7 @@
       "P-2, Q-4, R-1, S-3"
     ],
     "correctAnswer": 0,
-    "explanation": "સાચો ક્રમ: Friction welding -> Dissimilar cylindrical materials (4), GMAW -> Consumable wire (3), TIG -> Non-consumable electrode (1), Electroslag -> Thick plates (2)[cite: 6]."
+    "explanation": "સાચો ક્રમ: Friction welding -> Dissimilar cylindrical materials (4), GMAW -> Consumable wire (3), TIG -> Non-consumable electrode (1), Electroslag -> Thick plates (2)[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 94,
@@ -1392,14 +1392,14 @@
       "ઈમ્પેક્ટ એક્સટ્રુઝન"
     ],
     "correctAnswer": 2,
-    "explanation": "બેકવર્ડ (ઇનડાયરેક્ટ) એક્સટ્રુઝનમાં બિલેટ કન્ટેનરની સાપેક્ષે ખસતો ન હોવાથી દીવાલ સાથે ઘર્ષણ શૂન્ય રહે છે[cite: 6]."
+    "explanation": "બેકવર્ડ (ઇનડાયરેક્ટ) એક્સટ્રુઝનમાં બિલેટ કન્ટેનરની સાપેક્ષે ખસતો ન હોવાથી દીવાલ સાથે ઘર્ષણ શૂન્ય રહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 95,
     "subject": "Manufacturing Processes",
     "subTopic": "Forging, Rolling, Extrusion & Drawing",
     "question": "Which process pulls metal through a die orifice to reduce its diameter?",
-    "gujaratiQuestion": "095. મેટલને ડાઈના છિદ્રમાંથી ખેંચીને તેનો ડાયામીટર ઘટાડવાની પ્રક્રિયા કઈ છે?",
+    "gujaratiQuestion": "095. મેટલને ડાઈના છિદ્રમાંથી ખેંચીને તેનો ડાયામીટર ઘટાડવાની પ્રોસેસ કઈ છે?",
     "options": [
       "એક્સટ્રુઝન",
       "વાયર ડ્રોઇંગ",
@@ -1407,7 +1407,7 @@
       "અપસેટિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "ધાતુને ટેન્સાઇલ પુલિંગ ફોર્સ આપી ડાઈમાંથી ખેંચીને વ્યાસ ઘટાડવાની ક્રિયા વાયર ડ્રોઇંગ (Wire Drawing) છે[cite: 6]."
+    "explanation": "ધાતુને ટેન્સાઇલ પુલિંગ ફોર્સ આપી ડાઈમાંથી ખેંચીને વ્યાસ ઘટાડવાની ક્રિયા વાયર ડ્રોઇંગ (Wire Drawing) છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 96,
@@ -1422,7 +1422,7 @@
       "માત્ર શીયર"
     ],
     "correctAnswer": 2,
-    "explanation": "ડ્રોઇંગમાં આગળ ખેંચાણથી ટેન્સાઇલ અને ડાઇની સપાટીના દબાણથી કમ્પ્રેસિવ બંને સ્ટ્રેસ પેદા થાય છે[cite: 6]."
+    "explanation": "ડ્રોઇંગમાં આગળ ખેંચાણથી ટેન્સાઇલ અને ડાઇની સપાટીના પ્રેશરથી કમ્પ્રેસિવ બંને સ્ટ્રેસ પેદા થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 97,
@@ -1437,29 +1437,29 @@
       "હાઈ સ્પીડ સ્ટીલ"
     ],
     "correctAnswer": 1,
-    "explanation": "EDM ટૂલ ઉચ્ચ વાહકતા ધરાવતી ધાતુઓ જેમ કે કોપર, બ્રાસ અથવા ગ્રેફાઇટમાંથી બનાવવામાં આવે છે[cite: 6]."
+    "explanation": "EDM ટૂલ ઉચ્ચ વાહકતા ધરાવતી ધાતુઓ જેમ કે કોપર, બ્રાસ અથવા ગ્રેફાઇટમાંથી બનાવવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 98,
     "subject": "Manufacturing Processes",
     "subTopic": "Forging, Rolling, Extrusion & Drawing",
     "question": "What is the primary function of flash in closed-die forging?",
-    "gujaratiQuestion": "098. ક્લોઝ્ડ-ડાઈ ફોર્જિંગમાં ફ્લેશ (Flash) નું મુખ્ય કાર્ય શું છે?",
+    "gujaratiQuestion": "098. ક્લોઝ્ડ-ડાઈ ફોર્જિંગમાં ફ્લેશ (Flash) નું મુખ્ય વર્ક શું છે?",
     "options": [
       "મટિરિયલનો બગાડ અટકાવવો",
-      "કેવિટીમાં મેટલને પૂરેપૂરું ભરવા માટે દબાણ પૂરું પાડવું",
-      "ડાઈની અંદર પ્રવાહી મેટલને રોકવું",
+      "કેવિટીમાં મેટલને પૂરેપૂરું ભરવા માટે પ્રેશર પૂરું પાડવું",
+      "ડાઈની અંદર ફ્લુઇડ મેટલને રોકવું",
       "મેટલને ઝડપથી ઠંડુ કરવું"
     ],
     "correctAnswer": 1,
-    "explanation": "ફ્લેશ ગટર આગળ ઝડપથી ઠંડી થતી ધાતુ અવરોધ પેદા કરે છે, જે ઊંચું દબાણ રચીને ડાઇની તમામ બારીક કેવિટી ભરી દે છે[cite: 6]."
+    "explanation": "ફ્લેશ ગટર આગળ ઝડપથી ઠંડી થતી ધાતુ અવરોધ પેદા કરે છે, જે ઊંચું પ્રેશર રચીને ડાઇની તમામ બારીક કેવિટી ભરી દે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 99,
     "subject": "Manufacturing Processes",
     "subTopic": "Sheet Metal Forming Processes",
     "question": "Which process is used to make a hole in sheet metal where the punched-out piece is considered scrap?",
-    "gujaratiQuestion": "099. શીટ મેટલમાંથી છિદ્ર (Hole) બનાવવા માટે કઈ પ્રક્રિયા વપરાય છે, જેમાં કાપેલું મેટલ સ્ક્રેપ ગણાય છે?",
+    "gujaratiQuestion": "099. શીટ મેટલમાંથી છિદ્ર (Hole) બનાવવા માટે કઈ પ્રોસેસ વપરાય છે, જેમાં કાપેલું મેટલ સ્ક્રેપ ગણાય છે?",
     "options": [
       "બ્લેન્કિંગ",
       "કોઇનિંગ",
@@ -1467,7 +1467,7 @@
       "બેન્ડિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "પંચિંગ (Punching / Piercing) માં બહાર નીકળતો કટ-આઉટ ટુકડો સ્ક્રેપ બને છે અને બાકીની શીટ મુખ્ય પ્રોડક્ટ હોય છે[cite: 6]."
+    "explanation": "પંચિંગ (Punching / Piercing) માં બહાર નીકળતો કટ-આઉટ ટુકડો સ્ક્રેપ બને છે અને બાકીની શીટ મુખ્ય પ્રોડક્ટ હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 100,
@@ -1482,14 +1482,14 @@
       "વધે છે, સ્થિર થાય છે અને પછી ઘટે છે"
     ],
     "correctAnswer": 3,
-    "explanation": "SOD વધતાં જેટ ફેલાય છે જેથી શરૂઆતમાં MRR વધે છે, મહત્તમ બને છે અને વધુ અંતરે વેગ ઘટતાં MRR ઘટે છે[cite: 6]."
+    "explanation": "SOD વધતાં જેટ ફેલાય છે જેથી શરૂઆતમાં MRR વધે છે, મહત્તમ બને છે અને વધુ અંતરે વેલોસિટી ઘટતાં MRR ઘટે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 101,
     "subject": "Manufacturing Processes",
     "subTopic": "Sheet Metal Forming Processes",
     "question": "If the cut-out piece is the useful product and the remaining sheet is scrap, the process is:",
-    "gujaratiQuestion": "0101. જો કાપીને અલગ કરેલો ભાગ પ્રોડક્ટ હોય અને બાકીની શીટ સ્ક્રેપ હોય, તો તે પ્રક્રિયા કઈ છે?",
+    "gujaratiQuestion": "0101. જો કાપીને અલગ કરેલો ભાગ પ્રોડક્ટ હોય અને બાકીની શીટ સ્ક્રેપ હોય, તો તે પ્રોસેસ કઈ છે?",
     "options": [
       "પંચિંગ",
       "બ્લેન્કિંગ",
@@ -1497,14 +1497,14 @@
       "નોચિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "જ્યારે કપાતો ટુકડો મુખ્ય ઉપયોગી પાર્ટ (Blank) હોય ત્યારે તે પ્રક્રિયાને બ્લેન્કિંગ (Blanking) કહે છે[cite: 6]."
+    "explanation": "જ્યારે કપાતો ટુકડો મુખ્ય ઉપયોગી પાર્ટ (Blank) હોય ત્યારે તે પ્રોસેસને બ્લેન્કિંગ (Blanking) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 102,
     "subject": "Manufacturing Processes",
     "subTopic": "Sheet Metal Forming Processes",
     "question": "In deep drawing, what is used to prevent wrinkling of the sheet flange?",
-    "gujaratiQuestion": "0102. ડીપ ડ્રોઈંગ પ્રક્રિયામાં શીટને કરચલી પડતી (Wrinkling) અટકાવવા કોનો ઉપયોગ થાય છે?",
+    "gujaratiQuestion": "0102. ડીપ ડ્રોઈંગ પ્રોસેસમાં શીટને કરચલી પડતી (Wrinkling) અટકાવવા કોનો ઉપયોગ થાય છે?",
     "options": [
       "ડાઈ રેડિયસ",
       "બ્લેન્ક હોલ્ડર",
@@ -1512,7 +1512,7 @@
       "સ્ટ્રિપર"
     ],
     "correctAnswer": 1,
-    "explanation": "બ્લેન્ક હોલ્ડર (Blank holder / Pressure pad) ફ્લેન્જ પર દબાણ જાળવી રાખી કરચલીઓ પડતી અટકાવે છે[cite: 6]."
+    "explanation": "બ્લેન્ક હોલ્ડર (Blank holder / Pressure pad) ફ્લેન્જ પર પ્રેશર જાળવી રાખી કરચલીઓ પડતી અટકાવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 103,
@@ -1527,7 +1527,7 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "મોહર્સ સર્કલની ત્રિજ્યા R = (σ1 - σ2)/2 એ મહત્તમ શીયર સ્ટ્રેસ (τ_max) દર્શાવે છે[cite: 6]."
+    "explanation": "મોહર્સ સર્કલની ત્રિજ્યા R = (σ1 - σ2)/2 એ મહત્તમ શીયર સ્ટ્રેસ (τ_max) દર્શાવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 104,
@@ -1542,14 +1542,14 @@
       "હાર્ડનિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇલાસ્ટિક રિકવરીને કારણે બેન્ડિંગ પછી શીટ મૂળ આકાર તરફ સહેજ ખુલી જવાની ક્રિયાને સ્પ્રિંગબેક (Springback) કહે છે[cite: 6]."
+    "explanation": "ઇલાસ્ટિક રિકવરીને કારણે બેન્ડિંગ પછી શીટ મૂળ આકાર તરફ સહેજ ખુલી જવાની ક્રિયાને સ્પ્રિંગબેક (Springback) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 105,
     "subject": "Manufacturing Processes",
     "subTopic": "Powder Metallurgy",
     "question": "What is the first step in the powder metallurgy process?",
-    "gujaratiQuestion": "0105. પાઉડર મેટલર્જી પ્રક્રિયાનો સૌથી પહેલો તબક્કો કયો છે?",
+    "gujaratiQuestion": "0105. પાઉડર મેટલર્જી પ્રોસેસનો સૌથી પહેલો તબક્કો કયો છે?",
     "options": [
       "બ્લેન્ડિંગ",
       "સિન્ટરિંગ",
@@ -1557,7 +1557,7 @@
       "કોમ્પેક્ટિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "પાઉડર મેટલર્જીનો પ્રથમ તબક્કો ધાતુનો પાઉડર બનાવવો (Powder manufacturing / Atomization) છે[cite: 6]."
+    "explanation": "પાઉડર મેટલર્જીનો પ્રથમ તબક્કો ધાતુનો પાઉડર બનાવવો (Powder manufacturing / Atomization) છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 106,
@@ -1572,7 +1572,7 @@
       "પ્લાઝમા વેલ્ડિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "TIG (GTAW) વેલ્ડિંગમાં આર્ક રચવા માટે નોન-કન્ઝ્યુમેબલ ટંગસ્ટન ઇલેક્ટ્રોડ વપરાય છે[cite: 6]."
+    "explanation": "TIG (GTAW) વેલ્ડિંગમાં આર્ક રચવા માટે નોન-કન્ઝ્યુમેબલ ટંગસ્ટન ઇલેક્ટ્રોડ વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 107,
@@ -1587,7 +1587,7 @@
       "સાઈઝિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "પાઉડરને ડાઇમાં મૂકી ઊંચા દબાણે ગ્રીન કોમ્પેક્ટ બનાવવાની ક્રિયાને કોમ્પેક્ટિંગ (Compacting) કહે છે[cite: 6]."
+    "explanation": "પાઉડરને ડાઇમાં મૂકી ઊંચા પ્રેશરે ગ્રીન કોમ્પેક્ટ બનાવવાની ક્રિયાને કોમ્પેક્ટિંગ (Compacting) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 108,
@@ -1602,7 +1602,7 @@
       "રો પાઉડર"
     ],
     "correctAnswer": 0,
-    "explanation": "કોમ્પેક્શન પછી મળતા અને સિન્ટરિંગ પહેલાંના અનસિન્ટર્ડ દબાયેલા ભાગને ગ્રીન કોમ્પેક્ટ (Green compact) કહે છે[cite: 6]."
+    "explanation": "કોમ્પેક્શન પછી મળતા અને સિન્ટરિંગ પહેલાંના અનસિન્ટર્ડ દબાયેલા ભાગને ગ્રીન કોમ્પેક્ટ (Green compact) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 109,
@@ -1617,22 +1617,22 @@
       "રેક્ટિફાઈડ સપ્લાય"
     ],
     "correctAnswer": 1,
-    "explanation": "DC વેલ્ડિંગમાં સતત એકદિશીય પ્રવાહ વહેતો હોવાથી આર્ક વધુ સ્થિર અને સ્મૂથ રહે છે[cite: 6]."
+    "explanation": "DC વેલ્ડિંગમાં સતત એવોલ્યુમિશીય ફ્લો વહેતો હોવાથી આર્ક વધુ સ્થિર અને સ્મૂથ રહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 110,
     "subject": "Manufacturing Processes",
     "subTopic": "Powder Metallurgy",
     "question": "What temperature is maintained during the sintering process in powder metallurgy?",
-    "gujaratiQuestion": "Q110. પાઉડર મેટલર્જીમાં સિન્ટરિંગ (Sintering) પ્રક્રિયા દરમિયાન તાપમાન કેટલું રાખવામાં આવે છે?",
+    "gujaratiQuestion": "Q110. પાઉડર મેટલર્જીમાં સિન્ટરિંગ (Sintering) પ્રોસેસ દરમિયાન ટેમ્પરેચર કેટલું રાખવામાં આવે છે?",
     "options": [
       "ધાતુના ગલનબિંદુથી ઉપર",
       "ધાતુના ગલનબિંદુથી થોડું નીચે",
-      "રૂમ તાપમાન જેટલું",
+      "રૂમ ટેમ્પરેચર જેટલું",
       "100°C થી નીચે"
     ],
     "correctAnswer": 1,
-    "explanation": "સિન્ટરિંગ પ્રક્રિયા મુખ્ય ઘટક ધાતુના ગલનબિંદુથી સહેજ નીચે (0.7 થી 0.8 Tm) કણોના થર્મલ બોન્ડિંગ માટે થાય છે[cite: 6]."
+    "explanation": "સિન્ટરિંગ પ્રોસેસ મુખ્ય ઘટક ધાતુના ગલનબિંદુથી સહેજ નીચે (0.7 થી 0.8 Tm) કણોના થર્મલ બોન્ડિંગ માટે થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 111,
@@ -1647,7 +1647,7 @@
       "હિલિયમ અને ઑક્સિજન"
     ],
     "correctAnswer": 1,
-    "explanation": "લગભગ 3200°C જેટલું ઊંચું જ્વાળા તાપમાન આપતું ઓક્સી-એસિટિલીન (Oxy-acetylene) મિશ્રણ સૌથી વધુ વપરાય છે[cite: 6]."
+    "explanation": "લગભગ 3200°C જેટલું ઊંચું જ્વાળા ટેમ્પરેચર આપતું ઓક્સી-એસિટિલીન (Oxy-acetylene) મિશ્રણ સૌથી વધુ વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 112,
@@ -1662,7 +1662,7 @@
       "રોટ આયર્ન"
     ],
     "correctAnswer": 3,
-    "explanation": "રોટ આયર્ન (Wrought iron) માં ઓછો કાર્બન અને સ્લેગ ફાઇબર્સ હોવાથી તે ફોર્જ વેલ્ડિંગ માટે સૌથી વધુ અનુકૂળ છે[cite: 6]."
+    "explanation": "રોટ આયર્ન (Wrought iron) માં ઓછો કાર્બન અને સ્લેગ ફાઇબર્સ હોવાથી તે ફોર્જ વેલ્ડિંગ માટે સૌથી વધુ અનુકૂળ છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 113,
@@ -1677,14 +1677,14 @@
       "કાર્બન"
     ],
     "correctAnswer": 1,
-    "explanation": "TIG વેલ્ડિંગમાં નોન-કન્ઝ્યુમેબલ ટંગસ્ટન ઇલેક્ટ્રોડ આર્ક જાળવવા માટે વપરાય છે[cite: 6]."
+    "explanation": "TIG વેલ્ડિંગમાં નોન-કન્ઝ્યુમેબલ ટંગસ્ટન ઇલેક્ટ્રોડ આર્ક જાળવવા માટે વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 114,
     "subject": "Manufacturing Processes",
     "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
     "question": "What is the melting temperature of filler metal in a brazing process?",
-    "gujaratiQuestion": "0114. બ્રેઝિંગ પ્રક્રિયામાં ફિલર મેટલનું તાપમાન કેટલું હોય છે?",
+    "gujaratiQuestion": "0114. બ્રેઝિંગ પ્રોસેસમાં ફિલર મેટલનું ટેમ્પરેચર કેટલું હોય છે?",
     "options": [
       "450°C થી નીચે",
       "બેઝ મેટલના ગલનબિંદુથી ઉપર",
@@ -1692,7 +1692,7 @@
       "3000°C"
     ],
     "correctAnswer": 2,
-    "explanation": "બ્રેઝિંગમાં ફિલર મેટલ 450°C થી ઉપર પરંતુ બેઝ મેટલના ગલનબિંદુથી નીચા તાપમાને ઓગળે છે[cite: 6]."
+    "explanation": "બ્રેઝિંગમાં ફિલર મેટલ 450°C થી ઉપર પરંતુ બેઝ મેટલના ગલનબિંદુથી નીચા ટેમ્પરેચરે ઓગળે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 115,
@@ -1707,7 +1707,7 @@
       "ઈલેક્ટ્રોડની સાઈઝ"
     ],
     "correctAnswer": 3,
-    "explanation": "આર્ક વેલ્ડિંગમાં વેલ્ડિંગ કરંટ મુખ્યત્વે વપરાતા ઇલેક્ટ્રોડના વ્યાસ (Electrode size) ના આધારે પસંદ કરાય છે[cite: 6]."
+    "explanation": "આર્ક વેલ્ડિંગમાં વેલ્ડિંગ કરંટ મુખ્યત્વે વપરાતા ઇલેક્ટ્રોડના વ્યાસ (Electrode size) ના આધારે પસંદ કરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 116,
@@ -1722,22 +1722,22 @@
       "આયર્ન અને કાર્બન"
     ],
     "correctAnswer": 1,
-    "explanation": "સોફ્ટ સોલ્ડર એ લેડ (Lead) અને ટીન (Tin) નો મિશ્રધાતુ છે[cite: 6]."
+    "explanation": "સોફ્ટ સોલ્ડર એ લેડ (Lead) અને ટીન (Tin) નો મિશ્રધાતુ છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 117,
     "subject": "Manufacturing Processes",
     "subTopic": "Welding, Brazing, Soldering & Adhesive Bonding",
     "question": "Where is heat obtained from in Thermit welding?",
-    "gujaratiQuestion": "0117. થર્મિટ વેલ્ડિંગમાં ઉષ્મા (Heat) ક્યાંથી મેળવવામાં આવે છે?",
+    "gujaratiQuestion": "0117. થર્મિટ વેલ્ડિંગમાં હીટ (Heat) ક્યાંથી મેળવવામાં આવે છે?",
     "options": [
       "ઇલેક્ટ્રિક આર્ક",
       "ગેસ ફ્લેમ",
-      "રાસાયણિક પ્રક્રિયા",
+      "રાસાયણિક પ્રોસેસ",
       "લેસર બીમ"
     ],
     "correctAnswer": 2,
-    "explanation": "એલ્યુમિનિયમ અને આયર્ન ઓક્સાઇડ વચ્ચેની થર્મિટ રાસાયણિક પ્રક્રિયામાંથી વિપુલ ઉષ્મા મળે છે[cite: 6]."
+    "explanation": "એલ્યુમિનિયમ અને આયર્ન ઓક્સાઇડ વચ્ચેની થર્મિટ રાસાયણિક પ્રોસેસમાંથી વિપુલ હીટ મળે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 118,
@@ -1752,7 +1752,7 @@
       "સીસું (Lead)"
     ],
     "correctAnswer": 1,
-    "explanation": "બ્રેઝિંગમાં ઓક્સાઇડ દૂર કરવા અને સપાટી સ્વચ્છ રાખવા બોરેક્સ (Borax) નો વ્યાપક ઉપયોગ થાય છે[cite: 6]."
+    "explanation": "બ્રેઝિંગમાં ઓક્સાઇડ દૂર કરવા અને સપાટી સ્વચ્છ રાખવા બોરેક્સ (Borax) નો વ્યાપક ઉપયોગ થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 119,
@@ -1767,7 +1767,7 @@
       "ટંગસ્ટન"
     ],
     "correctAnswer": 1,
-    "explanation": "ઉચ્ચ વિદ્યુત અને ઉષ્મા વાહકતા માટે સ્પોટ વેલ્ડિંગ ઇલેક્ટ્રોડ્સ કોપર અથવા કોપર એલોયમાંથી બને છે[cite: 6]."
+    "explanation": "ઉચ્ચ વિદ્યુત અને હીટ વાહકતા માટે સ્પોટ વેલ્ડિંગ ઇલેક્ટ્રોડ્સ કોપર અથવા કોપર એલોયમાંથી બને છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 120,
@@ -1782,7 +1782,7 @@
       "એસિડ"
     ],
     "correctAnswer": 0,
-    "explanation": "સોલ્ડરિંગ ફ્લક્સ સપાટી પરથી ઓક્સાઈડ સાફ કરી સોલ્ડરના ફેલાવાને સરળ બનાવે છે[cite: 6]."
+    "explanation": "સોલ્ડરિંગ ફ્લક્સ સપાટી પરથી ઓક્સાઈડ સાફ કરી સોલ્ડરના ફેલાવાને સરળ બનાવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 121,
@@ -1797,7 +1797,7 @@
       "V² / A²"
     ],
     "correctAnswer": 3,
-    "explanation": "ચ્વોરિનોવના નિયમ મુજબ ઘનીકરણ સમય ts ∝ (V / A)² = V² / A²[cite: 6]."
+    "explanation": "ચ્વોરિનોવના નિયમ મુજબ ઘનીકરણ સમય ts ∝ (V / A)² = V² / A²[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 122,
@@ -1812,14 +1812,14 @@
       "ટેમ્પરિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "એનીલિંગ (Full Annealing) પ્રક્રિયા સ્ટીલને સોફ્ટ બનાવવા અને આંતરિક સ્ટ્રેસ દૂર કરવા માટે વપરાય છે[cite: 6]."
+    "explanation": "એનીલિંગ (Full Annealing) પ્રોસેસ સ્ટીલને સોફ્ટ બનાવવા અને આંતરિક સ્ટ્રેસ દૂર કરવા માટે વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 123,
     "subject": "Manufacturing Processes",
     "subTopic": "Industrial Heat Treatment & Surface Hardening",
     "question": "In the normalizing process, where is steel cooled?",
-    "gujaratiQuestion": "0123. નોર્મલાઇઝિંગ પ્રક્રિયામાં સ્ટીલને ક્યાં ઠંડુ પાડવામાં આવે છે?",
+    "gujaratiQuestion": "0123. નોર્મલાઇઝિંગ પ્રોસેસમાં સ્ટીલને ક્યાં ઠંડુ પાડવામાં આવે છે?",
     "options": [
       "ભઠ્ઠીમાં",
       "સ્થિર હવામાં",
@@ -1827,7 +1827,7 @@
       "તેલમાં"
     ],
     "correctAnswer": 1,
-    "explanation": "નોર્મલાઇઝિંગમાં સ્ટીલને અપર ક્રિટિકલ ટેમ્પરેચરથી ઉપર ગરમ કર્યા બાદ ઓરડાના તાપમાને સ્થિર હવામાં (Still air) ઠંડુ કરાય છે[cite: 6]."
+    "explanation": "નોર્મલાઇઝિંગમાં સ્ટીલને અપર ક્રિટિકલ ટેમ્પરેચરથી ઉપર ગરમ કર્યા બાદ ઓરડાના ટેમ્પરેચરે સ્થિર હવામાં (Still air) ઠંડુ કરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 124,
@@ -1842,14 +1842,14 @@
       "શોલ્ડરની બાજુમાં ગ્રૂવ (A groove next to shoulder)"
     ],
     "correctAnswer": 3,
-    "explanation": "શાફ્ટના સ્ટેપ્ડ ડાયામીટર આગળ શોલ્ડરની લગોલગ ગ્રૂવિંગ કરવાની ક્રિયાને અંડરકટિંગ કહે છે[cite: 6]."
+    "explanation": "શાફ્ટના સ્ટેપ્ડ ડાયામીટર આગળ શોલ્ડરની લગોલગ ગ્રૂવિંગ કરવાની ક્રિયાને અંડરકટિંગ કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 125,
     "subject": "Manufacturing Processes",
     "subTopic": "Industrial Heat Treatment & Surface Hardening",
     "question": "Which process is done after hardening to reduce brittleness and increase toughness of steel?",
-    "gujaratiQuestion": "Q125. સ્ટીલની બરડતા (Brittleness) ઘટાડવા અને ટફનેસ વધારવા હાર્ડનિંગ પછી કઈ પ્રક્રિયા થાય છે?",
+    "gujaratiQuestion": "Q125. સ્ટીલની બરડતા (Brittleness) ઘટાડવા અને ટફનેસ વધારવા હાર્ડનિંગ પછી કઈ પ્રોસેસ થાય છે?",
     "options": [
       "એનીલિંગ",
       "ટેમ્પરિંગ",
@@ -1857,7 +1857,7 @@
       "સ્ફેરોઇડાઇઝિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "હાર્ડનિંગ પછી માર્ટેનસાઇટની બરડતા ઘટાડવા ટેમ્પરિંગ (Tempering) કરવામાં આવે છે[cite: 6]."
+    "explanation": "હાર્ડનિંગ પછી માર્ટેનસાઇટની બરડતા ઘટાડવા ટેમ્પરિંગ (Tempering) કરવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 126,
@@ -1872,14 +1872,14 @@
       "ઓસ્ટેનાઈટ"
     ],
     "correctAnswer": 2,
-    "explanation": "ઝડપી ક્વેન્ચિંગથી કાર્બન ડિફ્યુઝન અટકીને અત્યંત કઠણ માર્ટેનસાઇટ (Martensite) માઇક્રોસ્ટ્રક્ચર બને છે[cite: 6]."
+    "explanation": "ઝડપી ક્વેન્ચિંગથી કાર્બન ડિફ્યુઝન અટકીને અત્યંત કઠણ માર્ટેનસાઇટ (Martensite) માઇક્રોસ્ટ્રક્ચર બને છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 127,
     "subject": "Manufacturing Processes",
     "subTopic": "Ferrous Materials & Steel Alloys",
     "question": "Adding chromium to steel primarily increases which property?",
-    "gujaratiQuestion": "0127. સ્ટીલમાં ક્રોમિયમ ઉમેરવાથી કયા ગુણધર્મમાં મુખ્યત્વે વધારો થાય છે?",
+    "gujaratiQuestion": "0127. સ્ટીલમાં ક્રોમિયમ ઉમેરવાથી કયા પ્રોપર્ટીમાં મુખ્યત્વે વધારો થાય છે?",
     "options": [
       "મશીનેબિલિટી",
       "ઇલેક્ટ્રિકલ કન્ડક્ટિવિટી",
@@ -1887,7 +1887,7 @@
       "સોફ્ટનેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્ટીલમાં ક્રોમિયમ ઉમેરવાથી કાટ પ્રતિકારકતા (Corrosion resistance) વધે છે[cite: 6]."
+    "explanation": "સ્ટીલમાં ક્રોમિયમ ઉમેરવાથી કાટ પ્રતિકારકતા (Corrosion resistance) વધે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 128,
@@ -1902,14 +1902,14 @@
       "15"
     ],
     "correctAnswer": 0,
-    "explanation": "સામાન્ય વર્ક હોલ્ડિંગ માટે સ્ટાન્ડર્ડ લેથ સેન્ટર્સનો શંકુ ખૂણો 60° (અને હેવી ડ્યુટી માટે 75°/90°) હોય છે[cite: 6]."
+    "explanation": "સામાન્ય વર્ક હોલ્ડિંગ માટે સ્ટાન્ડર્ડ લેથ સેન્ટર્સનો શંકુ ખૂણો 60° (અને હેવી ડ્યુટી માટે 75°/90°) હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 129,
     "subject": "Manufacturing Processes",
     "subTopic": "Ferrous Materials & Steel Alloys",
     "question": "What is the primary function of tungsten in High Speed Steel (HSS)?",
-    "gujaratiQuestion": "0129. હાઈ સ્પીડ સ્ટીલ (HSS) માં ટંગસ્ટન (Tungsten) નું મુખ્ય કાર્ય શું છે?",
+    "gujaratiQuestion": "0129. હાઈ સ્પીડ સ્ટીલ (HSS) માં ટંગસ્ટન (Tungsten) નું મુખ્ય વર્ક શું છે?",
     "options": [
       "વજન ઘટાડવું",
       "રેડ હાર્ડનેસ વધારવી",
@@ -1917,7 +1917,7 @@
       "કાટ લાગવા દેવો"
     ],
     "correctAnswer": 1,
-    "explanation": "ટંગસ્ટન ઊંચા કટિંગ તાપમાને પણ ટૂલની કટિંગ ક્ષમતા જાળવવા રેડ હાર્ડનેસ (Red hardness) પૂરી પાડે છે[cite: 6]."
+    "explanation": "ટંગસ્ટન ઊંચા કટિંગ ટેમ્પરેચરે પણ ટૂલની કટિંગ ક્ષમતા જાળવવા રેડ હાર્ડનેસ (Red hardness) પૂરી પાડે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 130,
@@ -1932,7 +1932,7 @@
       "18% ટંગસ્ટન, 8% વેનેડિયમ"
     ],
     "correctAnswer": 1,
-    "explanation": "18/8 સ્ટેનલેસ સ્ટીલમાં 18% ક્રોમિયમ (Cr) અને 8% નિકલ (Ni) હોય છે[cite: 6]."
+    "explanation": "18/8 સ્ટેનલેસ સ્ટીલમાં 18% ક્રોમિયમ (Cr) અને 8% નિકલ (Ni) હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 132,
@@ -1947,7 +1947,7 @@
       "માર્ટેનસાઇટ"
     ],
     "correctAnswer": 1,
-    "explanation": "ગ્રે કાસ્ટ આયર્નમાં કાર્બન મુક્ત ગ્રેફાઇટ ફ્લેક્સ (Graphite flakes) ના સ્વરૂપમાં છૂટો રહે છે[cite: 6]."
+    "explanation": "ગ્રે કાસ્ટ આયર્નમાં કાર્બન મુક્ત ગ્રેફાઇટ ફ્લેક્સ (Graphite flakes) ના સ્વરૂપમાં છૂટો રહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 133,
@@ -1962,7 +1962,7 @@
       "લેડેબ્યુરાઈટ"
     ],
     "correctAnswer": 1,
-    "explanation": "વ્હાઇટ કાસ્ટ આયર્નમાં તમામ કાર્બન સંયોજિત આયર્ન કાર્બાઇડ (સિમેન્ટાઇટ Fe3C) તરીકે રહે છે[cite: 6]."
+    "explanation": "વ્હાઇટ કાસ્ટ આયર્નમાં તમામ કાર્બન સંયોજિત આયર્ન કાર્બાઇડ (સિમેન્ટાઇટ Fe3C) તરીકે રહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 134,
@@ -1977,7 +1977,7 @@
       "ઉપરના તમામ"
     ],
     "correctAnswer": 1,
-    "explanation": "USM માં અલ્ટ્રાસોનિક વાઇબ્રેટ થતા ટૂલ અને વર્કપીસ વચ્ચે વહેતી એબ્રેસિવ સ્લરીના માઇક્રો-ચિપિંગથી મટીરીયલ દૂર થાય છે[cite: 6]."
+    "explanation": "USM માં અલ્ટ્રાસોનિક વાઇબ્રેટ થતા ટૂલ અને વર્કપીસ વચ્ચે વહેતી એબ્રેસિવ સ્લરીના માઇક્રો-ચિપિંગથી મટીરીયલ દૂર થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 135,
@@ -1992,7 +1992,7 @@
       "મેલિએબલ કાસ્ટ આયર્ન"
     ],
     "correctAnswer": 2,
-    "explanation": "ગ્રે કાસ્ટ આયર્નમાં ગ્રેફાઇટ ફ્લેક્સ હોવાથી તે વાઇબ્રેશન શોષવાની ઉત્કૃષ્ટ ક્ષમતા ધરાવે છે[cite: 6]."
+    "explanation": "ગ્રે કાસ્ટ આયર્નમાં ગ્રેફાઇટ ફ્લેક્સ હોવાથી તે વાઇબ્રેશન શોષવાની ઉત્કૃષ્ટ ક્ષમતા ધરાવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 136,
@@ -2002,12 +2002,12 @@
     "gujaratiQuestion": "Q136. મેલિએબલ કાસ્ટ આયર્ન શેમાંથી મેળવવામાં આવે છે?",
     "options": [
       "ગ્રે કાસ્ટ આયર્નમાંથી",
-      "વ્હાઇટ કાસ્ટ આયર્નની એનીલિંગ પ્રક્રિયાથી",
+      "વ્હાઇટ કાસ્ટ આયર્નની એનીલિંગ પ્રોસેસથી",
       "નોડ્યુલર કાસ્ટ આયર્નમાંથી",
       "સ્ટીલમાંથી"
     ],
     "correctAnswer": 1,
-    "explanation": "વ્હાઇટ કાસ્ટ આયર્નને લાંબી એનીલિંગ હીટ ટ્રીટમેન્ટ આપવાથી મેલિએબલ કાસ્ટ આયર્ન બને છે[cite: 6]."
+    "explanation": "વ્હાઇટ કાસ્ટ આયર્નને લાંબી એનીલિંગ હીટ ટ્રીટમેન્ટ આપવાથી મેલિએબલ કાસ્ટ આયર્ન બને છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 137,
@@ -2022,7 +2022,7 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "કોપર અને બ્રાસ એલોયના મશીનિંગ માટે વોટર-ઇમલ્સિફાઇડ સોલ્યુબલ ઓઇલ સૌથી અનુકૂળ કૂલન્ટ છે[cite: 6]."
+    "explanation": "કોપર અને બ્રાસ એલોયના મશીનિંગ માટે વોટર-ઇમલ્સિફાઇડ સોલ્યુબલ ઓઇલ સૌથી અનુકૂળ કૂલન્ટ છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 138,
@@ -2037,7 +2037,7 @@
       "કોપર અને એલ્યુમિનિયમ"
     ],
     "correctAnswer": 1,
-    "explanation": "બ્રાસ (પિત્તળ) એ કોપર અને ઝીંકનો મિશ્રધાતુ છે[cite: 6]."
+    "explanation": "બ્રાસ (પિત્તળ) એ કોપર અને ઝીંકનો મિશ્રધાતુ છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 139,
@@ -2052,7 +2052,7 @@
       "એલ્યુમિનિયમ અને નિકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "બ્રોન્ઝ (કાંસું) એ મુખ્યત્વે કોપર અને ટીનનો મિશ્રધાતુ છે[cite: 6]."
+    "explanation": "બ્રોન્ઝ (કાંસું) એ મુખ્યત્વે કોપર અને ટીનનો મિશ્રધાતુ છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 140,
@@ -2067,7 +2067,7 @@
       "કાસ્ટિંગના લાર્જ સ્કેલ પ્રોડક્શન માટે"
     ],
     "correctAnswer": 3,
-    "explanation": "મોટા જથ્થામાં માસ પ્રોડક્શન (Large scale production) કરવા માટે ટકાઉ મેટલ પેટર્ન વપરાય છે[cite: 6]."
+    "explanation": "મોટા જથ્થામાં માસ પ્રોડક્શન (Large scale production) કરવા માટે ટકાઉ મેટલ પેટર્ન વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 141,
@@ -2082,7 +2082,7 @@
       "કાસ્ટ આયર્ન"
     ],
     "correctAnswer": 1,
-    "explanation": "ક્યુપ્રો-નિકલ (Cupronickel) દરિયાઈ ખારા પાણી સામે ઉત્તમ કાટ પ્રતિકારકતા ધરાવે છે[cite: 6]."
+    "explanation": "ક્યુપ્રો-નિકલ (Cupronickel) દરિયાઈ ખારા પાણી સામે ઉત્તમ કાટ પ્રતિકારકતા ધરાવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 142,
@@ -2097,7 +2097,7 @@
       "40% થી 50%"
     ],
     "correctAnswer": 2,
-    "explanation": "મારેજિંગ સ્ટીલમાં અલ્ટ્રા-હાઇ સ્ટ્રેન્થ મેળવવા માટે આશરે 18% થી 25% નિકલ હોય છે[cite: 6]."
+    "explanation": "મારેજિંગ સ્ટીલમાં અલ્ટ્રા-હાઇ સ્ટ્રેન્થ મેળવવા માટે આશરે 18% થી 25% નિકલ હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 143,
@@ -2112,14 +2112,14 @@
       "આમાંથી એક પણ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "થ્રેડ રોલિંગ એ કોલ્ડ ફોર્મિંગ પ્રોસેસ હોવાથી તે પૂરતી ડક્ટિલિટી ધરાવતી સામગ્રી પૂરતી મર્યાદિત છે[cite: 6]."
+    "explanation": "થ્રેડ રોલિંગ એ કોલ્ડ ફોર્મિંગ પ્રોસેસ હોવાથી તે પૂરતી ડક્ટિલિટી ધરાવતી સામગ્રી પૂરતી મર્યાદિત છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 144,
     "subject": "Manufacturing Processes",
     "subTopic": "Ferrous Materials & Steel Alloys",
     "question": "What is an important characteristic property of Austenitic Stainless Steel?",
-    "gujaratiQuestion": "0144. ઑસ્ટેનિટિક સ્ટેનલેસ સ્ટીલનો એક અગત્યનો ગુણધર્મ કયો છે?",
+    "gujaratiQuestion": "0144. ઑસ્ટેનિટિક સ્ટેનલેસ સ્ટીલનો એક અગત્યનો પ્રોપર્ટી કયો છે?",
     "options": [
       "તે ચુંબકીય છે",
       "તે નોન-મેગ્નેટિક છે",
@@ -2127,7 +2127,7 @@
       "તે કાસ્ટ આયર્ન કરતા સસ્તું છે"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓસ્ટેનિટિક સ્ટેનલેસ સ્ટીલ બિન-ચુંબકીય (Non-magnetic) હોય છે[cite: 6]."
+    "explanation": "ઓસ્ટેનિટિક સ્ટેનલેસ સ્ટીલ બિન-ચુંબકીય (Non-magnetic) હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 145,
@@ -2142,7 +2142,7 @@
       "કોબાલ્ટ"
     ],
     "correctAnswer": 1,
-    "explanation": "મેંગેનીઝ (Mn) સલ્ફર સાથે MnS બનાવીને રેડ શોર્ટનેસની ખરાબ અસરો ઘટાડે છે[cite: 6]."
+    "explanation": "મેંગેનીઝ (Mn) સલ્ફર સાથે MnS બનાવીને રેડ શોર્ટનેસની ખરાબ અસરો ઘટાડે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 146,
@@ -2157,7 +2157,7 @@
       "સ્કેબ"
     ],
     "correctAnswer": 2,
-    "explanation": "ધાતુના દબાણથી મોલ્ડ કેવિટી ફૂલી જતાં કાસ્ટિંગ મોટું થઈ જવાની ખામીને સ્વેલ (Swell) કહે છે[cite: 6]."
+    "explanation": "ધાતુના પ્રેશરથી મોલ્ડ કેવિટી ફૂલી જતાં કાસ્ટિંગ મોટું થઈ જવાની ખામીને સ્વેલ (Swell) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 147,
@@ -2172,7 +2172,7 @@
       "નાઈટ્રાઈડિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ફેરોઇડાઇઝિંગ પ્રક્રિયા હાઇ કાર્બન સ્ટીલમાં સિમેન્ટાઇટને ગોળાકાર બનાવી મશીનેબિલિટી વધારે છે[cite: 6]."
+    "explanation": "સ્ફેરોઇડાઇઝિંગ પ્રોસેસ હાઇ કાર્બન સ્ટીલમાં સિમેન્ટાઇટને ગોળાકાર બનાવી મશીનેબિલિટી વધારે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 148,
@@ -2187,7 +2187,7 @@
       "ટીન"
     ],
     "correctAnswer": 2,
-    "explanation": "ડ્યુરાલ્યુમિનમાં આશરે 4% કોપર (Cu) મુખ્ય એલોયિંગ તત્વ તરીકે હોય છે[cite: 6]."
+    "explanation": "ડ્યુરાલ્યુમિનમાં આશરે 4% કોપર (Cu) મુખ્ય એલોયિંગ તત્વ તરીકે હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 149,
@@ -2202,14 +2202,14 @@
       "કંડક્ટિવ મટિરિયલ્સ"
     ],
     "correctAnswer": 3,
-    "explanation": "EDM માં સ્પાર્ક પેદા કરવા માટે વર્કપીસ વિદ્યુત વાહક (Electrically conductive) હોવો અનિવાર્ય છે[cite: 6]."
+    "explanation": "EDM માં સ્પાર્ક પેદા કરવા માટે વર્કપીસ વિદ્યુત વાહક (Electrically conductive) હોવો અનિવાર્ય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 150,
     "subject": "Manufacturing Processes",
     "subTopic": "Industrial Heat Treatment & Surface Hardening",
     "question": "Which heat treatment process is used to increase the strength of aluminum-copper alloys?",
-    "gujaratiQuestion": "0150. એલ્યુમિનિયમ-કોપર એલોયની તાકાત વધારવા કઈ હીટ ટ્રીટમેન્ટ પ્રક્રિયા વપરાય છે?",
+    "gujaratiQuestion": "0150. એલ્યુમિનિયમ-કોપર એલોયની તાકાત વધારવા કઈ હીટ ટ્રીટમેન્ટ પ્રોસેસ વપરાય છે?",
     "options": [
       "એજ હાર્ડનિંગ",
       "કાર્બ્યુરાઇઝિંગ",
@@ -2217,7 +2217,7 @@
       "સાયનાઈડિંગ"
     ],
     "correctAnswer": 0,
-    "explanation": "Al-Cu એલોયની મજબૂતાઈ વધારવા માટે પ્રેસિપિટેશન અથવા એજ હાર્ડનિંગ (Age hardening) કરવામાં આવે છે[cite: 6]."
+    "explanation": "Al-Cu એલોયની મજબૂતાઈ વધારવા માટે પ્રેસિપિટેશન અથવા એજ હાર્ડનિંગ (Age hardening) કરવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 151,
@@ -2232,14 +2232,14 @@
       "ઈન્કોનેલ"
     ],
     "correctAnswer": 1,
-    "explanation": "Y-એલોય (Al-Cu-Ni-Mg) ઊંચા તાપમાને પણ સારી સ્ટ્રેન્થ જાળવી રાખતો હોવાથી એન્જિનના પિસ્ટન અને સિલિન્ડર હેડ માટે વપરાય છે[cite: 6]."
+    "explanation": "Y-એલોય (Al-Cu-Ni-Mg) ઊંચા ટેમ્પરેચરે પણ સારી સ્ટ્રેન્થ જાળવી રાખતો હોવાથી એન્જિનના પિસ્ટન અને સિલિન્ડર હેડ માટે વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 152,
     "subject": "Manufacturing Processes",
     "subTopic": "Forging, Rolling, Extrusion & Drawing",
     "question": "What is the process of passing a rod through multiple dies of progressively decreasing diameters called?",
-    "gujaratiQuestion": "Q152 રોડને ક્રમશઃ ઘટતા વ્યાસવાળી અનેક ડાઈમાંથી પસાર કરવાની પ્રક્રિયાને શું કહેવાય છે?",
+    "gujaratiQuestion": "Q152 રોડને ક્રમશઃ ઘટતા વ્યાસવાળી અનેક ડાઈમાંથી પસાર કરવાની પ્રોસેસને શું કહેવાય છે?",
     "options": [
       "રોલિંગ",
       "સ્ટ્રેચ ફોર્મિંગ",
@@ -2247,22 +2247,22 @@
       "વાયર ડ્રોઇંગ"
     ],
     "correctAnswer": 3,
-    "explanation": "ક્રમશઃ નાના છિદ્રવાળી ડાઇસમાંથી ખેંચીને સળિયા કે વાયરનો વ્યાસ ઘટાડવાની પ્રક્રિયાને વાયર ડ્રોઇંગ કહે છે[cite: 6]."
+    "explanation": "ક્રમશઃ નાના છિદ્રવાળી ડાઇસમાંથી ખેંચીને સળિયા કે વાયરનો વ્યાસ ઘટાડવાની પ્રોસેસને વાયર ડ્રોઇંગ કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 153,
     "subject": "Manufacturing Processes",
     "subTopic": "Non-Ferrous Materials & Super Alloys",
     "question": "What is the primary characteristic property of nickel-based superalloys (such as Inconel)?",
-    "gujaratiQuestion": "0153. નિકલ-બેઝ્ડ સુપરએલોય (જેમ કે ઈન્કોનેલ) નો મુખ્ય ગુણધર્મ શું છે?",
+    "gujaratiQuestion": "0153. નિકલ-બેઝ્ડ સુપરએલોય (જેમ કે ઈન્કોનેલ) નો મુખ્ય પ્રોપર્ટી શું છે?",
     "options": [
       "ખૂબ જ ઓછું વજન",
-      "ઊંચા તાપમાને ઊંચી તાકાત અને ક્રીપ રેઝિસ્ટન્સ",
+      "ઊંચા ટેમ્પરેચરે ઊંચી તાકાત અને ક્રીપ રેઝિસ્ટન્સ",
       "હાઈ મેગ્નેટિક પ્રોપર્ટી",
       "સરળ મશીનિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇન્કોનેલ જેવા સુપરએલોય ઊંચા તાપમાને ઉચ્ચ યાંત્રિક મજબૂતાઈ અને ઉત્કૃષ્ટ ક્રીપ રેઝિસ્ટન્સ ધરાવે છે[cite: 6]."
+    "explanation": "ઇન્કોનેલ જેવા સુપરએલોય ઊંચા ટેમ્પરેચરે ઉચ્ચ યાંત્રિક મજબૂતાઈ અને ઉત્કૃષ્ટ ક્રીપ રેઝિસ્ટન્સ ધરાવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 154,
@@ -2277,7 +2277,7 @@
       "નીચું ગલનબિંદુ"
     ],
     "correctAnswer": 0,
-    "explanation": "ટાઇટેનિયમ એલોય હળવા હોવાની સાથે ખૂબ મજબૂત હોવાથી તેનો સ્ટ્રેન્થ-ટુ-વેઇટ રેશિયો ઘણો ઊંચો હોય છે[cite: 6]."
+    "explanation": "ટાઇટેનિયમ એલોય હળવા હોવાની સાથે ખૂબ મજબૂત હોવાથી તેનો સ્ટ્રેન્થ-ટુ-વેઇટ રેશિયો ઘણો ઊંચો હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 155,
@@ -2292,7 +2292,7 @@
       "ઈલેક્ટ્રોન બીમ વેલ્ડિંગ"
     ],
     "correctAnswer": 3,
-    "explanation": "ઇલેક્ટ્રોન બીમ વેલ્ડિંગ (EBW) માં ઇલેક્ટ્રોન બીમનું હવાના અણુઓ દ્વારા વિખેરણ રોકવા વેક્યુમ ચેમ્બર અનિવાર્ય છે[cite: 6]."
+    "explanation": "ઇલેક્ટ્રોન બીમ વેલ્ડિંગ (EBW) માં ઇલેક્ટ્રોન બીમનું હવાના અણુઓ દ્વારા વિખેરણ રોકવા વેક્યુમ ચેમ્બર અનિવાર્ય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 156,
@@ -2307,7 +2307,7 @@
       "માત્ર લાકડું"
     ],
     "correctAnswer": 1,
-    "explanation": "EDM માં ટૂલ અને વર્કપીસ વચ્ચે થતા સતત ઇલેક્ટ્રિક સ્પાર્ક ઇરોઝન અને સ્થાનિક મેલ્ટિંગ/વેપોરાઇઝેશનથી મટીરીયલ દૂર થાય છે[cite: 6]."
+    "explanation": "EDM માં ટૂલ અને વર્કપીસ વચ્ચે થતા સતત ઇલેક્ટ્રિક સ્પાર્ક ઇરોઝન અને સ્થાનિક મેલ્ટિંગ/વેપોરાઇઝેશનથી મટીરીયલ દૂર થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 157,
@@ -2322,7 +2322,7 @@
       "માઈલ્ડ સ્ટીલ"
     ],
     "correctAnswer": 0,
-    "explanation": "EDM ટૂલ ઉચ્ચ વિદ્યુત વાહકતા અને ઉચ્ચ ગલનબિંદુ ધરાવતી સામગ્રી જેવી કે કોપર, બ્રાસ અથવા ગ્રેફાઇટમાંથી બને છે[cite: 6]."
+    "explanation": "EDM ટૂલ ઉચ્ચ વિદ્યુત વાહકતા અને ઉચ્ચ ગલનબિંદુ ધરાવતી સામગ્રી જેવી કે કોપર, બ્રાસ અથવા ગ્રેફાઇટમાંથી બને છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 158,
@@ -2337,7 +2337,7 @@
       "માત્ર લાકડું"
     ],
     "correctAnswer": 2,
-    "explanation": "USM અલ્ટ્રાસોનિક ફ્રિક્વન્સી પર એબ્રેસિવ સ્લરી વડે કાચ, સિરામિક જેવા કઠણ અને બરડ મટીરીયલ્સના મશીનિંગ માટે શ્રેષ્ઠ છે[cite: 6]."
+    "explanation": "USM અલ્ટ્રાસોનિક ફ્રિક્વન્સી પર એબ્રેસિવ સ્લરી વડે કાચ, સિરામિક જેવા કઠણ અને બરડ મટીરીયલ્સના મશીનિંગ માટે શ્રેષ્ઠ છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 159,
@@ -2352,7 +2352,7 @@
       "કોન્ટેક્ટ રેઝિસ્ટન્સ"
     ],
     "correctAnswer": 3,
-    "explanation": "ઇલેક્ટ્રોડ અને વર્કપીસ વચ્ચે ટચ કરાવીને છૂટા પાડતાં કોન્ટેક્ટ રેઝિસ્ટન્સથી ઇલેક્ટ્રોન ઉત્સર્જન શરૂ થઈને આર્ક બને છે[cite: 6]."
+    "explanation": "ઇલેક્ટ્રોડ અને વર્કપીસ વચ્ચે ટચ કરાવીને છૂટા પાડતાં કોન્ટેક્ટ રેઝિસ્ટન્સથી ઇલેક્ટ્રોન ઉત્સર્જન શરૂ થઈને આર્ક બને છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 160,
@@ -2367,7 +2367,7 @@
       "ચાર્લ્સનો નિયમ"
     ],
     "correctAnswer": 2,
-    "explanation": "ECM પ્રક્રિયા ફેરાડેના ઇલેક્ટ્રોલિસિસ અને એનોડિક ડિસઓલ્યુશનના નિયમો પર કાર્ય કરે છે[cite: 6]."
+    "explanation": "ECM પ્રોસેસ ફેરાડેના ઇલેક્ટ્રોલિસિસ અને એનોડિક ડિસઓલ્યુશનના નિયમો પર વર્ક કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 161,
@@ -2382,7 +2382,7 @@
       "મેગ્નેટિક ફિલ્ડ"
     ],
     "correctAnswer": 1,
-    "explanation": "લેસર કિરણોત્સર્ગ એ સુસંગત (Coherent) પ્રકાશ ઊર્જા એટલે કે ફોટોન્સ (Photons) નો સ્ત્રોત છે[cite: 6]."
+    "explanation": "લેસર કિરણોત્સર્ગ એ સુસંગત (Coherent) પ્રકાશ ઊર્જા એટલે કે ફોટોન્સ (Photons) નો સ્ત્રોત છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 162,
@@ -2397,7 +2397,7 @@
       "ટિન (Tin)"
     ],
     "correctAnswer": 3,
-    "explanation": "નીચું ગલનબિંદુ ધરાવતી ધાતુઓ જેવી કે ઝિંક, લેડ અને ટિન (Tin) હોટ ચેમ્બર ડાઇ કાસ્ટિંગ માટે સૌથી યોગ્ય છે[cite: 6]."
+    "explanation": "નીચું ગલનબિંદુ ધરાવતી ધાતુઓ જેવી કે ઝિંક, લેડ અને ટિન (Tin) હોટ ચેમ્બર ડાઇ કાસ્ટિંગ માટે સૌથી યોગ્ય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 163,
@@ -2412,7 +2412,7 @@
       "પ્લાઝ્મા આર્ક"
     ],
     "correctAnswer": 0,
-    "explanation": "AJM માં ઉચ્ચ વેગથી આવતા વાયુ અને બારીક એબ્રેસિવ કણોના માઇક્રો-ઇરોઝન દ્વારા મટીરીયલ કપાય છે[cite: 6]."
+    "explanation": "AJM માં ઉચ્ચ વેલોસિટીથી આવતા વાયુ અને બારીક એબ્રેસિવ કણોના માઇક્રો-ઇરોઝન દ્વારા મટીરીયલ કપાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 164,
@@ -2427,7 +2427,7 @@
       "AWJM"
     ],
     "correctAnswer": 2,
-    "explanation": "EBM માં ઇલેક્ટ્રોન્સનું વાયુઓ સાથેનું વિખેરણ અટકાવવા ઉચ્ચ વેક્યુમ ચેમ્બર અનિવાર્ય છે[cite: 6]."
+    "explanation": "EBM માં ઇલેક્ટ્રોન્સનું વાયુઓ સાથેનું વિખેરણ અટકાવવા ઉચ્ચ વેક્યુમ ચેમ્બર અનિવાર્ય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 165,
@@ -2442,7 +2442,7 @@
       "સબમર્જ્ડ આર્ક વેલ્ડિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "ફ્રિક્શન વેલ્ડિંગ (Friction welding) માં ધાતુને ઓગાળ્યા વગર ઘર્ષણ ઉષ્મા અને દબાણથી સોલિડ સ્ટેટમાં જોઈનિંગ થાય છે[cite: 6]."
+    "explanation": "ફ્રિક્શન વેલ્ડિંગ (Friction welding) માં ધાતુને ઓગાળ્યા વગર ઘર્ષણ હીટ અને પ્રેશરથી સોલિડ સ્ટેટમાં જોઈનિંગ થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 168,
@@ -2457,7 +2457,7 @@
       "ઇન્ફિલ્ટ્રેશન"
     ],
     "correctAnswer": 2,
-    "explanation": "સેલ્ફ-લ્યુબ્રિકેટિંગ બેરિંગ્સ બનાવવા છિદ્રોમાં ઓઇલ ભરવાની ક્રિયાને ઇમ્પ્રેગ્નેશન (Impregnation) કહેવાય છે (ધાતુ ભરવાને ઇન્ફિલ્ટ્રેશન કહે છે)[cite: 6]."
+    "explanation": "સેલ્ફ-લ્યુબ્રિકેટિંગ બેરિંગ્સ બનાવવા છિદ્રોમાં ઓઇલ ભરવાની ક્રિયાને ઇમ્પ્રેગ્નેશન (Impregnation) કહેવાય છે (ધાતુ ભરવાને ઇન્ફિલ્ટ્રેશન કહે છે)[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 171,
@@ -2472,7 +2472,7 @@
       "મોલ્ડ ફ્લાસ્કની અયોગ્ય ગોઠવણી (alignment)"
     ],
     "correctAnswer": 1,
-    "explanation": "પીગળેલી ધાતુનું તાપમાન ઓછું હોવાથી તેની તરલતા (Fluidity) અપૂરતી હોય છે, જેથી બે પ્રવાહો બરાબર જોડાઈ શકતા નથી[cite: 6]."
+    "explanation": "પીગળેલી ધાતુનું ટેમ્પરેચર ઓછું હોવાથી તેની તરલતા (Fluidity) અપૂરતી હોય છે, જેથી બે ફ્લોો બરાબર જોડાઈ શકતા નથી[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 174,
@@ -2487,7 +2487,7 @@
       "3233"
     ],
     "correctAnswer": 1,
-    "explanation": "ગોળા માટે V/A = D/6 = 0.2 / 6 = 1/30 m. ts = k · (V/A)² = 0.97 × 10^6 × (1/30)² ≈ 1078 સેકન્ડ[cite: 6]."
+    "explanation": "ગોળા માટે V/A = D/6 = 0.2 / 6 = 1/30 m. ts = k · (V/A)² = 0.97 × 10^6 × (1/30)² ≈ 1078 સેકન્ડ[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 177,
@@ -2502,7 +2502,7 @@
       "79700"
     ],
     "correctAnswer": 1,
-    "explanation": "Net Heat Input = (η · V · I) / v = (0.85 × 25 × 300) / 8 = 6375 / 8 ≈ 797 J/mm[cite: 6]."
+    "explanation": "Net Heat Input = (η · V · I) / v = (0.85 × 25 × 300) / 8 = 6375 / 8 ≈ 797 J/mm[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 180,
@@ -2517,7 +2517,7 @@
       "બે સપાટીઓ વચ્ચે અમુક ગેપ સુધી વધે છે અને તે પછી ઘટે છે"
     ],
     "correctAnswer": 3,
-    "explanation": "બ્રેઝિંગમાં કેપિલરી એક્શનથી જોઈન્ટ ગેપ અમુક લિમિટ (0.05 mm) સુધી વધતાં સ્ટ્રેન્થ વધે છે અને વધુ મોટો ગેપ થતાં સ્ટ્રેન્થ ઘટે છે[cite: 6]."
+    "explanation": "બ્રેઝિંગમાં કેપિલરી એક્શનથી જોઈન્ટ ગેપ અમુક લિમિટ (0.05 mm) સુધી વધતાં સ્ટ્રેન્થ વધે છે અને વધુ મોટો ગેપ થતાં સ્ટ્રેન્થ ઘટે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 183,
@@ -2532,7 +2532,7 @@
       "લૂઝ પીસ પેટર્ન"
     ],
     "correctAnswer": 2,
-    "explanation": "2D રૂપરેખા ધરાવતી બોર્ડને ધરી પર ફેરવીને 3D કેવિટી બનાવવા સ્વીપ પેટર્ન વપરાય છે[cite: 6]."
+    "explanation": "2D રૂપરેખા ધરાવતી બોર્ડને ધરી પર ફેરવીને 3D કેવિટી બનાવવા સ્વીપ પેટર્ન વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 186,
@@ -2547,7 +2547,7 @@
       "P-2, Q-3, R-1, S-4"
     ],
     "correctAnswer": 0,
-    "explanation": "સાચો જોડકો ક્રમ: P-2 (કોરોઝિવ રિએક્શન), Q-3 (આયન ડિસ્પ્લેસમેન્ટ), R-4 (ફ્યુઝન/વેપોરાઇઝેશન), S-1 (એબ્રેસિવ ઇરોઝન)[cite: 6]."
+    "explanation": "સાચો જોડકો ક્રમ: P-2 (કોરોઝિવ રિએક્શન), Q-3 (આયન ડિસ્પ્લેસમેન્ટ), R-4 (ફ્યુઝન/વેપોરાઇઝેશન), S-1 (એબ્રેસિવ ઇરોઝન)[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 190,
@@ -2562,7 +2562,7 @@
       "ઉપરના તમામ"
     ],
     "correctAnswer": 3,
-    "explanation": "AJM હીટ-સેન્સિટિવ, કઠણ બરડ મટીરીયલ્સના પાતળા સેક્શન્સ અને જટિલ કટિંગ તમામ માટે વપરાય છે[cite: 6]."
+    "explanation": "AJM હીટ-સેન્સિટિવ, કઠણ બરડ મટીરીયલ્સના પાતળા સેક્શન્સ અને જટિલ કટિંગ તમામ માટે વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 193,
@@ -2577,7 +2577,7 @@
       "કેમિકલ મશીનિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "ECM પ્રક્રિયામાં ઇલેક્ટ્રોલાઇટના પ્રવાહમાં ફેરાડેના નિયમ મુજબ એનોડિક ડિસઓલ્યુશનથી મેટલ ઓગળે છે[cite: 6]."
+    "explanation": "ECM પ્રોસેસમાં ઇલેક્ટ્રોલાઇટના ફ્લોમાં ફેરાડેના નિયમ મુજબ એનોડિક ડિસઓલ્યુશનથી મેટલ ઓગળે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 196,
@@ -2592,7 +2592,7 @@
       "રોટરી અને રેસિપ્રોકેટિંગ બંને મોશન"
     ],
     "correctAnswer": 1,
-    "explanation": "અલ્ટ્રાસોનિક મશીનિંગમાં ટૂલ ઊંચી ફ્રિક્વન્સી (20 kHz) પર ઊભી રેસિપ્રોકેટિંગ (વાઇબ્રેટરી) ગતિ કરે છે[cite: 6]."
+    "explanation": "અલ્ટ્રાસોનિક મશીનિંગમાં ટૂલ ઊંચી ફ્રિક્વન્સી (20 kHz) પર ઊભી રેસિપ્રોકેટિંગ (વાઇબ્રેટરી) ગતિ કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 199,
@@ -2607,7 +2607,7 @@
       "LBM"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇલેક્ટ્રોપ્લેટિંગમાં કેથોડ પર મેટલ જમા થાય છે, જ્યારે ઇલેક્ટ્રોકેમિકલ મશીનિંગ (ECM) માં એનોડ પરથી મેટલ દૂર થાય છે[cite: 6]."
+    "explanation": "ઇલેક્ટ્રોપ્લેટિંગમાં કેથોડ પર મેટલ જમા થાય છે, જ્યારે ઇલેક્ટ્રોકેમિકલ મશીનિંગ (ECM) માં એનોડ પરથી મેટલ દૂર થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 202,
@@ -2622,7 +2622,7 @@
       "આમાંથી એક પણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "રોલ પિયર્સિંગ (Mannesmann process) દ્વારા ગોળ બિલેટમાંથી સીમલેસ ટ્યુબ્સ અને પાઇપ્સ બનાવવામાં આવે છે[cite: 6]."
+    "explanation": "રોલ પિયર્સિંગ (Mannesmann process) દ્વારા ગોળ બિલેટમાંથી સીમલેસ ટ્યુબ્સ અને પાઇપ્સ બનાવવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 205,
@@ -2637,7 +2637,7 @@
       "ઉપરના તમામ"
     ],
     "correctAnswer": 0,
-    "explanation": "સિમેન્ટેડ કાર્બાઇડ અને સિરામિક ટૂલ્સ બરડ હોવાથી કટિંગ એજને મજબૂતી આપવા નેગેટિવ રેક એંગલ અપાય છે[cite: 6]."
+    "explanation": "સિમેન્ટેડ કાર્બાઇડ અને સિરામિક ટૂલ્સ બરડ હોવાથી કટિંગ એજને મજબૂતી આપવા નેગેટિવ રેક એંગલ અપાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 208,
@@ -2652,7 +2652,7 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "ઓબ્લિક કટિંગમાં કટિંગ એજ ત્રાંસી હોવાથી ચિપનો ક્રોસ-સેક્શનલ ફ્લો અસમાન બની મધ્યમાં જાડાઈ મહત્તમ હોય છે[cite: 6]."
+    "explanation": "ઓબ્લિક કટિંગમાં કટિંગ એજ ત્રાંસી હોવાથી ચિપનો ક્રોસ-સેક્શનલ ફ્લો અસમાન બની મધ્યમાં જાડાઈ મહત્તમ હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 211,
@@ -2667,7 +2667,7 @@
       "ઈલેક્ટ્રો-કેમિકલ પ્રોસેસ"
     ],
     "correctAnswer": 0,
-    "explanation": "EBM માં ઇલેક્ટ્રોનની ગતિજ ઊર્જાનું ઉચ્ચ ઉષ્મા ઊર્જામાં રૂપાંતર થઈ મટીરીયલ ઓગળીને ઉડી જતું હોવાથી તે થર્મલ પ્રોસેસ છે[cite: 6]."
+    "explanation": "EBM માં ઇલેક્ટ્રોનની ગતિજ ઊર્જાનું ઉચ્ચ હીટ ઊર્જામાં રૂપાંતર થઈ મટીરીયલ ઓગળીને ઉડી જતું હોવાથી તે થર્મલ પ્રોસેસ છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 214,
@@ -2682,7 +2682,7 @@
       "કાટ લાગવાને કારણે"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્ટેનલેસ સ્ટીલમાં રહેલું ક્રોમિયમ હવામાં ઝડપથી કઠણ ક્રોમિયમ ઓક્સાઇડ ફિલ્મ બનાવે છે જે યોગ્ય ફ્યુઝન અટકાવે છે[cite: 6]."
+    "explanation": "સ્ટેનલેસ સ્ટીલમાં રહેલું ક્રોમિયમ હવામાં ઝડપથી કઠણ ક્રોમિયમ ઓક્સાઇડ ફિલ્મ બનાવે છે જે યોગ્ય ફ્યુઝન અટકાવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 217,
@@ -2697,14 +2697,14 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "ઉત્તમ વેલ્ડિંગ ગુણવત્તા અને આર્ક સ્થિરતા માટે આર્ક લંબાઈ વપરાતા ઇલેક્ટ્રોડના વ્યાસ (Electrode diameter) જેટલી હોવી જોઈએ[cite: 6]."
+    "explanation": "ઉત્તમ વેલ્ડિંગ ગુણવત્તા અને આર્ક સ્થિરતા માટે આર્ક લંબાઈ વપરાતા ઇલેક્ટ્રોડના વ્યાસ (Electrode diameter) જેટલી હોવી જોઈએ[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 166,
     "subject": "Manufacturing Processes",
     "subTopic": "Industrial Pumps & Pumping Fundamentals",
     "question": "On which principle does a centrifugal pump work?",
-    "gujaratiQuestion": "0166. સેન્ટ્રીફયુગલ પંપ કયા સિદ્ધાંત પર કાર્ય કરે છે?",
+    "gujaratiQuestion": "0166. સેન્ટ્રીફયુગલ પંપ કયા સિદ્ધાંત પર વર્ક કરે છે?",
     "options": [
       "પોઝિટિવ ડિસ્પ્લેસમેન્ટ",
       "સેન્ટ્રીફયુગલ ફોર્સ",
@@ -2712,14 +2712,14 @@
       "મેગ્નેટિક ફોર્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "સેન્ટ્રીફ્યુગલ પંપ ઇમ્પેલર દ્વારા પ્રવાહીને ઘુમાવીને કેન્દ્રત્યાગી બળ (Centrifugal force) પેદા કરી દબાણ વધારે છે[cite: 6]."
+    "explanation": "સેન્ટ્રીફ્યુગલ પંપ ઇમ્પેલર દ્વારા ફ્લુઇડને ઘુમાવીને કેન્દ્રત્યાગી બળ (Centrifugal force) પેદા કરી પ્રેશર વધારે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 167,
     "subject": "Manufacturing Processes",
     "subTopic": "Industrial Pumps & Pumping Fundamentals",
     "question": "What is the operation of filling the casing and suction pipe of a pump with liquid before starting called?",
-    "gujaratiQuestion": "0167. પંપ ચાલુ કરતા પહેલા તેની કેસિંગ અને સક્શન પાઈપને પ્રવાહીથી ભરવાની ક્રિયાને શું કહે છે?",
+    "gujaratiQuestion": "0167. પંપ ચાલુ કરતા પહેલા તેની કેસિંગ અને સક્શન પાઈપને ફ્લુઇડથી ભરવાની ક્રિયાને શું કહે છે?",
     "options": [
       "કેવિટેશન",
       "પ્રાઈમિંગ",
@@ -2727,7 +2727,7 @@
       "બ્લિડિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "કેસિંગમાંથી હવા દૂર કરીને પંપને પ્રવાહીથી ભરવાની ક્રિયાને પ્રાઇમિંગ (Priming) કહે છે[cite: 6]."
+    "explanation": "કેસિંગમાંથી હવા દૂર કરીને પંપને ફ્લુઇડથી ભરવાની ક્રિયાને પ્રાઇમિંગ (Priming) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 169,
@@ -2742,7 +2742,7 @@
       "વાલ્વની સ્થિતિથી કોઈ ફરક પડતો નથી"
     ],
     "correctAnswer": 1,
-    "explanation": "મોટર પર સ્ટાર્ટિંગ પાવર લોડ લઘુત્તમ રાખવા માટે સેન્ટ્રીફ્યુગલ પંપ શરૂ કરતી વખતે ડિલિવરી વાલ્વ સંપૂર્ણ બંધ રાખવામાં આવે છે[cite: 6]."
+    "explanation": "મોટર પર સ્ટાર્ટિંગ પાવર લોડ લઘુત્તમ રાખવા માટે સેન્ટ્રીફ્યુગલ પંપ શરૂ કરતી વખતે ડિલિવરી વાલ્વ સંપૂર્ણ બંધ રાખવામાં આવે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 170,
@@ -2751,13 +2751,13 @@
     "question": "What is the primary cause of cavitation in pumps?",
     "gujaratiQuestion": "0170. કેવિટેશન (Cavitation) થવાનું મુખ્ય કારણ શું છે?",
     "options": [
-      "પ્રવાહીનું દબાણ તેના વેપર પ્રેશર કરતા ઘટી જવું",
+      "ફ્લુઇડનું પ્રેશર તેના વેપર પ્રેશર કરતા ઘટી જવું",
       "પંપની ઝડપ ઘટી જવી",
-      "પ્રવાહીનું દબાણ વધી જવું",
-      "તાપમાન ઘટી જવી"
+      "ફ્લુઇડનું પ્રેશર વધી જવું",
+      "ટેમ્પરેચર ઘટી જવી"
     ],
     "correctAnswer": 0,
-    "explanation": "જ્યારે સક્શન આગળ પ્રવાહીનું સ્થાનિક દબાણ તેના સંતૃપ્ત વેપર પ્રેશર કરતાં ઘટી જાય ત્યારે વરાળના પરપોટા બને છે અને કેવિટેશન થાય છે[cite: 6]."
+    "explanation": "જ્યારે સક્શન આગળ ફ્લુઇડનું સ્થાનિક પ્રેશર તેના સંતૃપ્ત વેપર પ્રેશર કરતાં ઘટી જાય ત્યારે વરાળના પરપોટા બને છે અને કેવિટેશન થાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 172,
@@ -2772,7 +2772,7 @@
       "નેટ પંપ સક્શન હેડ"
     ],
     "correctAnswer": 1,
-    "explanation": "NPSH એટલે Net Positive Suction Head[cite: 6]."
+    "explanation": "NPSH એટલે Net Positive Suction Head[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 173,
@@ -2787,7 +2787,7 @@
       "NPSHr = 0"
     ],
     "correctAnswer": 2,
-    "explanation": "કેવિટેશન અટકાવવા માટે ઉપલબ્ધ હેડ હંમેશા જરૂરી હેડ કરતાં વધુ (NPSHa > NPSHr) હોવો જોઈએ[cite: 6]."
+    "explanation": "કેવિટેશન અટકાવવા માટે ઉપલબ્ધ હેડ હંમેશા જરૂરી હેડ કરતાં વધુ (NPSHa > NPSHr) હોવો જોઈએ[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 175,
@@ -2802,14 +2802,14 @@
       "કેવિટેશન વધારવા"
     ],
     "correctAnswer": 1,
-    "explanation": "વોલ્યુટ કેસિંગનો ક્રમશઃ વધતો એરિયા પ્રવાહીના વેગને ઘટાડી ગતિજ ઊર્જાનું પ્રેશર ઊર્જામાં રૂપાંતર કરે છે[cite: 6]."
+    "explanation": "વોલ્યુટ કેસિંગનો ક્રમશઃ વધતો એરિયા ફ્લુઇડના વેલોસિટીને ઘટાડી ગતિજ ઊર્જાનું પ્રેશર ઊર્જામાં રૂપાંતર કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 176,
     "subject": "Manufacturing Processes",
     "subTopic": "Industrial Pumps & Pumping Fundamentals",
     "question": "What is the effect on pump efficiency when pumping high viscosity fluids?",
-    "gujaratiQuestion": "0176. વધુ વિસ્કોસિટી (Viscosity) ધરાવતા પ્રવાહીને પંપ કરવાથી પંપની કાર્યક્ષમતા (Efficiency) પર શું અસર થાય છે?",
+    "gujaratiQuestion": "0176. વધુ વિસ્કોસિટી (Viscosity) ધરાવતા ફ્લુઇડને પંપ કરવાથી પંપની વર્કક્ષમતા (Efficiency) પર શું અસર થાય છે?",
     "options": [
       "વધે છે",
       "ઘટે છે",
@@ -2817,7 +2817,7 @@
       "પંપ કામ કરતો બંધ થઈ જાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "વિસ્કોસિટી વધવાથી ઘર્ષણ લોસ વધે છે, જેનાથી પંપની કાર્યક્ષમતા ઘટે છે[cite: 6]."
+    "explanation": "વિસ્કોસિટી વધવાથી ઘર્ષણ લોસ વધે છે, જેનાથી પંપની વર્કક્ષમતા ઘટે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 178,
@@ -2828,11 +2828,11 @@
     "options": [
       "માત્ર હેડ",
       "ફ્લો રેટ, હેડ અને એફિશિયન્સી",
-      "માત્ર તાપમાન",
+      "માત્ર ટેમ્પરેચર",
       "માત્ર પંપનું વજન"
     ],
     "correctAnswer": 1,
-    "explanation": "ANSI/HI સ્ટાન્ડર્ડ મુજબ વિસ્કોસિટી કરેક્શનમાં ફ્લો રેટ, હેડ અને એફિશિયન્સી ત્રણેય ફેક્ટર્સ ધ્યાને લેવાય છે[cite: 6]."
+    "explanation": "ANSI/HI સ્ટાન્ડર્ડ મુજબ વિસ્કોસિટી કરેક્શનમાં ફ્લો રેટ, હેડ અને એફિશિયન્સી ત્રણેય ફેક્ટર્સ ધ્યાને લેવાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 179,
@@ -2847,7 +2847,7 @@
       "Q ∝ 1/N"
     ],
     "correctAnswer": 0,
-    "explanation": "પંપ એફિનિટી લો મુજબ ડિસ્ચાર્જ સ્પીડના સીધા સમપ્રમાણમાં (Q ∝ N) હોય છે[cite: 6]."
+    "explanation": "પંપ એફિનિટી લો મુજબ ડિસ્ચાર્જ સ્પીડના સીધા સમપ્રમાણમાં (Q ∝ N) હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 181,
@@ -2862,14 +2862,14 @@
       "H ∝ 1/N"
     ],
     "correctAnswer": 1,
-    "explanation": "પંપ એફિનિટી લો મુજબ પંપનો હેડ સ્પીડના વર્ગના સમપ્રમાણમાં (H ∝ N²) બદલાય છે[cite: 6]."
+    "explanation": "પંપ એફિનિટી લો મુજબ પંપનો હેડ સ્પીડના વર્ગના સમપ્રમાણમાં (H ∝ N²) બદલાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 182,
     "subject": "Manufacturing Processes",
     "subTopic": "Industrial Pumps & Pumping Fundamentals",
     "question": "Which pump is most suitable for pumping thick and sludgy fluids?",
-    "gujaratiQuestion": "Q182. થિક અને સ્લજ જેવા પ્રવાહીને પંપ કરવા કયા પ્રકારનો પંપ વધુ યોગ્ય છે?",
+    "gujaratiQuestion": "Q182. થિક અને સ્લજ જેવા ફ્લુઇડને પંપ કરવા કયા પ્રકારનો પંપ વધુ યોગ્ય છે?",
     "options": [
       "સેન્ટ્રીફયુગલ પંપ",
       "પ્રોગ્રેસિવ કેવિટી પંપ",
@@ -2877,7 +2877,7 @@
       "જેટ પંપ"
     ],
     "correctAnswer": 1,
-    "explanation": "અતિ ચીકણા, સ્લજ અને સોલિડ કણો ધરાવતા પ્રવાહી માટે પ્રોગ્રેસિવ કેવીટી પંપ (PCP) શ્રેષ્ઠ છે[cite: 6]."
+    "explanation": "અતિ ચીકણા, સ્લજ અને સોલિડ કણો ધરાવતા ફ્લુઇડ માટે પ્રોગ્રેસિવ કેવીટી પંપ (PCP) શ્રેષ્ઠ છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 184,
@@ -2892,14 +2892,14 @@
       "સોલાર એનર્જી"
     ],
     "correctAnswer": 1,
-    "explanation": "હાઇડ્રોલિક ટર્બાઇન પાણીની હાઇડ્રોલિક ઊર્જાનું રોટેશનલ યાંત્રિક ઊર્જા (Mechanical energy) માં રૂપાંતર કરે છે[cite: 6]."
+    "explanation": "હાઇડ્રોલિક ટર્બાઇન પાણીની હાઇડ્રોલિક ઊર્જાનું રોટેશનલ યાંત્રિક ઊર્જા (Mechanical energy) માં રૂપાંતર કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 185,
     "subject": "Manufacturing Processes",
     "subTopic": "Industrial Pumps & Pumping Fundamentals",
     "question": "On which principle does a progressive cavity pump operate?",
-    "gujaratiQuestion": "0185. પ્રોગ્રેસિવ કેવિટી પંપ કયા સિદ્ધાંત પર કાર્ય કરે છે?",
+    "gujaratiQuestion": "0185. પ્રોગ્રેસિવ કેવિટી પંપ કયા સિદ્ધાંત પર વર્ક કરે છે?",
     "options": [
       "સેન્ટ્રીફયુગલ ફોર્સ",
       "પોઝિટિવ ડિસ્પ્લેસમેન્ટ",
@@ -2907,7 +2907,7 @@
       "મેગ્નેટિક ઇન્ડક્શન"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રોગ્રેસિવ કેવિટી પંપ રોટરી પોઝિટિવ ડિસ્પ્લેસમેન્ટના સિદ્ધાંત પર કાર્ય કરે છે[cite: 6]."
+    "explanation": "પ્રોગ્રેસિવ કેવિટી પંપ રોટરી પોઝિટિવ ડિસ્પ્લેસમેન્ટના સિદ્ધાંત પર વર્ક કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 187,
@@ -2922,7 +2922,7 @@
       "ગિયર અને શાફ્ટ"
     ],
     "correctAnswer": 1,
-    "explanation": "તેના મુખ્ય બે ભાગો મેટાલિક સ્ક્રૂ રોટર અને ઇલાસ્ટોમેરિક સ્ટેટર છે[cite: 6]."
+    "explanation": "તેના મુખ્ય બે ભાગો મેટાલિક સ્ક્રૂ રોટર અને ઇલાસ્ટોમેરિક સ્ટેટર છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 188,
@@ -2937,7 +2937,7 @@
       "હવા ભરવા માટે"
     ],
     "correctAnswer": 1,
-    "explanation": "સબમર્સિબલ પંપ પાણીની અંદર ડૂબેલો રહીને ઊંડા બોરવેલ અને ટ્યુબવેલમાંથી પાણી ખેંચવા વપરાય છે[cite: 6]."
+    "explanation": "સબમર્સિબલ પંપ પાણીની અંદર ડૂબેલો રહીને ઊંડા બોરવેલ અને ટ્યુબવેલમાંથી પાણી ખેંચવા વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 189,
@@ -2952,7 +2952,7 @@
       "પંપની અંદર જ"
     ],
     "correctAnswer": 1,
-    "explanation": "લાઇનશાફ્ટ મોડેલમાં મોટર જમીનની સપાટી પર ડિસ્ચાર્જ હેડ ઉપર માઉન્ટ થયેલી હોય છે[cite: 6]."
+    "explanation": "લાઇનશાફ્ટ મોડેલમાં મોટર જમીનની સપાટી પર ડિસ્ચાર્જ હેડ ઉપર માઉન્ટ થયેલી હોય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 191,
@@ -2967,7 +2967,7 @@
       "ગિયર પંપ"
     ],
     "correctAnswer": 1,
-    "explanation": "રોપ પંપ ઓછી કિંમતનો, હાથથી સંચાલિત મેન્યુઅલ પંપ છે[cite: 6]."
+    "explanation": "રોપ પંપ ઓછી કિંમતનો, હાથથી સંચાલિત મેન્યુઅલ પંપ છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 192,
@@ -2982,14 +2982,14 @@
       "ડિસ્ચાર્જ વાલ્વ"
     ],
     "correctAnswer": 1,
-    "explanation": "મોટર અને પંપ શાફ્ટને જોડતા ભાગને કપલિંગ સેક્શન (સક્શન ઇન્ટરમીડિયેટ) કહે છે[cite: 6]."
+    "explanation": "મોટર અને પંપ શાફ્ટને જોડતા ભાગને કપલિંગ સેક્શન (સક્શન ઇન્ટરમીડિયેટ) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 194,
     "subject": "Manufacturing Processes",
     "subTopic": "Industrial Pumps & Pumping Fundamentals",
     "question": "Which law states that pressure applied to a static fluid is transmitted equally in all directions?",
-    "gujaratiQuestion": "0194. પ્રવાહીની સ્થિર અવસ્થામાં દબાણ માપવા કયો નિયમ વપરાય છે?",
+    "gujaratiQuestion": "0194. ફ્લુઇડની સ્થિર અવસ્થામાં પ્રેશર માપવા કયો નિયમ વપરાય છે?",
     "options": [
       "પાસ્કલનો નિયમ",
       "ન્યુટનનો નિયમ",
@@ -2997,7 +2997,7 @@
       "ચાર્લ્સનો નિયમ"
     ],
     "correctAnswer": 0,
-    "explanation": "પાસ્કલના નિયમ મુજબ બંધ સ્થિર પ્રવાહી પરનું દબાણ તમામ દિશાઓમાં સરખું પ્રસરણ પામે છે[cite: 6]."
+    "explanation": "પાસ્કલના નિયમ મુજબ બંધ સ્થિર ફ્લુઇડ પરનું પ્રેશર તમામ દિશાઓમાં સરખું પ્રસરણ પામે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 195,
@@ -3012,14 +3012,14 @@
       "થર્મોડાયનેમિક્સનો બીજો નિયમ"
     ],
     "correctAnswer": 1,
-    "explanation": "બર્નોલીનું સમીકરણ પ્રવાહી પ્રવાહ માટે ઊર્જા સંરક્ષણ (Conservation of Energy) પર આધારિત છે[cite: 6]."
+    "explanation": "બર્નોલીનું સમીકરણ ફ્લુઇડ ફ્લો માટે ઊર્જા સંરક્ષણ (Conservation of Energy) પર આધારિત છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 197,
     "subject": "Manufacturing Processes",
     "subTopic": "Industrial Pumps & Pumping Fundamentals",
     "question": "What is the pressure surge produced in a pipe when a flowing liquid is suddenly stopped called?",
-    "gujaratiQuestion": "0197. પાઈપમાં વહેતા પ્રવાહીમાં અચાનક વાલ્વ બંધ કરવાથી પાઈપમાં ઉત્પન્ન થતા પ્રેસર સર્જ (Surge) ને શું કહે છે?",
+    "gujaratiQuestion": "0197. પાઈપમાં વહેતા ફ્લુઇડમાં અચાનક વાલ્વ બંધ કરવાથી પાઈપમાં ઉત્પન્ન થતા પ્રેસર સર્જ (Surge) ને શું કહે છે?",
     "options": [
       "કેવિટેશન",
       "વોટર હેમર",
@@ -3027,14 +3027,14 @@
       "સર્જિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "અચાનક વાલ્વ બંધ કરવાથી ગતિજ ઊર્જાનું શોક પ્રેશર તરંગોમાં રૂપાંતર થવાને વોટર હેમર (Water hammer) કહે છે[cite: 6]."
+    "explanation": "અચાનક વાલ્વ બંધ કરવાથી ગતિજ ઊર્જાનું શોક પ્રેશર તરંગોમાં રૂપાંતર થવાને વોટર હેમર (Water hammer) કહે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 198,
     "subject": "Manufacturing Processes",
     "subTopic": "Industrial Pumps & Pumping Fundamentals",
     "question": "Which equation is used to calculate water hammer pressure?",
-    "gujaratiQuestion": "0198. વોટર હેમરનું દબાણ માપવા માટે કયું સમીકરણ વપરાય છે?",
+    "gujaratiQuestion": "0198. વોટર હેમરનું પ્રેશર માપવા માટે કયું સમીકરણ વપરાય છે?",
     "options": [
       "બર્નુલીનું સમીકરણ",
       "જૂકોવ્સ્કી સમીકરણ",
@@ -3042,14 +3042,14 @@
       "ડાર્સીનું સમીકરણ"
     ],
     "correctAnswer": 1,
-    "explanation": "વોટર હેમર પ્રેશર ગણવા જૂકોવ્સ્કી સમીકરણ (Joukowsky equation) વપરાય છે[cite: 6]."
+    "explanation": "વોટર હેમર પ્રેશર ગણવા જૂકોવ્સ્કી સમીકરણ (Joukowsky equation) વપરાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 200,
     "subject": "Manufacturing Processes",
     "subTopic": "Industrial Pumps & Pumping Fundamentals",
     "question": "What is the vertical height to which a pump pushes the liquid called?",
-    "gujaratiQuestion": "0200. પંપ દ્વારા પ્રવાહીને જે ઊંચાઈ સુધી ધકેલવામાં આવે છે તેને શું કહેવાય છે?",
+    "gujaratiQuestion": "0200. પંપ દ્વારા ફ્લુઇડને જે ઊંચાઈ સુધી ધકેલવામાં આવે છે તેને શું કહેવાય છે?",
     "options": [
       "સક્શન હેડ",
       "ડિલિવરી હેડ",
@@ -3057,7 +3057,7 @@
       "કાઈનેટિક હેડ"
     ],
     "correctAnswer": 1,
-    "explanation": "પંપથી ડિલિવરી પોઇન્ટ સુધીની ઊર્ધ્વ ઊંચાઈને ડિલિવરી હેડ (Delivery head) કહેવાય છે[cite: 6]."
+    "explanation": "પંપથી ડિલિવરી પોઇન્ટ સુધીની ઊર્ધ્વ ઊંચાઈને ડિલિવરી હેડ (Delivery head) કહેવાય છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 215,
@@ -3072,14 +3072,14 @@
       "ન્યૂટનનો નિયમ"
     ],
     "correctAnswer": 0,
-    "explanation": "હાઇડ્રોલિક પ્રેસ પાસ્કલના દબાણ પ્રસરણના નિયમ પર કાર્ય કરે છે[cite: 6]."
+    "explanation": "હાઇડ્રોલિક પ્રેસ પાસ્કલના પ્રેશર પ્રસરણના નિયમ પર વર્ક કરે છે[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 216,
     "subject": "Manufacturing Processes",
     "subTopic": "Industrial Pumps & Pumping Fundamentals",
     "question": "Overall efficiency of a pump is the ratio of:",
-    "gujaratiQuestion": "0216. પંપની એકંદર કાર્યક્ષમતા (Overall efficiency) કોનો ગુણોત્તર છે?",
+    "gujaratiQuestion": "0216. પંપની એકંદર વર્કક્ષમતા (Overall efficiency) કોનો ગુણોત્તર છે?",
     "options": [
       "વોટર પાવર અને શાફ્ટ પાવર",
       "શાફ્ટ પાવર અને વોટર પાવર",
@@ -3087,7 +3087,7 @@
       "સક્શન હેડ અને ડિલિવરી હેડ"
     ],
     "correctAnswer": 0,
-    "explanation": "પંપની ઓવરઓલ એફિશિયન્સી = આઉટપુટ વોટર પાવર / ઇનપુટ શાફ્ટ પાવર (Water Power / Shaft Power)[cite: 6]."
+    "explanation": "પંપની ઓવરઓલ એફિશિયન્સી = આઉટપુટ વોટર પાવર / ઇનપુટ શાફ્ટ પાવર (Water Power / Shaft Power)[cite: 6]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 1501,
@@ -3100,7 +3100,7 @@
       "Chute Spillway",
       "Side Channel Spillway"
     ],
-    "explanation": "Shaft spillway is vertical drop inlet shaped like a morning glory flower.",
+    "explanation": "Shaft spillway is vertical drop inlet shaped like a morning glory flower. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
     "gujaratiQuestion": "કયા પ્રકારના spillway ને morning glory spillway તરીકે પણ ઓળખવામાં આવે છે?",
     "correctAnswer": 1
   },
@@ -3115,7 +3115,7 @@
       "Drum Gate",
       "Rolling Gate"
     ],
-    "explanation": "Radial or Tainter gates have a curved face pivoting on a horizontal trunnion pin.",
+    "explanation": "Radial or Tainter gates have a curved face pivoting on a horizontal trunnion pin. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]",
     "gujaratiQuestion": "કયો crest gate pie-shaped હોય છે અને horizontal axisની આસપાસ rotate થાય છે?",
     "correctAnswer": 1
   },
@@ -3130,7 +3130,7 @@
       "Submerged weir",
       "Trapezoidal weir"
     ],
-    "explanation": "Ogee spillway profile matches the natural trajectory of water over a sharp-crested weir.",
+    "explanation": "Ogee spillway profile matches the natural trajectory of water over a sharp-crested weir. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
     "gujaratiQuestion": "Ogee spillway નો profile ventilated કયા પ્રકારના weir ની lower nappeને અનુરૂપ બનાવવામાં આવે છે?",
     "correctAnswer": 1
   },
@@ -3161,7 +3161,7 @@
       "Thermit welding"
     ],
     "correctAnswer": 2,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Laser beam welding concentrates heat in a very small zone.",
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Laser beam welding concentrates heat in a very small zone.\n\n💡 [High Yield Expected Question - 2026 Exam]",
     "id": 1505
   },
   {
@@ -3191,7 +3191,7 @@
       "Diffusion welding and TIG welding"
     ],
     "correctAnswer": 0,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The source identifies diffusion welding and friction welding as the intended autogenous pair.",
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The source identifies diffusion welding and friction welding as the intended autogenous pair.\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
     "id": 1507
   },
   {
@@ -3206,7 +3206,7 @@
       "Surface roughness"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: The riser feeds liquid metal during solidification shrinkage.",
+    "explanation": "Expected MCQ: The riser feeds liquid metal during solidification shrinkage. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]",
     "id": 1508
   },
   {
@@ -3221,7 +3221,7 @@
       "Grinding wheel"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Extrusion forces billet through a die orifice.",
+    "explanation": "Expected MCQ: Extrusion forces billet through a die orifice. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]",
     "id": 1509
   },
   {
@@ -3236,7 +3236,7 @@
       "Plastic deformation only"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: EDM uses controlled electrical discharges between electrode and workpiece.",
+    "explanation": "Expected MCQ: EDM uses controlled electrical discharges between electrode and workpiece. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]",
     "id": 1510
   },
   {
@@ -3251,7 +3251,7 @@
       "Only wooden patterns"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: It is useful for controlled-porosity and near-net-shape small components.",
+    "explanation": "Expected MCQ: It is useful for controlled-porosity and near-net-shape small components. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]",
     "id": 1511
   },
   {
@@ -3266,7 +3266,7 @@
       "Only higher electrical resistance"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Surface hardness improves wear resistance while the core retains toughness.",
+    "explanation": "Expected MCQ: Surface hardness improves wear resistance while the core retains toughness. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]",
     "id": 1512
   },
   {
@@ -3282,7 +3282,7 @@
       "Broaching machine"
     ],
     "correctAnswer": 0,
-    "explanation": "A lathe rotates the workpiece while the cutting tool removes material."
+    "explanation": "A lathe rotates the workpiece while the cutting tool removes material. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 1514,
@@ -3297,7 +3297,7 @@
       "curved around the workpiece"
     ],
     "correctAnswer": 0,
-    "explanation": "Orthogonal cutting assumes a cutting edge normal to the cutting velocity direction."
+    "explanation": "Orthogonal cutting assumes a cutting edge normal to the cutting velocity direction. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 1515,
@@ -3312,6 +3312,6 @@
       "rubber only"
     ],
     "correctAnswer": 0,
-    "explanation": "Adhesion between tool and ductile work material can form a built-up edge."
+    "explanation": "Adhesion between tool and ductile work material can form a built-up edge. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   }
 ]

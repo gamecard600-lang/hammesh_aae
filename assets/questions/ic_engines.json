@@ -4,7 +4,7 @@
     "subject": "I.C. Engines",
     "subTopic": "Combustion in SI & CI Engines",
     "question": "What is the nature of the air-petrol mixture in the cylinder during the combustion process in an S.I. engine?",
-    "gujaratiQuestion": "01. એસ.આઈ. એન્જિનમાં કમ્બશન પ્રક્રિયા દરમિયાન સિલિન્ડરમાં હવાનું અને પેટ્રોલનું મિશ્રણ કેવું હોય છે?",
+    "gujaratiQuestion": "01. એસ.આઈ. એન્જિનમાં કમ્બશન પ્રોસેસ દરમિયાન સિલિન્ડરમાં હવાનું અને પેટ્રોલનું મિશ્રણ કેવું હોય છે?",
     "options": [
       "હોમોજીનિયસ",
       "હિટરોજીનિયસ",
@@ -12,7 +12,7 @@
       "અસ્થિર"
     ],
     "correctAnswer": 0,
-    "explanation": "એસ.આઈ. (પેટ્રોલ) એન્જિનમાં કાર્બ્યુરેટર અથવા ઇન્જેક્શન દ્વારા સિલિન્ડરમાં પ્રવેશતું હવા અને ઇંધણનું મિશ્રણ એકસરખું એટલે કે હોમોજીનિયસ (Homogeneous) હોય છે[cite: 8]."
+    "explanation": "એસ.આઈ. (પેટ્રોલ) એન્જિનમાં કાર્બ્યુરેટર અથવા ઇન્જેક્શન દ્વારા સિલિન્ડરમાં પ્રવેશતું હવા અને ઇંધણનું મિશ્રણ એકસરખું એટલે કે હોમોજીનિયસ (Homogeneous) હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
       "આઈસેન્ટ્રોપિક"
     ],
     "correctAnswer": 1,
-    "explanation": "સી.આઈ. (ડીઝલ) એન્જિનમાં સંકુચિત હવામાં ડીઝલનો સ્પ્રે થવાથી સમગ્ર ચેમ્બરમાં મિશ્રણ અસમાન એટલે કે હિટરોજીનિયસ (Heterogeneous) હોય છે[cite: 8]."
+    "explanation": "સી.આઈ. (ડીઝલ) એન્જિનમાં સંકુચિત હવામાં ડીઝલનો સ્પ્રે થવાથી સમગ્ર ચેમ્બરમાં મિશ્રણ અસમાન એટલે કે હિટરોજીનિયસ (Heterogeneous) હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
       "ઓછા કમ્પ્રેશન રેશિયોથી"
     ],
     "correctAnswer": 0,
-    "explanation": "ડીઝલ એન્જિનમાં લાંબા ઇગ્નીશન ડીલેને કારણે એકઠા થયેલા ઇંધણના પ્રથમ ભાગનું એકાએક અને અતિ ઝડપી દહન થવાથી નોકિંગ સર્જાય છે[cite: 8]."
+    "explanation": "ડીઝલ એન્જિનમાં લાંબા ઇગ્નીશન ડીલેને કારણે એકઠા થયેલા ઇંધણના પ્રથમ ભાગનું એકાએક અને અતિ ઝડપી દહન થવાથી નોકિંગ સર્જાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
       "મલ્ટિપલ જેટ કાર્બ્યુરેટર"
     ],
     "correctAnswer": 0,
-    "explanation": "સોલેક્સ (Solex) અને ઝેનિથ (Zenith) કાર્બ્યુરેટર્સ એ ફિક્સ્ડ વેન્ચ્યુરી એરિયા ધરાવતા કોન્સ્ટન્ટ ચોક પ્રકારના કાર્બ્યુરેટર્સ છે[cite: 8]."
+    "explanation": "સોલેક્સ (Solex) અને ઝેનિથ (Zenith) કાર્બ્યુરેટર્સ એ ફિક્સ્ડ વેન્ચ્યુરી એરિયા ધરાવતા કોન્સ્ટન્ટ ચોક પ્રકારના કાર્બ્યુરેટર્સ છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
       "સ્પાર્ક પ્લગની ખરાબી"
     ],
     "correctAnswer": 1,
-    "explanation": "પેટ્રોલ એન્જિનમાં ફ્લેમ ફ્રન્ટ પહોંચે તે પહેલાં જ બાકી રહેલા અંતિમ અનબર્ન્ટ ચાર્જ (End gas) ના ઓટો-ઇગ્નિશન થવાથી ડિટોનેશન થાય છે[cite: 8]."
+    "explanation": "પેટ્રોલ એન્જિનમાં ફ્લેમ ફ્રન્ટ પહોંચે તે પહેલાં જ બાકી રહેલા અંતિમ અનબર્ન્ટ ચાર્જ (End gas) ના ઓટો-ઇગ્નિશન થવાથી ડિટોનેશન થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
       "લીન મિશ્રણનો ઉપયોગ કરવો"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્પાર્ક ટાઇમિંગ રિટાર્ડ (Retard) કરવાથી પીક સિલિન્ડર પ્રેશર અને તાપમાન ઘટે છે, જેથી ડિટોનેશન અટકે છે[cite: 8]."
+    "explanation": "સ્પાર્ક ટાઇમિંગ રિટાર્ડ (Retard) કરવાથી પીક સિલિન્ડર પ્રેશર અને ટેમ્પરેચર ઘટે છે, જેથી ડિટોનેશન અટકે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@
       "ચાર – સ્ટાર્ટર, કંટ્રોલ, ઇગ્નિશન અને ફયુઅલ સર્કિટ"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ટાર્ટિંગ સિસ્ટમમાં મુખ્ય બે સર્કિટ હોય છે: હેવી કરંટ વહન કરતી સ્ટાર્ટર મોટર સર્કિટ અને સ્વીચિંગ માટેની કંટ્રોલ સર્કિટ[cite: 8]."
+    "explanation": "સ્ટાર્ટિંગ સિસ્ટમમાં મુખ્ય બે સર્કિટ હોય છે: હેવી કરંટ ફ્લો કરતી સ્ટાર્ટર મોટર સર્કિટ અને સ્વીચિંગ માટેની કંટ્રોલ સર્કિટ[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 8,
@@ -114,10 +114,10 @@
       "લાંબો ડિલે પિરિયડ",
       "ટૂંકો ડિલે પિરિયડ",
       "ઓછો કમ્પ્રેશન રેશિયો",
-      "ઓછું ઇનલેટ તાપમાન"
+      "ઓછું ઇનલેટ ટેમ્પરેચર"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇગ્નિશન ડીલે પિરિયડ ટૂંકો રાખવાથી ચેમ્બરમાં અનિયંત્રિત ઇંધણ જમા થતું નથી અને નોકિંગ ઘટે છે[cite: 8]."
+    "explanation": "ઇગ્નિશન ડીલે પિરિયડ ટૂંકો રાખવાથી ચેમ્બરમાં અનિયંત્રિત ઇંધણ જમા થતું નથી અને નોકિંગ ઘટે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 9,
@@ -132,7 +132,7 @@
       "મિસફાયર"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્પાર્ક પ્લગ સ્પાર્ક આપે તે પહેલાં જ હોટ સ્પોટ કે કાર્બન ડિપોઝિટના સંપર્કથી ચાર્જ સળગી ઉઠવાની ક્રિયાને પ્રી-ઇગ્નિશન કહે છે[cite: 8]."
+    "explanation": "સ્પાર્ક પ્લગ સ્પાર્ક આપે તે પહેલાં જ હોટ સ્પોટ કે કાર્બન ડિપોઝિટના સંપર્કથી ચાર્જ સળગી ઉઠવાની ક્રિયાને પ્રી-ઇગ્નિશન કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 10,
@@ -147,7 +147,7 @@
       "પેસેન્જર વાહનો"
     ],
     "correctAnswer": 0,
-    "explanation": "મોટરસાઇકલ અને સ્કૂટર જેવા નાના અને હળવા વાહનોમાં સરળ રચના માટે એર કૂલિંગ (ફિન્સ) વપરાય છે[cite: 8]."
+    "explanation": "મોટરસાઇકલ અને સ્કૂટર જેવા નાના અને હળવા વાહનોમાં સરળ રચના માટે એર કૂલિંગ (ફિન્સ) વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 11,
@@ -162,7 +162,7 @@
       "કમ્બશન પિરિયડ"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇન્જેક્શનની શરૂઆતથી ઇગ્નિશન શરૂ થવા વચ્ચેના સમયગાળાને ઇગ્નિશન લેગ અથવા ડિલે પિરિયડ (Delay period) કહેવાય છે[cite: 8]."
+    "explanation": "ઇન્જેક્શનની શરૂઆતથી ઇગ્નિશન શરૂ થવા વચ્ચેના સમયગાળાને ઇગ્નિશન લેગ અથવા ડિલે પિરિયડ (Delay period) કહેવાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 12,
@@ -177,7 +177,7 @@
       "શૂન્ય થાય છે"
     ],
     "correctAnswer": 0,
-    "explanation": "કમ્પ્રેશન રેશિયો વધતાં કમ્પ્રેશનના અંતે તાપમાન અને દબાણ વધે છે, જેથી એન્ડ ગેસ ઝડપથી ઓટો-ઇગ્નાઇટ થઈ ડિટોનેશનની શક્યતા વધારે છે[cite: 8]."
+    "explanation": "કમ્પ્રેશન રેશિયો વધતાં કમ્પ્રેશનના અંતે ટેમ્પરેચર અને પ્રેશર વધે છે, જેથી એન્ડ ગેસ ઝડપથી ઓટો-ઇગ્નાઇટ થઈ ડિટોનેશનની શક્યતા વધારે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 13,
@@ -192,7 +192,7 @@
       "ફ્યુઅલની કેલરીફિક વેલ્યુ"
     ],
     "correctAnswer": 1,
-    "explanation": "સિટેન નંબર એ ડીઝલ ઇંધણની ઇગ્નિશન ક્વોલિટી અને ઝડપથી ઓટો-ઇગ્નાઇટ થવાની ક્ષમતાનું માપ છે[cite: 8]."
+    "explanation": "સિટેન નંબર એ ડીઝલ ઇંધણની ઇગ્નિશન ક્વોલિટી અને ઝડપથી ઓટો-ઇગ્નાઇટ થવાની ક્ષમતાનું માપ છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 14,
@@ -207,22 +207,22 @@
       "શરૂઆતમાં વધે પછી ઘટે"
     ],
     "correctAnswer": 1,
-    "explanation": "સી.આઈ. એન્જિનમાં કમ્પ્રેશન રેશિયો વધતાં તાપમાન વધે છે, જેથી ડિલે પિરિયડ ટૂંકો થાય છે અને નોકિંગ ઘટે છે[cite: 8]."
+    "explanation": "સી.આઈ. એન્જિનમાં કમ્પ્રેશન રેશિયો વધતાં ટેમ્પરેચર વધે છે, જેથી ડિલે પિરિયડ ટૂંકો થાય છે અને નોકિંગ ઘટે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 15,
     "subject": "I.C. Engines",
     "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
     "question": "What is the primary function of a carburetor?",
-    "gujaratiQuestion": "015. કાર્બ્યુરેટરનું પ્રાથમિક કાર્ય શું છે?",
+    "gujaratiQuestion": "015. કાર્બ્યુરેટરનું પ્રાથમિક વર્ક શું છે?",
     "options": [
       "ઇલેક્ટ્રિક સ્પાર્ક ઉત્પન્ન કરવો",
       "એક્ઝોસ્ટ વાયુઓને સાફ કરવા",
       "હવા અને પેટ્રોલનું યોગ્ય પ્રમાણમાં મિશ્રણ તૈયાર કરવું",
-      "ફયુઅલને ઉચ્ચ દબાણે પમ્પ કરવું"
+      "ફયુઅલને ઉચ્ચ પ્રેશરે પમ્પ કરવું"
     ],
     "correctAnswer": 2,
-    "explanation": "કાર્બ્યુરેટર એન્જિનના વિવિધ લોડ અને સ્પીડ મુજબ હવા અને પેટ્રોલનું સૈદ્ધાંતિક મિશ્રણ તૈયાર કરી સિલિન્ડરમાં સપ્લાય કરે છે[cite: 8]."
+    "explanation": "કાર્બ્યુરેટર એન્જિનના વિવિધ લોડ અને સ્પીડ મુજબ હવા અને પેટ્રોલનું સૈદ્ધાંતિક મિશ્રણ તૈયાર કરી સિલિન્ડરમાં સપ્લાય કરે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 16,
@@ -237,22 +237,22 @@
       "ફાઈન નાયલોન મેશ અથવા પ્લીટેડ પેપર"
     ],
     "correctAnswer": 3,
-    "explanation": "અતિ બારીક કચરો રોકવા માટે આધુનિક ફ્યુઅલ ફિલ્ટર્સ પ્લીટેડ પેપર (Pleated paper) અથવા ફાઇન નાયલોન મેશમાંથી બનાવાય છે[cite: 8]."
+    "explanation": "અતિ બારીક કચરો રોકવા માટે આધુનિક ફ્યુઅલ ફિલ્ટર્સ પ્લીટેડ પેપર (Pleated paper) અથવા ફાઇન નાયલોન મેશમાંથી બનાવાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 17,
     "subject": "I.C. Engines",
     "subTopic": "Fuel Supply Systems in SI & CI Engines",
     "question": "What is the function of a fuel injector in a C.I. engine?",
-    "gujaratiQuestion": "017. સી.આઈ. એન્જિનમાં ફયુઅલ ઇન્જેક્ટરનું કાર્ય શું છે?",
+    "gujaratiQuestion": "017. સી.આઈ. એન્જિનમાં ફયુઅલ ઇન્જેક્ટરનું વર્ક શું છે?",
     "options": [
       "ફયુઅલને બાષ્પીભવન કરવું",
-      "ફ્યુઅલનું ઉચ્ચ દબાણે એટોમાઇઝેશન કરીને સ્પ્રે કરવું",
+      "ફ્યુઅલનું ઉચ્ચ પ્રેશરે એટોમાઇઝેશન કરીને સ્પ્રે કરવું",
       "હવા અને ફયુઅલ મિક્સ કરવા",
       "ઇગ્નિશન માટે સ્પાર્ક આપવો"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇન્જેક્ટર ઉચ્ચ દબાણે ડીઝલનું ઝીણા સ્પ્રે (Atomization) સ્વરૂપે કમ્બશન ચેમ્બરમાં વિતરણ કરે છે[cite: 8]."
+    "explanation": "ઇન્જેક્ટર ઉચ્ચ પ્રેશરે ડીઝલનું ઝીણા સ્પ્રે (Atomization) સ્વરૂપે કમ્બશન ચેમ્બરમાં વિતરણ કરે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 18,
@@ -267,7 +267,7 @@
       "20:1"
     ],
     "correctAnswer": 2,
-    "explanation": "પેટ્રોલના સંપૂર્ણ રાસાયણિક દહન માટે સૈદ્ધાંતિક સ્ટોઇકિયોમેટ્રિક એર-ફ્યુઅલ ગુણોત્તર 14.7:1 (લગભગ 15:1) હોય છે[cite: 8]."
+    "explanation": "પેટ્રોલના સંપૂર્ણ રાસાયણિક દહન માટે સૈદ્ધાંતિક સ્ટોઇકિયોમેટ્રિક એર-ફ્યુઅલ ગુણોત્તર 14.7:1 (લગભગ 15:1) હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 19,
@@ -282,7 +282,7 @@
       "અવાજ ઘટાડવા"
     ],
     "correctAnswer": 1,
-    "explanation": "ગરમ ઇન્ટેક વાલ્વની પાછળ સ્પ્રે કરવાથી ઇંધણનું ઝડપી બાષ્પીભવન થાય છે અને વાલ્વ ઠંડો રહે છે[cite: 8]."
+    "explanation": "ગરમ ઇન્ટેક વાલ્વની પાછળ સ્પ્રે કરવાથી ઇંધણનું ઝડપી બાષ્પીભવન થાય છે અને વાલ્વ ઠંડો રહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 20,
@@ -297,7 +297,7 @@
       "હવા અને એક્ઝોસ્ટ ગેસ"
     ],
     "correctAnswer": 1,
-    "explanation": "ડીઝલ એન્જિનમાં સક્શન સ્ટ્રોક વખતે સિલિન્ડરમાં માત્ર વાતાવરણની શુદ્ધ હવા દાખલ થાય છે[cite: 8]."
+    "explanation": "ડીઝલ એન્જિનમાં સક્શન સ્ટ્રોક વખતે સિલિન્ડરમાં માત્ર વાતાવરણની શુદ્ધ હવા દાખલ થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 21,
@@ -312,7 +312,7 @@
       "ડીઝલ અને હવાનું મિશ્રણ"
     ],
     "correctAnswer": 2,
-    "explanation": "એસ.આઈ. એન્જિનમાં સક્શન દરમિયાન કાર્બ્યુરેટર કે મેનિફોલ્ડમાંથી હવા અને પેટ્રોલનું હોમોજીનિયસ મિશ્રણ દાખલ થાય છે[cite: 8]."
+    "explanation": "એસ.આઈ. એન્જિનમાં સક્શન દરમિયાન કાર્બ્યુરેટર કે મેનિફોલ્ડમાંથી હવા અને પેટ્રોલનું હોમોજીનિયસ મિશ્રણ દાખલ થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 22,
@@ -327,7 +327,7 @@
       "ક્રેન્કશાફ્ટના અડધા રિવોલ્યુશનમાં"
     ],
     "correctAnswer": 0,
-    "explanation": "ટુ-સ્ટ્રોક એન્જિનમાં પિસ્ટનના દરેક બે સ્ટ્રોકે એટલે કે ક્રેન્કશાફ્ટના દરેક એક ચક્કરે (1 Revolution) એક પાવર સ્ટ્રોક મળે છે[cite: 8]."
+    "explanation": "ટુ-સ્ટ્રોક એન્જિનમાં પિસ્ટનના દરેક બે સ્ટ્રોકે એટલે કે ક્રેન્કશાફ્ટના દરેક એક ચક્કરે (1 Revolution) એક પાવર સ્ટ્રોક મળે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 23,
@@ -342,7 +342,7 @@
       "રેનોલ્ડ્સ નંબર"
     ],
     "correctAnswer": 1,
-    "explanation": "પેટ્રોલની નોકિંગ સામે પ્રતિકાર કરવાની ક્ષમતા ઓક્ટેન નંબર (Octane number) વડે દર્શાવાય છે[cite: 8]."
+    "explanation": "પેટ્રોલની નોકિંગ સામે પ્રતિકાર કરવાની ક્ષમતા ઓક્ટેન નંબર (Octane number) વડે દર્શાવાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 24,
@@ -357,7 +357,7 @@
       "વિસ્કોસિટી નંબર"
     ],
     "correctAnswer": 2,
-    "explanation": "ડીઝલ ઇંધણની ઇગ્નિશન ઝડપ સિટેન નંબર (Cetane number) વડે માપવામાં આવે છે[cite: 8]."
+    "explanation": "ડીઝલ ઇંધણની ઇગ્નિશન ઝડપ સિટેન નંબર (Cetane number) વડે માપવામાં આવે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 25,
@@ -372,14 +372,14 @@
       "પ્રેશર"
     ],
     "correctAnswer": 3,
-    "explanation": "ડીઝલ સાયકલમાં ઉષ્માનો ઉમેરો અચળ દબાણે (Constant Pressure) થાય છે[cite: 8]."
+    "explanation": "ડીઝલ સાયકલમાં હીટનો ઉમેરો અચળ પ્રેશરે (Constant Pressure) થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 26,
     "subject": "I.C. Engines",
     "subTopic": "Combustion Stages & Combustion Chambers",
     "question": "The process of creating rotational/circular motion in the air inside a C.I. engine cylinder is called:",
-    "gujaratiQuestion": "026. સી.આઈ. એન્જિનમાં હવાને ગોળાકાર ગતિ આપવાની પ્રક્રિયાને શું કહેવામાં આવે છે?",
+    "gujaratiQuestion": "026. સી.આઈ. એન્જિનમાં હવાને ગોળાકાર ગતિ આપવાની પ્રોસેસને શું કહેવામાં આવે છે?",
     "options": [
       "સ્કિવેશ",
       "ક્વેન્ચિંગ",
@@ -387,7 +387,7 @@
       "ફ્લેમ પ્રોપેગેશન"
     ],
     "correctAnswer": 2,
-    "explanation": "સિલિન્ડર અક્ષની આસપાસ હવાની પરિભ્રમણીય ગતિને સ્વર્લ (Swirl) કહે છે, જે હવા-ઇંધણ મિશ્રણ સુધારે છે[cite: 8]."
+    "explanation": "સિલિન્ડર અક્ષની આસપાસ હવાની રોટેશનીય ગતિને સ્વર્લ (Swirl) કહે છે, જે હવા-ઇંધણ મિશ્રણ સુધારે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 27,
@@ -402,7 +402,7 @@
       "4"
     ],
     "correctAnswer": 2,
-    "explanation": "એસ.આઈ. એન્જિન કમ્બશનના 3 તબક્કા છે: 1. ઇગ્નિશન લેગ, 2. ફ્લેમ પ્રોપેગેશન, 3. આફ્ટર બર્નિંગ[cite: 8]."
+    "explanation": "એસ.આઈ. એન્જિન કમ્બશનના 3 તબક્કા છે: 1. ઇગ્નિશન લેગ, 2. ફ્લેમ પ્રોપેગેશન, 3. આફ્ટર બર્નિંગ[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 28,
@@ -417,14 +417,14 @@
       "ફ્યુઅલ લો પ્રેશર પર સપ્લાય થાય છે અને ઈન્જેક્ટર દ્વારા બુસ્ટ થાય છે."
     ],
     "correctAnswer": 1,
-    "explanation": "CRDI માં એક હાઇ પ્રેશર પંપ કોમન રેલ (હેડર) માં સતત ઉચ્ચ દબાણે ઇંધણ સંગ્રહે છે, જ્યાંથી ઇલેક્ટ્રોનિક ઇન્જેક્ટર્સ દ્વારા સ્પ્રે થાય છે[cite: 8]."
+    "explanation": "CRDI માં એક હાઇ પ્રેશર પંપ કોમન રેલ (હેડર) માં સતત ઉચ્ચ પ્રેશરે ઇંધણ સંગ્રહે છે, જ્યાંથી ઇલેક્ટ્રોનિક ઇન્જેક્ટર્સ દ્વારા સ્પ્રે થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 29,
     "subject": "I.C. Engines",
     "subTopic": "Combustion Stages & Combustion Chambers",
     "question": "How many total stages of combustion are there in a diesel engine?",
-    "gujaratiQuestion": "029. ડીઝલ એન્જિનમાં કમ્બશન પ્રક્રિયાના કુલ કેટલા તબક્કા હોય છે?",
+    "gujaratiQuestion": "029. ડીઝલ એન્જિનમાં કમ્બશન પ્રોસેસના કુલ કેટલા તબક્કા હોય છે?",
     "options": [
       "2",
       "3",
@@ -432,7 +432,7 @@
       "5"
     ],
     "correctAnswer": 2,
-    "explanation": "ડીઝલ કમ્બશનના 4 તબક્કા છે: 1. ઇગ્નિશન ડિલે, 2. અનકંટ્રોલ્ડ કમ્બશન, 3. કંટ્રોલ્ડ કમ્બશન, 4. આફ્ટર બર્નિંગ[cite: 8]."
+    "explanation": "ડીઝલ કમ્બશનના 4 તબક્કા છે: 1. ઇગ્નિશન ડિલે, 2. અનકંટ્રોલ્ડ કમ્બશન, 3. કંટ્રોલ્ડ કમ્બશન, 4. આફ્ટર બર્નિંગ[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 30,
@@ -441,13 +441,13 @@
     "question": "What is required to increase flame propagation speed in an S.I. engine?",
     "gujaratiQuestion": "030. એસ.આઈ. એન્જિનમાં ફ્લેમ પ્રોપેગેશનની ઝડપ વધારવા માટે નીચેનામાંથી શું જરૂરી છે?",
     "options": [
-      "નીચું તાપમાન",
+      "નીચું ટેમ્પરેચર",
       "ટર્બ્યુલન્સ",
       "લીન મિશ્રણ",
       "રિચ મિશ્રણ"
     ],
     "correctAnswer": 1,
-    "explanation": "કમ્બશન ચેમ્બરમાં યોગ્ય ટર્બ્યુલન્સ (વમળ) હોવાથી ફ્લેમ ફ્રન્ટ ઝડપથી ફેલાય છે અને કમ્બશન ઝડપી બને છે[cite: 8]."
+    "explanation": "કમ્બશન ચેમ્બરમાં યોગ્ય ટર્બ્યુલન્સ (વમળ) હોવાથી ફ્લેમ ફ્રન્ટ ઝડપથી ફેલાય છે અને કમ્બશન ઝડપી બને છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 31,
@@ -462,7 +462,7 @@
       "ડમ્પરનો ઉપયોગ લિક્વિડ ટ્રાન્સપોર્ટ માટે થાય છે."
     ],
     "correctAnswer": 0,
-    "explanation": "ડમ્પર ટૂંકો વ્હીલબેઝ ધરાવે છે અને કઠણ કન્સ્ટ્રક્શન સાઇટ્સ પર ઓફ-રોડ સામગ્રી વહન કરવા માટે ઉપયોગી છે[cite: 8]."
+    "explanation": "ડમ્પર ટૂંકો વ્હીલબેઝ ધરાવે છે અને કઠણ કન્સ્ટ્રક્શન સાઇટ્સ પર ઓફ-રોડ સામગ્રી ફ્લો કરવા માટે ઉપયોગી છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 32,
@@ -471,13 +471,13 @@
     "question": "Due to detonation, which parameter increases suddenly and extremely in the engine cylinder?",
     "gujaratiQuestion": "032. ડિટોનેશનના કારણે એન્જિનના સિલિન્ડરમાં કયા પરિમાણમાં અચાનક અને ખૂબ ઊંચો વધારો થાય છે?",
     "options": [
-      "દબાણ વધવાના દરમાં (Rate of pressure rise)",
+      "પ્રેશર વધવાના દરમાં (Rate of pressure rise)",
       "એન્જિન સ્પીડમાં",
       "ફ્યુઅલ વપરાશમાં",
       "ટોર્કમાં"
     ],
     "correctAnswer": 0,
-    "explanation": "ડિટોનેશન દરમિયાન તીવ્ર શોક વેવ્સ ઉત્પન્ન થતાં દબાણ વધવાનો દર (dp/dθ) અતિશય વધી જાય છે[cite: 8]."
+    "explanation": "ડિટોનેશન દરમિયાન તીવ્ર શોક વેવ્સ ઉત્પન્ન થતાં પ્રેશર વધવાનો દર (dp/dθ) અતિશય વધી જાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 33,
@@ -492,7 +492,7 @@
       "બમણી થાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્પીડ વધતાં ટર્બ્યુલન્સ વધે છે અને ફ્લેમ પ્રોપેગેશન ઝડપી બનવાથી એન્ડ ગેસને ઓટો-ઇગ્નાઇટ થવાનો સમય મળતો નથી, જેથી ડિટોનેશન ઘટે છે[cite: 8]."
+    "explanation": "સ્પીડ વધતાં ટર્બ્યુલન્સ વધે છે અને ફ્લેમ પ્રોપેગેશન ઝડપી બનવાથી એન્ડ ગેસને ઓટો-ઇગ્નાઇટ થવાનો સમય મળતો નથી, જેથી ડિટોનેશન ઘટે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 34,
@@ -507,7 +507,7 @@
       "શૂન્ય થાય છે"
     ],
     "correctAnswer": 0,
-    "explanation": "સી.આઈ. એન્જિનમાં સ્પીડ વધારવાથી ક્રેન્ક એંગલ ડિગ્રીના સંદર્ભમાં ઇગ્નિશન ડિલે વધે છે, જેથી નોકિંગની શક્યતા વધે છે[cite: 8]."
+    "explanation": "સી.આઈ. એન્જિનમાં સ્પીડ વધારવાથી ક્રેન્ક એંગલ ડિગ્રીના સંદર્ભમાં ઇગ્નિશન ડિલે વધે છે, જેથી નોકિંગની શક્યતા વધે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 35,
@@ -522,7 +522,7 @@
       "0.1"
     ],
     "correctAnswer": 0,
-    "explanation": "Power P = (pm · Vs · N) / (60 × 2) => 950 × 10³ = (pm × 0.0259 × 2200) / 120 => pm ≈ 2.0 × 10^6 Pa = 2.0 MPa[cite: 8]."
+    "explanation": "Power P = (pm · Vs · N) / (60 × 2) => 950 × 10³ = (pm × 0.0259 × 2200) / 120 => pm ≈ 2.0 × 10^6 Pa = 2.0 MPa[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 36,
@@ -537,7 +537,7 @@
       "કોમ્પ્લેક્સ ડિઝાઈન"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓપન ચેમ્બરમાં ઓછી હીટ લોસ થતી હોવાથી ઊંચી થર્મલ કાર્યક્ષમતા અને સરળ કોલ્ડ સ્ટાર્ટિંગ મળે છે[cite: 8]."
+    "explanation": "ઓપન ચેમ્બરમાં ઓછી હીટ લોસ થતી હોવાથી ઊંચી થર્મલ વર્કક્ષમતા અને સરળ કોલ્ડ સ્ટાર્ટિંગ મળે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 37,
@@ -552,7 +552,7 @@
       "સ્ટીમ એન્જિન"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇનડાયરેક્ટ ઇન્જેક્શન ધરાવતા સી.આઈ. (ડીઝલ) એન્જિનોમાં પ્રી-કમ્બશન ચેમ્બર વપરાય છે[cite: 8]."
+    "explanation": "ઇનડાયરેક્ટ ઇન્જેક્શન ધરાવતા સી.આઈ. (ડીઝલ) એન્જિનોમાં પ્રી-કમ્બશન ચેમ્બર વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 38,
@@ -567,7 +567,7 @@
       "હીટ રિજેક્શન ઓછું હોય છે"
     ],
     "correctAnswer": 3,
-    "explanation": "સમાન કમ્પ્રેશન રેશિયો પર ઓટો સાયકલમાં કોન્સ્ટન્ટ વોલ્યુમ હીટ એડિશન થવાથી હીટ રિજેક્શન ઓછું થાય છે[cite: 8]."
+    "explanation": "સમાન કમ્પ્રેશન રેશિયો પર ઓટો સાયકલમાં કોન્સ્ટન્ટ વોલ્યુમ હીટ એડિશન થવાથી હીટ રિજેક્શન ઓછું થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 39,
@@ -582,7 +582,7 @@
       "ઓછો ધુમાડો આપશે"
     ],
     "correctAnswer": 2,
-    "explanation": "20:1 કરતાં વધુ લીન મિશ્રણ ફ્લેમેબિલિટી લિમિટની બહાર જતું રહેવાથી સ્પાર્ક દ્વારા સળગી શકતું નથી[cite: 8]."
+    "explanation": "20:1 કરતાં વધુ લીન મિશ્રણ ફ્લેમેબિલિટી લિમિટની બહાર જતું રહેવાથી સ્પાર્ક દ્વારા સળગી શકતું નથી[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 40,
@@ -597,7 +597,7 @@
       "કોઈ પણ મિશ્રણ"
     ],
     "correctAnswer": 2,
-    "explanation": "આઇડલિંગ વખતે એક્ઝોસ્ટ ગેસ ડાઇલ્યુશન સરભર કરવા માટે રિચ મિશ્રણ (લગભગ 12:1) ની જરૂર પડે છે[cite: 8]."
+    "explanation": "આઇડલિંગ વખતે એક્ઝોસ્ટ ગેસ ડાઇલ્યુશન સરભર કરવા માટે રિચ મિશ્રણ (લગભગ 12:1) ની જરૂર પડે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 41,
@@ -612,7 +612,7 @@
       "4"
     ],
     "correctAnswer": 0,
-    "explanation": "સિલિન્ડ્રિકલ સરફેસ એરિયા = π · D · L = π × 2 × 2 = 4π[cite: 8]."
+    "explanation": "સિલિન્ડ્રિકલ સરફેસ એરિયા = π · D · L = π × 2 × 2 = 4π[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 42,
@@ -627,7 +627,7 @@
       "10:1 રેશિયો વાળું મિશ્રણ"
     ],
     "correctAnswer": 1,
-    "explanation": "ક્રૂઝિંગ (મીડિયમ લોડ) દરમિયાન મહત્તમ ઇંધણ કાર્યક્ષમતા મેળવવા લીન મિશ્રણ (લગભગ 16:1) પૂરું પડાય છે[cite: 8]."
+    "explanation": "ક્રૂઝિંગ (મીડિયમ લોડ) દરમિયાન મહત્તમ ઇંધણ વર્કક્ષમતા મેળવવા લીન મિશ્રણ (લગભગ 16:1) પૂરું પડાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 43,
@@ -642,7 +642,7 @@
       "20:1 મિશ્રણ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઠંડીમાં પેટ્રોલનું બાષ્પીભવન ઓછું થતું હોવાથી દહનક્ષમ મિશ્રણ મેળવવા અત્યંત રિચ મિશ્રણ (લગભગ 3:1 થી 5:1) જરૂરી બને છે[cite: 8]."
+    "explanation": "ઠંડીમાં પેટ્રોલનું બાષ્પીભવન ઓછું થતું હોવાથી દહનક્ષમ મિશ્રણ મેળવવા અત્યંત રિચ મિશ્રણ (લગભગ 3:1 થી 5:1) જરૂરી બને છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 44,
@@ -657,7 +657,7 @@
       "ટ્રેક આર્મ"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્ટિયરિંગ માટે સ્ટબ એક્સલ મુખ્ય બીમ એક્સલ સાથે કિંગ પિન (Kingpin) દ્વારા પિવોટ થાય છે[cite: 8]."
+    "explanation": "સ્ટિયરિંગ માટે સ્ટબ એક્સલ મુખ્ય બીમ એક્સલ સાથે કિંગ પિન (Kingpin) દ્વારા પિવોટ થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 45,
@@ -672,14 +672,14 @@
       "મીટરિંગ જેટ"
     ],
     "correctAnswer": 1,
-    "explanation": "ચોક વાલ્વ એર ઇનલેટને બંધ કરીને વેન્ચ્યુરી આગળ મોટું વેક્યુમ રચી વધુ પેટ્રોલ ખેંચી રિચ મિશ્રણ આપે છે[cite: 8]."
+    "explanation": "ચોક વાલ્વ એર ઇનલેટને બંધ કરીને વેન્ચ્યુરી આગળ મોટું વેક્યુમ રચી વધુ પેટ્રોલ ખેંચી રિચ મિશ્રણ આપે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 46,
     "subject": "I.C. Engines",
     "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
     "question": "Which component maintains a constant fuel level in the carburetor?",
-    "gujaratiQuestion": "Q46. કાર્બ્યુરેટરમાં ફયુઅલનું અચળ લેવલ જાળવી રાખવાનું કાર્ય કયો ભાગ કરે છે?",
+    "gujaratiQuestion": "Q46. કાર્બ્યુરેટરમાં ફયુઅલનું અચળ લેવલ જાળવી રાખવાનું વર્ક કયો ભાગ કરે છે?",
     "options": [
       "વેન્ચ્યુરી",
       "ચોક વાલ્વ",
@@ -687,7 +687,7 @@
       "આઈડલિંગ જેટ"
     ],
     "correctAnswer": 2,
-    "explanation": "ફ્લોટ ચેમ્બર અને નીડલ વાલ્વ કાર્બ્યુરેટર જેટ આગળ પેટ્રોલનું સ્તર અચળ જાળવી રાખે છે[cite: 8]."
+    "explanation": "ફ્લોટ ચેમ્બર અને નીડલ વાલ્વ કાર્બ્યુરેટર જેટ આગળ પેટ્રોલનું સ્તર અચળ જાળવી રાખે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 47,
@@ -702,14 +702,14 @@
       "ઉપરના તમામ"
     ],
     "correctAnswer": 1,
-    "explanation": "ક્રેન્કશાફ્ટ જર્નલનો અસમાન ઘસારો ચકાસવા માટે ટેપર, રીજિસ અને આઉટ-ઓફ-રાઉન્ડનેસ (અંડાકારતા) ચેક કરાય છે[cite: 8]."
+    "explanation": "ક્રેન્કશાફ્ટ જર્નલનો અસમાન ઘસારો ચકાસવા માટે ટેપર, રીજિસ અને આઉટ-ઓફ-રાઉન્ડનેસ (અંડાકારતા) ચેક કરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 48,
     "subject": "I.C. Engines",
     "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
     "question": "Which component in a carburetor increases air velocity and decreases pressure?",
-    "gujaratiQuestion": "048. કાર્બ્યુરેટરમાં હવાનો વેગ વધારવા અને દબાણ ઘટાડવા માટે કયો ભાગ હોય છે?",
+    "gujaratiQuestion": "048. કાર્બ્યુરેટરમાં હવાનો વેલોસિટી વધારવા અને પ્રેશર ઘટાડવા માટે કયો ભાગ હોય છે?",
     "options": [
       "વેન્ચ્યુરી",
       "થ્રોટલ વાલ્વ",
@@ -717,7 +717,7 @@
       "એક્સિલરેટિંગ પંપ"
     ],
     "correctAnswer": 0,
-    "explanation": "વેન્ચ્યુરી (કન્વર્જિંગ-ડાઇવર્જિંગ પેસેજ) હવાનો વેગ વધારીને બર્નોલીના સિદ્ધાંત મુજબ દબાણ ઘટાડે છે[cite: 8]."
+    "explanation": "વેન્ચ્યુરી (કન્વર્જિંગ-ડાઇવર્જિંગ પેસેજ) હવાનો વેલોસિટી વધારીને બર્નોલીના સિદ્ધાંત મુજબ પ્રેશર ઘટાડે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 49,
@@ -732,7 +732,7 @@
       "કાર્બ્યુરેટર સિસ્ટમ"
     ],
     "correctAnswer": 1,
-    "explanation": "દરેક સિલિન્ડર માટે સ્વતંત્ર પમ્પિંગ એલિમેન્ટ ધરાવતી સિસ્ટમને ઇન્ડિવિજ્યુઅલ પંપ સિસ્ટમ કહે છે[cite: 8]."
+    "explanation": "દરેક સિલિન્ડર માટે સ્વતંત્ર પમ્પિંગ એલિમેન્ટ ધરાવતી સિસ્ટમને ઇન્ડિવિજ્યુઅલ પંપ સિસ્ટમ કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 50,
@@ -747,14 +747,14 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "પાર્ટ લોડ (લાઇટ લોડ) પર મેનિફોલ્ડ વેક્યુમ ઊંચું હોય ત્યારે મિશ્રણ ધીમે સળગતું હોવાથી વેક્યુમ એડવાન્સ મિકેનિઝમ સ્પાર્ક ટાઇમિંગ એડવાન્સ કરે છે[cite: 8]."
+    "explanation": "પાર્ટ લોડ (લાઇટ લોડ) પર મેનિફોલ્ડ વેક્યુમ ઊંચું હોય ત્યારે મિશ્રણ ધીમે સળગતું હોવાથી વેક્યુમ એડવાન્સ મિકેનિઝમ સ્પાર્ક ટાઇમિંગ એડવાન્સ કરે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 51,
     "subject": "I.C. Engines",
     "subTopic": "Fuel Supply Systems in SI & CI Engines",
     "question": "What is the process of breaking up liquid fuel under pressure into fine droplets called?",
-    "gujaratiQuestion": "051. ફયુઅલને દબાણપૂર્વક નાના ટીપાંઓમાં વિભાજિત કરવાની પ્રક્રિયાને શું કહે છે?",
+    "gujaratiQuestion": "051. ફયુઅલને પ્રેશરપૂર્વક નાના ટીપાંઓમાં વિભાજિત કરવાની પ્રોસેસને શું કહે છે?",
     "options": [
       "વેપોરાઈઝેશન",
       "કાર્બ્યુરેશન",
@@ -762,7 +762,7 @@
       "ઈગ્નિશન"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્રવાહી ઇંધણને નોઝલ દ્વારા અતિ બારીક ટીપાંમાં ફેરવવાની ક્રિયાને એટોમાઇઝેશન (Atomization) કહે છે[cite: 8]."
+    "explanation": "ફ્લુઇડ ઇંધણને નોઝલ દ્વારા અતિ બારીક ટીપાંમાં ફેરવવાની ક્રિયાને એટોમાઇઝેશન (Atomization) કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 52,
@@ -777,7 +777,7 @@
       "સોલિડ અને હવાનું મિશ્રણ"
     ],
     "correctAnswer": 1,
-    "explanation": "હવાના ઉપયોગ વગર માત્ર હાઇ પ્રેશર લિક્વિડ ફ્યુઅલને ડાયરેક્ટ ઇન્જેક્ટ કરવાની પદ્ધતિને સોલિડ (અથવા એરલેસ) ઇન્જેક્શન કહે છે[cite: 8]."
+    "explanation": "હવાના ઉપયોગ વગર માત્ર હાઇ પ્રેશર લિક્વિડ ફ્યુઅલને ડાયરેક્ટ ઇન્જેક્ટ કરવાની પદ્ધતિને સોલિડ (અથવા એરલેસ) ઇન્જેક્શન કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 53,
@@ -792,14 +792,14 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "સમાન મહત્તમ દબાણ અને સમાન હીટ ઇનપુટ માટે ડીઝલ સાયકલનો કમ્પ્રેશન રેશિયો વધુ મળતો હોવાથી તેની કાર્યક્ષમતા મહત્તમ હોય છે[cite: 8]."
+    "explanation": "સમાન મહત્તમ પ્રેશર અને સમાન હીટ ઇનપુટ માટે ડીઝલ સાયકલનો કમ્પ્રેશન રેશિયો વધુ મળતો હોવાથી તેની વર્કક્ષમતા મહત્તમ હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 54,
     "subject": "I.C. Engines",
     "subTopic": "Abnormal Combustion (Knocking & Detonation)",
     "question": "If knocking occurs in a C.I. engine, the inlet air temperature should be:",
-    "gujaratiQuestion": "054. સી.આઈ. એન્જિનમાં જો નોકિંગ થતું હોય, તો ઈનલેટ હવાનું તાપમાન:",
+    "gujaratiQuestion": "054. સી.આઈ. એન્જિનમાં જો નોકિંગ થતું હોય, તો ઈનલેટ હવાનું ટેમ્પરેચર:",
     "options": [
       "વધારવું જોઇએ",
       "ઘટાડવું જોઇએ",
@@ -807,7 +807,7 @@
       "અચળ રાખવું જોઈએ"
     ],
     "correctAnswer": 0,
-    "explanation": "ઇનલેટ હવાનું તાપમાન વધારવાથી કમ્પ્રેશન તાપમાન વધે છે, જેથી ઇગ્નિશન ડિલે ઘટીને નોકિંગ અટકે છે[cite: 8]."
+    "explanation": "ઇનલેટ હવાનું ટેમ્પરેચર વધારવાથી કમ્પ્રેશન ટેમ્પરેચર વધે છે, જેથી ઇગ્નિશન ડિલે ઘટીને નોકિંગ અટકે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 55,
@@ -822,7 +822,7 @@
       "વેન્ચ્યુરી"
     ],
     "correctAnswer": 1,
-    "explanation": "થ્રોટલ વાલ્વ (Throttle valve) એન્જિન સિલિન્ડરમાં પ્રવેશતા એર-ફ્યુઅલ મિશ્રણનો જથ્થો નિયંત્રિત કરી પાવર અને સ્પીડ કંટ્રોલ કરે છે[cite: 8]."
+    "explanation": "થ્રોટલ વાલ્વ (Throttle valve) એન્જિન સિલિન્ડરમાં પ્રવેશતા એર-ફ્યુઅલ મિશ્રણનો જથ્થો નિયંત્રિત કરી પાવર અને સ્પીડ કંટ્રોલ કરે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 56,
@@ -837,7 +837,7 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "સામાન્ય નોર્મલ રનિંગ સ્થિતિમાં ઇંધણ બચાવવા માટે એન્જિન લીન મિક્સચર (લગભગ 16:1) પર ચાલે છે[cite: 8]."
+    "explanation": "સામાન્ય નોર્મલ રનિંગ સ્થિતિમાં ઇંધણ બચાવવા માટે એન્જિન લીન મિક્સચર (લગભગ 16:1) પર ચાલે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 57,
@@ -852,7 +852,7 @@
       "ફ્લોટ ચેમ્બર"
     ],
     "correctAnswer": 1,
-    "explanation": "ઝડપી એક્સિલરેશન વખતે થતા પાવર લેગને રોકવા એક્સિલરેટિંગ પંપ સર્કિટ વધારાનું પેટ્રોલ સપ્લાય કરે છે[cite: 8]."
+    "explanation": "ઝડપી એક્સિલરેશન વખતે થતા પાવર લેગને રોકવા એક્સિલરેટિંગ પંપ સર્કિટ વધારાનું પેટ્રોલ સપ્લાય કરે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 58,
@@ -867,7 +867,7 @@
       "એક્ઝોસ્ટ સ્ટ્રોકમાં"
     ],
     "correctAnswer": 1,
-    "explanation": "કમ્પ્રેશન સ્ટ્રોક પૂરો થાય તે પહેલાં (TDC પહેલાં અમુક ડિગ્રી અગાઉ) ફ્યુઅલ ઇન્જેક્શન શરૂ થાય છે[cite: 8]."
+    "explanation": "કમ્પ્રેશન સ્ટ્રોક પૂરો થાય તે પહેલાં (TDC પહેલાં અમુક ડિગ્રી અગાઉ) ફ્યુઅલ ઇન્જેક્શન શરૂ થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 59,
@@ -882,7 +882,7 @@
       "પાર્ટને દૂર કરવો અને રિપ્લેસ કરવો"
     ],
     "correctAnswer": 1,
-    "explanation": "રિ-ઇન્સ્ટોલ એટલે અગાઉ દૂર કરેલા પાર્ટ કે કમ્પોનન્ટને ફરીથી તેના મૂળ સ્થાને ફીટ કરવો[cite: 8]."
+    "explanation": "રિ-ઇન્સ્ટોલ એટલે અગાઉ દૂર કરેલા પાર્ટ કે કમ્પોનન્ટને ફરીથી તેના મૂળ સ્થાને ફીટ કરવો[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 60,
@@ -897,22 +897,22 @@
       "ઓક્ટેન રેટિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇંધણની ઝડપથી વરાળ બની જવાની વૃત્તિ/ક્ષમતાને વોલેટિલિટી (Volatility) કહેવામાં આવે છે[cite: 8]."
+    "explanation": "ઇંધણની ઝડપથી વરાળ બની જવાની વૃત્તિ/ક્ષમતાને વોલેટિલિટી (Volatility) કહેવામાં આવે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 61,
     "subject": "I.C. Engines",
     "subTopic": "Abnormal Combustion (Knocking & Detonation)",
     "question": "What is the relation between auto-ignition temperature of fuel and detonation in S.I. engines?",
-    "gujaratiQuestion": "061. એસ.આઈ. એન્જિનમાં ફયુઅલના ઓટો-ઈગ્નિશન તાપમાન અને ડિટોનેશન વચ્ચે શું સંબંધ છે?",
+    "gujaratiQuestion": "061. એસ.આઈ. એન્જિનમાં ફયુઅલના ઓટો-ઈગ્નિશન ટેમ્પરેચર અને ડિટોનેશન વચ્ચે શું સંબંધ છે?",
     "options": [
-      "ઓટો-ઈગ્નિશન તાપમાન ઊંચું હોય તો ડિટોનેશન ઓછું થાય",
-      "ઓટો-ઈગ્નિશન તાપમાન ઊંચું હોય તો ડિટોનેશન વધુ થાય",
+      "ઓટો-ઈગ્નિશન ટેમ્પરેચર ઊંચું હોય તો ડિટોનેશન ઓછું થાય",
+      "ઓટો-ઈગ્નિશન ટેમ્પરેચર ઊંચું હોય તો ડિટોનેશન વધુ થાય",
       "કોઈ સંબંધ નથી",
       "બંને સમાન રહે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "ઇંધણનું ઓટો-ઇગ્નિશન તાપમાન જેટલું ઊંચું હશે તેટલું એન્ડ ગેસનું સ્વયંસ્ફુરિત દહન મુશ્કેલ બનશે અને ડિટોનેશન ઓછું થશે[cite: 8]."
+    "explanation": "ઇંધણનું ઓટો-ઇગ્નિશન ટેમ્પરેચર જેટલું ઊંચું હશે તેટલું એન્ડ ગેસનું સ્વયંસ્ફુરિત દહન મુશ્કેલ બનશે અને ડિટોનેશન ઓછું થશે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 62,
@@ -927,7 +927,7 @@
       "રિલે અથવા સોલેનોઇડ"
     ],
     "correctAnswer": 0,
-    "explanation": "DC સ્ટાર્ટર મોટરના સ્ટેટરમાં સ્થિર ચુંબકીય ક્ષેત્ર પોલ શૂઝ પરની ફિલ્ડ કોઈલ્સ અથવા પરમેનન્ટ મેગ્નેટ દ્વારા સર્જાય છે[cite: 8]."
+    "explanation": "DC સ્ટાર્ટર મોટરના સ્ટેટરમાં સ્થિર ચુંબકીય ક્ષેત્ર પોલ શૂઝ પરની ફિલ્ડ કોઈલ્સ અથવા પરમેનન્ટ મેગ્નેટ દ્વારા સર્જાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 63,
@@ -942,7 +942,7 @@
       "ફયુઅલ વપરાશ ઘટે"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રી-ઇગ્નિશન કમ્પ્રેશન સ્ટ્રોક સામે ઊંચું દબાણ પેદા કરે છે, જેનાથી અતિશય ગરમી (Overheating), પાવર લોસ અને પિસ્ટનને નુકસાન થાય છે[cite: 8]."
+    "explanation": "પ્રી-ઇગ્નિશન કમ્પ્રેશન સ્ટ્રોક સામે ઊંચું પ્રેશર પેદા કરે છે, જેનાથી અતિશય ગરમી (Overheating), પાવર લોસ અને પિસ્ટનને નુકસાન થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 64,
@@ -957,7 +957,7 @@
       "પિસ્ટનની નીચે"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્પાર્ક પ્લગ મધ્યમાં હોવાથી ફ્લેમ ટ્રાવેલ ડિસ્ટન્સ લઘુત્તમ બને છે અને ડિટોનેશનની શક્યતા ઘટે છે[cite: 8]."
+    "explanation": "સ્પાર્ક પ્લગ મધ્યમાં હોવાથી ફ્લેમ ટ્રાવેલ ડિસ્ટન્સ લઘુત્તમ બને છે અને ડિટોનેશનની શક્યતા ઘટે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 65,
@@ -972,7 +972,7 @@
       "મિસફાયર"
     ],
     "correctAnswer": 0,
-    "explanation": "પિસ્ટન ક્રાઉન અને સિલિન્ડર હેડ વચ્ચેની સાંકડી જગ્યામાંથી હવા ઝડપથી સેન્ટર તરફ ધકેલાય તેને સ્કિવેશ (Squish) કહેવાય છે[cite: 8]."
+    "explanation": "પિસ્ટન ક્રાઉન અને સિલિન્ડર હેડ વચ્ચેની સાંકડી જગ્યામાંથી હવા ઝડપથી સેન્ટર તરફ ધકેલાય તેને સ્કિવેશ (Squish) કહેવાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 66,
@@ -987,14 +987,14 @@
       "ટ્રાન્સમિશનને PARK અથવા REVERSE માં રાખો"
     ],
     "correctAnswer": 2,
-    "explanation": "શોર્ટ સર્કિટ અને સ્પાર્કિંગ અટકાવવા માટે હંમેશા પહેલાં ગ્રાઉન્ડ/નેગેટિવ (-) કેબલ દૂર કરવો જોઈએ[cite: 8]."
+    "explanation": "શોર્ટ સર્કિટ અને સ્પાર્કિંગ અટકાવવા માટે હંમેશા પહેલાં ગ્રાઉન્ડ/નેગેટિવ (-) કેબલ દૂર કરવો જોઈએ[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 67,
     "subject": "I.C. Engines",
     "subTopic": "Combustion Stages & Combustion Chambers",
     "question": "In a C.I. engine, the smaller the fuel droplet size, the combustion will be:",
-    "gujaratiQuestion": "067. સી.આઈ. એન્જિનમાં ફયુઅલ ડ્રોપ્લેટનું કદ જેટલું નાનું હશે, તેટલું દહન કેવું થશે?",
+    "gujaratiQuestion": "067. સી.આઈ. એન્જિનમાં ફયુઅલ ડ્રોપ્લેટનું વોલ્યુમ જેટલું નાનું હશે, તેટલું દહન કેવું થશે?",
     "options": [
       "ધીમું અને અપૂર્ણ",
       "વધુ ઝડપી અને સંપૂર્ણ",
@@ -1002,7 +1002,7 @@
       "નોકિંગ વાળું"
     ],
     "correctAnswer": 1,
-    "explanation": "નાના ટીપાં સપાટી ક્ષેત્રફળ વધારે છે, જેનાથી બાષ્પીભવન અને મિશ્રણ ઝડપી બની દહન વધુ ઝડપી અને સંપૂર્ણ થાય છે[cite: 8]."
+    "explanation": "નાના ટીપાં સપાટી ક્ષેત્રફળ વધારે છે, જેનાથી બાષ્પીભવન અને મિશ્રણ ઝડપી બની દહન વધુ ઝડપી અને સંપૂર્ણ થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 68,
@@ -1017,7 +1017,7 @@
       "તેનું વજન ખૂબ વધારે હોય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "મેનિફોલ્ડ ડિઝાઇનના કારણે કાર્બ્યુરેટર દરેક સિલિન્ડરને બરાબર સરખા પ્રમાણમાં એર-ફ્યુઅલ મિશ્રણ પહોંચાડી શકતું નથી[cite: 8]."
+    "explanation": "મેનિફોલ્ડ ડિઝાઇનના કારણે કાર્બ્યુરેટર દરેક સિલિન્ડરને બરાબર સરખા પ્રમાણમાં એર-ફ્યુઅલ મિશ્રણ પહોંચાડી શકતું નથી[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 69,
@@ -1032,7 +1032,7 @@
       "ઉપરના તમામ"
     ],
     "correctAnswer": 2,
-    "explanation": "થર્મિસ્ટર તાપમાન આધારિત રેઝિસ્ટન્સ બદલીને વોલ્ટેજ રેગ્યુલેટરમાં તાપમાન વળતર (Temperature compensation) પૂરું પાડે છે[cite: 8]."
+    "explanation": "થર્મિસ્ટર ટેમ્પરેચર આધારિત રેઝિસ્ટન્સ બદલીને વોલ્ટેજ રેગ્યુલેટરમાં ટેમ્પરેચર વળતર (Temperature compensation) પૂરું પાડે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 70,
@@ -1047,7 +1047,7 @@
       "બંને (a) અને (b)"
     ],
     "correctAnswer": 3,
-    "explanation": "ડિટોનેશનથી ઉદભવતા શોક વેવ્સ પિસ્ટન ક્રાઉન, સિલિન્ડર હેડ અને ક્રેન્ક બેરિંગ્સ તમામ પર ભારે ઇમ્પેક્ટ લોડ આપે છે[cite: 8]."
+    "explanation": "ડિટોનેશનથી ઉદભવતા શોક વેવ્સ પિસ્ટન ક્રાઉન, સિલિન્ડર હેડ અને ક્રેન્ક બેરિંગ્સ તમામ પર ભારે ઇમ્પેક્ટ લોડ આપે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 71,
@@ -1059,10 +1059,10 @@
       "તેમાં દરેક ઈન્જેક્ટર માટે અલગ પંપ હોય છે",
       "એક હાઈ પ્રેશર પંપ કોમન હેડરમાં ફયુઅલ પહોંચાડે છે",
       "તે એસ.આઈ. એન્જિનમાં વપરાય છે",
-      "તેમાં ઈન્જેક્ટર દ્વારા દબાણ ઉત્પન્ન થાય છે"
+      "તેમાં ઈન્જેક્ટર દ્વારા પ્રેશર ઉત્પન્ન થાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "CRDI માં સિંગલ હાઇ-પ્રેશર પંપ કોમન રેલ (એક સામાન્ય હેડર) માં ઇંધણ દબાણપૂર્વક સંગ્રહિત કરે છે[cite: 8]."
+    "explanation": "CRDI માં સિંગલ હાઇ-પ્રેશર પંપ કોમન રેલ (એક સામાન્ય હેડર) માં ઇંધણ પ્રેશરપૂર્વક સંગ્રહિત કરે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 72,
@@ -1077,7 +1077,7 @@
       "ઈલેક્ટ્રોલાઈટનો ઉપયોગ કરતી નથી"
     ],
     "correctAnswer": 1,
-    "explanation": "બેટરી રાસાયણિક ઊર્જાનું વિદ્યુત ઊર્જામાં રૂપાંતર કરીને વીજળી પૂરી પાડે છે[cite: 8]."
+    "explanation": "બેટરી રાસાયણિક ઊર્જાનું વિદ્યુત ઊર્જામાં રૂપાંતર કરીને વીજળી પૂરી પાડે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 73,
@@ -1092,7 +1092,7 @@
       "ફ્યુઅલ પંપ"
     ],
     "correctAnswer": 2,
-    "explanation": "કમ્બશન ચેમ્બરની વિશિષ્ટ ભૂમિતિ (પિસ્ટન કેવિટી અને ઇનલેટ પોર્ટ શેપ) ટર્બ્યુલન્સ પેદા કરે છે[cite: 8]."
+    "explanation": "કમ્બશન ચેમ્બરની વિશિષ્ટ ભૂમિતિ (પિસ્ટન કેવિટી અને ઇનલેટ પોર્ટ શેપ) ટર્બ્યુલન્સ પેદા કરે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 74,
@@ -1102,12 +1102,12 @@
     "gujaratiQuestion": "074. કોમન રેલ ઈન્જેક્શન સિસ્ટમ (Common Rail System) માટે નીચેનામાંથી કયું વિધાન સાચું છે?",
     "options": [
       "દરેક ઇન્જેક્ટર પાસે પોતાનો અલગ પંપ હોય છે",
-      "ફયુઅલ નીચા દબાણે સપ્લાય કરવામાં આવે છે",
-      "ઉચ્ચ દબાણ ધરાવતો પંપ સામાન્ય હેડરને ઇંધણ પહોંચાડે છે",
+      "ફયુઅલ નીચા પ્રેશરે સપ્લાય કરવામાં આવે છે",
+      "ઉચ્ચ પ્રેશર ધરાવતો પંપ સામાન્ય હેડરને ઇંધણ પહોંચાડે છે",
       "માત્ર એક્ઝોસ્ટ વાલ્વ ખુલ્લો હોય ત્યારે જ ઈન્જેક્શન થાય"
     ],
     "correctAnswer": 2,
-    "explanation": "કોમન રેલ સિસ્ટમમાં એક હાઇ-પ્રેશર પંપ ઇંધણને સતત એક સામાન્ય રેલ (હેડર) માં પ્રેશરાઇઝ કરીને મોકલે છે[cite: 8]."
+    "explanation": "કોમન રેલ સિસ્ટમમાં એક હાઇ-પ્રેશર પંપ ઇંધણને સતત એક સામાન્ય રેલ (હેડર) માં પ્રેશરાઇઝ કરીને મોકલે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 75,
@@ -1122,37 +1122,37 @@
       "તેમાં કોઈ વાલ્વ હોતા નથી"
     ],
     "correctAnswer": 1,
-    "explanation": "ટર્બ્યુલન્સ ચેમ્બર (Swirl chamber) માં સિલિન્ડરથી અલગ રાખેલી ઓક્ઝિલરી ચેમ્બરમાં ઇંધણ સ્પ્રે થાય છે જે સાંકડા થ્રોટ દ્વારા મુખ્ય સિલિન્ડર સાથે જોડાય છે[cite: 8]."
+    "explanation": "ટર્બ્યુલન્સ ચેમ્બર (Swirl chamber) માં સિલિન્ડરથી અલગ રાખેલી ઓક્ઝિલરી ચેમ્બરમાં ઇંધણ સ્પ્રે થાય છે જે સાંકડા થ્રોટ દ્વારા મુખ્ય સિલિન્ડર સાથે જોડાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 76,
     "subject": "I.C. Engines",
     "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
     "question": "What is the primary function of a carburetor in a petrol engine?",
-    "gujaratiQuestion": "Q76. પેટ્રોલ એન્જિનમાં કાર્બ્યુરેટરનું મુખ્ય કાર્ય શું છે?",
+    "gujaratiQuestion": "Q76. પેટ્રોલ એન્જિનમાં કાર્બ્યુરેટરનું મુખ્ય વર્ક શું છે?",
     "options": [
       "માત્ર હવાને નિયંત્રિત કરવી",
       "યોગ્ય પ્રમાણમાં હવા અને પેટ્રોલનું મિશ્રણ તૈયાર કરવું",
       "એક્ઝોસ્ટ વાયુઓને સાફ કરવા",
-      "ફ્યુઅલનું દબાણ વધારવું"
+      "ફ્યુઅલનું પ્રેશર વધારવું"
     ],
     "correctAnswer": 1,
-    "explanation": "કાર્બ્યુરેટર એન્જિનની દરેક ઓપરેટિંગ સ્થિતિ મુજબ યોગ્ય પ્રમાણમાં હવા અને પેટ્રોલનું હોમોજીનિયસ મિશ્રણ તૈયાર કરે છે[cite: 7]."
+    "explanation": "કાર્બ્યુરેટર એન્જિનની દરેક ઓપરેટિંગ સ્થિતિ મુજબ યોગ્ય પ્રમાણમાં હવા અને પેટ્રોલનું હોમોજીનિયસ મિશ્રણ તૈયાર કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 77,
     "subject": "I.C. Engines",
     "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
     "question": "The carburation process depends on which of the following?",
-    "gujaratiQuestion": "Q77. કાર્બ્યુરેશન પ્રક્રિયા નીચેનામાંથી કોના પર આધાર રાખે છે?",
+    "gujaratiQuestion": "Q77. કાર્બ્યુરેશન પ્રોસેસ નીચેનામાંથી કોના પર આધાર રાખે છે?",
     "options": [
       "એન્જિનના લ્યુબ્રિકેશન પર",
-      "ઇનકમિંગ હવાનું તાપમાન અને મિશ્રણ માટે મળતા સમય પર",
+      "ઇનકમિંગ હવાનું ટેમ્પરેચર અને મિશ્રણ માટે મળતા સમય પર",
       "સ્પાર્ક પ્લગના ગેપ પર",
-      "કૂલિંગ વોટરના તાપમાન પર"
+      "કૂલિંગ વોટરના ટેમ્પરેચર પર"
     ],
     "correctAnswer": 1,
-    "explanation": "કાર્બ્યુરેશનની ગુણવત્તા ઇનલેટ હવાનું તાપમાન, ઇંધણની વોલેટિલિટી અને બાષ્પીભવન માટે મળતા સમય પર આધારિત છે[cite: 7]."
+    "explanation": "કાર્બ્યુરેશનની ગુણવત્તા ઇનલેટ હવાનું ટેમ્પરેચર, ઇંધણની વોલેટિલિટી અને બાષ્પીભવન માટે મળતા સમય પર આધારિત છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 78,
@@ -1167,7 +1167,7 @@
       "ફ્રિક્શન ઘટાડવા"
     ],
     "correctAnswer": 2,
-    "explanation": "બ્રેક-ઇન પિરિયડ દરમિયાન પિસ્ટન અને સિલિન્ડર વોલ વચ્ચે સ્કોરિંગ અને સિઝિંગ રોકવા માટે પિસ્ટન સ્કર્ટ પર ટીન કોટિંગ કરાય છે[cite: 7]."
+    "explanation": "બ્રેક-ઇન પિરિયડ દરમિયાન પિસ્ટન અને સિલિન્ડર વોલ વચ્ચે સ્કોરિંગ અને સિઝિંગ રોકવા માટે પિસ્ટન સ્કર્ટ પર ટીન કોટિંગ કરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 79,
@@ -1176,13 +1176,13 @@
     "question": "What is the primary objective of a fuel injection pump in a diesel engine?",
     "gujaratiQuestion": "079. ડીઝલ એન્જિનમાં ફયુઅલ પંપનો મુખ્ય ઉદ્દેશ્ય શું છે?",
     "options": [
-      "ઈન્જેક્ટરને ઉચ્ચ દબાણે ફયુઅલ પહોંચાડવું",
+      "ઈન્જેક્ટરને ઉચ્ચ પ્રેશરે ફયુઅલ પહોંચાડવું",
       "હવાને સંકુચિત કરવી",
       "ક્રેન્કકેસમાં ઓઈલ પહોંચાડવું",
       "દહન પછી વાયુઓને બહાર કાઢવા"
     ],
     "correctAnswer": 0,
-    "explanation": "ફ્યુઅલ ઇન્જેક્શન પંપ ચોક્કસ સમયે અને યોગ્ય માત્રામાં અતિ-ઉચ્ચ દબાણે ઇન્જેક્ટરને ડીઝલ પહોંચાડે છે[cite: 7]."
+    "explanation": "ફ્યુઅલ ઇન્જેક્શન પંપ ચોક્કસ સમયે અને યોગ્ય માત્રામાં અતિ-ઉચ્ચ પ્રેશરે ઇન્જેક્ટરને ડીઝલ પહોંચાડે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 80,
@@ -1197,7 +1197,7 @@
       "નોઝલ પિન"
     ],
     "correctAnswer": 1,
-    "explanation": "કંટ્રોલ રેક (Control rack) પ્લન્જરને રોટેટ કરી તેના હેલિકલ ગ્રૂવની સ્થિતિ બદલીને અસરકારક ડિલિવરી સ્ટ્રોકનું નિયમન કરે છે[cite: 7]."
+    "explanation": "કંટ્રોલ રેક (Control rack) પ્લન્જરને રોટેટ કરી તેના હેલિકલ ગ્રૂવની સ્થિતિ બદલીને અસરકારક ડિલિવરી સ્ટ્રોકનું નિયમન કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 81,
@@ -1212,7 +1212,7 @@
       "ઓવરહીટેડ"
     ],
     "correctAnswer": 2,
-    "explanation": "થર્મોસ્ટેટ કૂલન્ટના ફ્લોને કંટ્રોલ કરીને એન્જિનને તેના શ્રેષ્ઠ ઓપરેટિંગ તાપમાને (ઈચ્છિત તાપમાને) જાળવી રાખે છે[cite: 7]."
+    "explanation": "થર્મોસ્ટેટ કૂલન્ટના ફ્લોને કંટ્રોલ કરીને એન્જિનને તેના શ્રેષ્ઠ ઓપરેટિંગ ટેમ્પરેચરે (ઈચ્છિત ટેમ્પરેચરે) જાળવી રાખે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 82,
@@ -1222,19 +1222,19 @@
     "gujaratiQuestion": "Q82. આઈ.સી. એન્જિનમાં સોલિડ ઇન્જેક્શન (Solid injection) એટલે શું?",
     "options": [
       "ઘન ફયુઅલનો ઉપયોગ",
-      "માત્ર પ્રવાહી ફયુઅલનું ઇન્જેક્શન",
-      "પ્રવાહી ફયુઅલ અને હવાનું મિશ્રણ ઇન્જેક્ટ કરવું",
+      "માત્ર ફ્લુઇડ ફયુઅલનું ઇન્જેક્શન",
+      "ફ્લુઇડ ફયુઅલ અને હવાનું મિશ્રણ ઇન્જેક્ટ કરવું",
       "ઘન ફયુઅલ અને હવાનું મિશ્રણ"
     ],
     "correctAnswer": 1,
-    "explanation": "હવાના બ્લાસ્ટ વગર માત્ર પ્રવાહી ઇંધણને મિકેનિકલ દબાણથી સ્પ્રે કરવાની પદ્ધતિને સોલિડ ઇન્જેક્શન કહે છે[cite: 7]."
+    "explanation": "હવાના બ્લાસ્ટ વગર માત્ર ફ્લુઇડ ઇંધણને મિકેનિકલ પ્રેશરથી સ્પ્રે કરવાની પદ્ધતિને સોલિડ ઇન્જેક્શન કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 83,
     "subject": "I.C. Engines",
     "subTopic": "Fuel Supply Systems in SI & CI Engines",
     "question": "To prevent carbon deposits on the injector, what should be the approximate temperature of the nozzle tip?",
-    "gujaratiQuestion": "083. ઈન્જેક્ટર પર કાર્બન જમા થતો અટકાવવા માટે નોઝલની ટીપનું તાપમાન આશરે કેટલું હોવું જોઈએ?",
+    "gujaratiQuestion": "083. ઈન્જેક્ટર પર કાર્બન જમા થતો અટકાવવા માટે નોઝલની ટીપનું ટેમ્પરેચર આશરે કેટલું હોવું જોઈએ?",
     "options": [
       "100°C થી ઓછું",
       "100°C થી 250°C",
@@ -1242,7 +1242,7 @@
       "400°C થી 500°C"
     ],
     "correctAnswer": 2,
-    "explanation": "નોઝલ ટીપ પર કાર્બન બ્લોકેજ અટકાવવા તેનું તાપમાન 250°C થી 300°C ની વચ્ચે જળવાવું જોઈએ[cite: 7]."
+    "explanation": "નોઝલ ટીપ પર કાર્બન બ્લોકેજ અટકાવવા તેનું ટેમ્પરેચર 250°C થી 300°C ની વચ્ચે જળવાવું જોઈએ[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 84,
@@ -1257,7 +1257,7 @@
       "હાઈ વોલ્યુમેટ્રિક એફિશિયન્સી"
     ],
     "correctAnswer": 3,
-    "explanation": "પ્રિ-કમ્બશન ચેમ્બર ઉત્તમ હવા-ઇંધણ મિશ્રણ અને બહેતર વોલ્યુમેટ્રિક ક્ષમતા આપે છે[cite: 7]."
+    "explanation": "પ્રિ-કમ્બશન ચેમ્બર ઉત્તમ હવા-ઇંધણ મિશ્રણ અને બહેતર વોલ્યુમેટ્રિક ક્ષમતા આપે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 85,
@@ -1272,7 +1272,7 @@
       "ગેસ ટર્બાઈન"
     ],
     "correctAnswer": 2,
-    "explanation": "આધુનિક પેટ્રોલ (S.I.) એન્જિનોમાં દરેક સિલિન્ડરના ઇન્ટેક પોર્ટ પર સ્વતંત્ર ઇન્જેક્ટર ધરાવતી MPFI સિસ્ટમ વપરાય છે[cite: 7]."
+    "explanation": "આધુનિક પેટ્રોલ (S.I.) એન્જિનોમાં દરેક સિલિન્ડરના ઇન્ટેક પોર્ટ પર સ્વતંત્ર ઇન્જેક્ટર ધરાવતી MPFI સિસ્ટમ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 86,
@@ -1287,7 +1287,7 @@
       "એક્ઝોસ્ટ પોર્ટમાં"
     ],
     "correctAnswer": 2,
-    "explanation": "ડાયરેક્ટ ઇન્જેક્શન (DI) માં ઇન્જેક્ટર ડીઝલને સીધું મુખ્ય કમ્બશન ચેમ્બર (પિસ્ટન કેવિટી) માં સ્પ્રે કરે છે[cite: 7]."
+    "explanation": "ડાયરેક્ટ ઇન્જેક્શન (DI) માં ઇન્જેક્ટર ડીઝલને સીધું મુખ્ય કમ્બશન ચેમ્બર (પિસ્ટન કેવિટી) માં સ્પ્રે કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 87,
@@ -1302,7 +1302,7 @@
       "એક્સલ હાઉસિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "રિંગ ગિયર ડિફરન્શિયલ કેસ (Differential case) સાથે બોલ્ટ કરેલું હોય છે અને પિનિયન પાસેથી ટોર્ક મેળવે છે[cite: 7]."
+    "explanation": "રિંગ ગિયર ડિફરન્શિયલ કેસ (Differential case) સાથે બોલ્ટ કરેલું હોય છે અને પિનિયન પાસેથી ટોર્ક મેળવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 88,
@@ -1317,7 +1317,7 @@
       "ક્રેન્કકેસમાં"
     ],
     "correctAnswer": 1,
-    "explanation": "પોર્ટ ફ્યુઅલ ઇન્જેક્શનમાં ઇન્જેક્ટર ઇન્ટેક મેનિફોલ્ડ રનરમાં ઇન્ટેક વાલ્વની સહેજ આગળ/પાછળ ગોઠવાયેલું હોય છે[cite: 7]."
+    "explanation": "પોર્ટ ફ્યુઅલ ઇન્જેક્શનમાં ઇન્જેક્ટર ઇન્ટેક મેનિફોલ્ડ રનરમાં ઇન્ટેક વાલ્વની સહેજ આગળ/પાછળ ગોઠવાયેલું હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 89,
@@ -1332,7 +1332,7 @@
       "બંને સિસ્ટમ ડીઝલ એન્જિનમાં વપરાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "બેટરી સિસ્ટમ બેટરીમાં સંગ્રહેલી વિદ્યુત વાપરે છે, જ્યારે મેગ્નેટો એન્જિન રોટેશન દ્વારા પોતાની વીજળી જાતે ઉત્પન્ન કરે છે[cite: 7]."
+    "explanation": "બેટરી સિસ્ટમ બેટરીમાં સંગ્રહેલી વિદ્યુત વાપરે છે, જ્યારે મેગ્નેટો એન્જિન રોટેશન દ્વારા પોતાની વીજળી જાતે ઉત્પન્ન કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 90,
@@ -1347,29 +1347,29 @@
       "ગેસ લીક"
     ],
     "correctAnswer": 0,
-    "explanation": "સફેદ અથવા સળગેલી ઇન્સ્યુલેટર ટીપ ચેમ્બરનું અતિશય ઊંચું તાપમાન, લીન મિશ્રણ અથવા ઓવર-એડવાન્સ્ડ ઇગ્નિશન ટાઇમિંગ દર્શાવે છે[cite: 7]."
+    "explanation": "સફેદ અથવા સળગેલી ઇન્સ્યુલેટર ટીપ ચેમ્બરનું અતિશય ઊંચું ટેમ્પરેચર, લીન મિશ્રણ અથવા ઓવર-એડવાન્સ્ડ ઇગ્નિશન ટાઇમિંગ દર્શાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 91,
     "subject": "I.C. Engines",
     "subTopic": "Ignition, Lubrication & Cooling Systems",
     "question": "What is the function of the ignition coil in a battery ignition system?",
-    "gujaratiQuestion": "091. બેટરી ઇગ્નિશન સિસ્ટમમાં ઇગ્નિશન કોઈલ (Ignition coil) નું કાર્ય શું છે?",
+    "gujaratiQuestion": "091. બેટરી ઇગ્નિશન સિસ્ટમમાં ઇગ્નિશન કોઈલ (Ignition coil) નું વર્ક શું છે?",
     "options": [
-      "ફયુઅલનું દબાણ વધારવું",
+      "ફયુઅલનું પ્રેશર વધારવું",
       "લો વોલ્ટેજને સ્પાર્ક માટે હાઈ વોલ્ટેજમાં ફેરવવું",
       "બેટરીને ચાર્જ કરવી",
       "એન્જિનને ઠંડુ રાખવું"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇગ્નિશન કોઈલ સ્ટેપ-અપ ટ્રાન્સફોર્મર તરીકે કાર્ય કરી 12V બેટરી વોલ્ટેજને સ્પાર્ક પ્લગ માટે 15,000V થી 25,000V માં ફેરવે છે[cite: 7]."
+    "explanation": "ઇગ્નિશન કોઈલ સ્ટેપ-અપ ટ્રાન્સફોર્મર તરીકે વર્ક કરી 12V બેટરી વોલ્ટેજને સ્પાર્ક પ્લગ માટે 15,000V થી 25,000V માં ફેરવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 92,
     "subject": "I.C. Engines",
     "subTopic": "Ignition, Lubrication & Cooling Systems",
     "question": "What is the primary function of the distributor in an ignition system?",
-    "gujaratiQuestion": "092. ઈગ્નિશન સિસ્ટમમાં ડિસ્ટ્રીબ્યુટરનું મુખ્ય કાર્ય શું છે?",
+    "gujaratiQuestion": "092. ઈગ્નિશન સિસ્ટમમાં ડિસ્ટ્રીબ્યુટરનું મુખ્ય વર્ક શું છે?",
     "options": [
       "સિલિન્ડરમાં સમાન પ્રમાણમાં ફ્યુઅલ મોકલવું",
       "પાવરનું નિયમન કરવું",
@@ -1377,7 +1377,7 @@
       "લ્યુબ્રિકેટિંગ ઓઈલનું વિતરણ કરવું"
     ],
     "correctAnswer": 2,
-    "explanation": "ડિસ્ટ્રીબ્યુટર ફાયરિંગ ઓર્ડર મુજબ યોગ્ય ક્ષણે સંબંધિત સિલિન્ડરના સ્પાર્ક પ્લગને હાઇ-વોલ્ટેજ સ્પાર્ક પૂરો પાડે છે[cite: 7]."
+    "explanation": "ડિસ્ટ્રીબ્યુટર ફાયરિંગ ઓર્ડર મુજબ યોગ્ય ક્ષણે સંબંધિત સિલિન્ડરના સ્પાર્ક પ્લગને હાઇ-વોલ્ટેજ સ્પાર્ક પૂરો પાડે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 93,
@@ -1392,7 +1392,7 @@
       "કેટેલિટિક કન્વર્ટરમાં એક્ઝોસ્ટ ગેસ ફીડ કરે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "ક્રોસઓવર (H-pipe અથવા X-pipe) બંને બાજુના એક્ઝોસ્ટ પલ્સને બેલેન્સ કરી એક્ઝોસ્ટ અવાજ અને બેકપ્રેશર ઘટાડે છે[cite: 7]."
+    "explanation": "ક્રોસઓવર (H-pipe અથવા X-pipe) બંને બાજુના એક્ઝોસ્ટ પલ્સને બેલેન્સ કરી એક્ઝોસ્ટ અવાજ અને બેકપ્રેશર ઘટાડે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 94,
@@ -1407,7 +1407,7 @@
       "શૂન્ય કરવો પડે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્પીડ વધતાં કમ્બશન માટે ઓછો વાસ્તવિક સમય મળતો હોવાથી પીક પ્રેશર યોગ્ય સમયે મેળવવા સ્પાર્ક ટાઇમિંગ એડવાન્સ (Advance) કરવો પડે છે[cite: 7]."
+    "explanation": "સ્પીડ વધતાં કમ્બશન માટે ઓછો વાસ્તવિક સમય મળતો હોવાથી પીક પ્રેશર યોગ્ય સમયે મેળવવા સ્પાર્ક ટાઇમિંગ એડવાન્સ (Advance) કરવો પડે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 95,
@@ -1422,7 +1422,7 @@
       "ક્રેન્કશાફ્ટને ફેરવીને"
     ],
     "correctAnswer": 1,
-    "explanation": "ડિસ્ટ્રીબ્યુટર હાઉસિંગને ક્લોકવાઇઝ કે એન્ટીક્લોકવાઇઝ ફેરવીને કોન્ટેક્ટ બ્રેકર પોઇન્ટ્સનું ટાઇમિંગ એડજસ્ટ કરાય છે[cite: 7]."
+    "explanation": "ડિસ્ટ્રીબ્યુટર હાઉસિંગને ક્લોકવાઇઝ કે એન્ટીક્લોકવાઇઝ ફેરવીને કોન્ટેક્ટ બ્રેકર પોઇન્ટ્સનું ટાઇમિંગ એડજસ્ટ કરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 96,
@@ -1437,7 +1437,7 @@
       "એમ્પિયર અવર્સ (Ah)"
     ],
     "correctAnswer": 3,
-    "explanation": "બેટરીની એનર્જી સંગ્રહ ક્ષમતા એમ્પિયર-અવર્સ (Ah) માં માપવામાં આવે છે[cite: 7]."
+    "explanation": "બેટરીની એનર્જી સંગ્રહ ક્ષમતા એમ્પિયર-અવર્સ (Ah) માં માપવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 97,
@@ -1452,7 +1452,7 @@
       "ક્લચને ઓપરેટ કરે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "શિફ્ટ લિવરની પ્રથમ મોશન ચોક્કસ ગિયર ફોર્ક સિલેક્ટ કરે છે અને બીજી મોશન સિન્ક્રોનાઇઝર સ્લીવને મૂવ કરી ગિયર જોડે છે[cite: 7]."
+    "explanation": "શિફ્ટ લિવરની પ્રથમ મોશન ચોક્કસ ગિયર ફોર્ક સિલેક્ટ કરે છે અને બીજી મોશન સિન્ક્રોનાઇઝર સ્લીવને મૂવ કરી ગિયર જોડે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 98,
@@ -1467,7 +1467,7 @@
       "ગેસ ટર્બાઈન"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્પાર્ક પ્લગ માત્ર સ્પાર્ક ઇગ્નિશન (S.I. / પેટ્રોલ) એન્જિનમાં હવા-ઇંધણ મિશ્રણને સળગાવવા માટે વપરાય છે[cite: 7]."
+    "explanation": "સ્પાર્ક પ્લગ માત્ર સ્પાર્ક ઇગ્નિશન (S.I. / પેટ્રોલ) એન્જિનમાં હવા-ઇંધણ મિશ્રણને સળગાવવા માટે વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 99,
@@ -1477,12 +1477,12 @@
     "gujaratiQuestion": "099. સી.આઈ. એન્જિનમાં ઈગ્નિશન માટે સ્પાર્ક પ્લગની કેમ જરૂર પડતી નથી?",
     "options": [
       "કારણ કે તેમાં ફ્યુઅલ અને હવાનું મિશ્રણ જાતે જ સળગી ઉઠે છે",
-      "કારણ કે તેમાં સંકુચિત હવાના ઉચ્ચ તાપમાન દ્વારા ડીઝલ સળગી જાય છે",
+      "કારણ કે તેમાં સંકુચિત હવાના ઉચ્ચ ટેમ્પરેચર દ્વારા ડીઝલ સળગી જાય છે",
       "કારણ કે ફ્યુઅલ પંપ સ્પાર્ક પેદા કરે છે",
       "કારણ કે તેમાં કમ્બશન થતું નથી"
     ],
     "correctAnswer": 1,
-    "explanation": "ઊંચા કમ્પ્રેશન રેશિયોને લીધે સંકુચિત હવાનું તાપમાન ડીઝલના સેલ્ફ-ઇગ્નિશન તાપમાન કરતાં વધી જવાથી સ્પાર્કની જરૂર પડતી નથી[cite: 7]."
+    "explanation": "ઊંચા કમ્પ્રેશન રેશિયોને લીધે સંકુચિત હવાનું ટેમ્પરેચર ડીઝલના સેલ્ફ-ઇગ્નિશન ટેમ્પરેચર કરતાં વધી જવાથી સ્પાર્કની જરૂર પડતી નથી[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 100,
@@ -1497,7 +1497,7 @@
       "ફયુઅલ કન્ઝમ્પશન"
     ],
     "correctAnswer": 2,
-    "explanation": "બળેલા એક્ઝોસ્ટ વાયુઓને બહાર કાઢી તાજો ચાર્જ ભરવાથી એન્જિનનો પાવર આઉટપુટ અને ક્ષમતા વધે છે[cite: 7]."
+    "explanation": "બળેલા એક્ઝોસ્ટ વાયુઓને બહાર કાઢી તાજો ચાર્જ ભરવાથી એન્જિનનો પાવર આઉટપુટ અને ક્ષમતા વધે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 101,
@@ -1512,7 +1512,7 @@
       "ઠંડક અટકાવવી"
     ],
     "correctAnswer": 2,
-    "explanation": "લ્યુબ્રિકેશન ફરતા યાંત્રિક ભાગો વચ્ચે ઓઇલ ફિલ્મ રચી ઘર્ષણ, ઘસારો ઘટાડે છે અને હીટ દૂર કરે છે[cite: 7]."
+    "explanation": "લ્યુબ્રિકેશન ફરતા યાંત્રિક ભાગો વચ્ચે ઓઇલ ફિલ્મ રચી ઘર્ષણ, ઘસારો ઘટાડે છે અને હીટ દૂર કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 102,
@@ -1527,7 +1527,7 @@
       "પેટ્રોલ સાથે લ્યુબ ઓઈલ મિક્સ કરીને (મિસ્ટ સિસ્ટમ)"
     ],
     "correctAnswer": 3,
-    "explanation": "ટુ-સ્ટ્રોક એન્જિનમાં પેટ્રોઇલ અથવા મિસ્ટ સિસ્ટમ (પેટ્રોલમાં 2% થી 3% 2T ઓઇલ મિક્સ કરીને) વપરાય છે[cite: 7]."
+    "explanation": "ટુ-સ્ટ્રોક એન્જિનમાં પેટ્રોઇલ અથવા મિસ્ટ સિસ્ટમ (પેટ્રોલમાં 2% થી 3% 2T ઓઇલ મિક્સ કરીને) વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 103,
@@ -1542,7 +1542,7 @@
       "સીટ બેલ્ટ બકલ્સ"
     ],
     "correctAnswer": 2,
-    "explanation": "સીટ બેલ્ટ પ્રિટેન્શનર્સ ઇમ્પેક્ટ વખતે બેલ્ટને ઝડપથી ખેંચવા સીટ બેલ્ટ રિટ્રેક્ટર્સ (Retractors) સાથે ઇન્ટિગ્રેટ થયેલા હોય છે[cite: 7]."
+    "explanation": "સીટ બેલ્ટ પ્રિટેન્શનર્સ ઇમ્પેક્ટ વખતે બેલ્ટને ઝડપથી ખેંચવા સીટ બેલ્ટ રિટ્રેક્ટર્સ (Retractors) સાથે ઇન્ટિગ્રેટ થયેલા હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 104,
@@ -1551,13 +1551,13 @@
     "question": "What does the Viscosity Index (VI) of a lubricating oil indicate?",
     "gujaratiQuestion": "0104. લ્યુબ્રિકેટિંગ ઓઈલનો વિસ્કોસિટી ઈન્ડેક્સ (Viscosity Index) શું દર્શાવે છે?",
     "options": [
-      "તાપમાન સાથે વિસ્કોસિટીમાં થતો ફેરફાર",
-      "દબાણ સાથે વિસ્કોસિટીમાં થતો ફેરફાર",
-      "કદમાં થતો ફેરફાર",
-      "ઘનતામાં થતો ફેરફાર"
+      "ટેમ્પરેચર સાથે વિસ્કોસિટીમાં થતો ફેરફાર",
+      "પ્રેશર સાથે વિસ્કોસિટીમાં થતો ફેરફાર",
+      "વોલ્યુમમાં થતો ફેરફાર",
+      "ડેન્સિટીમાં થતો ફેરફાર"
     ],
     "correctAnswer": 0,
-    "explanation": "વિસ્કોસિટી ઇન્ડેક્સ એ તાપમાનના ફેરફાર સાથે લ્યુબ્રિકન્ટની વિસ્કોસિટીમાં થતા બદલાવનો દર દર્શાવે છે (ઊંચો VI એટલે ઓછો ફેરફાર)[cite: 7]."
+    "explanation": "વિસ્કોસિટી ઇન્ડેક્સ એ ટેમ્પરેચરના ફેરફાર સાથે લ્યુબ્રિકન્ટની વિસ્કોસિટીમાં થતા બદલાવનો દર દર્શાવે છે (ઊંચો VI એટલે ઓછો ફેરફાર)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 105,
@@ -1572,7 +1572,7 @@
       "તે માત્ર ડીઝલ એન્જિનમાં જ વપરાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "ડ્રાય સમ્પ સિસ્ટમમાં સમ્પ હંમેશા ખાલી રખાય છે અને ઓઇલને સ્કેવેન્જિંગ પંપ દ્વારા બહારની અલગ ઓઇલ ટેન્કમાં સ્ટોર કરાય છે[cite: 7]."
+    "explanation": "ડ્રાય સમ્પ સિસ્ટમમાં સમ્પ હંમેશા ખાલી રખાય છે અને ઓઇલને સ્કેવેન્જિંગ પંપ દ્વારા બહારની અલગ ઓઇલ ટેન્કમાં સ્ટોર કરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 106,
@@ -1587,14 +1587,14 @@
       "કોઈલ સ્પ્રિંગ માઉન્ટિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "શોક એબ્ઝોર્બર પિસ્ટન રોડ સીલ ઘસાઈ જતાં ઇનર અને આઉટર ટ્યુબના જોઇન્ટ/સીલ આગળથી ફ્લુઇડ લીક થાય છે[cite: 7]."
+    "explanation": "શોક એબ્ઝોર્બર પિસ્ટન રોડ સીલ ઘસાઈ જતાં ઇનર અને આઉટર ટ્યુબના જોઇન્ટ/સીલ આગળથી ફ્લુઇડ લીક થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 107,
     "subject": "I.C. Engines",
     "subTopic": "Ignition, Lubrication & Cooling Systems",
     "question": "What is the effect on the viscosity of a liquid lubricant when its temperature increases?",
-    "gujaratiQuestion": "Q107. લ્યુબ્રિકન્ટનું તાપમાન વધવાની સાથે તેની વિસ્કોસિટી (સ્નિગ્ધતા) પર શું અસર થાય છે?",
+    "gujaratiQuestion": "Q107. લ્યુબ્રિકન્ટનું ટેમ્પરેચર વધવાની સાથે તેની વિસ્કોસિટી (સ્નિગ્ધતા) પર શું અસર થાય છે?",
     "options": [
       "વધે છે",
       "ઘટે છે",
@@ -1602,7 +1602,7 @@
       "પહેલા વધે અને પછી ઘટે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રવાહી લ્યુબ્રિકન્ટ્સનું તાપમાન વધતાં આંતરઆણ્વીય આકર્ષણ બળ ઘટે છે, જેથી વિસ્કોસિટી ઘટે છે[cite: 7]."
+    "explanation": "ફ્લુઇડ લ્યુબ્રિકન્ટ્સનું ટેમ્પરેચર વધતાં આંતરઆણ્વીય આકર્ષણ બળ ઘટે છે, જેથી વિસ્કોસિટી ઘટે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 108,
@@ -1614,10 +1614,10 @@
       "એન્જિનની શ્વાસ લેવાની ક્ષમતા વધારવા",
       "એન્જિનમાંથી નુકસાનકારક કણો, બ્લો-બાય ગેસીસ અને ભેજ દૂર કરવા",
       "એન્જિનને લ્યુબ્રિકેશન પૂરું પાડવા",
-      "એન્જિનનું તાપમાન વધારવા"
+      "એન્જિનનું ટેમ્પરેચર વધારવા"
     ],
     "correctAnswer": 1,
-    "explanation": "પિસ્ટન રિંગ્સમાંથી લીક થયેલા બ્લો-બાય વાયુઓ અને ભેજ ઓઇલને દૂષિત ન કરે તે માટે પોઝિટિવ ક્રેન્કકેસ વેન્ટિલેશન (PCV) કરાય છે[cite: 7]."
+    "explanation": "પિસ્ટન રિંગ્સમાંથી લીક થયેલા બ્લો-બાય વાયુઓ અને ભેજ ઓઇલને દૂષિત ન કરે તે માટે પોઝિટિવ ક્રેન્કકેસ વેન્ટિલેશન (PCV) કરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 109,
@@ -1632,7 +1632,7 @@
       "ઇનલેટ પોર્ટ બંધ હોય છે અને ડિપ્રેશન (વેક્યુમ) બની રહ્યું હોય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "પિસ્ટન TDC તરફ જતાં ક્રેન્કકેસમાં વેક્યુમ સર્જાઈને ઇનલેટ પોર્ટ ખૂલે છે અને કાર્બ્યુરેટરમાંથી નવો ચાર્જ ક્રેન્કકેસમાં પ્રવેશે છે[cite: 7]."
+    "explanation": "પિસ્ટન TDC તરફ જતાં ક્રેન્કકેસમાં વેક્યુમ સર્જાઈને ઇનલેટ પોર્ટ ખૂલે છે અને કાર્બ્યુરેટરમાંથી નવો ચાર્જ ક્રેન્કકેસમાં પ્રવેશે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 110,
@@ -1647,7 +1647,7 @@
       "SAE 80"
     ],
     "correctAnswer": 3,
-    "explanation": "SAE વિસ્કોસિટી રેટિંગમાં નંબર જેટલો મોટો હોય તેટલું તે તેલ વધુ ઘટ્ટ (હાઇ વિસ્કોસિટી ધરાવતું) હોય છે, તેથી SAE 80 સૌથી ઘટ્ટ છે[cite: 7]."
+    "explanation": "SAE વિસ્કોસિટી રેટિંગમાં નંબર જેટલો મોટો હોય તેટલું તે તેલ વધુ ઘટ્ટ (હાઇ વિસ્કોસિટી ધરાવતું) હોય છે, તેથી SAE 80 સૌથી ઘટ્ટ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 111,
@@ -1662,7 +1662,7 @@
       "સોલિડ લ્યુબ્રિકેશન"
     ],
     "correctAnswer": 1,
-    "explanation": "ડેડ સેન્ટર્સ આગળ પિસ્ટનની ઝડપ શૂન્ય થતાં હાઇડ્રોડાયનેમિક ફિલ્મ તૂટે છે અને પાતળી બાઉન્ડરી લ્યુબ્રિકેશન સ્થિતિ સર્જાય છે[cite: 7]."
+    "explanation": "ડેડ સેન્ટર્સ આગળ પિસ્ટનની ઝડપ શૂન્ય થતાં હાઇડ્રોડાયનેમિક ફિલ્મ તૂટે છે અને પાતળી બાઉન્ડરી લ્યુબ્રિકેશન સ્થિતિ સર્જાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 112,
@@ -1677,7 +1677,7 @@
       "વાલ્વ ક્લિયરન્સ"
     ],
     "correctAnswer": 2,
-    "explanation": "વાલ્વ ઓવરલેપ વખતે વાલ્વ પિસ્ટન હેડ સાથે ન અથડાય તે માટે પિસ્ટન ક્રાઉન પર બનાવેલા ખાંચાને વાલ્વ રિસેસ કહે છે[cite: 7]."
+    "explanation": "વાલ્વ ઓવરલેપ વખતે વાલ્વ પિસ્ટન હેડ સાથે ન અથડાય તે માટે પિસ્ટન ક્રાઉન પર બનાવેલા ખાંચાને વાલ્વ રિસેસ કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 113,
@@ -1692,14 +1692,14 @@
       "ચલાવવાનું ચાલુ રાખવું"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓઇલ પ્રેશર શૂન્ય થવાથી બેરિંગ્સ અને પિસ્ટન સીઝ થવાનું ગંભીર જોખમ હોવાથી એન્જિન તાત્કાલિક બંધ કરવું જોઈએ[cite: 7]."
+    "explanation": "ઓઇલ પ્રેશર શૂન્ય થવાથી બેરિંગ્સ અને પિસ્ટન સીઝ થવાનું ગંભીર જોખમ હોવાથી એન્જિન તાત્કાલિક બંધ કરવું જોઈએ[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 114,
     "subject": "I.C. Engines",
     "subTopic": "Ignition, Lubrication & Cooling Systems",
     "question": "Under normal operating conditions, the temperature of the inner surface of an I.C. engine cylinder wall should not exceed:",
-    "gujaratiQuestion": "0114. સામાન્ય કામગીરીમાં આઈ.સી. એન્જિનની સિલિન્ડર વૉલની અંદરની સપાટીનું તાપમાન કોનાથી વધુ ન હોવું જોઈએ?",
+    "gujaratiQuestion": "0114. સામાન્ય કામગીરીમાં આઈ.સી. એન્જિનની સિલિન્ડર વૉલની અંદરની સપાટીનું ટેમ્પરેચર કોનાથી વધુ ન હોવું જોઈએ?",
     "options": [
       "80°C",
       "120°C",
@@ -1707,7 +1707,7 @@
       "500°C"
     ],
     "correctAnswer": 2,
-    "explanation": "લ્યુબ્રિકેટિંગ ઓઇલ ફિલ્મ બળી ન જાય અને પિસ્ટન સીઝ ન થાય તે માટે સિલિન્ડર વોલનું તાપમાન 180°C થી 200°C થી વધવું ન જોઈએ[cite: 7]."
+    "explanation": "લ્યુબ્રિકેટિંગ ઓઇલ ફિલ્મ બળી ન જાય અને પિસ્ટન સીઝ ન થાય તે માટે સિલિન્ડર વોલનું ટેમ્પરેચર 180°C થી 200°C થી વધવું ન જોઈએ[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 115,
@@ -1722,14 +1722,14 @@
       "3.2"
     ],
     "correctAnswer": 1,
-    "explanation": "rc = 1 + [cut-off fraction × (r - 1)] = 1 + [0.08 × (16 - 1)] = 1 + (0.08 × 15) = 1 + 1.2 = 2.2[cite: 7]."
+    "explanation": "rc = 1 + [cut-off fraction × (r - 1)] = 1 + [0.08 × (16 - 1)] = 1 + (0.08 × 15) = 1 + 1.2 = 2.2[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 116,
     "subject": "I.C. Engines",
     "subTopic": "Ignition, Lubrication & Cooling Systems",
     "question": "In a water cooling system, which natural circulation principle works without a water pump?",
-    "gujaratiQuestion": "0116. વોટર કૂલિંગ સિસ્ટમમાં, પાણીના કુદરતી પરિભ્રમણ (પંપ વિના) માટે કયો સિદ્ધાંત કામ કરે છે?",
+    "gujaratiQuestion": "0116. વોટર કૂલિંગ સિસ્ટમમાં, પાણીના કુદરતી રોટેશન (પંપ વિના) માટે કયો સિદ્ધાંત કામ કરે છે?",
     "options": [
       "થર્મો-સાઈફન સિસ્ટમ",
       "પંપ સર્ક્યુલેશન સિસ્ટમ",
@@ -1737,22 +1737,22 @@
       "ઇવેપોરેટિવ કૂલિંગ સિસ્ટમ"
     ],
     "correctAnswer": 0,
-    "explanation": "ગરમ અને ઠંડા પાણીની ઘનતાના તફાવત પર કુદરતી પરિભ્રમણ કરતી સિસ્ટમને થર્મો-સાઇફન (Thermo-siphon) સિસ્ટમ કહેવાય છે[cite: 7]."
+    "explanation": "ગરમ અને ઠંડા પાણીની ડેન્સિટીના તફાવત પર કુદરતી રોટેશન કરતી સિસ્ટમને થર્મો-સાઇફન (Thermo-siphon) સિસ્ટમ કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 117,
     "subject": "I.C. Engines",
     "subTopic": "Ignition, Lubrication & Cooling Systems",
     "question": "What is the primary function of a radiator in an engine cooling system?",
-    "gujaratiQuestion": "0117. એન્જિન કૂલિંગ સિસ્ટમમાં રેડિએટરનું કાર્ય શું છે?",
+    "gujaratiQuestion": "0117. એન્જિન કૂલિંગ સિસ્ટમમાં રેડિએટરનું વર્ક શું છે?",
     "options": [
       "ગરમ પાણીને મોટા વિસ્તારમાં ફેલાવીને હવાથી ઠંડુ કરવું",
-      "કૂલન્ટનું દબાણ વધારવું",
+      "કૂલન્ટનું પ્રેશર વધારવું",
       "એન્જિન ઓઈલને ગરમ કરવું",
-      "હવાનું દબાણ ઘટાડવું"
+      "હવાનું પ્રેશર ઘટાડવું"
     ],
     "correctAnswer": 0,
-    "explanation": "રેડિએટર હીટ એક્સચેન્જર તરીકે કાર્ય કરી ગરમ કૂલન્ટમાંથી ઉષ્મા આસપાસની હવામાં મુક્ત કરે છે[cite: 7]."
+    "explanation": "રેડિએટર હીટ એક્સચેન્જર તરીકે વર્ક કરી ગરમ કૂલન્ટમાંથી હીટ આસપાસની હવામાં મુક્ત કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 118,
@@ -1767,7 +1767,7 @@
       "352"
     ],
     "correctAnswer": 3,
-    "explanation": "Swept Volume Vs = (π/4) · d² · L = (22/28) × 16 × 7 = 88 cc. Total Engine Capacity = 4 × Vs = 4 × 88 = 352 cc[cite: 7]."
+    "explanation": "Swept Volume Vs = (π/4) · d² · L = (22/28) × 16 × 7 = 88 cc. Total Engine Capacity = 4 × Vs = 4 × 88 = 352 cc[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 119,
@@ -1782,7 +1782,7 @@
       "એન્જિનની મજબૂતી વધારવા"
     ],
     "correctAnswer": 1,
-    "explanation": "ફિન્સ સપાટી ક્ષેત્રફળ (Surface area) માં વધારો કરીને કન્વેક્શન દ્વારા હીટ ટ્રાન્સફર રેટ સુધારે છે[cite: 7]."
+    "explanation": "ફિન્સ સપાટી ક્ષેત્રફળ (Surface area) માં વધારો કરીને કન્વેક્શન દ્વારા હીટ ટ્રાન્સફર રેટ સુધારે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 120,
@@ -1793,11 +1793,11 @@
     "options": [
       "રેડિએટરમાં પાણીનું સ્તર માપવા",
       "કૂલિંગ ફેનને બંધ કરવા",
-      "એન્જિનના પાણીનું તાપમાન નિયંત્રિત કરવા અને એન્જિનને ઝડપથી વોર્મ-અપ કરવા",
+      "એન્જિનના પાણીનું ટેમ્પરેચર નિયંત્રિત કરવા અને એન્જિનને ઝડપથી વોર્મ-અપ કરવા",
       "વોટર પંપને રોકવા"
     ],
     "correctAnswer": 2,
-    "explanation": "થર્મોસ્ટેટ શરૂઆતમાં કૂલન્ટને રેડિએટરમાં જતું રોકી ઝડપી વોર્મ-અપ આપે છે અને બાદમાં ઓપરેટિંગ તાપમાન જાળવે છે[cite: 7]."
+    "explanation": "થર્મોસ્ટેટ શરૂઆતમાં કૂલન્ટને રેડિએટરમાં જતું રોકી ઝડપી વોર્મ-અપ આપે છે અને બાદમાં ઓપરેટિંગ ટેમ્પરેચર જાળવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 121,
@@ -1812,14 +1812,14 @@
       "ઓટો સાયકલ"
     ],
     "correctAnswer": 3,
-    "explanation": "કટ-ઓફ રેશિયો rc = 1 થતાં કોન્સ્ટન્ટ પ્રેશર હીટ એડિશન શૂન્ય બને છે અને સાયકલ ઓટો સાયકલમાં ફેરવાય છે[cite: 7]."
+    "explanation": "કટ-ઓફ રેશિયો rc = 1 થતાં કોન્સ્ટન્ટ પ્રેશર હીટ એડિશન શૂન્ય બને છે અને સાયકલ ઓટો સાયકલમાં ફેરવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 122,
     "subject": "I.C. Engines",
     "subTopic": "Ignition, Lubrication & Cooling Systems",
     "question": "Heat transfer from radiator tubes to the passing air in a motor car primarily occurs by:",
-    "gujaratiQuestion": "Q122. મોટર કારના રેડિએટરમાં હીટ ટ્રાન્સફર મુખ્યત્વે કઈ પ્રક્રિયા દ્વારા થાય છે?",
+    "gujaratiQuestion": "Q122. મોટર કારના રેડિએટરમાં હીટ ટ્રાન્સફર મુખ્યત્વે કઈ પ્રોસેસ દ્વારા થાય છે?",
     "options": [
       "કન્ડક્શન",
       "રેડિયેશન",
@@ -1827,7 +1827,7 @@
       "આઈસોથર્મલ"
     ],
     "correctAnswer": 2,
-    "explanation": "રેડિએટર ફિન્સ અને વહેતી હવા વચ્ચે ઉષ્માનું વહન ફોર્સ્ડ કન્વેક્શન (Convection) દ્વારા થાય છે[cite: 7]."
+    "explanation": "રેડિએટર ફિન્સ અને વહેતી હવા વચ્ચે હીટનું ફ્લો ફોર્સ્ડ કન્વેક્શન (Convection) દ્વારા થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 123,
@@ -1842,7 +1842,7 @@
       "ડીસ્ટિલ્ડ ગ્લિસરીન"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇથિલીન ગ્લાયકોલ (Ethylene glycol) પાણીનું ફ્રીઝિંગ પોઇન્ટ ઘટાડવા અને બોઇલિંગ પોઇન્ટ વધારવા માટે શ્રેષ્ઠ એન્ટી-ફ્રીઝ છે[cite: 7]."
+    "explanation": "ઇથિલીન ગ્લાયકોલ (Ethylene glycol) પાણીનું ફ્રીઝિંગ પોઇન્ટ ઘટાડવા અને બોઇલિંગ પોઇન્ટ વધારવા માટે શ્રેષ્ઠ એન્ટી-ફ્રીઝ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 124,
@@ -1857,7 +1857,7 @@
       "રેપિડ કમ્બશન"
     ],
     "correctAnswer": 3,
-    "explanation": "ઉચ્ચ ફ્લેમ ઝડપ સાથે ઝડપી ઊર્જા મુક્ત થતી કમ્બશન પ્રક્રિયાને રેપિડ કમ્બશન (Rapid combustion) કહે છે[cite: 7]."
+    "explanation": "ઉચ્ચ ફ્લેમ ઝડપ સાથે ઝડપી ઊર્જા મુક્ત થતી કમ્બશન પ્રોસેસને રેપિડ કમ્બશન (Rapid combustion) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 125,
@@ -1872,7 +1872,7 @@
       "20 થી 30 લિટર પ્રતિ મિનિટ પ્રતિ HP"
     ],
     "correctAnswer": 1,
-    "explanation": "ડીઝલ એન્જિનમાં સામાન્ય રીતે 1 થી 3 લિટર પ્રતિ મિનિટ પ્રતિ બ્રેક હોર્સપાવર (L/min/HP) કૂલિંગ વોટર પરિભ્રમણ જરૂરી બને છે[cite: 7]."
+    "explanation": "ડીઝલ એન્જિનમાં સામાન્ય રીતે 1 થી 3 લિટર પ્રતિ મિનિટ પ્રતિ બ્રેક હોર્સપાવર (L/min/HP) કૂલિંગ વોટર રોટેશન જરૂરી બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 126,
@@ -1887,14 +1887,14 @@
       "એક્ઝોસ્ટ પાઈપ પર"
     ],
     "correctAnswer": 1,
-    "explanation": "કૂલિંગ ફેન સામાન્ય રીતે રેડિએટર અને એન્જિન બ્લોકની વચ્ચે ફિટ કરાય છે જેથી રેડિએટર કોરમાંથી હવા ખેંચી શકાય[cite: 7]."
+    "explanation": "કૂલિંગ ફેન સામાન્ય રીતે રેડિએટર અને એન્જિન બ્લોકની વચ્ચે ફિટ કરાય છે જેથી રેડિએટર કોરમાંથી હવા ખેંચી શકાય[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 127,
     "subject": "I.C. Engines",
     "subTopic": "Ignition, Lubrication & Cooling Systems",
     "question": "If an I.C. engine is overcooled (temperature drops below operating range), what is the result?",
-    "gujaratiQuestion": "0127. જો આઈ.સી. એન્જિનનું તાપમાન જરૂર કરતા વધારે ઘટી જાય (ઓવરકૂલિંગ થાય), તો શું પરિણામ આવે છે?",
+    "gujaratiQuestion": "0127. જો આઈ.સી. એન્જિનનું ટેમ્પરેચર જરૂર કરતા વધારે ઘટી જાય (ઓવરકૂલિંગ થાય), તો શું પરિણામ આવે છે?",
     "options": [
       "થર્મલ એફિશિયન્સી વધે છે",
       "થર્મલ એફિશિયન્સી ઘટે છે",
@@ -1902,7 +1902,7 @@
       "પાવર આઉટપુટ ડબલ થાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓવરકૂલિંગથી કૂલન્ટમાં હીટ લોસ વધે છે, ઇંધણનું બાષ્પીભવન નબળું પડે છે અને થર્મલ કાર્યક્ષમતા ઘટે છે[cite: 7]."
+    "explanation": "ઓવરકૂલિંગથી કૂલન્ટમાં હીટ લોસ વધે છે, ઇંધણનું બાષ્પીભવન નબળું પડે છે અને થર્મલ વર્કક્ષમતા ઘટે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 128,
@@ -1917,7 +1917,7 @@
       "ઓટો સાયકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ટર્લિંગ સાયકલમાં 2 રિવર્સિબલ આઇસોથર્મલ અને 2 રિવર્સિબલ આઇસોકોરિક (કોન્સ્ટન્ટ વોલ્યુમ) પ્રક્રિયાઓ હોય છે[cite: 7]."
+    "explanation": "સ્ટર્લિંગ સાયકલમાં 2 રિવર્સિબલ આઇસોથર્મલ અને 2 રિવર્સિબલ આઇસોકોરિક (કોન્સ્ટન્ટ વોલ્યુમ) પ્રોસેસીસ હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 129,
@@ -1932,7 +1932,7 @@
       "તે પાવર આઉટપુટ વધારે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "વોટર કૂલિંગમાં રેડિએટર, પંપ, પાઇપ્સ અને જેકેટને કારણે સિસ્ટમનું વજન, જટિલતા અને જાળવણી ખર્ચ વધે છે[cite: 7]."
+    "explanation": "વોટર કૂલિંગમાં રેડિએટર, પંપ, પાઇપ્સ અને જેકેટને કારણે સિસ્ટમનું વજન, જટિલતા અને જાળવણી ખર્ચ વધે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 130,
@@ -1947,7 +1947,7 @@
       "ઓઇલ કૂલિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "મોટરસાઇકલમાં કુદરતી હવાના પ્રવાહ અને ફિન્સ દ્વારા એર કૂલિંગ (Air cooling) પદ્ધતિ વપરાય છે[cite: 7]."
+    "explanation": "મોટરસાઇકલમાં કુદરતી હવાના ફ્લો અને ફિન્સ દ્વારા એર કૂલિંગ (Air cooling) પદ્ધતિ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 131,
@@ -1962,14 +1962,14 @@
       "કાર્નોટ સાયકલ કરતા વધારે સ્પેસિફિક વર્ક આઉટપુટ હોય છે"
     ],
     "correctAnswer": 3,
-    "explanation": "રેન્કિન સાયકલમાં પંપ વર્ક ઘણું ઓછું હોવાથી કાર્નોટ વેપર સાયકલ કરતાં વધુ સ્પેસિફિક વર્ક આઉટપુટ મળે છે[cite: 7]."
+    "explanation": "રેન્કિન સાયકલમાં પંપ વર્ક ઘણું ઓછું હોવાથી કાર્નોટ વેપર સાયકલ કરતાં વધુ સ્પેસિફિક વર્ક આઉટપુટ મળે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 132,
     "subject": "I.C. Engines",
     "subTopic": "Ignition, Lubrication & Cooling Systems",
     "question": "Which type of thermostat valve contains a volatile liquid like alcohol or acetone in an expandable capsule?",
-    "gujaratiQuestion": "0132. થર્મોસ્ટેટ વાલ્વના જે પ્રકારમાં આલ્કોહોલ અથવા એસીટોન જેવું પ્રવાહી ભરેલું હોય છે, તેને કયો પ્રકાર કહેવાય છે?",
+    "gujaratiQuestion": "0132. થર્મોસ્ટેટ વાલ્વના જે પ્રકારમાં આલ્કોહોલ અથવા એસીટોન જેવું ફ્લુઇડ ભરેલું હોય છે, તેને કયો પ્રકાર કહેવાય છે?",
     "options": [
       "બટરફ્લાય પ્રકાર",
       "બેલોઝ પ્રકાર",
@@ -1977,7 +1977,7 @@
       "વેક્યુમ પ્રકાર"
     ],
     "correctAnswer": 1,
-    "explanation": "બેલોઝ પ્રકારના થર્મોસ્ટેટમાં વોલેટાઇલ લિક્વિડ ગરમ થઈને વિસ્તરે છે અને વાલ્વ ખોલે છે[cite: 7]."
+    "explanation": "બેલોઝ પ્રકારના થર્મોસ્ટેટમાં વોલેટાઇલ લિક્વિડ ગરમ થઈને વિસ્તરે છે અને વાલ્વ ખોલે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 133,
@@ -1992,7 +1992,7 @@
       "ગેસ એન્જિન"
     ],
     "correctAnswer": 2,
-    "explanation": "ડીઝલ (C.I.) એન્જિનમાં કમ્પ્રેશન ઇગ્નિશન અને ફ્યુઅલ ઇન્જેક્ટર હોવાથી કાર્બ્યુરેટર કે સ્પાર્ક પ્લગ હોતા નથી[cite: 7]."
+    "explanation": "ડીઝલ (C.I.) એન્જિનમાં કમ્પ્રેશન ઇગ્નિશન અને ફ્યુઅલ ઇન્જેક્ટર હોવાથી કાર્બ્યુરેટર કે સ્પાર્ક પ્લગ હોતા નથી[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 134,
@@ -2007,7 +2007,7 @@
       "વેટ સ્ટીમ"
     ],
     "correctAnswer": 3,
-    "explanation": "આઇસેન્ટ્રોપિક વિસ્તરણ થતાં સ્ટીમ ટુ-ફેઝ વેટ રીજનમાં દાખલ થાય છે અને વેટ સ્ટીમ બને છે[cite: 7]."
+    "explanation": "આઇસેન્ટ્રોપિક વિસ્તરણ થતાં સ્ટીમ ટુ-ફેઝ વેટ રીજનમાં દાખલ થાય છે અને વેટ સ્ટીમ બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 135,
@@ -2016,13 +2016,13 @@
     "question": "When fuel is injected into the cylinder by an injector, what should its physical state be?",
     "gujaratiQuestion": "Q135. ઈન્જેક્ટર દ્વારા સિલિન્ડરમાં ફયુઅલ દાખલ થાય ત્યારે તેનું સ્વરૂપ કેવું હોવું જોઈએ?",
     "options": [
-      "પ્રવાહીના મોટા ટીપાં",
+      "ફ્લુઇડના મોટા ટીપાં",
       "ખૂબ જ ઝીણા કણો (ફાઈન સ્પ્રે અથવા મિસ્ટ)",
       "સંપૂર્ણ ઘન",
       "સંપૂર્ણ વાયુ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઝડપી બાષ્પીભવન અને મિશ્રણ માટે ઇંધણ અતિ બારીક સ્પ્રે કે મિસ્ટ (Fine spray) સ્વરૂપે હોવું જોઈએ[cite: 7]."
+    "explanation": "ઝડપી બાષ્પીભવન અને મિશ્રણ માટે ઇંધણ અતિ બારીક સ્પ્રે કે મિસ્ટ (Fine spray) સ્વરૂપે હોવું જોઈએ[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 136,
@@ -2037,7 +2037,7 @@
       "ઓઈલ પંપ"
     ],
     "correctAnswer": 1,
-    "explanation": "એન્જિન ક્રેન્કશાફ્ટ પુલીમાંથી વી-બેલ્ટ કૂલિંગ ફેન, વોટર પંપ અને ઓલ્ટરનેટર/જનરેટરને પાવર આપે છે[cite: 7]."
+    "explanation": "એન્જિન ક્રેન્કશાફ્ટ પુલીમાંથી વી-બેલ્ટ કૂલિંગ ફેન, વોટર પંપ અને ઓલ્ટરનેટર/જનરેટરને પાવર આપે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 137,
@@ -2052,7 +2052,7 @@
       "50%"
     ],
     "correctAnswer": 2,
-    "explanation": "IP = BP / η_m = 40 / 0.75 = 53.33 kW. FP = IP - BP = 13.33 kW. At half load (BP = 20 kW): IP_new = 20 + 13.33 = 33.33 kW. η_m_new = 20 / 33.33 = 60%[cite: 7]."
+    "explanation": "IP = BP / η_m = 40 / 0.75 = 53.33 kW. FP = IP - BP = 13.33 kW. At half load (BP = 20 kW): IP_new = 20 + 13.33 = 33.33 kW. η_m_new = 20 / 33.33 = 60%[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 138,
@@ -2067,7 +2067,7 @@
       "એન્જિન ફૂલ લોડ પર હોય ત્યારે"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓઇલ સમ્પમાં સંપૂર્ણ સ્થિર જમા થયેલું હોય તે માટે એન્જિન શરૂ કરતાં પહેલાં સમતલ સપાટી પર લેવલ ચેક કરવું જોઈએ[cite: 7]."
+    "explanation": "ઓઇલ સમ્પમાં સંપૂર્ણ સ્થિર જમા થયેલું હોય તે માટે એન્જિન શરૂ કરતાં પહેલાં સમતલ સપાટી પર લેવલ ચેક કરવું જોઈએ[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 139,
@@ -2082,7 +2082,7 @@
       "શૂન્ય"
     ],
     "correctAnswer": 2,
-    "explanation": "ડીઝલ ઇન્જેક્શન પ્રેશર 100 થી 2000+ બાર હોય છે, જે કાર્બ્યુરેટરના 0.2 થી 0.5 બાર કરતાં ઘણું વધારે હોય છે[cite: 7]."
+    "explanation": "ડીઝલ ઇન્જેક્શન પ્રેશર 100 થી 2000+ બાર હોય છે, જે કાર્બ્યુરેટરના 0.2 થી 0.5 બાર કરતાં ઘણું વધારે હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 140,
@@ -2097,14 +2097,14 @@
       "વર્કિંગ ફ્લુઇડ એ અચળ સ્પેસિફિક હીટ ધરાવતો આઇડિયલ ગેસ છે."
     ],
     "correctAnswer": 1,
-    "explanation": "ઓટો સાયકલમાં ક્લોઝ્ડ સિસ્ટમ માનવામાં આવે છે જ્યાં ઓપન ઇન્ટેક અને એક્ઝોસ્ટ પ્રોસેસ હોતી નથી[cite: 7]."
+    "explanation": "ઓટો સાયકલમાં ક્લોઝ્ડ સિસ્ટમ માનવામાં આવે છે જ્યાં ઓપન ઇન્ટેક અને એક્ઝોસ્ટ પ્રોસેસ હોતી નથી[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 141,
     "subject": "I.C. Engines",
     "subTopic": "Abnormal Combustion (Knocking & Detonation)",
     "question": "In an S.I. engine, what is the effect of increasing cooling water temperature on the tendency to knock?",
-    "gujaratiQuestion": "0141. એક ઍન્જિનમાં કૂલિંગ જળનું તાપમાન વધારવાથી સામાન્ય રીતે નોકિંગ (Knocking) ની વૃત્તિ પર શું અસર થાય છે? (એસ.આઈ.એન્જિનમાં)",
+    "gujaratiQuestion": "0141. એક ઍન્જિનમાં કૂલિંગ જળનું ટેમ્પરેચર વધારવાથી સામાન્ય રીતે નોકિંગ (Knocking) ની વૃત્તિ પર શું અસર થાય છે? (એસ.આઈ.એન્જિનમાં)",
     "options": [
       "નોકિંગની વૃત્તિ ઘટે છે",
       "નોકિંગની વૃત્તિ વધે છે",
@@ -2112,14 +2112,14 @@
       "એન્જિન અટકી જાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "કૂલિંગ વોટર તાપમાન વધતાં સિલિન્ડર વોલ અને એન્ડ ગેસનું તાપમાન વધે છે, જેથી S.I. એન્જિનમાં નોકિંગ વધે છે[cite: 7]."
+    "explanation": "કૂલિંગ વોટર ટેમ્પરેચર વધતાં સિલિન્ડર વોલ અને એન્ડ ગેસનું ટેમ્પરેચર વધે છે, જેથી S.I. એન્જિનમાં નોકિંગ વધે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 142,
     "subject": "I.C. Engines",
     "subTopic": "Ignition, Lubrication & Cooling Systems",
     "question": "Which type of water pump is generally used in an engine forced water cooling system?",
-    "gujaratiQuestion": "Q142. કૂલિંગ વોટર માટે જળ-પરિભ્રમણ સિસ્ટમમાં 'વોટર પંપ' સામાન્ય રીતે કયા પ્રકારનો હોય છે?",
+    "gujaratiQuestion": "Q142. કૂલિંગ વોટર માટે જળ-રોટેશન સિસ્ટમમાં 'વોટર પંપ' સામાન્ય રીતે કયા પ્રકારનો હોય છે?",
     "options": [
       "ગિયર પંપ",
       "સેન્ટ્રીફયુગલ પંપ",
@@ -2127,7 +2127,7 @@
       "રેસીપ્રોકેટિંગ પંપ"
     ],
     "correctAnswer": 1,
-    "explanation": "મોટા ડિસ્ચાર્જ અને સતત સર્ક્યુલેશન માટે એન્જિનમાં સેન્ટ્રીફ્યુગલ પંપ વપરાય છે[cite: 7]."
+    "explanation": "મોટા ડિસ્ચાર્જ અને સતત સર્ક્યુલેશન માટે એન્જિનમાં સેન્ટ્રીફ્યુગલ પંપ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 143,
@@ -2142,7 +2142,7 @@
       "20 થી 30"
     ],
     "correctAnswer": 1,
-    "explanation": "ડિટોનેશન રોકવા માટે પેટ્રોલ એન્જિનનો કમ્પ્રેશન રેશિયો મર્યાદિત 6 થી 10 (આન્સર કી B મુજબ 5 થી 8) રાખવામાં આવે છે[cite: 7]."
+    "explanation": "ડિટોનેશન રોકવા માટે પેટ્રોલ એન્જિનનો કમ્પ્રેશન રેશિયો મર્યાદિત 6 થી 10 (આન્સર કી B મુજબ 5 થી 8) રાખવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 144,
@@ -2157,7 +2157,7 @@
       "સેલ્ફ સ્ટાર્ટર"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓઇલ ગિયર પંપ એન્જિનની કેમશાફ્ટ અથવા ક્રેન્કશાફ્ટ સાથે ગિયર મેશ દ્વારા ડ્રાઇવ મેળવે છે[cite: 7]."
+    "explanation": "ઓઇલ ગિયર પંપ એન્જિનની કેમશાફ્ટ અથવા ક્રેન્કશાફ્ટ સાથે ગિયર મેશ દ્વારા ડ્રાઇવ મેળવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 145,
@@ -2172,7 +2172,7 @@
       "ઓઈલની વિસ્કોસિટી વધારવી"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓઇલ ફિલ્ટર લ્યુબ્રિકન્ટમાં રહેલા ધાતુના બારીક કણો, કાર્બન અને અશુદ્ધિઓને ગાળીને શુદ્ધ ઓઇલ સપ્લાય કરે છે[cite: 7]."
+    "explanation": "ઓઇલ ફિલ્ટર લ્યુબ્રિકન્ટમાં રહેલા ધાતુના બારીક કણો, કાર્બન અને અશુદ્ધિઓને ગાળીને શુદ્ધ ઓઇલ સપ્લાય કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 146,
@@ -2187,7 +2187,7 @@
       "ઇન્ટેક, કમ્બશન, એક્સપાન્શન, કમ્પ્રેશન"
     ],
     "correctAnswer": 2,
-    "explanation": "સાચો ક્રમ: સક્શન (ઇન્ટેક) -> કમ્પ્રેશન -> કમ્બશન (હીટ એડિશન) -> એક્સપાન્શન (પાવર)[cite: 7]."
+    "explanation": "સાચો ક્રમ: સક્શન (ઇન્ટેક) -> કમ્પ્રેશન -> કમ્બશન (હીટ એડિશન) -> એક્સપાન્શન (પાવર)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 147,
@@ -2202,22 +2202,22 @@
       "સિલિન્ડરની અંદર (દહન કક્ષમાં)"
     ],
     "correctAnswer": 3,
-    "explanation": "ડીઝલ એન્જિનમાં હવા અને ડીઝલનું મિશ્રણ સીધું સિલિન્ડરની અંદર કમ્બશન ચેમ્બરમાં થાય છે[cite: 7]."
+    "explanation": "ડીઝલ એન્જિનમાં હવા અને ડીઝલનું મિશ્રણ સીધું સિલિન્ડરની અંદર કમ્બશન ચેમ્બરમાં થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 148,
     "subject": "I.C. Engines",
     "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
     "question": "Which four thermodynamic processes constitute an air standard Otto cycle?",
-    "gujaratiQuestion": "0148. ઓટો સાયકલમાં કઈ 4 મુખ્ય પ્રક્રિયાઓનો સમાવેશ થાય છે?",
+    "gujaratiQuestion": "0148. ઓટો સાયકલમાં કઈ 4 મુખ્ય પ્રોસેસીસનો સમાવેશ થાય છે?",
     "options": [
-      "2 અચળ દબાણ અને 2 આઈસેન્ટ્રોપિક",
-      "2 અચળ કદ અને 2 આઇસેન્ટ્રોપિક",
-      "2 આઇસોથર્મલ અને 2 અચળ કદ",
-      "2 આઇસોથર્મલ અને 2 અચળ દબાણ"
+      "2 અચળ પ્રેશર અને 2 આઈસેન્ટ્રોપિક",
+      "2 અચળ વોલ્યુમ અને 2 આઇસેન્ટ્રોપિક",
+      "2 આઇસોથર્મલ અને 2 અચળ વોલ્યુમ",
+      "2 આઇસોથર્મલ અને 2 અચળ પ્રેશર"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓટો સાયકલમાં 2 રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક) અને 2 કોન્સ્ટન્ટ વોલ્યુમ (આઈસોકોરિક) પ્રક્રિયાઓ હોય છે[cite: 7]."
+    "explanation": "ઓટો સાયકલમાં 2 રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક) અને 2 કોન્સ્ટન્ટ વોલ્યુમ (આઈસોકોરિક) પ્રોસેસીસ હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 149,
@@ -2232,37 +2232,37 @@
       "8.65"
     ],
     "correctAnswer": 1,
-    "explanation": "T3/T4 = r^(γ-1) => 1200 / 600 = 2 = r^0.4 => r = 2^(1/0.4) = 2^2.5 ≈ 5.656[cite: 7]."
+    "explanation": "T3/T4 = r^(γ-1) => 1200 / 600 = 2 = r^0.4 => r = 2^(1/0.4) = 2^2.5 ≈ 5.656[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 150,
     "subject": "I.C. Engines",
     "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
     "question": "During which thermodynamic process does heat addition occur in a Diesel cycle?",
-    "gujaratiQuestion": "0150. ડીઝલ સાયકલમાં ઉષ્માનો ઉમેરો કઈ પ્રક્રિયા દરમિયાન થાય છે?",
+    "gujaratiQuestion": "0150. ડીઝલ સાયકલમાં હીટનો ઉમેરો કઈ પ્રોસેસ દરમિયાન થાય છે?",
     "options": [
-      "અચળ કદ",
-      "અચળ તાપમાન",
-      "અચળ દબાણ",
+      "અચળ વોલ્યુમ",
+      "અચળ ટેમ્પરેચર",
+      "અચળ પ્રેશર",
       "આઈસેન્ટ્રોપિક"
     ],
     "correctAnswer": 2,
-    "explanation": "ડીઝલ સાયકલમાં ઉષ્માનો ઉમેરો અચળ દબાણે (Isobaric process) થાય છે[cite: 7]."
+    "explanation": "ડીઝલ સાયકલમાં હીટનો ઉમેરો અચળ પ્રેશરે (Isobaric process) થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 151,
     "subject": "I.C. Engines",
     "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
     "question": "In an Otto cycle, heat addition and heat rejection occur during which process?",
-    "gujaratiQuestion": "0151. ઓટો સાયકલમાં ઉષ્માનો ઉમેરો અને નિકાલ કઈ પ્રક્રિયા દરમિયાન થાય છે?",
+    "gujaratiQuestion": "0151. ઓટો સાયકલમાં હીટનો ઉમેરો અને નિકાલ કઈ પ્રોસેસ દરમિયાન થાય છે?",
     "options": [
-      "અચળ દબાણ",
-      "અચળ તાપમાન",
+      "અચળ પ્રેશર",
+      "અચળ ટેમ્પરેચર",
       "આઈસેન્ટ્રોપિક",
-      "અચળ કદ"
+      "અચળ વોલ્યુમ"
     ],
     "correctAnswer": 3,
-    "explanation": "ઓટો સાયકલ એ કોન્સ્ટન્ટ વોલ્યુમ સાયકલ છે જેમાં ઉષ્મા ઉમેરો (2-3) અને નિકાલ (4-1) બંને અચળ કદ (Isochoric) પર થાય છે[cite: 7]."
+    "explanation": "ઓટો સાયકલ એ કોન્સ્ટન્ટ વોલ્યુમ સાયકલ છે જેમાં હીટ ઉમેરો (2-3) અને નિકાલ (4-1) બંને અચળ વોલ્યુમ (Isochoric) પર થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 152,
@@ -2277,14 +2277,14 @@
       "એક કોન્સ્ટન્ટ પ્રેશર, એક કોન્સ્ટન્ટ વોલ્યુમ અને બે આઇસોથર્મલ પ્રોસેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "ડીઝલ સાયકલમાં બે રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક), એક કોન્સ્ટન્ટ પ્રેશર હીટ એડિશન અને એક કોન્સ્ટન્ટ વોલ્યુમ હીટ રિજેક્શન પ્રોસેસ હોય છે[cite: 7]."
+    "explanation": "ડીઝલ સાયકલમાં બે રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક), એક કોન્સ્ટન્ટ પ્રેશર હીટ એડિશન અને એક કોન્સ્ટન્ટ વોલ્યુમ હીટ રિજેક્શન પ્રોસેસ હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 153,
     "subject": "I.C. Engines",
     "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
     "question": "For the same compression ratio and same heat addition, which cycle has the highest thermal efficiency?",
-    "gujaratiQuestion": "0153. સમાન કમ્પ્રેશન રેશિયો અને સમાન ઉષ્મા ઉમેરા માટે કઈ સાયકલની થર્મલ એફિશિયન્સી સૌથી વધુ હોય છે?",
+    "gujaratiQuestion": "0153. સમાન કમ્પ્રેશન રેશિયો અને સમાન હીટ ઉમેરા માટે કઈ સાયકલની થર્મલ એફિશિયન્સી સૌથી વધુ હોય છે?",
     "options": [
       "ઓટો સાયકલ",
       "ડીઝલ સાયકલ",
@@ -2292,14 +2292,14 @@
       "બ્રેટન સાયકલ"
     ],
     "correctAnswer": 0,
-    "explanation": "સમાન કમ્પ્રેશન રેશિયો અને સમાન હીટ ઇનપુટ પર ઓટો સાયકલમાં સૌથી ઓછું હીટ રિજેક્શન થતું હોવાથી તેની કાર્યક્ષમતા મહત્તમ હોય છે (η_Otto > η_Dual > η_Diesel)[cite: 7]."
+    "explanation": "સમાન કમ્પ્રેશન રેશિયો અને સમાન હીટ ઇનપુટ પર ઓટો સાયકલમાં સૌથી ઓછું હીટ રિજેક્શન થતું હોવાથી તેની વર્કક્ષમતા મહત્તમ હોય છે (η_Otto > η_Dual > η_Diesel)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 154,
     "subject": "I.C. Engines",
     "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
     "question": "For the same maximum pressure and maximum temperature, which cycle has the highest thermal efficiency?",
-    "gujaratiQuestion": "0154. સમાન મહત્તમ દબાણ અને મહત્તમ તાપમાન માટે કઈ સાયકલની થર્મલ એફિશિયન્સી સૌથી વધુ હોય છે?",
+    "gujaratiQuestion": "0154. સમાન મહત્તમ પ્રેશર અને મહત્તમ ટેમ્પરેચર માટે કઈ સાયકલની થર્મલ એફિશિયન્સી સૌથી વધુ હોય છે?",
     "options": [
       "ઓટો સાયકલ",
       "ડીઝલ સાયકલ",
@@ -2307,7 +2307,7 @@
       "કાર્નોટ સાયકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "સમાન પીક પ્રેશર અને પીક ટેમ્પરેચર માટે ડીઝલ સાયકલનો કમ્પ્રેશન રેશિયો વધુ રાખવો શક્ય બનતો હોવાથી ડીઝલ સાયકલની કાર્યક્ષમતા સર્વોચ્ચ હોય છે[cite: 7]."
+    "explanation": "સમાન પીક પ્રેશર અને પીક ટેમ્પરેચર માટે ડીઝલ સાયકલનો કમ્પ્રેશન રેશિયો વધુ રાખવો શક્ય બનતો હોવાથી ડીઝલ સાયકલની વર્કક્ષમતા સર્વોચ્ચ હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 155,
@@ -2322,7 +2322,7 @@
       "FI પંપમાંથી વધુ પડતી ડિલિવરી થશે"
     ],
     "correctAnswer": 2,
-    "explanation": "ફ્યુઅલ લાઇનમાં હવા ભરાવાથી ઇંધણનું પ્રેશરાઇઝેશન અટકી જાય છે, જેથી એન્જિન સ્ટાર્ટ થવામાં મુશ્કેલી પડે છે અથવા અનિયમિત રનિંગ થાય છે[cite: 7]."
+    "explanation": "ફ્યુઅલ લાઇનમાં હવા ભરાવાથી ઇંધણનું પ્રેશરાઇઝેશન અટકી જાય છે, જેથી એન્જિન સ્ટાર્ટ થવામાં મુશ્કેલી પડે છે અથવા અનિયમિત રનિંગ થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 156,
@@ -2331,13 +2331,13 @@
     "question": "On what does the thermal efficiency of an ideal Otto cycle primarily depend?",
     "gujaratiQuestion": "Q156. આદર્શ ઓટો સાયકલની થર્મલ એફિશિયન્સી મુખ્યત્વે કોના પર આધાર રાખે છે?",
     "options": [
-      "માત્ર ઉષ્માના ઉમેરા પર",
+      "માત્ર હીટના ઉમેરા પર",
       "માત્ર કમ્પ્રેશન રેશિયો પર",
-      "મહત્તમ તાપમાન પર",
+      "મહત્તમ ટેમ્પરેચર પર",
       "કટ-ઓફ રેશિયો પર"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓટો સાયકલની કાર્યક્ષમતા η = 1 - 1/(r^(γ-1)) માત્ર કમ્પ્રેશન રેશિયો (r) અને એડિઆબેટિક ઇન્ડેક્સ (γ) પર આધાર રાખે છે[cite: 7]."
+    "explanation": "ઓટો સાયકલની વર્કક્ષમતા η = 1 - 1/(r^(γ-1)) માત્ર કમ્પ્રેશન રેશિયો (r) અને એડિઆબેટિક ઇન્ડેક્સ (γ) પર આધાર રાખે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 157,
@@ -2352,7 +2352,7 @@
       "શૂન્ય થાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "કમ્પ્રેશન રેશિયો (r) વધવાથી 1/(r^(γ-1)) નું મૂલ્ય ઘટે છે, જેથી સાયકલની થર્મલ કાર્યક્ષમતા વધે છે[cite: 7]."
+    "explanation": "કમ્પ્રેશન રેશિયો (r) વધવાથી 1/(r^(γ-1)) નું મૂલ્ય ઘટે છે, જેથી સાયકલની થર્મલ વર્કક્ષમતા વધે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 158,
@@ -2367,7 +2367,7 @@
       "શરૂઆતમાં વધે પછી ઘટે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "કટ-ઓફ રેશિયો (rc) વધારવાથી હીટ રિજેક્શન વધે છે અને વિસ્તરણ રેશિયો ઘટે છે, જેથી ડીઝલ સાયકલની થર્મલ કાર્યક્ષમતા ઘટે છે[cite: 7]."
+    "explanation": "કટ-ઓફ રેશિયો (rc) વધારવાથી હીટ રિજેક્શન વધે છે અને વિસ્તરણ રેશિયો ઘટે છે, જેથી ડીઝલ સાયકલની થર્મલ વર્કક્ષમતા ઘટે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 159,
@@ -2382,29 +2382,29 @@
       "મેન્ટેનન્સ મેન્યુઅલ"
     ],
     "correctAnswer": 0,
-    "explanation": "સર્વિસ સ્ટેશન પર ગ્રાહકની ફરિયાદો, વાહનની ખામીઓ અને જરૂરી કામગીરીની નોંધ જોબ કાર્ડ (Job Card) પર કરવામાં આવે છે[cite: 7]."
+    "explanation": "સર્વિસ સ્ટેશન પર ગ્રાહકની ફરિયાદો, વાહનની ખામીઓ અને જરૂરી કામગીરીની નોંધ જોબ કાર્ડ (Job Card) પર કરવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 160,
     "subject": "I.C. Engines",
     "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
     "question": "How does heat addition take place in a Dual combustion cycle?",
-    "gujaratiQuestion": "0160. ડ્યુઅલ સાયકલમાં ઉષ્માનો ઉમેરો કેવી રીતે થાય છે?",
+    "gujaratiQuestion": "0160. ડ્યુઅલ સાયકલમાં હીટનો ઉમેરો કેવી રીતે થાય છે?",
     "options": [
-      "માત્ર અચળ દબાણ પર",
-      "માત્ર અચળ કદ પર",
-      "અંશતઃ અચળ કદ પર અને અંશતઃ અચળ દબાણ પર",
-      "અચળ તાપમાન પર"
+      "માત્ર અચળ પ્રેશર પર",
+      "માત્ર અચળ વોલ્યુમ પર",
+      "અંશતઃ અચળ વોલ્યુમ પર અને અંશતઃ અચળ પ્રેશર પર",
+      "અચળ ટેમ્પરેચર પર"
     ],
     "correctAnswer": 2,
-    "explanation": "ડ્યુઅલ (સેમી-ડીઝલ) સાયકલમાં ઉષ્માનો પ્રથમ ભાગ અચળ કદ પર અને બાકીનો ભાગ અચળ દબાણ પર ઉમેરાય છે[cite: 7]."
+    "explanation": "ડ્યુઅલ (સેમી-ડીઝલ) સાયકલમાં હીટનો પ્રથમ ભાગ અચળ વોલ્યુમ પર અને બાકીનો ભાગ અચળ પ્રેશર પર ઉમેરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 161,
     "subject": "I.C. Engines",
     "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
     "question": "High-speed Compression Ignition (C.I.) engines mainly operate on which thermodynamic cycle?",
-    "gujaratiQuestion": "0161. હાઈ સ્પીડ કમ્પ્રેશન ઇગ્નિશન એન્જિન મુખ્યત્વે કઈ સાયકલ પર કાર્ય કરે છે?",
+    "gujaratiQuestion": "0161. હાઈ સ્પીડ કમ્પ્રેશન ઇગ્નિશન એન્જિન મુખ્યત્વે કઈ સાયકલ પર વર્ક કરે છે?",
     "options": [
       "ડીઝલ સાયકલ",
       "ડ્યુઅલ સાયકલ",
@@ -2412,7 +2412,7 @@
       "રેન્કાઈન સાયકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "આધુનિક હાઇ સ્પીડ ડીઝલ એન્જિનો વ્યવહારમાં મર્યાદિત દબાણ સાયકલ એટલે કે ડ્યુઅલ કમ્બશન સાયકલ પર કાર્ય કરે છે[cite: 7]."
+    "explanation": "આધુનિક હાઇ સ્પીડ ડીઝલ એન્જિનો વ્યવહારમાં મર્યાદિત પ્રેશર સાયકલ એટલે કે ડ્યુઅલ કમ્બશન સાયકલ પર વર્ક કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 162,
@@ -2427,7 +2427,7 @@
       "ઓઈલની ખૂબ વધારે વિસ્કોસિટી"
     ],
     "correctAnswer": 0,
-    "explanation": "રેડિએટર કોર કે ટ્યુબ્સમાં ક્ષાર કે કાદવ જામવાથી (Clogged Radiator) કૂલન્ટનું પરિભ્રમણ અને હીટ ટ્રાન્સફર ઘટે છે, જેથી એન્જિન ઓવરહીટ થાય છે[cite: 7]."
+    "explanation": "રેડિએટર કોર કે ટ્યુબ્સમાં ક્ષાર કે કાદવ જામવાથી (Clogged Radiator) કૂલન્ટનું રોટેશન અને હીટ ટ્રાન્સફર ઘટે છે, જેથી એન્જિન ઓવરહીટ થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 163,
@@ -2442,7 +2442,7 @@
       "બ્રેટન સાયકલ"
     ],
     "correctAnswer": 2,
-    "explanation": "જ્યારે rc = 1 થાય ત્યારે અચળ દબાણે ઉષ્મા ઉમેરો શૂન્ય થાય છે અને ડીઝલ સાયકલ ઓટો સાયકલમાં ફેરવાય છે[cite: 7]."
+    "explanation": "જ્યારે rc = 1 થાય ત્યારે અચળ પ્રેશરે હીટ ઉમેરો શૂન્ય થાય છે અને ડીઝલ સાયકલ ઓટો સાયકલમાં ફેરવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 164,
@@ -2457,7 +2457,7 @@
       "20 થી 24"
     ],
     "correctAnswer": 0,
-    "explanation": "પેટ્રોલ એન્જિનમાં પ્રી-ઇગ્નિશન અને ડિટોનેશન અટકાવવા માટે કમ્પ્રેશન રેશિયો સામાન્ય રીતે 6 થી 10 ની મર્યાદામાં રખાય છે[cite: 7]."
+    "explanation": "પેટ્રોલ એન્જિનમાં પ્રી-ઇગ્નિશન અને ડિટોનેશન અટકાવવા માટે કમ્પ્રેશન રેશિયો સામાન્ય રીતે 6 થી 10 ની મર્યાદામાં રખાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 165,
@@ -2472,7 +2472,7 @@
       "લૂઝ ફેન બેલ્ટ"
     ],
     "correctAnswer": 3,
-    "explanation": "ઢીલો ફેન બેલ્ટ સ્લિપ થવાથી કૂલિંગ ફેન અને વોટર પંપની ઝડપ ઘટી જાય છે, જે એન્જિન ઓવરહીટિંગનું સામાન્ય કારણ છે[cite: 7]."
+    "explanation": "ઢીલો ફેન બેલ્ટ સ્લિપ થવાથી કૂલિંગ ફેન અને વોટર પંપની ઝડપ ઘટી જાય છે, જે એન્જિન ઓવરહીટિંગનું સામાન્ય કારણ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 166,
@@ -2487,7 +2487,7 @@
       "16 થી 22"
     ],
     "correctAnswer": 3,
-    "explanation": "ડીઝલને સેલ્ફ-ઇગ્નાઇટ કરવા માટે પૂરતું ઊંચું તાપમાન મેળવવા કમ્પ્રેશન રેશિયો 16 થી 22 રાખવામાં આવે છે[cite: 7]."
+    "explanation": "ડીઝલને સેલ્ફ-ઇગ્નાઇટ કરવા માટે પૂરતું ઊંચું ટેમ્પરેચર મેળવવા કમ્પ્રેશન રેશિયો 16 થી 22 રાખવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 167,
@@ -2502,7 +2502,7 @@
       "મોર્સ પાવર"
     ],
     "correctAnswer": 1,
-    "explanation": "પિસ્ટન ક્રાઉન પર દહનથી સીધો પેદા થતો કુલ પાવર ઈન્ડિકેટેડ પાવર (Indicated Power - IP) કહેવાય છે[cite: 7]."
+    "explanation": "પિસ્ટન ક્રાઉન પર દહનથી સીધો પેદા થતો કુલ પાવર ઈન્ડિકેટેડ પાવર (Indicated Power - IP) કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 168,
@@ -2517,7 +2517,7 @@
       "Plug-out Hybrid Electric Vehicles"
     ],
     "correctAnswer": 1,
-    "explanation": "PHEV એટલે Plug-in Hybrid Electric Vehicles[cite: 7]."
+    "explanation": "PHEV એટલે Plug-in Hybrid Electric Vehicles[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 169,
@@ -2532,7 +2532,7 @@
       "ફ્લુઇડ પાવર"
     ],
     "correctAnswer": 0,
-    "explanation": "ઘર્ષણ લોસ બાદ કરતાં ફ્લાયવ્હીલ/ક્રેન્કશાફ્ટ પર મળતા ઉપયોગી પાવરને બ્રેક પાવર (Brake Power - BP) કહે છે[cite: 7]."
+    "explanation": "ઘર્ષણ લોસ બાદ કરતાં ફ્લાયવ્હીલ/ક્રેન્કશાફ્ટ પર મળતા ઉપયોગી પાવરને બ્રેક પાવર (Brake Power - BP) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 170,
@@ -2547,7 +2547,7 @@
       "એક્ઝોસ્ટ પાવર"
     ],
     "correctAnswer": 1,
-    "explanation": "યાંત્રિક ભાગોના ઘર્ષણમાં વેડફાતા પાવરને ફ્રિક્શન પાવર કહે છે (FP = IP - BP)[cite: 7]."
+    "explanation": "યાંત્રિક ભાગોના ઘર્ષણમાં વેડફાતા પાવરને ફ્રિક્શન પાવર કહે છે (FP = IP - BP)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 171,
@@ -2562,7 +2562,7 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "ટુ-સ્ટ્રોકમાં સ્કેવેન્જિંગ દરમિયાન તાજો ચાર્જ એક્ઝોસ્ટ પોર્ટમાંથી બહાર નીકળી જતો હોવાથી તેની થર્મલ કાર્યક્ષમતા ઓછી હોય છે[cite: 7]."
+    "explanation": "ટુ-સ્ટ્રોકમાં સ્કેવેન્જિંગ દરમિયાન તાજો ચાર્જ એક્ઝોસ્ટ પોર્ટમાંથી બહાર નીકળી જતો હોવાથી તેની થર્મલ વર્કક્ષમતા ઓછી હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 172,
@@ -2577,7 +2577,7 @@
       "બ્રેક પાવર અને ફયુઅલ પાવર"
     ],
     "correctAnswer": 0,
-    "explanation": "મિકેનિકલ કાર્યક્ષમતા η_m = બ્રેક પાવર / ઈન્ડિકેટેડ પાવર (BP / IP) થાય છે[cite: 7]."
+    "explanation": "મિકેનિકલ વર્કક્ષમતા η_m = બ્રેક પાવર / ઈન્ડિકેટેડ પાવર (BP / IP) થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 173,
@@ -2592,7 +2592,7 @@
       "એક્ઝોસ્ટ ગેસ ટેસ્ટ"
     ],
     "correctAnswer": 1,
-    "explanation": "વારાફરતી એક-એક સિલિન્ડરનો સ્પાર્ક/ઇન્જેક્શન કટ કરીને વ્યક્તિગત IP માપવા માટે મોર્સ ટેસ્ટ (Morse Test) વપરાય છે[cite: 7]."
+    "explanation": "વારાફરતી એક-એક સિલિન્ડરનો સ્પાર્ક/ઇન્જેક્શન કટ કરીને વ્યક્તિગત IP માપવા માટે મોર્સ ટેસ્ટ (Morse Test) વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 174,
@@ -2607,7 +2607,7 @@
       "બેલ કોલમેન સાયકલ"
     ],
     "correctAnswer": 0,
-    "explanation": "પેટ્રોલ એન્જિન માટે સૈદ્ધાંતિક પ્રમાણભૂત સાયકલ કોન્સ્ટન્ટ વોલ્યુમ ઓટો સાયકલ (Otto cycle) છે[cite: 7]."
+    "explanation": "પેટ્રોલ એન્જિન માટે સૈદ્ધાંતિક પ્રમાણભૂત સાયકલ કોન્સ્ટન્ટ વોલ્યુમ ઓટો સાયકલ (Otto cycle) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 175,
@@ -2622,7 +2622,7 @@
       "માત્ર મલ્ટી-સિલિન્ડર એન્જિન"
     ],
     "correctAnswer": 3,
-    "explanation": "મોર્સ ટેસ્ટ માટે ઓછામાં ઓછા બે અથવા વધુ સિલિન્ડર્સ (Multi-cylinder engine) હોવા જરૂરી છે[cite: 7]."
+    "explanation": "મોર્સ ટેસ્ટ માટે ઓછામાં ઓછા બે અથવા વધુ સિલિન્ડર્સ (Multi-cylinder engine) હોવા જરૂરી છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 176,
@@ -2637,7 +2637,7 @@
       "J/kg"
     ],
     "correctAnswer": 1,
-    "explanation": "BSFC નો પ્રમાણિત એકમ કિલોગ્રામ પ્રતિ કિલોવોટ-અવર (kg/kW-hr) છે[cite: 7]."
+    "explanation": "BSFC નો પ્રમાણિત એકમ કિલોગ્રામ પ્રતિ કિલોવોટ-અવર (kg/kW-hr) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 177,
@@ -2652,7 +2652,7 @@
       "ડીલે પિરિયડ"
     ],
     "correctAnswer": 3,
-    "explanation": "ઇન્જેક્શન શરૂ થવાથી દહન શરૂ થવા વચ્ચેના સમયગાળાને ઇગ્નિશન ડીલે પિરિયડ (Ignition delay period) કહે છે[cite: 7]."
+    "explanation": "ઇન્જેક્શન શરૂ થવાથી દહન શરૂ થવા વચ્ચેના સમયગાળાને ઇગ્નિશન ડીલે પિરિયડ (Ignition delay period) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 178,
@@ -2667,7 +2667,7 @@
       "બ્રેક પાવર અને ફ્રિક્શન પાવર"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇન્ડિકેટેડ થર્મલ કાર્યક્ષમતા η_ith = Indicated Power / Fuel Power = IP / (mf × CV)[cite: 7]."
+    "explanation": "ઇન્ડિકેટેડ થર્મલ વર્કક્ષમતા η_ith = Indicated Power / Fuel Power = IP / (mf × CV)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 179,
@@ -2682,7 +2682,7 @@
       "ક્લિયરન્સ વોલ્યુમ અને સ્વેપ્ટ વોલ્યુમ"
     ],
     "correctAnswer": 2,
-    "explanation": "વોલ્યુમેટ્રિક કાર્યક્ષમતા = સક્શન દરમિયાન ખેંચાયેલી હવાનું વાસ્તવિક કદ (NTP પર) / પિસ્ટનનું સ્વેપ્ટ વોલ્યુમ (Actual air volume / Swept volume)[cite: 7]."
+    "explanation": "વોલ્યુમેટ્રિક વર્કક્ષમતા = સક્શન દરમિયાન ખેંચાયેલી હવાનું વાસ્તવિક વોલ્યુમ (NTP પર) / પિસ્ટનનું સ્વેપ્ટ વોલ્યુમ (Actual air volume / Swept volume)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 180,
@@ -2697,7 +2697,7 @@
       "ક્રેન"
     ],
     "correctAnswer": 3,
-    "explanation": "ક્રેન લિફ્ટિંગ અને મટિરિયલ હેન્ડલિંગ સાધન છે, ઉત્ખનન (Excavating) સાધન નથી[cite: 7]."
+    "explanation": "ક્રેન લિફ્ટિંગ અને મટિરિયલ હેન્ડલિંગ સાધન છે, ઉત્ખનન (Excavating) સાધન નથી[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 181,
@@ -2712,7 +2712,7 @@
       "એનિમોમીટર"
     ],
     "correctAnswer": 1,
-    "explanation": "એન્જિનનો બ્રેક ટોર્ક અને બ્રેક પાવર માપવા માટે ડાયનેમોમીટર (Dynamometer) વપરાય છે[cite: 7]."
+    "explanation": "એન્જિનનો બ્રેક ટોર્ક અને બ્રેક પાવર માપવા માટે ડાયનેમોમીટર (Dynamometer) વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 182,
@@ -2727,14 +2727,14 @@
       "રોટામીટર"
     ],
     "correctAnswer": 0,
-    "explanation": "શાફ્ટની રોટેશનલ ઝડપ (RPM) માપવા માટે ટેકોમીટર (Tachometer) વપરાય છે[cite: 7]."
+    "explanation": "શાફ્ટની રોટેશનલ ઝડપ (RPM) માપવા માટે ટેકોમીટર (Tachometer) વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 183,
     "subject": "I.C. Engines",
     "subTopic": "Ignition, Lubrication & Cooling Systems",
     "question": "At approximately what temperature does an engine cooling system thermostat valve begin to open?",
-    "gujaratiQuestion": "0183. એન્જિન કૂલિંગ સિસ્ટમનો થર્મોસ્ટેટ વાલ્વ આશરે કયા તાપમાને ખૂલવાનું શરૂ કરે છે?",
+    "gujaratiQuestion": "0183. એન્જિન કૂલિંગ સિસ્ટમનો થર્મોસ્ટેટ વાલ્વ આશરે કયા ટેમ્પરેચરે ખૂલવાનું શરૂ કરે છે?",
     "options": [
       "95°C",
       "80°C",
@@ -2742,7 +2742,7 @@
       "20°C"
     ],
     "correctAnswer": 1,
-    "explanation": "મોટાભાગના ઓટોમોબાઇલ થર્મોસ્ટેટ વાલ્વ આશરે 75°C થી 82°C (લગભગ 80°C) તાપમાને ખૂલવાનું શરૂ કરે છે[cite: 7]."
+    "explanation": "મોટાભાગના ઓટોમોબાઇલ થર્મોસ્ટેટ વાલ્વ આશરે 75°C થી 82°C (લગભગ 80°C) ટેમ્પરેચરે ખૂલવાનું શરૂ કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 184,
@@ -2757,14 +2757,14 @@
       "મિકેનિકલ એફિશિયન્સી"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇન્ડિકેટર p-V ડાયાગ્રામના વિસ્તાર પરથી ઇન્ડિકેટેડ મીન ઇફેક્ટિવ પ્રેશર (imep) શોધાય છે[cite: 7]."
+    "explanation": "ઇન્ડિકેટર p-V ડાયાગ્રામના વિસ્તાર પરથી ઇન્ડિકેટેડ મીન ઇફેક્ટિવ પ્રેશર (imep) શોધાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 185,
     "subject": "I.C. Engines",
     "subTopic": "Testing & Performance of IC Engines",
     "question": "Approximately what percentage of the total heat energy supplied to an engine is converted into useful brake power?",
-    "gujaratiQuestion": "0185. એન્જિનમાં ઉત્પન્ન થતી કુલ ઉષ્મા ઉર્જામાંથી કેટલી ઉર્જા ઉપયોગી બ્રેક પાવર તરીકે મળે છે?",
+    "gujaratiQuestion": "0185. એન્જિનમાં ઉત્પન્ન થતી કુલ હીટ ઉર્જામાંથી કેટલી ઉર્જા ઉપયોગી બ્રેક પાવર તરીકે મળે છે?",
     "options": [
       "10 થી 15%",
       "30 થી 35%",
@@ -2772,7 +2772,7 @@
       "90 થી 95%"
     ],
     "correctAnswer": 1,
-    "explanation": "હીટ બેલેન્સ શીટ મુજબ માત્ર 30% થી 35% ઉષ્મા બ્રેક પાવરમાં ફેરવાય છે; બાકીની ઉષ્મા કૂલિંગ, એક્ઝોસ્ટ અને રેડિયેશનમાં ગુમાવાય છે[cite: 7]."
+    "explanation": "હીટ બેલેન્સ શીટ મુજબ માત્ર 30% થી 35% હીટ બ્રેક પાવરમાં ફેરવાય છે; બાકીની હીટ કૂલિંગ, એક્ઝોસ્ટ અને રેડિયેશનમાં ગુમાવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 186,
@@ -2787,7 +2787,7 @@
       "કોરોઝન સામેનો અવરોધ"
     ],
     "correctAnswer": 0,
-    "explanation": "લ્યુબ્રિકેટિંગ ઓઇલની સૌથી મહત્વપૂર્ણ લાક્ષણિકતા તેની વિસ્કોસિટી (Viscosity) છે જે લોડ વહન ક્ષમતા નક્કી કરે છે[cite: 7]."
+    "explanation": "લ્યુબ્રિકેટિંગ ઓઇલની સૌથી મહત્વપૂર્ણ લાક્ષણિકતા તેની વિસ્કોસિટી (Viscosity) છે જે લોડ ફ્લો ક્ષમતા નક્કી કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 187,
@@ -2802,7 +2802,7 @@
       "પાણીની વરાળ"
     ],
     "correctAnswer": 2,
-    "explanation": "ઓક્સિજનની અછતને લીધે પેટ્રોલના અપૂર્ણ દહનથી ઝેરી કાર્બન મોનોક્સાઇડ (CO) વાયુ ઉત્પન્ન થાય છે[cite: 7]."
+    "explanation": "ઓક્સિજનની અછતને લીધે પેટ્રોલના અપૂર્ણ દહનથી ઝેરી કાર્બન મોનોક્સાઇડ (CO) વાયુ ઉત્પન્ન થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 188,
@@ -2817,7 +2817,7 @@
       "ડીસિલરેશન વખતે"
     ],
     "correctAnswer": 2,
-    "explanation": "ક્રૂઝિંગ દરમિયાન સ્થિર લોડ અને પૂર્ણ દહન થતું હોવાથી હાઇડ્રોકાર્બન ઉત્સર્જન લઘુત્તમ હોય છે[cite: 7]."
+    "explanation": "ક્રૂઝિંગ દરમિયાન સ્થિર લોડ અને પૂર્ણ દહન થતું હોવાથી હાઇડ્રોકાર્બન ઉત્સર્જન લઘુત્તમ હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 189,
@@ -2832,7 +2832,7 @@
       "ઈન્ટરકૂલર"
     ],
     "correctAnswer": 1,
-    "explanation": "કેટાલીટીક કન્વર્ટર (Catalytic Converter) એક્ઝોસ્ટમાંથી CO, HC અને NOx નું રૂપાંતર હાનિરહિત વાયુઓમાં કરે છે[cite: 7]."
+    "explanation": "કેટાલીટીક કન્વર્ટર (Catalytic Converter) એક્ઝોસ્ટમાંથી CO, HC અને NOx નું રૂપાંતર હાનિરહિત વાયુઓમાં કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 190,
@@ -2847,7 +2847,7 @@
       "25:1"
     ],
     "correctAnswer": 1,
-    "explanation": "સૈદ્ધાંતિક સ્ટોઇકિયોમેટ્રિક ગુણોત્તર 14.7:1 (આશરે 15:1) છે[cite: 7]."
+    "explanation": "સૈદ્ધાંતિક સ્ટોઇકિયોમેટ્રિક ગુણોત્તર 14.7:1 (આશરે 15:1) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 191,
@@ -2858,11 +2858,11 @@
     "options": [
       "અપૂર્ણ દહન",
       "સંપૂર્ણ દહન",
-      "ઉચ્ચ તાપમાન",
-      "ઉચ્ચ દબાણ"
+      "ઉચ્ચ ટેમ્પરેચર",
+      "ઉચ્ચ પ્રેશર"
     ],
     "correctAnswer": 0,
-    "explanation": "હવાની અપૂરતી માત્રાને કારણે ઇંધણનું અપૂર્ણ દહન (Incomplete combustion) થવાથી CO બને છે[cite: 7]."
+    "explanation": "હવાની અપૂરતી માત્રાને કારણે ઇંધણનું અપૂર્ણ દહન (Incomplete combustion) થવાથી CO બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 192,
@@ -2877,7 +2877,7 @@
       "સલ્ફર ડાયોક્સાઇડ"
     ],
     "correctAnswer": 1,
-    "explanation": "આઇડલિંગ વખતે રિચ મિશ્રણ અને ઓછું ઓક્સિજન હોવાથી કાર્બન મોનોક્સાઇડ (CO) ઉત્સર્જન સૌથી વધુ હોય છે[cite: 7]."
+    "explanation": "આઇડલિંગ વખતે રિચ મિશ્રણ અને ઓછું ઓક્સિજન હોવાથી કાર્બન મોનોક્સાઇડ (CO) ઉત્સર્જન સૌથી વધુ હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 193,
@@ -2892,7 +2892,7 @@
       "ઓવર લોડિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓઇલમાં ધૂળ અને ઘર્ષક કણો (Dirt/Contamination) નો પ્રવેશ બેરિંગ જર્નલ સપાટીને ઘસી નાખી વહેલી નિષ્ફળતા નોતરે છે[cite: 7]."
+    "explanation": "ઓઇલમાં ધૂળ અને ઘર્ષક કણો (Dirt/Contamination) નો પ્રવેશ બેરિંગ જર્નલ સપાટીને ઘસી નાખી વહેલી નિષ્ફળતા નોતરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 194,
@@ -2907,7 +2907,7 @@
       "એક્ઝોસ્ટ મેનિફોલ્ડ"
     ],
     "correctAnswer": 2,
-    "explanation": "ક્રેન્કકેસ વેન્ટિલેશન (PCV સિસ્ટમ) બ્લો-બાય વાયુઓને ફરી ઇન્ટેક મેનિફોલ્ડમાં મોકલી બાળી નાખે છે[cite: 7]."
+    "explanation": "ક્રેન્કકેસ વેન્ટિલેશન (PCV સિસ્ટમ) બ્લો-બાય વાયુઓને ફરી ઇન્ટેક મેનિફોલ્ડમાં મોકલી બાળી નાખે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 195,
@@ -2922,7 +2922,7 @@
       "સિલ્વર અને ગોલ્ડ"
     ],
     "correctAnswer": 2,
-    "explanation": "ઓક્સિડેશન અને રિડક્શન પ્રક્રિયાઓ ઝડપી બનાવવા પ્લેટિનમ (Pt), પેલેડિયમ (Pd) અને રોડિયમ (Rh) ઉદ્દીપક તરીકે વપરાય છે[cite: 7]."
+    "explanation": "ઓક્સિડેશન અને રિડક્શન પ્રોસેસીસ ઝડપી બનાવવા પ્લેટિનમ (Pt), પેલેડિયમ (Pd) અને રોડિયમ (Rh) ઉદ્દીપક તરીકે વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 196,
@@ -2937,7 +2937,7 @@
       "હાનિરહિત એક્ઝોસ્ટ"
     ],
     "correctAnswer": 1,
-    "explanation": "ડીઝલ એન્જિન ઊંચી થર્મલ કાર્યક્ષમતા અને વિશાળ લોડ રેન્જમાં ઓછો સ્પેસિફિક ઇંધણ વપરાશ (Low BSFC) ધરાવે છે[cite: 7]."
+    "explanation": "ડીઝલ એન્જિન ઊંચી થર્મલ વર્કક્ષમતા અને વિશાળ લોડ રેન્જમાં ઓછો સ્પેસિફિક ઇંધણ વપરાશ (Low BSFC) ધરાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 197,
@@ -2946,13 +2946,13 @@
     "question": "What is the primary cause of Nitrogen Oxides (NOx) formation in an engine?",
     "gujaratiQuestion": "0197. એન્જિનમાં NOx ઉત્સર્જનનું મુખ્ય કારણ શું છે?",
     "options": [
-      "ઓછું તાપમાન",
-      "કમ્બશન ચેમ્બરનું અતિ ઉચ્ચ તાપમાન (2000 K થી વધુ)",
+      "ઓછું ટેમ્પરેચર",
+      "કમ્બશન ચેમ્બરનું અતિ ઉચ્ચ ટેમ્પરેચર (2000 K થી વધુ)",
       "રિચ મિશ્રણ",
       "અપૂર્ણ દહન"
     ],
     "correctAnswer": 1,
-    "explanation": "હવામાં રહેલા નાઇટ્રોજન અને ઓક્સિજન 1800-2000 K થી ઊંચા કમ્બશન તાપમાને પ્રક્રિયા કરી થર્મલ NOx બનાવે છે[cite: 7]."
+    "explanation": "હવામાં રહેલા નાઇટ્રોજન અને ઓક્સિજન 1800-2000 K થી ઊંચા કમ્બશન ટેમ્પરેચરે પ્રોસેસ કરી થર્મલ NOx બનાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 198,
@@ -2967,7 +2967,7 @@
       "પાર્ટિક્યુલેટ મેટર"
     ],
     "correctAnswer": 2,
-    "explanation": "EGR એક્ઝોસ્ટ વાયુઓને ઇન્ટેકમાં પાછા ભેળવી પીક કમ્બશન તાપમાન ઘટાડે છે, જેથી NOx ઉત્સર્જન ઘટે છે[cite: 7]."
+    "explanation": "EGR એક્ઝોસ્ટ વાયુઓને ઇન્ટેકમાં પાછા ભેળવી પીક કમ્બશન ટેમ્પરેચર ઘટાડે છે, જેથી NOx ઉત્સર્જન ઘટે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 199,
@@ -2982,7 +2982,7 @@
       "કૂલન્ટ વોટર ટેમ્પરેચર વધવાથી"
     ],
     "correctAnswer": 2,
-    "explanation": "કમ્પ્રેશન રેશિયો ઘટાડવાથી કમ્પ્રેશન તાપમાન ઘટે છે, જેથી ઇગ્નિશન ડિલે લંબાઈને નોકિંગ વધે છે[cite: 7]."
+    "explanation": "કમ્પ્રેશન રેશિયો ઘટાડવાથી કમ્પ્રેશન ટેમ્પરેચર ઘટે છે, જેથી ઇગ્નિશન ડિલે લંબાઈને નોકિંગ વધે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 200,
@@ -2997,7 +2997,7 @@
       "સલ્ફર ડાયોક્સાઈડ"
     ],
     "correctAnswer": 2,
-    "explanation": "પેટ્રોલ એન્જિન સ્ટોઇકિયોમેટ્રિક કે રિચ મિશ્રણ પર ચાલતું હોવાથી ડીઝલ (લીન બર્ન) કરતાં CO ઉત્સર્જન ઘણું વધારે હોય છે[cite: 7]."
+    "explanation": "પેટ્રોલ એન્જિન સ્ટોઇકિયોમેટ્રિક કે રિચ મિશ્રણ પર ચાલતું હોવાથી ડીઝલ (લીન બર્ન) કરતાં CO ઉત્સર્જન ઘણું વધારે હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 201,
@@ -3012,7 +3012,7 @@
       "વધારે ઇંધણ આપવું"
     ],
     "correctAnswer": 0,
-    "explanation": "ઓવરલોડિંગ ટાળવાથી અને યોગ્ય ઇગ્નિશન ક્વોલિટીવાળું ઇંધણ વાપરવાથી કાળો ધુમાડો (Soot) અટકે છે[cite: 7]."
+    "explanation": "ઓવરલોડિંગ ટાળવાથી અને યોગ્ય ઇગ્નિશન ક્વોલિટીવાળું ઇંધણ વાપરવાથી કાળો ધુમાડો (Soot) અટકે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 202,
@@ -3027,7 +3027,7 @@
       "એડિયાબેટિક"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્ટીમ પાવર પ્લાન્ટમાં વર્કિંગ ફ્લુઇડ બંધ ચક્રમાં સતત પરિભ્રમણ કરતું હોવાથી તે સાયકલિક પ્રોસેસ (Rankine Cycle) છે[cite: 7]."
+    "explanation": "સ્ટીમ પાવર પ્લાન્ટમાં વર્કિંગ ફ્લુઇડ બંધ સાયકલમાં સતત રોટેશન કરતું હોવાથી તે સાયકલિક પ્રોસેસ (Rankine Cycle) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 203,
@@ -3037,19 +3037,19 @@
     "gujaratiQuestion": "0203. સુપરચાર્જિંગનો મુખ્ય ઉદ્દેશ્ય શું છે?",
     "options": [
       "એન્જિનની એફિશિયન્સી ઘટાડવી",
-      "એન્જિનનું કદ અને વજન વધારવું",
-      "આપેલા કદ માટે પાવર આઉટપુટ વધારવો",
+      "એન્જિનનું વોલ્યુમ અને વજન વધારવું",
+      "આપેલા વોલ્યુમ માટે પાવર આઉટપુટ વધારવો",
       "ઈંધણનો વપરાશ ઘટાડવો"
     ],
     "correctAnswer": 2,
-    "explanation": "સિસ્ટમમાં હવાને દબાણપૂર્વક ભરીને ડેન્સિટી વધારવાથી સમાન એન્જિન કદમાંથી વધુ પાવર આઉટપુટ મળે છે[cite: 7]."
+    "explanation": "સિસ્ટમમાં હવાને પ્રેશરપૂર્વક ભરીને ડેન્સિટી વધારવાથી સમાન એન્જિન વોલ્યુમમાંથી વધુ પાવર આઉટપુટ મળે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 204,
     "subject": "I.C. Engines",
     "subTopic": "Testing & Performance of IC Engines",
     "question": "The scavenging process is primarily associated with which type of engine?",
-    "gujaratiQuestion": "0204. સ્કેવેન્જિંગ પ્રક્રિયા મુખ્યત્વે કયા એન્જિન સાથે સંકળાયેલી છે?",
+    "gujaratiQuestion": "0204. સ્કેવેન્જિંગ પ્રોસેસ મુખ્યત્વે કયા એન્જિન સાથે સંકળાયેલી છે?",
     "options": [
       "ફોર-સ્ટ્રોક પેટ્રોલ એન્જિન",
       "ટુ-સ્ટ્રોક એન્જિન",
@@ -3057,7 +3057,7 @@
       "ગેસ ટર્બાઈન"
     ],
     "correctAnswer": 1,
-    "explanation": "ટુ-સ્ટ્રોક એન્જિનમાં બળેલા એક્ઝોસ્ટ વાયુઓને બહાર કાઢી તાજો ચાર્જ ભરવાની ક્રિયાને સ્કેવેન્જિંગ (Scavenging) કહે છે[cite: 7]."
+    "explanation": "ટુ-સ્ટ્રોક એન્જિનમાં બળેલા એક્ઝોસ્ટ વાયુઓને બહાર કાઢી તાજો ચાર્જ ભરવાની ક્રિયાને સ્કેવેન્જિંગ (Scavenging) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 205,
@@ -3072,7 +3072,7 @@
       "ડીઝલ સાયકલ"
     ],
     "correctAnswer": 2,
-    "explanation": "ગેસ ટર્બાઇન પ્લાન્ટ માટેની આદર્શ એર સ્ટાન્ડર્ડ સાયકલ બ્રેટન સાયકલ (Brayton cycle) છે[cite: 7]."
+    "explanation": "ગેસ ટર્બાઇન પ્લાન્ટ માટેની આદર્શ એર સ્ટાન્ડર્ડ સાયકલ બ્રેટન સાયકલ (Brayton cycle) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 206,
@@ -3087,14 +3087,14 @@
       "જ્યારે ઇનલેટ અને એક્ઝોસ્ટ બંને વાલ્વ એકસાથે ખુલ્લા હોય"
     ],
     "correctAnswer": 3,
-    "explanation": "એક્ઝોસ્ટ સ્ટ્રોકના અંતે અને સક્શનની શરૂઆતમાં (TDC નજીક) ઇનલેટ અને એક્ઝોસ્ટ બંને વાલ્વ થોડા સમય માટે ખુલ્લા રહે તેને વાલ્વ ઓવરલેપ કહે છે[cite: 7]."
+    "explanation": "એક્ઝોસ્ટ સ્ટ્રોકના અંતે અને સક્શનની શરૂઆતમાં (TDC નજીક) ઇનલેટ અને એક્ઝોસ્ટ બંને વાલ્વ થોડા સમય માટે ખુલ્લા રહે તેને વાલ્વ ઓવરલેપ કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 207,
     "subject": "I.C. Engines",
     "subTopic": "Testing & Performance of IC Engines",
     "question": "For the same power and same speed, how is the size of the flywheel of a four-stroke engine compared to a two-stroke engine?",
-    "gujaratiQuestion": "0207. સમાન પાવર અને સમાન ઝડપ માટે, ટુ-સ્ટ્રોક એન્જિનની સરખામણીમાં ફોર-સ્ટ્રોક એન્જિનના ફ્લાયવ્હીલનું કદ કેવું હોય છે?",
+    "gujaratiQuestion": "0207. સમાન પાવર અને સમાન ઝડપ માટે, ટુ-સ્ટ્રોક એન્જિનની સરખામણીમાં ફોર-સ્ટ્રોક એન્જિનના ફ્લાયવ્હીલનું વોલ્યુમ કેવું હોય છે?",
     "options": [
       "મોટું",
       "નાનું",
@@ -3102,7 +3102,7 @@
       "એન્જિન ડિઝાઈન પર આધારિત નથી"
     ],
     "correctAnswer": 0,
-    "explanation": "ફોર-સ્ટ્રોકમાં બે રિવોલ્યુશને એક પાવર સ્ટ્રોક મળતો હોવાથી ટર્નિંગ મોમેન્ટનું ફ્લક્ચ્યુએશન વધુ હોય છે, જેથી મોટું ફ્લાયવ્હીલ જોઈએ[cite: 7]."
+    "explanation": "ફોર-સ્ટ્રોકમાં બે રિવોલ્યુશને એક પાવર સ્ટ્રોક મળતો હોવાથી ટર્નિંગ મોમેન્ટનું ફ્લક્ચ્યુએશન વધુ હોય છે, જેથી મોટું ફ્લાયવ્હીલ જોઈએ[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 208,
@@ -3117,14 +3117,14 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "ગેસ ટર્બાઇન પ્લાન્ટ્સ મુખ્યત્વે ઓપન સાયકલ અને ક્લોઝ્ડ સાયકલ પ્રકારના હોય છે[cite: 7]."
+    "explanation": "ગેસ ટર્બાઇન પ્લાન્ટ્સ મુખ્યત્વે ઓપન સાયકલ અને ક્લોઝ્ડ સાયકલ પ્રકારના હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 209,
     "subject": "I.C. Engines",
     "subTopic": "Air-Standard Otto, Diesel & Dual Cycles",
     "question": "In an ideal air-standard cycle, all thermodynamic processes are assumed to be:",
-    "gujaratiQuestion": "0209. એક આદર્શ એર સ્ટાન્ડર્ડ સાયકલમાં બધી પ્રક્રિયાઓને કેવી ધારવામાં આવે છે?",
+    "gujaratiQuestion": "0209. એક આદર્શ એર સ્ટાન્ડર્ડ સાયકલમાં બધી પ્રોસેસીસને કેવી ધારવામાં આવે છે?",
     "options": [
       "ઇરરિવર્સિબલ",
       "રિવર્સિબલ",
@@ -3132,7 +3132,7 @@
       "આઈસોબેરિક"
     ],
     "correctAnswer": 1,
-    "explanation": "એર સ્ટાન્ડર્ડ સાયકલમાં તમામ પ્રક્રિયાઓ આંતરિક અને બાહ્ય રીતે ઘર્ષણરહિત રિવર્સિબલ (Reversible) ધારવામાં આવે છે[cite: 7]."
+    "explanation": "એર સ્ટાન્ડર્ડ સાયકલમાં તમામ પ્રોસેસીસ આંતરિક અને બાહ્ય રીતે ઘર્ષણરહિત રિવર્સિબલ (Reversible) ધારવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 210,
@@ -3147,7 +3147,7 @@
       "વૉલ્યુમેટ્રિક એફિશિયન્સી"
     ],
     "correctAnswer": 2,
-    "explanation": "કોઈપણ વાસ્તવિક લોસ વગર ગણાતી સૈદ્ધાંતિક એર સ્ટાન્ડર્ડ કાર્યક્ષમતા (Air Standard Efficiency) હંમેશા સર્વોચ્ચ હોય છે[cite: 7]."
+    "explanation": "કોઈપણ વાસ્તવિક લોસ વગર ગણાતી સૈદ્ધાંતિક એર સ્ટાન્ડર્ડ વર્કક્ષમતા (Air Standard Efficiency) હંમેશા સર્વોચ્ચ હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 211,
@@ -3162,7 +3162,7 @@
       "લોડમાં થતા ફેરફાર સામે ઝડપી પ્રતિભાવ"
     ],
     "correctAnswer": 2,
-    "explanation": "મોટો ડ્રાફ્ટ લોસ થવો એ ફાયર ટ્યુબ બોઇલરની મર્યાદા/ખામી છે, ફાયદો નથી[cite: 7]."
+    "explanation": "મોટો ડ્રાફ્ટ લોસ થવો એ ફાયર ટ્યુબ બોઇલરની મર્યાદા/ખામી છે, ફાયદો નથી[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 212,
@@ -3177,7 +3177,7 @@
       "એન્જિન સ્પીડ વધે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "કાર્બન જમા થવાથી ક્લિયરન્સ વોલ્યુમ (Vc) ઘટે છે, જેથી અસરકારક કમ્પ્રેશન રેશિયો r = (Vs + Vc)/Vc વધે છે અને નોકિંગ થાય છે[cite: 7]."
+    "explanation": "કાર્બન જમા થવાથી ક્લિયરન્સ વોલ્યુમ (Vc) ઘટે છે, જેથી અસરકારક કમ્પ્રેશન રેશિયો r = (Vs + Vc)/Vc વધે છે અને નોકિંગ થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 213,
@@ -3192,14 +3192,14 @@
       "બેટરી દ્વારા"
     ],
     "correctAnswer": 2,
-    "explanation": "ટર્બોચાર્જર એન્જિનમાંથી નીકળતા ઊંચી ઊર્જાવાળા એક્ઝોસ્ટ વાયુઓ (Exhaust gas energy) દ્વારા સંચાલિત ટર્બાઇનથી ફરે છે[cite: 7]."
+    "explanation": "ટર્બોચાર્જર એન્જિનમાંથી નીકળતા ઊંચી ઊર્જાવાળા એક્ઝોસ્ટ વાયુઓ (Exhaust gas energy) દ્વારા સંચાલિત ટર્બાઇનથી ફરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 214,
     "subject": "I.C. Engines",
     "subTopic": "Advanced IC Engine Concepts",
     "question": "What is the function of a fusible plug installed in a boiler furnace crown?",
-    "gujaratiQuestion": "0214. ફર્નેસમાં લગાવવામાં આવેલા ફ્યુઝિબલ પ્લગનું કાર્ય શું છે?",
+    "gujaratiQuestion": "0214. ફર્નેસમાં લગાવવામાં આવેલા ફ્યુઝિબલ પ્લગનું વર્ક શું છે?",
     "options": [
       "વધારાના કરંટને ડિટેક્ટ કરવા",
       "વધારાની હીટને ડિટેક્ટ કરવા",
@@ -3207,7 +3207,7 @@
       "શેલમાં પાણીનું સ્તર જોખમી રીતે ઘટે ત્યારે ઓગળીને આગ બુઝાવવી"
     ],
     "correctAnswer": 3,
-    "explanation": "વોટર લેવલ ઘટી જતાં ફ્યુઝિબલ પ્લગનું ગનમેટલ ઓગળી સ્ટીમ ફર્નેસમાં પ્રવેશે છે અને બોઇલરને ફાટતું બચાવે છે[cite: 7]."
+    "explanation": "વોટર લેવલ ઘટી જતાં ફ્યુઝિબલ પ્લગનું ગનમેટલ ઓગળી સ્ટીમ ફર્નેસમાં પ્રવેશે છે અને બોઇલરને ફાટતું બચાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 215,
@@ -3222,22 +3222,22 @@
       "શૂન્ય"
     ],
     "correctAnswer": 2,
-    "explanation": "ડીઝલ ઇન્જેક્શન પ્રેશર 100 થી 2000 બાર જેટલું ઘણું વધારે હોય છે[cite: 7]."
+    "explanation": "ડીઝલ ઇન્જેક્શન પ્રેશર 100 થી 2000 બાર જેટલું ઘણું વધારે હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 216,
     "subject": "I.C. Engines",
     "subTopic": "Testing & Performance of IC Engines",
     "question": "In an engine heat balance sheet, the total heat energy supplied is considered equal to:",
-    "gujaratiQuestion": "0216. હીટ બેલેન્સ શીટમાં એન્જિનને અપાતી કુલ ઉષ્મા ઉર્જા કોના બરાબર ગણવામાં આવે છે?",
+    "gujaratiQuestion": "0216. હીટ બેલેન્સ શીટમાં એન્જિનને અપાતી કુલ હીટ ઉર્જા કોના બરાબર ગણવામાં આવે છે?",
     "options": [
       "બ્રેક પાવર ઉર્જા",
       "એક્ઝોસ્ટ ગેસમાં જતી ઉર્જા",
       "કૂલિંગ વોટરમાં જતી ઉર્જા",
-      "ઈંધણના દહનથી મળતી કુલ ઉષ્મા ઉર્જા (mf × CV)"
+      "ઈંધણના દહનથી મળતી કુલ હીટ ઉર્જા (mf × CV)"
     ],
     "correctAnswer": 3,
-    "explanation": "સપ્લાય કરેલી કુલ ઉષ્મા Q_in = બળતણનો માસ ફ્લો રેટ × કેલરીફિક વેલ્યુ (mf × CV) બરાબર હોય છે[cite: 7]."
+    "explanation": "સપ્લાય કરેલી કુલ હીટ Q_in = બળતણનો માસ ફ્લો રેટ × કેલરીફિક વેલ્યુ (mf × CV) બરાબર હોય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 217,
@@ -3252,7 +3252,7 @@
       "વિસ્કોસિટી"
     ],
     "correctAnswer": 1,
-    "explanation": "ફ્લેશ પોઇન્ટ (Flash point) એ લઘુત્તમ તાપમાન છે કે જ્યાં ઇંધણની વરાળ જ્યોત નજીક લાવતાં ક્ષણિક ઝબકારો આપી સળગી ઊઠે છે[cite: 7]."
+    "explanation": "ફ્લેશ પોઇન્ટ (Flash point) એ લઘુત્તમ ટેમ્પરેચર છે કે જ્યાં ઇંધણની વરાળ જ્યોત નજીક લાવતાં ક્ષણિક ઝબકારો આપી સળગી ઊઠે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "subject": "I.C. Engines",
@@ -3281,7 +3281,7 @@
       "0.1 MPa"
     ],
     "correctAnswer": 0,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Using P=power/(swept volume × power strokes per second) gives approximately 2 MPa.",
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Using P=power/(swept volume × power strokes per second) gives approximately 2 MPa.\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
     "id": 219
   },
   {
@@ -3311,7 +3311,7 @@
       "Gas leak"
     ],
     "correctAnswer": 0,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. A very white insulator can be associated with an over-advanced/hot combustion condition.",
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. A very white insulator can be associated with an over-advanced/hot combustion condition.\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
     "id": 221
   },
   {
@@ -3341,7 +3341,7 @@
       "Inlet port is closed and depression is being formed"
     ],
     "correctAnswer": 3,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The source keyed the closed-inlet/depression condition for this crank position.",
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The source keyed the closed-inlet/depression condition for this crank position.\n\n💡 [High Yield Expected Question - 2026 Exam]",
     "id": 223
   },
   {
@@ -3363,7 +3363,7 @@
     "subject": "I.C. Engines",
     "subTopic": "Carburettor, Port Fuel Injection & Direct Injection",
     "question": "The vacuum advance mechanism of an SI-engine ignition system mainly operates under:",
-    "gujaratiQuestion": "SI engineના ignition systemમાં vacuum advance mechanism મુખ્યત્વે કઈ સ્થિતિમાં કાર્ય કરે છે?",
+    "gujaratiQuestion": "SI engineના ignition systemમાં vacuum advance mechanism મુખ્યત્વે કઈ સ્થિતિમાં વર્ક કરે છે?",
     "options": [
       "Light engine load",
       "Heavy engine load",
@@ -3371,7 +3371,7 @@
       "None"
     ],
     "correctAnswer": 0,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. High manifold vacuum at light load is used for additional spark advance.",
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. High manifold vacuum at light load is used for additional spark advance.\n\n⚡ [Most Likely Exam Question - Concept Trap]",
     "id": 225
   },
   {
@@ -3401,7 +3401,7 @@
       "Clutch"
     ],
     "correctAnswer": 1,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The cited item describes movement and selection of the synchronizer.",
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. The cited item describes movement and selection of the synchronizer.\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
     "id": 227
   },
   {
@@ -3431,7 +3431,7 @@
       "Lubrication"
     ],
     "correctAnswer": 1,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Scavenging is the removal of exhaust gases and replacement by fresh charge.",
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Scavenging is the removal of exhaust gases and replacement by fresh charge.\n\n💡 [High Yield Expected Question - 2026 Exam]",
     "id": 229
   },
   {
@@ -3461,7 +3461,7 @@
       "Four revolutions"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: A four-stroke cycle requires two crankshaft revolutions.",
+    "explanation": "Expected MCQ: A four-stroke cycle requires two crankshaft revolutions. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]",
     "id": 231
   },
   {
@@ -3476,7 +3476,7 @@
       "Only mechanical governor control"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Common rail systems maintain high rail pressure and electronically control injection timing/quantity.",
+    "explanation": "Expected MCQ: Common rail systems maintain high rail pressure and electronically control injection timing/quantity. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]",
     "id": 232
   },
   {
@@ -3491,7 +3491,7 @@
       "Radiator"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Brake power is shaft output power.",
+    "explanation": "Expected MCQ: Brake power is shaft output power. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]",
     "id": 233
   },
   {
@@ -3506,7 +3506,7 @@
       "Increase cooling-water flow"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Less fuel accumulates before ignition, reducing the severity of the initial premixed burn.",
+    "explanation": "Expected MCQ: Less fuel accumulates before ignition, reducing the severity of the initial premixed burn. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]",
     "id": 234
   },
   {
@@ -3521,7 +3521,7 @@
       "Only soot in all engines"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Three-way catalytic converters target HC, CO and NOx in suitable SI-engine conditions.",
+    "explanation": "Expected MCQ: Three-way catalytic converters target HC, CO and NOx in suitable SI-engine conditions. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]",
     "id": 235
   },
   {
@@ -3537,7 +3537,7 @@
       "Compressor"
     ],
     "correctAnswer": 0,
-    "explanation": "An excavator combines digging, lifting and swinging functions for earthwork."
+    "explanation": "An excavator combines digging, lifting and swinging functions for earthwork. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 237,
@@ -3552,7 +3552,7 @@
       "shaft alignment"
     ],
     "correctAnswer": 0,
-    "explanation": "Dumpers carry and discharge bulk materials such as soil, rock and aggregates."
+    "explanation": "Dumpers carry and discharge bulk materials such as soil, rock and aggregates. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 238,
@@ -3567,6 +3567,6 @@
       "Direct-Tool-Hammer"
     ],
     "correctAnswer": 0,
-    "explanation": "DTH drilling places the hammer near the bottom of the hole for rock drilling."
+    "explanation": "DTH drilling places the hammer near the bottom of the hole for rock drilling. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   }
 ]

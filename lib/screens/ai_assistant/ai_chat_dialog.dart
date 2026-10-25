@@ -228,7 +228,7 @@ class _AiChatDialogState extends State<AiChatDialog> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       const Text(
-                        'AAE AI Assistant',
+                        'AAE AI Guru (ઇજનેરી AI ગુરુ)',
                         style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
                       ),
                       Text(

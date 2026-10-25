@@ -45,11 +45,31 @@ class _BookmarksScreenState extends State<BookmarksScreen> {
     ).then((_) => _loadBookmarks()); // Refresh after practice
   }
 
+  String _searchQuery = '';
+  String _selectedTag = 'All';
+
+  List<Question> get filteredBookmarks {
+    return bookmarks.where((q) {
+      final matchesSearch = _searchQuery.isEmpty ||
+          q.question.toLowerCase().contains(_searchQuery.toLowerCase()) ||
+          q.gujaratiQuestion.toLowerCase().contains(_searchQuery.toLowerCase()) ||
+          q.subject.toLowerCase().contains(_searchQuery.toLowerCase()) ||
+          q.subTopic.toLowerCase().contains(_searchQuery.toLowerCase());
+
+      if (_selectedTag == 'All') return matchesSearch;
+      if (_selectedTag == '#PYQ') return matchesSearch && q.isPYQ;
+      if (_selectedTag == '#Calculations') return matchesSearch && q.explanation.contains('∫') || q.explanation.contains('=');
+      if (_selectedTag == '#Conceptual') return matchesSearch && !q.isPYQ;
+      return matchesSearch;
+    }).toList();
+  }
+
   @override
   Widget build(BuildContext context) {
+    final list = filteredBookmarks;
     return Scaffold(
       appBar: AppBar(
-        title: const Text('My Bookmarks'),
+        title: const Text('My Bookmarks & Personal Notes'),
         actions: [
           if (bookmarks.isNotEmpty) ...[
             IconButton(
@@ -96,38 +116,91 @@ class _BookmarksScreenState extends State<BookmarksScreen> {
                     style: TextStyle(fontSize: 18, color: Colors.grey),
                   ),
                 )
-              : ListView.builder(
-                  padding: const EdgeInsets.all(16),
-                  itemCount: bookmarks.length,
-                  itemBuilder: (context, index) {
-                    final question = bookmarks[index];
-                    return Card(
-                      margin: const EdgeInsets.only(bottom: 12),
-                      child: ListTile(
-                        title: Text(
-                          question.question,
-                          maxLines: 2,
-                          overflow: TextOverflow.ellipsis,
-                          style: const TextStyle(fontWeight: FontWeight.bold),
+              : Column(
+                  children: [
+                    Padding(
+                      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                      child: TextField(
+                        decoration: InputDecoration(
+                          hintText: 'Search bookmarks by keyword or topic...',
+                          prefixIcon: const Icon(Icons.search),
+                          isDense: true,
+                          border: OutlineInputBorder(borderRadius: BorderRadius.circular(12)),
                         ),
-                        subtitle: Text('${question.subject} > ${question.subTopic}'),
-                        trailing: const Icon(Icons.chevron_right),
-                        onTap: () {
-                          // Show in a review-like mode
-                          Navigator.push(
-                            context,
-                            MaterialPageRoute(
-                              builder: (context) => ReviewScreen(
-                                questions: [question],
-                                selectedAnswers: const [null],
-                                selectedMSQAnswers: const [[]],
-                              ),
+                        onChanged: (val) => setState(() => _searchQuery = val.trim()),
+                      ),
+                    ),
+                    SingleChildScrollView(
+                      scrollDirection: Axis.horizontal,
+                      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+                      child: Row(
+                        children: ['All', '#PYQ', '#Calculations', '#Conceptual'].map((tag) {
+                          final selected = _selectedTag == tag;
+                          return Padding(
+                            padding: const EdgeInsets.only(right: 8),
+                            child: FilterChip(
+                              label: Text(tag),
+                              selected: selected,
+                              onSelected: (_) => setState(() => _selectedTag = tag),
                             ),
                           );
-                        },
+                        }).toList(),
                       ),
-                    );
-                  },
+                    ),
+                    Expanded(
+                      child: list.isEmpty
+                          ? const Center(child: Text('No bookmarks match your filter.'))
+                          : ListView.builder(
+                              padding: const EdgeInsets.all(16),
+                              itemCount: list.length,
+                              itemBuilder: (context, index) {
+                                final question = list[index];
+                                return Card(
+                                  margin: const EdgeInsets.only(bottom: 12),
+                                  child: ListTile(
+                                    title: Text(
+                                      question.gujaratiQuestion.isNotEmpty
+                                          ? question.gujaratiQuestion
+                                          : question.question,
+                                      maxLines: 2,
+                                      overflow: TextOverflow.ellipsis,
+                                      style: const TextStyle(fontWeight: FontWeight.bold),
+                                    ),
+                                    subtitle: Row(
+                                      children: [
+                                        Text('${question.subject} > ${question.subTopic}'),
+                                        if (question.isPYQ) ...[
+                                          const SizedBox(width: 8),
+                                          Container(
+                                            padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                                            decoration: BoxDecoration(
+                                              color: Colors.amber.shade100,
+                                              borderRadius: BorderRadius.circular(4),
+                                            ),
+                                            child: const Text('#PYQ', style: TextStyle(fontSize: 10, fontWeight: FontWeight.bold, color: Colors.amber)),
+                                          ),
+                                        ],
+                                      ],
+                                    ),
+                                    trailing: const Icon(Icons.chevron_right),
+                                    onTap: () {
+                                      Navigator.push(
+                                        context,
+                                        MaterialPageRoute(
+                                          builder: (context) => ReviewScreen(
+                                            questions: [question],
+                                            selectedAnswers: const [null],
+                                            selectedMSQAnswers: const [[]],
+                                          ),
+                                        ),
+                                      );
+                                    },
+                                  ),
+                                );
+                              },
+                            ),
+                    ),
+                  ],
                 ),
     );
   }

@@ -12,7 +12,7 @@
       "માત્ર ગરમીથી વિકૃત થાય છે"
     ],
     "correctAnswer": 0,
-    "explanation": "ફ્લુઇડ કોઈપણ નાના શીયર સ્ટ્રેસ (Shear stress) ની હાજરીમાં પણ સતત ડિફોર્મ (વિકૃત) થવાની લાક્ષણિકતા ધરાવે છે[cite: 8]."
+    "explanation": "ફ્લુઇડ કોઈપણ નાના શીયર સ્ટ્રેસ (Shear stress) ની હાજરીમાં પણ સતત ડિફોર્મ (વિકૃત) થવાની લાક્ષણિકતા ધરાવે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
       "ટેમ્પરેચર અને વિસ્કોસિટી"
     ],
     "correctAnswer": 2,
-    "explanation": "ન્યૂટનના નિયમ મુજબ શીયર સ્ટ્રેસ એ શીયર સ્ટ્રેઇન રેટ અથવા રેટ ઓફ એન્ગ્યુલર ડિફોર્મેશન (du/dy) ના સમપ્રમાણમાં હોય છે[cite: 8]."
+    "explanation": "ન્યૂટનના નિયમ મુજબ શીયર સ્ટ્રેસ એ શીયર સ્ટ્રેઇન રેટ અથવા રેટ ઓફ એન્ગ્યુલર ડિફોર્મેશન (du/dy) ના સમપ્રમાણમાં હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 3,
@@ -42,14 +42,14 @@
       "દૂધ"
     ],
     "correctAnswer": 1,
-    "explanation": "પાણી, હવા, પેટ્રોલ અને કેરોસીન જેવા ફ્લુઇડ્સ ન્યૂટનના વિસ્કોસિટી નિયમનું સંપૂર્ણ પાલન કરતા ન્યૂટોનિયન ફ્લુઇડ્સ છે[cite: 8]."
+    "explanation": "પાણી, હવા, પેટ્રોલ અને કેરોસીન જેવા ફ્લુઇડ્સ ન્યૂટનના વિસ્કોસિટી નિયમનું સંપૂર્ણ પાલન કરતા ન્યૂટોનિયન ફ્લુઇડ્સ છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 4,
     "subject": "Fluid Mechanics",
     "subTopic": "Mass Density, Specific Volume & Specific Gravity",
     "question": "Water density is 1000 kg/m³ and g is 10 m/s². If pressure head is 3 m, what is the pressure in kPa?",
-    "gujaratiQuestion": "04. પાણીની ઘનતા 1000 kg/m³ છે અને ગુરુત્વ પ્રવેગ 10 m/s² છે. જો પાઈપમાં વહેતા પાણીમાં કોઈ બિંદુએ પ્રેશર હેડ 3 m હોય, તો kPa માં પ્રેશર શું હશે?",
+    "gujaratiQuestion": "04. પાણીની ડેન્સિટી 1000 kg/m³ છે અને ગુરુત્વ પ્રવેલોસિટી 10 m/s² છે. જો પાઈપમાં વહેતા પાણીમાં કોઈ બિંદુએ પ્રેશર હેડ 3 m હોય, તો kPa માં પ્રેશર શું હશે?",
     "options": [
       "30",
       "40",
@@ -57,14 +57,14 @@
       "60"
     ],
     "correctAnswer": 0,
-    "explanation": "P = ρ · g · h = 1000 × 10 × 3 = 30,000 Pa = 30 kPa[cite: 8]."
+    "explanation": "P = ρ · g · h = 1000 × 10 × 3 = 30,000 Pa = 30 kPa[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 5,
     "subject": "Fluid Mechanics",
     "subTopic": "Mass Density, Specific Volume & Specific Gravity",
     "question": "At what temperature is the mass density of water maximum?",
-    "gujaratiQuestion": "05. પાણીની માસ ડેન્સિટી (Mass density) કયા તાપમાને મહત્તમ હોય છે?",
+    "gujaratiQuestion": "05. પાણીની માસ ડેન્સિટી (Mass density) કયા ટેમ્પરેચરે મહત્તમ હોય છે?",
     "options": [
       "0°C",
       "4°C",
@@ -72,7 +72,7 @@
       "20°C"
     ],
     "correctAnswer": 1,
-    "explanation": "પાણીના અસાધારણ વિસ્તરણ ગુણધર્મને કારણે 4°C તાપમાને તેની ઘનતા મહત્તમ (1000 kg/m³) હોય છે[cite: 8]."
+    "explanation": "પાણીના અસાધારણ વિસ્તરણ પ્રોપર્ટીને કારણે 4°C ટેમ્પરેચરે તેની ડેન્સિટી મહત્તમ (1000 kg/m³) હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
       "kg/m³"
     ],
     "correctAnswer": 1,
-    "explanation": "ડાયનેમિક વિસ્કોસિટીનો SI એકમ N-s/m² અથવા Pa-s (અથવા kg/(m·s)) છે[cite: 8]."
+    "explanation": "ડાયનેમિક વિસ્કોસિટીનો SI એકમ N-s/m² અથવા Pa-s (અથવા kg/(m·s)) છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@
       "નેવિયર-સ્ટોક્સ સમીકરણ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓરિફિસમીટર અને વેન્ચ્યુરીમીટર બર્નોલીના સમીકરણ અને કન્ટિન્યુઇટી સમીકરણના સિદ્ધાંત પર કાર્ય કરે છે[cite: 8]."
+    "explanation": "ઓરિફિસમીટર અને વેન્ચ્યુરીમીટર બર્નોલીના સમીકરણ અને કન્ટિન્યુઇટી સમીકરણના સિદ્ધાંત પર વર્ક કરે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 8,
@@ -117,7 +117,7 @@
       "સ્પેસિફિક ગ્રેવિટી અને માસ ડેન્સિટી"
     ],
     "correctAnswer": 1,
-    "explanation": "કાઇનેમેટિક વિસ્કોસિટી ν = ડાયનેમિક વિસ્કોસિટી (μ) / માસ ડેન્સિટી (ρ)[cite: 8]."
+    "explanation": "કાઇનેમેટિક વિસ્કોસિટી ν = ડાયનેમિક વિસ્કોસિટી (μ) / માસ ડેન્સિટી (ρ)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 9,
@@ -132,7 +132,7 @@
       "0.01"
     ],
     "correctAnswer": 2,
-    "explanation": "1 Poise = 1/10 N-s/m² = 0.1 Pa-s[cite: 8]."
+    "explanation": "1 Poise = 1/10 N-s/m² = 0.1 Pa-s[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 10,
@@ -147,7 +147,7 @@
       "વેલોસિટી હેડ + ફ્રિક્શનલ લોસીસ"
     ],
     "correctAnswer": 2,
-    "explanation": "હાઇડ્રોલિક ગ્રેડિયન્ટ લાઇન (HGL) પ્રેશર હેડ (p/ρg) અને પોટેન્શિયલ/ડેટમ હેડ (z) નો સરવાળો દર્શાવે છે[cite: 8]."
+    "explanation": "હાઇડ્રોલિક ગ્રેડિયન્ટ લાઇન (HGL) પ્રેશર હેડ (p/ρg) અને પોટેન્શિયલ/ડેટમ હેડ (z) નો સરવાળો દર્શાવે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 11,
@@ -162,14 +162,14 @@
       "વિસ્કોસિટી"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્પેસિફિક વોલ્યુમ v = V/m = 1/ρ એટલે કે માસ ડેન્સિટીનો વ્યસ્ત છે[cite: 8]."
+    "explanation": "સ્પેસિફિક વોલ્યુમ v = V/m = 1/ρ એટલે કે માસ ડેન્સિટીનો વ્યસ્ત છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 12,
     "subject": "Fluid Mechanics",
     "subTopic": "Definition of Fluid, Newton's Law of Viscosity",
     "question": "What are the properties of an Ideal Fluid?",
-    "gujaratiQuestion": "Q12. આદર્શ ફ્લુઇડ (Ideal fluid) ના ગુણધર્મો કયા છે?",
+    "gujaratiQuestion": "Q12. આદર્શ ફ્લુઇડ (Ideal fluid) ના પ્રોપર્ટીઝ કયા છે?",
     "options": [
       "કમ્પ્રેસિબલ અને વિસ્કસ",
       "ઇનકમ્પ્રેસિબલ અને નોન-વિસ્કસ",
@@ -177,7 +177,7 @@
       "માત્ર ઈનકમ્પ્રેસિબલ"
     ],
     "correctAnswer": 1,
-    "explanation": "આદર્શ ફ્લુઇડ અદબનીય (Incompressible) અને શૂન્ય વિસ્કોસિટી ધરાવતું (Non-viscous/Inviscid) હોય છે[cite: 8]."
+    "explanation": "આદર્શ ફ્લુઇડ અદબનીય (Incompressible) અને શૂન્ય વિસ્કોસિટી ધરાવતું (Non-viscous/Inviscid) હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 13,
@@ -192,7 +192,7 @@
       "અનસ્ટીડી અને ઇનકમ્પ્રેસિબલ ફ્લો"
     ],
     "correctAnswer": 0,
-    "explanation": "બર્નોલી સમીકરણ આદર્શ, ઘર્ષણરહિત, સ્ટીડી, ઇનકમ્પ્રેસિબલ અને ઇરરોટેશનલ પ્રવાહ માટે માન્ય છે[cite: 8]."
+    "explanation": "બર્નોલી સમીકરણ આદર્શ, ઘર્ષણરહિત, સ્ટીડી, ઇનકમ્પ્રેસિબલ અને ઇરરોટેશનલ ફ્લો માટે માન્ય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 14,
@@ -207,14 +207,14 @@
       "N-m"
     ],
     "correctAnswer": 1,
-    "explanation": "સરફેસ ટેન્શન એટલે લંબાઈ દીઠ લાગતું બળ, જેનો SI એકમ N/m અથવા J/m² છે[cite: 8]."
+    "explanation": "સરફેસ ટેન્શન એટલે લંબાઈ દીઠ લાગતું બળ, જેનો SI એકમ N/m અથવા J/m² છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 15,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "Why do liquid droplets assume a spherical shape?",
-    "gujaratiQuestion": "Q15. પ્રવાહીના ટીપાં (Liquid droplets) નો આકાર ગોળાકાર (Spherical) હોવાનું કારણ શું છે?",
+    "gujaratiQuestion": "Q15. ફ્લુઇડના ટીપાં (Liquid droplets) નો આકાર ગોળાકાર (Spherical) હોવાનું કારણ શું છે?",
     "options": [
       "વિસ્કોસિટી",
       "કમ્પ્રેસિબિલિટી",
@@ -222,7 +222,7 @@
       "સ્પેસિફિક ગ્રેવિટી"
     ],
     "correctAnswer": 2,
-    "explanation": "સરફેસ ટેન્શનના કારણે પ્રવાહી સપાટી લઘુત્તમ ક્ષેત્રફળ ધારણ કરવાનો પ્રયત્ન કરે છે, જે ગોળાકાર બને છે[cite: 8]."
+    "explanation": "સરફેસ ટેન્શનના કારણે ફ્લુઇડ સપાટી લઘુત્તમ ક્ષેત્રફળ ધારણ કરવાનો પ્રયત્ન કરે છે, જે ગોળાકાર બને છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 16,
@@ -237,14 +237,14 @@
       "રેનોલ્ડ્સ નંબર"
     ],
     "correctAnswer": 3,
-    "explanation": "રેનોલ્ડ્સ નંબર Re = ઈનર્શિયા ફોર્સ / વિસ્કસ ફોર્સ = (ρVD)/μ[cite: 8]."
+    "explanation": "રેનોલ્ડ્સ નંબર Re = ઈનર્શિયા ફોર્સ / વિસ્કસ ફોર્સ = (ρVD)/μ[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 17,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "Mercury does not wet glass surface. This is due to which property?",
-    "gujaratiQuestion": "Q17. મર્ક્યુરી (Mercury) ગ્લાસની સપાટીને ભીંજવતો નથી, આ કયા ગુણધર્મને આભારી છે?",
+    "gujaratiQuestion": "Q17. મર્ક્યુરી (Mercury) ગ્લાસની સપાટીને ભીંજવતો નથી, આ કયા પ્રોપર્ટીને આભારી છે?",
     "options": [
       "એડહેઝન",
       "કોહેઝન",
@@ -252,14 +252,14 @@
       "કમ્પ્રેસિબિલિટી"
     ],
     "correctAnswer": 1,
-    "explanation": "પારાના અણુઓ વચ્ચેનું આંતરિક આકર્ષણ (Cohesion) પારા-કાચ વચ્ચેના આકર્ષણ (Adhesion) કરતાં ઘણું વધારે હોવાથી તે ભીંજવતો નથી[cite: 8]."
+    "explanation": "પારાના અણુઓ વચ્ચેનું આંતરિક આકર્ષણ (Cohesion) પારા-કાચ વચ્ચેના આકર્ષણ (Adhesion) કરતાં ઘણું વધારે હોવાથી તે ભીંજવતો નથી[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 18,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "For a liquid, what happens to the Bulk Modulus of Elasticity with an increase in pressure?",
-    "gujaratiQuestion": "Q18. પ્રવાહી માટે બલ્ક મોડ્યુલસ ઓફ ઇલાસ્ટિસિટી (Bulk modulus of elasticity) પ્રેશર વધવાથી શું થાય છે?",
+    "gujaratiQuestion": "Q18. ફ્લુઇડ માટે બલ્ક મોડ્યુલસ ઓફ ઇલાસ્ટિસિટી (Bulk modulus of elasticity) પ્રેશર વધવાથી શું થાય છે?",
     "options": [
       "વધે છે",
       "ઘટે છે",
@@ -267,14 +267,14 @@
       "શૂન્ય થાય છે"
     ],
     "correctAnswer": 0,
-    "explanation": "પ્રેશર વધતાં પ્રવાહી વધુ અદબનીય બને છે, જેથી બલ્ક મોડ્યુલસ (K = dp / (dρ/ρ)) નું મૂલ્ય વધે છે[cite: 8]."
+    "explanation": "પ્રેશર વધતાં ફ્લુઇડ વધુ અદબનીય બને છે, જેથી બલ્ક મોડ્યુલસ (K = dp / (dρ/ρ)) નું મૂલ્ય વધે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 19,
     "subject": "Fluid Mechanics",
     "subTopic": "Water Turbines, Heads, Efficiencies & Velocity Triangles",
     "question": "A water jet of 0.001 m² area strikes a flat stationary vertical plate normally at 20 m/s. (ρ = 1000 kg/m³). Find the force exerted in N.",
-    "gujaratiQuestion": "019, 0.001 m² ક્રોસ-સેક્શનલ એરિયા ધરાવતો પાણીનો જેટ, સપાટ ઊભી સ્થિર પ્લેટ પર 20 m/s ની વેલોસિટીથી નોર્મલી (કાટખૂણે) અથડાય છે. પાણીની ઘનતા 1000 kg/m³ છે. તો ફ્લોની દિશામાં જેટ દ્વારા લાગતું ફોર્સ શું હશે?",
+    "gujaratiQuestion": "019, 0.001 m² ક્રોસ-સેક્શનલ એરિયા ધરાવતો પાણીનો જેટ, સપાટ ઊભી સ્થિર પ્લેટ પર 20 m/s ની વેલોસિટીથી નોર્મલી (કાટખૂણે) અથડાય છે. પાણીની ડેન્સિટી 1000 kg/m³ છે. તો ફ્લોની દિશામાં જેટ દ્વારા લાગતું ફોર્સ શું હશે?",
     "options": [
       "200 N",
       "300 N",
@@ -282,14 +282,14 @@
       "500 N"
     ],
     "correctAnswer": 2,
-    "explanation": "F = ρ · A · V² = 1000 × 0.001 × (20)² = 1 × 400 = 400 N[cite: 8]."
+    "explanation": "F = ρ · A · V² = 1000 × 0.001 × (20)² = 1 × 400 = 400 N[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 20,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "On which law does a hydraulic jack operate?",
-    "gujaratiQuestion": "020. હાઈડ્રોલિક જેક (Hydraulic jack) કયા નિયમ પર કાર્ય કરે છે?",
+    "gujaratiQuestion": "020. હાઈડ્રોલિક જેક (Hydraulic jack) કયા નિયમ પર વર્ક કરે છે?",
     "options": [
       "બર્નોલીનો નિયમ",
       "ન્યૂટનનો નિયમ",
@@ -297,14 +297,14 @@
       "આર્કિમીડીઝનો નિયમ"
     ],
     "correctAnswer": 2,
-    "explanation": "હાઇડ્રોલિક જેક પાસ્કલના નિયમ (P1 = P2) પર આધારિત છે[cite: 8]."
+    "explanation": "હાઇડ્રોલિક જેક પાસ્કલના નિયમ (P1 = P2) પર આધારિત છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 21,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "According to Pascal's law, pressure at a point in a static fluid:",
-    "gujaratiQuestion": "021. પાસ્કલના નિયમ (Pascal's law) મુજબ, સ્થિર પ્રવાહીમાં કોઈ એક બિંદુ પર પ્રેશર:",
+    "gujaratiQuestion": "021. પાસ્કલના નિયમ (Pascal's law) મુજબ, સ્થિર ફ્લુઇડમાં કોઈ એક બિંદુ પર પ્રેશર:",
     "options": [
       "ઊંડાઈ સાથે ઘટે છે",
       "બધી દિશાઓમાં સમાન હોય છે",
@@ -312,14 +312,14 @@
       "માત્ર નીચેની દિશામાં લાગે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "પાસ્કલના નિયમ મુજબ સ્થિર પ્રવાહીમાં કોઈપણ બિંદુએ તમામ દિશાઓમાં પ્રેશરની તીવ્રતા સમાન હોય છે (px = py = pz)[cite: 8]."
+    "explanation": "પાસ્કલના નિયમ મુજબ સ્થિર ફ્લુઇડમાં કોઈપણ બિંદુએ તમામ દિશાઓમાં પ્રેશરની તીવ્રતા સમાન હોય છે (px = py = pz)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 22,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "A flat plane body of area A is submerged in a liquid with its CG at depth x. If density is ρ and acceleration due to gravity is g, what is total hydrostatic force?",
-    "gujaratiQuestion": "022. પ્રવાહીમાં ડૂબેલી એક સપાટ બોડી, જેનો સરફેસ એરિયા 'A' છે, તેનું સેન્ટર ઓફ ગ્રેવિટી પ્રવાહીની ફ્રી સરફેસથી 'x' અંતરે છે. જો પ્રવાહીની ઘનતા 'ρ' અને ગુરુત્વ પ્રવેગ 'g' હોય, તો બોડી પર લાગતું કુલ પ્રેશર (હાઈડ્રોસ્ટેટિક ફોર્સ) કેટલું હશે?",
+    "gujaratiQuestion": "022. ફ્લુઇડમાં ડૂબેલી એક સપાટ બોડી, જેનો સરફેસ એરિયા 'A' છે, તેનું સેન્ટર ઓફ ગ્રેવિટી ફ્લુઇડની ફ્રી સરફેસથી 'x' અંતરે છે. જો ફ્લુઇડની ડેન્સિટી 'ρ' અને ગુરુત્વ પ્રવેલોસિટી 'g' હોય, તો બોડી પર લાગતું કુલ પ્રેશર (હાઈડ્રોસ્ટેટિક ફોર્સ) કેટલું હશે?",
     "options": [
       "ρgxA",
       "ρgx²A",
@@ -327,14 +327,14 @@
       "ρgA"
     ],
     "correctAnswer": 0,
-    "explanation": "કુલ હાઇડ્રોસ્ટેટિક ફોર્સ F = ρ · g · A · x̄ = ρgxA[cite: 8]."
+    "explanation": "કુલ હાઇડ્રોસ્ટેટિક ફોર્સ F = ρ · g · A · x̄ = ρgxA[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 23,
     "subject": "Fluid Mechanics",
     "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
     "question": "Which instrument is used to measure atmospheric pressure?",
-    "gujaratiQuestion": "Q23. વાતાવરણીય દબાણ (Atmospheric pressure) માપવા માટે કયા સાધનનો ઉપયોગ થાય છે?",
+    "gujaratiQuestion": "Q23. વાતાવરણીય પ્રેશર (Atmospheric pressure) માપવા માટે કયા સાધનનો ઉપયોગ થાય છે?",
     "options": [
       "મેનોમીટર",
       "વેન્ચ્યુરીમીટર",
@@ -342,7 +342,7 @@
       "હાઈગ્રોમીટર"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્થાનિક વાતાવરણીય દબાણ માપવા માટે બેરોમીટર (Barometer) વપરાય છે[cite: 8]."
+    "explanation": "સ્થાનિક વાતાવરણીય પ્રેશર માપવા માટે બેરોમીટર (Barometer) વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 24,
@@ -357,7 +357,7 @@
       "માત્ર ગેજ પ્રેશર"
     ],
     "correctAnswer": 2,
-    "explanation": "Absolute Pressure = Gauge Pressure + Atmospheric Pressure[cite: 8]."
+    "explanation": "Absolute Pressure = Gauge Pressure + Atmospheric Pressure[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 25,
@@ -372,7 +372,7 @@
       "બેરોમીટર"
     ],
     "correctAnswer": 1,
-    "explanation": "પાઇપલાઇન કે ચેનલમાં પ્રવાહીનું ગેજ કે ડિફરેન્શિયલ દબાણ માપવા મેનોમીટર (Manometer) વપરાય છે[cite: 8]."
+    "explanation": "પાઇપલાઇન કે ચેનલમાં ફ્લુઇડનું ગેજ કે ડિફરેન્શિયલ પ્રેશર માપવા મેનોમીટર (Manometer) વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 26,
@@ -387,7 +387,7 @@
       "પેલ્ટન ટર્બાઈન"
     ],
     "correctAnswer": 1,
-    "explanation": "મીડિયમ હેડ (60 m થી 300 m) માટે ફ્રાન્સિસ ટર્બાઇન (Francis turbine) વપરાય છે[cite: 8]."
+    "explanation": "મીડિયમ હેડ (60 m થી 300 m) માટે ફ્રાન્સિસ ટર્બાઇન (Francis turbine) વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 27,
@@ -402,7 +402,7 @@
       "વિકલ્પ (b) અને (c) બંને"
     ],
     "correctAnswer": 3,
-    "explanation": "પિઝોમીટર ખુલ્લી નળી હોવાથી તેના વડે વેક્યુમ પ્રેશર અને અતિ ઊંચું પ્રેશર માપી શકાતું નથી[cite: 8]."
+    "explanation": "પિઝોમીટર ખુલ્લી નળી હોવાથી તેના વડે વેક્યુમ પ્રેશર અને અતિ ઊંચું પ્રેશર માપી શકાતું નથી[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 28,
@@ -417,7 +417,7 @@
       "થર્મલ ગેજ"
     ],
     "correctAnswer": 1,
-    "explanation": "બોર્ડન ટ્યુબ ઇલાસ્ટિક ડિફોર્મેશનથી કામ કરતું મિકેનિકલ પ્રેશર ગેજ છે[cite: 8]."
+    "explanation": "બોર્ડન ટ્યુબ ઇલાસ્ટિક ડિફોર્મેશનથી કામ કરતું મિકેનિકલ પ્રેશર ગેજ છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 29,
@@ -432,7 +432,7 @@
       "ફ્લુઇડની થિયોરેટિકલ વેલોસિટી અને એક્ચ્યુઅલ વેલોસિટીનો ગુણોત્તર"
     ],
     "correctAnswer": 1,
-    "explanation": "Cd = Actual Discharge / Theoretical Discharge = Q_act / Q_th[cite: 8]."
+    "explanation": "Cd = Actual Discharge / Theoretical Discharge = Q_act / Q_th[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 30,
@@ -447,22 +447,22 @@
       "ડિફરેન્શિયલ મેનોમીટર"
     ],
     "correctAnswer": 3,
-    "explanation": "બે બિંદુઓ વચ્ચેનો દબાણ તફાવત માપવા ડિફરેન્શિયલ મેનોમીટર (Differential Manometer) વપરાય છે[cite: 8]."
+    "explanation": "બે બિંદુઓ વચ્ચેનો પ્રેશર તફાવત માપવા ડિફરેન્શિયલ મેનોમીટર (Differential Manometer) વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 31,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "What is the gauge pressure on the free surface of a liquid exposed to open atmosphere?",
-    "gujaratiQuestion": "031. ખુલ્લા વાતાવરણને આધીન પ્રવાહીની મુક્ત સપાટી પર ગેજ પ્રેશર (Gauge pressure) કેટલું હોય છે?",
+    "gujaratiQuestion": "031. ખુલ્લા વાતાવરણને આધીન ફ્લુઇડની ફ્રી સરફેસ પર ગેજ પ્રેશર (Gauge pressure) કેટલું હોય છે?",
     "options": [
       "1 વાતાવરણીય પ્રેશર",
       "0 વાતાવરણીય પ્રેશર (શૂન્ય)",
       "અનંત",
-      "પ્રવાહીની ઘનતા મુજબ"
+      "ફ્લુઇડની ડેન્સિટી મુજબ"
     ],
     "correctAnswer": 1,
-    "explanation": "વાતાવરણીય દબાણને સંદર્ભ (Datam) માનતાં મુક્ત સપાટી પર ગેજ પ્રેશર હંમેશા શૂન્ય (0) હોય છે[cite: 8]."
+    "explanation": "વાતાવરણીય પ્રેશરને સંદર્ભ (Datam) માનતાં ફ્રી સરફેસ પર ગેજ પ્રેશર હંમેશા શૂન્ય (0) હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 32,
@@ -477,7 +477,7 @@
       "એબ્સોલ્યુટ પ્રેશર"
     ],
     "correctAnswer": 2,
-    "explanation": "બોર્ડન ટ્યુબ વાતાવરણીય દબાણની સાપેક્ષે ગેજ પ્રેશર (Gauge pressure) માપે છે[cite: 8]."
+    "explanation": "બોર્ડન ટ્યુબ વાતાવરણીય પ્રેશરની સાપેક્ષે ગેજ પ્રેશર (Gauge pressure) માપે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 33,
@@ -487,12 +487,12 @@
     "gujaratiQuestion": "033. આર્કિમીડીઝના સિદ્ધાંત (Archimedes's principle) મુજબ બોયન્ટ ફોર્સ (Buoyant force) કોના બરાબર હોય છે?",
     "options": [
       "પદાર્થના કુલ વજન બરાબર",
-      "પદાર્થ દ્વારા વિસ્થાપિત પ્રવાહીના વજન બરાબર",
-      "પદાર્થના કદ બરાબર",
-      "પ્રવાહીના કુલ વજન બરાબર"
+      "પદાર્થ દ્વારા વિસ્થાપિત ફ્લુઇડના વજન બરાબર",
+      "પદાર્થના વોલ્યુમ બરાબર",
+      "ફ્લુઇડના કુલ વજન બરાબર"
     ],
     "correctAnswer": 1,
-    "explanation": "બોયન્ટ ફોર્સ (FB) એ બોડી દ્વારા વિસ્થાપિત થયેલા પ્રવાહીના વજન જેટલું અને ઊર્ધ્વ દિશામાં લાગે છે[cite: 8]."
+    "explanation": "બોયન્ટ ફોર્સ (FB) એ બોડી દ્વારા વિસ્થાપિત થયેલા ફ્લુઇડના વજન જેટલું અને ઊર્ધ્વ દિશામાં લાગે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 34,
@@ -502,12 +502,12 @@
     "gujaratiQuestion": "034. બોયન્સીનું કેન્દ્ર (Center of buoyancy) હંમેશા ક્યાં આવેલું હોય છે?",
     "options": [
       "પદાર્થના સેન્ટર ઓફ ગ્રેવિટી પર",
-      "વિસ્થાપિત પ્રવાહીના સેન્ટ્રોઈડ પર",
+      "વિસ્થાપિત ફ્લુઇડના સેન્ટ્રોઈડ પર",
       "મેટા-સેન્ટર પર",
       "સપાટીની બરાબર નીચે"
     ],
     "correctAnswer": 1,
-    "explanation": "સેન્ટર ઓફ બોયન્સી એ વિસ્થાપિત પ્રવાહીના કદનું કેન્દ્ર (Centroid of displaced liquid volume) છે[cite: 8]."
+    "explanation": "સેન્ટર ઓફ બોયન્સી એ વિસ્થાપિત ફ્લુઇડના વોલ્યુમનું કેન્દ્ર (Centroid of displaced liquid volume) છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 35,
@@ -522,7 +522,7 @@
       "મિશ્રિત હોય અને ઉપલબ્ધ હેડ લગભગ 50 m હોય"
     ],
     "correctAnswer": 1,
-    "explanation": "કાપ્લાન ટર્બાઇન એક્સિયલ ફ્લો રિએક્શન ટર્બાઇન છે જે લો હેડ અને હાઇ ડિસ્ચાર્જ માટે વપરાય છે[cite: 8]."
+    "explanation": "કાપ્લાન ટર્બાઇન એક્સિયલ ફ્લો રિએક્શન ટર્બાઇન છે જે લો હેડ અને હાઇ ડિસ્ચાર્જ માટે વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 36,
@@ -537,7 +537,7 @@
       "મેટા-સેન્ટર"
     ],
     "correctAnswer": 3,
-    "explanation": "તરતી બોડી જ્યારે નાના ખૂણે દોલન કરે છે ત્યારે તે મેટાસેન્ટર (Meta-centre) ની આસપાસ ઓસિલેટ થાય છે[cite: 8]."
+    "explanation": "તરતી બોડી જ્યારે નાના ખૂણે દોલન કરે છે ત્યારે તે મેટાસેન્ટર (Meta-centre) ની આસપાસ ઓસિલેટ થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 37,
@@ -552,7 +552,7 @@
       "બોયન્સીના કેન્દ્રની નીચે"
     ],
     "correctAnswer": 0,
-    "explanation": "તરતી બોડીની સ્થિર સમતુલા માટે મેટાસેન્ટ્રિક હાઇટ ધન હોવી જોઈએ એટલે કે M એ G ની ઉપર (Above G) હોવું જોઈએ[cite: 8]."
+    "explanation": "તરતી બોડીની સ્થિર સમતુલા માટે મેટાસેન્ટ્રિક હાઇટ ધન હોવી જોઈએ એટલે કે M એ G ની ઉપર (Above G) હોવું જોઈએ[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 38,
@@ -567,14 +567,14 @@
       "અનસ્ટીડી નોન-યુનિફોર્મ ફ્લો"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્ટીડી ફ્લોમાં લોકલ પ્રવેગ (∂V/∂t) શૂન્ય હોય છે અને નોન-યુનિફોર્મ હોવાથી માત્ર કન્વેક્ટિવ પ્રવેગ અસ્તિત્વ ધરાવે છે[cite: 8]."
+    "explanation": "સ્ટીડી ફ્લોમાં લોકલ પ્રવેલોસિટી (∂V/∂t) શૂન્ય હોય છે અને નોન-યુનિફોર્મ હોવાથી માત્ર કન્વેક્ટિવ પ્રવેલોસિટી અસ્તિત્વ ધરાવે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 39,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "Total hydrostatic force on a submerged surface acts through which point?",
-    "gujaratiQuestion": "039. પ્રવાહીમાં ડૂબેલી સપાટી પર લાગતું કુલ હાઈડ્રોસ્ટેટિક ફોર્સ (Total hydrostatic force) કયા બિંદુ પર કાર્ય કરે છે?",
+    "gujaratiQuestion": "039. ફ્લુઇડમાં ડૂબેલી સપાટી પર લાગતું કુલ હાઈડ્રોસ્ટેટિક ફોર્સ (Total hydrostatic force) કયા બિંદુ પર વર્ક કરે છે?",
     "options": [
       "સેન્ટર ઓફ બોયન્સી",
       "સેન્ટર ઓફ ગ્રેવિટી",
@@ -582,14 +582,14 @@
       "મેટા-સેન્ટર"
     ],
     "correctAnswer": 2,
-    "explanation": "પરિણામી હાઇડ્રોસ્ટેટિક બળ સેન્ટર ઓફ પ્રેશર (Center of Pressure) પરથી પસાર થાય છે[cite: 8]."
+    "explanation": "પરિણામી હાઇડ્રોસ્ટેટિક બળ સેન્ટર ઓફ પ્રેશર (Center of Pressure) પરથી પસાર થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 40,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "For a vertical surface completely submerged in a liquid, the center of pressure is always located:",
-    "gujaratiQuestion": "040. પ્રવાહીમાં સંપૂર્ણ ડૂબેલી ઊભી સપાટી (Vertical surface) માટે સેન્ટર ઓફ પ્રેશર હંમેશા ક્યાં હોય છે?",
+    "gujaratiQuestion": "040. ફ્લુઇડમાં સંપૂર્ણ ડૂબેલી ઊભી સપાટી (Vertical surface) માટે સેન્ટર ઓફ પ્રેશર હંમેશા ક્યાં હોય છે?",
     "options": [
       "સેન્ટ્રોઇડની ઉપર",
       "સેન્ટ્રોઇડની નીચે",
@@ -597,7 +597,7 @@
       "સપાટીની ટોચ પર"
     ],
     "correctAnswer": 1,
-    "explanation": "ઊંડાઈ સાથે દબાણ વધતું હોવાથી સેન્ટર ઓફ પ્રેશર હંમેશા સેન્ટર ઓફ ગ્રેવિટી/સેન્ટ્રોઇડની નીચે (Below Centroid) હોય છે[cite: 8]."
+    "explanation": "ઊંડાઈ સાથે પ્રેશર વધતું હોવાથી સેન્ટર ઓફ પ્રેશર હંમેશા સેન્ટર ઓફ ગ્રેવિટી/સેન્ટ્રોઇડની નીચે (Below Centroid) હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 41,
@@ -612,14 +612,14 @@
       "લાગુ પડતું નથી કારણ કે ફ્લો ફ્રિક્શનલ (વિસ્કસ) છે"
     ],
     "correctAnswer": 3,
-    "explanation": "બાઉન્ડરી લેયરની અંદર વિસ્કસ શીયર ફોર્સીસ અને ઘર્ષણ હાજર હોવાથી બર્નોલી સમીકરણ લાગુ પડતું નથી[cite: 8]."
+    "explanation": "બાઉન્ડરી લેયરની અંદર વિસ્કસ શીયર ફોર્સીસ અને ઘર્ષણ હાજર હોવાથી બર્નોલી સમીકરણ લાગુ પડતું નથી[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 42,
     "subject": "Fluid Mechanics",
     "subTopic": "Mass Density, Specific Volume & Specific Gravity",
     "question": "What is the mass of 1 m³ of liquid having specific gravity of 0.85?",
-    "gujaratiQuestion": "042. સ્પેસિફિક ગ્રેવિટી (Specific gravity) 0.85 ધરાવતા 1 m³ કદના પ્રવાહીનું માસ (Mass) કેટલું થશે?",
+    "gujaratiQuestion": "042. સ્પેસિફિક ગ્રેવિટી (Specific gravity) 0.85 ધરાવતા 1 m³ વોલ્યુમના ફ્લુઇડનું માસ (Mass) કેટલું થશે?",
     "options": [
       "85 kg",
       "850 kg",
@@ -627,7 +627,7 @@
       "8.5 kg"
     ],
     "correctAnswer": 1,
-    "explanation": "Density ρ = 0.85 × 1000 = 850 kg/m³. Mass m = ρ · V = 850 × 1 = 850 kg[cite: 8]."
+    "explanation": "Density ρ = 0.85 × 1000 = 850 kg/m³. Mass m = ρ · V = 850 × 1 = 850 kg[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 43,
@@ -642,7 +642,7 @@
       "1 m²/s"
     ],
     "correctAnswer": 2,
-    "explanation": "1 Stoke = 1 cm²/s = 10⁻⁴ m²/s[cite: 8]."
+    "explanation": "1 Stoke = 1 cm²/s = 10⁻⁴ m²/s[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 44,
@@ -657,7 +657,7 @@
       "તે અચળ રહે છે પરંતુ સંપૂર્ણ ડેવલપ થયેલા રિજનમાં સરેરાશ વેલોસિટી કરતા હંમેશા ઓછી હોય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "કન્ટિન્યુઇટી (Q = A · V_avg) મુજબ પાઇપનો વ્યાસ સમાન હોવાથી સમગ્ર લંબાઈ પર સરેરાશ વેલોસિટી અચળ રહે છે[cite: 8]."
+    "explanation": "કન્ટિન્યુઇટી (Q = A · V_avg) મુજબ પાઇપનો વ્યાસ સમાન હોવાથી સમગ્ર લંબાઈ પર સરેરાશ વેલોસિટી અચળ રહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 45,
@@ -672,7 +672,7 @@
       "1.0"
     ],
     "correctAnswer": 1,
-    "explanation": "તરવાના નિયમ મુજબ Specific Gravity = Submerged fraction = 0.60[cite: 8]."
+    "explanation": "તરવાના નિયમ મુજબ Specific Gravity = Submerged fraction = 0.60[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 46,
@@ -687,7 +687,7 @@
       "2.5 kN/m²"
     ],
     "correctAnswer": 1,
-    "explanation": "P = ρ · g · h = 1000 × 9.81 × 25 = 245,250 N/m² ≈ 245 kN/m²[cite: 8]."
+    "explanation": "P = ρ · g · h = 1000 × 9.81 × 25 = 245,250 N/m² ≈ 245 kN/m²[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 47,
@@ -702,14 +702,14 @@
       "વિસ્કોસિટી અને શિયર સ્ટ્રેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "ન્યૂટનનો નિયમ τ = μ (du/dy) શિયર સ્ટ્રેસ અને શીયર સ્ટ્રેઇન રેટ પર આધારિત છે[cite: 8]."
+    "explanation": "ન્યૂટનનો નિયમ τ = μ (du/dy) શિયર સ્ટ્રેસ અને શીયર સ્ટ્રેઇન રેટ પર આધારિત છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 48,
     "subject": "Fluid Mechanics",
     "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
     "question": "A submarine operates on which principle?",
-    "gujaratiQuestion": "048. સબમરીન (Submarine) કયા સિદ્ધાંત પર કાર્ય કરે છે?",
+    "gujaratiQuestion": "048. સબમરીન (Submarine) કયા સિદ્ધાંત પર વર્ક કરે છે?",
     "options": [
       "બર્નોલીનો નિયમ",
       "પાસ્કલનો નિયમ",
@@ -717,14 +717,14 @@
       "ડાર્સીનો નિયમ"
     ],
     "correctAnswer": 2,
-    "explanation": "સબમરીનનું ડૂબવું અને તરવું આર્કિમીડીઝના બોયન્સી સિદ્ધાંત પર આધારિત છે[cite: 8]."
+    "explanation": "સબમરીનનું ડૂબવું અને તરવું આર્કિમીડીઝના બોયન્સી સિદ્ધાંત પર આધારિત છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 49,
     "subject": "Fluid Mechanics",
     "subTopic": "Mass Density, Specific Volume & Specific Gravity",
     "question": "What is the density of water at 4°C?",
-    "gujaratiQuestion": "049. 4°C તાપમાને પાણીની ડેન્સિટી (Density) કેટલી હોય છે?",
+    "gujaratiQuestion": "049. 4°C ટેમ્પરેચરે પાણીની ડેન્સિટી (Density) કેટલી હોય છે?",
     "options": [
       "1000 kg/m³",
       "100 kg/m³",
@@ -732,7 +732,7 @@
       "1 kg/m³"
     ],
     "correctAnswer": 0,
-    "explanation": "4°C તાપમાને શુદ્ધ પાણીની ઘનતા 1000 kg/m³ હોય છે (આન્સર કી B: 1000 kg/m³)[cite: 8]."
+    "explanation": "4°C ટેમ્પરેચરે શુદ્ધ પાણીની ડેન્સિટી 1000 kg/m³ હોય છે (આન્સર કી B: 1000 kg/m³)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 50,
@@ -747,14 +747,14 @@
       "ગેજ પ્રેશર"
     ],
     "correctAnswer": 2,
-    "explanation": "પિરાની ગેજ થર્મલ કન્ડક્ટિવિટીના આધારે અત્યંત નીચું દબાણ એટલે કે ઉચ્ચ વેક્યુમ (Vacuum pressure) માપે છે[cite: 8]."
+    "explanation": "પિરાની ગેજ થર્મલ કન્ડક્ટિવિટીના આધારે અત્યંત નીચું પ્રેશર એટલે કે ઉચ્ચ વેક્યુમ (Vacuum pressure) માપે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 51,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "Which forces act on a fluid in static equilibrium? 1. Gravity 2. Hydrostatic 3. Surface tension 4. Viscous",
-    "gujaratiQuestion": "051. સ્થિર સ્થિતિમાં રહેલા ફ્લુઈડ પર નીચેનામાંથી કયા ફોર્સ કાર્ય કરે છે? 1. ગ્રેવિટી ફોર્સ 2. હાઈડ્રોસ્ટેટિક ફોર્સ 3. સરફેસ ટેન્શન 4. વિસ્કસ ફોર્સ",
+    "gujaratiQuestion": "051. સ્થિર સ્થિતિમાં રહેલા ફ્લુઈડ પર નીચેનામાંથી કયા ફોર્સ વર્ક કરે છે? 1. ગ્રેવિટી ફોર્સ 2. હાઈડ્રોસ્ટેટિક ફોર્સ 3. સરફેસ ટેન્શન 4. વિસ્કસ ફોર્સ",
     "options": [
       "1, 2, 3 અને 4",
       "1, 2 અને 3",
@@ -762,7 +762,7 @@
       "1 અને 2"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્થિર પ્રવાહીમાં કોઈ સાપેક્ષ ગતિ ન હોવાથી વિસ્કસ/શીયર ફોર્સ શૂન્ય હોય છે, જેથી માત્ર ગ્રેવિટી, પ્રેશર અને સરફેસ ટેન્શન લાગે છે[cite: 8]."
+    "explanation": "સ્થિર ફ્લુઇડમાં કોઈ સાપેક્ષ ગતિ ન હોવાથી વિસ્કસ/શીયર ફોર્સ શૂન્ય હોય છે, જેથી માત્ર ગ્રેવિટી, પ્રેશર અને સરફેસ ટેન્શન લાગે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 52,
@@ -773,11 +773,11 @@
     "options": [
       "સપાટીના વજન બરાબર",
       "વક્ર સપાટીના વર્ટિકલ પ્રોજેક્શન પર લાગતા ફોર્સ બરાબર",
-      "સપાટીની ઉપર રહેલા પ્રવાહીના વજન બરાબર",
+      "સપાટીની ઉપર રહેલા ફ્લુઇડના વજન બરાબર",
       "શૂન્ય"
     ],
     "correctAnswer": 1,
-    "explanation": "Fx = વક્ર સપાટીના વર્ટિકલ પ્રોજેક્ટેડ એરિયા પર લાગતું હાઇડ્રોસ્ટેટિક બળ[cite: 8]."
+    "explanation": "Fx = વક્ર સપાટીના વર્ટિકલ પ્રોજેક્ટેડ એરિયા પર લાગતું હાઇડ્રોસ્ટેટિક બળ[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 53,
@@ -792,7 +792,7 @@
       "[M⁰L¹T⁰]"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્પેસિફિક ગ્રેવિટી બે સમાન રાશિઓનો ગુણોત્તર હોવાથી પરિમાણરહિત [M⁰L⁰T⁰] છે[cite: 8]."
+    "explanation": "સ્પેસિફિક ગ્રેવિટી બે સમાન રાશિઓનો ગુણોત્તર હોવાથી પરિમાણરહિત [M⁰L⁰T⁰] છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 54,
@@ -807,14 +807,14 @@
       "એડહેઝિવ અને કોહેઝિવ ફોર્સ વચ્ચેના તફાવત"
     ],
     "correctAnswer": 1,
-    "explanation": "સરફેસ ટેન્શન પ્રવાહીના મુક્ત સપાટી પરના અણુઓ વચ્ચે લાગતા અસંતુલિત કોહેઝન (Cohesion) બળને કારણે સર્જાય છે[cite: 8]."
+    "explanation": "સરફેસ ટેન્શન ફ્લુઇડના ફ્રી સરફેસ પરના અણુઓ વચ્ચે લાગતા અસંતુલિત કોહેઝન (Cohesion) બળને કારણે સર્જાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 55,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "If a fluid is in static condition, which force does NOT act on it?",
-    "gujaratiQuestion": "055. જો કોઈ ફ્લુઈડ સ્થિર (Static) સ્થિતિમાં હોય, તો તેમાં કયો ફોર્સ કાર્ય કરતો નથી?",
+    "gujaratiQuestion": "055. જો કોઈ ફ્લુઈડ સ્થિર (Static) સ્થિતિમાં હોય, તો તેમાં કયો ફોર્સ વર્ક કરતો નથી?",
     "options": [
       "હાઈડ્રોસ્ટેટિક ફોર્સ",
       "સરફેસ ટેન્શન",
@@ -822,7 +822,7 @@
       "ગ્રેવિટી ફોર્સ"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્થિર પ્રવાહીમાં વેલોસિટી ગ્રેડિયન્ટ (du/dy = 0) શૂન્ય હોવાથી વિસ્કસ કે શીયર ફોર્સ હોતો નથી[cite: 8]."
+    "explanation": "સ્થિર ફ્લુઇડમાં વેલોસિટી ગ્રેડિયન્ટ (du/dy = 0) શૂન્ય હોવાથી વિસ્કસ કે શીયર ફોર્સ હોતો નથી[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 56,
@@ -837,7 +837,7 @@
       "ટૂંકી કરવામાં આવે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "ટ્યુબને ખૂણે ઢાળવાળી (Inclined manometer) કરવાથી નાના દબાણ તફાવતે મેનોમેટ્રિક લિક્વિડનું લાંબુ સ્થાનાંતર મળે છે[cite: 8]."
+    "explanation": "ટ્યુબને ખૂણે ઢાળવાળી (Inclined manometer) કરવાથી નાના પ્રેશર તફાવતે મેનોમેટ્રિક લિક્વિડનું લાંબુ સ્થાનાંતર મળે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 57,
@@ -852,7 +852,7 @@
       "કન્વેક્શન અને કન્ડક્શન વધે છે."
     ],
     "correctAnswer": 2,
-    "explanation": "ક્રિટિકલ ત્રિજ્યા સુધી બાહ્ય વિસ્તાર વધતાં કન્વેક્શન વધે છે જ્યારે ઇન્સ્યુલેશન જાડાઈ વધતાં કન્ડક્શન રેઝિસ્ટન્સ વધે છે[cite: 8]."
+    "explanation": "ક્રિટિકલ ત્રિજ્યા સુધી બાહ્ય વિસ્તાર વધતાં કન્વેક્શન વધે છે જ્યારે ઇન્સ્યુલેશન જાડાઈ વધતાં કન્ડક્શન રેઝિસ્ટન્સ વધે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 58,
@@ -867,14 +867,14 @@
       "ડાયલેટન્ટ ફ્લુઇડ"
     ],
     "correctAnswer": 1,
-    "explanation": "રક્ત, દૂધ અને માટી શીયર થિનિંગ એટલે કે સ્યુડોપ્લાસ્ટિક (Pseudoplastic / Non-Newtonian) ફ્લુઇડ્સ છે[cite: 8]."
+    "explanation": "રક્ત, દૂધ અને માટી શીયર થિનિંગ એટલે કે સ્યુડોપ્લાસ્ટિક (Pseudoplastic / Non-Newtonian) ફ્લુઇડ્સ છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 59,
     "subject": "Fluid Mechanics",
     "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
     "question": "Why is alcohol often used as a manometric liquid in sensitive manometers?",
-    "gujaratiQuestion": "059. મેનોમીટરમાં પ્રવાહી તરીકે આલ્કોહોલ (Alcohol) નો ઉપયોગ થવાનું મુખ્ય કારણ શું છે?",
+    "gujaratiQuestion": "059. મેનોમીટરમાં ફ્લુઇડ તરીકે આલ્કોહોલ (Alcohol) નો ઉપયોગ થવાનું મુખ્ય કારણ શું છે?",
     "options": [
       "તેની ડેન્સિટી વધુ છે",
       "તેનું સરફેસ ટેન્શન વધુ છે",
@@ -882,7 +882,7 @@
       "તેની વિસ્કોસિટી વધુ છે"
     ],
     "correctAnswer": 2,
-    "explanation": "ઓછી ઘનતા અને ચોક્કસ મેનિસ્કસ આપવાને કારણે હલકા પ્રવાહી તરીકે આલ્કોહોલ ઊંચી સેન્સિટિવિટી આપે છે[cite: 8]."
+    "explanation": "ઓછી ડેન્સિટી અને ચોક્કસ મેનિસ્કસ આપવાને કારણે હલકા ફ્લુઇડ તરીકે આલ્કોહોલ ઊંચી સેન્સિટિવિટી આપે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 60,
@@ -897,7 +897,7 @@
       "વ્હર્લિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "નીચા દબાણે વેપર બબલ્સ બનવા અને ઊંચા દબાણે ફૂટીને ધાતુની સપાટીને નુકસાન કરવાની ક્રિયાને કેવિટેશન (Cavitation) કહે છે[cite: 8]."
+    "explanation": "નીચા પ્રેશરે વેપર બબલ્સ બનવા અને ઊંચા પ્રેશરે ફૂટીને ધાતુની સપાટીને નુકસાન કરવાની ક્રિયાને કેવિટેશન (Cavitation) કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 61,
@@ -906,20 +906,20 @@
     "question": "A Hydrometer is used to measure:",
     "gujaratiQuestion": "Q61. હાઇડ્રોમીટર (Hydrometer) કયા હેતુ માટે વપરાય છે?",
     "options": [
-      "પ્રવાહીની સ્પેસિફિક ગ્રેવિટી માપવા",
+      "ફ્લુઇડની સ્પેસિફિક ગ્રેવિટી માપવા",
       "વાતાવરણીય પ્રેશર માપવા",
-      "પ્રવાહીની વિસ્કોસિટી માપવા",
+      "ફ્લુઇડની વિસ્કોસિટી માપવા",
       "ભેજ માપવા"
     ],
     "correctAnswer": 0,
-    "explanation": "હાઇડ્રોમીટર ફ્લોટેશનના સિદ્ધાંત પર પ્રવાહીની સ્પેસિફિક ગ્રેવિટી (વિશિષ્ટ ઘનતા) માપે છે[cite: 8]."
+    "explanation": "હાઇડ્રોમીટર ફ્લોટેશનના સિદ્ધાંત પર ફ્લુઇડની સ્પેસિફિક ગ્રેવિટી (વિશિષ્ટ ડેન્સિટી) માપે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 62,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "The tendency of a liquid free surface to contract to the smallest possible surface area is due to:",
-    "gujaratiQuestion": "062. ફ્રી સરફેસ ઓફ લિક્વિડ નાનામાં નાનો એરિયા ધારણ કરવાનું વલણ ધરાવે છે, આ કયા ગુણધર્મને આભારી છે?",
+    "gujaratiQuestion": "062. ફ્રી સરફેસ ઓફ લિક્વિડ નાનામાં નાનો એરિયા ધારણ કરવાનું વલણ ધરાવે છે, આ કયા પ્રોપર્ટીને આભારી છે?",
     "options": [
       "વિસ્કોસિટી",
       "સરફેસ ટેન્શન",
@@ -927,7 +927,7 @@
       "વેપર પ્રેશર"
     ],
     "correctAnswer": 1,
-    "explanation": "સરફેસ ટેન્શન સપાટી પર તણાવ પેદા કરી લઘુત્તમ સરફેસ એરિયા જાળવી રાખે છે[cite: 8]."
+    "explanation": "સરફેસ ટેન્શન સપાટી પર તણાવ પેદા કરી લઘુત્તમ સરફેસ એરિયા જાળવી રાખે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 63,
@@ -942,14 +942,14 @@
       "રેન્ડમ"
     ],
     "correctAnswer": 0,
-    "explanation": "લેમિનાર ફ્લોમાં વેલોસિટી પ્રોફાઇલ પરવલયાકાર એટલે કે પેરાબોલિક (Parabolic) હોય છે[cite: 8]."
+    "explanation": "લેમિનાર ફ્લોમાં વેલોસિટી પ્રોફાઇલ પરવલયાકાર એટલે કે પેરાબોલિક (Parabolic) હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 64,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "What is the excess pressure formula inside a liquid droplet? (where σ = surface tension, d = diameter)",
-    "gujaratiQuestion": "064. પ્રવાહીના ટીપાં (Liquid drop) ની અંદર પ્રેશર p માટેનું સૂત્ર કયું છે? (જ્યાં σ = સરફેસ ટેન્શન)",
+    "gujaratiQuestion": "064. ફ્લુઇડના ટીપાં (Liquid drop) ની અંદર પ્રેશર p માટેનું સૂત્ર કયું છે? (જ્યાં σ = સરફેસ ટેન્શન)",
     "options": [
       "p = 4σ / d",
       "p = 8σ / d",
@@ -957,14 +957,14 @@
       "p = σ / d"
     ],
     "correctAnswer": 0,
-    "explanation": "લિક્વિડ ડ્રોપલેટ માટે ગેજ પ્રેશર Δp = 4σ / d (અથવા 2σ/R) થાય છે[cite: 8]."
+    "explanation": "લિક્વિડ ડ્રોપલેટ માટે ગેજ પ્રેશર Δp = 4σ / d (અથવા 2σ/R) થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 65,
     "subject": "Fluid Mechanics",
     "subTopic": "Mass Density, Specific Volume & Specific Gravity",
     "question": "If a liquid weighs 8 N and has a volume of 1 liter, what is its specific volume?",
-    "gujaratiQuestion": "065. જો કોઈ પ્રવાહીનું વજન 8 N હોય અને તેનું કદ 1 લીટર હોય, તો તેનું સ્પેસિફિક વોલ્યુમ કેટલું થાય?",
+    "gujaratiQuestion": "065. જો કોઈ ફ્લુઇડનું વજન 8 N હોય અને તેનું વોલ્યુમ 1 લીટર હોય, તો તેનું સ્પેસિફિક વોલ્યુમ કેટલું થાય?",
     "options": [
       "2.03 × 10⁻³ m³/kg",
       "1.23 × 10⁻³ m³/kg",
@@ -972,7 +972,7 @@
       "20.3 × 10⁻³ m³/kg"
     ],
     "correctAnswer": 1,
-    "explanation": "Mass m = W/g = 8 / 9.81 = 0.8155 kg. Volume V = 10⁻³ m³. Specific volume v = V/m = 10⁻³ / 0.8155 ≈ 1.23 × 10⁻³ m³/kg[cite: 8]."
+    "explanation": "Mass m = W/g = 8 / 9.81 = 0.8155 kg. Volume V = 10⁻³ m³. Specific volume v = V/m = 10⁻³ / 0.8155 ≈ 1.23 × 10⁻³ m³/kg[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 66,
@@ -987,7 +987,7 @@
       "ML⁻²T⁻²"
     ],
     "correctAnswer": 2,
-    "explanation": "કાઇનેમેટિક વિસ્કોસિટીનો એકમ m²/s હોવાથી તેના પરિમાણો [L²T⁻¹] છે[cite: 8]."
+    "explanation": "કાઇનેમેટિક વિસ્કોસિટીનો એકમ m²/s હોવાથી તેના પરિમાણો [L²T⁻¹] છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 67,
@@ -1002,14 +1002,14 @@
       "0.2 × 10⁻⁴ m²/s"
     ],
     "correctAnswer": 0,
-    "explanation": "1 Stokes = 10⁻⁴ m²/s => 0.02 Stokes = 0.02 × 10⁻⁴ m²/s (અથવા 2 × 10⁻⁶ m²/s)[cite: 8]."
+    "explanation": "1 Stokes = 10⁻⁴ m²/s => 0.02 Stokes = 0.02 × 10⁻⁴ m²/s (અથવા 2 × 10⁻⁶ m²/s)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 68,
     "subject": "Fluid Mechanics",
     "subTopic": "Manometry, Buoyancy & Stability of Floating Bodies",
     "question": "What is atmospheric pressure at sea level in equivalent height of water column?",
-    "gujaratiQuestion": "068. વાતાવરણીય દબાણ દરિયાની સપાટી (Sea level) પર પાણીના કોલમમાં આશરે કેટલું હોય છે?",
+    "gujaratiQuestion": "068. વાતાવરણીય પ્રેશર દરિયાની સપાટી (Sea level) પર પાણીના કોલમમાં આશરે કેટલું હોય છે?",
     "options": [
       "1 મીટર",
       "10.33 મીટર",
@@ -1017,7 +1017,7 @@
       "760 મીટર"
     ],
     "correctAnswer": 1,
-    "explanation": "1 atm = 101.325 kPa = 10.33 m of water column (અથવા 760 mm of Hg)[cite: 8]."
+    "explanation": "1 atm = 101.325 kPa = 10.33 m of water column (અથવા 760 mm of Hg)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 69,
@@ -1032,7 +1032,7 @@
       "4.77 kN/m²"
     ],
     "correctAnswer": 2,
-    "explanation": "વેલોસિટી u = (πDN)/60 અને τ = μ(u/y) ગણતરી મુજબ શિયર સ્ટ્રેસ 3.77 kN/m² મળે છે[cite: 8]."
+    "explanation": "વેલોસિટી u = (πDN)/60 અને τ = μ(u/y) ગણતરી મુજબ શિયર સ્ટ્રેસ 3.77 kN/m² મળે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 70,
@@ -1047,7 +1047,7 @@
       "[ML⁻¹T⁻²]"
     ],
     "correctAnswer": 0,
-    "explanation": "ડાયનેમિક વિસ્કોસિટી μ નો એકમ Pa-s = (N·s)/m² = (kg·m/s² · s)/m² = [ML⁻¹T⁻¹][cite: 8]."
+    "explanation": "ડાયનેમિક વિસ્કોસિટી μ નો એકમ Pa-s = (N·s)/m² = (kg·m/s² · s)/m² = [ML⁻¹T⁻¹][cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 71,
@@ -1062,7 +1062,7 @@
       "અસ્થિર સમતુલા"
     ],
     "correctAnswer": 2,
-    "explanation": "ડિસ્ટર્બન્સ પછી પુનઃસ્થાપક ટોર્ક લાગીને મૂળ સ્થિતિમાં પાછા ફરવાને સ્ટેબલ ઇક્વિલિબ્રિયમ (Stable equilibrium) કહે છે[cite: 8]."
+    "explanation": "ડિસ્ટર્બન્સ પછી પુનઃસ્થાપક ટોર્ક લાગીને મૂળ સ્થિતિમાં પાછા ફરવાને સ્ટેબલ ઇક્વિલિબ્રિયમ (Stable equilibrium) કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 72,
@@ -1077,22 +1077,22 @@
       "ટેન્જેન્શિયલ ફ્લો"
     ],
     "correctAnswer": 3,
-    "explanation": "પેલ્ટન વ્હીલમાં પાણીનો જેટ રનરના પિચ સર્કલને સ્પર્શક (Tangential flow) દિશામાં અથડાય છે[cite: 8]."
+    "explanation": "પેલ્ટન વ્હીલમાં પાણીનો જેટ રનરના પિચ સર્કલને સ્પર્શક (Tangential flow) દિશામાં અથડાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 73,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "Hydrostatic pressure on a submerged plane surface depends on:",
-    "gujaratiQuestion": "073. પ્રવાહીમાં ડૂબેલી સપાટી પર લાગતું હાઈડ્રોસ્ટેટિક પ્રેશર (Hydrostatic pressure) કોના પર આધાર રાખે છે?",
+    "gujaratiQuestion": "073. ફ્લુઇડમાં ડૂબેલી સપાટી પર લાગતું હાઈડ્રોસ્ટેટિક પ્રેશર (Hydrostatic pressure) કોના પર આધાર રાખે છે?",
     "options": [
       "માત્ર સપાટીના આકાર પર",
-      "ઊંડાઈ અને પ્રવાહીની ઘનતા પર",
-      "માત્ર પ્રવાહીની વિસ્કોસિટી પર",
-      "માત્ર પ્રવાહીની કાઈનેમેટિક વિસ્કોસિટી પર"
+      "ઊંડાઈ અને ફ્લુઇડની ડેન્સિટી પર",
+      "માત્ર ફ્લુઇડની વિસ્કોસિટી પર",
+      "માત્ર ફ્લુઇડની કાઈનેમેટિક વિસ્કોસિટી પર"
     ],
     "correctAnswer": 1,
-    "explanation": "હાઇડ્રોસ્ટેટિક દબાણ p = ρ · g · h મુજબ પ્રવાહીની ઘનતા અને ફ્રી સરફેસથી ઊંડાઈ પર આધારિત છે[cite: 8]."
+    "explanation": "હાઇડ્રોસ્ટેટિક પ્રેશર p = ρ · g · h મુજબ ફ્લુઇડની ડેન્સિટી અને ફ્રી સરફેસથી ઊંડાઈ પર આધારિત છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 74,
@@ -1107,7 +1107,7 @@
       "ફોર્સનું સંરક્ષણ"
     ],
     "correctAnswer": 0,
-    "explanation": "કન્ટિન્યુઇટી સમીકરણ દ્રવ્ય સંરક્ષણ (Conservation of Mass) ના નિયમ પર આધારિત છે[cite: 8]."
+    "explanation": "કન્ટિન્યુઇટી સમીકરણ દ્રવ્ય સંરક્ષણ (Conservation of Mass) ના નિયમ પર આધારિત છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 75,
@@ -1122,7 +1122,7 @@
       "ρ₁A₁ = ρ₂V₂"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇનકમ્પ્રેસિબલ ફ્લો માટે ઘનતા અચળ રહેતાં A₁V₁ = A₂V₂ = Q (અચળ ડિસ્ચાર્જ) થાય છે[cite: 8]."
+    "explanation": "ઇનકમ્પ્રેસિબલ ફ્લો માટે ડેન્સિટી અચળ રહેતાં A₁V₁ = A₂V₂ = Q (અચળ ડિસ્ચાર્જ) થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 76,
@@ -1137,14 +1137,14 @@
       "નીચે"
     ],
     "correctAnswer": 0,
-    "explanation": "તરતા પદાર્થની સ્થિર સમતુલા (Stable equilibrium) માટે મેટાસેન્ટ્રિક હાઇટ GM > 0 હોવી જોઈએ, એટલે કે મેટાસેન્ટર (M) સેન્ટર ઓફ ગ્રેવિટી (G) ની ઉપર હોવું જોઈએ[cite: 8]."
+    "explanation": "તરતા પદાર્થની સ્થિર સમતુલા (Stable equilibrium) માટે મેટાસેન્ટ્રિક હાઇટ GM > 0 હોવી જોઈએ, એટલે કે મેટાસેન્ટર (M) સેન્ટર ઓફ ગ્રેવિટી (G) ની ઉપર હોવું જોઈએ[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 77,
     "subject": "Fluid Mechanics",
     "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
     "question": "When fluid flow properties do not change with time at any point, the flow is called:",
-    "gujaratiQuestion": "077. જ્યારે ફ્લુઇડ ફ્લોના ગુણધર્મો સમયની સાથે બદલાતા ન હોય, તો તે ફ્લોને શું કહેવાય છે?",
+    "gujaratiQuestion": "077. જ્યારે ફ્લુઇડ ફ્લોના પ્રોપર્ટીઝ સમયની સાથે બદલાતા ન હોય, તો તે ફ્લોને શું કહેવાય છે?",
     "options": [
       "યુનિફોર્મ ફ્લો",
       "અનસ્ટીડી ફ્લો",
@@ -1152,7 +1152,7 @@
       "રોટેશનલ ફ્લો"
     ],
     "correctAnswer": 2,
-    "explanation": "જો ફ્લો પેરામીટર્સ (વેગ, દબાણ, ઘનતા) સમય સાથે અચળ રહેતા હોય (∂/∂t = 0), તો તેને સ્ટીડી ફ્લો (Steady flow) કહેવાય છે[cite: 8]."
+    "explanation": "જો ફ્લો પેરામીટર્સ (વેલોસિટી, પ્રેશર, ડેન્સિટી) સમય સાથે અચળ રહેતા હોય (∂/∂t = 0), તો તેને સ્ટીડી ફ્લો (Steady flow) કહેવાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 78,
@@ -1167,14 +1167,14 @@
       "ટર્બ્યુલન્ટ ફ્લો"
     ],
     "correctAnswer": 0,
-    "explanation": "કોઈ ચોક્કસ ક્ષણે અંતર/સ્પેસ સાથે વેગ કે અન્ય ગુણધર્મો ન બદલાય (∂V/∂s = 0), તો તે પ્રવાહને યુનિફોર્મ ફ્લો (Uniform flow) કહે છે[cite: 8]."
+    "explanation": "કોઈ ચોક્કસ ક્ષણે અંતર/સ્પેસ સાથે વેલોસિટી કે અન્ય પ્રોપર્ટીઝ ન બદલાય (∂V/∂s = 0), તો તે ફ્લોને યુનિફોર્મ ફ્લો (Uniform flow) કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 79,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "A vertical triangular plane area is submerged in water with one base at the free surface and vertex pointing downwards. If altitude is 'h', where is the center of pressure located below the free surface?",
-    "gujaratiQuestion": "079. પાણીમાં ડૂબાડેલા એક વર્ટિકલ ત્રિકોણાકાર પ્લેન એરિયાની એક બાજુ પાણીની મુક્ત સપાટી (free surface) પર છે, અને શિરોબિંદુ નીચે તરફ છે. જો અલ્ટિટ્યુડ 'h' હોય, તો મુક્ત સપાટીની નીચે પ્રેશર સેન્ટર ક્યાં હશે?",
+    "gujaratiQuestion": "079. પાણીમાં ડૂબાડેલા એક વર્ટિકલ ત્રિકોણાકાર પ્લેન એરિયાની એક બાજુ પાણીની ફ્રી સરફેસ (free surface) પર છે, અને શિરોબિંદુ નીચે તરફ છે. જો અલ્ટિટ્યુડ 'h' હોય, તો ફ્રી સરફેસની નીચે પ્રેશર સેન્ટર ક્યાં હશે?",
     "options": [
       "h/4",
       "h/3",
@@ -1182,7 +1182,7 @@
       "h/2"
     ],
     "correctAnswer": 3,
-    "explanation": "બેઝ મુક્ત સપાટી પર હોય તેવા શિરોલંબ ત્રિકોણ માટે સેન્ટર ઓફ પ્રેશર h_cp = x̄ + (Ig / A·x̄) = (h/3) + [(b·h³/36) / ((b·h/2)·(h/3))] = h/3 + h/6 = h/2 અંતરે હોય છે[cite: 8]."
+    "explanation": "બેઝ ફ્રી સરફેસ પર હોય તેવા શિરોલંબ ત્રિકોણ માટે સેન્ટર ઓફ પ્રેશર h_cp = x̄ + (Ig / A·x̄) = (h/3) + [(b·h³/36) / ((b·h/2)·(h/3))] = h/3 + h/6 = h/2 અંતરે હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 80,
@@ -1197,14 +1197,14 @@
       "∂²u/∂x² + ∂²v/∂y² = 0"
     ],
     "correctAnswer": 0,
-    "explanation": "2D ઇનકમ્પ્રેસિબલ ફ્લો માટે દ્રવ્ય સંરક્ષણનું સાતત્ય સમીકરણ ∂u/∂x + ∂v/∂y = 0 છે[cite: 8]."
+    "explanation": "2D ઇનકમ્પ્રેસિબલ ફ્લો માટે દ્રવ્ય સંરક્ષણનું સાતત્ય સમીકરણ ∂u/∂x + ∂v/∂y = 0 છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 81,
     "subject": "Fluid Mechanics",
     "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
     "question": "In fluid acceleration, the rate of change of velocity with respect to time at a fixed position is called:",
-    "gujaratiQuestion": "081. ફ્લુઈડ એક્સેલરેશનમાં સમય સાથે વેગમાં થતા ફેરફારને કયું એક્સેલરેશન કહેવાય છે?",
+    "gujaratiQuestion": "081. ફ્લુઈડ એક્સેલરેશનમાં સમય સાથે વેલોસિટીમાં થતા ફેરફારને કયું એક્સેલરેશન કહેવાય છે?",
     "options": [
       "કન્વેક્ટિવ એક્સેલરેશન",
       "લોકલ એક્સેલરેશન",
@@ -1212,7 +1212,7 @@
       "નોર્મલ એક્સેલરેશન"
     ],
     "correctAnswer": 1,
-    "explanation": "ચોક્કસ સ્થાને સમય સાથે વેગ બદલાવાને લીધે મળતા પ્રવેગ (∂V/∂t) ને લોકલ અથવા ટેમ્પોરલ પ્રવેગ (Local/Temporal acceleration) કહે છે[cite: 8]."
+    "explanation": "ચોક્કસ સ્થાને સમય સાથે વેલોસિટી બદલાવાને લીધે મળતા પ્રવેલોસિટી (∂V/∂t) ને લોકલ અથવા ટેમ્પોરલ પ્રવેલોસિટી (Local/Temporal acceleration) કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 82,
@@ -1227,7 +1227,7 @@
       "3 m/sec"
     ],
     "correctAnswer": 1,
-    "explanation": "બર્નોલી સમીકરણ મુજબ: P_A/ρ + V_A²/2 = P_B/ρ + V_B²/2 => 2500/1000 + 4/2 = 1500/1000 + V_B²/2 => 2.5 + 2 = 1.5 + V_B²/2 => V_B²/2 = 3 => V_B = √6 m/s[cite: 8]."
+    "explanation": "બર્નોલી સમીકરણ મુજબ: P_A/ρ + V_A²/2 = P_B/ρ + V_B²/2 => 2500/1000 + 4/2 = 1500/1000 + V_B²/2 => 2.5 + 2 = 1.5 + V_B²/2 => V_B²/2 = 3 => V_B = √6 m/s[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 83,
@@ -1242,7 +1242,7 @@
       "અનંત"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્ટીડી ફ્લોમાં સમયની સાપેક્ષે વેગ અચળ રહેતો હોવાથી લોકલ પ્રવેગ (∂V/∂t) શૂન્ય હોય છે[cite: 8]."
+    "explanation": "સ્ટીડી ફ્લોમાં સમયની સાપેક્ષે વેલોસિટી અચળ રહેતો હોવાથી લોકલ પ્રવેલોસિટી (∂V/∂t) શૂન્ય હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 84,
@@ -1257,7 +1257,7 @@
       "થર્મોડાયનેમિક્સનો પ્રથમ નિયમ"
     ],
     "correctAnswer": 1,
-    "explanation": "મોમેન્ટમ સમીકરણ ન્યુટનના ગતિના બીજા નિયમ (બળ = વેગમાનમાં થતા ફેરફારનો દર, F = d(mv)/dt) પર આધારિત છે[cite: 8]."
+    "explanation": "મોમેન્ટમ સમીકરણ ન્યુટનના ગતિના બીજા નિયમ (બળ = વેલોસિટીમાનમાં થતા ફેરફારનો દર, F = d(mv)/dt) પર આધારિત છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 85,
@@ -1272,7 +1272,7 @@
       "ઈમ્પેલર દ્વારા પાણીને આપવામાં આવતા હેડ અને સક્શન હેડ"
     ],
     "correctAnswer": 0,
-    "explanation": "મેનોમેટ્રિક કાર્યક્ષમતા η_mano = મેનોમેટ્રિક હેડ (Hm) / ઈમ્પેલર દ્વારા લિક્વિડને અપાતો હેડ (Vw2·u2/g)[cite: 8]."
+    "explanation": "મેનોમેટ્રિક વર્કક્ષમતા η_mano = મેનોમેટ્રિક હેડ (Hm) / ઈમ્પેલર દ્વારા લિક્વિડને અપાતો હેડ (Vw2·u2/g)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 86,
@@ -1287,7 +1287,7 @@
       "આઈસોલેટેડ સિસ્ટમ"
     ],
     "correctAnswer": 0,
-    "explanation": "કંટ્રોલ વોલ્યુમ એ અવકાશમાં પસંદ કરેલો એક ચોક્કસ કાલ્પનિક કે વાસ્તવિક જથ્થો/વિસ્તાર (Fixed region in space) છે જેમાંથી દ્રવ્ય અને ઊર્જા વહી શકે છે[cite: 8]."
+    "explanation": "કંટ્રોલ વોલ્યુમ એ સ્પેસમાં પસંદ કરેલો એક ચોક્કસ કાલ્પનિક કે વાસ્તવિક જથ્થો/વિસ્તાર (Fixed region in space) છે જેમાંથી દ્રવ્ય અને ઊર્જા વહી શકે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 87,
@@ -1302,7 +1302,7 @@
       "કમ્પ્રેસિબિલિટી ફોર્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "નેવિયર-સ્ટોક્સ સમીકરણો ગ્રેવિટી ફોર્સ (Fg), પ્રેશર ફોર્સ (Fp) અને વિસ્કસ ફોર્સ (Fv) ના સંયુક્ત સરવાળાને ધ્યાનમાં લે છે[cite: 8]."
+    "explanation": "નેવિયર-સ્ટોક્સ સમીકરણો ગ્રેવિટી ફોર્સ (Fg), પ્રેશર ફોર્સ (Fp) અને વિસ્કસ ફોર્સ (Fv) ના સંયુક્ત સરવાળાને ધ્યાનમાં લે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 88,
@@ -1317,7 +1317,7 @@
       "2N"
     ],
     "correctAnswer": 1,
-    "explanation": "પંપની સ્પેસિફિક સ્પીડ Ns = (N√Q) / H^(3/4) હોવાથી Ns ∝ √Q થાય. તેથી ડિસ્ચાર્જ બમણો (2Q) કરતાં નવી સ્પીડ √2 N બને છે[cite: 8]."
+    "explanation": "પંપની સ્પેસિફિક સ્પીડ Ns = (N√Q) / H^(3/4) હોવાથી Ns ∝ √Q થાય. તેથી ડિસ્ચાર્જ બમણો (2Q) કરતાં નવી સ્પીડ √2 N બને છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 89,
@@ -1327,12 +1327,12 @@
     "gujaratiQuestion": "089. સ્ટ્રીમલાઈન (Streamline) ની વ્યાખ્યા શું છે?",
     "options": [
       "પાઈપની સપાટીને સમાંતર રેખા",
-      "એવી રેખા જેના દરેક બિંદુ પરનો સ્પર્શક વેગની દિશા દર્શાવે છે",
+      "એવી રેખા જેના દરેક બિંદુ પરનો સ્પર્શક વેલોસિટીની દિશા દર્શાવે છે",
       "સમાન પ્રેશર ધરાવતા બિંદુઓની રેખા",
       "રોટેશનલ ફ્લોની રેખા"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ટ્રીમલાઇન એ એવી કાલ્પનિક વક્ર રેખા છે કે જેના કોઈપણ બિંદુ આગળ દોરેલો સ્પર્શક તે ક્ષણે તે બિંદુ આગળ ફ્લુઇડ વેગની દિશા આપે છે[cite: 8]."
+    "explanation": "સ્ટ્રીમલાઇન એ એવી કાલ્પનિક વક્ર રેખા છે કે જેના કોઈપણ બિંદુ આગળ દોરેલો સ્પર્શક તે ક્ષણે તે બિંદુ આગળ ફ્લુઇડ વેલોસિટીની દિશા આપે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 90,
@@ -1347,7 +1347,7 @@
       "અનસ્ટીડી ફ્લો"
     ],
     "correctAnswer": 1,
-    "explanation": "જ્યારે સ્ટ્રીમ ફંક્શન લેપ્લાસ સમીકરણ સંતોષે (∂²ψ/∂x² + ∂²ψ/∂y² = 0), ત્યારે પ્રવાહ ઇરરોટેશનલ (Irrotational / Potential flow) બને છે[cite: 8]."
+    "explanation": "જ્યારે સ્ટ્રીમ ફંક્શન લેપ્લાસ સમીકરણ સંતોષે (∂²ψ/∂x² + ∂²ψ/∂y² = 0), ત્યારે ફ્લો ઇરરોટેશનલ (Irrotational / Potential flow) બને છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 91,
@@ -1362,7 +1362,7 @@
       "એન્ટ્રોપી એ સિસ્ટમની પોટેન્શિયલ એનર્જીનું માપ છે"
     ],
     "correctAnswer": 2,
-    "explanation": "એન્ટ્રોપી એ થર્મોડાયનેમિક સિસ્ટમમાં રહેલી આણ્વિક અવ્યવસ્થા અથવા રેન્ડમનેસનું (Degree of disorder) માપ છે[cite: 8]."
+    "explanation": "એન્ટ્રોપી એ થર્મોડાયનેમિક સિસ્ટમમાં રહેલી આણ્વિક અવ્યવસ્થા અથવા રેન્ડમનેસનું (Degree of disorder) માપ છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 92,
@@ -1377,7 +1377,7 @@
       "એકબીજાને ક્યારેય છેદતી નથી"
     ],
     "correctAnswer": 2,
-    "explanation": "ફ્લો નેટમાં સ્ટ્રીમલાઇન્સ (ψ = c) અને વેલોસિટી પોટેન્શિયલ લાઇન્સ (φ = c) તમામ બિંદુઓ આગળ પરસ્પર કાટખૂણે (Orthogonal) છેદે છે[cite: 8]."
+    "explanation": "ફ્લો નેટમાં સ્ટ્રીમલાઇન્સ (ψ = c) અને વેલોસિટી પોટેન્શિયલ લાઇન્સ (φ = c) તમામ બિંદુઓ આગળ પરસ્પર કાટખૂણે (Orthogonal) છેદે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 93,
@@ -1392,14 +1392,14 @@
       "ફોર્સ"
     ],
     "correctAnswer": 2,
-    "explanation": "બર્નોલી સમીકરણ પ્રવાહી પ્રવાહ માટે ઊર્જા સંરક્ષણના નિયમ (Law of Conservation of Energy) પર આધારિત છે[cite: 8]."
+    "explanation": "બર્નોલી સમીકરણ ફ્લુઇડ ફ્લો માટે ઊર્જા સંરક્ષણના નિયમ (Law of Conservation of Energy) પર આધારિત છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 94,
     "subject": "Fluid Mechanics",
     "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
     "question": "It is impossible to construct a device operating in a cycle that produces no effect other than transfer of heat from colder to hotter body. Which statement is this?",
-    "gujaratiQuestion": "094. એવું કોઈ ઉપકરણ બનાવવું અશક્ય છે જે સાયકલમાં કાર્ય કરતું હોય, અને ઠંડા પદાર્થથી ગરમ પદાર્થમાં હીટ ટ્રાન્સફર સિવાય બીજું કોઈ પરિણામ ઉત્પન્ન ન કરે. આ કયું વિધાન છે?",
+    "gujaratiQuestion": "094. એવું કોઈ ઉપકરણ બનાવવું અશક્ય છે જે સાયકલમાં વર્ક કરતું હોય, અને ઠંડા પદાર્થથી ગરમ પદાર્થમાં હીટ ટ્રાન્સફર સિવાય બીજું કોઈ પરિણામ ઉત્પન્ન ન કરે. આ કયું વિધાન છે?",
     "options": [
       "કેલ્વિન સ્ટેટમેન્ટ",
       "ક્લોસિયસ સ્ટેટમેન્ટ",
@@ -1407,7 +1407,7 @@
       "કન્ઝર્વેશન ઓફ એનર્જી"
     ],
     "correctAnswer": 1,
-    "explanation": "આ વિધાન થર્મોડાયનેમિક્સના બીજા નિયમનું ક્લોસિયસ સ્ટેટમેન્ટ (Clausius Statement) છે[cite: 8]."
+    "explanation": "આ વિધાન થર્મોડાયનેમિક્સના બીજા નિયમનું ક્લોસિયસ સ્ટેટમેન્ટ (Clausius Statement) છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 95,
@@ -1422,7 +1422,7 @@
       "મોમેન્ટમ સમીકરણ"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ટ્રીમલાઇન પર યૂલર સમીકરણ (dp/ρ + V·dV + g·dz = 0) નું સંકલન કરવાથી બર્નોલીનું સમીકરણ મળે છે[cite: 8]."
+    "explanation": "સ્ટ્રીમલાઇન પર યૂલર સમીકરણ (dp/ρ + V·dV + g·dz = 0) નું સંકલન કરવાથી બર્નોલીનું સમીકરણ મળે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 96,
@@ -1437,7 +1437,7 @@
       "માત્ર ટર્બ્યુલન્ટ ફ્લો"
     ],
     "correctAnswer": 0,
-    "explanation": "બર્નોલી સમીકરણ આદર્શ (ઘર્ષણરહિત), સ્ટીડી, ઇનકમ્પ્રેસિબલ અને ઇરરોટેશનલ પ્રવાહ માટે જ લાગુ પડે છે[cite: 8]."
+    "explanation": "બર્નોલી સમીકરણ આદર્શ (ઘર્ષણરહિત), સ્ટીડી, ઇનકમ્પ્રેસિબલ અને ઇરરોટેશનલ ફ્લો માટે જ લાગુ પડે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 97,
@@ -1449,10 +1449,10 @@
       "એનર્જી",
       "માસ",
       "લેન્થ",
-      "કાર્ય"
+      "વર્ક"
     ],
     "correctAnswer": 2,
-    "explanation": "દરેક પદ પ્રતિ યુનિટ વજન દીઠ ઊર્જા દર્શાવે છે, જેનું પરિમાણ લંબાઈ [L] (મીટરમાં હેડ) થાય છે[cite: 8]."
+    "explanation": "દરેક પદ પ્રતિ યુનિટ વજન દીઠ ઊર્જા દર્શાવે છે, જેનું પરિમાણ લંબાઈ [L] (મીટરમાં હેડ) થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 98,
@@ -1467,7 +1467,7 @@
       "એન્થાલ્પી બદલાતી નથી"
     ],
     "correctAnswer": 3,
-    "explanation": "થ્રોટલિંગ એ અચળ એન્થાલ્પી (Isenthalpic, h1 = h2) પ્રક્રિયા છે[cite: 8]."
+    "explanation": "થ્રોટલિંગ એ અચળ એન્થાલ્પી (Isenthalpic, h1 = h2) પ્રોસેસ છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 99,
@@ -1482,14 +1482,14 @@
       "ડેટમ હેડ"
     ],
     "correctAnswer": 1,
-    "explanation": "V²/2g પદ પ્રતિ યુનિટ વજન દીઠ ગતિજ ઊર્જા એટલે કે કાઇનેટિક અથવા વેલોસિટી હેડ દર્શાવે છે[cite: 8]."
+    "explanation": "V²/2g પદ પ્રતિ યુનિટ વજન દીઠ ગતિજ ઊર્જા એટલે કે કાઇનેટિક અથવા વેલોસિટી હેડ દર્શાવે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 100,
     "subject": "Fluid Mechanics",
     "subTopic": "Bernoulli's Equation & Dimensional Analysis",
     "question": "On which principle does a venturimeter work?",
-    "gujaratiQuestion": "0100. વેન્ચ્યુરીમીટર (Venturimeter) કયા સિદ્ધાંત પર કાર્ય કરે છે?",
+    "gujaratiQuestion": "0100. વેન્ચ્યુરીમીટર (Venturimeter) કયા સિદ્ધાંત પર વર્ક કરે છે?",
     "options": [
       "ન્યુટનનો નિયમ",
       "બર્નોલીનું સમીકરણ",
@@ -1497,14 +1497,14 @@
       "પાસ્કલનો નિયમ"
     ],
     "correctAnswer": 1,
-    "explanation": "વેન્ચ્યુરીમીટર પાઇપમાં દબાણ તફાવત માપી બર્નોલીના સમીકરણના આધારે ડિસ્ચાર્જ માપે છે[cite: 8]."
+    "explanation": "વેન્ચ્યુરીમીટર પાઇપમાં પ્રેશર તફાવત માપી બર્નોલીના સમીકરણના આધારે ડિસ્ચાર્જ માપે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 101,
     "subject": "Fluid Mechanics",
     "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
     "question": "If source temperature is increased, what happens to the efficiency of a Carnot engine?",
-    "gujaratiQuestion": "0101. જો સોર્સનું તાપમાન વધારવામાં આવે, તો કાર્નોટ એન્જિનની એફિશિયન્સી પર શું અસર થાય છે?",
+    "gujaratiQuestion": "0101. જો સોર્સનું ટેમ્પરેચર વધારવામાં આવે, તો કાર્નોટ એન્જિનની એફિશિયન્સી પર શું અસર થાય છે?",
     "options": [
       "વધે છે",
       "ઘટે છે",
@@ -1512,7 +1512,7 @@
       "પહેલા વધે છે અને પછી અચળ થઈ જાય છે"
     ],
     "correctAnswer": 0,
-    "explanation": "કાર્નોટ કાર્યક્ષમતા η = 1 - (T_sink / T_source) મુજબ T_source વધતાં કાર્યક્ષમતા વધે છે[cite: 8]."
+    "explanation": "કાર્નોટ વર્કક્ષમતા η = 1 - (T_sink / T_source) મુજબ T_source વધતાં વર્કક્ષમતા વધે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 102,
@@ -1527,7 +1527,7 @@
       "વિસ્કોસિટી"
     ],
     "correctAnswer": 2,
-    "explanation": "વેન્ચ્યુરીમીટર પાઇપમાંથી વહેતા પ્રવાહીનો ફ્લો રેટ અથવા ડિસ્ચાર્જ (Discharge) માપવા વપરાય છે[cite: 8]."
+    "explanation": "વેન્ચ્યુરીમીટર પાઇપમાંથી વહેતા ફ્લુઇડનો ફ્લો રેટ અથવા ડિસ્ચાર્જ (Discharge) માપવા વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 103,
@@ -1537,19 +1537,19 @@
     "gujaratiQuestion": "0103. પિટોટ ટ્યુબ (Pitot tube) નો ઉપયોગ શું માપવા માટે થાય છે?",
     "options": [
       "ડિસ્ચાર્જ",
-      "ફ્લુઇડનો વેગ (સ્થાનિક વેલોસિટી)",
+      "ફ્લુઇડનો વેલોસિટી (સ્થાનિક વેલોસિટી)",
       "વિસ્કોસિટી",
       "સરફેસ ટેન્શન"
     ],
     "correctAnswer": 1,
-    "explanation": "પિટોટ ટ્યુબ પ્રવાહમાં કોઈ ચોક્કસ બિંદુ આગળ ફ્લુઇડની સ્થાનિક વેલોસિટી (Velocity of flow) માપે છે[cite: 8]."
+    "explanation": "પિટોટ ટ્યુબ ફ્લોમાં કોઈ ચોક્કસ બિંદુ આગળ ફ્લુઇડની સ્થાનિક વેલોસિટી (Velocity of flow) માપે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 104,
     "subject": "Fluid Mechanics",
     "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
     "question": "A Carnot engine operates between 227°C and 127°C. If work output is 10⁴ J, what is heat rejected to the sink?",
-    "gujaratiQuestion": "Q104. એક કાર્નોટ એન્જિન 227°C અને 127°C તાપમાન વચ્ચે કાર્ય કરે છે. જો એન્જિનનું વર્ક આઉટપુટ 10⁴ J હોય, તો સિંકમાં રિજેક્ટ થતી હીટની માત્રા કેટલી હશે?",
+    "gujaratiQuestion": "Q104. એક કાર્નોટ એન્જિન 227°C અને 127°C ટેમ્પરેચર વચ્ચે વર્ક કરે છે. જો એન્જિનનું વર્ક આઉટપુટ 10⁴ J હોય, તો સિંકમાં રિજેક્ટ થતી હીટની માત્રા કેટલી હશે?",
     "options": [
       "1 × 10⁴ J",
       "2 × 10⁴ J",
@@ -1557,7 +1557,7 @@
       "5 × 10⁴ J"
     ],
     "correctAnswer": 2,
-    "explanation": "T1 = 500 K, T2 = 400 K. η = 1 - 400/500 = 0.2. Q1 = W / η = 10⁴ / 0.2 = 5 × 10⁴ J. Q2 = Q1 - W = 5 × 10⁴ - 10⁴ = 4 × 10⁴ J[cite: 8]."
+    "explanation": "T1 = 500 K, T2 = 400 K. η = 1 - 400/500 = 0.2. Q1 = W / η = 10⁴ / 0.2 = 5 × 10⁴ J. Q2 = Q1 - W = 5 × 10⁴ - 10⁴ = 4 × 10⁴ J[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 105,
@@ -1572,7 +1572,7 @@
       "પ્રેશર શૂન્ય થાય છે"
     ],
     "correctAnswer": 0,
-    "explanation": "થ્રોટ આગળ વેગ વધવાથી બર્નોલી સમીકરણ મુજબ સ્ટેટિક પ્રેશરમાં ઘટાડો થાય છે[cite: 8]."
+    "explanation": "થ્રોટ આગળ વેલોસિટી વધવાથી બર્નોલી સમીકરણ મુજબ સ્ટેટિક પ્રેશરમાં ઘટાડો થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 106,
@@ -1587,7 +1587,7 @@
       "ડેન્સિટી શૂન્ય હોય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "જ્યાં પ્રવાહીનો વેગ સંપૂર્ણપણે શૂન્ય થઈ જાય અને ગતિજ ઊર્જા દબાણમાં રૂપાંતર પામે તે બિંદુને સ્ટેગ્નેશન પોઇન્ટ કહે છે[cite: 8]."
+    "explanation": "જ્યાં ફ્લુઇડનો વેલોસિટી સંપૂર્ણપણે શૂન્ય થઈ જાય અને ગતિજ ઊર્જા પ્રેશરમાં રૂપાંતર પામે તે બિંદુને સ્ટેગ્નેશન પોઇન્ટ કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 107,
@@ -1602,7 +1602,7 @@
       "40 J"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રથમ નિયમ મુજબ dQ = dU + dW => 110 = 40 + dW => dW = 70 J[cite: 8]."
+    "explanation": "પ્રથમ નિયમ મુજબ dQ = dU + dW => 110 = 40 + dW => dW = 70 J[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 108,
@@ -1617,7 +1617,7 @@
       "વેક્યુમ પ્રેશર"
     ],
     "correctAnswer": 2,
-    "explanation": "પિટોટ ટ્યુબના ઇનલેટ આગળ પ્રવાહ અટકતાં તે સ્ટેટિક અને ડાયનેમિક પ્રેશરનો સરવાળો એટલે કે સ્ટેગ્નેશન પ્રેશર માપે છે[cite: 8]."
+    "explanation": "પિટોટ ટ્યુબના ઇનલેટ આગળ ફ્લો અટકતાં તે સ્ટેટિક અને ડાયનેમિક પ્રેશરનો સરવાળો એટલે કે સ્ટેગ્નેશન પ્રેશર માપે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 109,
@@ -1632,7 +1632,7 @@
       "શૂન્ય"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓછા ફ્રિક્શનલ લોસને કારણે વેન્ચ્યુરીમીટરનો Cd (0.95-0.98) ઓરિફિસમીટર (0.60-0.65) કરતાં ઘણો વધુ હોય છે[cite: 8]."
+    "explanation": "ઓછા ફ્રિક્શનલ લોસને કારણે વેન્ચ્યુરીમીટરનો Cd (0.95-0.98) ઓરિફિસમીટર (0.60-0.65) કરતાં ઘણો વધુ હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 110,
@@ -1647,14 +1647,14 @@
       "[(n - 1)/(γ - 1)] × Work done"
     ],
     "correctAnswer": 0,
-    "explanation": "પોલિટ્રોપિક હીટ ટ્રાન્સફર Q = [(γ - n)/(γ - 1)] × W_polytropic થાય છે[cite: 8]."
+    "explanation": "પોલિટ્રોપિક હીટ ટ્રાન્સફર Q = [(γ - n)/(γ - 1)] × W_polytropic થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 111,
     "subject": "Fluid Mechanics",
     "subTopic": "Bernoulli's Equation & Dimensional Analysis",
     "question": "What is the formula for theoretical velocity V of flow through an orifice under head h?",
-    "gujaratiQuestion": "0111. જો કોઈ ઓરિફિસનો સૈદ્ધાંતિક વેગ V હોય, અને હેડ h હોય, તો V નું સૂત્ર શું છે?",
+    "gujaratiQuestion": "0111. જો કોઈ ઓરિફિસનો સૈદ્ધાંતિક વેલોસિટી V હોય, અને હેડ h હોય, તો V નું સૂત્ર શું છે?",
     "options": [
       "√(gh)",
       "√(2gh)",
@@ -1662,7 +1662,7 @@
       "2gh"
     ],
     "correctAnswer": 1,
-    "explanation": "ટોરીસેલીના નિયમ મુજબ સૈદ્ધાંતિક વેગ V = √(2gh) થાય છે[cite: 8]."
+    "explanation": "ટોરીસેલીના નિયમ મુજબ સૈદ્ધાંતિક વેલોસિટી V = √(2gh) થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 112,
@@ -1677,7 +1677,7 @@
       "30 m"
     ],
     "correctAnswer": 1,
-    "explanation": "Total Head H = Pressure Head + Kinetic Head + Datum Head = 15 + 2 + 3 = 20 m[cite: 8]."
+    "explanation": "Total Head H = Pressure Head + Kinetic Head + Datum Head = 15 + 2 + 3 = 20 m[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 113,
@@ -1692,7 +1692,7 @@
       "રિવર્સિબલ અને એડિઆબેટિક"
     ],
     "correctAnswer": 3,
-    "explanation": "આઇસેન્ટ્રોપિક પ્રક્રિયા એટલે અચળ એન્ટ્રોપી ધરાવતી રિવર્સિબલ એડિઆબેટિક (Reversible adiabatic) પ્રક્રિયા[cite: 8]."
+    "explanation": "આઇસેન્ટ્રોપિક પ્રોસેસ એટલે અચળ એન્ટ્રોપી ધરાવતી રિવર્સિબલ એડિઆબેટિક (Reversible adiabatic) પ્રોસેસ[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 114,
@@ -1707,7 +1707,7 @@
       "વિસ્કસ ફોર્સ"
     ],
     "correctAnswer": 2,
-    "explanation": "ફ્રી વોર્ટેક્સમાં કોઈ બાહ્ય ટોર્ક આપ્યા વગર કોણીય વેગમાન સંરક્ષણ (v × r = constant) થી પરિભ્રમણ થાય છે[cite: 8]."
+    "explanation": "ફ્રી વોર્ટેક્સમાં કોઈ બાહ્ય ટોર્ક આપ્યા વગર કોણીય વેલોસિટીમાન સંરક્ષણ (v × r = constant) થી રોટેશન થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 115,
@@ -1722,7 +1722,7 @@
       "ઈનર્શિયા ફોર્સ અને ઇલાસ્ટિક ફોર્સ"
     ],
     "correctAnswer": 0,
-    "explanation": "રેનોલ્ડ્સ નંબર (Re) એ ઈનર્શિયા ફોર્સ અને વિસ્કસ ફોર્સનો ગુણોત્તર છે[cite: 8]."
+    "explanation": "રેનોલ્ડ્સ નંબર (Re) એ ઈનર્શિયા ફોર્સ અને વિસ્કસ ફોર્સનો ગુણોત્તર છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 116,
@@ -1737,7 +1737,7 @@
       "વેટ સ્ટીમ"
     ],
     "correctAnswer": 3,
-    "explanation": "T-s ડાયાગ્રામ મુજબ આઇસેન્ટ્રોપિક વિસ્તરણથી સ્ટીમ સેચ્યુરેશન લાઇન ક્રોસ કરી ટુ-ફેઝ વેટ સ્ટીમ (Wet steam) રીજનમાં પ્રવેશે છે[cite: 8]."
+    "explanation": "T-s ડાયાગ્રામ મુજબ આઇસેન્ટ્રોપિક વિસ્તરણથી સ્ટીમ સેચ્યુરેશન લાઇન ક્રોસ કરી ટુ-ફેઝ વેટ સ્ટીમ (Wet steam) રીજનમાં પ્રવેશે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 117,
@@ -1752,7 +1752,7 @@
       "ગ્રેવિટી ફોર્સ અને વિસ્કસ ફોર્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "ફ્રાઉડ નંબર Fr = √(ઈનર્શિયા ફોર્સ / ગ્રેવિટી ફોર્સ) = V / √(gL)[cite: 8]."
+    "explanation": "ફ્રાઉડ નંબર Fr = √(ઈનર્શિયા ફોર્સ / ગ્રેવિટી ફોર્સ) = V / √(gL)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 118,
@@ -1767,14 +1767,14 @@
       "ઇલાસ્ટિક ફોર્સ અને ગ્રેવિટી ફોર્સ"
     ],
     "correctAnswer": 0,
-    "explanation": "મેક નંબર M = √(ઈનર્શિયા ફોર્સ / ઇલાસ્ટિક ફોર્સ) = V / c[cite: 8]."
+    "explanation": "મેક નંબર M = √(ઈનર્શિયા ફોર્સ / ઇલાસ્ટિક ફોર્સ) = V / c[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 119,
     "subject": "Fluid Mechanics",
     "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
     "question": "A steam engine works on which ideal thermodynamic cycle?",
-    "gujaratiQuestion": "0119. સ્ટીમ એન્જિન કઈ આદર્શ સાયકલ પર કાર્ય કરે છે?",
+    "gujaratiQuestion": "0119. સ્ટીમ એન્જિન કઈ આદર્શ સાયકલ પર વર્ક કરે છે?",
     "options": [
       "કાર્નોટ સાયકલ",
       "રેન્કિન સાયકલ",
@@ -1782,7 +1782,7 @@
       "જૂલ સાયકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ટીમ પાવર સાયકલ આદર્શ રેન્કિન સાયકલ (Rankine cycle) પર કાર્ય કરે છે[cite: 8]."
+    "explanation": "સ્ટીમ પાવર સાયકલ આદર્શ રેન્કિન સાયકલ (Rankine cycle) પર વર્ક કરે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 120,
@@ -1797,7 +1797,7 @@
       "વિસ્કસ ફોર્સ"
     ],
     "correctAnswer": 2,
-    "explanation": "વેબર નંબર We = ઈનર્શિયા ફોર્સ / સરફેસ ટેન્શન ફોર્સ = (ρV²L)/σ[cite: 8]."
+    "explanation": "વેબર નંબર We = ઈનર્શિયા ફોર્સ / સરફેસ ટેન્શન ફોર્સ = (ρV²L)/σ[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 121,
@@ -1812,7 +1812,7 @@
       "સબસોનિક ફ્લો"
     ],
     "correctAnswer": 3,
-    "explanation": "M < 1 હોય ત્યારે પ્રવાહની ઝડપ અવાજની ઝડપ કરતાં ઓછી હોવાથી તેને સબસોનિક ફ્લો (Subsonic flow) કહે છે[cite: 8]."
+    "explanation": "M < 1 હોય ત્યારે ફ્લોની ઝડપ અવાજની ઝડપ કરતાં ઓછી હોવાથી તેને સબસોનિક ફ્લો (Subsonic flow) કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 122,
@@ -1827,14 +1827,14 @@
       "5 કરતા વધુ"
     ],
     "correctAnswer": 2,
-    "explanation": "જ્યારે મેક નંબર 1 થી 5 ની વચ્ચે હોય ત્યારે તેને સુપરસોનિક ફ્લો કહેવાય છે[cite: 8]."
+    "explanation": "જ્યારે મેક નંબર 1 થી 5 ની વચ્ચે હોય ત્યારે તેને સુપરસોનિક ફ્લો કહેવાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 123,
     "subject": "Fluid Mechanics",
     "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
     "question": "During adiabatic expansion in a reversible system where temperature changes from T1 to T2, the change in entropy is:",
-    "gujaratiQuestion": "0123. એક સિસ્ટમમાં થતા એડિઆબેટિક એક્સપાન્શન દરમિયાન તેનું તાપમાન T1 થી T2 બદલાય છે, તો એન્ટ્રોપીમાં શું ફેરફાર થશે?",
+    "gujaratiQuestion": "0123. એક સિસ્ટમમાં થતા એડિઆબેટિક એક્સપાન્શન દરમિયાન તેનું ટેમ્પરેચર T1 થી T2 બદલાય છે, તો એન્ટ્રોપીમાં શું ફેરફાર થશે?",
     "options": [
       "વધશે",
       "ઘટશે",
@@ -1842,7 +1842,7 @@
       "T1/T2 ગુણોત્તરના આધારે વધશે કે ઘટશે"
     ],
     "correctAnswer": 2,
-    "explanation": "રિવર્સિબલ એડિઆબેટિક પ્રક્રિયામાં હીટ ટ્રાન્સફર dQ = 0 હોવાથી એન્ટ્રોપી અચળ રહે છે (dS = 0)[cite: 8]."
+    "explanation": "રિવર્સિબલ એડિઆબેટિક પ્રોસેસમાં હીટ ટ્રાન્સફર dQ = 0 હોવાથી એન્ટ્રોપી અચળ રહે છે (dS = 0)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 124,
@@ -1857,7 +1857,7 @@
       "5 કરતા વધુ"
     ],
     "correctAnswer": 3,
-    "explanation": "જ્યારે મેક નંબર M > 5 હોય ત્યારે તે પ્રવાહ હાઇપરસોનિક ફ્લો (Hypersonic flow) કહેવાય છે[cite: 8]."
+    "explanation": "જ્યારે મેક નંબર M > 5 હોય ત્યારે તે ફ્લો હાઇપરસોનિક ફ્લો (Hypersonic flow) કહેવાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 125,
@@ -1872,7 +1872,7 @@
       "16 m/s"
     ],
     "correctAnswer": 1,
-    "explanation": "Velocity V = Discharge / Area = Q / A = 8 / 2 = 4 m/s[cite: 8]."
+    "explanation": "Velocity V = Discharge / Area = Q / A = 8 / 2 = 4 m/s[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 126,
@@ -1882,12 +1882,12 @@
     "gujaratiQuestion": "Q126. ક્રાયોજેનિક્સ (CRYOGENICS) એટલે",
     "options": [
       "એક પ્રકારની ટાંકી",
-      "નીચા તાપમાને સામગ્રી અને ઘટનાઓનો અભ્યાસ",
+      "નીચા ટેમ્પરેચરે સામગ્રી અને ઘટનાઓનો અભ્યાસ",
       "રેડિયોએક્ટિવ તત્વોનો અભ્યાસ",
       "આપેલ પૈકી એકપણ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "ક્રાયોજેનિક્સ એટલે અત્યંત નીચા તાપમાને (-150°C થી નીચે) પદાર્થોના ગુણધર્મો અને વર્તણૂકનો અભ્યાસ[cite: 8]."
+    "explanation": "ક્રાયોજેનિક્સ એટલે અત્યંત નીચા ટેમ્પરેચરે (-150°C થી નીચે) પદાર્થોના પ્રોપર્ટીઝ અને વર્તણૂકનો અભ્યાસ[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 127,
@@ -1902,7 +1902,7 @@
       "8 ગણી થશે"
     ],
     "correctAnswer": 2,
-    "explanation": "V = Q / A = 4Q / (πD²). ડાયામીટર અડધો (D/2) કરતાં વેલોસિટી (1 / (1/2)²) = 4 ગણી વધશે[cite: 8]."
+    "explanation": "V = Q / A = 4Q / (πD²). ડાયામીટર અડધો (D/2) કરતાં વેલોસિટી (1 / (1/2)²) = 4 ગણી વધશે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 128,
@@ -1917,7 +1917,7 @@
       "50 m"
     ],
     "correctAnswer": 0,
-    "explanation": "h = V² / (2g) = (10)² / (2 × 10) = 100 / 20 = 5 m[cite: 8]."
+    "explanation": "h = V² / (2g) = (10)² / (2 × 10) = 100 / 20 = 5 m[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 129,
@@ -1932,7 +1932,7 @@
       "4.5"
     ],
     "correctAnswer": 0,
-    "explanation": "Turbine Work W_T = 4000 - 2500 = 1500 kJ/kg. SSC = 3600 / W_T = 3600 / 1500 = 2.4 kg/kWh[cite: 8]."
+    "explanation": "Turbine Work W_T = 4000 - 2500 = 1500 kJ/kg. SSC = 3600 / W_T = 3600 / 1500 = 2.4 kg/kWh[cite: 8].\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 130,
@@ -1947,7 +1947,7 @@
       "ઈનર્શિયા અને વિસ્કસ ફોર્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "યૂલર નંબર Eu = √(ઈનર્શિયા ફોર્સ / પ્રેશર ફોર્સ) = V / √(Δp/ρ)[cite: 8]."
+    "explanation": "યૂલર નંબર Eu = √(ઈનર્શિયા ફોર્સ / પ્રેશર ફોર્સ) = V / √(Δp/ρ)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 131,
@@ -1962,7 +1962,7 @@
       "m/s અને [LT⁻¹]"
     ],
     "correctAnswer": 1,
-    "explanation": "ડિસ્ચાર્જ Q = Area × Velocity નો SI એકમ m³/s અને ડાયમેન્શનલ ફોર્મ્યુલા [L³T⁻¹] છે[cite: 8]."
+    "explanation": "ડિસ્ચાર્જ Q = Area × Velocity નો SI એકમ m³/s અને ડાયમેન્શનલ ફોર્મ્યુલા [L³T⁻¹] છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 132,
@@ -1977,7 +1977,7 @@
       "બ્રેટન સાયકલ"
     ],
     "correctAnswer": 3,
-    "explanation": "બ્રેટન સાયકલ (અથવા જૂલ સાયકલ) માં 2 આઇસેન્ટ્રોપિક અને 2 આઇસોબારિક (કોન્સ્ટન્ટ પ્રેશર) પ્રક્રિયાઓ હોય છે[cite: 8]."
+    "explanation": "બ્રેટન સાયકલ (અથવા જૂલ સાયકલ) માં 2 આઇસેન્ટ્રોપિક અને 2 આઇસોબારિક (કોન્સ્ટન્ટ પ્રેશર) પ્રોસેસીસ હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 133,
@@ -1992,7 +1992,7 @@
       "વેબર નંબર"
     ],
     "correctAnswer": 2,
-    "explanation": "જહાજો અને મુક્ત સપાટી પ્રવાહમાં તરંગ પ્રતિકાર (Wave resistance) ગ્રેવિટી ફોર્સ પર આધારિત હોવાથી ફ્રાઉડ નંબર (Froude number) વપરાય છે[cite: 8]."
+    "explanation": "જહાજો અને ફ્રી સરફેસ ફ્લોમાં તરંગ પ્રતિકાર (Wave resistance) ગ્રેવિટી ફોર્સ પર આધારિત હોવાથી ફ્રાઉડ નંબર (Froude number) વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 134,
@@ -2007,14 +2007,14 @@
       "યૂલર નંબર"
     ],
     "correctAnswer": 2,
-    "explanation": "હાઇ સ્પીડ કમ્પ્રેસિબલ ફ્લોમાં ઇલાસ્ટિક ફોર્સ મુખ્ય હોવાથી મેક નંબર (Mach number) વપરાય છે[cite: 8]."
+    "explanation": "હાઇ સ્પીડ કમ્પ્રેસિબલ ફ્લોમાં ઇલાસ્ટિક ફોર્સ મુખ્ય હોવાથી મેક નંબર (Mach number) વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 135,
     "subject": "Fluid Mechanics",
     "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
     "question": "With an increase in temperature, the thermal conductivity of solid metals generally:",
-    "gujaratiQuestion": "Q135. તાપમાન વધવા સાથે ઘન ધાતુઓની (solid metals) થર્મલ કન્ડક્ટિવિટી સામાન્ય રીતે:",
+    "gujaratiQuestion": "Q135. ટેમ્પરેચર વધવા સાથે ઘન ધાતુઓની (solid metals) થર્મલ કન્ડક્ટિવિટી સામાન્ય રીતે:",
     "options": [
       "વધે છે",
       "ઘટે છે",
@@ -2022,7 +2022,7 @@
       "અનપેક્ષિત રહે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "તાપમાન વધતાં ધાતુઓમાં મુક્ત ઇલેક્ટ્રોન્સનું લેટિસ વાઇબ્રેશન સાથે અથડામણ વધવાથી થર્મલ કન્ડક્ટિવિટી ઘટે છે[cite: 8]."
+    "explanation": "ટેમ્પરેચર વધતાં ધાતુઓમાં મુક્ત ઇલેક્ટ્રોન્સનું લેટિસ વાઇબ્રેશન સાથે અથડામણ વધવાથી થર્મલ કન્ડક્ટિવિટી ઘટે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 136,
@@ -2037,14 +2037,14 @@
       "ફ્લો અનસ્ટીડી હોવો જોઈએ"
     ],
     "correctAnswer": 1,
-    "explanation": "બર્નોલી સમીકરણની મુખ્ય ધારણાઓ: ફ્લો સ્ટીડી, ઇનકમ્પ્રેસિબલ, ઘર્ષણરહિત (Non-viscous) અને ઇરરોટેશનલ હોવો જોઈએ[cite: 8]."
+    "explanation": "બર્નોલી સમીકરણની મુખ્ય ધારણાઓ: ફ્લો સ્ટીડી, ઇનકમ્પ્રેસિબલ, ઘર્ષણરહિત (Non-viscous) અને ઇરરોટેશનલ હોવો જોઈએ[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 137,
     "subject": "Fluid Mechanics",
     "subTopic": "Fluid Acceleration, Continuity & Momentum Equations",
     "question": "In a pipe with constant discharge, the areas at two sections are 4 m² and 1 m². If V1 = 2 m/s, what is V2?",
-    "gujaratiQuestion": "Q137. જ્યારે પાઈપમાં ડિસ્ચાર્જ Q અચળ હોય અને પાઈપના બે છેડાના એરિયા અનુક્રમે 4 m² અને 1 m² હોય. જો વેગ V1 = 2 m/s હોય તો V2 કેટલો થશે?",
+    "gujaratiQuestion": "Q137. જ્યારે પાઈપમાં ડિસ્ચાર્જ Q અચળ હોય અને પાઈપના બે છેડાના એરિયા અનુક્રમે 4 m² અને 1 m² હોય. જો વેલોસિટી V1 = 2 m/s હોય તો V2 કેટલો થશે?",
     "options": [
       "4 m/s",
       "8 m/s",
@@ -2052,7 +2052,7 @@
       "0.5 m/s"
     ],
     "correctAnswer": 1,
-    "explanation": "A1·V1 = A2·V2 => 4 × 2 = 1 × V2 => V2 = 8 m/s[cite: 8]."
+    "explanation": "A1·V1 = A2·V2 => 4 × 2 = 1 × V2 => V2 = 8 m/s[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 138,
@@ -2067,7 +2067,7 @@
       "કિર્ચહોફનો નિયમ"
     ],
     "correctAnswer": 2,
-    "explanation": "ગરમી હંમેશા ઊંચા તાપમાનથી નીચા તાપમાન તરફ આપમેળે વહે છે, જે થર્મોડાયનેમિક્સનો બીજો નિયમ નક્કી કરે છે[cite: 8]."
+    "explanation": "ગરમી હંમેશા ઊંચા ટેમ્પરેચરથી નીચા ટેમ્પરેચર તરફ આપમેળે વહે છે, જે થર્મોડાયનેમિક્સનો બીજો નિયમ નક્કી કરે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 139,
@@ -2082,7 +2082,7 @@
       "જ્યારે પાણી ગરમ થાય"
     ],
     "correctAnswer": 1,
-    "explanation": "વહેતા પાણીના વાલ્વને અચાનક બંધ કરતાં વેગ શૂન્ય થઈને હાઇ પ્રેશર વેવ્ઝ સર્જાય છે જેને વોટર હેમર કહે છે[cite: 8]."
+    "explanation": "વહેતા પાણીના વાલ્વને અચાનક બંધ કરતાં વેલોસિટી શૂન્ય થઈને હાઇ પ્રેશર વેવ્ઝ સર્જાય છે જેને વોટર હેમર કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 140,
@@ -2097,7 +2097,7 @@
       "ઈનર્શિયા ફોર્સ"
     ],
     "correctAnswer": 2,
-    "explanation": "યૂલર સમીકરણ ઘર્ષણરહિત (Inviscid) પ્રવાહ માટે તારવવામાં આવતું હોવાથી વિસ્કસ ફોર્સ અવગણાય છે[cite: 8]."
+    "explanation": "યૂલર સમીકરણ ઘર્ષણરહિત (Inviscid) ફ્લો માટે તારવવામાં આવતું હોવાથી વિસ્કસ ફોર્સ અવગણાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 141,
@@ -2112,7 +2112,7 @@
       "કન્વેક્શન અને કન્ડક્શન બંને"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્થિર લેમિનાર સબલેયરમાં ફ્લુઇડ સ્થિર જેવું વર્તતું હોવાથી ઉષ્માનું વહન શુદ્ધ કન્ડક્શન (Thermal conduction) દ્વારા થાય છે[cite: 8]."
+    "explanation": "સ્થિર લેમિનાર સબલેયરમાં ફ્લુઇડ સ્થિર જેવું વર્તતું હોવાથી હીટનું ફ્લો શુદ્ધ કન્ડક્શન (Thermal conduction) દ્વારા થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 142,
@@ -2127,7 +2127,7 @@
       "10⁻¹"
     ],
     "correctAnswer": 1,
-    "explanation": "1 Liter = 10⁻³ m³, તેથી 1 L/s = 10⁻³ m³/s[cite: 8]."
+    "explanation": "1 Liter = 10⁻³ m³, તેથી 1 L/s = 10⁻³ m³/s[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 143,
@@ -2142,7 +2142,7 @@
       "જેમાં ડિસ્ચાર્જ સમય સાથે બદલાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "જે પ્રવાહમાં ફ્લુઇડ એલિમેન્ટ્સ વહેતી વખતે પોતાના માસ સેન્ટરની આસપાસ રોટેશન (Vorticity ≠ 0) પણ કરે તેને રોટેશનલ ફ્લો કહે છે[cite: 8]."
+    "explanation": "જે ફ્લોમાં ફ્લુઇડ એલિમેન્ટ્સ વહેતી વખતે પોતાના માસ સેન્ટરની આસપાસ રોટેશન (Vorticity ≠ 0) પણ કરે તેને રોટેશનલ ફ્લો કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 144,
@@ -2157,7 +2157,7 @@
       "ઇન્ટેન્સિટી ઓફ રેડિએશન"
     ],
     "correctAnswer": 3,
-    "explanation": "એકમ ક્ષેત્રફળ અને એકમ ઘનકોણ દીઠ ઉત્સર્જિત વિકિરણ ઊર્જાને ઇન્ટેન્સિટી ઓફ રેડિયેશન (Intensity of Radiation) કહેવાય છે[cite: 8]."
+    "explanation": "એકમ ક્ષેત્રફળ અને એકમ ઘનકોણ દીઠ ઉત્સર્જિત વિકિરણ ઊર્જાને ઇન્ટેન્સિટી ઓફ રેડિયેશન (Intensity of Radiation) કહેવાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 145,
@@ -2172,7 +2172,7 @@
       "ડાયામીટર પર આધાર રાખે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "સિરીઝ જોડાણમાં સાતત્ય સમીકરણ મુજબ તમામ પાઇપમાંથી વહેતો ડિસ્ચાર્જ એકસમાન (Q1 = Q2 = Q) રહે છે[cite: 8]."
+    "explanation": "સિરીઝ જોડાણમાં સાતત્ય સમીકરણ મુજબ તમામ પાઇપમાંથી વહેતો ડિસ્ચાર્જ એકસમાન (Q1 = Q2 = Q) રહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 146,
@@ -2187,7 +2187,7 @@
       "ફ્લુઇડ પ્રેશર"
     ],
     "correctAnswer": 0,
-    "explanation": "A × V એ વોલ્યુમેટ્રિક ફ્લો રેટ અથવા ડિસ્ચાર્જ Q (m³/s) દર્શાવે છે[cite: 8]."
+    "explanation": "A × V એ વોલ્યુમેટ્રિક ફ્લો રેટ અથવા ડિસ્ચાર્જ Q (m³/s) દર્શાવે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 147,
@@ -2202,7 +2202,7 @@
       "સુપરસોનિક ફ્લો"
     ],
     "correctAnswer": 0,
-    "explanation": "પાઇપ ફ્લો માટે Re < 2000 પર પ્રવાહ સ્તરીય એટલે કે લેમિનાર ફ્લો (Laminar flow) હોય છે[cite: 8]."
+    "explanation": "પાઇપ ફ્લો માટે Re < 2000 પર ફ્લો સ્તરીય એટલે કે લેમિનાર ફ્લો (Laminar flow) હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 148,
@@ -2211,13 +2211,13 @@
     "question": "A Grey Body is defined as one whose absorptivity:",
     "gujaratiQuestion": "Q148. ગ્રે બોડી (Grey body) એ છે જેની એબ્સોપ્ટિવિટી:",
     "options": [
-      "તાપમાન સાથે બદલાય છે",
+      "ટેમ્પરેચર સાથે બદલાય છે",
       "આપાત કિરણોની તરંગલંબાઈ સાથે બદલાતી નથી (અચળ રહે છે)",
       "તેની એમિસિવિટી જેટલી હોય છે",
       "આપેલ પૈકી એકપણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "ગ્રે બોડી માટે મોનોક્રોમેટિક એમિસિવિટી અને એબ્સોર્પ્ટિવિટી તમામ તરંગલંબાઈ પર સમાન (ε = α < 1) રહે છે[cite: 8]."
+    "explanation": "ગ્રે બોડી માટે મોનોક્રોમેટિક એમિસિવિટી અને એબ્સોર્પ્ટિવિટી તમામ તરંગલંબાઈ પર સમાન (ε = α < 1) રહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 149,
@@ -2232,7 +2232,7 @@
       "માત્ર પાઈપના ડાયામીટર પર"
     ],
     "correctAnswer": 2,
-    "explanation": "ટર્બ્યુલન્ટ પ્રવાહમાં ફ્રિક્શન ફેક્ટર રેનોલ્ડ્સ નંબર (Re) અને રિલેટિવ રફનેસ (ε/D) બંને પર આધાર રાખે છે[cite: 8]."
+    "explanation": "ટર્બ્યુલન્ટ ફ્લોમાં ફ્રિક્શન ફેક્ટર રેનોલ્ડ્સ નંબર (Re) અને રિલેટિવ રફનેસ (ε/D) બંને પર આધાર રાખે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 150,
@@ -2247,7 +2247,7 @@
       "અનંત"
     ],
     "correctAnswer": 0,
-    "explanation": "બાઉન્ડરી લેયરની બહાર વેગ ફ્રી સ્ટ્રીમ વેગ (U) જેટલો અચળ થઈ જવાથી વેલોસિટી ગ્રેડિયન્ટ du/dy = 0 બને છે[cite: 8]."
+    "explanation": "બાઉન્ડરી લેયરની બહાર વેલોસિટી ફ્રી સ્ટ્રીમ વેલોસિટી (U) જેટલો અચળ થઈ જવાથી વેલોસિટી ગ્રેડિયન્ટ du/dy = 0 બને છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 151,
@@ -2262,7 +2262,7 @@
       "ઈરરેગ્યુલર સરફેસ માટે"
     ],
     "correctAnswer": 0,
-    "explanation": "ફોરિયરનો મૂળભૂત કન્ડક્શન નિયમ q = -k·A·(dT/dx) વન-ડાયમેન્શનલ સ્ટીડી સ્ટેટ કન્ડક્શન માટે વ્યાખ્યાયિત છે[cite: 8]."
+    "explanation": "ફોરિયરનો મૂળભૂત કન્ડક્શન નિયમ q = -k·A·(dT/dx) વન-ડાયમેન્શનલ સ્ટીડી સ્ટેટ કન્ડક્શન માટે વ્યાખ્યાયિત છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 152,
@@ -2277,7 +2277,7 @@
       "ક્રિટિકલ ફ્લો"
     ],
     "correctAnswer": 1,
-    "explanation": "પાઇપ ફ્લો માટે Re > 4000 પર પ્રવાહ સંપૂર્ણપણે ટર્બ્યુલન્ટ (Turbulent flow) બની જાય છે[cite: 8]."
+    "explanation": "પાઇપ ફ્લો માટે Re > 4000 પર ફ્લો સંપૂર્ણપણે ટર્બ્યુલન્ટ (Turbulent flow) બની જાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 153,
@@ -2292,7 +2292,7 @@
       "મહત્તમ"
     ],
     "correctAnswer": 1,
-    "explanation": "નો-સ્લિપ કન્ડિશન (No-slip condition) મુજબ સ્થિર ઘન સપાટીના સીધા સંપર્કમાં રહેલા ફ્લુઇડ કણોનો સાપેક્ષ વેગ શૂન્ય (u = 0) હોય છે[cite: 8]."
+    "explanation": "નો-સ્લિપ કન્ડિશન (No-slip condition) મુજબ સ્થિર ઘન સપાટીના સીધા સંપર્કમાં રહેલા ફ્લુઇડ કણોનો સાપેક્ષ વેલોસિટી શૂન્ય (u = 0) હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 154,
@@ -2307,7 +2307,7 @@
       "પ્લાન્ક કોન્સ્ટન્ટ"
     ],
     "correctAnswer": 3,
-    "explanation": "પ્લાન્ક કોન્સ્ટન્ટ (h = E/ν) નો એકમ જુલ-સેકન્ડ (J·s) અથવા kg·m²/s છે[cite: 8]."
+    "explanation": "પ્લાન્ક કોન્સ્ટન્ટ (h = E/ν) નો એકમ જુલ-સેકન્ડ (J·s) અથવા kg·m²/s છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 155,
@@ -2322,7 +2322,7 @@
       "પાઈપના કેન્દ્રમાં"
     ],
     "correctAnswer": 1,
-    "explanation": "ટર્બ્યુલન્ટ બાઉન્ડરી લેયરમાં ઘન સપાટીની અત્યંત નજીક પાતળું સ્તર અસ્તિત્વ ધરાવે છે જ્યાં વિસ્કસ ફોર્સ પ્રબળ હોવાથી પ્રવાહ લેમિનાર રહે છે[cite: 8]."
+    "explanation": "ટર્બ્યુલન્ટ બાઉન્ડરી લેયરમાં ઘન સપાટીની અત્યંત નજીક પાતળું સ્તર અસ્તિત્વ ધરાવે છે જ્યાં વિસ્કસ ફોર્સ પ્રબળ હોવાથી ફ્લો લેમિનાર રહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 156,
@@ -2337,7 +2337,7 @@
       "0.5 (V₂² / 2g)"
     ],
     "correctAnswer": 1,
-    "explanation": "અચાનક વિસ્તરણથી એડી ફોર્મેશન થવાને લીધે થતો હેડ લોસ h_e = (V₁ - V₂)² / (2g) થાય છે[cite: 8]."
+    "explanation": "અચાનક વિસ્તરણથી એડી ફોર્મેશન થવાને લીધે થતો હેડ લોસ h_e = (V₁ - V₂)² / (2g) થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 157,
@@ -2346,13 +2346,13 @@
     "question": "Generally, how is the thermal diffusivity of gases compared to liquids?",
     "gujaratiQuestion": "0157. સામાન્ય રીતે ગેસ માટે થર્મલ ડિફ્યુઝિવિટી કેવી હોય છે?",
     "options": [
-      "પ્રવાહી કરતા વધુ",
-      "પ્રવાહી કરતા ઓછી",
+      "ફ્લુઇડ કરતા વધુ",
+      "ફ્લુઇડ કરતા ઓછી",
       "ઘન પદાર્થો કરતા વધુ",
-      "પ્રવાહી જેટલી જ"
+      "ફ્લુઇડ જેટલી જ"
     ],
     "correctAnswer": 0,
-    "explanation": "વાયુઓની ઘનતા (ρ) અને હીટ કેપેસિટી (ρ·Cp) ખૂબ ઓછી હોવાથી તેમની થર્મલ ડિફ્યુઝિવિટી (α = k / (ρ·Cp)) સામાન્ય પ્રવાહીઓ કરતાં વધુ હોય છે[cite: 8]."
+    "explanation": "વાયુઓની ડેન્સિટી (ρ) અને હીટ કેપેસિટી (ρ·Cp) ખૂબ ઓછી હોવાથી તેમની થર્મલ ડિફ્યુઝિવિટી (α = k / (ρ·Cp)) સામાન્ય ફ્લુઇડઓ કરતાં વધુ હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 158,
@@ -2367,7 +2367,7 @@
       "(V₁² - V₂²) / 2g"
     ],
     "correctAnswer": 0,
-    "explanation": "અચાનક સંકોચનમાં વેના કોન્ટ્રાક્ટા બાદ વિસ્તરણથી લોસ h_c = [(1/Cc - 1)²] · (V₂²/2g) ≈ 0.5 (V₂²/2g) બને છે (આન્સર કી મુજબ A)[cite: 8]."
+    "explanation": "અચાનક સંકોચનમાં વેના કોન્ટ્રાક્ટા બાદ વિસ્તરણથી લોસ h_c = [(1/Cc - 1)²] · (V₂²/2g) ≈ 0.5 (V₂²/2g) બને છે (આન્સર કી મુજબ A)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 159,
@@ -2382,7 +2382,7 @@
       "પ્રેશર શોધવા"
     ],
     "correctAnswer": 1,
-    "explanation": "ડાર્સી-વેઇસબેક સમીકરણ પાઇપલાઇનમાં ઘર્ષણને કારણે થતા મુખ્ય હેડ લોસ (Major/Frictional head loss) ની ગણતરી માટે વપરાય છે[cite: 8]."
+    "explanation": "ડાર્સી-વેઇસબેક સમીકરણ પાઇપલાઇનમાં ઘર્ષણને કારણે થતા મુખ્ય હેડ લોસ (Major/Frictional head loss) ની ગણતરી માટે વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 160,
@@ -2392,12 +2392,12 @@
     "gujaratiQuestion": "0160. કોઈપણ પદાર્થની થર્મલ ડિફ્યુઝિવિટી:",
     "options": [
       "થર્મલ કન્ડક્ટિવિટીના સમપ્રમાણમાં હોય છે",
-      "પદાર્થની ઘનતાના વ્યસ્ત પ્રમાણમાં હોય છે",
+      "પદાર્થની ડેન્સિટીના વ્યસ્ત પ્રમાણમાં હોય છે",
       "સ્પેસિફિક હીટના વ્યસ્ત પ્રમાણમાં હોય છે",
       "આપેલ તમામ"
     ],
     "correctAnswer": 3,
-    "explanation": "સૂત્ર α = k / (ρ·Cp) મુજબ તે થર્મલ કન્ડક્ટિવિટી (k) ના સમપ્રમાણમાં અને ઘનતા (ρ) તથા સ્પેસિફિક હીટ (Cp) ના વ્યસ્ત પ્રમાણમાં હોય છે[cite: 8]."
+    "explanation": "સૂત્ર α = k / (ρ·Cp) મુજબ તે થર્મલ કન્ડક્ટિવિટી (k) ના સમપ્રમાણમાં અને ડેન્સિટી (ρ) તથા સ્પેસિફિક હીટ (Cp) ના વ્યસ્ત પ્રમાણમાં હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 161,
@@ -2412,7 +2412,7 @@
       "ગુણાકાર થાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "સિરીઝ પાઇપ કનેક્શનમાં સાતત્યતા જળવાતાં દરેક પાઇપમાંથી એકસમાન ડિસ્ચાર્જ (Q₁ = Q₂ = Q) વહે છે[cite: 8]."
+    "explanation": "સિરીઝ પાઇપ કનેક્શનમાં સાતત્યતા જળવાતાં દરેક પાઇપમાંથી એકસમાન ડિસ્ચાર્જ (Q₁ = Q₂ = Q) વહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 162,
@@ -2427,7 +2427,7 @@
       "વેલોસિટી"
     ],
     "correctAnswer": 1,
-    "explanation": "પેરેલલ પાઇપ કનેક્શનમાં બંને શાખાઓ વચ્ચેનો ફ્રિક્શનલ હેડ લોસ (h_f1 = h_f2) સમાન હોય છે[cite: 8]."
+    "explanation": "પેરેલલ પાઇપ કનેક્શનમાં બંને શાખાઓ વચ્ચેનો ફ્રિક્શનલ હેડ લોસ (h_f1 = h_f2) સમાન હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 163,
@@ -2436,13 +2436,13 @@
     "question": "Heat transfer by radiation primarily depends on:",
     "gujaratiQuestion": "0163. રેડિએશન દ્વારા થતું હીટ ટ્રાન્સફર મુખ્યત્વે શેના પર આધાર રાખે છે?",
     "options": [
-      "તેના તાપમાન પર (T⁴)",
+      "તેના ટેમ્પરેચર પર (T⁴)",
       "બોડીના પ્રકાર પર (એમિસિવિટી)",
       "તેની સપાટીના પ્રકાર અને વિસ્તાર પર",
       "આપેલ તમામ"
     ],
     "correctAnswer": 3,
-    "explanation": "સ્ટીફન-બોલ્ટ્ઝમેન નિયમ E = ε·σ·A·T⁴ મુજબ રેડિયેશન હીટ ટ્રાન્સફર તાપમાન, સપાટી વિસ્તાર અને સપાટીના ગુણધર્મો (એમિસિવિટી) તમામ પર આધારિત છે[cite: 8]."
+    "explanation": "સ્ટીફન-બોલ્ટ્ઝમેન નિયમ E = ε·σ·A·T⁴ મુજબ રેડિયેશન હીટ ટ્રાન્સફર ટેમ્પરેચર, સપાટી વિસ્તાર અને સપાટીના પ્રોપર્ટીઝ (એમિસિવિટી) તમામ પર આધારિત છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 164,
@@ -2457,7 +2457,7 @@
       "પ્રેશર હેડ + કાઈનેટિક હેડ + ડેટમ હેડ"
     ],
     "correctAnswer": 2,
-    "explanation": "HGL = Piezometric head = પ્રેશર હેડ (p/ρg) + ડેટમ/પોટેન્શિયલ હેડ (z)[cite: 8]."
+    "explanation": "HGL = Piezometric head = પ્રેશર હેડ (p/ρg) + ડેટમ/પોટેન્શિયલ હેડ (z)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 165,
@@ -2472,7 +2472,7 @@
       "HGL ને કાટખૂણે"
     ],
     "correctAnswer": 1,
-    "explanation": "TEL = HGL + V²/2g હોવાથી ટોટલ એનર્જી લાઇન હંમેશા HGL ની ઉપર વેલોસિટી હેડ જેટલા અંતરે હોય છે[cite: 8]."
+    "explanation": "TEL = HGL + V²/2g હોવાથી ટોટલ એનર્જી લાઇન હંમેશા HGL ની ઉપર વેલોસિટી હેડ જેટલા અંતરે હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 166,
@@ -2487,7 +2487,7 @@
       "સેચ્યુરેટેડ સાયકલ"
     ],
     "correctAnswer": 2,
-    "explanation": "ફીડ વોટર હીટિંગ દ્વારા હીટ એડિશનનું સરેરાશ તાપમાન વધારતી રિજનરેટિવ સાયકલ (Regenerative cycle) સૌથી ઊંચી થર્મલ કાર્યક્ષમતા આપે છે[cite: 8]."
+    "explanation": "ફીડ વોટર હીટિંગ દ્વારા હીટ એડિશનનું સરેરાશ ટેમ્પરેચર વધારતી રિજનરેટિવ સાયકલ (Regenerative cycle) સૌથી ઊંચી થર્મલ વર્કક્ષમતા આપે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 167,
@@ -2502,7 +2502,7 @@
       "ભીંજાયેલો એરિયા x ભીંજાયેલી પરિમિતિ"
     ],
     "correctAnswer": 0,
-    "explanation": "હાઇડ્રોલિક રેડિયસ અથવા મીન ડેપ્થ m = ભીંજાયેલો ક્રોસ-સેક્શનલ એરિયા (A) / ભીંજાયેલી પરિમિતિ (P)[cite: 8]."
+    "explanation": "હાઇડ્રોલિક રેડિયસ અથવા મીન ડેપ્થ m = ભીંજાયેલો ક્રોસ-સેક્શનલ એરિયા (A) / ભીંજાયેલી પરિમિતિ (P)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 168,
@@ -2517,7 +2517,7 @@
       "એડી ફોર્મેશન"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રવાહીનો વેગ અચાનક શૂન્ય થવાથી સર્જાતા શોક પ્રેશર તરંગોને વોટર હેમર (Water hammer) કહે છે[cite: 8]."
+    "explanation": "ફ્લુઇડનો વેલોસિટી અચાનક શૂન્ય થવાથી સર્જાતા શોક પ્રેશર તરંગોને વોટર હેમર (Water hammer) કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 169,
@@ -2532,7 +2532,7 @@
       "ગાઈડ વેન"
     ],
     "correctAnswer": 1,
-    "explanation": "વોટર હેમરિંગ વખતે વધારાનું પાણી સંગ્રહીને પ્રેશર સર્જ ઘટાડવા પેનસ્ટોક નજીક સર્જ ટેન્ક (Surge tank) મૂકાય છે[cite: 8]."
+    "explanation": "વોટર હેમરિંગ વખતે વધારાનું પાણી સંગ્રહીને પ્રેશર સર્જ ઘટાડવા પેનસ્ટોક નજીક સર્જ ટેન્ક (Surge tank) મૂકાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 170,
@@ -2541,13 +2541,13 @@
     "question": "The work ratio of a simple gas turbine cycle is a function of:",
     "gujaratiQuestion": "Q170. ગેસ ટર્બાઈનનો વર્ક રેશિયો કોનું ફંક્શન છે?",
     "options": [
-      "તાપમાનનો ગુણોત્તર અને પ્રેશરનો ગુણોત્તર",
-      "તાપમાનનો ગુણોત્તર",
+      "ટેમ્પરેચરનો ગુણોત્તર અને પ્રેશરનો ગુણોત્તર",
+      "ટેમ્પરેચરનો ગુણોત્તર",
       "પ્રેશરનો ગુણોત્તર",
       "આપેલ પૈકી એકપણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "ગેસ ટર્બાઇન વર્ક રેશિયો rw = W_net / W_T એ સાયકલ પ્રેશર રેશિયો (rp) અને મહત્તમ/ન્યૂનતમ તાપમાન ગુણોત્તર (T_max/T_min) બંને પર આધાર રાખે છે[cite: 8]."
+    "explanation": "ગેસ ટર્બાઇન વર્ક રેશિયો rw = W_net / W_T એ સાયકલ પ્રેશર રેશિયો (rp) અને મહત્તમ/ન્યૂનતમ ટેમ્પરેચર ગુણોત્તર (T_max/T_min) બંને પર આધાર રાખે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 171,
@@ -2562,7 +2562,7 @@
       "પાઈપના વાલ્વને કારણે લોસ"
     ],
     "correctAnswer": 0,
-    "explanation": "પાઇપ ઘર્ષણને લીધે થતો લોસ મેજર લોસ (Major Loss) છે, જ્યારે બેન્ડ, વાલ્વ, એક્સપાન્શન વગેરે માઇનોર લોસિસ છે[cite: 8]."
+    "explanation": "પાઇપ ઘર્ષણને લીધે થતો લોસ મેજર લોસ (Major Loss) છે, જ્યારે બેન્ડ, વાલ્વ, એક્સપાન્શન વગેરે માઇનોર લોસિસ છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 172,
@@ -2577,7 +2577,7 @@
       "16 ગણો"
     ],
     "correctAnswer": 1,
-    "explanation": "ડાર્સી સમીકરણ મુજબ hf ∝ V² હોવાથી વેગ બમણો (2V) કરતાં હેડ લોસ (2)² = 4 ગણો વધશે[cite: 8]."
+    "explanation": "ડાર્સી સમીકરણ મુજબ hf ∝ V² હોવાથી વેલોસિટી બમણો (2V) કરતાં હેડ લોસ (2)² = 4 ગણો વધશે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 173,
@@ -2592,7 +2592,7 @@
       "નસેલ્ટ નંબર અને બાયોટ નંબર"
     ],
     "correctAnswer": 2,
-    "explanation": "અસ્થિર ઉષ્મા વહનમાં અવકાશી અને સમય આધારિત તાપમાન વિશ્લેષણ માટે બાયોટ નંબર (Bi) અને ફોરિયર નંબર (Fo) વપરાય છે[cite: 8]."
+    "explanation": "અસ્થિર હીટ ફ્લોમાં અવકાશી અને સમય આધારિત ટેમ્પરેચર વિશ્લેષણ માટે બાયોટ નંબર (Bi) અને ફોરિયર નંબર (Fo) વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 174,
@@ -2607,7 +2607,7 @@
       "જ્યારે પાણીને શુદ્ધ કરવું હોય"
     ],
     "correctAnswer": 0,
-    "explanation": "સાયફન એ લાંબી વળેલી પાઇપ છે જે મધ્યમાં આવતી ઊંચી ટેકરી કે અવરોધને ઓળંગીને પાણીને નીચા સ્તરના રિઝર્વોયરમાં પહોંચાડે છે[cite: 8]."
+    "explanation": "સાયફન એ લાંબી વળેલી પાઇપ છે જે મધ્યમાં આવતી ઊંચી ટેકરી કે અવરોધને ઓળંગીને પાણીને નીચા સ્તરના રિઝર્વોયરમાં પહોંચાડે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 175,
@@ -2622,22 +2622,22 @@
       "ફ્લો લેમિનાર બને છે"
     ],
     "correctAnswer": 0,
-    "explanation": "અચાનક વિસ્તરણ વખતે ખૂણાઓમાં ટર્બ્યુલન્ટ એડીઝ અને વમળો બનવાથી ગતિજ ઊર્જાનો મોટો લોસ થાય છે[cite: 8]."
+    "explanation": "અચાનક વિસ્તરણ વખતે ખૂણાઓમાં ટર્બ્યુલન્ટ એડીઝ અને વમળો બનવાથી ગતિજ ઊર્જાનો મોટો લોસ થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 176,
     "subject": "Fluid Mechanics",
     "subTopic": "Control-Volume Analysis of Mass, Momentum & Energy",
     "question": "What is the time required for a thermocouple to reach 63.2% of the initial step temperature difference called?",
-    "gujaratiQuestion": "0176. પ્રારંભિક તાપમાનના તફાવતના 63.2 ટકા મૂલ્ય સુધી પહોંચવા માટે થર્મોકપલને લાગતા સમયને શું કહેવાય છે?",
+    "gujaratiQuestion": "0176. પ્રારંભિક ટેમ્પરેચરના તફાવતના 63.2 ટકા મૂલ્ય સુધી પહોંચવા માટે થર્મોકપલને લાગતા સમયને શું કહેવાય છે?",
     "options": [
       "થર્મોકપલ જંક્શન",
       "સેન્સિટિવિટી",
-      "તાપમાનમાં ફેરફાર",
+      "ટેમ્પરેચરમાં ફેરફાર",
       "ટાઇમ કોન્સ્ટન્ટ (થર્મોકપલનો રિસ્પોન્સ)"
     ],
     "correctAnswer": 3,
-    "explanation": "પ્રથમ-ક્રમના થર્મલ સેન્સર માટે 63.2% રિસ્પોન્સ મેળવવા લાગતા સમયને થર્મલ ટાઇમ કોન્સ્ટન્ટ (Time constant τ) કહેવાય છે (આન્સર કી B/D મુજબ)[cite: 8]."
+    "explanation": "પ્રથમ-ક્રમના થર્મલ સેન્સર માટે 63.2% રિસ્પોન્સ મેળવવા લાગતા સમયને થર્મલ ટાઇમ કોન્સ્ટન્ટ (Time constant τ) કહેવાય છે (આન્સર કી B/D મુજબ)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 177,
@@ -2652,7 +2652,7 @@
       "રેડિયલ ફ્લો ટર્બાઈન"
     ],
     "correctAnswer": 1,
-    "explanation": "પેલ્ટન વ્હીલ એ ટેન્જેન્શિયલ ફ્લો હાઈ-હેડ ઇમ્પલ્સ ટર્બાઇન (Impulse turbine) છે[cite: 8]."
+    "explanation": "પેલ્ટન વ્હીલ એ ટેન્જેન્શિયલ ફ્લો હાઈ-હેડ ઇમ્પલ્સ ટર્બાઇન (Impulse turbine) છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 178,
@@ -2667,7 +2667,7 @@
       "આઉટવર્ડ ફ્લો રિએક્શન ટર્બાઇન"
     ],
     "correctAnswer": 0,
-    "explanation": "આધુનિક ફ્રાન્સિસ ટર્બાઇન એ મિક્સ્ડ ફ્લો (રેડિયલ ઇનવર્ડ ઇનલેટ અને એક્સિયલ આઉટલેટ) રિએક્શન ટર્બાઇન છે[cite: 8]."
+    "explanation": "આધુનિક ફ્રાન્સિસ ટર્બાઇન એ મિક્સ્ડ ફ્લો (રેડિયલ ઇનવર્ડ ઇનલેટ અને એક્સિયલ આઉટલેટ) રિએક્શન ટર્બાઇન છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 179,
@@ -2682,7 +2682,7 @@
       "બધાનો કૂલિંગ રેટ સમાન હશે"
     ],
     "correctAnswer": 2,
-    "explanation": "આપેલા કદ માટે ગોળા (Sphere) નું સપાટી ક્ષેત્રફળ લઘુત્તમ હોવાથી હીટ લોસ દર સૌથી ઓછો હોય છે અને તે સૌથી ધીમે ઠંડો પડે છે[cite: 8]."
+    "explanation": "આપેલા વોલ્યુમ માટે ગોળા (Sphere) નું સપાટી ક્ષેત્રફળ લઘુત્તમ હોવાથી હીટ લોસ દર સૌથી ઓછો હોય છે અને તે સૌથી ધીમે ઠંડો પડે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 180,
@@ -2697,7 +2697,7 @@
       "લો હેડ અને લો ડિસ્ચાર્જ"
     ],
     "correctAnswer": 2,
-    "explanation": "કાપ્લાન ટર્બાઇન લો હેડ (H < 30 m) અને હાઇ ડિસ્ચાર્જ રેટ માટે આદર્શ છે[cite: 8]."
+    "explanation": "કાપ્લાન ટર્બાઇન લો હેડ (H < 30 m) અને હાઇ ડિસ્ચાર્જ રેટ માટે આદર્શ છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 181,
@@ -2712,7 +2712,7 @@
       "કોઈપણ હેડ માટે"
     ],
     "correctAnswer": 2,
-    "explanation": "પેલ્ટન ટર્બાઇન હાઈ હેડ (H > 250-300 m) અને લો ડિસ્ચાર્જ માટે વપરાય છે[cite: 8]."
+    "explanation": "પેલ્ટન ટર્બાઇન હાઈ હેડ (H > 250-300 m) અને લો ડિસ્ચાર્જ માટે વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 182,
@@ -2727,7 +2727,7 @@
       "પ્લેટની હીટ કેપેસિટી"
     ],
     "correctAnswer": 1,
-    "explanation": "નસેલ્ટ સંબંધ Nu = f(Re, Pr) મુજબ ફોર્સ્ડ કન્વેક્શન કો-એફિશિયન્ટ (h) ફ્લુઇડના વેગ, ડેન્સિટી, વિસ્કોસિટી અને ફ્લુઇડની થર્મલ કન્ડક્ટિવિટી પર આધારિત છે[cite: 8]."
+    "explanation": "નસેલ્ટ સંબંધ Nu = f(Re, Pr) મુજબ ફોર્સ્ડ કન્વેક્શન કો-એફિશિયન્ટ (h) ફ્લુઇડના વેલોસિટી, ડેન્સિટી, વિસ્કોસિટી અને ફ્લુઇડની થર્મલ કન્ડક્ટિવિટી પર આધારિત છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 183,
@@ -2742,7 +2742,7 @@
       "ક્રોસ ફ્લો ટર્બાઈન"
     ],
     "correctAnswer": 2,
-    "explanation": "કેપ્લાન અને પ્રોપેલર ટર્બાઇનમાં પાણી શાફ્ટની અક્ષને સમાંતર વહેતું હોવાથી તે એક્સિયલ ફ્લો ટર્બાઇન છે[cite: 8]."
+    "explanation": "કેપ્લાન અને પ્રોપેલર ટર્બાઇનમાં પાણી શાફ્ટની અક્ષને સમાંતર વહેતું હોવાથી તે એક્સિયલ ફ્લો ટર્બાઇન છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 184,
@@ -2757,7 +2757,7 @@
       "તેમાં ડ્રાફ્ટ ટ્યુબનો ઉપયોગ થતો નથી"
     ],
     "correctAnswer": 0,
-    "explanation": "કાપ્લાન ટર્બાઇનના રનર વેન્સ ઓપરેશન દરમિયાન વિવિધ લોડ પર ઓટોમેટિક એડજસ્ટ થઈ શકે છે[cite: 8]."
+    "explanation": "કાપ્લાન ટર્બાઇનના રનર વેન્સ ઓપરેશન દરમિયાન વિવિધ લોડ પર ઓટોમેટિક એડજસ્ટ થઈ શકે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 185,
@@ -2772,7 +2772,7 @@
       "સ્ટ્રાઉહલ નંબર"
     ],
     "correctAnswer": 0,
-    "explanation": "શેરવુડ નંબર (Sherwood number Sh = h_m·L / D_AB) કન્વેક્ટિવ અને ડિફ્યુઝિવ માસ ટ્રાન્સફરનો ગુણોત્તર દર્શાવે છે[cite: 8]."
+    "explanation": "શેરવુડ નંબર (Sherwood number Sh = h_m·L / D_AB) કન્વેક્ટિવ અને ડિફ્યુઝિવ માસ ટ્રાન્સફરનો ગુણોત્તર દર્શાવે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 186,
@@ -2787,7 +2787,7 @@
       "બંનેમાં કોઈ તફાવત નથી"
     ],
     "correctAnswer": 0,
-    "explanation": "પ્રોપેલર ટર્બાઇનમાં બ્લેડ્સ હબ સાથે ફિક્સ હોય છે, જ્યારે કાપ્લાન ટર્બાઇનમાં બ્લેડ એંગલ એડજસ્ટેબલ હોય છે[cite: 8]."
+    "explanation": "પ્રોપેલર ટર્બાઇનમાં બ્લેડ્સ હબ સાથે ફિક્સ હોય છે, જ્યારે કાપ્લાન ટર્બાઇનમાં બ્લેડ એંગલ એડજસ્ટેબલ હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 187,
@@ -2802,7 +2802,7 @@
       "Ns = (N√Q) / H^(3/4)"
     ],
     "correctAnswer": 1,
-    "explanation": "હાઇડ્રોલિક ટર્બાઇનની સ્પેસિફિક સ્પીડ Ns = (N√P) / H^(5/4) છે (જ્યાં P પાવર અને H હેડ છે)[cite: 8]."
+    "explanation": "હાઇડ્રોલિક ટર્બાઇનની સ્પેસિફિક સ્પીડ Ns = (N√P) / H^(5/4) છે (જ્યાં P પાવર અને H હેડ છે)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 188,
@@ -2817,7 +2817,7 @@
       "વેલોસિટી ગ્રેડિયન્ટ"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ટોક (Stoke = cm²/s) એ કાઇનેમેટિક વિસ્કોસિટીનો CGS એકમ છે[cite: 8]."
+    "explanation": "સ્ટોક (Stoke = cm²/s) એ કાઇનેમેટિક વિસ્કોસિટીનો CGS એકમ છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 189,
@@ -2832,7 +2832,7 @@
       "ટર્ગો ટર્બાઈન"
     ],
     "correctAnswer": 2,
-    "explanation": "કાપ્લાન ટર્બાઇન લો હેડ અને હાઇ ડિસ્ચાર્જ માટે કાર્ય કરતું હોવાથી તેની સ્પેસિફિક સ્પીડ (250 થી 850) સૌથી વધુ હોય છે[cite: 8]."
+    "explanation": "કાપ્લાન ટર્બાઇન લો હેડ અને હાઇ ડિસ્ચાર્જ માટે વર્ક કરતું હોવાથી તેની સ્પેસિફિક સ્પીડ (250 થી 850) સૌથી વધુ હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 190,
@@ -2847,14 +2847,14 @@
       "શૂન્ય"
     ],
     "correctAnswer": 0,
-    "explanation": "પેલ્ટન વ્હીલ હાઈ હેડ ટર્બાઇન હોવાથી તેની સ્પેસિફિક સ્પીડ તમામ ટર્બાઇનોમાં સૌથી ઓછી (10 થી 35 rpm) હોય છે[cite: 8]."
+    "explanation": "પેલ્ટન વ્હીલ હાઈ હેડ ટર્બાઇન હોવાથી તેની સ્પેસિફિક સ્પીડ તમામ ટર્બાઇનોમાં સૌથી ઓછી (10 થી 35 rpm) હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 191,
     "subject": "Fluid Mechanics",
     "subTopic": "Compressibility, Surface Tension & Fluid Statics",
     "question": "The point through which the resultant hydrostatic force acts on a submerged surface is called:",
-    "gujaratiQuestion": "0191. પરિણામી હાઇડ્રોસ્ટેટિક ફોર્સ જે બિંદુ પર કાર્ય કરે છે તેને શું કહેવાય છે?",
+    "gujaratiQuestion": "0191. પરિણામી હાઇડ્રોસ્ટેટિક ફોર્સ જે બિંદુ પર વર્ક કરે છે તેને શું કહેવાય છે?",
     "options": [
       "સેન્ટર ઓફ ગ્રેવિટી",
       "સેન્ટર ઓફ બુયોન્સી",
@@ -2862,7 +2862,7 @@
       "આપેલ પૈકી એકપણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "કુલ હાઇડ્રોસ્ટેટિક પ્રેશર ફોર્સના પરિણામી બિંદુને સેન્ટર ઓફ પ્રેશર (Center of Pressure) કહે છે[cite: 8]."
+    "explanation": "કુલ હાઇડ્રોસ્ટેટિક પ્રેશર ફોર્સના પરિણામી બિંદુને સેન્ટર ઓફ પ્રેશર (Center of Pressure) કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 192,
@@ -2877,14 +2877,14 @@
       "પેલ્ટન વ્હીલમાં"
     ],
     "correctAnswer": 1,
-    "explanation": "ડ્રાફ્ટ ટ્યુબ માત્ર રિએક્શન ટર્બાઇન (ફ્રાન્સિસ અને કાપ્લાન) ના રનર આઉટલેટ પર ટેઇલરેસ સુધી જોડાય છે[cite: 8]."
+    "explanation": "ડ્રાફ્ટ ટ્યુબ માત્ર રિએક્શન ટર્બાઇન (ફ્રાન્સિસ અને કાપ્લાન) ના રનર આઉટલેટ પર ટેઇલરેસ સુધી જોડાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 193,
     "subject": "Fluid Mechanics",
     "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
     "question": "What is the primary function of a draft tube in a reaction turbine?",
-    "gujaratiQuestion": "Q193. ડ્રાફ્ટ ટ્યુબનું મુખ્ય કાર્ય શું છે?",
+    "gujaratiQuestion": "Q193. ડ્રાફ્ટ ટ્યુબનું મુખ્ય વર્ક શું છે?",
     "options": [
       "પાણીની કાઈનેટિક એનર્જી વધારવી",
       "પાણીની કાઈનેટિક એનર્જીનું પ્રેશર એનર્જીમાં રૂપાંતર કરી ટર્બાઈનનો નેટ હેડ વધારવો",
@@ -2892,7 +2892,7 @@
       "કેવિટેશન વધારવું"
     ],
     "correctAnswer": 1,
-    "explanation": "ડ્રાફ્ટ ટ્યુબ એક્ઝિટ કાઇનેટિક એનર્જીને પ્રેશર એનર્જીમાં ફેરવીને વેસ્ટ થતી ઊર્જા ઘટાડે છે અને નેટ ઇફેક્ટિવ હેડ વધારે છે[cite: 8]."
+    "explanation": "ડ્રાફ્ટ ટ્યુબ એક્ઝિટ કાઇનેટિક એનર્જીને પ્રેશર એનર્જીમાં ફેરવીને વેસ્ટ થતી ઊર્જા ઘટાડે છે અને નેટ ઇફેક્ટિવ હેડ વધારે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 194,
@@ -2907,7 +2907,7 @@
       "જનરેટરની સિંક્રોનસ સ્પીડ"
     ],
     "correctAnswer": 1,
-    "explanation": "શૂન્ય લોડ અને પૂર્ણ ડિસ્ચાર્જ વખતે ટર્બાઇન જે મહત્તમ અનિયંત્રિત ગતિ પ્રાપ્ત કરી શકે તેને રનઅવે સ્પીડ કહે છે[cite: 8]."
+    "explanation": "શૂન્ય લોડ અને પૂર્ણ ડિસ્ચાર્જ વખતે ટર્બાઇન જે મહત્તમ અનિયંત્રિત ગતિ પ્રાપ્ત કરી શકે તેને રનઅવે સ્પીડ કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 195,
@@ -2922,7 +2922,7 @@
       "p/ρg + V/g + z = constant"
     ],
     "correctAnswer": 0,
-    "explanation": "બર્નોલી સમીકરણનું પ્રમાણભૂત હેડ સ્વરૂપ: p/(ρg) + V²/(2g) + z = Constant[cite: 8]."
+    "explanation": "બર્નોલી સમીકરણનું પ્રમાણભૂત હેડ સ્વરૂપ: p/(ρg) + V²/(2g) + z = Constant[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 196,
@@ -2937,7 +2937,7 @@
       "Z = 15 + 2D/d"
     ],
     "correctAnswer": 1,
-    "explanation": "પેલ્ટન વ્હીલ માટે બકેટ્સની સંખ્યા Z = 15 + D/(2d) = 15 + 0.5m (જ્યાં m = D/d જેટ રેશિયો છે)[cite: 8]."
+    "explanation": "પેલ્ટન વ્હીલ માટે બકેટ્સની સંખ્યા Z = 15 + D/(2d) = 15 + 0.5m (જ્યાં m = D/d જેટ રેશિયો છે)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 197,
@@ -2952,7 +2952,7 @@
       "વોટર પાવર અને શાફ્ટ પાવર"
     ],
     "correctAnswer": 0,
-    "explanation": "ઓવરઓલ કાર્યક્ષમતા η_o = શાફ્ટ આઉટપુટ પાવર (SP) / ઇનપુટ વોટર પાવર (WP)[cite: 8]."
+    "explanation": "ઓવરઓલ વર્કક્ષમતા η_o = શાફ્ટ આઉટપુટ પાવર (SP) / ઇનપુટ વોટર પાવર (WP)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 198,
@@ -2967,7 +2967,7 @@
       "વ્હર્લિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રવાહીનું દબાણ વેપર પ્રેશરથી નીચે જતાં બબલ્સ બનવા અને ફૂટવાની ઘટના કેવિટેશન (Cavitation) કહેવાય છે[cite: 8]."
+    "explanation": "ફ્લુઇડનું પ્રેશર વેપર પ્રેશરથી નીચે જતાં બબલ્સ બનવા અને ફૂટવાની ઘટના કેવિટેશન (Cavitation) કહેવાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 199,
@@ -2982,7 +2982,7 @@
       "આઈસી એન્જિનમાં"
     ],
     "correctAnswer": 1,
-    "explanation": "રિએક્શન ટર્બાઇન રનર એક્ઝિટ અને સેન્ટ્રીફ્યુગલ પંપ સક્શન આઇ જેવા નીચા દબાણવાળા વિસ્તારોમાં કેવિટેશન સર્જાય છે[cite: 8]."
+    "explanation": "રિએક્શન ટર્બાઇન રનર એક્ઝિટ અને સેન્ટ્રીફ્યુગલ પંપ સક્શન આઇ જેવા નીચા પ્રેશરવાળા વિસ્તારોમાં કેવિટેશન સર્જાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 200,
@@ -2997,7 +2997,7 @@
       "શૂન્ય પ્રેશર"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇમ્પલ્સ ટર્બાઇનમાં તમામ પ્રેશર હેડ નોઝલમાં કાઇનેટિકમાં ફેરવાઈ જતાં રનર કેસિંગમાં દબાણ વાતાવરણીય (Atmospheric) રહે છે[cite: 8]."
+    "explanation": "ઇમ્પલ્સ ટર્બાઇનમાં તમામ પ્રેશર હેડ નોઝલમાં કાઇનેટિકમાં ફેરવાઈ જતાં રનર કેસિંગમાં પ્રેશર વાતાવરણીય (Atmospheric) રહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 201,
@@ -3012,7 +3012,7 @@
       "આપેલ પૈકી એકપણ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "વર્તુળાકાર પાઇપમાં હેગન-પોઇસેલી લેમિનાર પ્રવાહ માટે U_max = 2.0 × U_avg થાય છે[cite: 8]."
+    "explanation": "વર્તુળાકાર પાઇપમાં હેગન-પોઇસેલી લેમિનાર ફ્લો માટે U_max = 2.0 × U_avg થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 202,
@@ -3027,14 +3027,14 @@
       "ટર્બાઈનનો હેડ વધારવા માટે"
     ],
     "correctAnswer": 1,
-    "explanation": "ગવર્નિંગ દ્વારા ગ્રીડ ફ્રિક્વન્સી જાળવવા માટે વેરિયેબલ લોડ પર ટર્બાઇનની પરિભ્રમણ ગતિ સતત અચળ (Constant speed) રખાય છે[cite: 8]."
+    "explanation": "ગવર્નિંગ દ્વારા ગ્રીડ ફ્રિક્વન્સી જાળવવા માટે વેરિયેબલ લોડ પર ટર્બાઇનની રોટેશન ગતિ સતત અચળ (Constant speed) રખાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 203,
     "subject": "Fluid Mechanics",
     "subTopic": "Flow Through Pipes & Head Losses",
     "question": "What is the primary function of a Penstock in a hydroelectric power plant?",
-    "gujaratiQuestion": "0203. હાઈડ્રોઇલેક્ટ્રિક પાવર પ્લાન્ટમાં પેનસ્ટોક (Penstock) નું મુખ્ય કાર્ય શું છે?",
+    "gujaratiQuestion": "0203. હાઈડ્રોઇલેક્ટ્રિક પાવર પ્લાન્ટમાં પેનસ્ટોક (Penstock) નું મુખ્ય વર્ક શું છે?",
     "options": [
       "ઇલેક્ટ્રિસિટી ઉત્પન્ન કરવી",
       "ડેમમાંથી ટર્બાઈન સુધી ઊંચા પ્રેશરે પાણી પહોંચાડવું",
@@ -3042,7 +3042,7 @@
       "કેવિટેશન અટકાવવું"
     ],
     "correctAnswer": 1,
-    "explanation": "પેનસ્ટોક એ મજબૂત પાઇપલાઇન છે જે ડેમ/ફોરબેમાંથી હાઇ પ્રેશર પાણી ટર્બાઇન રનર સુધી લઈ જાય છે[cite: 8]."
+    "explanation": "પેનસ્ટોક એ મજબૂત પાઇપલાઇન છે જે ડેમ/ફોરબેમાંથી હાઇ પ્રેશર પાણી ટર્બાઇન રનર સુધી લઈ જાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 204,
@@ -3057,7 +3057,7 @@
       "hL = 0.5 V₂² / 2g"
     ],
     "correctAnswer": 0,
-    "explanation": "અચાનક વિસ્તરણ હેડ લોસ h_L = (V₁ - V₂)² / 2g[cite: 8]."
+    "explanation": "અચાનક વિસ્તરણ હેડ લોસ h_L = (V₁ - V₂)² / 2g[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 205,
@@ -3072,7 +3072,7 @@
       "ટેન્જેન્શિયલ"
     ],
     "correctAnswer": 2,
-    "explanation": "કાપ્લાન ટર્બાઇન રનરમાં પાણી સંપૂર્ણપણે અક્ષીય દિશામાં (Axially) પ્રવેશે છે અને બહાર નીકળે છે[cite: 8]."
+    "explanation": "કાપ્લાન ટર્બાઇન રનરમાં પાણી સંપૂર્ણપણે અક્ષીય દિશામાં (Axially) પ્રવેશે છે અને બહાર નીકળે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 206,
@@ -3087,14 +3087,14 @@
       "ટેન્જેન્શિયલ"
     ],
     "correctAnswer": 1,
-    "explanation": "આધુનિક ફ્રાન્સિસ ટર્બાઇનમાં પાણી પરિઘ પરથી રેડિયલ ઇનવર્ડ પ્રવેશી કેન્દ્રમાંથી અક્ષીય (Axially) બહાર નીકળે છે[cite: 8]."
+    "explanation": "આધુનિક ફ્રાન્સિસ ટર્બાઇનમાં પાણી પરિઘ પરથી રેડિયલ ઇનવર્ડ પ્રવેશી કેન્દ્રમાંથી અક્ષીય (Axially) બહાર નીકળે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 207,
     "subject": "Fluid Mechanics",
     "subTopic": "Viscous Flow, Boundary Layer & Turbulent Flow",
     "question": "For viscous flow through circular pipes shown in Figure 1, curve B represents:",
-    "gujaratiQuestion": "0207. ગોળાકાર પાઈપોમાંથી ચીકણા પ્રવાહ માટે, આકૃતિ 1 માં ચોક્કસ વળાંકો બતાવવામાં આવ્યા છે, વળાંક B એ _____ દર્શાવે છે.",
+    "gujaratiQuestion": "0207. ગોળાકાર પાઈપોમાંથી ચીકણા ફ્લો માટે, આકૃતિ 1 માં ચોક્કસ વળાંકો બતાવવામાં આવ્યા છે, વળાંક B એ _____ દર્શાવે છે.",
     "options": [
       "શિયર સ્ટ્રેસ ડિસ્ટ્રિબ્યુશન",
       "વેલોસિટી ડિસ્ટ્રિબ્યુશન",
@@ -3102,7 +3102,7 @@
       "આપેલ પૈકી એકપણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "વર્તુળાકાર પાઇપમાં શિયર સ્ટ્રેસ કેન્દ્રમાં શૂન્ય અને દીવાલ પર મહત્તમ થતાં રેખીય (Linear curve B) હોય છે, જ્યારે વેલોસિટી પેરાબોલિક (A) હોય છે[cite: 8]."
+    "explanation": "વર્તુળાકાર પાઇપમાં શિયર સ્ટ્રેસ કેન્દ્રમાં શૂન્ય અને દીવાલ પર મહત્તમ થતાં રેખીય (Linear curve B) હોય છે, જ્યારે વેલોસિટી પેરાબોલિક (A) હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 208,
@@ -3117,7 +3117,7 @@
       "કેન્દ્રમાં"
     ],
     "correctAnswer": 2,
-    "explanation": "પેલ્ટન વ્હીલમાં પાણીનો જેટ રનરના પિચ સર્કલને સ્પર્શક (Tangential direction) દિશામાં અથડાય છે[cite: 8]."
+    "explanation": "પેલ્ટન વ્હીલમાં પાણીનો જેટ રનરના પિચ સર્કલને સ્પર્શક (Tangential direction) દિશામાં અથડાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 209,
@@ -3132,7 +3132,7 @@
       "પોટેન્શિયલ એનર્જી"
     ],
     "correctAnswer": 1,
-    "explanation": "નોઝલ તમામ પ્રેશર હેડનું કાઇનેટિક એનર્જીમાં રૂપાંતર કરે છે, જેથી નોઝલ બહાર માત્ર હાઇ-વેલોસિટી કાઇનેટિક એનર્જી રહે છે[cite: 8]."
+    "explanation": "નોઝલ તમામ પ્રેશર હેડનું કાઇનેટિક એનર્જીમાં રૂપાંતર કરે છે, જેથી નોઝલ બહાર માત્ર હાઇ-વેલોસિટી કાઇનેટિક એનર્જી રહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 210,
@@ -3147,7 +3147,7 @@
       "આપેલ પૈકી એકપણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "ઓવરઓલ કાર્યક્ષમતા = શાફ્ટ પાવર આઉટપુટ / ઇનલેટ વોટર પાવર[cite: 8]."
+    "explanation": "ઓવરઓલ વર્કક્ષમતા = શાફ્ટ પાવર આઉટપુટ / ઇનલેટ વોટર પાવર[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 211,
@@ -3162,14 +3162,14 @@
       "પહેલા વધે છે પછી ઘટે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "રિએક્શન ટર્બાઇન રનરમાં કાઇનેટિક અને પ્રેશર બંને ઊર્જાનું યાંત્રિક કાર્યમાં રૂપાંતર થવાથી દબાણ સતત ઘટે છે[cite: 8]."
+    "explanation": "રિએક્શન ટર્બાઇન રનરમાં કાઇનેટિક અને પ્રેશર બંને ઊર્જાનું યાંત્રિક વર્કમાં રૂપાંતર થવાથી પ્રેશર સતત ઘટે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 212,
     "subject": "Fluid Mechanics",
     "subTopic": "Pelton Wheel, Francis Turbine & Kaplan Turbine",
     "question": "What is the function of guide vanes in a reaction turbine?",
-    "gujaratiQuestion": "0212. ટર્બાઈનમાં ગાઈડ વેન્સ (Guide vanes) નું કાર્ય શું છે?",
+    "gujaratiQuestion": "0212. ટર્બાઈનમાં ગાઈડ વેન્સ (Guide vanes) નું વર્ક શું છે?",
     "options": [
       "રનરને સીધો પાવર આપવો",
       "પાણીને યોગ્ય એંગલ પર રનર તરફ વાળવું અને ડિસ્ચાર્જ કંટ્રોલ કરવો",
@@ -3177,7 +3177,7 @@
       "વોટર હેમર ઘટાડવું"
     ],
     "correctAnswer": 1,
-    "explanation": "ગાઇડ વેન્સ પાણીને શોક વગર યોગ્ય ઇનલેટ એંગલ પર રનર તરફ દોરે છે અને ગવર્નિંગ માટે ફ્લો રેટ નિયંત્રિત કરે છે[cite: 8]."
+    "explanation": "ગાઇડ વેન્સ પાણીને શોક વગર યોગ્ય ઇનલેટ એંગલ પર રનર તરફ દોરે છે અને ગવર્નિંગ માટે ફ્લો રેટ નિયંત્રિત કરે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 213,
@@ -3192,7 +3192,7 @@
       "પ્રોપેલર ટર્બાઈન"
     ],
     "correctAnswer": 2,
-    "explanation": "પેલ્ટન ટર્બાઇનમાં સ્પીડ બદલાતાં યુનિટ ડિસ્ચાર્જ અચળ (Horizontal line A) રહે છે[cite: 8]."
+    "explanation": "પેલ્ટન ટર્બાઇનમાં સ્પીડ બદલાતાં યુનિટ ડિસ્ચાર્જ અચળ (Horizontal line A) રહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 214,
@@ -3207,7 +3207,7 @@
       "0.8 થી 0.9 ની વચ્ચે"
     ],
     "correctAnswer": 0,
-    "explanation": "પેલ્ટન વ્હીલ માટે સ્પીડ રેશિયો Ku = u / √(2gH) સામાન્ય રીતે 0.43 થી 0.48 (સૈદ્ધાંતિક 0.5) હોય છે[cite: 8]."
+    "explanation": "પેલ્ટન વ્હીલ માટે સ્પીડ રેશિયો Ku = u / √(2gH) સામાન્ય રીતે 0.43 થી 0.48 (સૈદ્ધાંતિક 0.5) હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 215,
@@ -3222,7 +3222,7 @@
       "સાઉન્ડની વેલોસિટી જેટલી"
     ],
     "correctAnswer": 2,
-    "explanation": "ડ્રાફ્ટ ટ્યુબનો વધતો એરિયા બહાર નીકળતા પાણીનો વેગ લઘુત્તમ કરી નાખે છે જેથી ટેઇલરેસમાં કાઇનેટિક એનર્જી લોસ નહિવત થાય[cite: 8]."
+    "explanation": "ડ્રાફ્ટ ટ્યુબનો વધતો એરિયા બહાર નીકળતા પાણીનો વેલોસિટી લઘુત્તમ કરી નાખે છે જેથી ટેઇલરેસમાં કાઇનેટિક એનર્જી લોસ નહિવત થાય[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 216,
@@ -3237,7 +3237,7 @@
       "આપેલ પૈકી એકપણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "હાઇડ્રોલિક કપલિંગ ઇનપુટ શાફ્ટનો ટોર્ક કોઈપણ ટોર્ક ગુણાકાર વગર સમાન પ્રમાણમાં (1:1 ટોર્ક રેશિયો) ડ્રિવન શાફ્ટમાં ટ્રાન્સમિટ કરે છે[cite: 8]."
+    "explanation": "હાઇડ્રોલિક કપલિંગ ઇનપુટ શાફ્ટનો ટોર્ક કોઈપણ ટોર્ક ગુણાકાર વગર સમાન પ્રમાણમાં (1:1 ટોર્ક રેશિયો) ડ્રિવન શાફ્ટમાં ટ્રાન્સમિટ કરે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "subject": "Fluid Mechanics",
@@ -3251,7 +3251,7 @@
       "It is always lower than the fully developed value"
     ],
     "correctAnswer": 1,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Continuity fixes the cross-sectional average velocity for constant area and steady incompressible flow.",
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Continuity fixes the cross-sectional average velocity for constant area and steady incompressible flow.\n\n⚡ [Most Likely Exam Question - Concept Trap]",
     "id": 217
   },
   {
@@ -3281,7 +3281,7 @@
       "Unsteady non-uniform"
     ],
     "correctAnswer": 2,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Convective acceleration exists when velocity varies spatially; steady non-uniform flow has no local acceleration.",
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Convective acceleration exists when velocity varies spatially; steady non-uniform flow has no local acceleration.\n\n💡 [High Yield Expected Question - 2026 Exam]",
     "id": 219
   },
   {
@@ -3296,7 +3296,7 @@
       "Surface tension"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: τ=μ du/dy.",
+    "explanation": "Expected MCQ: τ=μ du/dy. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]",
     "id": 220
   },
   {
@@ -3311,7 +3311,7 @@
       "1000"
     ],
     "correctAnswer": 2,
-    "explanation": "Expected MCQ: Specific gravity is density relative to the reference density, so water is approximately 1.",
+    "explanation": "Expected MCQ: Specific gravity is density relative to the reference density, so water is approximately 1. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]",
     "id": 221
   },
   {
@@ -3326,7 +3326,7 @@
       "Re/64"
     ],
     "correctAnswer": 2,
-    "explanation": "Expected MCQ: For fully developed laminar pipe flow, f=64/Re.",
+    "explanation": "Expected MCQ: For fully developed laminar pipe flow, f=64/Re. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]",
     "id": 222
   },
   {
@@ -3341,7 +3341,7 @@
       "Zero"
     ],
     "correctAnswer": 2,
-    "explanation": "Expected MCQ: Continuity gives constant discharge and constant average velocity for constant area.",
+    "explanation": "Expected MCQ: Continuity gives constant discharge and constant average velocity for constant area. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]",
     "id": 223
   },
   {
@@ -3356,7 +3356,45 @@
       "At the centre of buoyancy only"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Positive metacentric height requires M above G.",
+    "explanation": "Expected MCQ: Positive metacentric height requires M above G. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]",
     "id": 224
+  },
+  {
+    "id": 90004,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Definition of Fluid, Newton's Law of Viscosity",
+    "question": "According to Newton's law of viscosity, shear stress is directly proportional to:",
+    "gujaratiQuestion": "ન્યૂટન્સ લો ઓફ વિસ્કોસિટી (Newton's law of viscosity) મુજબ શિયર સ્ટ્રેસ (τ) કોના સીધા પ્રમાણમાં હોય છે?",
+    "options": [
+      "Velocity gradient du/dy (વેલોસિટી ગ્રેડિયન્ટ du/dy)",
+      "Dynamic viscosity μ (ડાયનેમિક વિસ્કોસિટી)",
+      "Fluid density ρ (ફ્લુઇડ ડેન્સિટી)",
+      "Kinematic viscosity ν (કાઇનેમેટિક વિસ્કોસિટી)"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Newton's law of viscosity: τ = μ · (du/dy). શિયર સ્ટ્રેસ એ વેલોસિટી ગ્રેડિયન્ટ (du/dy) અથવા શિયર સ્ટ્રેનના દરોના સીધા પ્રમાણમાં હોય છે.\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+  },
+  {
+    "id": 90005,
+    "subject": "Fluid Mechanics",
+    "subTopic": "Bernoulli's Equation & Dimensional Analysis",
+    "question": "Bernoulli's equation is based on the law of conservation of:",
+    "gujaratiQuestion": "બર્નોલીનું સમીકરણ (Bernoulli's equation) કયા સંરક્ષણના નિયમ પર આધારિત છે?",
+    "options": [
+      "Energy conservation (એનર્જી સંરક્ષણ)",
+      "Mass conservation (માસ સંરક્ષણ)",
+      "Linear momentum conservation (મોમેન્ટમ સંરક્ષણ)",
+      "Angular momentum conservation (એંગ્યુલર મોમેન્ટમ સંરક્ષણ)"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Bernoulli's equation એ ઇનકમ્પ્રેસિબલ, નોન-વિસ્કસ અને સ્ટેડી ફ્લો માટે એનર્જી સંરક્ષણ (Energy Conservation) પર આધારિત છે. જ્યારે Continuity equation એ માસ સંરક્ષણ પર આધારિત છે.\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   }
 ]

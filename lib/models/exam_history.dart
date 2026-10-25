@@ -13,6 +13,7 @@ class ExamHistory {
   final double score;
   final double percentage;
   final double accuracy;
+  final bool isPracticeRetry;
 
   final List<Question> questions;
   final List<int?> selectedAnswers;
@@ -31,6 +32,7 @@ class ExamHistory {
     required this.score,
     required this.percentage,
     required this.accuracy,
+    this.isPracticeRetry = false,
     this.questions = const [],
     this.selectedAnswers = const [],
     this.selectedMSQAnswers = const [],
@@ -69,6 +71,7 @@ class ExamHistory {
       'score': score,
       'percentage': percentage,
       'accuracy': accuracy,
+      'isPracticeRetry': isPracticeRetry,
       'questions': questions.map((q) => q.toJson()).toList(),
       'selectedAnswers': selectedAnswers,
       'selectedMSQAnswers': selectedMSQAnswers,
@@ -119,6 +122,7 @@ class ExamHistory {
       score: (json['score'] ?? 0).toDouble(),
       percentage: (json['percentage'] ?? 0).toDouble(),
       accuracy: (json['accuracy'] ?? 0).toDouble(),
+      isPracticeRetry: json['isPracticeRetry'] as bool? ?? false,
       questions: questionsList,
       selectedAnswers: selAnswers,
       selectedMSQAnswers: selMSQAnswers,

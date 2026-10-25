@@ -46,7 +46,7 @@ class _StudyMaterialTopicListScreenState extends State<StudyMaterialTopicListScr
       );
 
       final loadedProgress =
-          await LocalStorageService.loadStudyProgress();
+          await LocalStorageService.loadCombinedStudyProgress();
 
       if (!mounted) return;
 
@@ -90,8 +90,8 @@ class _StudyMaterialTopicListScreenState extends State<StudyMaterialTopicListScr
                       itemBuilder: (context, index) {
                         final material = materials[index];
                         final isCompleted = progressList.any((p) =>
-                            p.subject == material.subject &&
-                            p.topic == material.topic &&
+                            p.subject.trim().toLowerCase() == material.subject.trim().toLowerCase() &&
+                            p.topic.trim().toLowerCase() == material.topic.trim().toLowerCase() &&
                             p.completed);
 
                         return Card(

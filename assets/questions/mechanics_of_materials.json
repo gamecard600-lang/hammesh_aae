@@ -12,7 +12,7 @@
       "મોડ્યુલસ"
     ],
     "correctAnswer": 1,
-    "explanation": "લંબાઈમાં થતા ફેરફાર (ડિફોર્મેશન) અને મૂળ લંબાઈના ગુણોત્તરને સ્ટ્રેઈન કહેવાય છે[cite: 3]."
+    "explanation": "લંબાઈમાં થતા ફેરફાર (ડિફોર્મેશન) અને મૂળ લંબાઈના ગુણોત્તરને સ્ટ્રેઈન કહેવાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
       "N"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ટ્રેસ એ એકમ ક્ષેત્રફળ દીઠ લાગતું આંતરિક બળ હોવાથી તેનો S.I. એકમ N/m² (પાસ્કલ) છે[cite: 3]."
+    "explanation": "સ્ટ્રેસ એ એકમ ક્ષેત્રફળ દીઠ લાગતું આંતરિક બળ હોવાથી તેનો S.I. એકમ N/m² (પાસ્કલ) છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
       "P/4"
     ],
     "correctAnswer": 0,
-    "explanation": "સેન્ટ્રલ પોઈન્ટ લોડ P માટે બંને સપોર્ટ પર રિએક્શન P/2 મળે છે, તેથી સપોર્ટ આગળ શીયર ફોર્સ P/2 થાય છે[cite: 3]."
+    "explanation": "સેન્ટ્રલ પોઈન્ટ લોડ P માટે બંને સપોર્ટ પર રિએક્શન P/2 મળે છે, તેથી સપોર્ટ આગળ શીયર ફોર્સ P/2 થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 4,
@@ -57,14 +57,14 @@
       "બ્રેકિંગ પોઈન્ટ"
     ],
     "correctAnswer": 2,
-    "explanation": "હૂકનો નિયમ (સ્ટ્રેસ ∝ સ્ટ્રેઈન) પ્રમાણસરતાની મર્યાદા (Limit of Proportionality) સુધી જ માન્ય છે[cite: 3]."
+    "explanation": "હૂકનો નિયમ (સ્ટ્રેસ ∝ સ્ટ્રેઈન) પ્રમાણસરતાની મર્યાદા (Limit of Proportionality) સુધી જ માન્ય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 5,
     "subject": "Mechanics of Materials",
     "subTopic": "Stress & Strain",
     "question": "If an external tensile force acts on a body, what is the induced stress called?",
-    "gujaratiQuestion": "05. જો કોઈ પદાર્થ પર બાહ્ય ખેંચાણ બળ લાગે, તો તેમાં ઉત્પન્ન થતા સ્ટ્રેસને શું કહે છે?",
+    "gujaratiQuestion": "05. જો કોઈ પદાર્થ પર બાહ્ય સરફેસ ટેન્શન લાગે, તો તેમાં ઉત્પન્ન થતા સ્ટ્રેસને શું કહે છે?",
     "options": [
       "કોમ્પ્રેસિવ સ્ટ્રેસ",
       "શીયર સ્ટ્રેસ",
@@ -72,7 +72,7 @@
       "વોલ્યુમેટ્રિક સ્ટ્રેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "ખેંચાણ બળથી ઉદભવતા સ્ટ્રેસને ટેન્સાઈલ સ્ટ્રેસ કહે છે[cite: 3]."
+    "explanation": "સરફેસ ટેન્શનથી ઉદભવતા સ્ટ્રેસને ટેન્સાઈલ સ્ટ્રેસ કહે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
       "18.75 kN-m"
     ],
     "correctAnswer": 3,
-    "explanation": "મહત્તમ બેન્ડિંગ મોમેન્ટ M = WL/4 = (15 × 5)/4 = 18.75 kN-m થાય છે[cite: 3]."
+    "explanation": "મહત્તમ બેન્ડિંગ મોમેન્ટ M = WL/4 = (15 × 5)/4 = 18.75 kN-m થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@
       "પ્રિન્સિપલ સ્ટ્રેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "વિસ્તરણ અટકાવવાથી પદાર્થમાં કોમ્પ્રેસિવ (સંકોચન) સ્ટ્રેસ પેદા થાય છે[cite: 3]."
+    "explanation": "વિસ્તરણ અટકાવવાથી પદાર્થમાં કોમ્પ્રેસિવ (સંકોચન) સ્ટ્રેસ પેદા થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 8,
@@ -117,7 +117,7 @@
       "શીયર સ્ટ્રેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "અવરોધ વિના મુક્ત વિસ્તરણ થવાથી તેમાં કોઈ સ્ટ્રેસ ઉત્પન્ન થતો નથી[cite: 3]."
+    "explanation": "અવરોધ વિના મુક્ત વિસ્તરણ થવાથી તેમાં કોઈ સ્ટ્રેસ ઉત્પન્ન થતો નથી[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 9,
@@ -132,7 +132,7 @@
       "શૂન્ય"
     ],
     "correctAnswer": 0,
-    "explanation": "કોઈ લોડ ન હોવાથી બે પોઈન્ટ લોડ વચ્ચે શીયર ફોર્સ અચળ (કોન્સ્ટન્ટ) રહે છે[cite: 3]."
+    "explanation": "કોઈ લોડ ન હોવાથી બે પોઈન્ટ લોડ વચ્ચે શીયર ફોર્સ અચળ (કોન્સ્ટન્ટ) રહે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 10,
@@ -147,7 +147,7 @@
       "પોઈસન રેશિયો"
     ],
     "correctAnswer": 1,
-    "explanation": "ડાયરેક્ટ સ્ટ્રેસ અને વોલ્યુમેટ્રિક સ્ટ્રેઈનનો ગુણોત્તર બલ્ક મોડ્યુલસ (K) કહેવાય છે[cite: 3]."
+    "explanation": "ડાયરેક્ટ સ્ટ્રેસ અને વોલ્યુમેટ્રિક સ્ટ્રેઈનનો ગુણોત્તર બલ્ક મોડ્યુલસ (K) કહેવાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 11,
@@ -162,7 +162,7 @@
       "શીયર સ્ટ્રેન"
     ],
     "correctAnswer": 2,
-    "explanation": "લાગતા બળની દિશામાં ઉત્પન્ન થતા સ્ટ્રેઈનને લીનિયર સ્ટ્રેઈન કહે છે[cite: 3]."
+    "explanation": "લાગતા બળની દિશામાં ઉત્પન્ન થતા સ્ટ્રેઈનને લીનિયર સ્ટ્રેઈન કહે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 12,
@@ -177,7 +177,7 @@
       "I = πr²/2"
     ],
     "correctAnswer": 2,
-    "explanation": "સૉલિડ વર્તુળાકાર શાફ્ટ માટે પોલર મોમેન્ટ ઓફ ઈનર્શિયા J = πr⁴/2 થાય છે[cite: 3]."
+    "explanation": "સૉલિડ વર્તુળાકાર શાફ્ટ માટે પોલર મોમેન્ટ ઓફ ઈનર્શિયા J = πr⁴/2 થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 13,
@@ -192,7 +192,7 @@
       "વોલ્યુમેટ્રિક સ્ટ્રેન"
     ],
     "correctAnswer": 1,
-    "explanation": "બળની લંબ દિશામાં પેદા થતા સ્ટ્રેઈનને લેટરલ સ્ટ્રેઈન કહેવામાં આવે છે[cite: 3]."
+    "explanation": "બળની લંબ દિશામાં પેદા થતા સ્ટ્રેઈનને લેટરલ સ્ટ્રેઈન કહેવામાં આવે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 14,
@@ -207,7 +207,7 @@
       "ઈલાસ્ટિક લિમિટ"
     ],
     "correctAnswer": 1,
-    "explanation": "યીલ્ડ પોઈન્ટ પછી મટીરીયલમાં કાયમી પ્લાસ્ટિક ડિફોર્મેશન શરૂ થાય છે[cite: 3]."
+    "explanation": "યીલ્ડ પોઈન્ટ પછી મટીરીયલમાં કાયમી પ્લાસ્ટિક ડિફોર્મેશન શરૂ થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 15,
@@ -222,7 +222,7 @@
       "યીલ્ડ સ્ટ્રેન્થ"
     ],
     "correctAnswer": 1,
-    "explanation": "ટોર્શનલ રિજિડિટી = G × J હોવાથી તે શિયર મોડ્યુલસ પર આધારિત છે[cite: 3]."
+    "explanation": "ટોર્શનલ રિજિડિટી = G × J હોવાથી તે શિયર મોડ્યુલસ પર આધારિત છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 16,
@@ -237,7 +237,7 @@
       "ચોથા ભાગનું"
     ],
     "correctAnswer": 1,
-    "explanation": "પોતાના વજનથી થતું વિસ્તરણ WL/(2AE) એ છેડે વજન લટકાવવાના વિસ્તરણ WL/(AE) કરતાં અડધું હોય છે[cite: 3]."
+    "explanation": "પોતાના વજનથી થતું વિસ્તરણ WL/(2AE) એ છેડે વજન લટકાવવાના વિસ્તરણ WL/(AE) કરતાં અડધું હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 17,
@@ -252,7 +252,7 @@
       "વર્કિંગ સ્ટ્રેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "મહત્તમ લોડ / મૂળ ક્ષેત્રફળ = અલ્ટીમેટ ટેન્સાઈલ સ્ટ્રેસ[cite: 3]."
+    "explanation": "મહત્તમ લોડ / મૂળ ક્ષેત્રફળ = અલ્ટીમેટ ટેન્સાઈલ સ્ટ્રેસ[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 18,
@@ -267,7 +267,7 @@
       "wL² / 8"
     ],
     "correctAnswer": 0,
-    "explanation": "UDL ધરાવતા સિમ્પલી સપોર્ટેડ બીમનું સેન્ટ્રલ ડિફ્લેક્શન δ = 5wL⁴/(384EI) થાય[cite: 3]."
+    "explanation": "UDL ધરાવતા સિમ્પલી સપોર્ટેડ બીમનું સેન્ટ્રલ ડિફ્લેક્શન δ = 5wL⁴/(384EI) થાય[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 19,
@@ -282,7 +282,7 @@
       "m/s"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્ટ્રેઈન એ સમાન પરિમાણોનો ગુણોત્તર હોવાથી એકમ રહિત છે[cite: 3]."
+    "explanation": "સ્ટ્રેઈન એ સમાન પરિમાણોનો ગુણોત્તર હોવાથી એકમ રહિત છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 20,
@@ -297,7 +297,7 @@
       "બેન્ડિંગ સ્ટ્રેસ"
     ],
     "correctAnswer": 1,
-    "explanation": "ડક્ટાઈલ મટીરીયલ મુખ્યત્વે શીયર સ્ટ્રેસના કારણે ફેલ થાય છે[cite: 3]."
+    "explanation": "ડક્ટાઈલ મટીરીયલ મુખ્યત્વે શીયર સ્ટ્રેસના કારણે ફેલ થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 21,
@@ -312,14 +312,14 @@
       "1:5"
     ],
     "correctAnswer": 1,
-    "explanation": "ટોર્શનલ રિજિડિટી d⁴ ના સમપ્રમાણમાં હોવાથી: (40/60)⁴ = (2/3)⁴ = 16:81[cite: 3]."
+    "explanation": "ટોર્શનલ રિજિડિટી d⁴ ના સમપ્રમાણમાં હોવાથી: (40/60)⁴ = (2/3)⁴ = 16:81[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 22,
     "subject": "Mechanics of Materials",
     "subTopic": "Stress & Strain",
     "question": "If a material has identical elastic properties in all directions, it is called:",
-    "gujaratiQuestion": "022 જો મટીરીયલ બધી જ દિશામાં સમાન ઇલાસ્ટિક ગુણધર્મો ધરાવતું હોય, તો તેને શું કહેવાય છે?",
+    "gujaratiQuestion": "022 જો મટીરીયલ બધી જ દિશામાં સમાન ઇલાસ્ટિક પ્રોપર્ટીઝ ધરાવતું હોય, તો તેને શું કહેવાય છે?",
     "options": [
       "આઇસોટ્રોપિક",
       "ઓર્થોટ્રોપિક",
@@ -327,7 +327,7 @@
       "પ્લાસ્ટિક"
     ],
     "correctAnswer": 0,
-    "explanation": "બધી જ દિશામાં સમાન ગુણધર્મો ધરાવતા પદાર્થને આઇસોટ્રોપિક કહેવાય છે[cite: 3]."
+    "explanation": "બધી જ દિશામાં સમાન પ્રોપર્ટીઝ ધરાવતા પદાર્થને આઇસોટ્રોપિક કહેવાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 23,
@@ -342,7 +342,7 @@
       "કોઈ સંબંધ નથી"
     ],
     "correctAnswer": 1,
-    "explanation": "હૂકના નિયમ અનુસાર સ્ટ્રેસ એ સ્ટ્રેઈનના સીધા સમપ્રમાણમાં હોય છે[cite: 3]."
+    "explanation": "હૂકના નિયમ અનુસાર સ્ટ્રેસ એ સ્ટ્રેઈનના સીધા સમપ્રમાણમાં હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 24,
@@ -357,7 +357,7 @@
       "ફિક્સ્ડ"
     ],
     "correctAnswer": 0,
-    "explanation": "UTM માં ક્રોસહેડ શિરોલંબ ઉપર અને નીચે (Up and Down) ગતિ કરે છે[cite: 3]."
+    "explanation": "UTM માં ક્રોસહેડ શિરોલંબ ઉપર અને નીચે (Up and Down) ગતિ કરે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 25,
@@ -372,7 +372,7 @@
       "શીયર સ્ટ્રેન"
     ],
     "correctAnswer": 3,
-    "explanation": "શીયર સ્ટ્રેસથી આકારમાં થતા કોણીય ફેરફારને શીયર સ્ટ્રેઈન કહે છે[cite: 3]."
+    "explanation": "શીયર સ્ટ્રેસથી આકારમાં થતા કોણીય ફેરફારને શીયર સ્ટ્રેઈન કહે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 26,
@@ -387,7 +387,7 @@
       "400 MPa"
     ],
     "correctAnswer": 1,
-    "explanation": "માઈલ્ડ સ્ટીલનો યંગ્સ મોડ્યુલસ આશરે 210 GPa (2.1 × 10⁵ N/mm²) હોય છે[cite: 3]."
+    "explanation": "માઈલ્ડ સ્ટીલનો યંગ્સ મોડ્યુલસ આશરે 210 GPa (2.1 × 10⁵ N/mm²) હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 27,
@@ -402,7 +402,7 @@
       "4"
     ],
     "correctAnswer": 2,
-    "explanation": "એક છેડે ફિક્સ અને બીજે ફ્રી કોલમ માટે Le = 2L હોવાથી ફેક્ટર 2 થાય છે[cite: 3]."
+    "explanation": "એક છેડે ફિક્સ અને બીજે ફ્રી કોલમ માટે Le = 2L હોવાથી ફેક્ટર 2 થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 28,
@@ -417,7 +417,7 @@
       "3P/E * (1 + μ)"
     ],
     "correctAnswer": 1,
-    "explanation": "ત્રિ-પરિમાણીય સમાન સ્ટ્રેસ માટે વોલ્યુમેટ્રિક સ્ટ્રેઈન = (3P/E)(1 - 2μ) થાય[cite: 3]."
+    "explanation": "ત્રિ-પરિમાણીય સમાન સ્ટ્રેસ માટે વોલ્યુમેટ્રિક સ્ટ્રેઈન = (3P/E)(1 - 2μ) થાય[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 29,
@@ -428,11 +428,11 @@
     "options": [
       "મટીરીયલના પ્રકાર પર",
       "લંબાઈ પર",
-      "તાપમાન પર",
+      "ટેમ્પરેચર પર",
       "લાગતા બળ અને ક્ષેત્રફળ પર"
     ],
     "correctAnswer": 3,
-    "explanation": "સ્ટ્રેસ = બળ / ક્ષેત્રફળ (P/A) હોવાથી તે લાગતા બળ અને ક્ષેત્રફળ પર આધાર રાખે છે[cite: 3]."
+    "explanation": "સ્ટ્રેસ = બળ / ક્ષેત્રફળ (P/A) હોવાથી તે લાગતા બળ અને ક્ષેત્રફળ પર આધાર રાખે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 30,
@@ -447,7 +447,7 @@
       "રફ સરફેસ"
     ],
     "correctAnswer": 1,
-    "explanation": "પદાર્થ જેટલો વધુ હાર્ડ હશે ઇન્ડેન્ટેશનની સાઈઝ તેટલી જ ઓછી હશે[cite: 3]."
+    "explanation": "પદાર્થ જેટલો વધુ હાર્ડ હશે ઇન્ડેન્ટેશનની સાઈઝ તેટલી જ ઓછી હશે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 31,
@@ -462,7 +462,7 @@
       "પોઈસન રેશિયો"
     ],
     "correctAnswer": 0,
-    "explanation": "લીનિયર સ્ટ્રેસ અને લીનિયર સ્ટ્રેઈનના ગુણોત્તરને યંગ્સ મોડ્યુલસ કહે છે[cite: 3]."
+    "explanation": "લીનિયર સ્ટ્રેસ અને લીનિયર સ્ટ્રેઈનના ગુણોત્તરને યંગ્સ મોડ્યુલસ કહે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 32,
@@ -477,7 +477,7 @@
       "પોઈસન રેશિયો"
     ],
     "correctAnswer": 2,
-    "explanation": "શીયર સ્ટ્રેસ / શીયર સ્ટ્રેઈન = મોડ્યુલસ ઓફ રિજિડિટી (G)[cite: 3]."
+    "explanation": "શીયર સ્ટ્રેસ / શીયર સ્ટ્રેઈન = મોડ્યુલસ ઓફ રિજિડિટી (G)[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 33,
@@ -492,7 +492,7 @@
       "બોક્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "વર્તુળાકાર ટ્યુબ્યુલર સેક્શન ટોર્શનલ સ્ટ્રેસ સામે ઉત્તમ અવરોધ પૂરો પાડે છે[cite: 3]."
+    "explanation": "વર્તુળાકાર ટ્યુબ્યુલર સેક્શન ટોર્શનલ સ્ટ્રેસ સામે ઉત્તમ અવરોધ પૂરો પાડે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 34,
@@ -507,7 +507,7 @@
       "બલ્ક મોડ્યુલસ"
     ],
     "correctAnswer": 1,
-    "explanation": "લેટરલ સ્ટ્રેઈન અને લીનિયર સ્ટ્રેઈનના ગુણોત્તરને પોઈસન રેશિયો કહેવાય છે[cite: 3]."
+    "explanation": "લેટરલ સ્ટ્રેઈન અને લીનિયર સ્ટ્રેઈનના ગુણોત્તરને પોઈસન રેશિયો કહેવાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 35,
@@ -522,7 +522,7 @@
       "પોઇસન રેશિયો"
     ],
     "correctAnswer": 2,
-    "explanation": "ડાયરેક્ટ સ્ટ્રેસ અને વોલ્યુમેટ્રિક સ્ટ્રેઈનનો ગુણોત્તર બલ્ક મોડ્યુલસ કહેવાય છે[cite: 3]."
+    "explanation": "ડાયરેક્ટ સ્ટ્રેસ અને વોલ્યુમેટ્રિક સ્ટ્રેઈનનો ગુણોત્તર બલ્ક મોડ્યુલસ કહેવાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 36,
@@ -537,7 +537,7 @@
       "મટિરિયલમાં લોન્ગિટ્યુડિનલ સ્ટ્રેઇન અનંત છે"
     ],
     "correctAnswer": 0,
-    "explanation": "પોઈસન રેશિયો શૂન્ય હોય તેનો અર્થ પદાર્થમાં કોઈ લેટરલ ડિફોર્મેશન થતું નથી (રિજિડ વર્તણૂક)[cite: 3]."
+    "explanation": "પોઈસન રેશિયો શૂન્ય હોય તેનો અર્થ પદાર્થમાં કોઈ લેટરલ ડિફોર્મેશન થતું નથી (રિજિડ વર્તણૂક)[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 37,
@@ -552,7 +552,7 @@
       "1.0 થી 1.5"
     ],
     "correctAnswer": 1,
-    "explanation": "એન્જિનિયરિંગ ધાતુઓ માટે પોઈસન રેશિયો સામાન્ય રીતે 0.25 થી 0.33 હોય છે[cite: 3]."
+    "explanation": "એન્જિનિયરિંગ ધાતુઓ માટે પોઈસન રેશિયો સામાન્ય રીતે 0.25 થી 0.33 હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 38,
@@ -567,7 +567,7 @@
       "E = 2G(1 + 2μ)"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇલાસ્ટિક કોન્સ્ટન્ટ્સ વચ્ચેનો સાચો સંબંધ E = 2G(1 + μ) છે[cite: 3]."
+    "explanation": "ઇલાસ્ટિક કોન્સ્ટન્ટ્સ વચ્ચેનો સાચો સંબંધ E = 2G(1 + μ) છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 39,
@@ -582,7 +582,7 @@
       "wl⁴ / 2E"
     ],
     "correctAnswer": 1,
-    "explanation": "એકમ કદના વજન w માટે સ્વ-વજનથી ઇલોન્ગેશન δ = wl² / (2E) થાય છે[cite: 3]."
+    "explanation": "એકમ વોલ્યુમના વજન w માટે સ્વ-વજનથી ઇલોન્ગેશન δ = wl² / (2E) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 40,
@@ -597,7 +597,7 @@
       "E = 3K(1 + 2μ)"
     ],
     "correctAnswer": 0,
-    "explanation": "E અને K વચ્ચેનો સાચો સંબંધ E = 3K(1 - 2μ) છે[cite: 3]."
+    "explanation": "E અને K વચ્ચેનો સાચો સંબંધ E = 3K(1 - 2μ) છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 41,
@@ -612,7 +612,7 @@
       "E = (3KG) / (K + 9G)"
     ],
     "correctAnswer": 0,
-    "explanation": "E, K અને G વચ્ચેનો સાચો સંબંધ E = (9KG) / (3K + G) છે[cite: 3]."
+    "explanation": "E, K અને G વચ્ચેનો સાચો સંબંધ E = (9KG) / (3K + G) છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 42,
@@ -627,7 +627,7 @@
       "0"
     ],
     "correctAnswer": 1,
-    "explanation": "બંને છેડે ફિક્સ રોડ માટે થર્મલ સ્ટ્રેસ σ = α · T · E થાય છે[cite: 3]."
+    "explanation": "બંને છેડે ફિક્સ રોડ માટે થર્મલ સ્ટ્રેસ σ = α · T · E થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 43,
@@ -639,10 +639,10 @@
       "સંપૂર્ણ ઇલાસ્ટિક",
       "સંપૂર્ણ ઈનકોમ્પ્રેસિબલ",
       "અત્યંત બરડ",
-      "દળદાર"
+      "માસદાર"
     ],
     "correctAnswer": 1,
-    "explanation": "μ = 0.5 હોય ત્યારે વોલ્યુમેટ્રિક સ્ટ્રેઈન શૂન્ય બને છે, એટલે કે મટીરીયલ સંપૂર્ણ ઇનકોમ્પ્રેસિબલ (દા.ત. રબર) ગણાય છે[cite: 3]."
+    "explanation": "μ = 0.5 હોય ત્યારે વોલ્યુમેટ્રિક સ્ટ્રેઈન શૂન્ય બને છે, એટલે કે મટીરીયલ સંપૂર્ણ ઇનકોમ્પ્રેસિબલ (દા.ત. રબર) ગણાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 44,
@@ -657,7 +657,7 @@
       "0.125"
     ],
     "correctAnswer": 1,
-    "explanation": "E = 3K(1 - 2μ) માં E = K મૂકતાં: 1 = 3(1 - 2μ) => 1 - 2μ = 1/3 => 2μ = 2/3 => μ = 1/3 ≈ 0.33[cite: 3]."
+    "explanation": "E = 3K(1 - 2μ) માં E = K મૂકતાં: 1 = 3(1 - 2μ) => 1 - 2μ = 1/3 => 2μ = 2/3 => μ = 1/3 ≈ 0.33[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 45,
@@ -672,7 +672,7 @@
       "E = 2K(1 - 2μ)"
     ],
     "correctAnswer": 0,
-    "explanation": "E અને K વચ્ચેનો સાચો સંબંધ E = 3K(1 - 2μ) છે[cite: 3]."
+    "explanation": "E અને K વચ્ચેનો સાચો સંબંધ E = 3K(1 - 2μ) છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 46,
@@ -687,7 +687,7 @@
       "1.5"
     ],
     "correctAnswer": 1,
-    "explanation": "E/G = 2(1 + μ) = 2(1 + 0.25) = 2.5[cite: 3]."
+    "explanation": "E/G = 2(1 + μ) = 2(1 + 0.25) = 2.5[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 47,
@@ -702,7 +702,7 @@
       "0.33"
     ],
     "correctAnswer": 1,
-    "explanation": "E = 2G(1 + μ) => 200 = 2(80)(1 + μ) => 1 + μ = 200/160 = 1.25 => μ = 0.25[cite: 3]."
+    "explanation": "E = 2G(1 + μ) => 200 = 2(80)(1 + μ) => 1 + μ = 200/160 = 1.25 => μ = 0.25[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 48,
@@ -717,7 +717,7 @@
       "કોમ્પ્રેસિવ સ્ટ્રેસ"
     ],
     "correctAnswer": 0,
-    "explanation": "કોઈ અવરોધ ન હોવાથી મુક્ત વિસ્તરણમાં કોઈ સ્ટ્રેસ ઉત્પન્ન થતો નથી[cite: 3]."
+    "explanation": "કોઈ અવરોધ ન હોવાથી મુક્ત વિસ્તરણમાં કોઈ સ્ટ્રેસ ઉત્પન્ન થતો નથી[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 49,
@@ -732,7 +732,7 @@
       "0.50"
     ],
     "correctAnswer": 0,
-    "explanation": "2G(1 + μ) = 3K(1 - 2μ). G = K મૂકતાં: 2 + 2μ = 3 - 6μ => 8μ = 1 => μ = 1/8 = 0.125[cite: 3]."
+    "explanation": "2G(1 + μ) = 3K(1 - 2μ). G = K મૂકતાં: 2 + 2μ = 3 - 6μ => 8μ = 1 => μ = 1/8 = 0.125[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 50,
@@ -747,7 +747,7 @@
       "પોઈસન રેશિયો"
     ],
     "correctAnswer": 2,
-    "explanation": "વોલ્યુમમાં ફેરફારનો વિરોધ કરવાની ક્ષમતા બલ્ક મોડ્યુલસ (K) દર્શાવે છે[cite: 3]."
+    "explanation": "વોલ્યુમમાં ફેરફારનો વિરોધ કરવાની ક્ષમતા બલ્ક મોડ્યુલસ (K) દર્શાવે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 51,
@@ -762,7 +762,7 @@
       "1:3"
     ],
     "correctAnswer": 1,
-    "explanation": "ટેપરિંગ બારનું ઇલોન્ગેશન δ ∝ 1/d₂ હોવાથી: δA/δB = (D/3) / (D/2) = 2/3 એટલે કે 2:3[cite: 3]."
+    "explanation": "ટેપરિંગ બારનું ઇલોન્ગેશન δ ∝ 1/d₂ હોવાથી: δA/δB = (D/3) / (D/2) = 2/3 એટલે કે 2:3[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 52,
@@ -777,7 +777,7 @@
       "પ્રેશર"
     ],
     "correctAnswer": 2,
-    "explanation": "પોઈસન રેશિયો એ બે સ્ટ્રેઈનનો ગુણોત્તર હોવાથી પરિમાણરહિત (ડાયમેન્શનલેસ) છે[cite: 3]."
+    "explanation": "પોઈસન રેશિયો એ બે સ્ટ્રેઈનનો ગુણોત્તર હોવાથી પરિમાણરહિત (ડાયમેન્શનલેસ) છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 53,
@@ -792,7 +792,7 @@
       "0.45 થી 0.50"
     ],
     "correctAnswer": 3,
-    "explanation": "રબર સંપૂર્ણપણે ઇનકોમ્પ્રેસિબલ હોવાથી તેનો પોઈસન રેશિયો 0.45 થી 0.50 હોય છે[cite: 3]."
+    "explanation": "રબર સંપૂર્ણપણે ઇનકોમ્પ્રેસિબલ હોવાથી તેનો પોઈસન રેશિયો 0.45 થી 0.50 હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 54,
@@ -807,7 +807,7 @@
       "બ્રેકિંગ સ્ટ્રેસ"
     ],
     "correctAnswer": 1,
-    "explanation": "ચોક્કસ પરમેનન્ટ સેટ (દા.ત. 0.2%) માટેના સ્ટ્રેસને પ્રૂફ સ્ટ્રેસ (Proof Stress) કહે છે[cite: 3]."
+    "explanation": "ચોક્કસ પરમેનન્ટ સેટ (દા.ત. 0.2%) માટેના સ્ટ્રેસને પ્રૂફ સ્ટ્રેસ (Proof Stress) કહે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 55,
@@ -822,7 +822,7 @@
       "9"
     ],
     "correctAnswer": 0,
-    "explanation": "આઈસોટ્રોપિક મટીરીયલ માટે સ્વતંત્ર ઇલાસ્ટિક કોન્સ્ટન્ટ્સની સંખ્યા 2 હોય છે (દા.ત. E અને μ)[cite: 3]."
+    "explanation": "આઈસોટ્રોપિક મટીરીયલ માટે સ્વતંત્ર ઇલાસ્ટિક કોન્સ્ટન્ટ્સની સંખ્યા 2 હોય છે (દા.ત. E અને μ)[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 56,
@@ -837,7 +837,7 @@
       "ઇલાસ્ટિક સ્ટ્રેસ અને વર્કિંગ સ્ટ્રેસ"
     ],
     "correctAnswer": 0,
-    "explanation": "ફેક્ટર ઓફ સેફ્ટી = અલ્ટીમેટ સ્ટ્રેસ / વર્કિંગ સ્ટ્રેસ[cite: 3]."
+    "explanation": "ફેક્ટર ઓફ સેફ્ટી = અલ્ટીમેટ સ્ટ્રેસ / વર્કિંગ સ્ટ્રેસ[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 57,
@@ -852,7 +852,7 @@
       "સિમ્પલી સપોર્ટેડ બીમ"
     ],
     "correctAnswer": 3,
-    "explanation": "એક છેડે હિન્જ અને બીજા છેડે રોલર સપોર્ટ ધરાવતા બીમને સિમ્પલી સપોર્ટેડ બીમ કહે છે[cite: 3]."
+    "explanation": "એક છેડે હિન્જ અને બીજા છેડે રોલર સપોર્ટ ધરાવતા બીમને સિમ્પલી સપોર્ટેડ બીમ કહે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 58,
@@ -867,7 +867,7 @@
       "1.0"
     ],
     "correctAnswer": 0,
-    "explanation": "કોર્ક માટે લેટરલ સ્ટ્રેઈન લગભગ શૂન્ય હોવાથી પોઈસન રેશિયો 0 હોય છે[cite: 3]."
+    "explanation": "કોર્ક માટે લેટરલ સ્ટ્રેઈન લગભગ શૂન્ય હોવાથી પોઈસન રેશિયો 0 હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 59,
@@ -882,7 +882,7 @@
       "N/m"
     ],
     "correctAnswer": 1,
-    "explanation": "બલ્ક મોડ્યુલસનો એકમ સ્ટ્રેસ જેવો જ N/m² (પાસ્કલ) હોય છે[cite: 3]."
+    "explanation": "બલ્ક મોડ્યુલસનો એકમ સ્ટ્રેસ જેવો જ N/m² (પાસ્કલ) હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 60,
@@ -897,7 +897,7 @@
       "wl³ / 2"
     ],
     "correctAnswer": 2,
-    "explanation": "UVL માટે કુલ ભાર = wl/2 અને સેન્ટ્રોઇડ = l/3 હોવાથી M = (wl/2) × (l/3) = wl²/6 થાય છે[cite: 3]."
+    "explanation": "UVL માટે કુલ ભાર = wl/2 અને સેન્ટ્રોઇડ = l/3 હોવાથી M = (wl/2) × (l/3) = wl²/6 થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 61,
@@ -912,7 +912,7 @@
       "નોર્મલ સ્ટ્રેસ જેટલું"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્રિન્સિપલ પ્લેન પર શીયર સ્ટ્રેસ હંમેશા શૂન્ય હોય છે[cite: 3]."
+    "explanation": "પ્રિન્સિપલ પ્લેન પર શીયર સ્ટ્રેસ હંમેશા શૂન્ય હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 62,
@@ -927,7 +927,7 @@
       "પ્રિન્સિપલ સ્ટ્રેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "મોહર્સ સર્કલની ત્રિજ્યા મેક્સિમમ શીયર સ્ટ્રેસ (τ_max) દર્શાવે છે[cite: 3]."
+    "explanation": "મોહર્સ સર્કલની ત્રિજ્યા મેક્સિમમ શીયર સ્ટ્રેસ (τ_max) દર્શાવે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 63,
@@ -942,7 +942,7 @@
       "વ્યાસ"
     ],
     "correctAnswer": 1,
-    "explanation": "EI(d²y/dx²) નું પ્રથમ ઇન્ટિગ્રેશન સ્લોપ (dy/dx) આપે છે[cite: 3]."
+    "explanation": "EI(d²y/dx²) નું પ્રથમ ઇન્ટિગ્રેશન સ્લોપ (dy/dx) આપે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 64,
@@ -957,7 +957,7 @@
       "એવરેજ સ્ટ્રેસ"
     ],
     "correctAnswer": 1,
-    "explanation": "કોઈપણ વ્યાસના છેડા પરસ્પર લંબ સમતલો પરના સ્ટ્રેસ દર્શાવે છે, જે પ્રિન્સિપલ સ્ટ્રેસ સાથે સંબંધિત છે[cite: 3]."
+    "explanation": "કોઈપણ વ્યાસના છેડા પરસ્પર લંબ સમતલો પરના સ્ટ્રેસ દર્શાવે છે, જે પ્રિન્સિપલ સ્ટ્રેસ સાથે સંબંધિત છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 65,
@@ -972,7 +972,7 @@
       "σx + σy"
     ],
     "correctAnswer": 0,
-    "explanation": "મોહર્સ સર્કલના કેન્દ્રના યામ ((σx + σy)/2, 0) હોય છે[cite: 3]."
+    "explanation": "મોહર્સ સર્કલના કેન્દ્રના યામ ((σx + σy)/2, 0) હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 66,
@@ -987,7 +987,7 @@
       "4Ml² / (2EI)"
     ],
     "correctAnswer": 0,
-    "explanation": "છેડે મોમેન્ટ M લાગતા કેન્ટિલિવરનું મહત્તમ ડિફ્લેક્શન δ = Ml² / (2EI) થાય છે[cite: 3]."
+    "explanation": "છેડે મોમેન્ટ M લાગતા કેન્ટિલિવરનું મહત્તમ ડિફ્લેક્શન δ = Ml² / (2EI) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 67,
@@ -1002,7 +1002,7 @@
       "80 MPa"
     ],
     "correctAnswer": 2,
-    "explanation": "ત્રિજ્યા R = (σx - σy)/2 = (100 - 20)/2 = 40 MPa[cite: 3]."
+    "explanation": "ત્રિજ્યા R = (σx - σy)/2 = (100 - 20)/2 = 40 MPa[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 68,
@@ -1017,7 +1017,7 @@
       "x-અક્ષના નેગેટિવ ભાગ પર"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્યોર શીયરમાં σx = -σy = 0 હોવાથી કેન્દ્ર ઉગમબિંદુ (Origin) પર આવેલું હોય છે[cite: 3]."
+    "explanation": "પ્યોર શીયરમાં σx = -σy = 0 હોવાથી કેન્દ્ર ઉગમબિંદુ (Origin) પર આવેલું હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 69,
@@ -1032,7 +1032,7 @@
       "(i) અને (ii)"
     ],
     "correctAnswer": 1,
-    "explanation": "મેક્સવેલનો પ્રમેય ઊર્જા સંરક્ષણ અને સુપરપોઝિશનના સિદ્ધાંત પર આધારિત છે[cite: 3]."
+    "explanation": "મેક્સવેલનો પ્રમેય ઊર્જા સંરક્ષણ અને સુપરપોઝિશનના સિદ્ધાંત પર આધારિત છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 70,
@@ -1047,7 +1047,7 @@
       "મહત્તમ"
     ],
     "correctAnswer": 0,
-    "explanation": "પ્લેન સ્ટ્રેસ કન્ડિશનમાં σz = τxz = τyz = 0 (શૂન્ય) લેવામાં આવે છે[cite: 3]."
+    "explanation": "પ્લેન સ્ટ્રેસ કન્ડિશનમાં σz = τxz = τyz = 0 (શૂન્ય) લેવામાં આવે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 71,
@@ -1062,7 +1062,7 @@
       "પરવલય"
     ],
     "correctAnswer": 0,
-    "explanation": "ત્રિજ્યા R = (σ1 - σ2)/2 = 0 થતાં મોહર્સ સર્કલ એક બિંદુ (Point) બની જાય છે[cite: 3]."
+    "explanation": "ત્રિજ્યા R = (σ1 - σ2)/2 = 0 થતાં મોહર્સ સર્કલ એક બિંદુ (Point) બની જાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 72,
@@ -1077,7 +1077,7 @@
       "94.65 kW"
     ],
     "correctAnswer": 3,
-    "explanation": "T = (π/16) × τ × d³ = (π/16) × 60 × 80³ = 6031.85 Nm. Power P = 2πNT/60 = (2π × 150 × 6031.85)/60 ≈ 94.74 kW[cite: 3]."
+    "explanation": "T = (π/16) × τ × d³ = (π/16) × 60 × 80³ = 6031.85 Nm. Power P = 2πNT/60 = (2π × 150 × 6031.85)/60 ≈ 94.74 kW[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 73,
@@ -1092,7 +1092,7 @@
       "સ્ટ્રેન"
     ],
     "correctAnswer": 1,
-    "explanation": "મોહર્સ સર્કલમાં x-ધરી નોર્મલ સ્ટ્રેસ (σ) દર્શાવે છે[cite: 3]."
+    "explanation": "મોહર્સ સર્કલમાં x-ધરી નોર્મલ સ્ટ્રેસ (σ) દર્શાવે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 74,
@@ -1107,7 +1107,7 @@
       "15 MPa"
     ],
     "correctAnswer": 0,
-    "explanation": "τ ∝ 1/d³. વ્યાસ બમણો કરતાં τ' = 240 / 2³ = 240 / 8 = 30 MPa[cite: 3]."
+    "explanation": "τ ∝ 1/d³. વ્યાસ બમણો કરતાં τ' = 240 / 2³ = 240 / 8 = 30 MPa[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 75,
@@ -1122,14 +1122,14 @@
       "180°"
     ],
     "correctAnswer": 1,
-    "explanation": "વાસ્તવિક પ્લેન પર પ્રિન્સિપલ પ્લેન અને મેક્સિમમ શીયર પ્લેન વચ્ચેનો ખૂણો 45° હોય છે[cite: 3]."
+    "explanation": "વાસ્તવિક પ્લેન પર પ્રિન્સિપલ પ્લેન અને મેક્સિમમ શીયર પ્લેન વચ્ચેનો ખૂણો 45° હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 76,
     "subject": "Mechanics of Materials",
     "subTopic": "Thin Cylinders",
     "question": "What is the formula to find Hoop stress in a thin cylinder? (P = internal pressure, d = diameter, t = thickness)",
-    "gujaratiQuestion": "076. થિન સિલિન્ડરમાં હૂપ સ્ટ્રેસ (Hoop stress) શોધવાનું સૂત્ર કયું છે? (P = આંતરિક દબાણ, d = વ્યાસ, t = જાડાઈ)",
+    "gujaratiQuestion": "076. થિન સિલિન્ડરમાં હૂપ સ્ટ્રેસ (Hoop stress) શોધવાનું સૂત્ર કયું છે? (P = આંતરિક પ્રેશર, d = વ્યાસ, t = જાડાઈ)",
     "options": [
       "Pd / t",
       "Pd / (2t)",
@@ -1137,7 +1137,7 @@
       "2Pd / t"
     ],
     "correctAnswer": 1,
-    "explanation": "થિન સિલિન્ડરમાં સર્કમફરન્શિયલ અથવા હૂપ સ્ટ્રેસ σ_h = Pd / (2t) સૂત્ર દ્વારા મળે છે[cite: 3]."
+    "explanation": "થિન સિલિન્ડરમાં સર્કમફરન્શિયલ અથવા હૂપ સ્ટ્રેસ σ_h = Pd / (2t) સૂત્ર દ્વારા મળે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 77,
@@ -1152,7 +1152,7 @@
       "આમાંથી એક પણ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "થીક સિલિન્ડરમાં સ્ટ્રેસ એનાલિસિસ માટે લામેની થિયરી (Lame's Theory) નો ઉપયોગ થાય છે[cite: 3]."
+    "explanation": "થીક સિલિન્ડરમાં સ્ટ્રેસ એનાલિસિસ માટે લામેની થિયરી (Lame's Theory) નો ઉપયોગ થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 78,
@@ -1167,7 +1167,7 @@
       "Pd / (8t)"
     ],
     "correctAnswer": 2,
-    "explanation": "થિન સિલિન્ડરમાં લોન્ગિટ્યુડિનલ સ્ટ્રેસ σ_l = Pd / (4t) થાય છે[cite: 3]."
+    "explanation": "થિન સિલિન્ડરમાં લોન્ગિટ્યુડિનલ સ્ટ્રેસ σ_l = Pd / (4t) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 79,
@@ -1182,7 +1182,7 @@
       "4:1"
     ],
     "correctAnswer": 1,
-    "explanation": "હૂપ સ્ટ્રેસ [Pd/(2t)] એ લોન્ગિટ્યુડિનલ સ્ટ્રેસ [Pd/(4t)] કરતાં બમણો હોવાથી ગુણોત્તર 2:1 થાય છે[cite: 3]."
+    "explanation": "હૂપ સ્ટ્રેસ [Pd/(2t)] એ લોન્ગિટ્યુડિનલ સ્ટ્રેસ [Pd/(4t)] કરતાં બમણો હોવાથી ગુણોત્તર 2:1 થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 80,
@@ -1197,7 +1197,7 @@
       "40 MPa"
     ],
     "correctAnswer": 2,
-    "explanation": "લામેના સમીકરણ મુજબ અંદરની સપાટી પર હૂપ સ્ટ્રેસ σ_h = P*(r2² + r1²)/(r2² - r1²) = 60*(10² + 5²)/(10² - 5²) = 60*(125/75) = 100 MPa[cite: 3]."
+    "explanation": "લામેના સમીકરણ મુજબ અંદરની સપાટી પર હૂપ સ્ટ્રેસ σ_h = P*(r2² + r1²)/(r2² - r1²) = 60*(10² + 5²)/(10² - 5²) = 60*(125/75) = 100 MPa[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 81,
@@ -1212,7 +1212,7 @@
       "t/d > 1/10"
     ],
     "correctAnswer": 0,
-    "explanation": "જ્યારે જાડાઈ અને વ્યાસનો ગુણોત્તર (t/d) 1/20 કરતાં ઓછો હોય, ત્યારે તેને થિન સિલિન્ડર ગણવામાં આવે છે[cite: 3]."
+    "explanation": "જ્યારે જાડાઈ અને વ્યાસનો ગુણોત્તર (t/d) 1/20 કરતાં ઓછો હોય, ત્યારે તેને થિન સિલિન્ડર ગણવામાં આવે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 82,
@@ -1227,7 +1227,7 @@
       "2Pd / t"
     ],
     "correctAnswer": 1,
-    "explanation": "ગોળાકાર થિન શેલમાં દરેક દિશામાં સમાન ટેન્સાઈલ સ્ટ્રેસ σ = Pd / (4t) ઉત્પન્ન થાય છે[cite: 3]."
+    "explanation": "ગોળાકાર થિન શેલમાં દરેક દિશામાં સમાન ટેન્સાઈલ સ્ટ્રેસ σ = Pd / (4t) ઉત્પન્ન થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 83,
@@ -1242,14 +1242,14 @@
       "ટેન્સાઈલ, કોમ્પ્રેસિવ અને ટેન્સાઈલ"
     ],
     "correctAnswer": 3,
-    "explanation": "આંતરિક દબાણવાળા થીક સિલિન્ડરમાં હૂપ સ્ટ્રેસ ટેન્સાઈલ, રેડિયલ સ્ટ્રેસ કોમ્પ્રેસિવ અને લોન્ગિટ્યુડિનલ સ્ટ્રેસ ટેન્સાઈલ હોય છે[cite: 3]."
+    "explanation": "આંતરિક પ્રેશરવાળા થીક સિલિન્ડરમાં હૂપ સ્ટ્રેસ ટેન્સાઈલ, રેડિયલ સ્ટ્રેસ કોમ્પ્રેસિવ અને લોન્ગિટ્યુડિનલ સ્ટ્રેસ ટેન્સાઈલ હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 84,
     "subject": "Mechanics of Materials",
     "subTopic": "Thin Cylinders",
     "question": "What type of stress is produced in a thin cylinder due to internal pressure?",
-    "gujaratiQuestion": "084. થિન સિલિન્ડરમાં આંતરિક દબાણને કારણે કયા પ્રકારના સ્ટ્રેસ ઉત્પન્ન થાય છે?",
+    "gujaratiQuestion": "084. થિન સિલિન્ડરમાં આંતરિક પ્રેશરને કારણે કયા પ્રકારના સ્ટ્રેસ ઉત્પન્ન થાય છે?",
     "options": [
       "માત્ર કોમ્પ્રેસિવ સ્ટ્રેસ",
       "માત્ર શીયર સ્ટ્રેસ",
@@ -1257,7 +1257,7 @@
       "બેન્ડિંગ સ્ટ્રેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "આંતરિક દબાણને લીધે સિલિન્ડરની દીવાલ પર મુખ્યત્વે ટેન્સાઈલ (ખેંચાણ) સ્ટ્રેસ પેદા થાય છે[cite: 3]."
+    "explanation": "આંતરિક પ્રેશરને લીધે સિલિન્ડરની દીવાલ પર મુખ્યત્વે ટેન્સાઈલ (ખેંચાણ) સ્ટ્રેસ પેદા થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 85,
@@ -1272,7 +1272,7 @@
       "શૂન્ય"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇન-પ્લેન મહત્તમ શીયર સ્ટ્રેસ τ_max = (σ_h - σ_l) / 2 = [Pd/(2t) - Pd/(4t)] / 2 = Pd / (8t) થાય છે[cite: 3]."
+    "explanation": "ઇન-પ્લેન મહત્તમ શીયર સ્ટ્રેસ τ_max = (σ_h - σ_l) / 2 = [Pd/(2t) - Pd/(4t)] / 2 = Pd / (8t) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 86,
@@ -1287,7 +1287,7 @@
       "સ્લેન્ડરનેસ રેશિયો અને ક્રોસ સેક્શનલ એરિયા"
     ],
     "correctAnswer": 0,
-    "explanation": "ઓઈલરના બકલિંગ સ્ટ્રેસ સૂત્ર σ_cr = π²E / λ² મુજબ તે મોડ્યુલસ ઓફ ઇલાસ્ટિસિટી (E) અને સ્લેન્ડરનેસ રેશિયો (λ) પર આધાર રાખે છે[cite: 3]."
+    "explanation": "ઓઈલરના બકલિંગ સ્ટ્રેસ સૂત્ર σ_cr = π²E / λ² મુજબ તે મોડ્યુલસ ઓફ ઇલાસ્ટિસિટી (E) અને સ્લેન્ડરનેસ રેશિયો (λ) પર આધાર રાખે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 87,
@@ -1302,7 +1302,7 @@
       "હોલો સિલિન્ડર"
     ],
     "correctAnswer": 2,
-    "explanation": "કોઈપણ સાંધા કે વેલ્ડ વગર સીધા ધાતુમાંથી ખેંચીને બનાવેલા સિલિન્ડરને સીમલેસ સિલિન્ડર કહે છે[cite: 3]."
+    "explanation": "કોઈપણ સાંધા કે વેલ્ડ વગર સીધા ધાતુમાંથી ખેંચીને બનાવેલા સિલિન્ડરને સીમલેસ સિલિન્ડર કહે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 88,
@@ -1317,14 +1317,14 @@
       "સમાન રહેશે"
     ],
     "correctAnswer": 1,
-    "explanation": "હૂપ સ્ટ્રેસ σ_h = Pd / (2t) હોવાથી વ્યાસ d બમણો થતાં સ્ટ્રેસ પણ બમણો થાય છે[cite: 3]."
+    "explanation": "હૂપ સ્ટ્રેસ σ_h = Pd / (2t) હોવાથી વ્યાસ d બમણો થતાં સ્ટ્રેસ પણ બમણો થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 89,
     "subject": "Mechanics of Materials",
     "subTopic": "Stress & Strain",
     "question": "A circular rod of length L, area A, modulus E, and thermal coefficient α has one end fixed and other free. If temperature increases by ΔT:",
-    "gujaratiQuestion": "089. 'L' લંબાઈ અને 'A' ક્રોસ-સેક્શનલ એરિયા ધરાવતા સર્ક્યુલર રોડનો મોડ્યુલસ ઓફ ઇલાસ્ટિસિટી 'E' અને કોએફિશિયન્ટ ઓફ થર્મલ એક્સપાન્શન 'α' છે. રોડનો એક છેડો ફિક્સ અને બીજો છેડો ફ્રી છે. જો રોડનું તાપમાન ΔT જેટલું વધારવામાં આવે, તોઃ",
+    "gujaratiQuestion": "089. 'L' લંબાઈ અને 'A' ક્રોસ-સેક્શનલ એરિયા ધરાવતા સર્ક્યુલર રોડનો મોડ્યુલસ ઓફ ઇલાસ્ટિસિટી 'E' અને કોએફિશિયન્ટ ઓફ થર્મલ એક્સપાન્શન 'α' છે. રોડનો એક છેડો ફિક્સ અને બીજો છેડો ફ્રી છે. જો રોડનું ટેમ્પરેચર ΔT જેટલું વધારવામાં આવે, તોઃ",
     "options": [
       "રોડમાં EαΔT સ્ટ્રેસ અને αΔT સ્ટ્રેઈન ઉત્પન્ન થશે",
       "ઉત્પન્ન થયેલ સ્ટ્રેસ અને સ્ટ્રેઇન બંને શૂન્ય હશે",
@@ -1332,7 +1332,7 @@
       "રોડમાં EαΔT સ્ટ્રેસ અને શૂન્ય સ્ટ્રેઇન ઉત્પન્ન થશે"
     ],
     "correctAnswer": 2,
-    "explanation": "છેડો ફ્રી હોવાથી મુક્ત વિસ્તરણ થશે જેથી સ્ટ્રેઈન ε = αΔT મળશે, પરંતુ કોઈ અવરોધ ન હોવાથી થર્મલ સ્ટ્રેસ શૂન્ય રહેશે[cite: 3]."
+    "explanation": "છેડો ફ્રી હોવાથી મુક્ત વિસ્તરણ થશે જેથી સ્ટ્રેઈન ε = αΔT મળશે, પરંતુ કોઈ અવરોધ ન હોવાથી થર્મલ સ્ટ્રેસ શૂન્ય રહેશે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 90,
@@ -1347,7 +1347,7 @@
       "વોલ્યુમેટ્રિક સ્ટ્રેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "હૂપ સ્ટ્રેસ એ લોન્ગિટ્યુડિનલ કરતાં બમણો (મહત્તમ) હોવાથી લિકેજ અને ફાટવાથી બચવા ડિઝાઈન હૂપ સ્ટ્રેસના આધારે થાય છે[cite: 3]."
+    "explanation": "હૂપ સ્ટ્રેસ એ લોન્ગિટ્યુડિનલ કરતાં બમણો (મહત્તમ) હોવાથી લિકેજ અને ફાટવાથી બચવા ડિઝાઈન હૂપ સ્ટ્રેસના આધારે થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 91,
@@ -1362,7 +1362,7 @@
       "અનંત"
     ],
     "correctAnswer": 2,
-    "explanation": "dM/dx = V હોવાથી જ્યારે શીયર ફોર્સ V = 0 થાય ત્યારે બેન્ડિંગ મોમેન્ટ મહત્તમ (Maximum) બને છે[cite: 3]."
+    "explanation": "dM/dx = V હોવાથી જ્યારે શીયર ફોર્સ V = 0 થાય ત્યારે બેન્ડિંગ મોમેન્ટ મહત્તમ (Maximum) બને છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 92,
@@ -1377,7 +1377,7 @@
       "100 N"
     ],
     "correctAnswer": 1,
-    "explanation": "ટોર્ક T = F × d => 4 Nm = F × 0.005 m => F = 4 / 0.005 = 800 N[cite: 3]."
+    "explanation": "ટોર્ક T = F × d => 4 Nm = F × 0.005 m => F = 4 / 0.005 = 800 N[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 93,
@@ -1392,7 +1392,7 @@
       "યીલ્ડ પોઈન્ટ"
     ],
     "correctAnswer": 1,
-    "explanation": "બેન્ડિંગ મોમેન્ટ પોતાનું ચિહ્ન બદલે તે બિંદુને પોઈન્ટ ઓફ કોન્ટ્રાફ્લેક્સર (Point of Contraflexure) કહે છે[cite: 3]."
+    "explanation": "બેન્ડિંગ મોમેન્ટ પોતાનું ચિહ્ન બદલે તે બિંદુને પોઈન્ટ ઓફ કોન્ટ્રાફ્લેક્સર (Point of Contraflexure) કહે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 94,
@@ -1407,7 +1407,7 @@
       "wL² / 12"
     ],
     "correctAnswer": 2,
-    "explanation": "આખી લંબાઈ પર UDL ધરાવતા સિમ્પલી સપોર્ટેડ બીમ માટે મહત્તમ બેન્ડિંગ મોમેન્ટ M_max = wL² / 8 થાય છે[cite: 3]."
+    "explanation": "આખી લંબાઈ પર UDL ધરાવતા સિમ્પલી સપોર્ટેડ બીમ માટે મહત્તમ બેન્ડિંગ મોમેન્ટ M_max = wL² / 8 થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 95,
@@ -1422,7 +1422,7 @@
       "મોડ્યુલસ ઓફ ઈલાસ્ટિસિટી"
     ],
     "correctAnswer": 1,
-    "explanation": "હાઇડ્રોસ્ટેટિક નોર્મલ સ્ટ્રેસ અને વોલ્યુમેટ્રિક સ્ટ્રેઈનના ગુણોત્તરને બલ્ક મોડ્યુલસ કહેવાય છે[cite: 3]."
+    "explanation": "હાઇડ્રોસ્ટેટિક નોર્મલ સ્ટ્રેસ અને વોલ્યુમેટ્રિક સ્ટ્રેઈનના ગુણોત્તરને બલ્ક મોડ્યુલસ કહેવાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 96,
@@ -1437,7 +1437,7 @@
       "2WL"
     ],
     "correctAnswer": 1,
-    "explanation": "છેડે બિંદુ ભાર W ધરાવતા કેન્ટિલિવર માટે ફિક્સ છેડે મોમેન્ટ M = W × L થાય છે[cite: 3]."
+    "explanation": "છેડે બિંદુ ભાર W ધરાવતા કેન્ટિલિવર માટે ફિક્સ છેડે મોમેન્ટ M = W × L થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 97,
@@ -1452,7 +1452,7 @@
       "ક્યુબિક વળાંક"
     ],
     "correctAnswer": 0,
-    "explanation": "લોડિંગ શૂન્ય હોવાથી dV/dx = 0 બને છે, જેથી SFD એક આડી સીધી રેખા (Horizontal straight line) બને છે[cite: 3]."
+    "explanation": "લોડિંગ શૂન્ય હોવાથી dV/dx = 0 બને છે, જેથી SFD એક આડી સીધી રેખા (Horizontal straight line) બને છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 98,
@@ -1467,7 +1467,7 @@
       "4PEL / (πD1D2)"
     ],
     "correctAnswer": 1,
-    "explanation": "ટેપરિંગ સર્ક્યુલર બાર માટે વિસ્તરણ δ = 4PL / (π · E · D1 · D2) થાય છે[cite: 3]."
+    "explanation": "ટેપરિંગ સર્ક્યુલર બાર માટે વિસ્તરણ δ = 4PL / (π · E · D1 · D2) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 99,
@@ -1482,7 +1482,7 @@
       "ગમે ત્યાં મળી શકે"
     ],
     "correctAnswer": 2,
-    "explanation": "કેન્દ્રિય પોઇન્ટ લોડ માટે શીયર ફોર્સ મધ્યમાં શૂન્ય થતો હોવાથી મહત્તમ બેન્ડિંગ મોમેન્ટ બીમના બરાબર મધ્યમાં મળે છે[cite: 3]."
+    "explanation": "કેન્દ્રિય પોઇન્ટ લોડ માટે શીયર ફોર્સ મધ્યમાં શૂન્ય થતો હોવાથી મહત્તમ બેન્ડિંગ મોમેન્ટ બીમના બરાબર મધ્યમાં મળે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 100,
@@ -1497,7 +1497,7 @@
       "WL"
     ],
     "correctAnswer": 1,
-    "explanation": "સેન્ટ્રલ પોઈન્ટ લોડ ધરાવતા સિમ્પલી સપોર્ટેડ બીમ માટે મહત્તમ બેન્ડિંગ મોમેન્ટ M_max = WL / 4 થાય છે[cite: 3]."
+    "explanation": "સેન્ટ્રલ પોઈન્ટ લોડ ધરાવતા સિમ્પલી સપોર્ટેડ બીમ માટે મહત્તમ બેન્ડિંગ મોમેન્ટ M_max = WL / 4 થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 101,
@@ -1512,7 +1512,7 @@
       "ત્રિકોણ, જેમાં બીમના એક છેડે ઓર્ડિનેટ મહત્તમ હશે"
     ],
     "correctAnswer": 2,
-    "explanation": "સેન્ટ્રલ પોઇન્ટ લોડ માટે BMD ત્રિકોણાકાર બને છે, જેમાં મધ્યમાં ઓર્ડિનેટ WL/4 મહત્તમ હોય છે[cite: 3]."
+    "explanation": "સેન્ટ્રલ પોઇન્ટ લોડ માટે BMD ત્રિકોણાકાર બને છે, જેમાં મધ્યમાં ઓર્ડિનેટ WL/4 મહત્તમ હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 102,
@@ -1527,7 +1527,7 @@
       "વર્તુળ"
     ],
     "correctAnswer": 2,
-    "explanation": "UDL હેઠળ મોમેન્ટ સમીકરણ બીજા ઘાતનું (2nd order) હોવાથી BMD પેરાબોલિક વળાંક બને છે[cite: 3]."
+    "explanation": "UDL હેઠળ મોમેન્ટ સમીકરણ બીજા ઘાતનું (2nd order) હોવાથી BMD પેરાબોલિક વળાંક બને છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 103,
@@ -1542,7 +1542,7 @@
       "M / 2"
     ],
     "correctAnswer": 2,
-    "explanation": "માત્ર પ્યોર મોમેન્ટ લાગતી હોય ત્યારે કોઈ ટ્રાન્સવર્સ લોડ ન હોવાથી શીયર ફોર્સ સમગ્ર બીમમાં શૂન્ય રહે છે[cite: 3]."
+    "explanation": "માત્ર પ્યોર મોમેન્ટ લાગતી હોય ત્યારે કોઈ ટ્રાન્સવર્સ લોડ ન હોવાથી શીયર ફોર્સ સમગ્ર બીમમાં શૂન્ય રહે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 104,
@@ -1557,7 +1557,7 @@
       "શૂન્ય"
     ],
     "correctAnswer": 3,
-    "explanation": "સિમ્પલી સપોર્ટેડ બીમના બંને છેડા મુક્ત રીતે ફરી શકતા હોવાથી સપોર્ટ આગળ બેન્ડિંગ મોમેન્ટ શૂન્ય હોય છે[cite: 3]."
+    "explanation": "સિમ્પલી સપોર્ટેડ બીમના બંને છેડા મુક્ત રીતે ફરી શકતા હોવાથી સપોર્ટ આગળ બેન્ડિંગ મોમેન્ટ શૂન્ય હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 105,
@@ -1572,7 +1572,7 @@
       "x + 2"
     ],
     "correctAnswer": 2,
-    "explanation": "dM/dx = V હોવાથી ઇન્ટિગ્રેશન કરવાથી BMD ની ઘાત SFD કરતાં એક વધારે (x + 1) થાય છે[cite: 3]."
+    "explanation": "dM/dx = V હોવાથી ઇન્ટિગ્રેશન કરવાથી BMD ની ઘાત SFD કરતાં એક વધારે (x + 1) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 106,
@@ -1587,7 +1587,7 @@
       "ડિફ્લેક્શન"
     ],
     "correctAnswer": 0,
-    "explanation": "SFD નો એરિયા ∫V dx એ તે બે બિંદુઓ વચ્ચેના બેન્ડિંગ મોમેન્ટમાં થતો ફેરફાર દર્શાવે છે[cite: 3]."
+    "explanation": "SFD નો એરિયા ∫V dx એ તે બે બિંદુઓ વચ્ચેના બેન્ડિંગ મોમેન્ટમાં થતો ફેરફાર દર્શાવે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 107,
@@ -1602,7 +1602,7 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "ટકાવારી ઇલોન્ગેશન વધુ હોવાનો અર્થ એ છે કે તે પદાર્થની ડક્ટિલિટી (તનનીયતા) વધારે છે[cite: 3]."
+    "explanation": "ટકાવારી ઇલોન્ગેશન વધુ હોવાનો અર્થ એ છે કે તે પદાર્થની ડક્ટિલિટી (તનનીયતા) વધારે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 108,
@@ -1617,7 +1617,7 @@
       "શૂન્ય"
     ],
     "correctAnswer": 1,
-    "explanation": "કેન્ટિલિવર પર ફિક્સ છેડે મહત્તમ શીયર ફોર્સ કુલ ભાર w × L જેટલો થાય છે[cite: 3]."
+    "explanation": "કેન્ટિલિવર પર ફિક્સ છેડે મહત્તમ શીયર ફોર્સ કુલ ભાર w × L જેટલો થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 109,
@@ -1632,7 +1632,7 @@
       "wL² / 8"
     ],
     "correctAnswer": 0,
-    "explanation": "આખી લંબાઈ પર UDL ધરાવતા કેન્ટિલિવર માટે ફિક્સ છેડે મહત્તમ મોમેન્ટ M = (wL) × (L/2) = wL² / 2 થાય છે[cite: 3]."
+    "explanation": "આખી લંબાઈ પર UDL ધરાવતા કેન્ટિલિવર માટે ફિક્સ છેડે મહત્તમ મોમેન્ટ M = (wL) × (L/2) = wL² / 2 થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 110,
@@ -1647,7 +1647,7 @@
       "સ્લોપ"
     ],
     "correctAnswer": 0,
-    "explanation": "EI (d²y/dx²) = મોમેન્ટ હોવાથી તેનું વિકલન EI (d³y/dx³) એ શીયર ફોર્સ (Shear force) દર્શાવે છે[cite: 3]."
+    "explanation": "EI (d²y/dx²) = મોમેન્ટ હોવાથી તેનું વિકલન EI (d³y/dx³) એ શીયર ફોર્સ (Shear force) દર્શાવે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 111,
@@ -1662,7 +1662,7 @@
       "સેન્ટર ઑફ ગ્રેવિટી"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓવરહેંગિંગ બીમમાં સેગિંગ અને હોગિંગ બંને મોમેન્ટ થતી હોવાથી પોઇન્ટ ઓફ કોન્ટ્રાફ્લેક્સર જોવા મળે છે[cite: 3]."
+    "explanation": "ઓવરહેંગિંગ બીમમાં સેગિંગ અને હોગિંગ બંને મોમેન્ટ થતી હોવાથી પોઇન્ટ ઓફ કોન્ટ્રાફ્લેક્સર જોવા મળે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 112,
@@ -1677,7 +1677,7 @@
       "ક્યુબિક વળાંક"
     ],
     "correctAnswer": 2,
-    "explanation": "UVL (1st degree load) માટે શીયર ફોર્સ ઇક્વેશન 2nd degree હોવાથી SFD પેરાબોલિક વળાંક બને છે[cite: 3]."
+    "explanation": "UVL (1st degree load) માટે શીયર ફોર્સ ઇક્વેશન 2nd degree હોવાથી SFD પેરાબોલિક વળાંક બને છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 113,
@@ -1692,7 +1692,7 @@
       "0.03 રેડિયન્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "UDL માટે δ = wL⁴/(8EI) અને θ = wL³/(6EI) => θ = (4/3) × (δ / L) = (4/3) × (0.0075 / 1) = 0.01 રેડિયન્સ[cite: 3]."
+    "explanation": "UDL માટે δ = wL⁴/(8EI) અને θ = wL³/(6EI) => θ = (4/3) × (δ / L) = (4/3) × (0.0075 / 1) = 0.01 રેડિયન્સ[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 114,
@@ -1707,7 +1707,7 @@
       "M/I = y/σ = R/E"
     ],
     "correctAnswer": 0,
-    "explanation": "બેન્ડિંગનું મૂળભૂત સમીકરણ M/I = σ/y = E/R છે[cite: 3]."
+    "explanation": "બેન્ડિંગનું મૂળભૂત સમીકરણ M/I = σ/y = E/R છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 115,
@@ -1722,7 +1722,7 @@
       "લઘુત્તમ"
     ],
     "correctAnswer": 2,
-    "explanation": "ન્યુટ્રલ એક્સિસ પર y = 0 હોવાથી બેન્ડિંગ સ્ટ્રેસ σ = (M/I) × y = 0 (શૂન્ય) હોય છે[cite: 3]."
+    "explanation": "ન્યુટ્રલ એક્સિસ પર y = 0 હોવાથી બેન્ડિંગ સ્ટ્રેસ σ = (M/I) × y = 0 (શૂન્ય) હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 116,
@@ -1737,7 +1737,7 @@
       "બેન્ડિંગ સ્ટ્રેસ"
     ],
     "correctAnswer": 1,
-    "explanation": "ટ્વિસ્ટિંગ મોમેન્ટ (ટોર્ક) શાફ્ટના આડછેદ પર શીયર સ્ટ્રેસ પેદા કરે છે[cite: 3]."
+    "explanation": "ટ્વિસ્ટિંગ મોમેન્ટ (ટોર્ક) શાફ્ટના આડછેદ પર શીયર સ્ટ્રેસ પેદા કરે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 117,
@@ -1752,7 +1752,7 @@
       "શૂન્ય થઈ જાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "ન્યુટ્રલ લેયરમાં ખેંચાણ કે સંકોચન ન થતું હોવાથી તેની લંબાઈમાં કોઈ ફેરફાર થતો નથી[cite: 3]."
+    "explanation": "ન્યુટ્રલ લેયરમાં ખેંચાણ કે સંકોચન ન થતું હોવાથી તેની લંબાઈમાં કોઈ ફેરફાર થતો નથી[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 118,
@@ -1767,7 +1767,7 @@
       "E / R"
     ],
     "correctAnswer": 1,
-    "explanation": "સેક્શન મોડ્યુલસ Z = I / y_max સૂત્ર વડે વ્યાખ્યાયિત થાય છે[cite: 3]."
+    "explanation": "સેક્શન મોડ્યુલસ Z = I / y_max સૂત્ર વડે વ્યાખ્યાયિત થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 119,
@@ -1782,7 +1782,7 @@
       "π(D⁴ - d⁴) / 64"
     ],
     "correctAnswer": 1,
-    "explanation": "હોલો શાફ્ટ માટે પોલર મોમેન્ટ ઓફ ઈનર્શિયા J = π(D⁴ - d⁴) / 32 થાય છે[cite: 3]."
+    "explanation": "હોલો શાફ્ટ માટે પોલર મોમેન્ટ ઓફ ઈનર્શિયા J = π(D⁴ - d⁴) / 32 થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 120,
@@ -1797,7 +1797,7 @@
       "વોલ્યુમેટ્રિક સ્ટ્રેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "નીચે તરફના ભારથી સેગિંગ થાય છે, જેના લીધે ન્યુટ્રલ એક્સિસની ઉપરના ફાઈબરમાં કોમ્પ્રેસિવ સ્ટ્રેસ ઉત્પન્ન થાય છે[cite: 3]."
+    "explanation": "નીચે તરફના ભારથી સેગિંગ થાય છે, જેના લીધે ન્યુટ્રલ એક્સિસની ઉપરના ફાઈબરમાં કોમ્પ્રેસિવ સ્ટ્રેસ ઉત્પન્ન થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 121,
@@ -1812,7 +1812,7 @@
       "બેન્ડિંગ શૂન્ય હોય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "સેગિંગ બેન્ડિંગને કારણે નીચેના ફાઈબરમાં ખેંચાણ પેદા થવાથી ટેન્સાઈલ સ્ટ્રેસ ઉત્પન્ન થાય છે[cite: 3]."
+    "explanation": "સેગિંગ બેન્ડિંગને કારણે નીચેના ફાઈબરમાં ખેંચાણ પેદા થવાથી ટેન્સાઈલ સ્ટ્રેસ ઉત્પન્ન થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 122,
@@ -1827,7 +1827,7 @@
       "ઉપરના તમામ."
     ],
     "correctAnswer": 3,
-    "explanation": "ટોર્શનલ સ્ટ્રેન્થ પોલર મોડ્યુલસ (Z_p) ના સીધા સમપ્રમાણમાં હોવાથી આપેલા તમામ વિધાનો સાચા છે[cite: 3]."
+    "explanation": "ટોર્શનલ સ્ટ્રેન્થ પોલર મોડ્યુલસ (Z_p) ના સીધા સમપ્રમાણમાં હોવાથી આપેલા તમામ વિધાનો સાચા છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 123,
@@ -1842,7 +1842,7 @@
       "2.0"
     ],
     "correctAnswer": 2,
-    "explanation": "લંબચોરસ આડછેદ માટે τ_max = 1.5 × τ_avg (એટલે કે ગુણોત્તર 1.5) થાય છે[cite: 3]."
+    "explanation": "લંબચોરસ આડછેદ માટે τ_max = 1.5 × τ_avg (એટલે કે ગુણોત્તર 1.5) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 124,
@@ -1857,7 +1857,7 @@
       "2.5"
     ],
     "correctAnswer": 0,
-    "explanation": "વર્તુળાકાર આડછેદ માટે τ_max = (4/3) × τ_avg = 1.33 × τ_avg થાય છે[cite: 3]."
+    "explanation": "વર્તુળાકાર આડછેદ માટે τ_max = (4/3) × τ_avg = 1.33 × τ_avg થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 125,
@@ -1872,7 +1872,7 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "થીક સિલિન્ડરમાં હૂપ સ્ટ્રેસ અંદરની સપાટી પર મહત્તમ હોય છે અને બહાર તરફ જતાં ઘટીને ન્યૂનતમ થાય છે[cite: 3]."
+    "explanation": "થીક સિલિન્ડરમાં હૂપ સ્ટ્રેસ અંદરની સપાટી પર મહત્તમ હોય છે અને બહાર તરફ જતાં ઘટીને ન્યૂનતમ થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 126,
@@ -1887,7 +1887,7 @@
       "વેબ અને ફ્લેન્જના જોડાણ પર"
     ],
     "correctAnswer": 2,
-    "explanation": "I-સેક્શન બીમમાં શીયર સ્ટ્રેસ વેબના મધ્યમાં ન્યુટ્રલ એક્સિસ પર મહત્તમ હોય છે[cite: 3]."
+    "explanation": "I-સેક્શન બીમમાં શીયર સ્ટ્રેસ વેબના મધ્યમાં ન્યુટ્રલ એક્સિસ પર મહત્તમ હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 127,
@@ -1902,7 +1902,7 @@
       "યંગ્સ મોડ્યુલસ"
     ],
     "correctAnswer": 0,
-    "explanation": "મોમેન્ટ ઓફ રેઝિસ્ટન્સ M = σ × Z હોવાથી બેન્ડિંગ સ્ટ્રેન્થ સેક્શન મોડ્યુલસ (Z) પર આધાર રાખે છે[cite: 3]."
+    "explanation": "મોમેન્ટ ઓફ રેઝિસ્ટન્સ M = σ × Z હોવાથી બેન્ડિંગ સ્ટ્રેન્થ સેક્શન મોડ્યુલસ (Z) પર આધાર રાખે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 128,
@@ -1917,7 +1917,7 @@
       "ઉપરનામાંથી કોઇપણ એક"
     ],
     "correctAnswer": 3,
-    "explanation": "આ લિમિટિંગ લોડને ક્રિટિકલ લોડ, બકલિંગ લોડ અથવા ક્રિપલિંગ લોડ તરીકે ઓળખવામાં આવે છે[cite: 3]."
+    "explanation": "આ લિમિટિંગ લોડને ક્રિટિકલ લોડ, બકલિંગ લોડ અથવા ક્રિપલિંગ લોડ તરીકે ઓળખવામાં આવે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 129,
@@ -1932,7 +1932,7 @@
       "σ અને y નો ગુણાકાર"
     ],
     "correctAnswer": 1,
-    "explanation": "યંગ્સ મોડ્યુલસ (E) અને મોમેન્ટ ઓફ ઈનર્શિયા (I) ના ગુણાકાર (EI) ને ફ્લેક્સરલ રિજિડિટી કહે છે[cite: 3]."
+    "explanation": "યંગ્સ મોડ્યુલસ (E) અને મોમેન્ટ ઓફ ઈનર્શિયા (I) ના ગુણાકાર (EI) ને ફ્લેક્સરલ રિજિડિટી કહે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 130,
@@ -1947,7 +1947,7 @@
       "આઠ ગણી"
     ],
     "correctAnswer": 2,
-    "explanation": "સેક્શન મોડ્યુલસ Z = bd² / 6 હોવાથી ઊંડાઈ d બમણી કરતાં Z ચાર ગણો (2² = 4) થાય છે[cite: 3]."
+    "explanation": "સેક્શન મોડ્યુલસ Z = bd² / 6 હોવાથી ઊંડાઈ d બમણી કરતાં Z ચાર ગણો (2² = 4) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 131,
@@ -1962,7 +1962,7 @@
       "ન્યૂનતમ રેડિયસ ઓફ ગાયરેશન અને કોલમના ક્રોસ-સેક્શનનો એરિયા"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્લેન્ડરનેસ રેશિયો λ = લંબાઈ (અથવા અસરકારક લંબાઈ) / લઘુત્તમ રેડિયસ ઓફ ગાયરેશન (k_min)[cite: 3]."
+    "explanation": "સ્લેન્ડરનેસ રેશિયો λ = લંબાઈ (અથવા અસરકારક લંબાઈ) / લઘુત્તમ રેડિયસ ઓફ ગાયરેશન (k_min)[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 132,
@@ -1977,7 +1977,7 @@
       "લંબચોરસ"
     ],
     "correctAnswer": 1,
-    "explanation": "લંબચોરસ બીમમાં શીયર સ્ટ્રેસ વિતરણ પેરાબોલિક (Parabolic) હોય છે, જે ન્યુટ્રલ એક્સિસ પર મહત્તમ બને છે[cite: 3]."
+    "explanation": "લંબચોરસ બીમમાં શીયર સ્ટ્રેસ વિતરણ પેરાબોલિક (Parabolic) હોય છે, જે ન્યુટ્રલ એક્સિસ પર મહત્તમ બને છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 133,
@@ -1992,7 +1992,7 @@
       "છેડામાંથી"
     ],
     "correctAnswer": 1,
-    "explanation": "બીમની ન્યુટ્રલ એક્સિસ હંમેશા તેના ક્રોસ-સેક્શનના સેન્ટ્રોઇડ (Centroid) માંથી પસાર થાય છે[cite: 3]."
+    "explanation": "બીમની ન્યુટ્રલ એક્સિસ હંમેશા તેના ક્રોસ-સેક્શનના સેન્ટ્રોઇડ (Centroid) માંથી પસાર થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 134,
@@ -2007,7 +2007,7 @@
       "F² / (16k)"
     ],
     "correctAnswer": 2,
-    "explanation": "દરેક સ્પ્રિંગ પર સમાન બળ F લાગે છે, તેથી એક સ્પ્રિંગમાં સ્ટ્રેઈન એનર્જી U = F² / (2k) થાય (આન્સર કી C મુજબ)[cite: 3]."
+    "explanation": "દરેક સ્પ્રિંગ પર સમાન બળ F લાગે છે, તેથી એક સ્પ્રિંગમાં સ્ટ્રેઈન એનર્જી U = F² / (2k) થાય (આન્સર કી C મુજબ)[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 135,
@@ -2022,7 +2022,7 @@
       "બીમના સેન્ટ્રોઈડ પર"
     ],
     "correctAnswer": 1,
-    "explanation": "બેન્ડિંગ સ્ટ્રેસ σ ∝ y હોવાથી તે ન્યુટ્રલ એક્સિસથી સૌથી દૂરના (સૌથી બહારના) ફાઇબરમાં મહત્તમ હોય છે[cite: 3]."
+    "explanation": "બેન્ડિંગ સ્ટ્રેસ σ ∝ y હોવાથી તે ન્યુટ્રલ એક્સિસથી સૌથી દૂરના (સૌથી બહારના) ફાઇબરમાં મહત્તમ હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 136,
@@ -2037,7 +2037,7 @@
       "બેન્ડિંગ મોમેન્ટ"
     ],
     "correctAnswer": 2,
-    "explanation": "ડિફ્લેક્શનનું સામાન્ય સૂત્ર δ ∝ 1/EI હોવાથી તે ફ્લેક્સરલ રિજિડિટીના વ્યસ્ત પ્રમાણમાં હોય છે[cite: 3]."
+    "explanation": "ડિફ્લેક્શનનું સામાન્ય સૂત્ર δ ∝ 1/EI હોવાથી તે ફ્લેક્સરલ રિજિડિટીના વ્યસ્ત પ્રમાણમાં હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 137,
@@ -2052,7 +2052,7 @@
       "60 MPa"
     ],
     "correctAnswer": 3,
-    "explanation": "મહત્તમ શીયર સ્ટ્રેસ τ_max = (σ_max - σ_min) / 2 = [80 - (-40)] / 2 = 120 / 2 = 60 MPa થાય[cite: 3]."
+    "explanation": "મહત્તમ શીયર સ્ટ્રેસ τ_max = (σ_max - σ_min) / 2 = [80 - (-40)] / 2 = 120 / 2 = 60 MPa થાય[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 138,
@@ -2067,7 +2067,7 @@
       "WL² / (2EI)"
     ],
     "correctAnswer": 0,
-    "explanation": "મુક્ત છેડે બિંદુ ભાર ધરાવતા કેન્ટિલિવર માટે મહત્તમ ડિફ્લેક્શન δ = WL³ / (3EI) થાય છે[cite: 3]."
+    "explanation": "મુક્ત છેડે બિંદુ ભાર ધરાવતા કેન્ટિલિવર માટે મહત્તમ ડિફ્લેક્શન δ = WL³ / (3EI) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 139,
@@ -2082,7 +2082,7 @@
       "wL³ / (8EI)"
     ],
     "correctAnswer": 1,
-    "explanation": "આખી લંબાઈ પર UDL ધરાવતા કેન્ટિલિવર માટે મુક્ત છેડે ડિફ્લેક્શન δ = wL⁴ / (8EI) થાય છે[cite: 3]."
+    "explanation": "આખી લંબાઈ પર UDL ધરાવતા કેન્ટિલિવર માટે મુક્ત છેડે ડિફ્લેક્શન δ = wL⁴ / (8EI) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 140,
@@ -2097,7 +2097,7 @@
       "59%"
     ],
     "correctAnswer": 3,
-    "explanation": "P ∝ I ∝ d⁴. નવો વ્યાસ = 0.8d => નવો લોડ = (0.8)⁴ = 0.4096P. ઘટાડો = 1 - 0.4096 = 59.04% ≈ 59%[cite: 3]."
+    "explanation": "P ∝ I ∝ d⁴. નવો વ્યાસ = 0.8d => નવો લોડ = (0.8)⁴ = 0.4096P. ઘટાડો = 1 - 0.4096 = 59.04% ≈ 59%[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 141,
@@ -2112,7 +2112,7 @@
       "5WL³ / (384EI)"
     ],
     "correctAnswer": 2,
-    "explanation": "સેન્ટ્રલ પોઈન્ટ લોડ ધરાવતા સિમ્પલી સપોર્ટેડ બીમ માટે મહત્તમ ડિફ્લેક્શન δ = WL³ / (48EI) થાય છે[cite: 3]."
+    "explanation": "સેન્ટ્રલ પોઈન્ટ લોડ ધરાવતા સિમ્પલી સપોર્ટેડ બીમ માટે મહત્તમ ડિફ્લેક્શન δ = WL³ / (48EI) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 142,
@@ -2127,7 +2127,7 @@
       "5wL³ / (384EI)"
     ],
     "correctAnswer": 0,
-    "explanation": "આખી લંબાઈ પર UDL માટે સિમ્પલી સપોર્ટેડ બીમનું મહત્તમ ડિફ્લેક્શન δ = 5wL⁴ / (384EI) થાય છે[cite: 3]."
+    "explanation": "આખી લંબાઈ પર UDL માટે સિમ્પલી સપોર્ટેડ બીમનું મહત્તમ ડિફ્લેક્શન δ = 5wL⁴ / (384EI) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 143,
@@ -2142,7 +2142,7 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "સંપૂર્ણ સ્થિતિસ્થાપક અથડામણમાં રૈખીય વેગમાન અને ગતિજ ઊર્જા બંને સંરક્ષિત રહે છે[cite: 3]."
+    "explanation": "સંપૂર્ણ સ્થિતિસ્થાપક અથડામણમાં રૈખીય વેલોસિટીમાન અને ગતિજ ઊર્જા બંને સંરક્ષિત રહે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 144,
@@ -2157,7 +2157,7 @@
       "સોળ ગણું"
     ],
     "correctAnswer": 2,
-    "explanation": "ડિફ્લેક્શન δ ∝ L³ હોવાથી લંબાઈ બમણી કરવાથી ડિફ્લેક્શન 2³ = 8 ગણું થાય છે[cite: 3]."
+    "explanation": "ડિફ્લેક્શન δ ∝ L³ હોવાથી લંબાઈ બમણી કરવાથી ડિફ્લેક્શન 2³ = 8 ગણું થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 145,
@@ -2172,7 +2172,7 @@
       "આપેલ તમામ"
     ],
     "correctAnswer": 3,
-    "explanation": "બીમનો સ્લોપ અને ડિફ્લેક્શન શોધવા મેકાઉલે, મોહર અને સ્ટ્રેઈન એનર્જી તમામ રીતો વપરાય છે[cite: 3]."
+    "explanation": "બીમનો સ્લોપ અને ડિફ્લેક્શન શોધવા મેકાઉલે, મોહર અને સ્ટ્રેઈન એનર્જી તમામ રીતો વપરાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 146,
@@ -2187,7 +2187,7 @@
       "પ્રિન્સિપલ શિયર સ્ટ્રેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "હૂપ સ્ટ્રેસ સિલિન્ડરમાં સૌથી મોટો સ્ટ્રેસ હોવાથી જાડાઈ t = Pd / (2σ_permissible) મુજબ નક્કી થાય છે[cite: 3]."
+    "explanation": "હૂપ સ્ટ્રેસ સિલિન્ડરમાં સૌથી મોટો સ્ટ્રેસ હોવાથી જાડાઈ t = Pd / (2σ_permissible) મુજબ નક્કી થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 147,
@@ -2202,7 +2202,7 @@
       "લોડ ડાયાગ્રામ"
     ],
     "correctAnswer": 1,
-    "explanation": "મોહર્સ થિયરમ (મોમેન્ટ-એરિયા મેથડ) માં M/EI ડાયાગ્રામના ક્ષેત્રફળ અને સેન્ટ્રોઇડનો ઉપયોગ થાય છે[cite: 3]."
+    "explanation": "મોહર્સ થિયરમ (મોમેન્ટ-એરિયા મેથડ) માં M/EI ડાયાગ્રામના ક્ષેત્રફળ અને સેન્ટ્રોઇડનો ઉપયોગ થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 148,
@@ -2217,7 +2217,7 @@
       "સેન્ટર પર ન્યૂનતમ (શૂન્ય નહિ) થી પરિઘ પર મહત્તમ"
     ],
     "correctAnswer": 1,
-    "explanation": "ટોર્શન સૂત્ર τ ∝ r મુજબ શીયર સ્ટ્રેસ કેન્દ્ર પર શૂન્ય અને બહારની સપાટી (પરિઘ) પર મહત્તમ હોય છે[cite: 3]."
+    "explanation": "ટોર્શન સૂત્ર τ ∝ r મુજબ શીયર સ્ટ્રેસ કેન્દ્ર પર શૂન્ય અને બહારની સપાટી (પરિઘ) પર મહત્તમ હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 149,
@@ -2232,7 +2232,7 @@
       "અનંત"
     ],
     "correctAnswer": 2,
-    "explanation": "સપોર્ટ આગળ બીમ નીચે ખસી શકતો ન હોવાથી ડિફ્લેક્શન હંમેશા શૂન્ય હોય છે[cite: 3]."
+    "explanation": "સપોર્ટ આગળ બીમ નીચે ખસી શકતો ન હોવાથી ડિફ્લેક્શન હંમેશા શૂન્ય હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 150,
@@ -2247,7 +2247,7 @@
       "બંને શૂન્ય"
     ],
     "correctAnswer": 3,
-    "explanation": "ફિક્સ સપોર્ટ પર રોટેશન અને ડિસ્પ્લેસમેન્ટ બંને પ્રતિબંધિત હોવાથી સ્લોપ અને ડિફ્લેક્શન બંને શૂન્ય હોય છે[cite: 3]."
+    "explanation": "ફિક્સ સપોર્ટ પર રોટેશન અને ડિસ્પ્લેસમેન્ટ બંને પ્રતિબંધિત હોવાથી સ્લોપ અને ડિફ્લેક્શન બંને શૂન્ય હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 151,
@@ -2262,7 +2262,7 @@
       "½(M + √(M² - T²))"
     ],
     "correctAnswer": 2,
-    "explanation": "શાફ્ટ માટે ઇક્વિવેલેન્ટ બેન્ડિંગ મોમેન્ટ Me = ½ [M + √(M² + T²)] થાય છે[cite: 3]."
+    "explanation": "શાફ્ટ માટે ઇક્વિવેલેન્ટ બેન્ડિંગ મોમેન્ટ Me = ½ [M + √(M² + T²)] થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 152,
@@ -2277,7 +2277,7 @@
       "T/J = R/τ = Gθ/L"
     ],
     "correctAnswer": 1,
-    "explanation": "ટોર્શનનું મૂળભૂત સમીકરણ T/J = τ/R = Gθ/L છે[cite: 3]."
+    "explanation": "ટોર્શનનું મૂળભૂત સમીકરણ T/J = τ/R = Gθ/L છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 153,
@@ -2292,7 +2292,7 @@
       "πd³ / 32"
     ],
     "correctAnswer": 1,
-    "explanation": "સોલિડ સર્ક્યુલર શાફ્ટ માટે પોલર મોમેન્ટ ઓફ ઈનર્શિયા J = πd⁴ / 32 થાય છે[cite: 3]."
+    "explanation": "સોલિડ સર્ક્યુલર શાફ્ટ માટે પોલર મોમેન્ટ ઓફ ઈનર્શિયા J = πd⁴ / 32 થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 154,
@@ -2307,7 +2307,7 @@
       "સર્કમફરન્શિયલ ટેન્સાઈલ સ્ટ્રેસ"
     ],
     "correctAnswer": 3,
-    "explanation": "હૂપ સ્ટ્રેસ પરિઘની દિશામાં લાગતો સર્કમફરન્શિયલ ટેન્સાઈલ સ્ટ્રેસ છે[cite: 3]."
+    "explanation": "હૂપ સ્ટ્રેસ પરિઘની દિશામાં લાગતો સર્કમફરન્શિયલ ટેન્સાઈલ સ્ટ્રેસ છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 155,
@@ -2322,7 +2322,7 @@
       "લંબાઈની મધ્યમાં"
     ],
     "correctAnswer": 2,
-    "explanation": "ટોર્શનમાં શીયર સ્ટ્રેસ ત્રિજ્યાના સમપ્રમાણમાં હોવાથી બહારની સપાટી પર મહત્તમ હોય છે[cite: 3]."
+    "explanation": "ટોર્શનમાં શીયર સ્ટ્રેસ ત્રિજ્યાના સમપ્રમાણમાં હોવાથી બહારની સપાટી પર મહત્તમ હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 156,
@@ -2337,7 +2337,7 @@
       "અનંત"
     ],
     "correctAnswer": 2,
-    "explanation": "શાફ્ટના કેન્દ્ર પર ત્રિજ્યા r = 0 હોવાથી શીયર સ્ટ્રેસ શૂન્ય થાય છે[cite: 3]."
+    "explanation": "શાફ્ટના કેન્દ્ર પર ત્રિજ્યા r = 0 હોવાથી શીયર સ્ટ્રેસ શૂન્ય થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 157,
@@ -2352,7 +2352,7 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "E, K અને μ વચ્ચેનો સાચો સંબંધ E = 3K(1 - 2μ) છે[cite: 3]."
+    "explanation": "E, K અને μ વચ્ચેનો સાચો સંબંધ E = 3K(1 - 2μ) છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 158,
@@ -2367,7 +2367,7 @@
       "πNT / 1000"
     ],
     "correctAnswer": 0,
-    "explanation": "પાવર P = 2πNT / 60 વોટ (W) થાય છે[cite: 3]."
+    "explanation": "પાવર P = 2πNT / 60 વોટ (W) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 159,
@@ -2382,7 +2382,7 @@
       "કહી શકાય નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "હોલો શાફ્ટમાં દ્રવ્ય કેન્દ્રથી વધુ દૂર હોવાથી તેનો પોલર મોડ્યુલસ વધારે હોય છે, તેથી તે વધુ ટોર્ક સહન કરે છે[cite: 3]."
+    "explanation": "હોલો શાફ્ટમાં દ્રવ્ય કેન્દ્રથી વધુ દૂર હોવાથી તેનો પોલર મોડ્યુલસ વધારે હોય છે, તેથી તે વધુ ટોર્ક સહન કરે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 160,
@@ -2397,7 +2397,7 @@
       "25 mm"
     ],
     "correctAnswer": 3,
-    "explanation": "t = Pd / (2σ) = (1 × 1000) / (2 × 20) = 1000 / 40 = 25 mm[cite: 3]."
+    "explanation": "t = Pd / (2σ) = (1 × 1000) / (2 × 20) = 1000 / 40 = 25 mm[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 161,
@@ -2412,7 +2412,7 @@
       "E અને J"
     ],
     "correctAnswer": 2,
-    "explanation": "ટોર્શનલ રિજિડિટી = G × J (મોડ્યુલસ ઓફ રિજિડિટી અને પોલર મોમેન્ટ ઓફ ઈનર્શિયાનો ગુણાકાર)[cite: 3]."
+    "explanation": "ટોર્શનલ રિજિડિટી = G × J (મોડ્યુલસ ઓફ રિજિડિટી અને પોલર મોમેન્ટ ઓફ ઈનર્શિયાનો ગુણાકાર)[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 162,
@@ -2427,7 +2427,7 @@
       "કોઈ સંબંધ નથી"
     ],
     "correctAnswer": 1,
-    "explanation": "θ = TL / (GJ) હોવાથી એન્ગલ ઓફ ટ્વિસ્ટ લંબાઈ L ના સીધા સમપ્રમાણમાં હોય છે[cite: 3]."
+    "explanation": "θ = TL / (GJ) હોવાથી એન્ગલ ઓફ ટ્વિસ્ટ લંબાઈ L ના સીધા સમપ્રમાણમાં હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 163,
@@ -2442,7 +2442,7 @@
       "કોમ્પ્રેસિવ સ્ટ્રેસ"
     ],
     "correctAnswer": 0,
-    "explanation": "મુક્ત વિસ્તરણ થવાથી કોઈ થર્મલ સ્ટ્રેસ ઉત્પન્ન થતો નથી[cite: 3]."
+    "explanation": "મુક્ત વિસ્તરણ થવાથી કોઈ થર્મલ સ્ટ્રેસ ઉત્પન્ન થતો નથી[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 164,
@@ -2457,7 +2457,7 @@
       "32T / (πd⁴)"
     ],
     "correctAnswer": 0,
-    "explanation": "સોલિડ શાફ્ટ માટે મહત્તમ શીયર સ્ટ્રેસ τ = 16T / (πd³) થાય છે[cite: 3]."
+    "explanation": "સોલિડ શાફ્ટ માટે મહત્તમ શીયર સ્ટ્રેસ τ = 16T / (πd³) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 165,
@@ -2472,14 +2472,14 @@
       "0.5√(M² + T²)"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇક્વિવેલેન્ટ ટોર્ક Te = √(M² + T²) થાય છે[cite: 3]."
+    "explanation": "ઇક્વિવેલેન્ટ ટોર્ક Te = √(M² + T²) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 166,
     "subject": "Mechanics of Materials",
     "subTopic": "Stress & Strain",
     "question": "A copper and steel composite bar is heated to 40°C. What type of stress is induced in the copper bar?",
-    "gujaratiQuestion": "0166. કોપર અને સ્ટીલનો બાર મળીને એક કોમ્પોઝિટ સિસ્ટમ બનાવે છે, જેને 40°C તાપમાન સુધી ગરમ કરવામાં આવે છે. કોપર બારમાં કયો સ્ટ્રેસ ઉત્પન્ન થશે?",
+    "gujaratiQuestion": "0166. કોપર અને સ્ટીલનો બાર મળીને એક કોમ્પોઝિટ સિસ્ટમ બનાવે છે, જેને 40°C ટેમ્પરેચર સુધી ગરમ કરવામાં આવે છે. કોપર બારમાં કયો સ્ટ્રેસ ઉત્પન્ન થશે?",
     "options": [
       "ટેન્સાઈલ",
       "કોમ્પ્રેસિવ",
@@ -2487,7 +2487,7 @@
       "શૂન્ય"
     ],
     "correctAnswer": 1,
-    "explanation": "કોપરનો થર્મલ એક્સપાન્શન ગુણાંક સ્ટીલ કરતાં વધુ હોવાથી કોપર વિસ્તરણ રોકાતાં કોમ્પ્રેસિવ સ્ટ્રેસ અનુભવે છે[cite: 3]."
+    "explanation": "કોપરનો થર્મલ એક્સપાન્શન ગુણાંક સ્ટીલ કરતાં વધુ હોવાથી કોપર વિસ્તરણ રોકાતાં કોમ્પ્રેસિવ સ્ટ્રેસ અનુભવે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 167,
@@ -2502,7 +2502,7 @@
       "√(M² + T²)"
     ],
     "correctAnswer": 0,
-    "explanation": "ઇક્વિવેલેન્ટ બેન્ડિંગ મોમેન્ટ Me = 0.5[M + √(M² + T²)] છે[cite: 3]."
+    "explanation": "ઇક્વિવેલેન્ટ બેન્ડિંગ મોમેન્ટ Me = 0.5[M + √(M² + T²)] છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 168,
@@ -2517,7 +2517,7 @@
       "રેડિયસ ઓફ ગાયરેશન"
     ],
     "correctAnswer": 2,
-    "explanation": "ટોર્શનલ સ્ટ્રેન્થ T = τ × Z_p હોવાથી પોલર મોડ્યુલસ પર આધાર રાખે છે[cite: 3]."
+    "explanation": "ટોર્શનલ સ્ટ્રેન્થ T = τ × Z_p હોવાથી પોલર મોડ્યુલસ પર આધાર રાખે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 169,
@@ -2532,7 +2532,7 @@
       "4/5"
     ],
     "correctAnswer": 1,
-    "explanation": "δA = WL³/(48EI) અને δB = 5WL³/(384EI). δA/δB = (1/48) / (5/384) = 384 / 240 = 8/5[cite: 3]."
+    "explanation": "δA = WL³/(48EI) અને δB = 5WL³/(384EI). δA/δB = (1/48) / (5/384) = 384 / 240 = 8/5[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 170,
@@ -2547,7 +2547,7 @@
       "સ્ટ્રટ"
     ],
     "correctAnswer": 2,
-    "explanation": "શિરોલંબ એક્સિયલ કોમ્પ્રેસિવ મેમ્બરને કોલમ કહેવાય છે[cite: 3]."
+    "explanation": "શિરોલંબ એક્સિયલ કોમ્પ્રેસિવ મેમ્બરને કોલમ કહેવાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 171,
@@ -2562,7 +2562,7 @@
       "ટેન્શન દ્વારા"
     ],
     "correctAnswer": 2,
-    "explanation": "લોંગ કોલમ ક્રશિંગ સ્ટ્રેસ સુધી પહોંચ્યા વિના બકલિંગ (વળવા) ને લીધે ફેલ થાય છે[cite: 3]."
+    "explanation": "લોંગ કોલમ ક્રશિંગ સ્ટ્રેસ સુધી પહોંચ્યા વિના બકલિંગ (વળવા) ને લીધે ફેલ થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 172,
@@ -2577,7 +2577,7 @@
       "WL³ / (384EI)"
     ],
     "correctAnswer": 2,
-    "explanation": "ફિક્સ્ડ બીમમાં સેન્ટ્રલ પોઈન્ટ લોડ માટે મહત્તમ ડિફ્લેક્શન δ = WL³ / (192EI) થાય છે[cite: 3]."
+    "explanation": "ફિક્સ્ડ બીમમાં સેન્ટ્રલ પોઈન્ટ લોડ માટે મહત્તમ ડિફ્લેક્શન δ = WL³ / (192EI) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 173,
@@ -2592,7 +2592,7 @@
       "ટોર્શન દ્વારા"
     ],
     "correctAnswer": 0,
-    "explanation": "શોર્ટ કોલમ બકલ થયા વિના સીધા ક્રશિંગ (Direct crushing) દ્વારા ફેલ થાય છે[cite: 3]."
+    "explanation": "શોર્ટ કોલમ બકલ થયા વિના સીધા ક્રશિંગ (Direct crushing) દ્વારા ફેલ થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 174,
@@ -2607,7 +2607,7 @@
       "આપેલ તમામ"
     ],
     "correctAnswer": 2,
-    "explanation": "ઓઈલરની થીયરી માત્ર લોંગ કોલમ (જે બકલિંગ દ્વારા ફેલ થાય છે) માટે લાગુ પડે છે[cite: 3]."
+    "explanation": "ઓઈલરની થીયરી માત્ર લોંગ કોલમ (જે બકલિંગ દ્વારા ફેલ થાય છે) માટે લાગુ પડે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
   },
   {
     "id": 175,
@@ -2622,7 +2622,7 @@
       "શાફ્ટ A ના 1/4 જેટલો"
     ],
     "correctAnswer": 2,
-    "explanation": "પાવર P ∝ T ∝ d³. dB = dA/2 હોવાથી PB = PA / 2³ = PA / 8 થાય છે[cite: 3]."
+    "explanation": "પાવર P ∝ T ∝ d³. dB = dA/2 હોવાથી PB = PA / 2³ = PA / 8 થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 176,
@@ -2637,7 +2637,7 @@
       "માત્ર આડા મેમ્બર માટે"
     ],
     "correctAnswer": 2,
-    "explanation": "રેન્કિન-ગોર્ડન ફોર્મ્યુલા શોર્ટ અને લોંગ બંને પ્રકારની કોલમ માટે વાપરી શકાય છે[cite: 3]."
+    "explanation": "રેન્કિન-ગોર્ડન ફોર્મ્યુલા શોર્ટ અને લોંગ બંને પ્રકારની કોલમ માટે વાપરી શકાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 179,
@@ -2652,7 +2652,7 @@
       "2L"
     ],
     "correctAnswer": 0,
-    "explanation": "બંને છેડે હિન્જ્ડ કોલમ માટે ઇફેક્ટિવ લંબાઈ Le = L થાય છે[cite: 3]."
+    "explanation": "બંને છેડે હિન્જ્ડ કોલમ માટે ઇફેક્ટિવ લંબાઈ Le = L થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 180,
@@ -2667,7 +2667,7 @@
       "2L"
     ],
     "correctAnswer": 1,
-    "explanation": "બંને છેડે ફિક્સ કોલમ માટે ઇફેક્ટિવ લંબાઈ Le = L / 2 થાય છે[cite: 3]."
+    "explanation": "બંને છેડે ફિક્સ કોલમ માટે ઇફેક્ટિવ લંબાઈ Le = L / 2 થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 181,
@@ -2682,7 +2682,7 @@
       "મોડ્યુલસ ઓફ રિજિડિટી અને પોલર મોમેન્ટ ઓફ ઇનર્શિયાનો ગુણોત્તર (ratio)"
     ],
     "correctAnswer": 0,
-    "explanation": "ટોર્શનલ રિજિડિટી એટલે G અને J નો ગુણાકાર[cite: 3]."
+    "explanation": "ટોર્શનલ રિજિડિટી એટલે G અને J નો ગુણાકાર[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 182,
@@ -2697,7 +2697,7 @@
       "2L"
     ],
     "correctAnswer": 3,
-    "explanation": "એક છેડે ફિક્સ અને બીજે ફ્રી કોલમ માટે Le = 2L ગણાય છે[cite: 3]."
+    "explanation": "એક છેડે ફિક્સ અને બીજે ફ્રી કોલમ માટે Le = 2L ગણાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 183,
@@ -2712,7 +2712,7 @@
       "2L"
     ],
     "correctAnswer": 2,
-    "explanation": "એક છેડે ફિક્સ અને બીજે હિન્જ્ડ કોલમ માટે Le = L / √2 થાય છે[cite: 3]."
+    "explanation": "એક છેડે ફિક્સ અને બીજે હિન્જ્ડ કોલમ માટે Le = L / √2 થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 184,
@@ -2727,7 +2727,7 @@
       "60 MPa"
     ],
     "correctAnswer": 3,
-    "explanation": "τ_max = (80 - (-40)) / 2 = 120 / 2 = 60 MPa[cite: 3]."
+    "explanation": "τ_max = (80 - (-40)) / 2 = 120 / 2 = 60 MPa[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 185,
@@ -2742,7 +2742,7 @@
       "πE / (I²Le)"
     ],
     "correctAnswer": 0,
-    "explanation": "ઓઈલર ક્રિટિકલ લોડ P_cr = π²EI / Le² છે[cite: 3]."
+    "explanation": "ઓઈલર ક્રિટિકલ લોડ P_cr = π²EI / Le² છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 186,
@@ -2757,7 +2757,7 @@
       "પહેલા વધે છે પછી ઘટે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "P_cr ∝ 1/λ² હોવાથી સ્લેન્ડરનેસ રેશિયો વધતાં કોલમની ભાર વહન ક્ષમતા ઘટે છે[cite: 3]."
+    "explanation": "P_cr ∝ 1/λ² હોવાથી સ્લેન્ડરનેસ રેશિયો વધતાં કોલમની ભાર ફ્લો ક્ષમતા ઘટે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 187,
@@ -2772,7 +2772,7 @@
       "I-સેક્શન"
     ],
     "correctAnswer": 3,
-    "explanation": "I-સેક્શનમાં ફ્લેન્જ્સ વધુ દૂર હોવાથી ઓછું વજન રાખીને મોટો સેક્શન મોડ્યુલસ મળે છે[cite: 3]."
+    "explanation": "I-સેક્શનમાં ફ્લેન્જ્સ વધુ દૂર હોવાથી ઓછું વજન રાખીને મોટો સેક્શન મોડ્યુલસ મળે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 188,
@@ -2787,7 +2787,7 @@
       "હીટ એનર્જી"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્થિતિસ્થાપક સીમાની અંદર વિરૂપણ દરમિયાન સંગ્રહિત થતી ઊર્જાને સ્ટ્રેઈન એનર્જી (Strain energy) કહે છે[cite: 3]."
+    "explanation": "સ્થિતિસ્થાપક સીમાની અંદર વિરૂપણ દરમિયાન સંગ્રહિત થતી ઊર્જાને સ્ટ્રેઈન એનર્જી (Strain energy) કહે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
   },
   {
     "id": 189,
@@ -2802,7 +2802,7 @@
       "(σ / 2E)V"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ટ્રેઈન એનર્જી U = (σ² / 2E) × V થાય છે[cite: 3]."
+    "explanation": "સ્ટ્રેઈન એનર્જી U = (σ² / 2E) × V થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 190,
@@ -2817,7 +2817,7 @@
       "ડાયમેન્શનમાં થતા ફેરફાર અને લોડનો વિરોધ કરતા ક્રોસ-સેક્શનલ એરિયાનો"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ટ્રેઈન એ પરિમાણમાં થતા ફેરફાર અને મૂળ પરિમાણનો ગુણોત્તર (ΔL/L) છે[cite: 3]."
+    "explanation": "સ્ટ્રેઈન એ પરિમાણમાં થતા ફેરફાર અને મૂળ પરિમાણનો ગુણોત્તર (ΔL/L) છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
   },
   {
     "id": 191,
@@ -2832,7 +2832,7 @@
       "મોડ્યુલસ ઓફ ટફનેસ"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્થિતિસ્થાપક સીમા સુધી સંગ્રહિત મહત્તમ સ્ટ્રેઈન ઊર્જાને પ્રૂફ રેઝિલિયન્સ (Proof resilience) કહેવાય છે[cite: 3]."
+    "explanation": "સ્થિતિસ્થાપક સીમા સુધી સંગ્રહિત મહત્તમ સ્ટ્રેઈન ઊર્જાને પ્રૂફ રેઝિલિયન્સ (Proof resilience) કહેવાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 192,
@@ -2847,7 +2847,7 @@
       "પ્રૂફ રેઝિલિયન્સનો વર્ગ"
     ],
     "correctAnswer": 1,
-    "explanation": "એકમ કદ દીઠ પ્રૂફ રેઝિલિયન્સને મોડ્યુલસ ઓફ રેઝિલિયન્સ કહે છે[cite: 3]."
+    "explanation": "એકમ વોલ્યુમ દીઠ પ્રૂફ રેઝિલિયન્સને મોડ્યુલસ ઓફ રેઝિલિયન્સ કહે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 193,
@@ -2862,7 +2862,7 @@
       "a-3, b-4, c-1, d-2"
     ],
     "correctAnswer": 1,
-    "explanation": "છેડે મોમેન્ટ => લંબચોરસ (4), UDL => પેરાબોલા (3), UVL => ક્યુબિક (2), સેન્ટ્રલ પોઈન્ટ લોડ => ત્રિકોણ (1). સાચો કોડ: a-4, b-3, c-2, d-1[cite: 3]."
+    "explanation": "છેડે મોમેન્ટ => લંબચોરસ (4), UDL => પેરાબોલા (3), UVL => ક્યુબિક (2), સેન્ટ્રલ પોઈન્ટ લોડ => ત્રિકોણ (1). સાચો કોડ: a-4, b-3, c-2, d-1[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 194,
@@ -2877,7 +2877,7 @@
       "અડધો"
     ],
     "correctAnswer": 1,
-    "explanation": "અચાનક લાગતા ભારને લીધે પેદા થતો સ્ટ્રેસ ક્રમિક લાગતા ભાર કરતાં બમણો (2 ગણો) હોય છે[cite: 3]."
+    "explanation": "અચાનક લાગતા ભારને લીધે પેદા થતો સ્ટ્રેસ ક્રમિક લાગતા ભાર કરતાં બમણો (2 ગણો) હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
   },
   {
     "id": 195,
@@ -2892,7 +2892,7 @@
       "શૂન્ય"
     ],
     "correctAnswer": 2,
-    "explanation": "અમુક ઊંચાઈથી પડતા ઈમ્પેક્ટ લોડનો સ્ટ્રેસ સડન લોડ કરતાં પણ ઘણો વધારે હોય છે[cite: 3]."
+    "explanation": "અમુક ઊંચાઈથી પડતા ઈમ્પેક્ટ લોડનો સ્ટ્રેસ સડન લોડ કરતાં પણ ઘણો વધારે હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 196,
@@ -2907,7 +2907,7 @@
       "a-b-c-d"
     ],
     "correctAnswer": 3,
-    "explanation": "સાચો ક્રમ: ઈલાસ્ટિક લિમિટ (a) -> યીલ્ડ પોઈન્ટ (b) -> અલ્ટિમેટ સ્ટ્રેન્થ (c) -> રપ્ચર/ફ્રેક્ચર સ્ટ્રેન્થ (d)[cite: 3]."
+    "explanation": "સાચો ક્રમ: ઈલાસ્ટિક લિમિટ (a) -> યીલ્ડ પોઈન્ટ (b) -> અલ્ટિમેટ સ્ટ્રેન્થ (c) -> રપ્ચર/ફ્રેક્ચર સ્ટ્રેન્થ (d)[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 197,
@@ -2922,7 +2922,7 @@
       "ફટિગ"
     ],
     "correctAnswer": 1,
-    "explanation": "ફ્રેક્ચર પોઈન્ટ સુધી શોષાયેલી કુલ ઊર્જાને ટફનેસ (Toughness) કહેવામાં આવે છે[cite: 3]."
+    "explanation": "ફ્રેક્ચર પોઈન્ટ સુધી શોષાયેલી કુલ ઊર્જાને ટફનેસ (Toughness) કહેવામાં આવે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 198,
@@ -2937,7 +2937,7 @@
       "પાસ્કલ"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્ટ્રેઈન એનર્જી એ ઊર્જાનું સ્વરૂપ હોવાથી તેનો એકમ જૂલ (Joule અથવા N-m) છે[cite: 3]."
+    "explanation": "સ્ટ્રેઈન એનર્જી એ ઊર્જાનું સ્વરૂપ હોવાથી તેનો એકમ જૂલ (Joule અથવા N-m) છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 199,
@@ -2952,22 +2952,22 @@
       "એલ્યુમિનિયમ"
     ],
     "correctAnswer": 1,
-    "explanation": "કાસ્ટ આયર્ન બરડ (Brittle) હોવાથી તેમાં નેકિંગ થતું નથી અને વ્યાસ લગભગ સમાન રહે છે[cite: 3]."
+    "explanation": "કાસ્ટ આયર્ન બરડ (Brittle) હોવાથી તેમાં નેકિંગ થતું નથી અને વ્યાસ લગભગ સમાન રહે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 200,
     "subject": "Mechanics of Materials",
     "subTopic": "Energy Methods",
     "question": "Resilience indicates which property of a material?",
-    "gujaratiQuestion": "0200. રેઝિલિયન્સ પદાર્થનો કયો ગુણધર્મ દર્શાવે છે?",
+    "gujaratiQuestion": "0200. રેઝિલિયન્સ પદાર્થનો કયો પ્રોપર્ટી દર્શાવે છે?",
     "options": [
       "આંચકા (શોક) સહન કરવાની ક્ષમતા",
       "કપાવાની ક્ષમતા",
       "ઘસાવાની ક્ષમતા",
-      "ઉષ્મા સહન કરવાની ક્ષમતા"
+      "હીટ સહન કરવાની ક્ષમતા"
     ],
     "correctAnswer": 0,
-    "explanation": "રેઝિલિયન્સ એ સ્થિતિસ્થાપક સીમામાં આંચકા કે શોક લોડ સહન કરવાની ક્ષમતા દર્શાવે છે[cite: 3]."
+    "explanation": "રેઝિલિયન્સ એ સ્થિતિસ્થાપક સીમામાં આંચકા કે શોક લોડ સહન કરવાની ક્ષમતા દર્શાવે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 201,
@@ -2982,7 +2982,7 @@
       "સ્ટ્રેનના વર્ગમૂળના"
     ],
     "correctAnswer": 1,
-    "explanation": "U = (σ² / 2E) × V મુજબ સ્ટ્રેઈન એનર્જી સ્ટ્રેસના વર્ગ (σ²) ના સમપ્રમાણમાં હોય છે[cite: 3]."
+    "explanation": "U = (σ² / 2E) × V મુજબ સ્ટ્રેઈન એનર્જી સ્ટ્રેસના વર્ગ (σ²) ના સમપ્રમાણમાં હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 202,
@@ -2997,7 +2997,7 @@
       "wL² / 6"
     ],
     "correctAnswer": 2,
-    "explanation": "ફિક્સ છેડે મહત્તમ મોમેન્ટ હોગિંગ હોવાથી M = - (wL/2) × (L/3) = -wL² / 6 થાય[cite: 3]."
+    "explanation": "ફિક્સ છેડે મહત્તમ મોમેન્ટ હોગિંગ હોવાથી M = - (wL/2) × (L/3) = -wL² / 6 થાય[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 203,
@@ -3012,7 +3012,7 @@
       "ફટિગ ટેસ્ટ"
     ],
     "correctAnswer": 2,
-    "explanation": "UTM પર મુખ્યત્વે ટેન્સાઈલ ટેસ્ટ અને કોમ્પ્રેશન ટેસ્ટ કરવામાં આવે છે[cite: 3]."
+    "explanation": "UTM પર મુખ્યત્વે ટેન્સાઈલ ટેસ્ટ અને કોમ્પ્રેશન ટેસ્ટ કરવામાં આવે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 204,
@@ -3027,7 +3027,7 @@
       "કટીંગ ટૂલ"
     ],
     "correctAnswer": 2,
-    "explanation": "બ્રિનેલ ટેસ્ટમાં 10 mm વ્યાસનો હાર્ડન સ્ટીલ બોલ અથવા ટંગસ્ટન કાર્બાઈડ બોલ વપરાય છે[cite: 3]."
+    "explanation": "બ્રિનેલ ટેસ્ટમાં 10 mm વ્યાસનો હાર્ડન સ્ટીલ બોલ અથવા ટંગસ્ટન કાર્બાઈડ બોલ વપરાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
   },
   {
     "id": 205,
@@ -3042,7 +3042,7 @@
       "PL³ / (48EI)"
     ],
     "correctAnswer": 0,
-    "explanation": "છેડે પોઈન્ટ લોડ P ધરાવતા કેન્ટિલિવરનું મહત્તમ ડિફ્લેક્શન δ = PL³ / (3EI) થાય છે[cite: 3]."
+    "explanation": "છેડે પોઈન્ટ લોડ P ધરાવતા કેન્ટિલિવરનું મહત્તમ ડિફ્લેક્શન δ = PL³ / (3EI) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "id": 206,
@@ -3057,7 +3057,7 @@
       "નળાકાર"
     ],
     "correctAnswer": 2,
-    "explanation": "વિકર્સ હાર્ડનેસ ટેસ્ટમાં 136° ખૂણાવાળો ચોરસ પાયા ધરાવતો ડાયમંડ પિરામિડ વપરાય છે[cite: 3]."
+    "explanation": "વિકર્સ હાર્ડનેસ ટેસ્ટમાં 136° ખૂણાવાળો ચોરસ પાયા ધરાવતો ડાયમંડ પિરામિડ વપરાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 207,
@@ -3072,7 +3072,7 @@
       "ટંગસ્ટન કાર્બાઈડ બોલ"
     ],
     "correctAnswer": 1,
-    "explanation": "રોકવેલ C સ્કેલ (HRC) માટે 120° નો ડાયમંડ કોન (Brale indenter) વપરાય છે[cite: 3]."
+    "explanation": "રોકવેલ C સ્કેલ (HRC) માટે 120° નો ડાયમંડ કોન (Brale indenter) વપરાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 208,
@@ -3087,7 +3087,7 @@
       "20"
     ],
     "correctAnswer": 2,
-    "explanation": "τ_max = (σ1 - σ2) / 2 = (100 - 40) / 2 = 60 / 2 = 30 MPa[cite: 3]."
+    "explanation": "τ_max = (σ1 - σ2) / 2 = (100 - 40) / 2 = 60 / 2 = 30 MPa[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
   },
   {
     "id": 209,
@@ -3102,7 +3102,7 @@
       "કપિંગ ટેસ્ટ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઈમ્પેક્ટ સ્ટ્રેન્થ માપવા માટે ચાર્પી અને આઈઝોડ ઈમ્પેક્ટ ટેસ્ટ વપરાય છે[cite: 3]."
+    "explanation": "ઈમ્પેક્ટ સ્ટ્રેન્થ માપવા માટે ચાર્પી અને આઈઝોડ ઈમ્પેક્ટ ટેસ્ટ વપરાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 210,
@@ -3117,7 +3117,7 @@
       "બંને છેડેથી ખેંચીને"
     ],
     "correctAnswer": 1,
-    "explanation": "આઈઝોડ ટેસ્ટમાં સ્પેસિમેનને ઊભું રાખીને કેન્ટિલિવર બીમ તરીકે પકડવામાં આવે છે[cite: 3]."
+    "explanation": "આઈઝોડ ટેસ્ટમાં સ્પેસિમેનને ઊભું રાખીને કેન્ટિલિવર બીમ તરીકે પકડવામાં આવે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 212,
@@ -3132,7 +3132,7 @@
       "કોઈ પણ રીતે"
     ],
     "correctAnswer": 0,
-    "explanation": "ચાર્પી ટેસ્ટમાં સ્પેસિમેનને આડું સિમ્પલી સપોર્ટેડ બીમ તરીકે રાખવામાં આવે છે[cite: 3]."
+    "explanation": "ચાર્પી ટેસ્ટમાં સ્પેસિમેનને આડું સિમ્પલી સપોર્ટેડ બીમ તરીકે રાખવામાં આવે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 213,
@@ -3147,7 +3147,7 @@
       "ડક્ટિલિટી"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ક્રેચિંગ, ઘસારા કે ઈન્ડેન્ટેશન સામેનો અવરોધ હાર્ડનેસ (Hardness) કહેવાય છે[cite: 3]."
+    "explanation": "સ્ક્રેચિંગ, ઘસારા કે ઈન્ડેન્ટેશન સામેનો અવરોધ હાર્ડનેસ (Hardness) કહેવાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
   },
   {
     "id": 214,
@@ -3162,7 +3162,7 @@
       "(a-3), (b-4), (c-1), (d-2)"
     ],
     "correctAnswer": 1,
-    "explanation": "સાચો જોડકો ક્રમ: a-4, b-3, c-2, d-1 છે[cite: 3]."
+    "explanation": "સાચો જોડકો ક્રમ: a-4, b-3, c-2, d-1 છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 215,
@@ -3177,7 +3177,7 @@
       "ફટિગ ટેસ્ટ"
     ],
     "correctAnswer": 2,
-    "explanation": "શીટ મેટલની ફોર્મેબિલિટી માપવા એરિક્સન કપિંગ ટેસ્ટ (Cupping test) વપરાય છે[cite: 3]."
+    "explanation": "શીટ મેટલની ફોર્મેબિલિટી માપવા એરિક્સન કપિંગ ટેસ્ટ (Cupping test) વપરાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
   },
   {
     "id": 216,
@@ -3192,7 +3192,7 @@
       "હાર્ડનેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "સાયક્લિક લોડિંગ હેઠળ ફટિગ ટેસ્ટ દ્વારા એન્ડ્યોરન્સ લિમિટ (Endurance limit) નક્કી થાય છે[cite: 3]."
+    "explanation": "સાયક્લિક લોડિંગ હેઠળ ફટિગ ટેસ્ટ દ્વારા એન્ડ્યોરન્સ લિમિટ (Endurance limit) નક્કી થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 217,
@@ -3207,7 +3207,7 @@
       "પોતાની સાઈન (ચિહ્ન) બદલતો હોય (changing sign)"
     ],
     "correctAnswer": 3,
-    "explanation": "જ્યારે શીયર ફોર્સ પોતાનું ચિહ્ન બદલે (શૂન્યમાંથી પસાર થાય) ત્યારે બેન્ડિંગ મોમેન્ટ મહત્તમ થાય છે[cite: 3]."
+    "explanation": "જ્યારે શીયર ફોર્સ પોતાનું ચિહ્ન બદલે (શૂન્યમાંથી પસાર થાય) ત્યારે બેન્ડિંગ મોમેન્ટ મહત્તમ થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 218,
@@ -3222,7 +3222,7 @@
       "હાર્ડનેસ ટેસ્ટ"
     ],
     "correctAnswer": 0,
-    "explanation": "અલ્ટ્રાસોનિક ટેસ્ટ એ આંતરિક ક્રેક્સ શોધવા માટે વપરાતી NDT પદ્ધતિ છે[cite: 3]."
+    "explanation": "અલ્ટ્રાસોનિક ટેસ્ટ એ આંતરિક ક્રેક્સ શોધવા માટે વપરાતી NDT પદ્ધતિ છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
   },
   {
     "id": 219,
@@ -3237,7 +3237,7 @@
       "ચાર્પી ટેસ્ટ"
     ],
     "correctAnswer": 0,
-    "explanation": "નોન-ડિસ્ટ્રક્ટિવ ટેસ્ટિંગમાં સ્પેસિમેન તૂટતું ન હોવાથી તેનો ભવિષ્યમાં ઉપયોગ થઈ શકે છે[cite: 3]."
+    "explanation": "નોન-ડિસ્ટ્રક્ટિવ ટેસ્ટિંગમાં સ્પેસિમેન તૂટતું ન હોવાથી તેનો ભવિષ્યમાં ઉપયોગ થઈ શકે છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
   },
   {
     "id": 220,
@@ -3252,22 +3252,22 @@
       "થી સ્વતંત્ર (independent of)"
     ],
     "correctAnswer": 1,
-    "explanation": "બર્નોલીના સિદ્ધાંત મુજબ બેન્ડિંગ સ્ટ્રેઈન ε = y / R એટલે કે ન્યુટ્રલ એક્સિસથી અંતર y ના સમપ્રમાણમાં હોય છે[cite: 3]."
+    "explanation": "બર્નોલીના સિદ્ધાંત મુજબ બેન્ડિંગ સ્ટ્રેઈન ε = y / R એટલે કે ન્યુટ્રલ એક્સિસથી અંતર y ના સમપ્રમાણમાં હોય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
   },
   {
     "id": 221,
     "subject": "Mechanics of Materials",
     "subTopic": "Stress & Strain",
     "question": "Which factor is mainly responsible for Creep in materials?",
-    "gujaratiQuestion": "0221. મટીરીયલના ક્રીપ (Creep) ગુણધર્મ માટે મુખ્યત્વે કયું પરિબળ જવાબદાર છે?",
+    "gujaratiQuestion": "0221. મટીરીયલના ક્રીપ (Creep) પ્રોપર્ટી માટે મુખ્યત્વે કયું પરિબળ જવાબદાર છે?",
     "options": [
-      "નીચું તાપમાન અને શૂન્ય ભાર",
-      "ઉચ્ચ તાપમાન અને સતત ભાર",
+      "નીચું ટેમ્પરેચર અને શૂન્ય ભાર",
+      "ઉચ્ચ ટેમ્પરેચર અને સતત ભાર",
       "માત્ર અચાનક લાગતો ભાર",
       "માત્ર વાઇબ્રેશન"
     ],
     "correctAnswer": 1,
-    "explanation": "લાંબા સમય સુધી ઊંચા તાપમાને સતત સ્ટેટિક લોડ લાગવાથી ધીમું કાયમી વિરૂપણ (Creep) થાય છે[cite: 3]."
+    "explanation": "લાંબા સમય સુધી ઊંચા ટેમ્પરેચરે સતત સ્ટેટિક લોડ લાગવાથી ધીમું કાયમી વિરૂપણ (Creep) થાય છે[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
   },
   {
     "id": 222,
@@ -3282,7 +3282,7 @@
       "45"
     ],
     "correctAnswer": 0,
-    "explanation": "M = wL²/8 = 10 × 4² / 8 = 20 kN-m = 20 × 10⁶ N-mm. Z = bd²/6 = 100 × 200² / 6 = 666.67 × 10³ mm³. σ = M/Z = 20 × 10⁶ / (666.67 × 10³) = 30 MPa[cite: 3]."
+    "explanation": "M = wL²/8 = 10 × 4² / 8 = 20 kN-m = 20 × 10⁶ N-mm. Z = bd²/6 = 100 × 200² / 6 = 666.67 × 10³ mm³. σ = M/Z = 20 × 10⁶ / (666.67 × 10³) = 30 MPa[cite: 3]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
   },
   {
     "subject": "Mechanics of Materials",
@@ -3311,7 +3311,7 @@
       "Moment/area"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: E=σ/ε within elastic range.",
+    "explanation": "Expected MCQ: E=σ/ε within elastic range. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]",
     "id": 224
   },
   {
@@ -3326,7 +3326,7 @@
       "πd²/4"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: J=πd⁴/32.",
+    "explanation": "Expected MCQ: J=πd⁴/32. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]",
     "id": 225
   },
   {
@@ -3341,7 +3341,7 @@
       "Only shafts in torsion"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Euler theory assumes slender elastic columns.",
+    "explanation": "Expected MCQ: Euler theory assumes slender elastic columns. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]",
     "id": 226
   },
   {
@@ -3356,7 +3356,7 @@
       "Equal to shear stress"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: σ=My/I and y=0 at the neutral axis.",
+    "explanation": "Expected MCQ: σ=My/I and y=0 at the neutral axis. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]",
     "id": 227
   },
   {
@@ -3371,7 +3371,7 @@
       "pt/2d"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: σh=pd/(2t).",
+    "explanation": "Expected MCQ: σh=pd/(2t). \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]",
     "id": 228
   },
   {
@@ -3387,7 +3387,7 @@
       "fluid pressure"
     ],
     "correctAnswer": 0,
-    "explanation": "Mohr's circle graphically gives principal strain states and maximum in-plane shear strain."
+    "explanation": "Mohr's circle graphically gives principal strain states and maximum in-plane shear strain. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
   },
   {
     "id": 230,
@@ -3402,7 +3402,7 @@
       "principal stress"
     ],
     "correctAnswer": 0,
-    "explanation": "The centre is at the average of the two normal strains."
+    "explanation": "The centre is at the average of the two normal strains. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   },
   {
     "id": 231,
@@ -3417,6 +3417,25 @@
       "Young modulus"
     ],
     "correctAnswer": 0,
-    "explanation": "The radius equals half the principal-strain difference and equals maximum in-plane shear strain."
+    "explanation": "The radius equals half the principal-strain difference and equals maximum in-plane shear strain. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+  },
+  {
+    "id": 90006,
+    "subject": "Mechanics of Materials",
+    "subTopic": "Stress & Strain",
+    "question": "What is the relationship between Young's modulus (E), Shear modulus (G) and Poisson's ratio (ν)?",
+    "gujaratiQuestion": "યંગ્સ મોડ્યુલસ (E), શિયર મોડ્યુલસ (G) અને પોઇઝન્સ રેશિયો (ν) વચ્ચેનો સાચો સંબંધ કયો છે?",
+    "options": [
+      "E = 2G(1 + ν)",
+      "E = 3G(1 - 2ν)",
+      "E = 2G(1 - ν)",
+      "E = 3G(1 + ν)"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "સ્થિતિસ્થાપક અચળાંકો વચ્ચેનો સાચો સંબંધ: E = 2G(1 + ν) અને E = 3K(1 - 2ν).\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
   }
 ]
