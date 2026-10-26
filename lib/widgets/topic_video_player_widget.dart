@@ -261,28 +261,36 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
 
   Widget _buildErrorViewport() {
     return Container(
-      height: 200,
-      padding: const EdgeInsets.all(16),
+      constraints: const BoxConstraints(minHeight: 180),
+      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
       color: Colors.black,
       child: Column(
+        mainAxisSize: MainAxisSize.min,
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          const Icon(Icons.error_outline, color: Colors.amber, size: 42),
-          const SizedBox(height: 8),
+          const Icon(Icons.error_outline, color: Colors.amber, size: 36),
+          const SizedBox(height: 6),
           Text(
             _errorMessage.isNotEmpty ? _errorMessage : 'Video playback error',
             textAlign: TextAlign.center,
-            style: const TextStyle(color: Colors.white70, fontSize: 12),
+            maxLines: 2,
+            overflow: TextOverflow.ellipsis,
+            style: const TextStyle(color: Colors.white70, fontSize: 11.5),
           ),
-          const SizedBox(height: 12),
+          const SizedBox(height: 10),
           ElevatedButton.icon(
             style: ElevatedButton.styleFrom(
               backgroundColor: Colors.amberAccent,
               foregroundColor: Colors.black,
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
             ),
-            onPressed: _initVideoController,
-            icon: const Icon(Icons.refresh, size: 18),
-            label: const Text('Retry Video'),
+            onPressed: () {
+              _controller?.dispose();
+              _controller = null;
+              _initVideoController();
+            },
+            icon: const Icon(Icons.refresh, size: 16),
+            label: const Text('Retry Video', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold)),
           ),
         ],
       ),
