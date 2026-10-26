@@ -41,12 +41,16 @@ void main() {
         'type': 'concept',
         'language': 'Gujarati',
         'isPrimary': true,
-        'verified': true,
-        'qualityScore': 10,
+        'isGeneratedVideo': isPilot,
+        'isExternalLink': !isPilot,
+        'verified': isPilot,
+        'qualityScore': isPilot ? 10 : 8,
         'practicalScore': 9,
         'examRelevance': 10,
         'durationSeconds': isPilot ? 210 : 240,
-        'description': 'Comprehensive animated Gujarati video lesson covering core theory, formulas, and exam traps for $topicTitle.',
+        'description': isPilot
+            ? '3.5 min animated Gujarati video lesson explaining System, Surroundings, Open/Closed/Isolated Systems, Control Volume, and ṁ = ρAV formula with exam tips.'
+            : 'Comprehensive video lesson covering core theory, formulas, and exam traps for $topicTitle.',
       });
 
       // Practical / Numerical Video
@@ -60,8 +64,10 @@ void main() {
         'type': 'numerical',
         'language': 'Gujarati',
         'isPrimary': false,
-        'verified': true,
-        'qualityScore': 9,
+        'isGeneratedVideo': false,
+        'isExternalLink': true,
+        'verified': false,
+        'qualityScore': 8,
         'practicalScore': 10,
         'examRelevance': 10,
         'durationSeconds': 180,
@@ -81,6 +87,8 @@ void main() {
   final catalogJson = {
     'version': '1.0.0',
     'totalVideos': catalogVideos.length,
+    'generatedPilotVideos': 1,
+    'externalLearningLinks': catalogVideos.length - 1,
     'videos': catalogVideos,
   };
 
@@ -89,5 +97,5 @@ void main() {
     encoding: utf8,
   );
 
-  print('✅ Generated video_catalog.json with ${catalogVideos.length} videos covering all 165 topics!');
+  print('✅ Generated video_catalog.json with ${catalogVideos.length} videos (1 Pilot Generated Video, ${catalogVideos.length - 1} External Links) across all 165 topics!');
 }
