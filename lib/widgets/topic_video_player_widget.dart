@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:video_player/video_player.dart';
@@ -37,6 +38,21 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
       _hasError = false;
       _errorMessage = '';
     });
+
+    // Official Flutter video_player plugin does not provide C++ desktop playback plugin implementation.
+    // On Windows/Desktop, fall back cleanly to the Interactive Video Launcher Card.
+    if (!kIsWeb &&
+        (defaultTargetPlatform == TargetPlatform.windows ||
+            defaultTargetPlatform == TargetPlatform.macOS ||
+            defaultTargetPlatform == TargetPlatform.linux)) {
+      if (mounted) {
+        setState(() {
+          _isInitializing = false;
+          _hasError = false;
+        });
+      }
+      return;
+    }
 
     try {
       if (widget.video.assetPath.isNotEmpty) {
@@ -80,11 +96,22 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
       }
     } catch (e) {
       if (mounted) {
-        setState(() {
-          _isInitializing = false;
-          _hasError = true;
-          _errorMessage = 'Playback Error: Unable to load video. $e';
-        });
+        if (e is UnimplementedError ||
+            e.toString().contains('UnimplementedError') ||
+            e.toString().contains('init() has not been implemented')) {
+          _controller?.dispose();
+          _controller = null;
+          setState(() {
+            _isInitializing = false;
+            _hasError = false;
+          });
+        } else {
+          setState(() {
+            _isInitializing = false;
+            _hasError = true;
+            _errorMessage = 'Playback Error: Unable to load video. $e';
+          });
+        }
       }
     }
   }
