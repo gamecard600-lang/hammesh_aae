@@ -40,19 +40,33 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
 
     try {
       if (widget.video.assetPath.isNotEmpty) {
-        _controller = VideoPlayerController.asset(widget.video.assetPath);
-      } else if (widget.video.url.isNotEmpty &&
+        try {
+          _controller = VideoPlayerController.asset(widget.video.assetPath);
+          await _controller!.initialize();
+        } catch (assetErr) {
+          debugPrint('Asset video init failed, attempting network fallback: $assetErr');
+          _controller?.dispose();
+          _controller = null;
+        }
+      }
+
+      if (_controller == null &&
+          widget.video.url.isNotEmpty &&
           (widget.video.url.contains('.mp4') || widget.video.url.contains('raw.githubusercontent.com'))) {
         _controller = VideoPlayerController.networkUrl(Uri.parse(widget.video.url));
-      } else {
+        await _controller!.initialize();
+      }
+
+      if (_controller == null) {
         // Fallback info mode for external YouTube / web URLs
-        setState(() {
-          _isInitializing = false;
-        });
+        if (mounted) {
+          setState(() {
+            _isInitializing = false;
+          });
+        }
         return;
       }
 
-      await _controller!.initialize();
       _controller!.setLooping(false);
       
       _controller!.addListener(() {

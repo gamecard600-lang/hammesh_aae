@@ -18,22 +18,19 @@ class StudyMaterialLoader {
     if (_cachedMasterData != null) return;
 
     try {
-      String jsonString;
+      String jsonString = await rootBundle.loadString(
+        'assets/study_material/master_study_material.json',
+      );
       try {
         final docDir = await getApplicationDocumentsDirectory();
         final updatedFile = File('${docDir.path}/updated_content/master_study_material.json');
         if (await updatedFile.exists()) {
-          jsonString = await updatedFile.readAsString();
-        } else {
-          jsonString = await rootBundle.loadString(
-            'assets/study_material/master_study_material.json',
-          );
+          final updatedStr = await updatedFile.readAsString();
+          if (updatedStr.contains('videos') && updatedStr.contains('assetPath')) {
+            jsonString = updatedStr;
+          }
         }
-      } catch (_) {
-        jsonString = await rootBundle.loadString(
-          'assets/study_material/master_study_material.json',
-        );
-      }
+      } catch (_) {}
       _cachedMasterData = jsonDecode(jsonString);
     } catch (e) {
       debugPrint('Error loading master study material JSON: $e');
