@@ -64,16 +64,18 @@
             "Thermodynamic Systems & Control Volume Schematic / Layout"
           ],
           "rule": "No irrelevant animation rendered for pure theoretical definition.",
+          "videoUrl": "https://raw.githubusercontent.com/gamecard600-lang/hammesh_aae/main/assets/videos/thermodynamic_systems.mp4",
           "videos": [
             {
-              "title": "Full Topic Lecture",
-              "url": "https://www.youtube.com/results?search_query=Thermodynamics+Thermodynamic+Systems+%26+Control+Volume+mechanical+engineering+lecture",
-              "description": "Full-topic learning videos and lectures"
+              "title": "Thermodynamic Systems & Control Volume - Gujarati Video Lesson",
+              "url": "https://raw.githubusercontent.com/gamecard600-lang/hammesh_aae/main/assets/videos/thermodynamic_systems.mp4",
+              "assetPath": "assets/videos/thermodynamic_systems.mp4",
+              "description": "3.5 min animated Gujarati video lesson explaining System, Surroundings, Open/Closed/Isolated Systems, Control Volume, and ṁ = ρAV formula with exam tips."
             },
             {
               "title": "Numerical & Practical Explanation",
-              "url": "https://www.youtube.com/results?search_query=Thermodynamics+Thermodynamic+Systems+%26+Control+Volume+numerical+practical+mechanical+engineering",
-              "description": "Numerical, practical and concept-focused videos"
+              "url": "https://www.youtube.com/watch?v=video_t_1_num",
+              "description": "Step-by-step numerical problem solving for mass flow rate ṁ = ρAV"
             }
           ],
           "imageUrl": "assets/images/diagrams/subj_1_topic_1.png"

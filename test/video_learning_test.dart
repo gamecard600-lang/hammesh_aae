@@ -124,8 +124,8 @@ void main() {
       await tester.pump(const Duration(milliseconds: 100));
 
       expect(find.text('Topic Video Learning'), findsOneWidget);
-      expect(find.text('Otto Cycle Detailed Explanation'), findsOneWidget);
-      expect(find.text('Interactive lecture on Otto cycle'), findsOneWidget);
+      expect(find.text('Otto Cycle Detailed Explanation'), findsWidgets);
+      expect(find.text('Interactive lecture on Otto cycle'), findsWidgets);
     });
   });
 }

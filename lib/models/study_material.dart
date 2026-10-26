@@ -1,19 +1,27 @@
 class StudyVideo {
   final String title;
   final String url;
+  final String assetPath;
   final String description;
 
-  const StudyVideo({required this.title, required this.url, this.description = ''});
+  const StudyVideo({
+    required this.title,
+    required this.url,
+    this.assetPath = '',
+    this.description = '',
+  });
 
   factory StudyVideo.fromJson(Map<String, dynamic> json) => StudyVideo(
     title: json['title'] as String? ?? 'Video Explanation',
     url: json['url'] as String? ?? '',
+    assetPath: json['assetPath'] as String? ?? json['videoPath'] as String? ?? '',
     description: json['description'] as String? ?? '',
   );
 
   Map<String, dynamic> toJson() => {
     'title': title,
     'url': url,
+    if (assetPath.isNotEmpty) 'assetPath': assetPath,
     if (description.isNotEmpty) 'description': description,
   };
 }

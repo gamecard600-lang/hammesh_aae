@@ -1,7 +1,7 @@
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
-import 'package:url_launcher/url_launcher.dart';
 import '../../models/study_material.dart';
+import '../../widgets/topic_video_player_widget.dart';
 
 class AnimatedTopicVisualWidget extends StatefulWidget {
   final StudyMaterial material;
@@ -526,25 +526,10 @@ class _AnimatedTopicVisualWidgetState extends State<AnimatedTopicVisualWidget>
           const SizedBox(height: 6),
           const Text('Selected learning resources for quick and practical understanding. Internet connection required.', style: TextStyle(color: Colors.white70, fontSize: 12)),
           const SizedBox(height: 12),
-          ...videos.asMap().entries.map((entry) {
-            final i = entry.key + 1;
-            final v = entry.value;
-            return Card(
-              color: const Color(0xFF162033),
-              child: ListTile(
-                leading: CircleAvatar(child: Text('$i')),
-                title: Text(v.title, style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w600)),
-                subtitle: v.description.isEmpty ? const Text('Open video resource', style: TextStyle(color: Colors.white60)) : Text(v.description, style: const TextStyle(color: Colors.white70)),
-                trailing: const Icon(Icons.play_circle_fill, color: Colors.amberAccent, size: 32),
-                onTap: () async {
-                  final uri = Uri.tryParse(v.url);
-                  if (uri == null || uri.scheme.isEmpty) return;
-                  final opened = await launchUrl(uri, mode: LaunchMode.externalApplication);
-                  if (!opened && mounted) {
-                    await launchUrl(uri, mode: LaunchMode.platformDefault);
-                  }
-                },
-              ),
+          ...videos.map((v) {
+            return TopicVideoPlayerWidget(
+              video: v,
+              topicName: widget.material.topic,
             );
           }),
           if (videos.isEmpty)
