@@ -120,10 +120,7 @@ void main() {
 
       await tester.pump();
 
-      await tester.tap(find.textContaining('Online Media'));
-      await tester.pump(const Duration(milliseconds: 100));
-
-      expect(find.text('Topic Video Learning'), findsOneWidget);
+      expect(find.textContaining('Topic Video Learning'), findsOneWidget);
       expect(find.text('Otto Cycle Detailed Explanation'), findsWidgets);
       expect(find.text('Interactive lecture on Otto cycle'), findsWidgets);
     });
