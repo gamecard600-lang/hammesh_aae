@@ -1,0 +1,770 @@
+{
+  "subjectId": 4,
+  "subjectName": "I.C. Engines",
+  "category": "Technical",
+  "totalTopics": 13,
+  "curriculumSource": "Hammesh AAE - Final Master Blueprint & Syllabus (Pages 4-5)",
+  "topics": [
+    {
+      "topicId": 32,
+      "subTopicName": "Combustion in SI & CI Engines",
+      "title": "Combustion in SI & CI Engines",
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "SI & CI Combustion Fundamentals & Flame Propagation",
+          "videoId": "vid_s4_t32_ep1",
+          "durationSeconds": 360,
+          "assetPath": "assets/videos/ic_engine_combustion_knocking.mp4",
+          "url": "https://www.youtube.com/results?search_query=Combustion+in+SI+and+CI+Engines+mechanical+engineering+lecture",
+          "description": "ઊંડાણપૂર્વક સમજૂતી: SI અને CI એન્જિનમાં કમ્બશનની મૂળભૂત પ્રક્રિયા, હોમોજીનિયસ વિ. હિટરોજીનિયસ મિશ્રણ, ફ્લેમ પ્રોપેગેશન અને ઇગ્નીશન.",
+          "learningObjectives": [
+            "SI એન્જિનમાં Homogeneous ચાર્જ અને Spark Ignition સમજો.",
+            "CI એન્જિનમાં Heterogeneous મિશ્રણ અને Compression Ignition સમજો.",
+            "Flame front movement અને Combustion speed પર અસર કરતાં પરિબળો જાણો."
+          ],
+          "storyStages": {
+            "realLifeHook": "જ્યારે તમે બાઇકનું સેલ્ફ સ્ટાર્ટ દબાવો છો કે ટ્રકનું ડીઝલ એન્જિન ચાલુ કરો છો, ત્યારે સિલિન્ડરની અંદર મિલીસેકન્ડ્સમાં શું થાય છે?",
+            "problem": "પેટ્રોલ અને ડીઝલ બંને હાઇડ્રોકાર્બન હોવા છતાં બંનેમાં બળતણ બાળવાની રીત તદ્દન અલગ કેમ રાખવી પડે છે?",
+            "discovery": "પેટ્રોલ સરળતાથી બાષ્પીભવન પામે છે (High Volatility, High Self-Ignition Temperature), જ્યારે ડીઝલનું Self-Ignition Temperature ઓછું હોય છે.",
+            "visualExplanation": "સિલિન્ડરમાં પિસ્ટન TDC તરફ જતાં સ્પાર્ક પ્લગમાંથી નીકળતો સ્પાર્ક અને ચારેય તરફ ફેલાતો ફ્લેમ ફ્રન્ટ વિ. હાઈ પ્રેશર સ્પ્રેમાંથી થતું સેલ્ફ ઇગ્નીશન.",
+            "workingPrinciple": "SI માં કાર્બ્યુરેટર/ઇન્જેક્ટર હોમોજીનિયસ મિશ્રણ આપે છે. CI માં કમ્પ્રેશનથી ગરમ થયેલી હવામાં ડીઝલ સ્પ્રે થતાં સેલ્ફ-ઇગ્નીશન થાય છે.",
+            "engineeringApplication": "પેસેન્જર કાર અને ટુ-વ્હીલરમાં SI એન્જિન, ભારે કોમર્શિયલ વાહનો અને ટ્રેક્ટરમાં CI એન્જિન.",
+            "formulaAndNumerical": "Equivalence Ratio phi = (Actual F/A) / (Stoichiometric F/A). Stoichiometric A/F ratio petrol ~ 14.7:1, diesel ~ 14.5:1.",
+            "examConnection": "GSSSB PYQ: SI એન્જિનમાં કમ્બશન દરમિયાન મિશ્રણ કેવું હોય છે? સાચો જવાબ: Homogeneous! CI એન્જિનમાં મિશ્રણ કેવું હોય છે? સાચો જવાબ: Heterogeneous!",
+            "recallConclusion": "SI = Homogeneous + Spark Ignition; CI = Heterogeneous + Compression Ignition."
+          },
+          "recallQuestions": [
+            {
+              "question": "એસ.આઈ. (SI) એન્જિનમાં કમ્બશન પ્રોસેસ દરમિયાન સિલિન્ડરમાં હવા અને પેટ્રોલનું મિશ્રણ કેવું હોય છે?",
+              "options": [
+                "હોમોજીનિયસ (Homogeneous)",
+                "હિટરોજીનિયસ (Heterogeneous)",
+                "સ્ટ્રેટિફાઇડ (Stratified)",
+                "અસ્થિર (Unstable)"
+              ],
+              "correctAnswer": 0,
+              "explanation": "એસ.આઈ. એન્જિનમાં હવા અને પેટ્રોલનું સમાન મિશ્રણ સિલિન્ડરમાં પ્રવેશતું હોવાથી તે હોમોજીનિયસ ગણાય છે."
+            },
+            {
+              "question": "સી.આઈ. (CI) એન્જિનમાં કમ્બશન કયા પ્રકારનું ગણવામાં આવે છે?",
+              "options": [
+                "હોમોજીનિયસ",
+                "હિટરોજીનિયસ (Heterogeneous)",
+                "આઇસોથર્મલ",
+                "આઈસેન્ટ્રોપિક"
+              ],
+              "correctAnswer": 1,
+              "explanation": "સી.આઈ. એન્જિનમાં ગરમ હવામાં ડીઝલનો સ્પ્રે થતો હોવાથી દરેક સ્થાને મિશ્રણનું પ્રમાણ જુદું જુદું હોય છે, તેથી તે હિટરોજીનિયસ છે."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": 33,
+      "subTopicName": "Abnormal Combustion (Knocking & Detonation)",
+      "title": "Abnormal Combustion (Knocking & Detonation)",
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Knocking Mechanics, End Gas Detonation & Octane/Cetane Numbers",
+          "videoId": "vid_s4_t33_ep1",
+          "durationSeconds": 360,
+          "assetPath": "assets/videos/ic_engine_combustion_knocking.mp4",
+          "url": "https://www.youtube.com/results?search_query=Knocking+and+Detonation+IC+Engines+mechanical+engineering+lecture",
+          "description": "નોકિંગ અને ડિટોનેશનની સંપૂર્ણ સમજ: SI માં End Gas Auto-ignition વિ. CI માં Ignition Delay Period, Octane અને Cetane Rating, અને એન્ટી-નોક એજન્ટ્સ.",
+          "learningObjectives": [
+            "SI એન્જિનમાં End Gas Auto-ignition થી થતું ડિટોનેશન સમજો.",
+            "CI એન્જિનમાં લાંબા Ignition Delay થી થતું નોકિંગ સમજો.",
+            "Octane Number (Iso-octane 100, n-heptane 0) અને Cetane Number (Cetane 100, alpha-methylnaphthalene 0) નું મહત્વ જાણો."
+          ],
+          "storyStages": {
+            "realLifeHook": "જ્યારે ગાડી ચઢાણ પર ચઢતી હોય અને એક્સિલરેટર દબાવતાં એન્જિનમાંથી ધાતુ અથડાવા જેવો તીવ્ર 'ખખડાટ' સંભળાય, ત્યારે ખરેખર શું બન્યું?",
+            "problem": "સામાન્ય કમ્બશનમાં ફ્લેમ 15-30 m/s ની ઝડપે આગળ વધે છે, પણ નોકિંગમાં આ ઝડપ 1000-1500 m/s ના શોક વેવમાં કેમ બદલાઈ જાય છે?",
+            "discovery": "SI એન્જિનમાં સ્પાર્ક પછી ફ્લેમ છેવાડાના વાયુ (End Gas) સુધી પહોંચે તે પહેલાં જ તેનું તાપમાન સેલ્ફ-ઇગ્નીશન લિમિટ વટાવી જતાં તે એકાએક બળી ઊઠે છે!",
+            "visualExplanation": "સ્પાર્ક પ્લગ ➔ સામાન્ય ફ્લેમ ફ્રન્ટ ➔ વધતું દબાણ ➔ એન્ડ ગેસનું અચાનક વિસ્ફોટન (Shock Waves) ➔ પિસ્ટન અને સિલિન્ડર વોલ પર વાઇબ્રેશન.",
+            "workingPrinciple": "SI નોકિંગ = અચાનક એન્ડ-ગેસ વિસ્ફોટ (દબાવવા માટે Retard Spark, Decrease Compression Ratio). CI નોકિંગ = શરૂઆતનો અતિશય પ્રેશર રાઇઝ (ઇગ્નીશન ડીલે ઘટાડીને અટકાવી શકાય).",
+            "engineeringApplication": "પ્રીમિયમ પેટ્રોલ 91/95 Octane, એન્ટી-નોક એડિટિવ્સ (TEL, MTBE).",
+            "formulaAndNumerical": "Octane Number = % Iso-octane (in blend with n-heptane). Cetane Number = % Cetane + 0.15 * % HMN.",
+            "examConnection": "GSSSB PYQ: પેટ્રોલ એન્જિનમાં ડિટોનેશન ઘટાડવા સ્પાર્ક ટાઇમિંગ શું કરવું જોઈએ? સાચો જવાબ: Retard Spark Timing! ડીઝલ એન્જિનમાં નોકિંગ ઘટાડવા Ignition delay કેવો હોવો જોઈએ? સાચો જવાબ: Low (ટૂંકો)!",
+            "recallConclusion": "SI નોકિંગ અંતમાં થાય છે (End gas), CI નોકિંગ શરૂઆતમાં થાય છે (Uncontrolled combustion)."
+          },
+          "recallQuestions": [
+            {
+              "question": "પેટ્રોલ (SI) એન્જિનમાં ડિટોનેશનનું મુખ્ય કારણ શું છે?",
+              "options": [
+                "શરૂઆતના ચાર્જનું ઝડપી દહન",
+                "અંતિમ ચાર્જ (End gas) નું સ્વયંસ્ફુરિત દહન",
+                "વધુ પડતું ટર્બ્યુલન્સ",
+                "સ્પાર્ક પ્લગની ખરાબી"
+              ],
+              "correctAnswer": 1,
+              "explanation": "પેટ્રોલ એન્જિનમાં ફ્લેમ ફ્રન્ટ પહોંચે તે પહેલાં છેવાડાના અનબર્ન્ટ ગેસ (End Gas) નું ઓટો-ઇગ્નિશન થવાથી ડિટોનેશન થાય છે."
+            },
+            {
+              "question": "એસ.આઈ. એન્જિનમાં ડિટોનેશન ઘટાડવા માટે નીચેનામાંથી કયો ઉપાય યોગ્ય છે?",
+              "options": [
+                "કમ્પ્રેશન રેશિયો વધારવો",
+                "સ્પાર્ક ટાઈમિંગ એડવાન્સ કરવું",
+                "સ્પાર્ક ટાઇમિંગ રિટાર્ડ કરવું",
+                "લીન મિશ્રણનો ઉપયોગ કરવો"
+              ],
+              "correctAnswer": 2,
+              "explanation": "સ્પાર્ક ટાઇમિંગ રિટાર્ડ (Retard) કરવાથી પીક સિલિન્ડર પ્રેશર અને તાપમાન ઘટે છે, જેથી ડિટોનેશન અટકે છે."
+            },
+            {
+              "question": "ડીઝલ એન્જિનમાં નોકિંગની વૃત્તિ ઘટાડવા માટે ઇગ્નીશન ડીલે કેવો હોવો જોઈએ?",
+              "options": [
+                "લાંબો હોવો જોઈએ",
+                "ટૂંકો (Short) હોવો જોઈએ",
+                "અનંત હોવો જોઈએ",
+                "શૂન્યથી ઓછો"
+              ],
+              "correctAnswer": 1,
+              "explanation": "ઇગ્નીશન ડીલે ટૂંકો હોય તો સિલિન્ડરમાં બિનજરૂરી ઇંધણ એકઠું થતું નથી અને પ્રેશર રાઇઝ નિયંત્રિત રહે છે."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": 34,
+      "subTopicName": "Carburettor, Port Fuel Injection & Direct Injection",
+      "title": "Carburettor, Port Fuel Injection & Direct Injection",
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Air-Fuel Mixing Evolution: Carburettor to PFI & GDI Systems",
+          "videoId": "vid_s4_t34_ep1",
+          "durationSeconds": 360,
+          "assetPath": "assets/videos/fuel_systems_and_crdi.mp4",
+          "url": "https://www.youtube.com/results?search_query=Carburettor+vs+MPFI+vs+GDI+mechanical+engineering+lecture",
+          "description": "કાર્બ્યુરેટરના ભાગો (વેન્ચ્યુરી, ફ્લોટ ચેમ્બર, ચોક), Port Fuel Injection (PFI/MPFI), Gasoline Direct Injection (GDI) અને તેમના ફાયદા-મર્યાદાઓ.",
+          "learningObjectives": [
+            "વેન્ચ્યુરી ઇફેક્ટ અને બર્નૌલી સિદ્ધાંત દ્વારા ફ્યુઅલ એટોમાઇઝેશન સમજો.",
+            "Simple Carburettor, Solex, Zenith અને Constant Depression પ્રકારો જાણો.",
+            "PFI (Port Injection) અને GDI (Direct Injection) વચ્ચેનો ટેકનિકલ તફાવત સમજો."
+          ],
+          "storyStages": {
+            "realLifeHook": "જૂના સ્કૂટરમાં શિયાળામાં 'ચોક' ખેંચવો પડતો હતો, પરંતુ આજના આધુનિક બાઇક કે કારમાં ચોક કેમ ગાયબ થઈ ગયો?",
+            "problem": "કાર્બ્યુરેટર યાંત્રિક વેક્યુમ પર કામ કરે છે, જેથી કોલ્ડ સ્ટાર્ટ, એક્સિલરેશન અને આઇડલિંગમાં ચોક્કસ A/F રેશિયો જાળવી શકાતો નથી.",
+            "discovery": "ઇલેક્ટ્રોનિક ઇન્જેક્ટર અને ECU ના આગમનથી મિલીસેકન્ડના ચોક્કસ સમય માટે ઇંધણનો સ્પ્રે સીધો પોર્ટ કે સિલિન્ડરમાં કરવો શક્ય બન્યો.",
+            "visualExplanation": "કાર્બ્યુરેટર વેન્ચ્યુરી થ્રોટ ➔ ડિપ્રેશન (P < Patm) ➔ ફ્લોટ ચેમ્બરમાંથી જેટ સ્પ્રે ➔ MPFI પોર્ટ સ્પ્રે ➔ GDI હાઇ પ્રેશર સિલિન્ડર સ્પ્રે.",
+            "workingPrinciple": "બર્નૌલી પ્રિન્સિપલ: ડેલ્ટા P = 0.5 * rho_a * V_a^2. એર વેલોસિટી વધતાં પ્રેશર ઘટે છે, જેથી જેટમાંથી ફ્યુઅલ ખેંચાય છે.",
+            "engineeringApplication": "મોટરસાયકલમાં FI સિસ્ટમ, આધુનિક ટર્બોચાર્જ્ડ કાર્સમાં GDI (Gasoline Direct Injection).",
+            "formulaAndNumerical": "Fuel-Air ratio: m_f / m_a = (A_f / A_a) * (C_df / C_da) * sqrt((rho_f / rho_a) * (delta_P_f / delta_P_a)).",
+            "examConnection": "GSSSB PYQ: સોલેક્સ અને ઝેનિથ કાર્બ્યુરેટર કયા પ્રકારના છે? સાચો જવાબ: Constant Choke Carburettor! GDI સિસ્ટમમાં ઇન્જેક્ટર ક્યાં સ્થિત હોય છે? સાચો જવાબ: Directly in Cylinder!",
+            "recallConclusion": "Carburettor = Mechanical venturi metering; MPFI = Intake port injection; GDI = Direct combustion chamber injection."
+          },
+          "recallQuestions": [
+            {
+              "question": "કોન્સ્ટન્ટ ચોક (Constant Choke) કાર્બ્યુરેટરમાં નીચેનામાંથી કયા પ્રકારોનો સમાવેશ થાય છે?",
+              "options": [
+                "સોલેક્સ અને ઝેનિથ કાર્બ્યુરેટર",
+                "SU અને કાર્ટર કાર્બ્યુરેટર",
+                "મલ્ટિપલ વેન્ચ્યુરી કાર્બ્યુરેટર",
+                "મલ્ટિપલ જેટ કાર્બ્યુરેટર"
+              ],
+              "correctAnswer": 0,
+              "explanation": "સોલેક્સ (Solex) અને ઝેનિથ (Zenith) કાર્બ્યુરેટર્સ એ ફિક્સ્ડ વેન્ચ્યુરી એરિયા ધરાવતા કોન્સ્ટન્ટ ચોક પ્રકારના કાર્બ્યુરેટર્સ છે."
+            },
+            {
+              "question": "GDI (Gasoline Direct Injection) સિસ્ટમમાં ઇંધણનો સ્પ્રે ક્યાં કરવામાં આવે છે?",
+              "options": [
+                "ઇન્ટેક મેનિફોલ્ડમાં",
+                "કાર્બ્યુરેટર વેન્ચ્યુરીમાં",
+                "સીધો કમ્બશન ચેમ્બર (સિલિન્ડર) માં",
+                "એર ફિલ્ટર પાસે"
+              ],
+              "correctAnswer": 2,
+              "explanation": "GDI માં ઇન્જેક્ટર સીધો સિલિન્ડરની કમ્બશન ચેમ્બરમાં ઉચ્ચ દબાણે પેટ્રોલ સ્પ્રે કરે છે."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": 35,
+      "subTopicName": "Ignition, Lubrication & Cooling Systems",
+      "title": "Ignition, Lubrication & Cooling Systems",
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Engine Auxiliaries: Battery/Magneto Ignition, Wet Sump Lubrication & Thermostat Cooling",
+          "videoId": "vid_s4_t35_ep1",
+          "durationSeconds": 360,
+          "assetPath": "assets/videos/engine_systems_emissions.mp4",
+          "url": "https://www.youtube.com/results?search_query=Ignition+Lubrication+and+Cooling+Systems+IC+Engine",
+          "description": "એન્જિન સહાયક પ્રણાલીઓ: બેટરી અને મેગ્નેટો ઇગ્નીશન સર્કિટ, લુબ્રિકેશન પદ્ધતિઓ (Wet sump vs Dry sump), અને વોટર કૂલિંગ સિસ્ટમ (રેડિયેટર & થર્મોસ્ટેટ વાલ્વ).",
+          "learningObjectives": [
+            "બેટરી કોઇલ અને મેગ્નેટો ઇગ્નીશન સર્કિટનો તફાવત સમજો.",
+            "Splash, Mist અને Full-Pressure લુબ્રિકેશન સિસ્ટમ્સ જાણો.",
+            "રેડિયેટર, વોટર પંપ અને થર્મોસ્ટેટ વાલ્વ (80-85°C) નું કાર્ય સમજો."
+          ],
+          "storyStages": {
+            "realLifeHook": "જો એન્જિનમાં મોટર ઓઇલ ખતમ થઈ જાય તો માત્ર 2 મિનિટમાં એન્જિન કેમ સીઝ (Seize) થઈ જાય છે?",
+            "problem": "ધાતુના ભાગો વચ્ચેનું ઘર્ષણ અને કમ્બશનનું 2000°C થી વધુ તાપમાન પિસ્ટન અને સિલિન્ડરને પીગળાવી શકે છે.",
+            "discovery": "લુબ્રિકેશન ફિલ્મ ઘર્ષણ ઘટાડે છે અને કૂલિંગ સિસ્ટમ વધારાની ગરમી બહાર ફેંકી એન્જિનનું યોગ્ય ઓપરેટિંગ તાપમાન જાળવી રાખે છે.",
+            "visualExplanation": "ઓઇલ પંપ ➔ ઓઇલ ગેલેરી ➔ ક્રેન્કશાફ્ટ બેરિંગ્સ ➔ પિસ્ટન પિન; વોટર જેકેટ્સ ➔ થર્મોસ્ટેટ ➔ રેડિયેટર કોર ➔ કૂલિંગ ફેન.",
+            "workingPrinciple": "થર્મોસ્ટેટ વાલ્વ: 80°C થી નીચે કૂલન્ટ રેડિયેટરમાં જતું અટકાવે છે (Fast engine warm-up). તાપમાન વધતાં વાલ્વ ખુલે છે.",
+            "engineeringApplication": "ઓટોમોબાઇલમાં SAE 20W-40 મલ્ટીગ્રેડ ઓઇલ, ઇથિલિન ગ્લાયકોલ એન્ટી-ફ્રીઝ કૂલન્ટ.",
+            "formulaAndNumerical": "Heat balance: Total heat = Heat to Brake Power (~30%) + Cooling water (~30%) + Exhaust gases (~35%) + Radiation (~5%).",
+            "examConnection": "GSSSB PYQ: થર્મોસ્ટેટ વાલ્વ ક્યાં ફિટ કરવામાં આવે છે? સાચો જવાબ: Engine Water Outlet / Radiator Inlet! હાઇ સ્પીડ રેસિંગ કારમાં કઈ લુબ્રિકેશન સિસ્ટમ વપરાય છે? સાચો જવાબ: Dry Sump Lubrication!",
+            "recallConclusion": "Ignition sparks the mixture; Lubrication prevents metal contact; Cooling maintains operating temperature."
+          },
+          "recallQuestions": [
+            {
+              "question": "વોટર કૂલિંગ સિસ્ટમમાં થર્મોસ્ટેટ વાલ્વ સામાન્ય રીતે ક્યાં બેસાડવામાં આવે છે?",
+              "options": [
+                "રેડિયેટરના નીચેના ભાગમાં",
+                "વોટર જેકેટના આઉટલેટ પર",
+                "વોટર પંપના ઇનલેટ પર",
+                "ઓઇલ ફિલ્ટર પાસે"
+              ],
+              "correctAnswer": 1,
+              "explanation": "થર્મોસ્ટેટ વાલ્વ સિલિન્ડર હેડ વોટર જેકેટના આઉટલેટ પર મુકાય છે જેથી એન્જિન ઝડપથી વર્કિંગ ટેમ્પરેચર પ્રાપ્ત કરી શકે."
+            },
+            {
+              "question": "ઓટોમોબાઈલ એન્જિનમાં સૌથી વધુ કઈ લુબ્રિકેશન પદ્ધતિ વપરાય છે?",
+              "options": [
+                "મિસ્ટ લુબ્રિકેશન",
+                "સ્પ્લેશ લુબ્રિકેશન",
+                "ફુલ પ્રેશર લુબ્રિકેશન (Wet Sump)",
+                "ગ્રેવિટી લુબ્રિકેશન"
+              ],
+              "correctAnswer": 2,
+              "explanation": "આધુનિક 4-સ્ટ્રોક વાહનોમાં ગિયર પંપ દ્વારા ક્રિટિકલ બેરિંગ્સ સુધી ઓઇલ પહોંચાડતી પ્રેશર ફીડ લુબ્રિકેશન પદ્ધતિ વપરાય છે."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": 36,
+      "subTopicName": "Engine Emissions & Emission Control",
+      "title": "Engine Emissions & Emission Control",
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Exhaust Pollutants, Three-Way Catalytic Converter & EGR Systems",
+          "videoId": "vid_s4_t36_ep1",
+          "durationSeconds": 360,
+          "assetPath": "assets/videos/engine_systems_emissions.mp4",
+          "url": "https://www.youtube.com/results?search_query=IC+Engine+Emissions+and+Emission+Control+catalytic+converter+EGR",
+          "description": "એન્જિન પ્રદૂષકો: CO, HC, NOx, Particulate Matter (PM), થ્રી-વે કેટેલિટિક કન્વર્ટર (Reduction + Oxidation), EGR અને BS-VI ધોરણો.",
+          "learningObjectives": [
+            "CO (ઇનકમ્પ્લીટ કમ્બશન), HC (અનબર્ન્ટ ફ્યુઅલ) અને NOx (ઉચ્ચ તાપમાન) ના નિર્માણના કારણો સમજો.",
+            "Three-Way Catalytic Converter (Platinum, Palladium, Rhodium) ની કાર્યપદ્ધતિ જાણો.",
+            "EGR (Exhaust Gas Recirculation) દ્વારા NOx ઉત્સર્જન ઘટાડવાનો સિદ્ધાંત સમજો."
+          ],
+          "storyStages": {
+            "realLifeHook": "દિલ્હી જેવા મોટા શહેરોમાં સ્મોગ કેમ બને છે અને BS-VI વાહનોથી હવા કેવી રીતે સ્વચ્છ રહે છે?",
+            "problem": "હવામાં 78% નાઇટ્રોજન નિષ્ક્રિય હોય છે, પરંતુ એન્જિન સિલિન્ડરના 1800°C થી વધુ તાપમાને તે ઓક્સિજન સાથે જોડાઈને ઝેરી NOx બનાવે છે.",
+            "discovery": "એક્ઝોસ્ટ વાયુઓનો નાનો હિસ્સો (5-15%) પાછો ઇન્ટેકમાં ભેળવવાથી કમ્બશન ચેમ્બરનું પીક તાપમાન ઘટે છે અને NOx ઘટી જાય છે!",
+            "visualExplanation": "કન્વર્ટર ચેમ્બર: હનીકોમ્બ સ્ટ્રક્ચર ➔ Rhodium કેટાલિસ્ટ (2NOx ➔ N2 + O2) ➔ Pt/Pd કેટાલિસ્ટ (2CO + O2 ➔ 2CO2, HC + O2 ➔ H2O + CO2).",
+            "workingPrinciple": "લેમ્બડા સેન્સર (Lambda Sensor): A/F રેશિયોને બરાબર 14.7:1 (Stoichiometric) ની નજીક રાખે છે જેથી કન્વર્ટરની કાર્યક્ષમતા મહત્તમ રહે.",
+            "engineeringApplication": "ડીઝલ પાર્ટિક્યુલેટ ફિલ્ટર (DPF), Selective Catalytic Reduction (SCR) સાથે AdBlue (Urea).",
+            "formulaAndNumerical": "Lambda lambda = Actual (A/F) / Stoichiometric (A/F). lambda < 1 = Rich mixture (High CO, HC); lambda > 1 = Lean mixture (High NOx).",
+            "examConnection": "GSSSB PYQ: એન્જિનમાંથી NOx ઉત્સર્જન ઘટાડવા માટે કઈ સિસ્ટમ વપરાય છે? સાચો જવાબ: Exhaust Gas Recirculation (EGR)! કેટાલિટિક કન્વર્ટરમાં રિડક્શન કેટાલિસ્ટ કઈ ધાતુનું બનેલું હોય છે? સાચો જવાબ: Rhodium!",
+            "recallConclusion": "CO & HC reduced by Oxidation; NOx reduced by EGR & Rhodium catalyst."
+          },
+          "recallQuestions": [
+            {
+              "question": "ઇગ્ઝોસ્ટ ગેસમાંથી NOx (નાઇટ્રોજન ઓક્સાઇડ) વાયુઓનું ઉત્સર્જન ઘટાડવા માટે કઈ સિસ્ટમ સૌથી અસરકારક છે?",
+              "options": [
+                "PCV સિસ્ટમ",
+                "EGR (Exhaust Gas Recirculation)",
+                "મફલર",
+                "સુપરચાર્જર"
+              ],
+              "correctAnswer": 1,
+              "explanation": "EGR સિસ્ટમ કમ્બશન ચેમ્બરનું પીક ટેમ્પરેચર ઘટાડે છે, જેનાથી થર્મલ NOx નું નિર્માણ નોંધપાત્ર રીતે ઘટી જાય છે."
+            },
+            {
+              "question": "થ્રી-વે કેટેલિટિક કન્વર્ટર સૌથી શ્રેષ્ઠ કાર્યક્ષમતા ક્યારે આપે છે?",
+              "options": [
+                "અતિશય રીચ મિશ્રણ પર",
+                "અતિશય લીન મિશ્રણ પર",
+                "સ્ટોઇકિયોમેટ્રિક એર-ફ્યુઅલ રેશિયો (lambda = 1.0) પર",
+                "કોલ્ડ સ્ટાર્ટિંગ સમયે"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Three-way Catalytic Converter સ્ટોઇકિયોમેટ્રિક રેશિયો (લગભગ 14.7:1) પર CO, HC અને NOx ત્રણેયને એકસાથે સાફ કરી શકે છે."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": 37,
+      "subTopicName": "Advanced IC Engine Concepts",
+      "title": "Advanced IC Engine Concepts",
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Turbocharging, Supercharging, VVT & Variable Compression Ratio",
+          "videoId": "vid_s4_t37_ep1",
+          "durationSeconds": 360,
+          "assetPath": "assets/videos/engine_systems_emissions.mp4",
+          "url": "https://www.youtube.com/results?search_query=Turbocharger+vs+Supercharger+VVT+VCR+mechanical+engineering",
+          "description": "એડવાન્સ્ડ એન્જિન સિસ્ટમ્સ: ટર્બોચાર્જર વિ. સુપરચાર્જર, ઇન્ટરકૂલર, Variable Valve Timing (VVT) અને VCR એન્જિન.",
+          "learningObjectives": [
+            "ટર્બોચાર્જર (Exhaust Gas Driven) અને સુપરચાર્જર (Engine Crankshaft Driven) નો તફાવત સમજો.",
+            "ઇન્ટરકૂલર દ્વારા ડેન્સિટી વધારી વોલ્યુમેટ્રિક એફિશિયન્સી વધારવાની રીત જાણો.",
+            "VVT (Variable Valve Timing) થી લો અને હાઇ સ્પીડ પર પાવર કઈ રીતે મળે છે તે સમજો."
+          ],
+          "storyStages": {
+            "realLifeHook": "નાના 1.0 લિટરના એન્જિનવાળી આધુનિક કાર જૂની 1.6 લિટરની કાર કરતાં વધુ પિકઅપ અને માઇલેજ કેવી રીતે આપી શકે?",
+            "problem": "સામાન્ય રીતે કુદરતી રીતે હવા ખેંચતા (Naturally Aspirated) એન્જિનમાં હવાનો જથ્થો વાતાવરણના દબાણ સુધી જ સીમિત રહે છે.",
+            "discovery": "એક્ઝોસ્ટ વાયુઓની વેડફાતી ઊર્જાથી ટર્બાઇન ચલાવી કોમ્પ્રેસર વડે સિલિન્ડરમાં દબાણપૂર્વક વધુ હવા ભરવી એટલે ટર્બોચાર્જિંગ!",
+            "visualExplanation": "એક્ઝોસ્ટ ગેસ ➔ ટર્બાઇન વ્હીલ ➔ સામાન્ય શાફ્ટ ➔ સેન્ટ્રીફ્યુગલ કોમ્પ્રેસર ➔ ઇન્ટરકૂલર ➔ એન્જિન ઇન્ટેક મેનિફોલ્ડ.",
+            "workingPrinciple": "સુપરચાર્જર ક્રેન્કશાફ્ટમાંથી સીધો પાવર લે છે (Parasitic load), જ્યારે ટર્બોચાર્જર એક્ઝોસ્ટ એનર્જી વાપરે છે (No mechanical load on engine).",
+            "engineeringApplication": "ડીઝલ લોકોમોટિવ, હેવી ટ્રક, ટર્બો-પેટ્રોલ કાર્સ, વિમાન એન્જિન (ઊંચાઈએ હવાનું ઓછું દબાણ સરભર કરવા).",
+            "formulaAndNumerical": "Volumetric efficiency eta_v = (m_actual_air) / (V_d * rho_ambient). Forced induction increases eta_v > 100%!",
+            "examConnection": "GSSSB PYQ: ટર્બોચાર્જર શાના દ્વારા ચલાવવામાં આવે છે? સાચો જવાબ: Engine Exhaust Gases! વિમાનના એન્જિનમાં ઊંચાઈએ પાવર જાળવવા શું વપરાય છે? સાચો જવાબ: Supercharging!",
+            "recallConclusion": "Supercharger = Crank driven; Turbocharger = Exhaust driven; Intercooler = Increases air density."
+          },
+          "recallQuestions": [
+            {
+              "question": "ટર્બોચાર્જર (Turbocharger) કઈ ઊર્જા દ્વારા સંચાલિત થાય છે?",
+              "options": [
+                "એન્જિન ક્રેન્કશાફ્ટ દ્વારા બેલ્ટ ડ્રાઇવથી",
+                "બેટરીના ઇલેક્ટ્રિક મોટર દ્વારા",
+                "એન્જિનના બહાર નીકળતા એક્ઝોસ્ટ વાયુઓ દ્વારા",
+                "હાઇડ્રોલિક પ્રેશર દ્વારા"
+              ],
+              "correctAnswer": 2,
+              "explanation": "ટર્બોચાર્જર એક્ઝોસ્ટ વાયુઓની ઊર્જાથી ટર્બાઇન ફેરવીને તાજી હવાને દબાણપૂર્વક સિલિન્ડરમાં મોકલે છે."
+            },
+            {
+              "question": "ટર્બોચાર્જિંગ સિસ્ટમમાં ઇન્ટરકૂલર (Intercooler) નો મુખ્ય હેતુ શું છે?",
+              "options": [
+                "એન્જિન ઓઇલ ઠંડુ કરવું",
+                "કોમ્પ્રેસ થયેલી હવાનું તાપમાન ઘટાડી તેની ડેન્સિટી વધારવી",
+                "એક્ઝોસ્ટ વાયુઓ ઠંડા કરવા",
+                "ફ્યુઅલનું તાપમાન ઘટાડવું"
+              ],
+              "correctAnswer": 1,
+              "explanation": "કોમ્પ્રેસ થયેલી હવા ગરમ થાય છે; ઇન્ટરકૂલર તેને ઠંડી કરી તેની ડેન્સિટી વધારે છે જેથી સિલિન્ડરમાં વધુ ઓક્સિજન પ્રવેશે."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": 38,
+      "subTopicName": "Excavators, Dumpers, Draggers, Cranes & Drilling Rigs (D.R. & D.T.H.)",
+      "title": "Excavators, Dumpers, Draggers, Cranes & Drilling Rigs (D.R. & D.T.H.)",
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Construction & Mining Machinery: Hydraulic Actuation & DTH Drilling",
+          "videoId": "vid_s4_t38_ep1",
+          "durationSeconds": 360,
+          "assetPath": "assets/videos/construction_heavy_equipment.mp4",
+          "url": "https://www.youtube.com/results?search_query=Excavator+Dumper+Crane+DTH+Drilling+Rig+mechanical+engineering",
+          "description": "કન્સ્ટ્રક્શન અને માઇનિંગ મશીનરી: હાઇડ્રોલિક એકસ્કેવેટર, ડમ્પર, ડ્રેગલાઇન, ક્રેન્સ, અને DTH (Down-the-Hole) વિ. Rotary Drilling Rigs.",
+          "learningObjectives": [
+            "એકસ્કેવેટર, ડમ્પર, ડ્રેગલાઇન અને ક્રેનની રચના અને કાર્ય સમજો.",
+            "હાઇડ્રોલિક એક્ટ્યુએશન (હાઇડ્રોલિક પંપ, વાલ્વ, સિલિન્ડર) ના ફાયદા જાણો.",
+            "DTH (Down The Hole) અને Rotary Drilling પદ્ધતિઓ વચ્ચેનો તફાવત સમજો."
+          ],
+          "storyStages": {
+            "realLifeHook": "જ્યારે ક્વારીમાં વિશાળ ખડકો તોડવાના હોય કે રસ્તા બનાવવા સેંકડો ટન માટી ખસેડવાની હોય, ત્યારે કયા મશીનો વપરાય છે?",
+            "problem": "ખૂબ સખત પથ્થરોમાં ઊંડા બોરહોલ પાડવા માટે સાદા ડ્રિલિંગ બીટ્સ તરત ઘસાઈ જાય છે.",
+            "discovery": "DTH (Down-The-Hole) હેમર હવાના દબાણે સીધો ખાડાના તળિયે જઈને ખડક પર પ્રહાર કરે છે, જેથી ઊંડાઈ વધવા છતાં પંચિંગ પાવર ઘટતો નથી!",
+            "visualExplanation": "હાઇડ્રોલિક એક્સકેવેટર: બૂમ, આર્મ, બકેટ અને સ્લિવિંગ રિંગ; DTH ડ્રિલિંગ હેમર ન્યુમેટિક પિસ્ટન એક્શન.",
+            "workingPrinciple": "પાસ્કલનો નિયમ: હાઇડ્રોલિક ઓઇલના દબાણ વડે ભારે વજન ઉપાડવું. DTH માં કોમ્પ્રેસ્ડ એર ન્યુમેટિક હેમર ચલાવે છે.",
+            "engineeringApplication": "હાઇવે નિર્માણ, ડેમ પ્રોજેક્ટ્સ, ઓપનકાસ્ટ માઇનિંગ, ગ્રાઉન્ડવોટર બોરવેલ.",
+            "formulaAndNumerical": "Excavator Cycle Time T = Dig time + Swing time + Dump time + Return time. Output Q = (3600 * q * f) / T.",
+            "examConnection": "GSSSB PYQ: ખૂબ ઊંડા અને સખત ખડકોમાં કાર્યક્ષમ ડ્રિલિંગ માટે કયું સાધન વપરાય છે? સાચો જવાબ: DTH (Down-The-Hole) Drilling Rig!",
+            "recallConclusion": "Excavator digs & loads; Dumper transports; DTH drills hard rock directly at hole bottom."
+          },
+          "recallQuestions": [
+            {
+              "question": "સખત ખડકોમાં ઊંડા બ્લાસ્ટ હોલ ડ્રિલિંગ માટે સૌથી કાર્યક્ષમ સાધન કયું છે?",
+              "options": [
+                "ઓગર ડ્રિલિંગ",
+                "DTH (Down The Hole) ડ્રિલિંગ રિગ",
+                "ડાયમન્ડ કોર ડ્રિલ",
+                "હેન્ડ હેમર"
+              ],
+              "correctAnswer": 1,
+              "explanation": "DTH ડ્રિલિંગમાં ન્યુમેટિક હેમર બોરહોલની અંદર છેક નીચે પહોંચીને સીધો પથ્થર પર ઘા કરે છે, જેથી એનર્જી લોસ થતો નથી."
+            },
+            {
+              "question": "માટી ખોદીને સોફ્ટ ગ્રાઉન્ડ પરથી દૂર સુધી ફેંકવા (Cast કરવા) માટે કયું સાધન વપરાય છે?",
+              "options": [
+                "ડ્રેગલાઇન (Dragline)",
+                "મોટર ગ્રેડર",
+                "રોડ રોલર",
+                "ટ્રેન્ચર"
+              ],
+              "correctAnswer": 0,
+              "explanation": "ડ્રેગલાઇન લાંબા બૂમ અને કેબલ આધારિત બકેટ વડે દૂર સુધીની માટી ખોદીને ખસેડવા માટે આદર્શ છે."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": 39,
+      "subTopicName": "Combustion Stages & Combustion Chambers",
+      "title": "Combustion Stages & Combustion Chambers",
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Stages of Combustion (Ignition Delay, Rapid & Controlled) & Chamber Designs",
+          "videoId": "vid_s4_t39_ep1",
+          "durationSeconds": 360,
+          "assetPath": "assets/videos/ic_engine_combustion_knocking.mp4",
+          "url": "https://www.youtube.com/results?search_query=Stages+of+Combustion+and+Combustion+Chambers+IC+Engines",
+          "description": "કમ્બશનના તબક્કાઓ: SI એન્જિનના 3 તબક્કા વિ. CI એન્જિનના 4 તબક્કા (ઇગ્નીશન ડીલે, અનકંટ્રોલ્ડ કમ્બશન, કંટ્રોલ્ડ કમ્બશન, આફ્ટર બર્નિંગ), અને કમ્બશન ચેમ્બર ડિઝાઇન (Hemispherical, Ricardo, Pre-combustion).",
+          "learningObjectives": [
+            "SI એન્જિનમાં ફ્લેમ ડેવલપમેન્ટ અને પ્રોપેગેશનના 3 તબક્કા સમજો.",
+            "CI એન્જિનમાં 4 તબક્કાઓ અને P-theta ડાયાગ્રામ સમજો.",
+            "સ્વર્લ (Swirl), સ્ક્વિશ (Squish) અને ટર્બ્યુલન્સનું મહત્વ જાણો."
+          ],
+          "storyStages": {
+            "realLifeHook": "ડીઝલ એન્જિનમાં ઇંધણ ઇન્જેક્ટ થયા પછી તરત કેમ સળગતું નથી, અને જો મોડું સળગે તો શું થાય?",
+            "problem": "ઇન્જેક્ટ થયેલા ડીઝલ ટીપાંનું પહેલાં એટોમાઇઝેશન, બાષ્પીભવન અને રાસાયણિક પ્રતિક્રિયા થવામાં થોડો સમય લાગે છે જેને Ignition Delay કહે છે.",
+            "discovery": "જો Ignition Delay લાંબો હોય તો વધુ પડતું ડીઝલ ભેગું થઈ જાય છે, જે પછી ધડાકાભેર એકસાથે સળગી ઊઠે છે (Rapid Pressure Rise).",
+            "visualExplanation": "P-theta (Pressure-Crank Angle) ગ્રાફ: A ➔ B (ઇગ્નીશન ડીલે), B ➔ C (અનકંટ્રોલ્ડ કમ્બશન), C ➔ D (કંટ્રોલ્ડ કમ્બશન), D ➔ E (આફ્ટર બર્નિંગ).",
+            "workingPrinciple": "ચેમ્બર શેપ: Hemispherical અને Wedge ચેમ્બર્સ ફ્લેમ ટ્રાવેલ ઘટાડે છે; CI માં Toroidal અને Pre-combustion ચેમ્બર્સ હવાનું જોરદાર Swirl પેદા કરે છે.",
+            "engineeringApplication": "DI (Direct Injection) એન્જિનમાં હાઇ એફિશિયન્સી, IDI (Indirect Injection) માં સ્મૂધ રનિંગ.",
+            "formulaAndNumerical": "Delay Period tau = tau_physical + tau_chemical. Physical delay = Atomization, vaporization, mixing; Chemical delay = Pre-flame reactions.",
+            "examConnection": "GSSSB PYQ: CI એન્જિનમાં કમ્બશનનો ત્રીજો તબક્કો કયો છે? સાચો જવાબ: Controlled Combustion! સ્ક્વિશ (Squish) કઈ સ્થિતિમાં ઉત્પન્ન થાય છે? સાચો જવાબ: Near TDC as piston approaches cylinder head!",
+            "recallConclusion": "CI combustion = 1. Ignition delay, 2. Rapid combustion, 3. Controlled combustion, 4. Afterburning."
+          },
+          "recallQuestions": [
+            {
+              "question": "સી.આઈ. (ડીઝલ) એન્જિનમાં કમ્બશનનો બીજો તબક્કો કયા નામે ઓળખાય છે?",
+              "options": [
+                "ઇગ્નીશન ડીલે પિરિયડ",
+                "અનકંટ્રોલ્ડ / રેપિડ કમ્બશન (Rapid Combustion)",
+                "કંટ્રોલ્ડ કમ્બશન",
+                "આફ્ટર બર્નિંગ"
+              ],
+              "correctAnswer": 1,
+              "explanation": "બીજા તબક્કામાં ડીલે પિરિયડ દરમિયાન ભેગું થયેલું બળતણ એકાએક સળગે છે, જેને અનકંટ્રોલ્ડ અથવા રેપિડ કમ્બશન કહે છે."
+            },
+            {
+              "question": "કમ્બશન ચેમ્બરમાં પિસ્ટન જ્યારે TDC ની અત્યંત નજીક પહોંચે ત્યારે પેદા થતી હવાની ત્રિજ્યાવર્તી ગતિને શું કહે છે?",
+              "options": [
+                "સ્વર્લ (Swirl)",
+                "સ્ક્વિશ (Squish)",
+                "ટર્બ્યુલન્સ",
+                "ડિટોનેશન"
+              ],
+              "correctAnswer": 1,
+              "explanation": "પિસ્ટન ક્રાઉન અને સિલિન્ડર હેડ વચ્ચેની ક્લિયરન્સમાંથી હવા ચેમ્બર તરફ ધકેલાય તેને સ્ક્વિશ (Squish) કહે છે."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": 40,
+      "subTopicName": "Fuel Supply Systems in SI & CI Engines",
+      "title": "Fuel Supply Systems in SI & CI Engines",
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Fuel Circuit Architecture: Fuel Pumps, Filters, Injectors & Metering",
+          "videoId": "vid_s4_t40_ep1",
+          "durationSeconds": 360,
+          "assetPath": "assets/videos/fuel_systems_and_crdi.mp4",
+          "url": "https://www.youtube.com/results?search_query=Fuel+Supply+Systems+in+SI+and+CI+Engines+mechanical+engineering",
+          "description": "ઇંધણ સપ્લાય સર્કિટ: ફ્યુઅલ ટેન્ક, લો-પ્રેશર લિફ્ટ પંપ, ફ્યુઅલ ફિલ્ટર્સ (પ્રાઇમરી & સેકન્ડરી), ઇન-લાઇન ફ્યુઅલ ઇન્જેક્શન પંપ (FIP) અને ઇન્જેક્ટર્સ.",
+          "learningObjectives": [
+            "SI એન્જિનની લો-પ્રેશર ફ્યુઅલ સિસ્ટમ અને CI એન્જિનની હાઇ-પ્રેશર સિસ્ટમ વચ્ચેનો તફાવત સમજો.",
+            "JerK type FIP પંપ, પ્લન્જર હેલિક્સ કંટ્રોલ અને ગવર્નરનું કાર્ય જાણો.",
+            "ડીઝલ ફિલ્ટરમાંથી વોટર સેપરેટર અને એર બ્લીડિંગનું મહત્વ સમજો."
+          ],
+          "storyStages": {
+            "realLifeHook": "જો ડીઝલ ગાડીમાં ડીઝલ ખતમ થઈ જાય અને નવું ડીઝલ ભરવામાં આવે, તો પણ સેલ્ફ મારતાં જ ગાડી કેમ ચાલુ થતી નથી?",
+            "problem": "ડીઝલ પાઇપલાઇનમાં હવા ભરાઈ જાય (Air Lock) ત્યારે FIP પંપ પ્રેશર બનાવી શકતો નથી, તેથી સિસ્ટમને 'બ્લીડ' કરવી પડે છે.",
+            "discovery": "ડીઝલ સિસ્ટમમાં 150 થી 2000 બાર સુધીનું અત્યંત ઊંચું દબાણ પેદા કરવા માટે ખાસ પ્રકારના પ્રિસિઝન પ્લન્જર પંપ અને નોઝલની જરૂર પડે છે.",
+            "visualExplanation": "સર્કિટ ડાયાગ્રામ: ટેન્ક ➔ ફીડ પંપ ➔ પ્રાઇમરી ફિલ્ટર ➔ સેકન્ડરી ફિલ્ટર ➔ FIP (ઇન્જેક્શન પંપ) ➔ હાઇ પ્રેશર પાઇપ ➔ ઇન્જેક્ટર ➔ ઓવરફ્લો રિટર્ન લાઇન.",
+            "workingPrinciple": "પ્લન્જર હેલિક્સ કંટ્રોલ: પ્લન્જરને રેક અને પિનિયન વડે ફેરવીને ઇન્જેક્ટ થતા ડીઝલનો જથ્થો (Fuel Metering) નિયંત્રિત કરાય છે.",
+            "engineeringApplication": "ટ્રક, બસ અને ડીઝલ જનરેટર સેટ્સમાં બોશ ઇન-લાઇન અને રોટરી ડિસ્ટ્રીબ્યુટર પંપ.",
+            "formulaAndNumerical": "Plunger displacement: V = (pi/4) * d^2 * stroke. Pressure at nozzle opening: P_inj = 150 - 250 bar (Conventional FIP).",
+            "examConnection": "GSSSB PYQ: ડીઝલ એન્જિન ફ્યુઅલ સિસ્ટમમાં હવા પ્રવેશવાના કારણે શું સર્જાય છે? સાચો જવાબ: Air Lock! FIP પંપમાં ફ્યુઅલ ડિલિવરી કોના દ્વારા નિયંત્રિત થાય છે? સાચો જવાબ: Control Rack & Plunger Helix!",
+            "recallConclusion": "SI uses low pressure (~3 bar); CI uses very high pressure (>150 bar) to overcome cylinder compression."
+          },
+          "recallQuestions": [
+            {
+              "question": "ડીઝલ એન્જિનમાં ફ્યુઅલ લાઇનમાંથી હવા દૂર કરવાની પ્રક્રિયાને શું કહે છે?",
+              "options": [
+                "સ્કેવેન્જિંગ",
+                "બ્લીડિંગ (Bleeding)",
+                "સુપરચાર્જિંગ",
+                "પ્રાઇમિંગ"
+              ],
+              "correctAnswer": 1,
+              "explanation": "ફ્યુઅલ લાઇનમાં હવા ભરાતાં એર-લોક થાય છે, જેને પ્રાઇમિંગ પંપ અને બ્લીડ સ્ક્રૂ વડે બહાર કાઢવાની પ્રક્રિયાને બ્લીડિંગ કહે છે."
+            },
+            {
+              "question": "મિકેનિકલ ઇન્જેક્શન પંપ (FIP) માં ફ્યુઅલ ક્વોન્ટિટી કંટ્રોલ કરવા માટે પ્લન્જર પર શું પ્રોવાઇડ કરેલું હોય છે?",
+              "options": [
+                "સ્ક્રૂ થ્રેડ",
+                "હેલિકલ ગ્રૂવ (Helix Groove)",
+                "કી-વે",
+                "બોલ બેરિંગ"
+              ],
+              "correctAnswer": 1,
+              "explanation": "પ્લન્જર પર હેલિક્સ ગ્રૂવ હોય છે, જે કંટ્રોલ રેક વડે ફરતાં સ્પીલ પોર્ટને વહેલો કે મોડો ખોલીને ફ્યુઅલનું પ્રમાણ નક્કી કરે છે."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": 41,
+      "subTopicName": "Common Rail Direct Injection (CRDI)",
+      "title": "Common Rail Direct Injection (CRDI)",
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Common Rail Direct Injection: 2000+ Bar Pressure & Piezoelectric Injectors",
+          "videoId": "vid_s4_t41_ep1",
+          "durationSeconds": 360,
+          "assetPath": "assets/videos/fuel_systems_and_crdi.mp4",
+          "url": "https://www.youtube.com/results?search_query=CRDI+system+working+animation+mechanical+engineering+lecture",
+          "description": "CRDI ટેકનોલોજી: હાઇ પ્રેશર પંપ, કોમન રેલ (Accumulator), ઇલેક્ટ્રોનિક કંટ્રોલ યુનિટ (ECU), સોલેનોઇડ & પીઝોઇલેક્ટ્રિક ઇન્જેક્ટર્સ અને મલ્ટી-સ્ટેજ ઇન્જેક્શન (Pilot, Main, Post).",
+          "learningObjectives": [
+            "પરંપરાગત FIP ની સરખામણીએ CRDI ના ફાયદા (Silent running, low emissions, high torque) સમજો.",
+            "કોમન રેલમાં અચળ 1600-2500 બાર પ્રેશર જાળવવાની કાર્યપદ્ધતિ જાણો.",
+            "પાઇલટ ઇન્જેક્શન (Pilot Injection) દ્વારા નોકિંગ કેવી રીતે દૂર થાય છે તે સમજો."
+          ],
+          "storyStages": {
+            "realLifeHook": "જૂના ડીઝલ વાહનો કેમ ટ્રેક્ટર જેવા ધ્રૂજતા અને અવાજ કરતા હતા, જ્યારે આજના CRDI ડીઝલ વાહનો પેટ્રોલ જેવા શાંત કેમ હોય છે?",
+            "problem": "જૂના એન્જિનમાં એક જ મોટો ડીઝલ સ્પ્રે થતો હતો, જેના કારણે અનકંટ્રોલ્ડ કમ્બશનથી જોરદાર નોકિંગ અને અવાજ થતો હતો.",
+            "discovery": "જો મુખ્ય સ્પ્રે કરતાં પહેલાં એક અતિ સૂક્ષ્મ 'પાઇલટ સ્પ્રે' કરવામાં આવે, તો સિલિન્ડરમાં પહેલેથી જ નાની જ્યોત પ્રગટી જાય છે, જેથી મોટો ધડાકો થતો નથી!",
+            "visualExplanation": "હાઇ પ્રેશર પંપ ➔ કોમન રેલ ટ્યુબ (પ્રેશર સેન્સર + પ્રેશર રેગ્યુલેટર) ➔ ઇલેક્ટ્રોનિક ઇન્જેક્ટર્સ (ECU સિગ્નલ).",
+            "workingPrinciple": "રેલ પ્રેશર એન્જિન આરપીએમ પર નિર્ભર નથી (Flexible Pressure & Timing). પીઝોઇલેક્ટ્રિક ક્રિસ્ટલ 0.1 મિલીસેકન્ડમાં 5 થી 7 અલગ અલગ ઇન્જેક્શન સાયકલ કરી શકે છે.",
+            "engineeringApplication": "તમામ આધુનિક BS-VI ડીઝલ કાર, એસયુવી, ટ્રક અને મરીન એન્જિન.",
+            "formulaAndNumerical": "Common rail pressure P_rail = 1500 to 2500 bar. Pilot injection (~1-2 mg), Main injection (~20-40 mg), Post injection (for DPF regeneration).",
+            "examConnection": "GSSSB PYQ: CRDI નું સંપૂર્ણ નામ શું છે? સાચો જવાબ: Common Rail Direct Injection! CRDI માં અવાજ અને નોકિંગ ઘટાડવા કયો ઇન્જેક્શન તબક્કો વપરાય છે? સાચો જવાબ: Pilot Injection!",
+            "recallConclusion": "Common Rail stores constant ultra-high pressure fuel; ECU precisely triggers Piezo injectors."
+          },
+          "recallQuestions": [
+            {
+              "question": "CRDI સિસ્ટમમાં 'કોમન રેલ' (Common Rail) નો મુખ્ય ઉપયોગ શું છે?",
+              "options": [
+                "હવા અને ડીઝલ ભેગા કરવા",
+                "અતિ ઉચ્ચ દબાણે ડીઝલનો સંગ્રહ કરી તમામ ઇન્જેક્ટરને અચળ પ્રેશર પૂરું પાડવું",
+                "એક્ઝોસ્ટ વાયુઓ બહાર કાઢવા",
+                "લુબ્રિકેશન ઓઇલ ફિલ્ટર કરવું"
+              ],
+              "correctAnswer": 1,
+              "explanation": "કોમન રેલ એક એક્યુમ્યુલેટર જેવું કામ કરે છે જે 1600 થી 2200 બારના અચળ પ્રેશરે ડીઝલ સંગ્રહીને બધા ઇન્જેક્ટરને સપ્લાય કરે છે."
+            },
+            {
+              "question": "CRDI એન્જિનમાં નોકિંગ અટકાવવા અને કમ્બશન સોફ્ટ બનાવવા માટે કયું ઇન્જેક્શન આપવામાં આવે છે?",
+              "options": [
+                "પોસ્ટ ઇન્જેક્શન",
+                "પાઇલટ ઇન્જેક્શન (Pilot Injection)",
+                "સેકન્ડરી ઇન્જેક્શન",
+                "મેઇન ઇન્જેક્શન"
+              ],
+              "correctAnswer": 1,
+              "explanation": "મેઇન ઇન્જેક્શન પહેલાં અતિ સૂક્ષ્મ પાઇલટ ઇન્જેક્શન આપી ચેમ્બરમાં પ્રી-ઇગ્નીશન જેવું વાતાવરણ સર્જાય છે, જેથી પ્રેશર રાઇઝ સ્મૂધ બને છે."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": 42,
+      "subTopicName": "Testing & Performance of IC Engines",
+      "title": "Testing & Performance of IC Engines",
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Engine Performance Metrics: IP, BP, FP, Morse Test & BSFC Calculations",
+          "videoId": "vid_s4_t42_ep1",
+          "durationSeconds": 360,
+          "assetPath": "assets/videos/ic_engine_testing_and_performance.mp4",
+          "url": "https://www.youtube.com/results?search_query=Testing+and+Performance+of+IC+Engines+numerical+problems+mechanical+engineering",
+          "description": "એન્જિન પર્ફોર્મન્સ ટેસ્ટિંગ: Indicated Power (IP), Brake Power (BP), Friction Power (FP), Morse Test, Mechanical & Thermal Efficiency, BSFC અને Heat Balance Sheet.",
+          "learningObjectives": [
+            "Indicated Power (IP = P_mi * L * A * n * k / 60000) નું સૂત્ર અને એકમો સમજો.",
+            "Brake Power (BP = 2*pi*N*T / 60000) અને Dynamometers (Rope brake, Prony brake, Hydraulic) સમજો.",
+            "Morse Test દ્વારા મલ્ટી-સિલિન્ડર એન્જિનનો ફ્રિક્શન પાવર અને યાંત્રિક કાર્યક્ષમતા ગણતાં શીખો."
+          ],
+          "storyStages": {
+            "realLifeHook": "જ્યારે કાર ઉત્પાદક દાવો કરે છે કે એન્જિન 100 હોર્સપાવર (BHP) આપે છે, ત્યારે તેઓ આ પાવર લેબોરેટરીમાં કેવી રીતે માપે છે?",
+            "problem": "સિલિન્ડરની અંદર કમ્બશનથી ઉત્પન્ન થયેલો બધો જ પાવર વ્હીલ્સ સુધી પહોંચતો નથી; વચ્ચે પિસ્ટન, રિંગ્સ અને બેરિંગ્સનું ઘર્ષણ પાવર ખાઈ જાય છે.",
+            "discovery": "ઇન્ડિકેટર ડાયાગ્રામથી સિલિન્ડરની અંદરનો પાવર (IP) મપાય છે, અને ક્રેન્કશાફ્ટ પર ડાયનામોમીટર વડે બ્રેક પાવર (BP) મપાય છે!",
+            "visualExplanation": "સિલિન્ડર કમ્બશન ➔ IP; ક્રેન્કશાફ્ટ ડાયનામોમીટર બ્રેક ➔ BP; વચ્ચે વેડફાતો પાવર ➔ FP (Friction Power).",
+            "workingPrinciple": "Mechanical Efficiency: eta_m = BP / IP. Morse Test: વારાફરતી એક-એક સિલિન્ડરનો સ્પાર્ક/ઇન્જેક્ટર કટ ઓફ કરી FP શોધાય છે.",
+            "engineeringApplication": "ઓટોમોટિવ એન્જિન ડાયનો ટેસ્ટિંગ, ફ્યુઅલ ઇકોનોમી સર્ટિફિકેશન, એન્જિન હેલ્થ ડાયગ્નોસિસ.",
+            "formulaAndNumerical": "IP = (P_mi * L * A * n * k) / 60000 kW (4-stroke n = N/2, 2-stroke n = N). BP = (2*pi*N*T)/60000 kW. BSFC = m_f (kg/h) / BP (kW).",
+            "examConnection": "GSSSB PYQ: 4-Stroke એન્જિન માટે Indicated Power ગણતી વખતે પાવર સ્ટ્રોક પ્રતિ મિનિટ n બરાબર શું લેવાય છે? સાચો જવાબ: N/2! Morse Test કયા એન્જિન માટે વપરાય છે? સાચો જવાબ: Multi-cylinder engine!",
+            "recallConclusion": "IP > BP always; FP = IP - BP; Morse test cuts off cylinders one by one to find IP."
+          },
+          "recallQuestions": [
+            {
+              "question": "ચાર-સ્ટ્રોક (4-Stroke) એન્જિન માટે Indicated Power (IP) ના સૂત્રમાં પાવર સ્ટ્રોકની સંખ્યા (n) કેટલી લેવામાં આવે છે?",
+              "options": [
+                "n = N",
+                "n = N / 2",
+                "n = 2 * N",
+                "n = N / 4"
+              ],
+              "correctAnswer": 1,
+              "explanation": "ચાર-સ્ટ્રોક એન્જિનમાં ક્રેન્કશાફ્ટના 2 રોટેશને 1 પાવર સ્ટ્રોક મળતો હોવાથી n = N / 2 લેવામાં આવે છે."
+            },
+            {
+              "question": "મોર્સ ટેસ્ટ (Morse Test) નો મુખ્ય ઉપયોગ શું છે?",
+              "options": [
+                "એર-ફ્યુઅલ રેશિયો માપવા",
+                "સિલિન્ડરનું દબાણ માપવા",
+                "મલ્ટી-સિલિન્ડર એન્જિનનો ફ્રિક્શન પાવર (FP) અને IP શોધવા",
+                "કૂલિંગ પાણીનો જથ્થો માપવા"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Morse Test મલ્ટી-સિલિન્ડર એન્જિનમાં એક-એક સિલિન્ડર કટ-ઓફ કરીને વ્યક્તિગત સિલિન્ડરનો Indicated Power અને કુલ Friction Power શોધવા વપરાય છે."
+            },
+            {
+              "question": "જો એન્જિનનો Indicated Power 50 kW અને Brake Power 40 kW હોય, તો યાંત્રિક કાર્યક્ષમતા (Mechanical Efficiency) કેટલી થાય?",
+              "options": [
+                "70%",
+                "80%",
+                "90%",
+                "125%"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Mechanical Efficiency = BP / IP = 40 / 50 = 0.80 એટલે કે 80%."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": 43,
+      "subTopicName": "Air-Standard Otto, Diesel & Dual Cycles",
+      "title": "Air-Standard Otto, Diesel & Dual Cycles",
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Thermodynamic Air Cycles: Otto, Diesel, Dual Comparison & Efficiency Formulas",
+          "videoId": "vid_s4_t43_ep1",
+          "durationSeconds": 360,
+          "assetPath": "assets/videos/air_standard_cycles.mp4",
+          "url": "https://www.youtube.com/results?search_query=Otto+Diesel+and+Dual+Cycles+PV+TS+diagram+mechanical+engineering",
+          "description": "એર-સ્ટાન્ડર્ડ સાયકલ્સ: ઓટો, ડીઝલ અને ડ્યુઅલ સાયકલના P-V અને T-s ડાયાગ્રામ, કમ્પ્રેશન રેશિયો (r), કટ-ઓફ રેશિયો (rc), એફિશિયન્સી સૂત્રો અને સરખામણી.",
+          "learningObjectives": [
+            "ઓટો સાયકલ (Constant Volume heat addition) અને ડીઝલ સાયકલ (Constant Pressure heat addition) સમજો.",
+            "એફિશિયન્સી સૂત્રો: eta_otto = 1 - 1/r^(gamma-1) અને eta_diesel = 1 - (1/r^(gamma-1)) * [(rc^gamma - 1)/(gamma*(rc - 1))].",
+            "સરખામણી: For same compression ratio & heat input: Otto > Dual > Diesel. For same maximum pressure & heat input: Diesel > Dual > Otto."
+          ],
+          "storyStages": {
+            "realLifeHook": "પેટ્રોલ એન્જિનમાં સ્પાર્ક પ્લગ હોય છે અને ડીઝલ એન્જિનમાં ઇન્જેક્ટર; થર્મોડાયનેમિક્સની દ્રષ્ટિએ આ બંને સાયકલ કઈ રીતે અલગ પડે છે?",
+            "problem": "જો કમ્પ્રેશન રેશિયો વધારવાથી એફિશિયન્સી વધતી હોય, તો પેટ્રોલ એન્જિનમાં r = 6 થી 10 સુધી જ કેમ રાખી શકાય છે?",
+            "discovery": "પેટ્રોલમાં ઊંચા r પર પ્રી-ઇગ્નીશન અને નોકિંગ થાય છે, જ્યારે ડીઝલમાં ફક્ત હવા દબાતી હોવાથી r = 14 થી 22 સુધી રાખી શકાય છે!",
+            "visualExplanation": "P-V અને T-s ડાયાગ્રામ્સ: 1-2 આઇસેન્ટ્રોપિક કમ્પ્રેશન, 2-3 હીટ એડિશન (V=C for Otto, P=C for Diesel), 3-4 આઇસેન્ટ્રોપિક એક્સપાન્શન, 4-1 હીટ રિજેક્શન (V=C).",
+            "workingPrinciple": "ડ્યુઅલ સાયકલ (સબાથે સાયકલ): થોડી હીટ અચળ કદે ઉમેરાય છે અને બાકીની હીટ અચળ દબાણે ઉમેરાય છે (આધુનિક હાઇ સ્પીડ ડીઝલ એન્જિન).",
+            "engineeringApplication": "બાઇક, કાર (ઓટો સાયકલ); ટ્રક, જનરેટર, શિપ (ડીઝલ સાયકલ); આધુનિક કાર્સ (ડ્યુઅલ સાયકલ).",
+            "formulaAndNumerical": "Otto: eta = 1 - 1/(r^(gamma-1)). Compression ratio r = (V_s + V_c) / V_c = 1 + V_s/V_c. Cut-off ratio rc = V3/V2.",
+            "examConnection": "GSSSB PYQ: સમાન કમ્પ્રેશન રેશિયો અને હીટ ઇનપુટ માટે કઈ સાયકલની કાર્યક્ષમતા સૌથી વધુ હોય છે? સાચો જવાબ: Otto Cycle! સમાન મહત્તમ દબાણ અને તાપમાન માટે કઈ સાયકલ સૌથી કાર્યક્ષમ છે? સાચો જવાબ: Diesel Cycle!",
+            "recallConclusion": "Same r: Otto > Dual > Diesel; Same P_max: Diesel > Dual > Otto."
+          },
+          "recallQuestions": [
+            {
+              "question": "સમાન કમ્પ્રેશન રેશિયો (r) અને હીટ ઇનપુટ માટે નીચેનામાંથી કઈ સાયકલની કાર્યક્ષમતા સૌથી વધુ હોય છે?",
+              "options": [
+                "ડીઝલ સાયકલ",
+                "ઓટો સાયકલ (Otto Cycle)",
+                "ડ્યુઅલ સાયકલ",
+                "કાર્નોટ સાયકલ"
+              ],
+              "correctAnswer": 1,
+              "explanation": "સમાન કમ્પ્રેશન રેશિયો માટે: eta_Otto > eta_Dual > eta_Diesel, કારણ કે ઓટો સાયકલમાં તમામ હીટ મહત્તમ તાપમાને ઉમેરાય છે."
+            },
+            {
+              "question": "ડીઝલ સાયકલમાં કટ-ઓફ રેશિયો (rc) વધારવાથી સાયકલની કાર્યક્ષમતામાં શો ફેરફાર થાય છે?",
+              "options": [
+                "કાર્યક્ષમતા વધે છે",
+                "કાર્યક્ષમતા ઘટે છે (Decreases)",
+                "કાર્યક્ષમતા અચળ રહે છે",
+                "પહેલાં વધે પછી ઘટે"
+              ],
+              "correctAnswer": 1,
+              "explanation": "ડીઝલ સાયકલમાં જેમ કટ-ઓફ રેશિયો (rc) વધે તેમ હીટ રિજેક્શન વધે છે, જેથી થર્મલ એફિશિયન્સી ઘટે છે."
+            },
+            {
+              "question": "સમાન મહત્તમ દબાણ (Maximum Peak Pressure) અને સમાન હીટ ઇનપુટ માટે કઈ સાયકલની કાર્યક્ષમતા સૌથી વધુ હોય છે?",
+              "options": [
+                "ઓટો સાયકલ",
+                "ડીઝલ સાયકલ (Diesel Cycle)",
+                "ડ્યુઅલ સાયકલ",
+                "રેન્કિન સાયકલ"
+              ],
+              "correctAnswer": 1,
+              "explanation": "સમાન પીક પ્રેશર માટે ડીઝલ સાયકલ વધુ ઊંચો કમ્પ્રેશન રેશિયો પ્રાપ્ત કરી શકે છે, તેથી Diesel > Dual > Otto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": 44,
+      "subTopicName": "Heavy Earth Movers & Construction Equipment",
+      "title": "Heavy Earth Movers & Construction Equipment",
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Heavy Earth Movers: Bulldozers, Graders, Scrapers & Loaders",
+          "videoId": "vid_s4_t44_ep1",
+          "durationSeconds": 360,
+          "assetPath": "assets/videos/construction_heavy_equipment.mp4",
+          "url": "https://www.youtube.com/results?search_query=Bulldozer+Motor+Grader+Scraper+Loader+mechanical+engineering",
+          "description": "અર્થમુવિંગ અને હેવી ઇક્વિપમેન્ટ: બુલડોઝર (U-blade, Straight blade), મોટર ગ્રેડર (લેવલિંગ & ફિનિશિંગ), સ્ક્રેપર (ડિગિંગ + ટ્રાન્સપોર્ટ) અને વ્હીલ લોડર્સ.",
+          "learningObjectives": [
+            "બુલડોઝર અને એન્ગલ ડોઝર વચ્ચેનો તફાવત સમજો.",
+            "મોટર ગ્રેડરનો રોડ કન્સ્ટ્રક્શન અને સરફેસ ફિનિશિંગમાં ઉપયોગ જાણો.",
+            "સ્ક્રેપર દ્વારા ખોદકામ, લોડિંગ, પરિવહન અને લેવલિંગની સંયુક્ત કામગીરી સમજો."
+          ],
+          "storyStages": {
+            "realLifeHook": "જ્યારે 6-લેન હાઇવે કે એક્સપ્રેસવે બનતો હોય ત્યારે જમીનને એકદમ કાચ જેવી સમતલ બનાવવાનું કામ કયું મશીન કરે છે?",
+            "problem": "બુલડોઝર માટી ધકેલી શકે છે પણ સચોટ સ્લોપ કે ક્રેમ્બર સાથે સમતલ ફિનિશિંગ આપી શકતું નથી.",
+            "discovery": "મોટર ગ્રેડરનું સેન્ટ્રલ મોલ્ડબોર્ડ બ્લેડ 360 ડિગ્રી ફરી શકે છે અને ચોક્કસ એન્ગલ પર સેટ થઈને રોડની ડિઝાઇન મુજબનો ક્રેમ્બર બનાવી શકે છે!",
+            "visualExplanation": "બુલડોઝર ક્રોલર ટ્રેક અને ફ્રન્ટ બ્લેડ; મોટર ગ્રેડર સેન્ટ્રલ બ્લેડ અને આર્ટીક્યુલેટેડ ફ્રેમ; વ્હીલ લોડર બકેટ લિફ્ટિંગ લિન્કેજ.",
+            "workingPrinciple": "ટોર્ક કન્વર્ટર અને પાવર શિફ્ટ ટ્રાન્સમિશન દ્વારા ભારે ટ્રેક્ટિવ ફોર્સ (Drawbar Pull) મેળવવામાં આવે છે.",
+            "engineeringApplication": "હાઇવે, એરપોર્ટ રનવે, ડેમ અને ઓપન માઇન્સ કન્સ્ટ્રક્શન.",
+            "formulaAndNumerical": "Blade capacity: V = 0.8 * W * H^2 (m3). Output rate: Q = (V * S * E) / T (m3/hr).",
+            "examConnection": "GSSSB PYQ: રસ્તાની સપાટી સમતલ અને ફિનિશ કરવા તથા ક્રેમ્બર બનાવવા કયું મશીન વપરાય છે? સાચો જવાબ: Motor Grader! માટી ખોદીને થોડા અંતરે લઈ જઈ પાથરવા કયું મશીન શ્રેષ્ઠ છે? સાચો જવાબ: Scraper!",
+            "recallConclusion": "Bulldozer = Pushing & rough grading; Motor Grader = Fine finishing & cambering; Scraper = Excavates & transports."
+          },
+          "recallQuestions": [
+            {
+              "question": "રોડ કન્સ્ટ્રક્શનમાં સપાટીને ચોક્કસ ઢાળ (Camber) સાથે ફિનિશ અને લેવલ કરવા માટે કયું સાધન સૌથી યોગ્ય છે?",
+              "options": [
+                "બુલડોઝર",
+                "મોટર ગ્રેડર (Motor Grader)",
+                "સ્ક્રેપર",
+                "બેકહો લોડર"
+              ],
+              "correctAnswer": 1,
+              "explanation": "મોટર ગ્રેડર લાંબા વ્હીલબેઝ અને એડજસ્ટેબલ સેન્ટ્રલ બ્લેડ ધરાવે છે, જે સચોટ સ્મૂધ સપાટી અને કેમ્બર બનાવે છે."
+            },
+            {
+              "question": "માટીને ખોદીને (Digging), લોડ કરીને, મધ્યમ અંતરે ટ્રાન્સપોર્ટ કરી યોગ્ય જાડાઈમાં પાથરવા માટે કયું મશીન સૌથી આર્થિક છે?",
+              "options": [
+                "સ્ક્રેપર (Scraper)",
+                "ક્રેન",
+                "રોક બ્રેકર",
+                "રોડ રોલર"
+              ],
+              "correctAnswer": 0,
+              "explanation": "સ્ક્રેપર એક જ મશીનમાં ખોદકામ, વહન અને પાથરવાની પ્રક્રિયા કરે છે, જેથી 300 થી 1500 મીટરના અંતરે તે સૌથી કિફાયતી છે."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

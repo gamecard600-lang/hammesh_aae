@@ -13,8 +13,6 @@ import 'screens/engineering_calculator_screen.dart';
 import 'models/exam_history.dart';
 import 'models/exam_result.dart';
 import 'models/study_progress.dart';
-import 'models/practice_mode.dart';
-import 'models/daily_task.dart';
 import 'services/local_storage_service.dart';
 import 'services/question_service.dart';
 import 'services/competition_service.dart';
@@ -23,7 +21,6 @@ import 'services/daily_task_service.dart';
 import 'services/chat_notification_service.dart';
 import 'services/auto_update_service.dart';
 import 'screens/competition/competition_leaderboard_screen.dart';
-import 'screens/ai_assistant/ai_dashboard_view.dart';
 import 'screens/chat/chat_screen.dart';
 
 void main() {
@@ -210,7 +207,6 @@ class _HomePageState extends State<HomePage> {
   int _totalSolved = 0;
   int _totalCorrect = 0;
   double _accuracy = 0;
-  DailyTaskSession? _dailyTaskSession;
   // ignore: unused_field
   bool _isLoading = true;
 
@@ -228,14 +224,12 @@ class _HomePageState extends State<HomePage> {
         LocalStorageService.loadTopicMistakes(),
         LocalStorageService.loadExamHistory(),
         LocalStorageService.loadCombinedStudyProgress(),
-        DailyTaskService.getTodaySession(),
       ]);
 
       final bookmarks = results[0] as Set<int>;
       final mistakes = results[1] as Set<int>;
       final history = results[3] as List<ExamHistory>;
       final progress = results[4] as List<StudyProgress>;
-      final dailySession = results[5] as DailyTaskSession;
 
       double totalScore = 0;
       int solved = 0;
@@ -247,23 +241,6 @@ class _HomePageState extends State<HomePage> {
           solved += h.totalQuestions;
           correct += h.correct;
         }
-      }
-
-      final today = DailyTaskService.getTodayDateString();
-      final todayHistory = history.where((h) => h.subTopic.contains('Daily Task ($today)')).toList();
-      DailyTaskSession updatedSession = dailySession;
-      if (todayHistory.isNotEmpty) {
-        final lastAttempt = todayHistory.first;
-        updatedSession = DailyTaskSession(
-          date: today,
-          questionIds: dailySession.questionIds,
-          completed: true,
-          correctCount: lastAttempt.correct,
-          wrongCount: lastAttempt.wrong,
-          score: lastAttempt.score,
-          accuracy: lastAttempt.accuracy,
-        );
-        await DailyTaskService.saveSession(updatedSession);
       }
 
       // Async background sync for competition results
@@ -280,7 +257,6 @@ class _HomePageState extends State<HomePage> {
         _totalSolved = solved;
         _totalCorrect = correct;
         _accuracy = solved > 0 ? (correct / solved) * 100 : 0;
-        _dailyTaskSession = updatedSession;
         _isLoading = false;
       });
     } catch (e) {
@@ -290,46 +266,6 @@ class _HomePageState extends State<HomePage> {
         _isLoading = false;
       });
     }
-  }
-
-  void _showSnackBar(String text) {
-    if (!mounted) return;
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text(text)),
-    );
-  }
-
-  Future<void> _startDailyTask() async {
-    final session = _dailyTaskSession ?? await DailyTaskService.getTodaySession();
-    if (!mounted) return;
-    if (session.questionIds.isEmpty) {
-      _showSnackBar('No daily task questions available.');
-      return;
-    }
-
-    setState(() => _isLoading = true);
-    final questions = await QuestionService.getQuestionsByIds(session.questionIds);
-    if (!mounted) return;
-    setState(() => _isLoading = false);
-
-    if (questions.isEmpty) {
-      _showSnackBar('Failed to load daily task questions.');
-      return;
-    }
-
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (_) => QuestionPracticeScreen(
-          questions: questions,
-          subject: 'GSSSB AAE',
-          subTopic: 'Daily Task (${session.date})',
-          config: PracticeConfig.topicTest,
-        ),
-      ),
-    ).then((_) {
-      _loadData();
-    });
   }
 
   @override
@@ -387,11 +323,7 @@ class _HomePageState extends State<HomePage> {
             const SizedBox(height: 16),
             _buildDailyQuestionChallengeCard(),
             const SizedBox(height: 16),
-            const AiDashboardView(),
-            const SizedBox(height: 16),
             _buildProgressCard(overallProgress),
-            const SizedBox(height: 16),
-            _buildDailyTaskCard(),
             const SizedBox(height: 20),
             _buildQuickAccessSection(),
             const SizedBox(height: 20),
@@ -578,100 +510,6 @@ class _HomePageState extends State<HomePage> {
                     ),
                   ],
                 ),
-              ),
-            ],
-          ),
-        ),
-      ),
-    );
-  }
-
-  Widget _buildDailyTaskCard() {
-    final session = _dailyTaskSession;
-    final int totalCount = session?.questionIds.length ?? 10;
-    final bool isCompleted = session?.completed ?? false;
-    final int attempted = isCompleted ? totalCount : (session?.selectedAnswers.length ?? 0);
-
-    return Card(
-      child: InkWell(
-        borderRadius: BorderRadius.circular(16),
-        onTap: _startDailyTask,
-        child: Padding(
-          padding: const EdgeInsets.all(16),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Row(
-                children: [
-                  Container(
-                    padding: const EdgeInsets.all(8),
-                    decoration: BoxDecoration(
-                      color: Colors.amber.shade100,
-                      borderRadius: BorderRadius.circular(10),
-                    ),
-                    child: const Icon(Icons.assignment_turned_in_outlined, color: Colors.amber, size: 22),
-                  ),
-                  const SizedBox(width: 12),
-                  const Expanded(
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Text('Daily Task', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15)),
-                        SizedBox(height: 2),
-                        Text('Today\'s Challenge • 50% PYQs & All Subjects', style: TextStyle(fontSize: 12, color: Colors.grey)),
-                      ],
-                    ),
-                  ),
-                  if (isCompleted)
-                    Container(
-                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                      decoration: BoxDecoration(
-                        color: Colors.green.shade50,
-                        borderRadius: BorderRadius.circular(8),
-                        border: Border.all(color: Colors.green.shade300),
-                      ),
-                      child: const Text('Complete ✓', style: TextStyle(color: Colors.green, fontSize: 11, fontWeight: FontWeight.bold)),
-                    ),
-                ],
-              ),
-              const SizedBox(height: 12),
-              ClipRRect(
-                borderRadius: BorderRadius.circular(6),
-                child: LinearProgressIndicator(
-                  value: totalCount > 0 ? (attempted / totalCount) : 0,
-                  backgroundColor: Colors.grey.shade200,
-                  valueColor: AlwaysStoppedAnimation<Color>(isCompleted ? Colors.green : const Color(0xFF2563EB)),
-                  minHeight: 6,
-                ),
-              ),
-              const SizedBox(height: 12),
-              Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  Text(
-                    isCompleted
-                        ? 'Score: ${session?.correctCount ?? 0}/$totalCount (${session?.accuracy.toStringAsFixed(0) ?? 0}%)'
-                        : 'Progress: $attempted / $totalCount Questions',
-                    style: TextStyle(
-                      fontSize: 12,
-                      fontWeight: FontWeight.bold,
-                      color: isCompleted ? Colors.green.shade800 : Colors.black87,
-                    ),
-                  ),
-                  ElevatedButton(
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: isCompleted ? Colors.green : const Color(0xFF2563EB),
-                      foregroundColor: Colors.white,
-                      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 6),
-                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
-                    ),
-                    onPressed: _startDailyTask,
-                    child: Text(
-                      isCompleted ? 'Review Task' : (attempted > 0 ? 'Continue' : 'Start Task'),
-                      style: const TextStyle(fontSize: 12, fontWeight: FontWeight.bold),
-                    ),
-                  ),
-                ],
               ),
             ],
           ),

@@ -61,6 +61,7 @@ class AnimatedTopicVisualWidget extends StatelessWidget {
           return TopicVideoPlayerWidget(
             video: v,
             topicName: material.topic,
+            subjectName: material.subject,
           );
         }),
         const SizedBox(height: 12),

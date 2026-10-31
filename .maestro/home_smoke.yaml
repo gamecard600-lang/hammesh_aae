@@ -2,5 +2,4 @@ appId: com.example.hammesh_aae
 ---
 - launchApp
 - assertVisible: "Your Progress"
-- assertVisible: "Daily Task"
 - assertVisible: "Quick Access"

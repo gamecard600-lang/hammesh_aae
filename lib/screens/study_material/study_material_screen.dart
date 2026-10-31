@@ -809,10 +809,7 @@ Formulas: ${currentMaterial.formulas.join(', ')}
   }
 
   Widget _buildTopicDetailsSection(StudyMaterial material) {
-    final StringBuffer sb = StringBuffer();
-    if (material.overview.isNotEmpty) sb.writeln('Overview:\n${material.overview}\n');
-    if (material.concept.isNotEmpty) sb.writeln('Concept:\n${material.concept}\n');
-    if (material.detailedTheory.isNotEmpty) sb.writeln('Detailed Theory:\n${material.detailedTheory}');
+    final String detailedText = material.detailedTheory.trim();
 
     return Card(
       margin: const EdgeInsets.only(bottom: 16),
@@ -831,7 +828,7 @@ Formulas: ${currentMaterial.formulas.join(', ')}
                       SizedBox(width: 8),
                       Expanded(
                         child: Text(
-                          '1. Topic Details',
+                          '2. Detailed Theory',
                           style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
                           overflow: TextOverflow.ellipsis,
                         ),
@@ -843,7 +840,7 @@ Formulas: ${currentMaterial.formulas.join(', ')}
                   onPressed: () {
                     AiChatDialog.show(
                       context,
-                      contextData: _getAiContext(sectionTitle: 'Topic Details', sectionContent: sb.toString()),
+                      contextData: _getAiContext(sectionTitle: 'Detailed Theory', sectionContent: detailedText),
                       initialAction: AiQuickAction.explain,
                     );
                   },
@@ -853,17 +850,17 @@ Formulas: ${currentMaterial.formulas.join(', ')}
               ],
             ),
             const SizedBox(height: 12),
-            if (sb.isNotEmpty)
-              Text(sb.toString().trim(), style: const TextStyle(fontSize: 14.5, height: 1.5))
+            if (detailedText.isNotEmpty)
+              Text(detailedText, style: const TextStyle(fontSize: 14.5, height: 1.5))
             else
-              const Text('Topic details available in subtopics.', style: TextStyle(color: Colors.grey)),
+              const Text('Detailed theory available in subtopics.', style: TextStyle(color: Colors.grey)),
             if (material.definitions.isNotEmpty) ...[
               const SizedBox(height: 12),
               const Text('Definitions:', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13.5)),
               const SizedBox(height: 6),
               ...material.definitions.map((d) => Padding(
                     padding: const EdgeInsets.only(bottom: 8),
-                    child: _buildDefinitionItem(d, material),
+                    child: _buildDefinitionItem(d),
                   )),
             ],
             if (material.solvedExamples.isNotEmpty) ...[
@@ -881,27 +878,11 @@ Formulas: ${currentMaterial.formulas.join(', ')}
     );
   }
 
-  Widget _buildDefinitionItem(String definition, StudyMaterial material) {
+  Widget _buildDefinitionItem(String definition) {
     final text = definition.trim();
-    // Older content stores definitions as names only. Keep those names intact,
-    // but provide the topic explanation underneath so the user never sees a
-    // bare definition heading with no explanation.
-    final context = material.concept.trim().isNotEmpty
-        ? material.concept.trim()
-        : material.overview.trim();
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        Text('• $text', style: const TextStyle(fontSize: 13.5, height: 1.4, fontWeight: FontWeight.w600)),
-        if (context.isNotEmpty)
-          Padding(
-            padding: const EdgeInsets.only(left: 14, top: 2),
-            child: Text(
-              'Explanation: $context',
-              style: const TextStyle(fontSize: 12.5, height: 1.45, color: Colors.grey),
-            ),
-          ),
-      ],
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 4),
+      child: Text('• $text', style: const TextStyle(fontSize: 13.5, height: 1.4, fontWeight: FontWeight.w500)),
     );
   }
 

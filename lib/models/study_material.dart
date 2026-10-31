@@ -3,12 +3,22 @@ class StudyVideo {
   final String url;
   final String assetPath;
   final String description;
+  final String videoId;
+  final int episodeNumber;
+  final int durationSeconds;
+  final List<String> learningObjectives;
+  final List<Map<String, dynamic>> recallQuestions;
 
   const StudyVideo({
     required this.title,
     required this.url,
     this.assetPath = '',
     this.description = '',
+    this.videoId = '',
+    this.episodeNumber = 1,
+    this.durationSeconds = 0,
+    this.learningObjectives = const [],
+    this.recallQuestions = const [],
   });
 
   factory StudyVideo.fromJson(Map<String, dynamic> json) => StudyVideo(
@@ -16,6 +26,11 @@ class StudyVideo {
     url: json['url'] as String? ?? '',
     assetPath: json['assetPath'] as String? ?? json['videoPath'] as String? ?? '',
     description: json['description'] as String? ?? '',
+    videoId: json['videoId'] as String? ?? json['id'] as String? ?? '',
+    episodeNumber: (json['episodeNumber'] as num?)?.toInt() ?? 1,
+    durationSeconds: (json['durationSeconds'] as num?)?.toInt() ?? 0,
+    learningObjectives: (json['learningObjectives'] as List?)?.map((e) => e.toString()).toList() ?? const [],
+    recallQuestions: (json['recallQuestions'] as List?)?.whereType<Map>().map((e) => Map<String, dynamic>.from(e)).toList() ?? const [],
   );
 
   Map<String, dynamic> toJson() => {
@@ -23,6 +38,11 @@ class StudyVideo {
     'url': url,
     if (assetPath.isNotEmpty) 'assetPath': assetPath,
     if (description.isNotEmpty) 'description': description,
+    if (videoId.isNotEmpty) 'videoId': videoId,
+    if (episodeNumber > 1) 'episodeNumber': episodeNumber,
+    if (durationSeconds > 0) 'durationSeconds': durationSeconds,
+    if (learningObjectives.isNotEmpty) 'learningObjectives': learningObjectives,
+    if (recallQuestions.isNotEmpty) 'recallQuestions': recallQuestions,
   };
 }
 

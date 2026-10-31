@@ -59,7 +59,7 @@ void main() {
             final title = (v['title'] ?? '').toString().toLowerCase();
             final url = (v['url'] ?? '').toString();
 
-            if (url.isEmpty || (!url.startsWith('https://www.youtube.com/') && !url.startsWith('https://youtu.be/'))) {
+            if (url.isEmpty || (!url.startsWith('https://www.youtube.com/') && !url.startsWith('https://youtu.be/') && !url.startsWith('https://raw.githubusercontent.com/'))) {
               invalidUrls++;
               auditLog.add('Invalid URL in $subjectName -> $topicName: $url');
             }
