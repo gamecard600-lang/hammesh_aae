@@ -12,7 +12,8 @@
       "જેમાં માસ કે એનર્જી કોઈ પણ બાઉન્ડ્રી ક્રોસ કરી શકતું નથી"
     ],
     "correctAnswer": 3,
-    "explanation": "આઈસોલેટેડ સિસ્ટમમાં માસ કે એનર્જી કોઈ પણ સિસ્ટમની બાઉન્ડ્રી ક્રોસ કરી શકતા નથી[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "આઈસોલેટેડ સિસ્ટમમાં માસ કે એનર્જી કોઈ પણ સિસ્ટમની બાઉન્ડ્રી ક્રોસ કરી શકતા નથી[cite: 1]. \n\n\n\n💡",
+    "isPYQ": false
   },
   {
     "id": 2,
@@ -27,7 +28,9 @@
       "સ્પેસિફિક વોલ્યુમ"
     ],
     "correctAnswer": 2,
-    "explanation": "હીટ એ પાથ ફંક્શન છે, તે સિસ્ટમની પ્રોપર્ટી (પોઈન્ટ ફંક્શન) નથી[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "હીટ એ પાથ ફંક્શન છે, તે સિસ્ટમની પ્રોપર્ટી (પોઈન્ટ ફંક્શન) નથી[cite: 1].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 3,
@@ -42,7 +45,9 @@
       "સિસ્ટમના પાથ પર"
     ],
     "correctAnswer": 1,
-    "explanation": "એક્સટેન્સિવ પ્રોપર્ટી સિસ્ટમના માસ (માસ) અથવા તેના વોલ્યુમ પર આધાર રાખે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "એક્સટેન્સિવ પ્રોપર્ટી સિસ્ટમના માસ (માસ) અથવા તેના વોલ્યુમ પર આધાર રાખે છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 4,
@@ -57,7 +62,9 @@
       "5"
     ],
     "correctAnswer": 0,
-    "explanation": "કાર્નોટ સાયકલમાં 2 આઈસોથર્મલ અને 2 આઈસેન્ટ્રોપિક પ્રોસેસીસ હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "કાર્નોટ સાયકલમાં 2 આઈસોથર્મલ અને 2 આઈસેન્ટ્રોપિક પ્રોસેસીસ હોય છે[cite: 1].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 5,
@@ -72,7 +79,9 @@
       "કાઈનેટિક એનર્જી"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્રેશર એ સિસ્ટમના માસથી સ્વતંત્ર હોવાથી ઇન્ટેન્સિવ પ્રોપર્ટી છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "પ્રેશર એ સિસ્ટમના માસથી સ્વતંત્ર હોવાથી ઇન્ટેન્સિવ પ્રોપર્ટી છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 6,
@@ -87,7 +96,9 @@
       "ઇન્ટેન્સિવ પ્રોપર્ટી"
     ],
     "correctAnswer": 1,
-    "explanation": "હીટ અને વર્ક એ બાઉન્ડ્રી ફિનોમિના અને પાથ પર આધારિત હોવાથી પાથ ફંક્શન છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "હીટ અને વર્ક એ બાઉન્ડ્રી ફિનોમિના અને પાથ પર આધારિત હોવાથી પાથ ફંક્શન છે[cite: 1].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 7,
@@ -102,7 +113,8 @@
       "વળાંકવાળી હાઈપરબોલિક લાઈન"
     ],
     "correctAnswer": 2,
-    "explanation": "આઈસોબેરિક એટલે કોન્સ્ટન્ટ પ્રેશર, જે P-V ડાયાગ્રામ પર આડી (હોરિઝોન્ટલ) લાઈન વડે દર્શાવાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "આઈસોબેરિક એટલે કોન્સ્ટન્ટ પ્રેશર, જે P-V ડાયાગ્રામ પર આડી (હોરિઝોન્ટલ) લાઈન વડે દર્શાવાય છે[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": false
   },
   {
     "id": 8,
@@ -117,7 +129,9 @@
       "રિયલ ફંક્શન"
     ],
     "correctAnswer": 1,
-    "explanation": "થર્મોડાયનેમિક પ્રોપર્ટી માત્ર સિસ્ટમની સ્થિતિ દર્શાવે છે જેથી તે પોઈન્ટ ફંક્શન છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "થર્મોડાયનેમિક પ્રોપર્ટી માત્ર સિસ્ટમની સ્થિતિ દર્શાવે છે જેથી તે પોઈન્ટ ફંક્શન છે[cite: 1].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 9,
@@ -132,7 +146,8 @@
       "થર્ડ લૉ"
     ],
     "correctAnswer": 0,
-    "explanation": "ઝીરોથ લૉ થર્મલ ઇક્વિલિબ્રિયમની વ્યાખ્યા આપે છે અને ટેમ્પરેચર માપનનો આધાર છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "ઝીરોથ લૉ થર્મલ ઇક્વિલિબ્રિયમની વ્યાખ્યા આપે છે અને ટેમ્પરેચર માપનનો આધાર છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "isPYQ": false
   },
   {
     "id": 10,
@@ -147,7 +162,9 @@
       "સીલબંધ પિસ્ટન-સિલિન્ડર એસેમ્બલીમાં ગેસનું વિસ્તરણ (Expansion)"
     ],
     "correctAnswer": 0,
-    "explanation": "ખાલી સિલિન્ડર ભરવાની પ્રોસેસ દરમિયાન સમય સાથે કંટ્રોલ વોલ્યુમમાં માસ બદલાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "ખાલી સિલિન્ડર ભરવાની પ્રોસેસ દરમિયાન સમય સાથે કંટ્રોલ વોલ્યુમમાં માસ બદલાય છે[cite: 1].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 11,
@@ -162,7 +179,9 @@
       "આપેલ પૈકી એકપણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇન્સ્યુલેટેડ પાત્રમાં બરફ અને પાણીનું મિશ્રણ આઈસોલેટેડ સિસ્ટમ બનાવે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "ઇન્સ્યુલેટેડ પાત્રમાં બરફ અને પાણીનું મિશ્રણ આઈસોલેટેડ સિસ્ટમ બનાવે છે[cite: 1]. \n\n\n\n💡",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 12,
@@ -177,7 +196,9 @@
       "માસ કે એનર્જી ક્રોસ કરી શકતા નથી"
     ],
     "correctAnswer": 1,
-    "explanation": "ક્લોઝ્ડ સિસ્ટમમાં માસ ટ્રાન્સફર થતું નથી પરંતુ એનર્જીની આપ-લે થઈ શકે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "ક્લોઝ્ડ સિસ્ટમમાં માસ ટ્રાન્સફર થતું નથી પરંતુ એનર્જીની આપ-લે થઈ શકે છે[cite: 1].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 13,
@@ -192,7 +213,9 @@
       "વાહનના ફૂલાવેલા રબરના પૈડાંનું ફાટવું"
     ],
     "correctAnswer": 0,
-    "explanation": "અનંત સૂક્ષ્મ ટેમ્પરેચર તફાવત દ્વારા થતી હીટ ટ્રાન્સફર રિવર્સિબલ પ્રોસેસ છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "અનંત સૂક્ષ્મ ટેમ્પરેચર તફાવત દ્વારા થતી હીટ ટ્રાન્સફર રિવર્સિબલ પ્રોસેસ છે[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 14,
@@ -207,7 +230,8 @@
       "જુલનો નિયમ"
     ],
     "correctAnswer": 0,
-    "explanation": "આ વિધાન થર્મોડાયનેમિક્સનો ઝીરોથ લૉ દર્શાવે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "આ વિધાન થર્મોડાયનેમિક્સનો ઝીરોથ લૉ દર્શાવે છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 15,
@@ -222,7 +246,9 @@
       "PT = mRV"
     ],
     "correctAnswer": 2,
-    "explanation": "આદર્શ વાયુ માટે સામાન્ય વાયુ સમીકરણ PV = mRT છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "આદર્શ વાયુ માટે સામાન્ય વાયુ સમીકરણ PV = mRT છે[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 16,
@@ -237,7 +263,8 @@
       "1 / (3600η)"
     ],
     "correctAnswer": 1,
-    "explanation": "હીટ રેટ (kJ/kWh) = 3600 / η વડે વ્યાખ્યાયિત થાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "હીટ રેટ (kJ/kWh) = 3600 / η વડે વ્યાખ્યાયિત થાય છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 17,
@@ -252,7 +279,8 @@
       "વોટ"
     ],
     "correctAnswer": 0,
-    "explanation": "પ્રેશરનો SI એકમ પાસ્કલ (N/m²) છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "પ્રેશરનો SI એકમ પાસ્કલ (N/m²) છે[cite: 1]. \n\n\n\n💡",
+    "isPYQ": false
   },
   {
     "id": 18,
@@ -267,7 +295,9 @@
       "ગેસનું વૉલ્યુમ અનંત થાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "0 K ટેમ્પરેચરે વાયુના અણુઓની ગતિજ ઊર્જા (કાઈનેટિક એનર્જી) શૂન્ય બને છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "0 K ટેમ્પરેચરે વાયુના અણુઓની ગતિજ ઊર્જા (કાઈનેટિક એનર્જી) શૂન્ય બને છે[cite: 1].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 19,
@@ -282,7 +312,9 @@
       "થર્ડ લૉ ઓફ થર્મોડાયનેમિક્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "ફર્સ્ટ લૉ ઓફ થર્મોડાયનેમિક્સ એ ઊર્જા સંરક્ષણનો નિયમ છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "ફર્સ્ટ લૉ ઓફ થર્મોડાયનેમિક્સ એ ઊર્જા સંરક્ષણનો નિયમ છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 20,
@@ -297,7 +329,9 @@
       "આઈસેન્ટ્રોપિક પ્રોસેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "કોન્સ્ટન્ટ વૉલ્યુમ પ્રોસેસને આઈસોકોરિક પ્રોસેસ કહેવાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "કોન્સ્ટન્ટ વૉલ્યુમ પ્રોસેસને આઈસોકોરિક પ્રોસેસ કહેવાય છે[cite: 1].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 21,
@@ -312,7 +346,9 @@
       "હાઈપરબોલિક પ્રોસેસ"
     ],
     "correctAnswer": 0,
-    "explanation": "કોન્સ્ટન્ટ પ્રેશર પ્રોસેસને આઇસોપિએસ્ટિક પ્રોસેસ પણ કહે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "કોન્સ્ટન્ટ પ્રેશર પ્રોસેસને આઇસોપિએસ્ટિક પ્રોસેસ પણ કહે છે[cite: 1]. \n\n\n\n💡",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 22,
@@ -327,7 +363,9 @@
       "સિસ્ટમના ફિક્સડ માસને"
     ],
     "correctAnswer": 2,
-    "explanation": "કંટ્રોલ વોલ્યુમ સ્પેસમાં નક્કી કરેલા ફિક્સડ રીજનને દર્શાવે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "કંટ્રોલ વોલ્યુમ સ્પેસમાં નક્કી કરેલા ફિક્સડ રીજનને દર્શાવે છે[cite: 1].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 23,
@@ -342,7 +380,9 @@
       "0.90"
     ],
     "correctAnswer": 2,
-    "explanation": "Work ratio = (1000 - 50) / 1000 = 0.95[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "Work ratio = (1000 - 50) / 1000 = 0.95[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 24,
@@ -357,7 +397,9 @@
       "ફ્રી એક્સપાન્શન પ્રોસેસ"
     ],
     "correctAnswer": 1,
-    "explanation": "PV^n = C માં n = 1 મૂકતાં PV = C બને છે, જે આઇસોથર્મલ પ્રોસેસ છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "PV^n = C માં n = 1 મૂકતાં PV = C બને છે, જે આઇસોથર્મલ પ્રોસેસ છે[cite: 1].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 25,
@@ -372,7 +414,9 @@
       "તે આઈસેન્ટ્રોપિક પ્રોસેસ છે"
     ],
     "correctAnswer": 1,
-    "explanation": "ફ્રી એક્સપાન્શન એ ઘર્ષણયુક્ત અને અવરોધ વિનાનું હોવાથી ઇરરિવર્સિબલ પ્રોસેસ છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "ફ્રી એક્સપાન્શન એ ઘર્ષણયુક્ત અને અવરોધ વિનાનું હોવાથી ઇરરિવર્સિબલ પ્રોસેસ છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 26,
@@ -387,7 +431,9 @@
       "ક્વાસી-સ્ટેટિક પ્રોસેસમાં સિસ્ટમ અને વાતાવરણ સંતુલનમાં (Equilibrium) હોતા નથી."
     ],
     "correctAnswer": 1,
-    "explanation": "ક્વાસી-સ્ટેટિક પ્રોસેસ અત્યંત ધીમી હોવાથી તેમાં અપરિવર્તનીયતા હાજર હોતી નથી[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "ક્વાસી-સ્ટેટિક પ્રોસેસ અત્યંત ધીમી હોવાથી તેમાં અપરિવર્તનીયતા હાજર હોતી નથી[cite: 1].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 27,
@@ -402,7 +448,9 @@
       "પ્રેશર અને વોલ્યુમના ગુણાકાર બરાબર"
     ],
     "correctAnswer": 2,
-    "explanation": "બાહ્ય પ્રેશર શૂન્ય હોવાથી ફ્રી એક્સપાન્શન દરમિયાન વર્ક શૂન્ય હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "બાહ્ય પ્રેશર શૂન્ય હોવાથી ફ્રી એક્સપાન્શન દરમિયાન વર્ક શૂન્ય હોય છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 28,
@@ -417,7 +465,9 @@
       "પ્રણાલી અને આસપાસના વાતાવરણ સંતુલનમાં હોતા નથી"
     ],
     "correctAnswer": 1,
-    "explanation": "અર્ધ-સ્થિર પ્રોસેસમાં સિસ્ટમ સતત સંતુલનમાં રહેતી હોવાથી અપરિવર્તનીયતા રહેતી નથી[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "અર્ધ-સ્થિર પ્રોસેસમાં સિસ્ટમ સતત સંતુલનમાં રહેતી હોવાથી અપરિવર્તનીયતા રહેતી નથી[cite: 1].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 30,
@@ -432,7 +482,9 @@
       "નોમિનલ ટેમ્પરેચર એન્ડ પ્રેશર"
     ],
     "correctAnswer": 2,
-    "explanation": "N.T.P. એટલે Normal Temperature and Pressure[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "N.T.P. એટલે Normal Temperature and Pressure[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 31,
@@ -447,7 +499,9 @@
       "હીટ ટ્રાન્સફર રેટ"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્રેશર પોઈન્ટ ફંક્શન હોવાથી તે એક્ઝેક્ટ ડિફરન્શિયલ છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "પ્રેશર પોઈન્ટ ફંક્શન હોવાથી તે એક્ઝેક્ટ ડિફરન્શિયલ છે[cite: 1].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 32,
@@ -462,7 +516,9 @@
       "લેટન્ટ હીટ"
     ],
     "correctAnswer": 1,
-    "explanation": "1 kg દ્રવ્યનું ટેમ્પરેચર 1°C વધારવા માટે જરૂરી ઊર્જા સ્પેસિફિક હીટ કેપેસિટી કહેવાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "1 kg દ્રવ્યનું ટેમ્પરેચર 1°C વધારવા માટે જરૂરી ઊર્જા સ્પેસિફિક હીટ કેપેસિટી કહેવાય છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 33,
@@ -477,7 +533,9 @@
       "મોલેક્યુલર વેઇટના વ્યસ્ત પ્રમાણમાં"
     ],
     "correctAnswer": 0,
-    "explanation": "સમાન પ્રેશર અને ટેમ્પરેચર પર તમામ આદર્શ વાયુઓ સમાન વોલ્યુમ રોકે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "સમાન પ્રેશર અને ટેમ્પરેચર પર તમામ આદર્શ વાયુઓ સમાન વોલ્યુમ રોકે છે[cite: 1].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 34,
@@ -492,7 +550,9 @@
       "વોટ"
     ],
     "correctAnswer": 1,
-    "explanation": "વર્ક અને ઊર્જાનો SI એકમ જૂલ (Joule) છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "વર્ક અને ઊર્જાનો SI એકમ જૂલ (Joule) છે[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 35,
@@ -507,7 +567,9 @@
       "આપેલ પૈકી એકપણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "આ પ્રકારનું કાલ્પનિક યંત્ર આન્સર કી અનુસાર PMM1 દર્શાવેલ છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "આ પ્રકારનું કાલ્પનિક યંત્ર આન્સર કી અનુસાર PMM1 દર્શાવેલ છે[cite: 1].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 36,
@@ -522,7 +584,9 @@
       "એન્થેલ્પી"
     ],
     "correctAnswer": 2,
-    "explanation": "આઈસોથર્મલ પ્રોસેસ દરમિયાન ટેમ્પરેચર (ટેમ્પરેચર) અચળ રહે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "આઈસોથર્મલ પ્રોસેસ દરમિયાન ટેમ્પરેચર (ટેમ્પરેચર) અચળ રહે છે[cite: 1]. \n\n\n\n💡",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 37,
@@ -537,7 +601,9 @@
       "કન્ઝર્વેશન ઓફ હીટ"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રથમ નિયમ એ કન્ઝર્વેશન ઓફ એનર્જી દર્શાવે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "પ્રથમ નિયમ એ કન્ઝર્વેશન ઓફ એનર્જી દર્શાવે છે[cite: 1].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 38,
@@ -552,7 +618,9 @@
       "નક્કી કરી શકાય નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "પૂર્ણ સાયકલ માટે આંતરિક ઊર્જામાં થતો નેટ ફેરફાર શૂન્ય (ΔU = 0) હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "પૂર્ણ સાયકલ માટે આંતરિક ઊર્જામાં થતો નેટ ફેરફાર શૂન્ય (ΔU = 0) હોય છે[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 39,
@@ -567,7 +635,8 @@
       "કોન્સ્ટન્ટ એન્ટ્રોપી"
     ],
     "correctAnswer": 2,
-    "explanation": "કોન્સ્ટન્ટ વોલ્યુમ પ્રોસેસમાં વર્ક શૂન્ય હોવાથી Q = ΔU થાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "કોન્સ્ટન્ટ વોલ્યુમ પ્રોસેસમાં વર્ક શૂન્ય હોવાથી Q = ΔU થાય છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 40,
@@ -582,7 +651,9 @@
       "dU = ∂Q + ∂W"
     ],
     "correctAnswer": 0,
-    "explanation": "પ્રથમ નિયમનું સમીકરણ ∂Q = dU + ∂W છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "પ્રથમ નિયમનું સમીકરણ ∂Q = dU + ∂W છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 41,
@@ -597,7 +668,8 @@
       "પહેલા વધે છે અને પછી અચળ થઈ જાય છે"
     ],
     "correctAnswer": 0,
-    "explanation": "સોર્સનું ટેમ્પરેચર વધારતાં કાર્નોટ વર્કક્ષમતા વધે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "સોર્સનું ટેમ્પરેચર વધારતાં કાર્નોટ વર્કક્ષમતા વધે છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 42,
@@ -612,7 +684,9 @@
       "કોન્સ્ટન્ટ એન્ટ્રોપી"
     ],
     "correctAnswer": 1,
-    "explanation": "કોન્સ્ટન્ટ પ્રેશર પર સપ્લાય કરેલી હીટ એન્થેલ્પીના ફેરફાર (ΔH) બરાબર હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "કોન્સ્ટન્ટ પ્રેશર પર સપ્લાય કરેલી હીટ એન્થેલ્પીના ફેરફાર (ΔH) બરાબર હોય છે[cite: 1]. \n\n\n\n💡",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 43,
@@ -627,7 +701,9 @@
       "આપેલા તમામ વિકલ્પો સાચા છે"
     ],
     "correctAnswer": 3,
-    "explanation": "આઈસોલેટેડ સિસ્ટમ માટે Q=0, W=0 અને ΔU=0 ત્રણેય સાચા છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "આઈસોલેટેડ સિસ્ટમ માટે Q=0, W=0 અને ΔU=0 ત્રણેય સાચા છે[cite: 1].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 44,
@@ -642,7 +718,8 @@
       "વર્ક ડન"
     ],
     "correctAnswer": 1,
-    "explanation": "H = U + PV ને એન્થેલ્પી કહેવામાં આવે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "H = U + PV ને એન્થેલ્પી કહેવામાં આવે છે[cite: 1]. \n\n\n\n💡",
+    "isPYQ": false
   },
   {
     "id": 45,
@@ -657,7 +734,9 @@
       "આઇસોટ્રોપિક"
     ],
     "correctAnswer": 1,
-    "explanation": "જે પ્રોસેસમાં હીટની આપ-લે ન થાય તેને એડિઆબેટિક પ્રોસેસ કહે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "જે પ્રોસેસમાં હીટની આપ-લે ન થાય તેને એડિઆબેટિક પ્રોસેસ કહે છે[cite: 1].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 46,
@@ -672,7 +751,9 @@
       "∮ dQ = 0"
     ],
     "correctAnswer": 0,
-    "explanation": "સાયક્લિક પ્રોસેસ માટે ∮dQ = ∮dW થાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "સાયક્લિક પ્રોસેસ માટે ∮dQ = ∮dW થાય છે[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 47,
@@ -687,7 +768,9 @@
       "તે કોન્સ્ટન્ટ વોલ્યુમ પ્રોસેસ છે"
     ],
     "correctAnswer": 2,
-    "explanation": "થ્રોટલિંગ દરમિયાન એન્થેલ્પી અચળ રહે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "થ્રોટલિંગ દરમિયાન એન્થેલ્પી અચળ રહે છે[cite: 1].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 48,
@@ -702,7 +785,9 @@
       "વર્ક ટ્રાન્સફર થવા દે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "એડિઆબેટિક બાઉન્ડ્રી હીટ ટ્રાન્સફરને થવા દેતી નથી[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "એડિઆબેટિક બાઉન્ડ્રી હીટ ટ્રાન્સફરને થવા દેતી નથી[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 49,
@@ -717,7 +802,8 @@
       "શૂન્ય થઈ જાય છે"
     ],
     "correctAnswer": 0,
-    "explanation": "Q > W હોવાથી ΔU ધન બને છે અને આંતરિક ઊર્જા વધે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "Q > W હોવાથી ΔU ધન બને છે અને આંતરિક ઊર્જા વધે છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 50,
@@ -732,7 +818,9 @@
       "નોન-ફ્લો સિસ્ટમ"
     ],
     "correctAnswer": 2,
-    "explanation": "સેન્ટ્રીફ્યુગલ પંપ સ્ટીડી ફ્લો / ઓપન સિસ્ટમનું ઉદાહરણ છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "સેન્ટ્રીફ્યુગલ પંપ સ્ટીડી ફ્લો / ઓપન સિસ્ટમનું ઉદાહરણ છે[cite: 1]. \n\n\n\n💡",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 51,
@@ -747,7 +835,8 @@
       "નોન-ફ્લો એડિઆબેટિક સિસ્ટમ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇન્સ્યુલેટેડ ફ્લાસ્કમાં માસ અને ઊર્જા કોઈ ક્રોસ ન થતા હોવાથી તે આઈસોલેટેડ સિસ્ટમ છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "ઇન્સ્યુલેટેડ ફ્લાસ્કમાં માસ અને ઊર્જા કોઈ ક્રોસ ન થતા હોવાથી તે આઈસોલેટેડ સિસ્ટમ છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 52,
@@ -762,7 +851,9 @@
       "એન્થેલ્પી"
     ],
     "correctAnswer": 3,
-    "explanation": "પદાર્થની કુલ હીટ સામગ્રીને એન્થેલ્પી કહેવામાં આવે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "પદાર્થની કુલ હીટ સામગ્રીને એન્થેલ્પી કહેવામાં આવે છે[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 53,
@@ -777,7 +868,8 @@
       "60"
     ],
     "correctAnswer": 1,
-    "explanation": "Q = 0 હોવાથી W = -ΔU = -(1.5 * 3 * 10) = -45 kJ[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "Q = 0 હોવાથી W = -ΔU = -(1.5 * 3 * 10) = -45 kJ[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 54,
@@ -792,7 +884,9 @@
       "1, 2, 3 અને 4"
     ],
     "correctAnswer": 3,
-    "explanation": "આ ચારેય પ્રોપર્ટીઝ સિસ્ટમના માસ પર આધારિત ન હોવાથી ઇન્ટેન્સિવ છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "આ ચારેય પ્રોપર્ટીઝ સિસ્ટમના માસ પર આધારિત ન હોવાથી ઇન્ટેન્સિવ છે[cite: 1]. \n\n\n\n💡",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 55,
@@ -807,7 +901,9 @@
       "2"
     ],
     "correctAnswer": 2,
-    "explanation": "dU/dt = dQ/dt - dW/dt = 1 - 2 = -1 kJ/K[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "dU/dt = dQ/dt - dW/dt = 1 - 2 = -1 kJ/K[cite: 1].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 56,
@@ -822,7 +918,9 @@
       "આઇસોકોરિક પ્રોસેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "જેમાં હીટ ટ્રાન્સફર શૂન્ય હોય તેને એડિઆબેટિક પ્રોસેસ કહેવાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "જેમાં હીટ ટ્રાન્સફર શૂન્ય હોય તેને એડિઆબેટિક પ્રોસેસ કહેવાય છે[cite: 1]. \n\n\n\n💡",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 57,
@@ -837,7 +935,8 @@
       "-90 kJ"
     ],
     "correctAnswer": 0,
-    "explanation": "W = Q - ΔU = 60 - (-30) = 90 kJ[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "W = Q - ΔU = 60 - (-30) = 90 kJ[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 58,
@@ -852,7 +951,9 @@
       "તેનું ટેમ્પરેચર વધે છે અને બાહ્ય વર્ક થાય છે"
     ],
     "correctAnswer": 3,
-    "explanation": "કોન્સ્ટન્ટ પ્રેશર પર ગરમી આપવાથી ટેમ્પરેચર વધે છે અને વિસ્તરણ દ્વારા બાહ્ય વર્ક થાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "કોન્સ્ટન્ટ પ્રેશર પર ગરમી આપવાથી ટેમ્પરેચર વધે છે અને વિસ્તરણ દ્વારા બાહ્ય વર્ક થાય છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 59,
@@ -867,7 +968,8 @@
       "600°C"
     ],
     "correctAnswer": 1,
-    "explanation": "T2 = T1 * (V2/V1) = (27 + 273) * 2 = 600 K = 327°C[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "T2 = T1 * (V2/V1) = (27 + 273) * 2 = 600 K = 327°C[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 60,
@@ -882,7 +984,9 @@
       "અનપેક્ષિત"
     ],
     "correctAnswer": 2,
-    "explanation": "∮(dQ - dW) = ∮dU = 0 કારણ કે આંતરિક ઊર્જા પોઈન્ટ ફંક્શન છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "∮(dQ - dW) = ∮dU = 0 કારણ કે આંતરિક ઊર્જા પોઈન્ટ ફંક્શન છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 61,
@@ -897,7 +1001,8 @@
       "29 kJ"
     ],
     "correctAnswer": 3,
-    "explanation": "W_net = ΣQ = 15 - 23 - 3 + 40 = 29 kJ[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "W_net = ΣQ = 15 - 23 - 3 + 40 = 29 kJ[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 62,
@@ -912,7 +1017,9 @@
       "W = ΔU"
     ],
     "correctAnswer": 2,
-    "explanation": "ફ્રી એક્સપાન્શનમાં Q = 0 અને W = 0 હોવાથી ΔU = 0 થાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "ફ્રી એક્સપાન્શનમાં Q = 0 અને W = 0 હોવાથી ΔU = 0 થાય છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 63,
@@ -927,7 +1034,8 @@
       "ટેમ્પરેચર સંરક્ષણનો નિયમ"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રથમ નિયમ એ ઊર્જા સંરક્ષણનો નિયમ છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "પ્રથમ નિયમ એ ઊર્જા સંરક્ષણનો નિયમ છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 64,
@@ -942,7 +1050,9 @@
       "આપેલા તમામ વિકલ્પો"
     ],
     "correctAnswer": 3,
-    "explanation": "SFEE તમામ સતત ફ્લોવાળા ઓપન સિસ્ટમ સાધનોને લાગુ પડે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "SFEE તમામ સતત ફ્લોવાળા ઓપન સિસ્ટમ સાધનોને લાગુ પડે છે[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 65,
@@ -957,7 +1067,8 @@
       "એન્ટ્રોપી"
     ],
     "correctAnswer": 2,
-    "explanation": "જૂલના નિયમ મુજબ આદર્શ વાયુની આંતરિક ઊર્જા માત્ર ટેમ્પરેચર પર આધારિત છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "જૂલના નિયમ મુજબ આદર્શ વાયુની આંતરિક ઊર્જા માત્ર ટેમ્પરેચર પર આધારિત છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 66,
@@ -972,7 +1083,8 @@
       "આઈસોકોરિક પ્રોસેસ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઝડપી ફ્લોને લીધે હીટ લોસ અવગણીને નોઝલમાં વિસ્તરણ એડિઆબેટિક ગણાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "ઝડપી ફ્લોને લીધે હીટ લોસ અવગણીને નોઝલમાં વિસ્તરણ એડિઆબેટિક ગણાય છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "isPYQ": false
   },
   {
     "id": 67,
@@ -987,7 +1099,9 @@
       "60 kJ"
     ],
     "correctAnswer": 3,
-    "explanation": "ΔU = 100 - 60 = 40 kJ. તેથી Q(1-4-3) = ΔU + W = 40 + 20 = 60 kJ[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "ΔU = 100 - 60 = 40 kJ. તેથી Q(1-4-3) = ΔU + W = 40 + 20 = 60 kJ[cite: 1].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 68,
@@ -1002,7 +1116,9 @@
       "વોલ્યુમમાં વધારો"
     ],
     "correctAnswer": 2,
-    "explanation": "SFEE મુજબ કોમ્પ્રેસરનું વર્ક એન્થેલ્પીમાં થતા ફેરફાર (Δh) બરાબર હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "SFEE મુજબ કોમ્પ્રેસરનું વર્ક એન્થેલ્પીમાં થતા ફેરફાર (Δh) બરાબર હોય છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 69,
@@ -1017,7 +1133,8 @@
       "વર્કનું હીટમાં રૂપાંતર"
     ],
     "correctAnswer": 2,
-    "explanation": "કેલ્વિન-પ્લાન્ક વિધાન હીટ એન્જિન દ્વારા હીટનું વર્કમાં રૂપાંતર દર્શાવે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "કેલ્વિન-પ્લાન્ક વિધાન હીટ એન્જિન દ્વારા હીટનું વર્કમાં રૂપાંતર દર્શાવે છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 70,
@@ -1032,7 +1149,8 @@
       "સિંક અને સોર્સ બંનેનું ટેમ્પરેચર ઘટે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "સિંકની અનંત હીટક્ષમતા હોવાથી હીટ રિજેક્શન દરમિયાન તેનું ટેમ્પરેચર અચળ રહે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "સિંકની અનંત હીટક્ષમતા હોવાથી હીટ રિજેક્શન દરમિયાન તેનું ટેમ્પરેચર અચળ રહે છે[cite: 1]. \n\n\n\n💡",
+    "isPYQ": false
   },
   {
     "id": 71,
@@ -1047,7 +1165,9 @@
       "આપેલ તમામ"
     ],
     "correctAnswer": 1,
-    "explanation": "બાહ્ય વર્ક વગર નીચા ટેમ્પરેચરેથી ઊંચા ટેમ્પરેચરે હીટ ટ્રાન્સફર અશક્ય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "બાહ્ય વર્ક વગર નીચા ટેમ્પરેચરેથી ઊંચા ટેમ્પરેચરે હીટ ટ્રાન્સફર અશક્ય છે[cite: 1].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 72,
@@ -1062,7 +1182,8 @@
       "2 આઇસોથર્મલ અને 2 આઈસોબેરિક"
     ],
     "correctAnswer": 0,
-    "explanation": "કાર્નોટ સાયકલમાં 2 આઈસોથર્મલ અને 2 આઈસેન્ટ્રોપિક પ્રોસેસીસ હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "કાર્નોટ સાયકલમાં 2 આઈસોથર્મલ અને 2 આઈસેન્ટ્રોપિક પ્રોસેસીસ હોય છે[cite: 1]. \n\n\n\n💡",
+    "isPYQ": false
   },
   {
     "id": 73,
@@ -1077,7 +1198,9 @@
       "પોઝિટિવ"
     ],
     "correctAnswer": 0,
-    "explanation": "અનરેઝિસ્ટેડ મુક્ત વિસ્તરણમાં થતું વર્ક શૂન્ય હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "અનરેઝિસ્ટેડ મુક્ત વિસ્તરણમાં થતું વર્ક શૂન્ય હોય છે[cite: 1].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 74,
@@ -1092,7 +1215,8 @@
       "થર્ડ લૉ"
     ],
     "correctAnswer": 2,
-    "explanation": "સેકન્ડ લૉ દર્શાવે છે કે કોઈ હીટ એન્જિન 100% વર્કક્ષમ ન હોઈ શકે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "સેકન્ડ લૉ દર્શાવે છે કે કોઈ હીટ એન્જિન 100% વર્કક્ષમ ન હોઈ શકે[cite: 1]. \n\n\n\n💡",
+    "isPYQ": false
   },
   {
     "id": 75,
@@ -1107,7 +1231,8 @@
       "ક્લોસિયસ સ્ટેટમેન્ટ"
     ],
     "correctAnswer": 2,
-    "explanation": "PMM-2 એ કેલ્વિન-પ્લાન્ક સ્ટેટમેન્ટનું સીધું ઉલ્લંઘન કરે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "PMM-2 એ કેલ્વિન-પ્લાન્ક સ્ટેટમેન્ટનું સીધું ઉલ્લંઘન કરે છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 76,
@@ -1122,7 +1247,9 @@
       "4"
     ],
     "correctAnswer": 2,
-    "explanation": "મહત્તમ વર્ક માટે T2 = √(200 * 1800) = 600 K. r^(2-1) = 600/200 = 3 => r = 3[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "મહત્તમ વર્ક માટે T2 = √(200 * 1800) = 600 K. r^(2-1) = 600/200 = 3 => r = 3[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 77,
@@ -1137,7 +1264,8 @@
       "રિવર્સિબલ એન્જિન"
     ],
     "correctAnswer": 1,
-    "explanation": "આ પ્રકારના કાલ્પનિક યંત્રને PMM-2 કહેવામાં આવે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "આ પ્રકારના કાલ્પનિક યંત્રને PMM-2 કહેવામાં આવે છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 78,
@@ -1152,7 +1280,9 @@
       "50%"
     ],
     "correctAnswer": 1,
-    "explanation": "η = 1 - (300 / 1000) = 0.70 એટલે કે 70%[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "η = 1 - (300 / 1000) = 0.70 એટલે કે 70%[cite: 1]. \n\n\n\n💡",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 80,
@@ -1167,7 +1297,9 @@
       "એન્થેલ્પી"
     ],
     "correctAnswer": 1,
-    "explanation": "મિકેનિકલ વર્ક સંપૂર્ણપણે અન્ય ઊર્જામાં રૂપાંતરિત થઈ શકતું હોવાથી હાઈ-ગ્રેડ એનર્જી છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "મિકેનિકલ વર્ક સંપૂર્ણપણે અન્ય ઊર્જામાં રૂપાંતરિત થઈ શકતું હોવાથી હાઈ-ગ્રેડ એનર્જી છે[cite: 1].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 81,
@@ -1182,7 +1314,9 @@
       "COP_Heat Pump = 1 / COP_Refrigerator"
     ],
     "correctAnswer": 1,
-    "explanation": "COP_HP = COP_Ref + 1[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "COP_HP = COP_Ref + 1[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 82,
@@ -1197,7 +1331,9 @@
       "η = 1 - r^γ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓટો સાયકલની વર્કક્ષમતાનું સૂત્ર η = 1 - 1 / r^(γ-1) છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "ઓટો સાયકલની વર્કક્ષમતાનું સૂત્ર η = 1 - 1 / r^(γ-1) છે[cite: 1].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 83,
@@ -1212,7 +1348,9 @@
       "વર્ક ડન / હીટ રિજેક્ટેડ"
     ],
     "correctAnswer": 2,
-    "explanation": "થર્મલ વર્કક્ષમતા = વર્ક ડન / હીટ સપ્લાયડ[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "થર્મલ વર્કક્ષમતા = વર્ક ડન / હીટ સપ્લાયડ[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 84,
@@ -1227,7 +1365,8 @@
       "200 kJ"
     ],
     "correctAnswer": 1,
-    "explanation": "Q_s = 100 / 0.5 = 200 kJ. Heat rejected = 200 - 100 = 100 kJ[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "Q_s = 100 / 0.5 = 200 kJ. Heat rejected = 200 - 100 = 100 kJ[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 86,
@@ -1242,7 +1381,9 @@
       "0.99 J"
     ],
     "correctAnswer": 2,
-    "explanation": "η = 1 - 100/1000 = 0.9. W = 0.9 * 1 = 0.9 J[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "η = 1 - 100/1000 = 0.9. W = 0.9 * 1 = 0.9 J[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 87,
@@ -1257,7 +1398,8 @@
       "બંને વચ્ચે કોઈ સંબંધ નથી"
     ],
     "correctAnswer": 2,
-    "explanation": "બંને સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સના સમાંતર (સમકક્ષ) વિધાનો છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "બંને સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સના સમાંતર (સમકક્ષ) વિધાનો છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 88,
@@ -1272,7 +1414,9 @@
       "2.5"
     ],
     "correctAnswer": 2,
-    "explanation": "COP_HP = 1 / η_Carnot = 1 / 0.5 = 2[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "COP_HP = 1 / η_Carnot = 1 / 0.5 = 2[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 89,
@@ -1287,7 +1431,9 @@
       "બેલ કોલમેન સાયકલ"
     ],
     "correctAnswer": 0,
-    "explanation": "પેટ્રોલ એન્જિન સૈદ્ધાંતિક રીતે ઓટો સાયકલ પર વર્ક કરે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "પેટ્રોલ એન્જિન સૈદ્ધાંતિક રીતે ઓટો સાયકલ પર વર્ક કરે છે[cite: 1].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 90,
@@ -1302,7 +1448,9 @@
       "બોઇલર સિસ્ટમ"
     ],
     "correctAnswer": 2,
-    "explanation": "રિવર્સ્ડ કાર્નોટ સાયકલ રેફ્રિજરેશન સિસ્ટમનો આધાર છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "રિવર્સ્ડ કાર્નોટ સાયકલ રેફ્રિજરેશન સિસ્ટમનો આધાર છે[cite: 1]. \n\n\n\n💡",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 91,
@@ -1317,7 +1465,9 @@
       "રિવર્સિબલ એન્જિન"
     ],
     "correctAnswer": 1,
-    "explanation": "કાર્નોટ વર્કક્ષમતા 60% છે જ્યારે એન્જિન 70% આપે છે જે અશક્ય (ઇમ્પોસિબલ) છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "કાર્નોટ વર્કક્ષમતા 60% છે જ્યારે એન્જિન 70% આપે છે જે અશક્ય (ઇમ્પોસિબલ) છે[cite: 1].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 92,
@@ -1332,7 +1482,9 @@
       "ડિલે પિરિયડ"
     ],
     "correctAnswer": 3,
-    "explanation": "ઇન્જેક્શન અને ઇગ્નીશન વચ્ચેના સમયગાળાને ડિલે પિરિયડ કહેવાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "ઇન્જેક્શન અને ઇગ્નીશન વચ્ચેના સમયગાળાને ડિલે પિરિયડ કહેવાય છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 93,
@@ -1347,7 +1499,9 @@
       "થર્ડ લૉ"
     ],
     "correctAnswer": 2,
-    "explanation": "હીટ ટ્રાન્સફરની દિશા સેકન્ડ લૉ દ્વારા નિયંત્રિત થાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "હીટ ટ્રાન્સફરની દિશા સેકન્ડ લૉ દ્વારા નિયંત્રિત થાય છે[cite: 1].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 94,
@@ -1362,7 +1516,9 @@
       "12000 W"
     ],
     "correctAnswer": 1,
-    "explanation": "આઉટપુટ વર્ક = 0.30 * 20000 = 6000 W[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "આઉટપુટ વર્ક = 0.30 * 20000 = 6000 W[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 96,
@@ -1377,7 +1533,8 @@
       "લો-ગ્રેડ એનર્જી / હીટ"
     ],
     "correctAnswer": 3,
-    "explanation": "લો-ગ્રેડ એનર્જી (હીટ) નું સંપૂર્ણપણે વર્કમાં રૂપાંતર થઈ શકતું નથી[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "લો-ગ્રેડ એનર્જી (હીટ) નું સંપૂર્ણપણે વર્કમાં રૂપાંતર થઈ શકતું નથી[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 97,
@@ -1392,7 +1549,9 @@
       "રેન્કિંન સાયકલ"
     ],
     "correctAnswer": 2,
-    "explanation": "એબ્સોલ્યુટ થર્મોડાયનેમિક ટેમ્પરેચર સ્કેલ કાર્નોટ સાયકલ પર આધારિત છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "એબ્સોલ્યુટ થર્મોડાયનેમિક ટેમ્પરેચર સ્કેલ કાર્નોટ સાયકલ પર આધારિત છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 98,
@@ -1407,7 +1566,9 @@
       "એક્સટર્નલ એનર્જી"
     ],
     "correctAnswer": 2,
-    "explanation": "dS = (dQ/T)_rev મુજબ આ પ્રોપર્ટી એન્ટ્રોપી છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "dS = (dQ/T)_rev મુજબ આ પ્રોપર્ટી એન્ટ્રોપી છે[cite: 1].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 99,
@@ -1422,7 +1583,9 @@
       "Efficiency = T_H / T_L"
     ],
     "correctAnswer": 0,
-    "explanation": "રિવર્સિબલ એન્જિનની વર્કક્ષમતા = 1 - (T_L / T_H) છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "રિવર્સિબલ એન્જિનની વર્કક્ષમતા = 1 - (T_L / T_H) છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 100,
@@ -1437,7 +1600,8 @@
       "જ્યારે હીટ સપ્લાય ન્યૂનતમ હોય"
     ],
     "correctAnswer": 1,
-    "explanation": "સિંકનું અંતિમ ટેમ્પરેચર 0 K થાય ત્યારે વર્કક્ષમતા મહત્તમ (100%) થાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "સિંકનું અંતિમ ટેમ્પરેચર 0 K થાય ત્યારે વર્કક્ષમતા મહત્તમ (100%) થાય છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 101,
@@ -1452,7 +1616,9 @@
       "નેટ વર્ક આઉટપુટ અને કોમ્પ્રેસર વર્કનો ગુણોત્તર"
     ],
     "correctAnswer": 2,
-    "explanation": "વર્ક રેશિયો એટલે નેટ વર્ક આઉટપુટ અને ટર્બાઇન વર્કનો ગુણોત્તર[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "વર્ક રેશિયો એટલે નેટ વર્ક આઉટપુટ અને ટર્બાઇન વર્કનો ગુણોત્તર[cite: 1]. \n\n\n\n💡",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 102,
@@ -1467,7 +1633,9 @@
       ">= 0"
     ],
     "correctAnswer": 2,
-    "explanation": "ક્લોસિયસ અસમતા અનુસાર ઇરરિવર્સિબલ સાયકલ માટે ∮dQ/T < 0 થાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "ક્લોસિયસ અસમતા અનુસાર ઇરરિવર્સિબલ સાયકલ માટે ∮dQ/T < 0 થાય છે[cite: 1].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 103,
@@ -1482,7 +1650,9 @@
       "રિવર્સિબલ કોન્સ્ટન્ટ એન્થેલ્પી"
     ],
     "correctAnswer": 1,
-    "explanation": "ક્લોસિયસ પ્રમેય મુજબ પાથ રિવર્સિબલ આઇસોથર્મલ અને એડિઆબેટિક દ્વારા દર્શાવાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "ક્લોસિયસ પ્રમેય મુજબ પાથ રિવર્સિબલ આઇસોથર્મલ અને એડિઆબેટિક દ્વારા દર્શાવાય છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 104,
@@ -1497,7 +1667,9 @@
       "ગેસના પ્રકારના આધારે ઠંડો અથવા ગરમ થશે"
     ],
     "correctAnswer": 1,
-    "explanation": "μ < 0 હોય ત્યારે થ્રોટલિંગ દરમિયાન વાયુ ગરમ થશે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "μ < 0 હોય ત્યારે થ્રોટલિંગ દરમિયાન વાયુ ગરમ થશે[cite: 1].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 105,
@@ -1512,7 +1684,9 @@
       "રેન્કિન એન્જિન"
     ],
     "correctAnswer": 2,
-    "explanation": "કાર્નોટ એન્જિનની વર્કક્ષમતા સમાન ટેમ્પરેચર મર્યાદાઓમાં સૌથી વધુ હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "કાર્નોટ એન્જિનની વર્કક્ષમતા સમાન ટેમ્પરેચર મર્યાદાઓમાં સૌથી વધુ હોય છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 106,
@@ -1527,7 +1701,9 @@
       "∮ dQ / T >= 0"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇરરિવર્સિબલ સાયકલ માટે ∮(dQ/T) < 0 હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "ઇરરિવર્સિબલ સાયકલ માટે ∮(dQ/T) < 0 હોય છે[cite: 1].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 107,
@@ -1542,7 +1718,9 @@
       "પ્રેશર અને વોલ્યુમ"
     ],
     "correctAnswer": 1,
-    "explanation": "મોલિયર ડાયાગ્રામ એ એન્થેલ્પી અને એન્ટ્રોપી (h-s) નો આલેખ છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "મોલિયર ડાયાગ્રામ એ એન્થેલ્પી અને એન્ટ્રોપી (h-s) નો આલેખ છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 108,
@@ -1557,7 +1735,9 @@
       "1"
     ],
     "correctAnswer": 0,
-    "explanation": "રિવર્સિબલ સાયકલ માટે ∮(dQ/T) = 0 થાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "રિવર્સિબલ સાયકલ માટે ∮(dQ/T) = 0 થાય છે[cite: 1].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 109,
@@ -1572,7 +1752,9 @@
       "અનપેક્ષિત રહે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "રેન્ડમનેસ વધતાં એન્ટ્રોપી વધે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "રેન્ડમનેસ વધતાં એન્ટ્રોપી વધે છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 110,
@@ -1587,7 +1769,9 @@
       "અનંત"
     ],
     "correctAnswer": 2,
-    "explanation": "રિવર્સિબલ એડિઆબેટિકમાં dQ = 0 હોવાથી ΔS = 0 (શૂન્ય) હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "રિવર્સિબલ એડિઆબેટિકમાં dQ = 0 હોવાથી ΔS = 0 (શૂન્ય) હોય છે[cite: 1].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 111,
@@ -1602,7 +1786,9 @@
       "અનપેક્ષિત"
     ],
     "correctAnswer": 1,
-    "explanation": "સમાન કમ્પ્રેશન રેશિયો અને હીટ સપ્લાય માટે ઓટો સાયકલની વર્કક્ષમતા વધુ હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "સમાન કમ્પ્રેશન રેશિયો અને હીટ સપ્લાય માટે ઓટો સાયકલની વર્કક્ષમતા વધુ હોય છે[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 112,
@@ -1617,7 +1803,9 @@
       "બાહ્ય વર્ક પર આધાર રાખે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "આઈસોલેટેડ સિસ્ટમની એન્ટ્રોપી ક્યારેય ઘટતી નથી (ΔS >= 0)[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "આઈસોલેટેડ સિસ્ટમની એન્ટ્રોપી ક્યારેય ઘટતી નથી (ΔS >= 0)[cite: 1].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 113,
@@ -1632,7 +1820,8 @@
       "થર્ડ લો"
     ],
     "correctAnswer": 2,
-    "explanation": "એન્ટ્રોપીની વ્યાખ્યા સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સ પરથી મળે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "એન્ટ્રોપીની વ્યાખ્યા સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સ પરથી મળે છે[cite: 1]. \n\n\n\n💡",
+    "isPYQ": false
   },
   {
     "id": 114,
@@ -1647,7 +1836,8 @@
       "કાર્બન ડાયોક્સાઇડ"
     ],
     "correctAnswer": 1,
-    "explanation": "મોનોએટોમિક ગેસ હિલિયમ માટે γ ≈ 1.67 મહત્તમ હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "મોનોએટોમિક ગેસ હિલિયમ માટે γ ≈ 1.67 મહત્તમ હોય છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 115,
@@ -1662,7 +1852,9 @@
       "થર્ડ લો"
     ],
     "correctAnswer": 3,
-    "explanation": "થર્ડ લૉ દર્શાવે છે કે 0 K પર શુદ્ધ સ્ફટિકની એન્ટ્રોપી શૂન્ય હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "થર્ડ લૉ દર્શાવે છે કે 0 K પર શુદ્ધ સ્ફટિકની એન્ટ્રોપી શૂન્ય હોય છે[cite: 1]. \n\n\n\n💡",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 116,
@@ -1677,7 +1869,9 @@
       "ઈન્કલાઈન્ડ લાઈન"
     ],
     "correctAnswer": 1,
-    "explanation": "T-s ચાર્ટ પર અચળ ટેમ્પરેચર આડી (હોરિઝોન્ટલ) લાઇન વડે દર્શાવાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "T-s ચાર્ટ પર અચળ ટેમ્પરેચર આડી (હોરિઝોન્ટલ) લાઇન વડે દર્શાવાય છે[cite: 1].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 117,
@@ -1692,7 +1886,9 @@
       "બોઈલરમાં જે સરેરાશ ટેમ્પરેચરે હીટ ઉમેરવામાં આવે છે તેમાં વધારો થાય છે"
     ],
     "correctAnswer": 3,
-    "explanation": "રિજનરેશન સરેરાશ ટેમ્પરેચર (મીન ટેમ્પરેચર ઓફ હીટ એડિશન) વધારે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "રિજનરેશન સરેરાશ ટેમ્પરેચર (મીન ટેમ્પરેચર ઓફ હીટ એડિશન) વધારે છે[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 118,
@@ -1707,7 +1903,9 @@
       "કોઈ નહિ"
     ],
     "correctAnswer": 1,
-    "explanation": "આઈસેન્ટ્રોપિક પ્રોસેસ T-s ડાયાગ્રામ પર વર્ટિકલ લાઈન વડે દર્શાવાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "આઈસેન્ટ્રોપિક પ્રોસેસ T-s ડાયાગ્રામ પર વર્ટિકલ લાઈન વડે દર્શાવાય છે[cite: 1].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 119,
@@ -1722,7 +1920,9 @@
       "ΔS = Q + T"
     ],
     "correctAnswer": 1,
-    "explanation": "આઈસોથર્મલ પ્રોસેસ માટે ΔS = Q / T[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "આઈસોથર્મલ પ્રોસેસ માટે ΔS = Q / T[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 120,
@@ -1737,7 +1937,8 @@
       "સેકન્ડ લૉ (કેલ્વિન-પ્લાન્ક સ્ટેટમેન્ટ)"
     ],
     "correctAnswer": 0,
-    "explanation": "આ થર્મોડાયનેમિક્સનો ઝીરોથ લો છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "આ થર્મોડાયનેમિક્સનો ઝીરોથ લો છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 121,
@@ -1752,7 +1953,9 @@
       "ΔS = 0"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇરરિવર્સિબિલિટીને લીધે ΔS > ∫(dQ/T) થાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "ઇરરિવર્સિબિલિટીને લીધે ΔS > ∫(dQ/T) થાય છે[cite: 1]. \n\n\n\n💡",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 122,
@@ -1767,7 +1970,8 @@
       "કોઈ પ્રોપર્ટી નથી"
     ],
     "correctAnswer": 1,
-    "explanation": "કુલ એન્ટ્રોપી માસ પર આધારિત હોવાથી એક્સટેન્સિવ પ્રોપર્ટી છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "કુલ એન્ટ્રોપી માસ પર આધારિત હોવાથી એક્સટેન્સિવ પ્રોપર્ટી છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 123,
@@ -1782,7 +1986,9 @@
       "લૉ ઓફ અવેલેબિલિટી"
     ],
     "correctAnswer": 0,
-    "explanation": "ઊર્જા ઇનપુટ વિના સતત વર્ક આપતું કાલ્પનિક યંત્ર PMM1 છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "ઊર્જા ઇનપુટ વિના સતત વર્ક આપતું કાલ્પનિક યંત્ર PMM1 છે[cite: 1]. \n\n\n\n💡",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 124,
@@ -1797,7 +2003,9 @@
       "∮ dQ / T = ∞"
     ],
     "correctAnswer": 2,
-    "explanation": "∮(dQ/T) > 0 અસંભવ (ઇમ્પોસિબલ) સાયકલ દર્શાવે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "∮(dQ/T) > 0 અસંભવ (ઇમ્પોસિબલ) સાયકલ દર્શાવે છે[cite: 1].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 125,
@@ -1812,7 +2020,9 @@
       "શૂન્ય થઈ જાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇરરિવર્સિબલ પ્રોસેસ હોવાથી ફ્રી એક્સપાન્શનમાં એન્ટ્રોપી વધે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "ઇરરિવર્સિબલ પ્રોસેસ હોવાથી ફ્રી એક્સપાન્શનમાં એન્ટ્રોપી વધે છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 127,
@@ -1827,7 +2037,9 @@
       "પહેલા વધે અને પછી ઘટે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "થ્રોટલિંગ ઇરરિવર્સિબલ એડિઆબેટિક પ્રોસેસ હોવાથી એન્ટ્રોપી હંમેશા વધે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "થ્રોટલિંગ ઇરરિવર્સિબલ એડિઆબેટિક પ્રોસેસ હોવાથી એન્ટ્રોપી હંમેશા વધે છે[cite: 1].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 128,
@@ -1842,7 +2054,9 @@
       "-3000 kJ/K"
     ],
     "correctAnswer": 1,
-    "explanation": "ΔS = -3000 / 1000 = -3 kJ/K[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "ΔS = -3000 / 1000 = -3 kJ/K[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 129,
@@ -1857,7 +2071,9 @@
       "કન્ઝર્વેશન ઓફ એન્થેલ્પી"
     ],
     "correctAnswer": 0,
-    "explanation": "આ સેકન્ડ લૉનું ક્લોસિયસ સ્ટેટમેન્ટ છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "આ સેકન્ડ લૉનું ક્લોસિયસ સ્ટેટમેન્ટ છે[cite: 1].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 130,
@@ -1872,7 +2088,9 @@
       "તે માત્ર ટેમ્પરેચર પર આધારિત છે"
     ],
     "correctAnswer": 1,
-    "explanation": "કુદરતી અપરિવર્તનીય પ્રોસેસીસને લીધે બ્રહ્માંડની એન્ટ્રોપી સતત વધી રહી છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "કુદરતી અપરિવર્તનીય પ્રોસેસીસને લીધે બ્રહ્માંડની એન્ટ્રોપી સતત વધી રહી છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 131,
@@ -1887,7 +2105,9 @@
       "J/kg"
     ],
     "correctAnswer": 1,
-    "explanation": "એન્ટ્રોપીનો SI એકમ kJ/K અથવા J/K છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "એન્ટ્રોપીનો SI એકમ kJ/K અથવા J/K છે[cite: 1].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 132,
@@ -1902,7 +2122,9 @@
       "ઈન્કલાઈન્ડ લાઈન"
     ],
     "correctAnswer": 1,
-    "explanation": "આઈસેન્ટ્રોપિક પ્રોસેસ T-s ડાયાગ્રામ પર વર્ટિકલ લાઈન વડે દર્શાવાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "આઈસેન્ટ્રોપિક પ્રોસેસ T-s ડાયાગ્રામ પર વર્ટિકલ લાઈન વડે દર્શાવાય છે[cite: 1]. \n\n\n\n💡",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 133,
@@ -1917,7 +2139,8 @@
       "વર્કિંગ ફ્લુઇડની પ્રકૃતિ પર"
     ],
     "correctAnswer": 0,
-    "explanation": "રિવર્સિબલ સાયકલની વર્કક્ષમતા માત્ર વર્કકારી ટેમ્પરેચર (વર્કિંગ ટેમ્પરેચર) પર આધાર રાખે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "રિવર્સિબલ સાયકલની વર્કક્ષમતા માત્ર વર્કકારી ટેમ્પરેચર (વર્કિંગ ટેમ્પરેચર) પર આધાર રાખે છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 134,
@@ -1932,7 +2155,9 @@
       "અનંત"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇરરિવર્સિબલ પ્રોસેસ માટે ∮(dQ/T) શૂન્ય કરતાં ઓછું (< 0) હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "ઇરરિવર્સિબલ પ્રોસેસ માટે ∮(dQ/T) શૂન્ય કરતાં ઓછું (< 0) હોય છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 135,
@@ -1947,7 +2172,9 @@
       "જનરેશન"
     ],
     "correctAnswer": 1,
-    "explanation": "એન્ટ્રોપી વધવી એટલે ઉપયોગી ઊર્જાનું ડીગ્રેડેશન થવું[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "એન્ટ્રોપી વધવી એટલે ઉપયોગી ઊર્જાનું ડીગ્રેડેશન થવું[cite: 1].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 136,
@@ -1962,7 +2189,9 @@
       "2 અને 3 બંને"
     ],
     "correctAnswer": 3,
-    "explanation": "ડેન્સિટી અને ટેમ્પરેચર બંને ઇન્ટેન્સિવ પ્રોપર્ટી છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "ડેન્સિટી અને ટેમ્પરેચર બંને ઇન્ટેન્સિવ પ્રોપર્ટી છે[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 137,
@@ -1977,7 +2206,9 @@
       "એન્થેલ્પીમાં ફેરફાર"
     ],
     "correctAnswer": 2,
-    "explanation": "T-s આલેખ નીચેનો ક્ષેત્રફળ ∫T ds = હીટ ટ્રાન્સફર દર્શાવે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "T-s આલેખ નીચેનો ક્ષેત્રફળ ∫T ds = હીટ ટ્રાન્સફર દર્શાવે છે[cite: 1].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 138,
@@ -1992,7 +2223,9 @@
       "ઓટો સાયકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ટીમ પાવર પ્લાન્ટ માટે રેન્કિન સાયકલ આદર્શ સાયકલ છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "સ્ટીમ પાવર પ્લાન્ટ માટે રેન્કિન સાયકલ આદર્શ સાયકલ છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 139,
@@ -2007,7 +2240,8 @@
       "ઊર્જા સંરક્ષણનો નિયમ"
     ],
     "correctAnswer": 2,
-    "explanation": "આ થર્મોડાયનેમિક્સનો ત્રીજો નિયમ (થર્ડ લૉ) છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "આ થર્મોડાયનેમિક્સનો ત્રીજો નિયમ (થર્ડ લૉ) છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 140,
@@ -2022,7 +2256,9 @@
       "2 આઇસોથર્મલ અને 2 કોન્સ્ટન્ટ વોલ્યુમ"
     ],
     "correctAnswer": 2,
-    "explanation": "રેન્કિન સાયકલમાં 2 આઈસેન્ટ્રોપિક અને 2 કોન્સ્ટન્ટ પ્રેશર પ્રોસેસ હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "રેન્કિન સાયકલમાં 2 આઈસેન્ટ્રોપિક અને 2 કોન્સ્ટન્ટ પ્રેશર પ્રોસેસ હોય છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 141,
@@ -2037,7 +2273,9 @@
       "કોમ્પ્રેસર"
     ],
     "correctAnswer": 3,
-    "explanation": "રેન્કિન સાયકલમાં પંપ વપરાય છે, કોમ્પ્રેસર નહીં[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "રેન્કિન સાયકલમાં પંપ વપરાય છે, કોમ્પ્રેસર નહીં[cite: 1].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 142,
@@ -2052,7 +2290,9 @@
       "રિવર્સિબલ ઍડિઆબેટિક્સ"
     ],
     "correctAnswer": 0,
-    "explanation": "ક્લોસિયસ ઇનઇક્વાલિટી રિવર્સિબિલિટીનો ચોક્કસ માપદંડ પૂરો પાડે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "ક્લોસિયસ ઇનઇક્વાલિટી રિવર્સિબિલિટીનો ચોક્કસ માપદંડ પૂરો પાડે છે[cite: 1]. \n\n\n\n💡",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 143,
@@ -2067,7 +2307,9 @@
       "કાર્નોટ સાયકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "ગેસ ટર્બાઇન પ્લાન્ટ બ્રેટન સાયકલ પર વર્ક કરે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "ગેસ ટર્બાઇન પ્લાન્ટ બ્રેટન સાયકલ પર વર્ક કરે છે[cite: 1].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 144,
@@ -2082,7 +2324,9 @@
       "2 આઇસોથર્મલ અને 2 કોન્સ્ટન્ટ વોલ્યુમ"
     ],
     "correctAnswer": 0,
-    "explanation": "બ્રેટન સાયકલમાં 2 આઈસેન્ટ્રોપિક અને 2 કોન્સ્ટન્ટ પ્રેશર પ્રોસેસીસ હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "બ્રેટન સાયકલમાં 2 આઈસેન્ટ્રોપિક અને 2 કોન્સ્ટન્ટ પ્રેશર પ્રોસેસીસ હોય છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 145,
@@ -2097,7 +2341,9 @@
       "લૉ ઓફ ઇરરિવર્સિબિલિટી"
     ],
     "correctAnswer": 1,
-    "explanation": "વાસ્તવિક પ્રોસેસીસમાં એન્ટ્રોપી જનરેશન સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સ પર આધારિત છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "વાસ્તવિક પ્રોસેસીસમાં એન્ટ્રોપી જનરેશન સેકન્ડ લૉ ઓફ થર્મોડાયનેમિક્સ પર આધારિત છે[cite: 1].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 146,
@@ -2112,7 +2358,8 @@
       "2 આઇસોથર્મલ અને 2 કોન્સ્ટન્ટ પ્રેશર"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓટો સાયકલમાં 2 આઈસેન્ટ્રોપિક અને 2 કોન્સ્ટન્ટ વોલ્યુમ પ્રોસેસીસ હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "ઓટો સાયકલમાં 2 આઈસેન્ટ્રોપિક અને 2 કોન્સ્ટન્ટ વોલ્યુમ પ્રોસેસીસ હોય છે[cite: 1]. \n\n\n\n💡",
+    "isPYQ": false
   },
   {
     "id": 147,
@@ -2127,7 +2374,8 @@
       "આઈસેન્ટ્રોપિક"
     ],
     "correctAnswer": 0,
-    "explanation": "ડીઝલ સાયકલમાં હીટ એડિશન કોન્સ્ટન્ટ પ્રેશર પર થાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "ડીઝલ સાયકલમાં હીટ એડિશન કોન્સ્ટન્ટ પ્રેશર પર થાય છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 148,
@@ -2142,7 +2390,9 @@
       "સિસ્ટમની કાઇનેટિક એનર્જી"
     ],
     "correctAnswer": 0,
-    "explanation": "મહત્તમ પ્રાપ્ય ઉપયોગી વર્કને અવેલેબિલિટી (Exergy) કહે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "મહત્તમ પ્રાપ્ય ઉપયોગી વર્કને અવેલેબિલિટી (Exergy) કહે છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 149,
@@ -2157,7 +2407,9 @@
       "આઈસેન્ટ્રોપિક"
     ],
     "correctAnswer": 1,
-    "explanation": "ડીઝલ સાયકલમાં હીટ રિજેક્શન કોન્સ્ટન્ટ વોલ્યુમ પર થાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "ડીઝલ સાયકલમાં હીટ રિજેક્શન કોન્સ્ટન્ટ વોલ્યુમ પર થાય છે[cite: 1].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 150,
@@ -2172,7 +2424,9 @@
       "ઓટો સાયકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "એરક્રાફ્ટ રેફ્રિજરેશનમાં રિવર્સ્ડ બ્રેટન (બેલ-કોલમેન) સાયકલ વપરાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "એરક્રાફ્ટ રેફ્રિજરેશનમાં રિવર્સ્ડ બ્રેટન (બેલ-કોલમેન) સાયકલ વપરાય છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 151,
@@ -2187,7 +2441,9 @@
       "આઈસોકોરિક પ્રોસેસ"
     ],
     "correctAnswer": 2,
-    "explanation": "એડિઆબેટિક પ્રોસેસમાં સિસ્ટમ દ્વારા શોષાયેલી કે મુક્ત થયેલી હીટ શૂન્ય હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "એડિઆબેટિક પ્રોસેસમાં સિસ્ટમ દ્વારા શોષાયેલી કે મુક્ત થયેલી હીટ શૂન્ય હોય છે[cite: 1].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 152,
@@ -2202,7 +2458,9 @@
       "રિવર્સ્ડ રેન્કિન સાયકલ"
     ],
     "correctAnswer": 0,
-    "explanation": "રિવર્સ્ડ બ્રેટન સાયકલને બેલ-કોલમેન સાયકલ તરીકે પણ ઓળખવામાં આવે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "રિવર્સ્ડ બ્રેટન સાયકલને બેલ-કોલમેન સાયકલ તરીકે પણ ઓળખવામાં આવે છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 153,
@@ -2217,7 +2475,9 @@
       "આઈસોબેરિક એક્સપાન્શન"
     ],
     "correctAnswer": 2,
-    "explanation": "એક્સપાન્શન વાલ્વમાં આઈસેન્થાલ્પિક વિસ્તરણ (થ્રોટલિંગ) થાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "એક્સપાન્શન વાલ્વમાં આઈસેન્થાલ્પિક વિસ્તરણ (થ્રોટલિંગ) થાય છે[cite: 1].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 154,
@@ -2232,7 +2492,8 @@
       "પ્રેશર રેશિયો પર"
     ],
     "correctAnswer": 1,
-    "explanation": "કાર્નોટ વર્કક્ષમતા માત્ર સોર્સ અને સિંકની ટેમ્પરેચર રેન્જ પર આધાર રાખે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "કાર્નોટ વર્કક્ષમતા માત્ર સોર્સ અને સિંકની ટેમ્પરેચર રેન્જ પર આધાર રાખે છે[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": false
   },
   {
     "id": 155,
@@ -2247,7 +2508,9 @@
       "4 × 10^4 J"
     ],
     "correctAnswer": 2,
-    "explanation": "TH = 500 K, TL = 400 K. η = 0.2. Q_supplied = 10^4 / 0.2 = 5 × 10^4 J[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "TH = 500 K, TL = 400 K. η = 0.2. Q_supplied = 10^4 / 0.2 = 5 × 10^4 J[cite: 1].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 156,
@@ -2262,7 +2525,9 @@
       "2 આઇસોથર્મલ અને 2 આઈસોબેરિક"
     ],
     "correctAnswer": 0,
-    "explanation": "કાર્નોટ સાયકલમાં 2 આઇસોથર્મલ અને 2 આઈસેન્ટ્રોપિક પ્રોસેસીસ હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "કાર્નોટ સાયકલમાં 2 આઇસોથર્મલ અને 2 આઈસેન્ટ્રોપિક પ્રોસેસીસ હોય છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 157,
@@ -2277,7 +2542,9 @@
       "બ્રેટન સાયકલ"
     ],
     "correctAnswer": 2,
-    "explanation": "ડ્યુઅલ સાયકલમાં હીટ એડિશન અંશતઃ અચળ વોલ્યુમે અને અંશતઃ અચળ પ્રેશરે થાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "ડ્યુઅલ સાયકલમાં હીટ એડિશન અંશતઃ અચળ વોલ્યુમે અને અંશતઃ અચળ પ્રેશરે થાય છે[cite: 1].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 158,
@@ -2292,7 +2559,9 @@
       "ઇન્ટરનલ એનર્જી વધારવા માટે"
     ],
     "correctAnswer": 1,
-    "explanation": "આઈસોથર્મલ સ્થિતિમાં ΔU = 0 હોવાથી બધી જ હીટ બાહ્ય વર્ક કરવામાં વપરાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "આઈસોથર્મલ સ્થિતિમાં ΔU = 0 હોવાથી બધી જ હીટ બાહ્ય વર્ક કરવામાં વપરાય છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 159,
@@ -2307,7 +2576,9 @@
       "ઓટો સાયકલ"
     ],
     "correctAnswer": 2,
-    "explanation": "સમાન ટેમ્પરેચર મર્યાદા વચ્ચે કાર્નોટ સાયકલની વર્કક્ષમતા મહત્તમ હોય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "સમાન ટેમ્પરેચર મર્યાદા વચ્ચે કાર્નોટ સાયકલની વર્કક્ષમતા મહત્તમ હોય છે[cite: 1].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 160,
@@ -2322,7 +2593,9 @@
       "હાઈપરબોલિક"
     ],
     "correctAnswer": 1,
-    "explanation": "આદર્શ રેન્કિન સાયકલમાં ટર્બાઇન વિસ્તરણ આઈસેન્ટ્રોપિક ધારવામાં આવે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "આદર્શ રેન્કિન સાયકલમાં ટર્બાઇન વિસ્તરણ આઈસેન્ટ્રોપિક ધારવામાં આવે છે[cite: 1]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 161,
@@ -2337,7 +2610,8 @@
       "40 J"
     ],
     "correctAnswer": 1,
-    "explanation": "W = Q - ΔU = 110 - 40 = 70 J[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "W = Q - ΔU = 110 - 40 = 70 J[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 162,
@@ -2352,7 +2626,9 @@
       "0.90"
     ],
     "correctAnswer": 2,
-    "explanation": "Work ratio = (1000 - 50) / 1000 = 0.95[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "Work ratio = (1000 - 50) / 1000 = 0.95[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 163,
@@ -2367,7 +2643,9 @@
       "આઈસેન્ટ્રોપિક"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓટો સાયકલમાં હીટ એડિશન કોન્સ્ટન્ટ વોલ્યુમ પર થાય છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "ઓટો સાયકલમાં હીટ એડિશન કોન્સ્ટન્ટ વોલ્યુમ પર થાય છે[cite: 1].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 164,
@@ -2382,7 +2660,9 @@
       "727 K"
     ],
     "correctAnswer": 0,
-    "explanation": "TL = 300 K. 0.70 = 1 - 300/TH => TH = 300 / 0.3 = 1000 K[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "TL = 300 K. 0.70 = 1 - 300/TH => TH = 300 / 0.3 = 1000 K[cite: 1]. \n\n\n\n💡",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 165,
@@ -2397,7 +2677,8 @@
       "અનપેક્ષિત રહે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "પ્રેશર રેશિયો વધારવાથી બ્રેટન સાયકલની વર્કક્ષમતા વધે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "પ્રેશર રેશિયો વધારવાથી બ્રેટન સાયકલની વર્કક્ષમતા વધે છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 166,
@@ -2412,7 +2693,9 @@
       "ફીડ પંપનું વર્ક વધારીને"
     ],
     "correctAnswer": 2,
-    "explanation": "કન્ડેન્સરનું પ્રેશર ઘટાડવાથી એન્થાલ્પી ડ્રોપ વધે છે અને વર્કક્ષમતા સુધરે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "કન્ડેન્સરનું પ્રેશર ઘટાડવાથી એન્થાલ્પી ડ્રોપ વધે છે અને વર્કક્ષમતા સુધરે છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 167,
@@ -2427,7 +2710,8 @@
       "સિંક અને સોર્સ બંનેનું ટેમ્પરેચર ઘટે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "રિઝર્વોયર હોવાથી સિંકનું ટેમ્પરેચર અચળ (સમાન) રહે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "રિઝર્વોયર હોવાથી સિંકનું ટેમ્પરેચર અચળ (સમાન) રહે છે[cite: 1].",
+    "isPYQ": false
   },
   {
     "id": 168,
@@ -2442,7 +2726,8 @@
       "ડીઝલ સાયકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "હીટ પંપ રિવર્સ્ડ કાર્નોટ સાયકલ પર આધારિત છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "હીટ પંપ રિવર્સ્ડ કાર્નોટ સાયકલ પર આધારિત છે[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": false
   },
   {
     "id": 169,
@@ -2457,7 +2742,9 @@
       "ઓટો સાયકલ"
     ],
     "correctAnswer": 2,
-    "explanation": "મહત્તમ સૈદ્ધાંતિક વર્કક્ષમતા માટે કાર્નોટ સાયકલ આદર્શ છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "મહત્તમ સૈદ્ધાંતિક વર્કક્ષમતા માટે કાર્નોટ સાયકલ આદર્શ છે[cite: 1].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 170,
@@ -2472,7 +2759,9 @@
       "((γ - n) / (γ - 1))^3 × work done"
     ],
     "correctAnswer": 0,
-    "explanation": "પોલિટ્રોપિક પ્રોસેસ માટે Q = ((γ - n) / (γ - 1)) × Work done[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "પોલિટ્રોપિક પ્રોસેસ માટે Q = ((γ - n) / (γ - 1)) × Work done[cite: 1]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 171,
@@ -2487,7 +2776,9 @@
       "તે માત્ર એડિઆબેટિક પ્રોસેસ ધરાવે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "એરિક્સન અને સ્ટર્લિંગ સાયકલ બંને સંપૂર્ણ રિવર્સિબલ સાયકલ છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "એરિક્સન અને સ્ટર્લિંગ સાયકલ બંને સંપૂર્ણ રિવર્સિબલ સાયકલ છે[cite: 1].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 172,
@@ -2502,7 +2793,9 @@
       "રેન્કિન સાયકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "∮(dQ/T) = 0 રિવર્સિબલ સાયકલ દર્શાવે છે[cite: 1]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "∮(dQ/T) = 0 રિવર્સિબલ સાયકલ દર્શાવે છે[cite: 1]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "subject": "Thermodynamics",
@@ -2517,7 +2810,8 @@
     ],
     "correctAnswer": 0,
     "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Perfectly reversible heat transfer requires an infinitesimal temperature difference and therefore an impractically large area/time.",
-    "id": 173
+    "id": 173,
+    "isPYQ": false
   },
   {
     "subject": "Thermodynamics",
@@ -2531,8 +2825,9 @@
       "Brayton cycle"
     ],
     "correctAnswer": 0,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. This is the defining ideal Otto-cycle sequence.\n\n💡 [High Yield Expected Question - 2026 Exam]",
-    "id": 174
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. This is the defining ideal Otto-cycle sequence.\n\n💡",
+    "id": 174,
+    "isPYQ": false
   },
   {
     "subject": "Thermodynamics",
@@ -2547,7 +2842,8 @@
     ],
     "correctAnswer": 0,
     "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Constant-volume heat addition yields the higher ideal efficiency at equal compression ratio.",
-    "id": 175
+    "id": 175,
+    "isPYQ": false
   },
   {
     "subject": "Thermodynamics",
@@ -2562,7 +2858,8 @@
     ],
     "correctAnswer": 1,
     "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Stirling cycle consists of two isothermal and two constant-volume regenerative processes.\n\n⚡ [Most Likely Exam Question - Concept Trap]",
-    "id": 176
+    "id": 176,
+    "isPYQ": false
   },
   {
     "subject": "Thermodynamics",
@@ -2576,8 +2873,10 @@
       "Entropy rise"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: For an adiabatic turbine, w≈h1−h2 when KE/PE changes are negligible. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]",
-    "id": 177
+    "explanation": "Expected MCQ: For an adiabatic turbine, w≈h1−h2 when KE/PE changes are negligible.",
+    "id": 177,
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "subject": "Thermodynamics",
@@ -2591,8 +2890,10 @@
       "pv=R/T"
     ],
     "correctAnswer": 0,
-    "explanation": "Expected MCQ: The characteristic gas equation is pv=RT on a mass basis. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]",
-    "id": 178
+    "explanation": "Expected MCQ: The characteristic gas equation is pv=RT on a mass basis.",
+    "id": 178,
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "subject": "Thermodynamics",
@@ -2606,8 +2907,10 @@
       "Infinite"
     ],
     "correctAnswer": 2,
-    "explanation": "Expected MCQ: Reversible adiabatic means isentropic. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]",
-    "id": 179
+    "explanation": "Expected MCQ: Reversible adiabatic means isentropic.",
+    "id": 179,
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "subject": "Thermodynamics",
@@ -2621,8 +2924,10 @@
       "Cylinder size"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: η=1−TL/TH for the reversible Carnot cycle. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]",
-    "id": 180
+    "explanation": "Expected MCQ: η=1−TL/TH for the reversible Carnot cycle.",
+    "id": 180,
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 90001,
@@ -2641,7 +2946,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "આઇસોલેટેડ સિસ્ટમ (Isolated System) માં બાઉન્ડ્રીમાંથી માસ (Mass) કે એનર્જી/હીટ/વર્ક કોઈપણ બાબતની આપલે થતી નથી. સીલ કરેલ ઇન્સ્યુલેટેડ થર્મોસ ફ્લાસ્ક અને આખું યુનિવર્સ (Universe) તેના ઉત્કૃષ્ટ ઉદાહરણો છે.\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "આઇસોલેટેડ સિસ્ટમ (Isolated System) માં બાઉન્ડ્રીમાંથી માસ (Mass) કે એનર્જી/હીટ/વર્ક કોઈપણ બાબતની આપલે થતી નથી. સીલ કરેલ ઇન્સ્યુલેટેડ થર્મોસ ફ્લાસ્ક અને આખું યુનિવર્સ (Universe) તેના ઉત્કૃષ્ટ ઉદાહરણો છે.\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 90002,
@@ -2660,7 +2967,8 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Zeroth law ના સિદ્ધાંત મુજબ જો બે સિસ્ટમ્સ (A અને B) ત્રીજી સિસ્ટમ (C) સાથે સ્વતંત્ર રીતે થર્મલ ઇક્વિલિબ્રિયમમાં હોય તો તે બંને પરસ્પર થર્મલ ઇક્વિલિબ્રિયમમાં રહે છે, જે ટેમ્પરેચર (Temperature) ની ચોક્કસ વ્યાખ્યા આપે છે.\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "Zeroth law ના સિદ્ધાંત મુજબ જો બે સિસ્ટમ્સ (A અને B) ત્રીજી સિસ્ટમ (C) સાથે સ્વતંત્ર રીતે થર્મલ ઇક્વિલિબ્રિયમમાં હોય તો તે બંને પરસ્પર થર્મલ ઇક્વિલિબ્રિયમમાં રહે છે, જે ટેમ્પરેચર (Temperature) ની ચોક્કસ વ્યાખ્યા આપે છે.\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": false
   },
   {
     "id": 90003,
@@ -2679,6 +2987,50 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "કાર્નોટ ઇફિશિયન્સી સમીકરણ: η = 1 - (T_L / T_H) = 1 - (300 / 600) = 1 - 0.5 = 0.50 અથવા 50%.\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "કાર્નોટ ઇફિશિયન્સી સમીકરણ: η = 1 - (T_L / T_H) = 1 - (300 / 600) = 1 - 0.5 = 0.50 અથવા 50%.\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
+  },
+  {
+    "subject": "Thermodynamics",
+    "subTopic": "Thermodynamic Systems & Control Volume",
+    "question": "Which thermodynamic system allows transfer of energy across its boundary but does not allow mass transfer?",
+    "gujaratiQuestion": "કયું થર્મોડાયનેમિક તંત્ર પોતાની સીમામાંથી ઉર્જાનું સ્થાનાંતરણ થવા દે છે પણ દળનું સ્થાનાંતરણ થવા દેતું નથી?",
+    "options": [
+      "Open System",
+      "Closed System",
+      "Isolated System",
+      "Adiabatic System"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "Closed system (Control Mass) માં માસ બોઉન્ડ્રી ક્રોસ કરી શકતું નથી (dm = 0), પણ એનર્જી (Heat & Work) બાઉન્ડ્રી ક્રોસ કરી શકે છે. [GSSSB AAE 2023]",
+    "examSource": "GSSSB AAE 2023",
+    "isPYQ": true,
+    "id": 90004
+  },
+  {
+    "subject": "Thermodynamics",
+    "subTopic": "Zeroth Law & Temperature Measurement",
+    "question": "The property of a thermodynamic system which is used to define Zeroth Law of Thermodynamics is:",
+    "gujaratiQuestion": "થમર્મોડાયનેમિક્સનો ઝીરોથ લો (Zeroth Law) કયો ગુણધર્મ દર્શાવવા વપરાય છે?",
+    "options": [
+      "Internal Energy",
+      "Entropy",
+      "Temperature",
+      "Enthalpy"
+    ],
+    "correctAnswer": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMSQ": false,
+    "explanation": "Zeroth law thermal equilibrium નો આધાર છે અને તે તાપમાન (Temperature) ની સ્પષ્ટ ભૌતિક વ્યાખ્યા આપે છે. [GSSSB AAE 2020]",
+    "examSource": "GSSSB AAE 2020",
+    "isPYQ": true,
+    "id": 90005
   }
 ]

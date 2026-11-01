@@ -12,7 +12,9 @@
       "Operation Energy Evaluation"
     ],
     "correctAnswer": 2,
-    "explanation": "OEE એટલે Overall Equipment Effectiveness, જે મેન્યુફેક્ચરિંગ યુનિટની Availability, Performance અને Quality ના ગુણાકાર આધારિત વર્કક્ષમતા માપે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "OEE એટલે Overall Equipment Effectiveness, જે મેન્યુફેક્ચરિંગ યુનિટની Availability, Performance અને Quality ના ગુણાકાર આધારિત વર્કક્ષમતા માપે છે[cite: 8]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 2,
@@ -27,7 +29,9 @@
       "R717"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્રોપેન (C3H8) એ ઇકો-ફ્રેન્ડલી હાઇડ્રોકાર્બન નેચરલ રેફ્રિજરેન્ટ છે, જેનો આંતરરાષ્ટ્રીય માનક કોડ R290 છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "પ્રોપેન (C3H8) એ ઇકો-ફ્રેન્ડલી હાઇડ્રોકાર્બન નેચરલ રેફ્રિજરેન્ટ છે, જેનો આંતરરાષ્ટ્રીય માનક કોડ R290 છે[cite: 8].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 3,
@@ -42,7 +46,9 @@
       "તેને જમીનમાં દાટવામાં આવે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "સોલ્વોલિસિસમાં ચોક્કસ રાસાયણિક દ્રાવકો (Solvents) નો ઉપયોગ કરી થર્મોસેટ રેઝિન મેટ્રિક્સને ઓગાળી શુદ્ધ કાર્બન ફાઇબર રિકવર કરવામાં આવે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "સોલ્વોલિસિસમાં ચોક્કસ રાસાયણિક દ્રાવકો (Solvents) નો ઉપયોગ કરી થર્મોસેટ રેઝિન મેટ્રિક્સને ઓગાળી શુદ્ધ કાર્બન ફાઇબર રિકવર કરવામાં આવે છે[cite: 8]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 4,
@@ -57,7 +63,9 @@
       "કમ્પ્રેસર"
     ],
     "correctAnswer": 0,
-    "explanation": "ટ્રાન્સક્રિટિકલ R744 (CO2) સાયકલમાં ટુ-ફેઝ ઇજેક્ટર (Two-phase Ejector) થ્રોટલિંગ લોસ રિકવર કરી કમ્પ્રેસરનું સક્શન પ્રેશર વધારે છે અને COP સુધારે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "ટ્રાન્સક્રિટિકલ R744 (CO2) સાયકલમાં ટુ-ફેઝ ઇજેક્ટર (Two-phase Ejector) થ્રોટલિંગ લોસ રિકવર કરી કમ્પ્રેસરનું સક્શન પ્રેશર વધારે છે અને COP સુધારે છે[cite: 8].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 5,
@@ -72,7 +80,9 @@
       "રિટ્રીટિંગ સાઈડ"
     ],
     "correctAnswer": 2,
-    "explanation": "ફ્રિક્શન સ્ટીર વેલ્ડિંગમાં જે બાજુ ટૂલ રોટેશનનો ટેન્જેન્શિયલ વેલોસિટી અને વેલ્ડિંગ ટ્રાવેલ વેલોસિટી બંને સમાન દિશામાં હોય તેને એડવાન્સિંગ સાઇડ (Advancing side) કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "ફ્રિક્શન સ્ટીર વેલ્ડિંગમાં જે બાજુ ટૂલ રોટેશનનો ટેન્જેન્શિયલ વેલોસિટી અને વેલ્ડિંગ ટ્રાવેલ વેલોસિટી બંને સમાન દિશામાં હોય તેને એડવાન્સિંગ સાઇડ (Advancing side) કહે છે[cite: 8]. \n\n\n\n💡",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 6,
@@ -87,7 +97,9 @@
       "બોટમ સાઈડ"
     ],
     "correctAnswer": 0,
-    "explanation": "જે બાજુ ટૂલના રોટેશનની દિશા અને વેલ્ડિંગ આગળ વધવાની દિશા પરસ્પર વિરુદ્ધ હોય તેને રિટ્રીટિંગ સાઇડ (Retreating side) કહેવાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "જે બાજુ ટૂલના રોટેશનની દિશા અને વેલ્ડિંગ આગળ વધવાની દિશા પરસ્પર વિરુદ્ધ હોય તેને રિટ્રીટિંગ સાઇડ (Retreating side) કહેવાય છે[cite: 8].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 7,
@@ -102,7 +114,9 @@
       "CO2 અને HC (હાઈડ્રોકાર્બન)"
     ],
     "correctAnswer": 3,
-    "explanation": "હાઇડ્રોજન બળતણમાં કાર્બન અણુઓ હોતા નથી, તેથી દહન બાદ CO, CO2 અને અનબર્ન્ટ હાઇડ્રોકાર્બન્સ (HC) નું ઉત્સર્જન શૂન્ય/નહિવત હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "હાઇડ્રોજન બળતણમાં કાર્બન અણુઓ હોતા નથી, તેથી દહન બાદ CO, CO2 અને અનબર્ન્ટ હાઇડ્રોકાર્બન્સ (HC) નું ઉત્સર્જન શૂન્ય/નહિવત હોય છે[cite: 8]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 8,
@@ -117,7 +131,8 @@
       "એર પ્રીહીટર"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇકોનોમાઇઝર (Economiser) ફ્લૂ ગેસની બચેલી ગરમીનો ઉપયોગ કરીને બોઇલરમાં પ્રવેશતા ફીડ-વોટરનું ટેમ્પરેચર વધારે છે, જેથી વર્કક્ષમતા વધે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "ઇકોનોમાઇઝર (Economiser) ફ્લૂ ગેસની બચેલી ગરમીનો ઉપયોગ કરીને બોઇલરમાં પ્રવેશતા ફીડ-વોટરનું ટેમ્પરેચર વધારે છે, જેથી વર્કક્ષમતા વધે છે[cite: 8].",
+    "isPYQ": false
   },
   {
     "id": 9,
@@ -132,7 +147,9 @@
       "Global Weather Pattern"
     ],
     "correctAnswer": 1,
-    "explanation": "GWP એટલે Global Warming Potential, જે CO2 ની સાપેક્ષે રેફ્રિજરેન્ટ વાયુઓની ગ્રીનહાઉસ હીટ ટ્રેપિંગ ક્ષમતા દર્શાવે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "GWP એટલે Global Warming Potential, જે CO2 ની સાપેક્ષે રેફ્રિજરેન્ટ વાયુઓની ગ્રીનહાઉસ હીટ ટ્રેપિંગ ક્ષમતા દર્શાવે છે[cite: 8]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 10,
@@ -147,7 +164,9 @@
       "બ્રેટન સાયકલ"
     ],
     "correctAnswer": 2,
-    "explanation": "કાલિના સાયકલ (Kalina Cycle) માં એમોનિયા-પાણીના ઝીઓટ્રોપિક મિશ્રણનો ઉપયોગ થાય છે, જે બદલાતા ટેમ્પરેચરે બાષ્પીભવન પામી હીટ એક્સચેન્જ લોસ ઘટાડે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "કાલિના સાયકલ (Kalina Cycle) માં એમોનિયા-પાણીના ઝીઓટ્રોપિક મિશ્રણનો ઉપયોગ થાય છે, જે બદલાતા ટેમ્પરેચરે બાષ્પીભવન પામી હીટ એક્સચેન્જ લોસ ઘટાડે છે[cite: 8].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 11,
@@ -162,7 +181,9 @@
       "પ્રેશર શૂન્ય કરવું"
     ],
     "correctAnswer": 0,
-    "explanation": "ઇજેક્ટર હાઇ-પ્રેશર વિસ્તરણ વર્કને પુનઃપ્રાપ્ત કરી ફ્લુઇડને પ્રી-કમ્પ્રેસ કરે છે, જેનાથી કમ્પ્રેસર વર્ક ઘટે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "ઇજેક્ટર હાઇ-પ્રેશર વિસ્તરણ વર્કને પુનઃપ્રાપ્ત કરી ફ્લુઇડને પ્રી-કમ્પ્રેસ કરે છે, જેનાથી કમ્પ્રેસર વર્ક ઘટે છે[cite: 8]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 12,
@@ -177,7 +198,8 @@
       "ઊંચા ટેમ્પરેચરે ફ્લુઈડની જ્વલનશીલતા અને વિઘટન"
     ],
     "correctAnswer": 3,
-    "explanation": "ઓર્ગેનિક ફ્લુઇડ્સ ઊંચા ટેમ્પરેચરે થર્મલ ડિગ્રેડેશન પામે છે અને જ્વલનશીલ/ઝેરી હોવાથી લીકેજ અટકાવવા હર્મેટિક સીલિંગ અનિવાર્ય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "ઓર્ગેનિક ફ્લુઇડ્સ ઊંચા ટેમ્પરેચરે થર્મલ ડિગ્રેડેશન પામે છે અને જ્વલનશીલ/ઝેરી હોવાથી લીકેજ અટકાવવા હર્મેટિક સીલિંગ અનિવાર્ય છે[cite: 8].",
+    "isPYQ": false
   },
   {
     "id": 13,
@@ -192,7 +214,8 @@
       "સિલિન્ડરમાં રહેલા હોટ સ્પોટ્સ અને હાઈડ્રોજનની નીચી ઇગ્નિશન એનર્જી"
     ],
     "correctAnswer": 3,
-    "explanation": "હાઇડ્રોજનની લઘુત્તમ ઇગ્નિશન એનર્જી (0.02 mJ) અત્યંત ઓછી હોવાથી ચેમ્બરમાં રહેલા ગરમ કાર્બન કણો કે વાલ્વ હોટ સ્પોટ્સથી પ્રી-ઇગ્નિશન થઈ જાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "હાઇડ્રોજનની લઘુત્તમ ઇગ્નિશન એનર્જી (0.02 mJ) અત્યંત ઓછી હોવાથી ચેમ્બરમાં રહેલા ગરમ કાર્બન કણો કે વાલ્વ હોટ સ્પોટ્સથી પ્રી-ઇગ્નિશન થઈ જાય છે[cite: 8]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "isPYQ": false
   },
   {
     "id": 14,
@@ -207,7 +230,9 @@
       "OEE"
     ],
     "correctAnswer": 1,
-    "explanation": "MTBF એટલે Mean Time Between Failures; પ્રિડિક્ટિવ મોનિટરિંગથી બ્રેકડાઉન અટકાવી બે નિષ્ફળતાઓ વચ્ચેનો સમય વધારી શકાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "MTBF એટલે Mean Time Between Failures; પ્રિડિક્ટિવ મોનિટરિંગથી બ્રેકડાઉન અટકાવી બે નિષ્ફળતાઓ વચ્ચેનો સમય વધારી શકાય છે[cite: 8].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 15,
@@ -222,7 +247,9 @@
       "પ્રિડિક્ટિવ મેન્ટેનન્સ"
     ],
     "correctAnswer": 3,
-    "explanation": "રિયલ-ટાઇમ સેન્સર ડેટા અને મશીન લર્નિંગ મોડેલ્સ વડે ઘટકની બાકી રહેલી ઉપયોગી આવરદા (RUL) ગણવી એ પ્રિડિક્ટિવ મેન્ટેનન્સ (PdM) છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "રિયલ-ટાઇમ સેન્સર ડેટા અને મશીન લર્નિંગ મોડેલ્સ વડે ઘટકની બાકી રહેલી ઉપયોગી આવરદા (RUL) ગણવી એ પ્રિડિક્ટિવ મેન્ટેનન્સ (PdM) છે[cite: 8]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 16,
@@ -237,7 +264,8 @@
       "નિયોન અને ટાઈટેનિયમ"
     ],
     "correctAnswer": 1,
-    "explanation": "નિતિનોલ (Ni-Ti) એ નિકલ અને ટાઇટેનિયમનો શેપ મેમરી એલોય (SMA) છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "નિતિનોલ (Ni-Ti) એ નિકલ અને ટાઇટેનિયમનો શેપ મેમરી એલોય (SMA) છે[cite: 8].",
+    "isPYQ": false
   },
   {
     "id": 17,
@@ -252,7 +280,9 @@
       "માસ પ્રોડક્શન માટે માત્ર લેબરનો ઉપયોગ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઈન્ડસ્ટ્રી 4.0 એ ઔદ્યોગિક ઓટોમેશનમાં સાયબર-ફિઝિકલ સિસ્ટમ્સ, IIoT, ક્લાઉડ કમ્પ્યુટિંગ અને AI દ્વારા સ્માર્ટ ફેક્ટરી નિર્માણની ક્રાંતિ છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "ઈન્ડસ્ટ્રી 4.0 એ ઔદ્યોગિક ઓટોમેશનમાં સાયબર-ફિઝિકલ સિસ્ટમ્સ, IIoT, ક્લાઉડ કમ્પ્યુટિંગ અને AI દ્વારા સ્માર્ટ ફેક્ટરી નિર્માણની ક્રાંતિ છે[cite: 8]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 18,
@@ -267,7 +297,9 @@
       "મશીનમાં ઘર્ષણ ઘટાડવું"
     ],
     "correctAnswer": 1,
-    "explanation": "ઔદ્યોગિક પ્રોસેસીસમાંથી વાતાવરણમાં વેડફાતી ગરમીને પુનઃપ્રાપ્ત કરીને વીજ ઉત્પાદન કે પ્રોસેસ હીટિંગ મેળવવું તે WHR નો હેતુ છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "ઔદ્યોગિક પ્રોસેસીસમાંથી વાતાવરણમાં વેડફાતી ગરમીને પુનઃપ્રાપ્ત કરીને વીજ ઉત્પાદન કે પ્રોસેસ હીટિંગ મેળવવું તે WHR નો હેતુ છે[cite: 8].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 19,
@@ -282,7 +314,9 @@
       "Composite Area Index"
     ],
     "correctAnswer": 2,
-    "explanation": "CAI એટલે Compression After Impact ટેસ્ટ, જે કમ્પોઝિટ પેનલ્સ પર ઇમ્પેક્ટ ડેમેજ થયા પછી તેની શેષ કમ્પ્રેસિવ તાકાત માપે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "CAI એટલે Compression After Impact ટેસ્ટ, જે કમ્પોઝિટ પેનલ્સ પર ઇમ્પેક્ટ ડેમેજ થયા પછી તેની શેષ કમ્પ્રેસિવ તાકાત માપે છે[cite: 8]. \n\n\n\n💡",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 20,
@@ -297,7 +331,9 @@
       "ટૂલ તૂટી જાય છે"
     ],
     "correctAnswer": 0,
-    "explanation": "ઓપ્ટિમાઇઝ્ડ શેડ્યુલિંગથી કુલ ઉત્પાદન સમય (Makespan), મશીન આઇડલ ટાઇમ અને વર્ક-ઇન-પ્રોસેસ ઇન્વેન્ટરી ન્યૂનતમ થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "ઓપ્ટિમાઇઝ્ડ શેડ્યુલિંગથી કુલ ઉત્પાદન સમય (Makespan), મશીન આઇડલ ટાઇમ અને વર્ક-ઇન-પ્રોસેસ ઇન્વેન્ટરી ન્યૂનતમ થાય છે[cite: 8].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 21,
@@ -312,7 +348,8 @@
       "ફરતા ટૂલના ઘર્ષણથી ઉત્પન્ન થતી ગરમી અને મિકેનિકલ મિક્સિંગ દ્વારા ધાતુને પ્લાસ્ટિક અવસ્થામાં લાવીને પીગળ્યા વિના જોડવી"
     ],
     "correctAnswer": 3,
-    "explanation": "FSW એ સોલિડ-સ્ટેટ વેલ્ડિંગ પદ્ધતિ છે જેમાં રોટેટિંગ ટૂલના ઘર્ષણથી ધાતુ પ્લાસ્ટિસાઇઝ થઈને પીગળ્યા વિના જોડાઈ જાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "FSW એ સોલિડ-સ્ટેટ વેલ્ડિંગ પદ્ધતિ છે જેમાં રોટેટિંગ ટૂલના ઘર્ષણથી ધાતુ પ્લાસ્ટિસાઇઝ થઈને પીગળ્યા વિના જોડાઈ જાય છે[cite: 8]. \n\n\n\n💡",
+    "isPYQ": false
   },
   {
     "id": 22,
@@ -327,7 +364,9 @@
       "શૂન્ય"
     ],
     "correctAnswer": 2,
-    "explanation": "હવામાં હાઇડ્રોજનની જ્વલનશીલતા મર્યાદા 4% થી 75% સુધી અત્યંત વિશાળ છે, જેથી તે અલ્ટ્રા-લીન મિશ્રણ પર પણ દહન પામે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "હવામાં હાઇડ્રોજનની જ્વલનશીલતા મર્યાદા 4% થી 75% સુધી અત્યંત વિશાળ છે, જેથી તે અલ્ટ્રા-લીન મિશ્રણ પર પણ દહન પામે છે[cite: 8].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 23,
@@ -342,7 +381,9 @@
       "પ્રિડિક્ટિવ મેન્ટેનન્સ ક્યારેય થતું નથી"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્રિવેન્ટિવ મેન્ટેનન્સ કેલેન્ડર સમય આધારિત હોય છે, જ્યારે પ્રિડિક્ટિવ મેન્ટેનન્સ સેન્સર્સના કન્ડિશન મોનિટરિંગ ડેટા પર આધારિત છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "પ્રિવેન્ટિવ મેન્ટેનન્સ કેલેન્ડર સમય આધારિત હોય છે, જ્યારે પ્રિડિક્ટિવ મેન્ટેનન્સ સેન્સર્સના કન્ડિશન મોનિટરિંગ ડેટા પર આધારિત છે[cite: 8]. \n\n\n\n💡",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 24,
@@ -357,7 +398,9 @@
       "100 J"
     ],
     "correctAnswer": 2,
-    "explanation": "હાઇડ્રોજનની મિનિમમ ઇગ્નિશન એનર્જી માત્ર 0.02 mJ જેટલી અતિશય ઓછી હોય છે (પેટ્રોલ કરતાં આશરે 10 ગણી ઓછી)[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "હાઇડ્રોજનની મિનિમમ ઇગ્નિશન એનર્જી માત્ર 0.02 mJ જેટલી અતિશય ઓછી હોય છે (પેટ્રોલ કરતાં આશરે 10 ગણી ઓછી)[cite: 8].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 25,
@@ -372,7 +415,9 @@
       "યુરેનિયમ"
     ],
     "correctAnswer": 2,
-    "explanation": "ડીકાર્બોનાઇઝેશન માટે બાયો-મિથેન, હાઇ-બ્લેન્ડેડ ઇથેનોલ, બાયોડીઝલ અને સિન્થેટિક ઈ-ફ્યુઅલ્સ મહત્વના ટ્રેન્ડ્સ છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "ડીકાર્બોનાઇઝેશન માટે બાયો-મિથેન, હાઇ-બ્લેન્ડેડ ઇથેનોલ, બાયોડીઝલ અને સિન્થેટિક ઈ-ફ્યુઅલ્સ મહત્વના ટ્રેન્ડ્સ છે[cite: 8]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 26,
@@ -387,7 +432,9 @@
       "UV લેસર અને ફોટોપોલીમર રેઝીન"
     ],
     "correctAnswer": 3,
-    "explanation": "SLA પદ્ધતિમાં લિક્વિડ ફોટોપોલિમર રેઝિન પર અલ્ટ્રાવાયોલેટ (UV) લેસર બીમ સ્કેન કરીને લેયર-બાય-લેયર સોલિડિફિકેશન થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "SLA પદ્ધતિમાં લિક્વિડ ફોટોપોલિમર રેઝિન પર અલ્ટ્રાવાયોલેટ (UV) લેસર બીમ સ્કેન કરીને લેયર-બાય-લેયર સોલિડિફિકેશન થાય છે[cite: 8].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 27,
@@ -402,7 +449,9 @@
       "Internal Operating Tool"
     ],
     "correctAnswer": 2,
-    "explanation": "IoT એટલે Internet of Things, જે ઇન્ટરનેટ દ્વારા મશીનો, સેન્સર્સ અને ક્લાઉડ નેટવર્કને જોડે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "IoT એટલે Internet of Things, જે ઇન્ટરનેટ દ્વારા મશીનો, સેન્સર્સ અને ક્લાઉડ નેટવર્કને જોડે છે[cite: 8]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 28,
@@ -417,7 +466,9 @@
       "Digital Engineering Device"
     ],
     "correctAnswer": 1,
-    "explanation": "DED એટલે Directed Energy Deposition (અથવા Direct Energy Deposition), જેમાં નોઝલમાંથી આવતો પાવડર/વાયર કેન્દ્રિત લેસર/આર્કથી પીગળીને જમા થાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "DED એટલે Directed Energy Deposition (અથવા Direct Energy Deposition), જેમાં નોઝલમાંથી આવતો પાવડર/વાયર કેન્દ્રિત લેસર/આર્કથી પીગળીને જમા થાય છે[cite: 8].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 29,
@@ -432,7 +483,9 @@
       "પાવર સપ્લાય આપવા"
     ],
     "correctAnswer": 2,
-    "explanation": "ક્લાઉડ પ્લેટફોર્મ્સ ફેક્ટરીના બિગ ડેટાનું સેન્ટ્રલાઇઝ્ડ સ્ટોરેજ, AI એનાલિટિક્સ અને રિમોટ એક્સેસિબિલિટી પૂરી પાડે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "ક્લાઉડ પ્લેટફોર્મ્સ ફેક્ટરીના બિગ ડેટાનું સેન્ટ્રલાઇઝ્ડ સ્ટોરેજ, AI એનાલિટિક્સ અને રિમોટ એક્સેસિબિલિટી પૂરી પાડે છે[cite: 8]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 30,
@@ -447,7 +500,8 @@
       "સુપરક્રિટિકલ વરાળ"
     ],
     "correctAnswer": 0,
-    "explanation": "ORC માં હાઇડ્રોકાર્બન્સ કે રેફ્રિજરેન્ટ્સ જેવા ઉચ્ચ પરમાણુ ભાર અને નીચું ઉત્કલનબિંદુ ધરાવતા ઓર્ગેનિક દ્રવ્યો વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "ORC માં હાઇડ્રોકાર્બન્સ કે રેફ્રિજરેન્ટ્સ જેવા ઉચ્ચ પરમાણુ ભાર અને નીચું ઉત્કલનબિંદુ ધરાવતા ઓર્ગેનિક દ્રવ્યો વપરાય છે[cite: 8].",
+    "isPYQ": false
   },
   {
     "id": 31,
@@ -462,7 +516,9 @@
       "ટ્રાયલ એન્ડ એરર"
     ],
     "correctAnswer": 2,
-    "explanation": "CFD સિમ્યુલેશન દ્વારા સિલિન્ડર અંદર થતા 3D સ્વર્લ, સ્કિવેશ, સ્પ્રે એટોમાઇઝેશન અને કમ્બશન ફ્લેમનું વિશ્લેષણ કરી ચેમ્બર ડિઝાઇન સુધારાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "CFD સિમ્યુલેશન દ્વારા સિલિન્ડર અંદર થતા 3D સ્વર્લ, સ્કિવેશ, સ્પ્રે એટોમાઇઝેશન અને કમ્બશન ફ્લેમનું વિશ્લેષણ કરી ચેમ્બર ડિઝાઇન સુધારાય છે[cite: 8]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 32,
@@ -477,7 +533,8 @@
       "અતિશય ઊંચા ટેમ્પરેચર (> 1000°C)"
     ],
     "correctAnswer": 0,
-    "explanation": "પાણીની સ્ટીમ સાયકલ નીચા ટેમ્પરેચરે બિનવર્કક્ષમ હોવાથી 80°C થી 300°C ની લો-ગ્રેડ વેસ્ટ હીટ માટે ORC/Kalina વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "પાણીની સ્ટીમ સાયકલ નીચા ટેમ્પરેચરે બિનવર્કક્ષમ હોવાથી 80°C થી 300°C ની લો-ગ્રેડ વેસ્ટ હીટ માટે ORC/Kalina વપરાય છે[cite: 8].",
+    "isPYQ": false
   },
   {
     "id": 33,
@@ -492,7 +549,9 @@
       "CO2 નું પ્રમાણ"
     ],
     "correctAnswer": 1,
-    "explanation": "ડાયરેક્ટ-ફાયર્ડમાં ચેમ્બરમાં ઓક્સી-કમ્બશનથી ઉત્પન્ન થયેલ CO2 સીધું વર્કિંગ ફ્લુઇડ બને છે, જ્યારે ઇનડાયરેક્ટમાં હીટ એક્સચેન્જર દ્વારા હીટ ઉમેરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "ડાયરેક્ટ-ફાયર્ડમાં ચેમ્બરમાં ઓક્સી-કમ્બશનથી ઉત્પન્ન થયેલ CO2 સીધું વર્કિંગ ફ્લુઇડ બને છે, જ્યારે ઇનડાયરેક્ટમાં હીટ એક્સચેન્જર દ્વારા હીટ ઉમેરાય છે[cite: 8]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 34,
@@ -507,7 +566,8 @@
       "હાઈ-GWP HFCs"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓઝોન ડિપ્લેશન અને ગ્લોબલ વોર્મિંગ અટકાવવા R290, R744, R717 અને HFOs જેવા લો-GWP અને નેચરલ રેફ્રિજરેન્ટ્સ અપનાવાયા છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "ઓઝોન ડિપ્લેશન અને ગ્લોબલ વોર્મિંગ અટકાવવા R290, R744, R717 અને HFOs જેવા લો-GWP અને નેચરલ રેફ્રિજરેન્ટ્સ અપનાવાયા છે[cite: 8].",
+    "isPYQ": false
   },
   {
     "id": 35,
@@ -522,7 +582,8 @@
       "Automated Machine"
     ],
     "correctAnswer": 2,
-    "explanation": "AM એટલે Additive Manufacturing (3D Printing), જેમાં ડિજિટલ મોડેલમાંથી સામગ્રી લેયર-બાય-લેયર ઉમેરીને પાર્ટ્સ બનાવાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "AM એટલે Additive Manufacturing (3D Printing), જેમાં ડિજિટલ મોડેલમાંથી સામગ્રી લેયર-બાય-લેયર ઉમેરીને પાર્ટ્સ બનાવાય છે[cite: 8]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": false
   },
   {
     "id": 36,
@@ -537,7 +598,9 @@
       "સ્માર્ટ મટિરિયલ, જે ટેમ્પરેચર અથવા સ્ટ્રેસના ફેરફારથી પોતાનો મૂળ આકાર પાછો મેળવી શકે છે"
     ],
     "correctAnswer": 3,
-    "explanation": "SMA એવા સ્માર્ટ મટિરિયલ્સ છે જે પ્લાસ્ટિકલી વિકૃત થયા પછી ચોક્કસ ટેમ્પરેચરે ગરમ કરતાં માર્ટેન્સાઇટથી ઓસ્ટેનાઇટ ફેઝ રૂપાંતરણ પામી મૂળ આકાર ધારણ કરે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "SMA એવા સ્માર્ટ મટિરિયલ્સ છે જે પ્લાસ્ટિકલી વિકૃત થયા પછી ચોક્કસ ટેમ્પરેચરે ગરમ કરતાં માર્ટેન્સાઇટથી ઓસ્ટેનાઇટ ફેઝ રૂપાંતરણ પામી મૂળ આકાર ધારણ કરે છે[cite: 8].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 37,
@@ -552,7 +615,9 @@
       "જેમાં ટ્રેડિશનલ ટચ પ્રોબ અને ઓપ્ટિકલ/લેસર સેન્સર બંને સુવિધાઓ એક જ મશીનમાં હોય"
     ],
     "correctAnswer": 3,
-    "explanation": "હાઇબ્રિડ CMM સ્પર્શ આધારિત ટેક્ટાઇલ પ્રોબ અને નોન-કોન્ટેક્ટ લેસર/ઓપ્ટિકલ સેન્સર બંને સુવિધાઓ એકસાથે ધરાવે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "હાઇબ્રિડ CMM સ્પર્શ આધારિત ટેક્ટાઇલ પ્રોબ અને નોન-કોન્ટેક્ટ લેસર/ઓપ્ટિકલ સેન્સર બંને સુવિધાઓ એકસાથે ધરાવે છે[cite: 8]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 38,
@@ -567,7 +632,9 @@
       "ટ્રેનની ગતિ પર"
     ],
     "correctAnswer": 0,
-    "explanation": "PSO એટલે Particle Swarm Optimization, જે પક્ષીઓના ઝૂંડ (Flocking) અને માછલીઓના સ્વોર્મિંગ વર્તન પરથી વિકસાવેલ મેટાહ્યુરિસ્ટિક અલ્ગોરિધમ છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "PSO એટલે Particle Swarm Optimization, જે પક્ષીઓના ઝૂંડ (Flocking) અને માછલીઓના સ્વોર્મિંગ વર્તન પરથી વિકસાવેલ મેટાહ્યુરિસ્ટિક અલ્ગોરિધમ છે[cite: 8].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 39,
@@ -582,7 +649,8 @@
       "મશીનનું વજન ઘટાડવા"
     ],
     "correctAnswer": 2,
-    "explanation": "AR ટેક્નોલોજી વાસ્તવિક મશીનરી પર ડિજિટલ સ્ટેપ-બાય-સ્ટેપ 3D ઇન્સ્ટ્રક્શન્સ અને ડેટા ઓવરલે કરીને કામદારોને એસેમ્બલી અને રિપેરમાં સહાય કરે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "AR ટેક્નોલોજી વાસ્તવિક મશીનરી પર ડિજિટલ સ્ટેપ-બાય-સ્ટેપ 3D ઇન્સ્ટ્રક્શન્સ અને ડેટા ઓવરલે કરીને કામદારોને એસેમ્બલી અને રિપેરમાં સહાય કરે છે[cite: 8]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": false
   },
   {
     "id": 40,
@@ -597,7 +665,9 @@
       "અલ્ટ્રાસાઉન્ડ"
     ],
     "correctAnswer": 2,
-    "explanation": "લેસર સ્કેનર્સ લેસર સોર્સ, ઓબ્જેક્ટ પોઇન્ટ અને કેમેરા સેન્સર વચ્ચે બનતા ત્રિકોણમિતિ આધારિત લેસર ટ્રાયેંગ્યુલેશન (Laser Triangulation) સિદ્ધાંત પર વર્ક કરે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "લેસર સ્કેનર્સ લેસર સોર્સ, ઓબ્જેક્ટ પોઇન્ટ અને કેમેરા સેન્સર વચ્ચે બનતા ત્રિકોણમિતિ આધારિત લેસર ટ્રાયેંગ્યુલેશન (Laser Triangulation) સિદ્ધાંત પર વર્ક કરે છે[cite: 8].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 41,
@@ -612,7 +682,9 @@
       "લંચ બ્રેક"
     ],
     "correctAnswer": 1,
-    "explanation": "ખરાબી થતાં પહેલાં જ પૂર્વાનુમાન કરીને સમારકામ કરી લેવાતું હોવાથી અચાનક થતો અનપ્લાન્ડ બ્રેકડાઉન ડાઉનટાઇમ સૌથી વધુ ઘટે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "ખરાબી થતાં પહેલાં જ પૂર્વાનુમાન કરીને સમારકામ કરી લેવાતું હોવાથી અચાનક થતો અનપ્લાન્ડ બ્રેકડાઉન ડાઉનટાઇમ સૌથી વધુ ઘટે છે[cite: 8]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 42,
@@ -627,7 +699,8 @@
       "Friction Stir Welding"
     ],
     "correctAnswer": 3,
-    "explanation": "FSW એટલે Friction Stir Welding[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "FSW એટલે Friction Stir Welding[cite: 8].",
+    "isPYQ": false
   },
   {
     "id": 43,
@@ -642,7 +715,8 @@
       "IE2"
     ],
     "correctAnswer": 1,
-    "explanation": "IEC સ્ટાન્ડર્ડ મુજબ IE5 એ અલ્ટ્રા-પ્રીમિયમ વર્કક્ષમતા (Ultra-Premium Efficiency) ધરાવતી સર્વોચ્ચ મોટર કેટેગરી છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "IEC સ્ટાન્ડર્ડ મુજબ IE5 એ અલ્ટ્રા-પ્રીમિયમ વર્કક્ષમતા (Ultra-Premium Efficiency) ધરાવતી સર્વોચ્ચ મોટર કેટેગરી છે[cite: 8]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": false
   },
   {
     "id": 44,
@@ -657,7 +731,8 @@
       "હ્યુમિડિટી સેન્સર"
     ],
     "correctAnswer": 1,
-    "explanation": "ટૂલ વિયર અને ચિપિંગ શોધવા માટે એકોસ્ટિક એમિશન (AE) સેન્સર્સ, વાઇબ્રેશન સેન્સર્સ અને સ્પિન્ડલ મોટર કરંટ સિગ્નેચર એનાલિસિસ વપરાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "ટૂલ વિયર અને ચિપિંગ શોધવા માટે એકોસ્ટિક એમિશન (AE) સેન્સર્સ, વાઇબ્રેશન સેન્સર્સ અને સ્પિન્ડલ મોટર કરંટ સિગ્નેચર એનાલિસિસ વપરાય છે[cite: 8].",
+    "isPYQ": false
   },
   {
     "id": 45,
@@ -672,7 +747,8 @@
       "બે મશીનો એકસાથે ચલાવવા"
     ],
     "correctAnswer": 1,
-    "explanation": "ડિજિટલ ટ્વીન એ વાસ્તવિક ભૌતિક મશીન કે પ્રોસેસનું જીવંત સેન્સર ડેટા સાથે જોડાયેલું ડિજિટલ/વર્ચ્યુઅલ પ્રતિરૂપ (Real-time virtual replica) છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "ડિજિટલ ટ્વીન એ વાસ્તવિક ભૌતિક મશીન કે પ્રોસેસનું જીવંત સેન્સર ડેટા સાથે જોડાયેલું ડિજિટલ/વર્ચ્યુઅલ પ્રતિરૂપ (Real-time virtual replica) છે[cite: 8]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "isPYQ": false
   },
   {
     "id": 46,
@@ -687,7 +763,9 @@
       "100:1 (ખૂબ જ મોટું)"
     ],
     "correctAnswer": 1,
-    "explanation": "સુપરક્રિટિકલ CO2 ની ઊંચી ડેન્સિટીને કારણે sCO2 ટર્બોમશીનરી સમાન આઉટપુટ ધરાવતી સ્ટીમ ટર્બાઇન કરતાં 10 ગણી નાની (આશરે 1:10 ફૂટપ્રિન્ટ) હોય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "સુપરક્રિટિકલ CO2 ની ઊંચી ડેન્સિટીને કારણે sCO2 ટર્બોમશીનરી સમાન આઉટપુટ ધરાવતી સ્ટીમ ટર્બાઇન કરતાં 10 ગણી નાની (આશરે 1:10 ફૂટપ્રિન્ટ) હોય છે[cite: 8].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 47,
@@ -702,7 +780,9 @@
       "3D કમ્પેરિઝન (CAD Comparison / Color Mapping)"
     ],
     "correctAnswer": 3,
-    "explanation": "સ્કેન પોઇન્ટ ક્લાઉડને મૂળ CAD મોડેલ સાથે બેસ્ટ-ફિટ અલાઇન કરી ડાયમેન્શનલ ડેવિયેશન દર્શાવવાને 3D CAD કમ્પેરિઝન કહે છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "સ્કેન પોઇન્ટ ક્લાઉડને મૂળ CAD મોડેલ સાથે બેસ્ટ-ફિટ અલાઇન કરી ડાયમેન્શનલ ડેવિયેશન દર્શાવવાને 3D CAD કમ્પેરિઝન કહે છે[cite: 8]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 48,
@@ -717,7 +797,8 @@
       "થ્રોટલ બોડી ઇન્જેક્શન"
     ],
     "correctAnswer": 1,
-    "explanation": "ડાયરેક્ટ ઇન્જેક્શન (HPDI) ઇન્ટેક વાલ્વ બંધ થયા પછી સીધું સિલિન્ડરમાં હાઇડ્રોજન સ્પ્રે કરતું હોવાથી ઇન્ટેક મેનિફોલ્ડમાં બેકફાયર થવાની શક્યતા શૂન્ય થઈ જાય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "ડાયરેક્ટ ઇન્જેક્શન (HPDI) ઇન્ટેક વાલ્વ બંધ થયા પછી સીધું સિલિન્ડરમાં હાઇડ્રોજન સ્પ્રે કરતું હોવાથી ઇન્ટેક મેનિફોલ્ડમાં બેકફાયર થવાની શક્યતા શૂન્ય થઈ જાય છે[cite: 8].",
+    "isPYQ": false
   },
   {
     "id": 49,
@@ -732,7 +813,9 @@
       "વાઇબ્રેશન, એકોસ્ટિક અને ટેમ્પરેચર સેન્સર્સ"
     ],
     "correctAnswer": 3,
-    "explanation": "મશીનરીના બેરિંગ અને ગિયર ફોલ્ટ્સ મોનિટર કરવા માટે વાઇબ્રેશન એક્સેલરોમીટર, અલ્ટ્રાસોનિક એકોસ્ટિક અને થર્મલ સેન્સર્સ મુખ્ય છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "મશીનરીના બેરિંગ અને ગિયર ફોલ્ટ્સ મોનિટર કરવા માટે વાઇબ્રેશન એક્સેલરોમીટર, અલ્ટ્રાસોનિક એકોસ્ટિક અને થર્મલ સેન્સર્સ મુખ્ય છે[cite: 8]. \n\n\n\n💡",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 50,
@@ -747,7 +830,8 @@
       "પાર્ટિક્યુલેટ મેટર (PM)"
     ],
     "correctAnswer": 0,
-    "explanation": "હાઇડ્રોજન દહનમાં ઉચ્ચ ટેમ્પરેચરે હવામાં રહેલા નાઇટ્રોજન અને ઓક્સિજન જોડાઈને NOx બનાવે છે, જે એકમાત્ર નોંધપાત્ર પ્રદૂષક છે[cite: 8]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "હાઇડ્રોજન દહનમાં ઉચ્ચ ટેમ્પરેચરે હવામાં રહેલા નાઇટ્રોજન અને ઓક્સિજન જોડાઈને NOx બનાવે છે, જે એકમાત્ર નોંધપાત્ર પ્રદૂષક છે[cite: 8].",
+    "isPYQ": false
   },
   {
     "id": 51,
@@ -762,7 +846,8 @@
       "ઈવાપોરેટર"
     ],
     "correctAnswer": 0,
-    "explanation": "HRSG (Heat Recovery Steam Generator) ગેસ ટર્બાઇનના ઊંચા ટેમ્પરેચરવાળા એક્ઝોસ્ટમાંથી વેસ્ટ હીટ મેળવીને સ્ટીમ ટર્બાઇન માટે હાઇ-પ્રેશર સ્ટીમ બનાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "HRSG (Heat Recovery Steam Generator) ગેસ ટર્બાઇનના ઊંચા ટેમ્પરેચરવાળા એક્ઝોસ્ટમાંથી વેસ્ટ હીટ મેળવીને સ્ટીમ ટર્બાઇન માટે હાઇ-પ્રેશર સ્ટીમ બનાવે છે[cite: 7]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "isPYQ": false
   },
   {
     "id": 52,
@@ -777,7 +862,9 @@
       "પંપની સાઈઝ ઘટાડવી"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્માર્ટ પમ્પિંગ સિસ્ટમ VFD અને પ્રેશર/ફ્લો સેન્સર્સ વડે રિયલ-ટાઇમ માંગ મુજબ આપમેળે પંપની સ્પીડ નિયંત્રિત કરી ઊર્જા બચાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "સ્માર્ટ પમ્પિંગ સિસ્ટમ VFD અને પ્રેશર/ફ્લો સેન્સર્સ વડે રિયલ-ટાઇમ માંગ મુજબ આપમેળે પંપની સ્પીડ નિયંત્રિત કરી ઊર્જા બચાવે છે[cite: 7].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 53,
@@ -792,7 +879,9 @@
       "રેન્ડરર"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્લાઇસર સોફ્ટવેર 3D CAD (.STL) ફાઇલને 2D લેયર્સમાં કાપીને 3D પ્રિન્ટર માટે કમાન્ડ્સ (G-code) જનરેટ કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "સ્લાઇસર સોફ્ટવેર 3D CAD (.STL) ફાઇલને 2D લેયર્સમાં કાપીને 3D પ્રિન્ટર માટે કમાન્ડ્સ (G-code) જનરેટ કરે છે[cite: 7]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 54,
@@ -807,7 +896,9 @@
       "Copper Fiber Reinforced Plastic"
     ],
     "correctAnswer": 2,
-    "explanation": "CFRP એટલે Carbon Fiber Reinforced Polymer, જે કાર્બન ફાઇબર રિઇન્ફોર્સમેન્ટ અને પોલિમર રેઝિન મેટ્રિક્સ ધરાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "CFRP એટલે Carbon Fiber Reinforced Polymer, જે કાર્બન ફાઇબર રિઇન્ફોર્સમેન્ટ અને પોલિમર રેઝિન મેટ્રિક્સ ધરાવે છે[cite: 7].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 55,
@@ -822,7 +913,9 @@
       "ચુંબકીય શક્તિ"
     ],
     "correctAnswer": 2,
-    "explanation": "કપ્લિંગ ફેક્ટર k² મટિરિયલમાં સંગ્રહિત યાંત્રિક ઊર્જાનું વિદ્યુત ઊર્જામાં (અથવા ઉલટું) રૂપાંતરણ થવાનો ગુણોત્તર દર્શાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "કપ્લિંગ ફેક્ટર k² મટિરિયલમાં સંગ્રહિત યાંત્રિક ઊર્જાનું વિદ્યુત ઊર્જામાં (અથવા ઉલટું) રૂપાંતરણ થવાનો ગુણોત્તર દર્શાવે છે[cite: 7]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 56,
@@ -837,7 +930,9 @@
       "મટિરિયલને લેયર-બાય-લેયર ઉમેરીને પાર્ટ બનાવવો"
     ],
     "correctAnswer": 3,
-    "explanation": "એડિટિવ મેન્યુફેક્ચરિંગ સબટ્રેક્ટિવ (કટિંગ) પદ્ધતિના બદલે સામગ્રીને સ્તર દર સ્તર (Layer-by-layer) ઉમેરીને ઘટકનું નિર્માણ કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "એડિટિવ મેન્યુફેક્ચરિંગ સબટ્રેક્ટિવ (કટિંગ) પદ્ધતિના બદલે સામગ્રીને સ્તર દર સ્તર (Layer-by-layer) ઉમેરીને ઘટકનું નિર્માણ કરે છે[cite: 7].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 57,
@@ -852,7 +947,9 @@
       "31.1°C, 7.38 MPa"
     ],
     "correctAnswer": 3,
-    "explanation": "CO2 નું ક્રિટિકલ પોઇન્ટ ટેમ્પરેચર 31.1°C (304.25 K) અને ક્રિટિકલ પ્રેશર 7.38 MPa (73.8 bar) છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "CO2 નું ક્રિટિકલ પોઇન્ટ ટેમ્પરેચર 31.1°C (304.25 K) અને ક્રિટિકલ પ્રેશર 7.38 MPa (73.8 bar) છે[cite: 7]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 58,
@@ -867,7 +964,9 @@
       "મટિરિયલ બદલવા"
     ],
     "correctAnswer": 1,
-    "explanation": "હયાત ભૌતિક પાર્ટનું ચોક્કસ 3D ડિજિટાઇઝેશન (પોઇન્ટ ક્લાઉડ) કરીને મૂળ CAD મોડેલ પુનઃનિર્માણ કરવા રિવર્સ એન્જિનિયરિંગમાં સ્કેનર્સ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "હયાત ભૌતિક પાર્ટનું ચોક્કસ 3D ડિજિટાઇઝેશન (પોઇન્ટ ક્લાઉડ) કરીને મૂળ CAD મોડેલ પુનઃનિર્માણ કરવા રિવર્સ એન્જિનિયરિંગમાં સ્કેનર્સ વપરાય છે[cite: 7].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 59,
@@ -882,7 +981,9 @@
       "R22"
     ],
     "correctAnswer": 2,
-    "explanation": "R1234yf એ હાઇડ્રોફ્લોરોઓલિફિન (HFO) રેફ્રિજરેન્ટ છે જેનો GWP < 1 હોવાથી R134a ના સ્થાને વૈશ્વિક સ્તરે કાર AC માં અપનાવાયું છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "R1234yf એ હાઇડ્રોફ્લોરોઓલિફિન (HFO) રેફ્રિજરેન્ટ છે જેનો GWP < 1 હોવાથી R134a ના સ્થાને વૈશ્વિક સ્તરે કાર AC માં અપનાવાયું છે[cite: 7]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 60,
@@ -897,7 +998,8 @@
       "R600a"
     ],
     "correctAnswer": 0,
-    "explanation": "ઇનઓર્ગેનિક રેફ્રિજરેન્ટ્સ માટે R (700 + મોલેક્યુલર વેઇટ) ફોર્મ્યુલા મુજબ એમોનિયા (NH3, MW=17) નો કોડ R717 છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "ઇનઓર્ગેનિક રેફ્રિજરેન્ટ્સ માટે R (700 + મોલેક્યુલર વેઇટ) ફોર્મ્યુલા મુજબ એમોનિયા (NH3, MW=17) નો કોડ R717 છે[cite: 7].",
+    "isPYQ": false
   },
   {
     "id": 61,
@@ -912,7 +1014,9 @@
       "ડીઝલ સાયકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓર્ગેનિક રેન્કાઇન સાયકલ (ORC) નીચા ઉત્કલનબિંદુવાળા દ્રવ્યો વાપરી 80°C થી 250°C ના નીચા ટેમ્પરેચરવાળા સ્ત્રોતમાંથી વર્કક્ષમ વીજ ઉત્પાદન કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "ઓર્ગેનિક રેન્કાઇન સાયકલ (ORC) નીચા ઉત્કલનબિંદુવાળા દ્રવ્યો વાપરી 80°C થી 250°C ના નીચા ટેમ્પરેચરવાળા સ્ત્રોતમાંથી વર્કક્ષમ વીજ ઉત્પાદન કરે છે[cite: 7]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 62,
@@ -927,7 +1031,9 @@
       "L-PBF થી મટિરિયલ રિપેર કરી શકાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "L-PBF પાવડર બેડ પર લેસર સ્કેન કરીને પ્રિસિઝન પાર્ટ્સ બનાવે છે, જ્યારે DED માં નોઝલ દ્વારા સીધો પાવડર/વાયર ફીડ કરીને લેસરથી પીગળાવી પાર્ટ બને છે કે રિપેર થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "L-PBF પાવડર બેડ પર લેસર સ્કેન કરીને પ્રિસિઝન પાર્ટ્સ બનાવે છે, જ્યારે DED માં નોઝલ દ્વારા સીધો પાવડર/વાયર ફીડ કરીને લેસરથી પીગળાવી પાર્ટ બને છે કે રિપેર થાય છે[cite: 7].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 63,
@@ -942,7 +1048,9 @@
       "સંપૂર્ણ સપ્રમાણ (Centrosymmetric)"
     ],
     "correctAnswer": 1,
-    "explanation": "પીઝોઇલેક્ટ્રિક અસર માત્ર એવા સ્ફટિકોમાં જ જોવા મળે છે જેમાં સમપ્રમાણતા કેન્દ્રનો અભાવ હોય (Non-centrosymmetric crystal structure)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "પીઝોઇલેક્ટ્રિક અસર માત્ર એવા સ્ફટિકોમાં જ જોવા મળે છે જેમાં સમપ્રમાણતા કેન્દ્રનો અભાવ હોય (Non-centrosymmetric crystal structure)[cite: 7]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 64,
@@ -957,7 +1065,9 @@
       "પાર્ટને કાપવા"
     ],
     "correctAnswer": 1,
-    "explanation": "લેસર ઇન્ટરફેરોમીટર પ્રકાશના વ્યતિકરણ (Interference) સિદ્ધાંત વડે સબ-માઇક્રોન/નેનોમીટર સ્તરનું રેખીય ડિસ્પ્લેસમેન્ટ અને મશીન ટૂલ કેલિબ્રેશન કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "લેસર ઇન્ટરફેરોમીટર પ્રકાશના વ્યતિકરણ (Interference) સિદ્ધાંત વડે સબ-માઇક્રોન/નેનોમીટર સ્તરનું રેખીય ડિસ્પ્લેસમેન્ટ અને મશીન ટૂલ કેલિબ્રેશન કરે છે[cite: 7].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 65,
@@ -972,7 +1082,9 @@
       "લો-પ્રેશર સ્ટીલ સિલિન્ડર"
     ],
     "correctAnswer": 2,
-    "explanation": "વાહનોમાં પૂરતી ડ્રાઇવિંગ રેન્જ માટે હળવા વજનના Type-IV કાર્બન ફાઇબર કોમ્પોઝિટ સિલિન્ડરમાં 700 bar (70 MPa) પ્રેશરે હાઇડ્રોજન સંગ્રહાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "વાહનોમાં પૂરતી ડ્રાઇવિંગ રેન્જ માટે હળવા વજનના Type-IV કાર્બન ફાઇબર કોમ્પોઝિટ સિલિન્ડરમાં 700 bar (70 MPa) પ્રેશરે હાઇડ્રોજન સંગ્રહાય છે[cite: 7]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 66,
@@ -987,7 +1099,9 @@
       "સિમેન્ટ"
     ],
     "correctAnswer": 2,
-    "explanation": "ઉચ્ચ મિકેનિકલ તાકાત, શ્રેષ્ઠ એડહેઝન અને કમ્પોઝિટ સ્ટિફનેસ પૂરી પાડવા માટે થર્મોસેટિંગ ઇપોક્સી રેઝિન (Epoxy resin) સૌથી વધુ વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "ઉચ્ચ મિકેનિકલ તાકાત, શ્રેષ્ઠ એડહેઝન અને કમ્પોઝિટ સ્ટિફનેસ પૂરી પાડવા માટે થર્મોસેટિંગ ઇપોક્સી રેઝિન (Epoxy resin) સૌથી વધુ વપરાય છે[cite: 7].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 67,
@@ -1002,7 +1116,9 @@
       "તમામ મશીનો અને ડેટા ઈન્ટરનેટથી કનેક્ટેડ હોવાથી હેકિંગ અને ડેટા ચોરી અટકાવવા"
     ],
     "correctAnswer": 3,
-    "explanation": "IIoT અને ક્લાઉડ નેટવર્ક્સથી જોડાયેલી સ્માર્ટ ફેક્ટરીઓમાં ઔદ્યોગિક નિયંત્રણ પ્રણાલીઓ (ICS/SCADA) ને સાયબર હુમલા અને ડેટા ચોરીથી બચાવવા તે જરૂરી છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "IIoT અને ક્લાઉડ નેટવર્ક્સથી જોડાયેલી સ્માર્ટ ફેક્ટરીઓમાં ઔદ્યોગિક નિયંત્રણ પ્રણાલીઓ (ICS/SCADA) ને સાયબર હુમલા અને ડેટા ચોરીથી બચાવવા તે જરૂરી છે[cite: 7]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 68,
@@ -1017,7 +1133,8 @@
       "પંપ"
     ],
     "correctAnswer": 0,
-    "explanation": "રીકોટર મિકેનિઝમમાં પ્રિસિઝન સિરામિક/સ્ટીલ બ્લેડ અથવા કાઉન્ટર-રોટેટિંગ રોલર વડે 20-50 માઇક્રોનનું એકસમાન પાઉડર લેયર પથરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "રીકોટર મિકેનિઝમમાં પ્રિસિઝન સિરામિક/સ્ટીલ બ્લેડ અથવા કાઉન્ટર-રોટેટિંગ રોલર વડે 20-50 માઇક્રોનનું એકસમાન પાઉડર લેયર પથરાય છે[cite: 7].",
+    "isPYQ": false
   },
   {
     "id": 69,
@@ -1032,7 +1149,9 @@
       "પર્સ્પેક્ટિવ એરર"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રોબ ટિપ અને વર્કપીસ વચ્ચેના બિંદુ સંપર્ક પ્રેશરને લીધે ઉદભવતી સ્થિતિસ્થાપક દબાવની ભૂલને હર્ટ્ઝિયન કોન્ટેક્ટ ડિફોર્મેશન કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "પ્રોબ ટિપ અને વર્કપીસ વચ્ચેના બિંદુ સંપર્ક પ્રેશરને લીધે ઉદભવતી સ્થિતિસ્થાપક દબાવની ભૂલને હર્ટ્ઝિયન કોન્ટેક્ટ ડિફોર્મેશન કહે છે[cite: 7]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 70,
@@ -1047,7 +1166,8 @@
       "સ્પાર્ક પ્લગની જરૂર રહેતી નથી."
     ],
     "correctAnswer": 0,
-    "explanation": "હવાના બદલે શુદ્ધ O2 વાપરવાથી એક્ઝોસ્ટમાં નાઇટ્રોજન હોતો નથી, જેથી NOx બનતું નથી અને માત્ર શુદ્ધ CO2 + H2O બને છે જેને 100% કેપ્ચર કરી શકાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "હવાના બદલે શુદ્ધ O2 વાપરવાથી એક્ઝોસ્ટમાં નાઇટ્રોજન હોતો નથી, જેથી NOx બનતું નથી અને માત્ર શુદ્ધ CO2 + H2O બને છે જેને 100% કેપ્ચર કરી શકાય છે[cite: 7].",
+    "isPYQ": false
   },
   {
     "id": 71,
@@ -1062,7 +1182,9 @@
       "બેટરી ચાર્જિંગમાં"
     ],
     "correctAnswer": 2,
-    "explanation": "કન્વર્સ પીઝોઇલેક્ટ્રિક ઇફેક્ટમાં વિદ્યુત વોલ્ટેજ આપતાં મટિરિયલ યાંત્રિક સ્ટ્રેઇન/ડિસ્પ્લેસમેન્ટ અનુભવે છે, જે નેનો-પોઝિશનિંગ એક્ચ્યુએટર્સમાં વપરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "કન્વર્સ પીઝોઇલેક્ટ્રિક ઇફેક્ટમાં વિદ્યુત વોલ્ટેજ આપતાં મટિરિયલ યાંત્રિક સ્ટ્રેઇન/ડિસ્પ્લેસમેન્ટ અનુભવે છે, જે નેનો-પોઝિશનિંગ એક્ચ્યુએટર્સમાં વપરાય છે[cite: 7]. \n\n\n\n💡",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 72,
@@ -1077,7 +1199,9 @@
       "ટેલિસેન્ટ્રિક લેન્સ (Telecentric lens)"
     ],
     "correctAnswer": 3,
-    "explanation": "ટેલિસેન્ટ્રિક લેન્સ તમામ મુખ્ય કિરણોને ઓપ્ટિકલ અક્ષને સમાંતર રાખે છે, જેથી ઊંડાઈ બદલાવા છતાં ઓબ્જેક્ટનું મેગ્નિફિકેશન બદલાતું નથી[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "ટેલિસેન્ટ્રિક લેન્સ તમામ મુખ્ય કિરણોને ઓપ્ટિકલ અક્ષને સમાંતર રાખે છે, જેથી ઊંડાઈ બદલાવા છતાં ઓબ્જેક્ટનું મેગ્નિફિકેશન બદલાતું નથી[cite: 7].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 73,
@@ -1092,7 +1216,9 @@
       "મટિરિયલનું ટેમ્પરેચર માપવા"
     ],
     "correctAnswer": 1,
-    "explanation": "ટૂલ ડ્રોપ જેવી લો-વેલોસિટી અથડામણથી કમ્પોઝિટમાં થતા અદ્રશ્ય ડીલેમિનેશન બાદ સ્ટ્રક્ચરલ કમ્પ્રેશન સહિષ્ણુતા ચકાસવા CAI ટેસ્ટ થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "ટૂલ ડ્રોપ જેવી લો-વેલોસિટી અથડામણથી કમ્પોઝિટમાં થતા અદ્રશ્ય ડીલેમિનેશન બાદ સ્ટ્રક્ચરલ કમ્પ્રેશન સહિષ્ણુતા ચકાસવા CAI ટેસ્ટ થાય છે[cite: 7]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 74,
@@ -1107,7 +1233,9 @@
       "અંડરકટ"
     ],
     "correctAnswer": 1,
-    "explanation": "અપૂરતા પ્લાસ્ટિસાઇઝેશન અને ઇનકમ્પ્લીટ મેટલ કન્સોલિડેશનને લીધે FSW સીમની નીચે સબ-સરફેસ ટનલ અથવા વોર્મહોલ ડિફેક્ટ બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "અપૂરતા પ્લાસ્ટિસાઇઝેશન અને ઇનકમ્પ્લીટ મેટલ કન્સોલિડેશનને લીધે FSW સીમની નીચે સબ-સરફેસ ટનલ અથવા વોર્મહોલ ડિફેક્ટ બને છે[cite: 7].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 75,
@@ -1122,7 +1250,9 @@
       "તે ક્યારેય ગેસ બનતું નથી"
     ],
     "correctAnswer": 0,
-    "explanation": "HFOs અનસેચ્યુરેટેડ ઓલિફિન્સ (C=C ડબલ બોન્ડ) હોવાથી વાતાવરણમાં OH રેડિકલ્સ સાથે ઝડપથી વિઘટન પામે છે, જેથી તેમનો GWP < 1 રહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "HFOs અનસેચ્યુરેટેડ ઓલિફિન્સ (C=C ડબલ બોન્ડ) હોવાથી વાતાવરણમાં OH રેડિકલ્સ સાથે ઝડપથી વિઘટન પામે છે, જેથી તેમનો GWP < 1 રહે છે[cite: 7]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 76,
@@ -1137,7 +1267,9 @@
       "માત્ર વેક્યુમમાં"
     ],
     "correctAnswer": 0,
-    "explanation": "ટ્રાન્સક્રિટિકલ સાયકલમાં હીટ રિજેક્શન ક્રિટિકલ પ્રેશર (7.38 MPa) થી ઉપર સુપરક્રિટિકલ ગેસ કૂલરમાં થાય છે અને બાષ્પીભવન સબક્રિટિકલ પ્રેશરે થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "ટ્રાન્સક્રિટિકલ સાયકલમાં હીટ રિજેક્શન ક્રિટિકલ પ્રેશર (7.38 MPa) થી ઉપર સુપરક્રિટિકલ ગેસ કૂલરમાં થાય છે અને બાષ્પીભવન સબક્રિટિકલ પ્રેશરે થાય છે[cite: 7].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 77,
@@ -1152,7 +1284,9 @@
       "મિકેનિકલ સ્ટ્રેસ આપવાથી ઇલેક્ટ્રિકલ વોલ્ટેજ/ચાર્જ ઉત્પન્ન થવો"
     ],
     "correctAnswer": 3,
-    "explanation": "ડાયરેક્ટ પીઝોઇલેક્ટ્રિક ઇફેક્ટ મુજબ મટિરિયલ પર યાંત્રિક પ્રેશર કે સ્ટ્રેસ આપતાં તેના પોલરાઇઝેશનથી વિદ્યુત ચાર્જ (વોલ્ટેજ) ઉત્પન્ન થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "ડાયરેક્ટ પીઝોઇલેક્ટ્રિક ઇફેક્ટ મુજબ મટિરિયલ પર યાંત્રિક પ્રેશર કે સ્ટ્રેસ આપતાં તેના પોલરાઇઝેશનથી વિદ્યુત ચાર્જ (વોલ્ટેજ) ઉત્પન્ન થાય છે[cite: 7]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 78,
@@ -1167,7 +1301,9 @@
       "ઇન્ટરઓપરેબિલિટી (Interoperability)"
     ],
     "correctAnswer": 3,
-    "explanation": "ઇન્ટરઓપરેબિલિટી એ ઓપન પ્રોટોકોલ્સ (OPC UA, MQTT) દ્વારા વિવિધ ઉત્પાદકોના મશીનો વચ્ચે સંચાર અને સુસંગતતા સ્થાપિત કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "ઇન્ટરઓપરેબિલિટી એ ઓપન પ્રોટોકોલ્સ (OPC UA, MQTT) દ્વારા વિવિધ ઉત્પાદકોના મશીનો વચ્ચે સંચાર અને સુસંગતતા સ્થાપિત કરે છે[cite: 7].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 79,
@@ -1182,7 +1318,9 @@
       "ખૂબ ઊંચો GWP"
     ],
     "correctAnswer": 0,
-    "explanation": "HFO રેફ્રિજરેન્ટ્સ શૂન્ય ઓઝોન ડિપ્લેશન પોટેન્શિયલ (ODP = 0) અને અલ્ટ્રા-લો ગ્લોબલ વોર્મિંગ પોટેન્શિયલ (GWP ≤ 1) ધરાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "HFO રેફ્રિજરેન્ટ્સ શૂન્ય ઓઝોન ડિપ્લેશન પોટેન્શિયલ (ODP = 0) અને અલ્ટ્રા-લો ગ્લોબલ વોર્મિંગ પોટેન્શિયલ (GWP ≤ 1) ધરાવે છે[cite: 7]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 80,
@@ -1197,7 +1335,8 @@
       "નોઝલ અને વાયર"
     ],
     "correctAnswer": 0,
-    "explanation": "FSW ટૂલમાં શોલ્ડર (જે સપાટી પર ઘર્ષણ ગરમી અને ફોર્સ આપે છે) અને પિન/પ્રોબ (જે પ્લાસ્ટિસાઇઝ્ડ ધાતુને મિક્સ કરે છે) મુખ્ય ઘટકો છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "FSW ટૂલમાં શોલ્ડર (જે સપાટી પર ઘર્ષણ ગરમી અને ફોર્સ આપે છે) અને પિન/પ્રોબ (જે પ્લાસ્ટિસાઇઝ્ડ ધાતુને મિક્સ કરે છે) મુખ્ય ઘટકો છે[cite: 7].",
+    "isPYQ": false
   },
   {
     "id": 81,
@@ -1212,7 +1351,9 @@
       "સોલિડ થી લિક્વિડ"
     ],
     "correctAnswer": 0,
-    "explanation": "SMA માં હાઇ-ટેમ્પરેચર ઓસ્ટેનાઇટ ફેઝ અને લો-ટેમ્પરેચર ટ્વિન્ડ માર્ટેનસાઇટ ફેઝ વચ્ચે થતા થર્મોઇલાસ્ટિક રિવર્સિબલ ટ્રાન્સફોર્મેશનથી શેપ મેમરી મળે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "SMA માં હાઇ-ટેમ્પરેચર ઓસ્ટેનાઇટ ફેઝ અને લો-ટેમ્પરેચર ટ્વિન્ડ માર્ટેનસાઇટ ફેઝ વચ્ચે થતા થર્મોઇલાસ્ટિક રિવર્સિબલ ટ્રાન્સફોર્મેશનથી શેપ મેમરી મળે છે[cite: 7]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 82,
@@ -1227,7 +1368,9 @@
       "ચોરસ"
     ],
     "correctAnswer": 0,
-    "explanation": "ટ્રાઇફ્લુટ, ટ્રાઇવેક્સ અને થ્રેડેડ ટેપર્ડ પિન પ્રોફાઇલ્સ મેટલ ફ્લો અને પ્લાસ્ટિક ડિફોર્મેશન હાઇડ્રોડાયનેમિક્સ વધારે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "ટ્રાઇફ્લુટ, ટ્રાઇવેક્સ અને થ્રેડેડ ટેપર્ડ પિન પ્રોફાઇલ્સ મેટલ ફ્લો અને પ્લાસ્ટિક ડિફોર્મેશન હાઇડ્રોડાયનેમિક્સ વધારે છે[cite: 7].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 83,
@@ -1242,7 +1385,9 @@
       "1"
     ],
     "correctAnswer": 1,
-    "explanation": "કાર્બન ડાયોક્સાઇડ ક્લોરિન કે બ્રોમિન ધરાવતો ન હોવાથી તેનો ઓઝોન ડિપ્લેશન પોટેન્શિયલ ODP = 0 છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "કાર્બન ડાયોક્સાઇડ ક્લોરિન કે બ્રોમિન ધરાવતો ન હોવાથી તેનો ઓઝોન ડિપ્લેશન પોટેન્શિયલ ODP = 0 છે[cite: 7]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 84,
@@ -1257,7 +1402,8 @@
       "Light Particle Bed Formation"
     ],
     "correctAnswer": 0,
-    "explanation": "L-PBF એટલે Laser Powder Bed Fusion (જેમાં DMLS અને SLM ટેક્નોલોજીઓનો સમાવેશ થાય છે)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "L-PBF એટલે Laser Powder Bed Fusion (જેમાં DMLS અને SLM ટેક્નોલોજીઓનો સમાવેશ થાય છે)[cite: 7].",
+    "isPYQ": false
   },
   {
     "id": 85,
@@ -1272,7 +1418,9 @@
       "બળતણ વગર"
     ],
     "correctAnswer": 1,
-    "explanation": "હાઇડ્રોજનની વિશાળ ફ્લેમેબિલિટી રેન્જને કારણે HICEV અલ્ટ્રા-લીન કમ્બશન (λ > 2) પર ચાલીને ઉચ્ચ થર્મલ વર્કક્ષમતા આપે છે અને NOx ઘટાડે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "હાઇડ્રોજનની વિશાળ ફ્લેમેબિલિટી રેન્જને કારણે HICEV અલ્ટ્રા-લીન કમ્બશન (λ > 2) પર ચાલીને ઉચ્ચ થર્મલ વર્કક્ષમતા આપે છે અને NOx ઘટાડે છે[cite: 7]. \n\n\n\n💡",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 86,
@@ -1287,7 +1435,9 @@
       "Genetic Algorithm"
     ],
     "correctAnswer": 3,
-    "explanation": "GA એટલે Genetic Algorithm, જે કુદરતી જૈવિક ઉત્ક્રાંતિ (Natural Selection) ના સિદ્ધાંત પર વર્ક કરતો ઓપ્ટિમાઇઝેશન અલ્ગોરિધમ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "GA એટલે Genetic Algorithm, જે કુદરતી જૈવિક ઉત્ક્રાંતિ (Natural Selection) ના સિદ્ધાંત પર વર્ક કરતો ઓપ્ટિમાઇઝેશન અલ્ગોરિધમ છે[cite: 7].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 87,
@@ -1302,7 +1452,9 @@
       "આઈસેન્ટ્રોપિક એફિશિયન્સી"
     ],
     "correctAnswer": 2,
-    "explanation": "વેડફાતી ગરમીમાંથી વધારાનો પાવર આઉટપુટ મળવાથી વધારાનું ઇંધણ બાળ્યા વિના પ્લાન્ટની ઓવરઓલ થર્મલ વર્કક્ષમતા વધે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "વેડફાતી ગરમીમાંથી વધારાનો પાવર આઉટપુટ મળવાથી વધારાનું ઇંધણ બાળ્યા વિના પ્લાન્ટની ઓવરઓલ થર્મલ વર્કક્ષમતા વધે છે[cite: 7]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 88,
@@ -1317,7 +1469,8 @@
       "કટિંગ રોબોટ"
     ],
     "correctAnswer": 2,
-    "explanation": "Cobot એટલે Collaborative Robot, જે સેફ્ટી સેન્સર્સ સાથે માનવ ઓપરેટરની સાથે શેર કરેલી વર્કસ્પેસમાં સહયોગથી કામ કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "Cobot એટલે Collaborative Robot, જે સેફ્ટી સેન્સર્સ સાથે માનવ ઓપરેટરની સાથે શેર કરેલી વર્કસ્પેસમાં સહયોગથી કામ કરે છે[cite: 7].",
+    "isPYQ": false
   },
   {
     "id": 89,
@@ -1332,7 +1485,9 @@
       "તે ટર્બાઈનનું વોલ્યુમ વધારે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "ડાયરેક્ટ ઇવાપોરેશનમાં ફ્લૂ ગેસ સીધા ઓર્ગેનિક ફ્લુઇડને ગરમ કરે છે, જેથી મધ્યવર્તી થર્મલ ઓઇલ સર્કિટ, હીટ એક્સચેન્જર લોસ અને ખર્ચ ઘટે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "ડાયરેક્ટ ઇવાપોરેશનમાં ફ્લૂ ગેસ સીધા ઓર્ગેનિક ફ્લુઇડને ગરમ કરે છે, જેથી મધ્યવર્તી થર્મલ ઓઇલ સર્કિટ, હીટ એક્સચેન્જર લોસ અને ખર્ચ ઘટે છે[cite: 7]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 90,
@@ -1347,7 +1502,9 @@
       "કોબોટ માત્ર પેઇન્ટિંગ કરે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "કોબોટ્સમાં ફોર્સ/ટોર્ક સેન્સર્સ અને પાવર-એન્ડ-ફોર્સ લિમિટિંગ ટેકનોલોજી હોય છે જેથી માણસના સંપર્કમાં આવતાં જ ઇજા વિના તરત અટકી જાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "કોબોટ્સમાં ફોર્સ/ટોર્ક સેન્સર્સ અને પાવર-એન્ડ-ફોર્સ લિમિટિંગ ટેકનોલોજી હોય છે જેથી માણસના સંપર્કમાં આવતાં જ ઇજા વિના તરત અટકી જાય છે[cite: 7].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 91,
@@ -1362,7 +1519,9 @@
       "ઓવરહીટિંગ"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્માર્ટ પંપમાં રહેલા વાઇબ્રેશન અને પ્રેશર સેન્સર્સ કેવિટેશનના પ્રારંભિક લક્ષણો પારખી સ્પીડ એડજસ્ટ કરી કેવિટેશન ડેમેજ રોકે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "સ્માર્ટ પંપમાં રહેલા વાઇબ્રેશન અને પ્રેશર સેન્સર્સ કેવિટેશનના પ્રારંભિક લક્ષણો પારખી સ્પીડ એડજસ્ટ કરી કેવિટેશન ડેમેજ રોકે છે[cite: 7]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 92,
@@ -1377,7 +1536,9 @@
       "ક્લચ"
     ],
     "correctAnswer": 0,
-    "explanation": "VFD (Variable Frequency Drive) મોટર સપ્લાય ફ્રિક્વન્સી બદલીને સિસ્ટમ હેડ અને ફ્લો ડિમાન્ડ મુજબ પંપ RPM કંટ્રોલ કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "VFD (Variable Frequency Drive) મોટર સપ્લાય ફ્રિક્વન્સી બદલીને સિસ્ટમ હેડ અને ફ્લો ડિમાન્ડ મુજબ પંપ RPM કંટ્રોલ કરે છે[cite: 7].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 93,
@@ -1392,7 +1553,9 @@
       "એવરેજ ફિનિશ ટેમ્પરેચર"
     ],
     "correctAnswer": 2,
-    "explanation": "ગરમ કરતી વખતે માર્ટેનસાઇટમાંથી ઓસ્ટેનાઇટમાં રૂપાંતર શરૂ થવાના ટેમ્પરેચરને Austenite Start (As) અને પૂર્ણ થવાને Austenite Finish (Af) કહે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "ગરમ કરતી વખતે માર્ટેનસાઇટમાંથી ઓસ્ટેનાઇટમાં રૂપાંતર શરૂ થવાના ટેમ્પરેચરને Austenite Start (As) અને પૂર્ણ થવાને Austenite Finish (Af) કહે છે[cite: 7]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 94,
@@ -1407,7 +1570,9 @@
       "પોટેન્શિયલ ઊર્જાથી કાઈનેટિક ઊર્જા"
     ],
     "correctAnswer": 0,
-    "explanation": "વોલ્યુટ કેસિંગ અને ડિફ્યુઝર ફ્લુઇડના ઊંચા ડિસ્ચાર્જ વેલોસિટી (કાઇનેટિક ઊર્જા) નું ન્યૂનતમ હાઇડ્રોલિક લોસ સાથે સ્ટેટિક પ્રેશરમાં રૂપાંતર કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "વોલ્યુટ કેસિંગ અને ડિફ્યુઝર ફ્લુઇડના ઊંચા ડિસ્ચાર્જ વેલોસિટી (કાઇનેટિક ઊર્જા) નું ન્યૂનતમ હાઇડ્રોલિક લોસ સાથે સ્ટેટિક પ્રેશરમાં રૂપાંતર કરે છે[cite: 7].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 95,
@@ -1422,7 +1587,9 @@
       "માઈક્રોમીટર"
     ],
     "correctAnswer": 2,
-    "explanation": "મશીન વિઝન અને નોન-કોન્ટેક્ટ ઓપ્ટિકલ સ્કેનર્સ પાર્ટને સ્પર્શ કર્યા વિના મિલીસેકન્ડ્સમાં ડાયમેન્શનલ ઇન્સ્પેક્શન કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "મશીન વિઝન અને નોન-કોન્ટેક્ટ ઓપ્ટિકલ સ્કેનર્સ પાર્ટને સ્પર્શ કર્યા વિના મિલીસેકન્ડ્સમાં ડાયમેન્શનલ ઇન્સ્પેક્શન કરે છે[cite: 7]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 96,
@@ -1437,7 +1604,8 @@
       "મટિરિયલ કાયમી ધોરણે પોતાનો આકાર ગુમાવે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "TWSME માં મટિરિયલ કોઈપણ બાહ્ય બળ વગર ગરમ થતાં હાઇ-ટેમ્પરેચર આકાર અને ઠંડુ પડતાં લો-ટેમ્પરેચર આકાર આપમેળે ધારણ કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "TWSME માં મટિરિયલ કોઈપણ બાહ્ય બળ વગર ગરમ થતાં હાઇ-ટેમ્પરેચર આકાર અને ઠંડુ પડતાં લો-ટેમ્પરેચર આકાર આપમેળે ધારણ કરે છે[cite: 7].",
+    "isPYQ": false
   },
   {
     "id": 97,
@@ -1452,7 +1620,9 @@
       "તેમાં 100% મટિરિયલ વેસ્ટેજ થાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "AM દ્વારા જટિલ આંતરિક ચેનલો, ઓપ્ટિમાઇઝ્ડ ટોપોલોજી અને લાઇટવેઇટ સેલ્યુલર લેટિસ સ્ટ્રક્ચર્સ નહિવત મટિરિયલ વેસ્ટેજ સાથે બને છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "AM દ્વારા જટિલ આંતરિક ચેનલો, ઓપ્ટિમાઇઝ્ડ ટોપોલોજી અને લાઇટવેઇટ સેલ્યુલર લેટિસ સ્ટ્રક્ચર્સ નહિવત મટિરિયલ વેસ્ટેજ સાથે બને છે[cite: 7]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 98,
@@ -1467,7 +1637,8 @@
       "ન્યુટનના ગતિના નિયમો"
     ],
     "correctAnswer": 2,
-    "explanation": "ઔદ્યોગિક ટર્બોમશીનરી સિમ્યુલેશનમાં ટર્બ્યુલન્સ મોડેલિંગ (k-ε, k-ω SST) માટે RANS સમીકરણો મુખ્ય આધાર છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "ઔદ્યોગિક ટર્બોમશીનરી સિમ્યુલેશનમાં ટર્બ્યુલન્સ મોડેલિંગ (k-ε, k-ω SST) માટે RANS સમીકરણો મુખ્ય આધાર છે[cite: 7].",
+    "isPYQ": false
   },
   {
     "id": 99,
@@ -1482,7 +1653,9 @@
       "2 mm"
     ],
     "correctAnswer": 0,
-    "explanation": "હાઇડ્રોજનનું ક્વેન્ચિંગ ડિસ્ટન્સ માત્ર ~0.6 mm (હાઇડ્રોકાર્બન્સના ~2.0 mm કરતાં ઘણું ઓછું) હોવાથી તે આંશિક ખુલ્લા ઇન્ટેક વાલ્વમાંથી પણ ફ્લેમ બેકફાયર કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "હાઇડ્રોજનનું ક્વેન્ચિંગ ડિસ્ટન્સ માત્ર ~0.6 mm (હાઇડ્રોકાર્બન્સના ~2.0 mm કરતાં ઘણું ઓછું) હોવાથી તે આંશિક ખુલ્લા ઇન્ટેક વાલ્વમાંથી પણ ફ્લેમ બેકફાયર કરે છે[cite: 7]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 100,
@@ -1497,7 +1670,9 @@
       "માત્ર અવાજ"
     ],
     "correctAnswer": 1,
-    "explanation": "ડિજિટલ ટ્વીન અને ફિઝિક્સ-આધારિત સિમ્યુલેશન મોડેલ્સ દ્વારા જનરેટ કરેલા સિન્થેટિક ફોલ્ટ ડેટા (Synthetic Data) વડે ML અલ્ગોરિધમ્સ ટ્રેઇન કરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "ડિજિટલ ટ્વીન અને ફિઝિક્સ-આધારિત સિમ્યુલેશન મોડેલ્સ દ્વારા જનરેટ કરેલા સિન્થેટિક ફોલ્ટ ડેટા (Synthetic Data) વડે ML અલ્ગોરિધમ્સ ટ્રેઇન કરાય છે[cite: 7].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 101,
@@ -1512,7 +1687,9 @@
       "ટ્રેડિશનલ CMM માં ટેક્ટાઈલ પ્રોબ હોય છે, જ્યારે ઓપ્ટિકલ CMM માં લેસર અથવા કેમેરા વડે નોન-કોન્ટેક્ટ મેઝરમેન્ટ થાય છે"
     ],
     "correctAnswer": 3,
-    "explanation": "ટેક્ટાઇલ CMM ફિઝિકલ ટચ પ્રોબ વડે પોઇન્ટ-બાય-પોઇન્ટ માપે છે, જ્યારે ઓપ્ટિકલ CMM લેસર/લાઇટ દ્વારા બિન-સંપર્ક પદ્ધતિથી આખી સપાટી સ્કેન કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "ટેક્ટાઇલ CMM ફિઝિકલ ટચ પ્રોબ વડે પોઇન્ટ-બાય-પોઇન્ટ માપે છે, જ્યારે ઓપ્ટિકલ CMM લેસર/લાઇટ દ્વારા બિન-સંપર્ક પદ્ધતિથી આખી સપાટી સ્કેન કરે છે[cite: 7]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 102,
@@ -1527,7 +1704,9 @@
       "R134a"
     ],
     "correctAnswer": 1,
-    "explanation": "R744 (કાર્બન ડાયોક્સાઇડ) કુદરતી રીતે મળતો નેચરલ રેફ્રિજરેન્ટ છે (ODP=0, GWP=1)[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "R744 (કાર્બન ડાયોક્સાઇડ) કુદરતી રીતે મળતો નેચરલ રેફ્રિજરેન્ટ છે (ODP=0, GWP=1)[cite: 7].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 103,
@@ -1542,7 +1721,9 @@
       "સાયબર-ફિઝિકલ સિસ્ટમ્સ અને મશીનો સ્થાનિક ડેટાના આધારે સ્વાયત્ત રીતે રિયલ-ટાઈમ નિર્ણયો લઈ શકે છે"
     ],
     "correctAnswer": 3,
-    "explanation": "સેન્ટ્રલ કમાન્ડની રાહ જોયા વગર સ્માર્ટ મશીનો સ્થાનિક IIoT સેન્સર ડેટા અને એમ્બેડેડ AI આધારે પ્રોસેસિંગના સ્વાયત્ત નિર્ણયો લે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "સેન્ટ્રલ કમાન્ડની રાહ જોયા વગર સ્માર્ટ મશીનો સ્થાનિક IIoT સેન્સર ડેટા અને એમ્બેડેડ AI આધારે પ્રોસેસિંગના સ્વાયત્ત નિર્ણયો લે છે[cite: 7]. \n\n\n\n💡",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 104,
@@ -1557,7 +1738,8 @@
       "મેટ્રોલોજી"
     ],
     "correctAnswer": 0,
-    "explanation": "કાર્બન ફાઇબર રિઇન્ફોર્સ્ડ કમ્પોઝિટ્સ (CFRP) એ હળવા વજન અને ઉચ્ચ વિશિષ્ટ તાકાત ધરાવતા એડવાન્સ્ડ કમ્પોઝિટ મટિરિયલ્સ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "કાર્બન ફાઇબર રિઇન્ફોર્સ્ડ કમ્પોઝિટ્સ (CFRP) એ હળવા વજન અને ઉચ્ચ વિશિષ્ટ તાકાત ધરાવતા એડવાન્સ્ડ કમ્પોઝિટ મટિરિયલ્સ છે[cite: 7].",
+    "isPYQ": false
   },
   {
     "id": 105,
@@ -1572,7 +1754,9 @@
       "CFD (Computational Fluid Dynamics)"
     ],
     "correctAnswer": 3,
-    "explanation": "CFD સોફ્ટવેર નેવિયર-સ્ટોક્સ સમીકરણો ન્યુમેરિકલી ઉકેલીને બ્લેડ પેસેજમાં ફ્લો પેટર્ન, પ્રેશર ડ્રોપ અને લોસીસનું 3D સિમ્યુલેશન કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "CFD સોફ્ટવેર નેવિયર-સ્ટોક્સ સમીકરણો ન્યુમેરિકલી ઉકેલીને બ્લેડ પેસેજમાં ફ્લો પેટર્ન, પ્રેશર ડ્રોપ અને લોસીસનું 3D સિમ્યુલેશન કરે છે[cite: 7]. \n\n\n\n💡",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 106,
@@ -1587,7 +1771,8 @@
       "સોલિડ મોડલ"
     ],
     "correctAnswer": 1,
-    "explanation": "લાખો (X, Y, Z) કોઓર્ડિનેટ્સ ધરાવતા કાચા સ્કેન ડેટા સમૂહને પોઇન્ટ ક્લાઉડ (Point Cloud) કહેવાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "લાખો (X, Y, Z) કોઓર્ડિનેટ્સ ધરાવતા કાચા સ્કેન ડેટા સમૂહને પોઇન્ટ ક્લાઉડ (Point Cloud) કહેવાય છે[cite: 7].",
+    "isPYQ": false
   },
   {
     "id": 107,
@@ -1602,7 +1787,8 @@
       "થર્મોપ્લાસ્ટિક ફિલામેન્ટ (Thermoplastic Filament)"
     ],
     "correctAnswer": 3,
-    "explanation": "FDM પદ્ધતિમાં PLA, ABS, અથવા PETG જેવો સોલિડ થર્મોપ્લાસ્ટિક ફિલામેન્ટ નોઝલમાં પીગળીને સ્તર સ્વરૂપે જમા થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "FDM પદ્ધતિમાં PLA, ABS, અથવા PETG જેવો સોલિડ થર્મોપ્લાસ્ટિક ફિલામેન્ટ નોઝલમાં પીગળીને સ્તર સ્વરૂપે જમા થાય છે[cite: 7]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "isPYQ": false
   },
   {
     "id": 108,
@@ -1617,7 +1803,8 @@
       "તે માત્ર ડેટા ડીલીટ કરે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "ડિજિટલ ટ્વીન જીવંત સેન્સર ડેટા સાથે વર્ચ્યુઅલ ફિઝિક્સ મોડેલ ચલાવીને મશીનનો ઘસારો, સ્ટ્રેસ અને સંભવિત ફેલ્યોર સમયનું પૂર્વાનુમાન કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "ડિજિટલ ટ્વીન જીવંત સેન્સર ડેટા સાથે વર્ચ્યુઅલ ફિઝિક્સ મોડેલ ચલાવીને મશીનનો ઘસારો, સ્ટ્રેસ અને સંભવિત ફેલ્યોર સમયનું પૂર્વાનુમાન કરે છે[cite: 7].",
+    "isPYQ": false
   },
   {
     "id": 109,
@@ -1632,7 +1819,9 @@
       "100°C"
     ],
     "correctAnswer": 2,
-    "explanation": "થર્મલ વિસ્તરણની ભૂલો ટાળવા ISO 1 સ્ટાન્ડર્ડ મુજબ પરિમાણીય મેટ્રોલોજી માટે પ્રમાણભૂત ટેમ્પરેચર 20°C (293.15 K) નક્કી થયેલ છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "થર્મલ વિસ્તરણની ભૂલો ટાળવા ISO 1 સ્ટાન્ડર્ડ મુજબ પરિમાણીય મેટ્રોલોજી માટે પ્રમાણભૂત ટેમ્પરેચર 20°C (293.15 K) નક્કી થયેલ છે[cite: 7]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 110,
@@ -1647,7 +1836,9 @@
       "નોર્થ-વેસ્ટ કોર્નર મેથડ"
     ],
     "correctAnswer": 1,
-    "explanation": "જટિલ ઔદ્યોગિક શેડ્યુલિંગ માટે જિનેટિક અલ્ગોરિધમ્સ (GA) અને પાર્ટીકલ સ્વોર્મ ઓપ્ટિમાઇઝેશન (PSO) વૈશ્વિક શ્રેષ્ઠ ઉકેલ આપે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "જટિલ ઔદ્યોગિક શેડ્યુલિંગ માટે જિનેટિક અલ્ગોરિધમ્સ (GA) અને પાર્ટીકલ સ્વોર્મ ઓપ્ટિમાઇઝેશન (PSO) વૈશ્વિક શ્રેષ્ઠ ઉકેલ આપે છે[cite: 7].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 111,
@@ -1662,7 +1853,9 @@
       "ઓટો સાયકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "sCO2 સાયકલ એ ક્લોઝ્ડ-લૂપ રીક્યુપરેટેડ બ્રેટન સાયકલ (Closed Brayton Cycle) છે જે ક્રિટિકલ પોઇન્ટ નજીક કમ્પ્રેશન વર્ક ઘટાડે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "sCO2 સાયકલ એ ક્લોઝ્ડ-લૂપ રીક્યુપરેટેડ બ્રેટન સાયકલ (Closed Brayton Cycle) છે જે ક્રિટિકલ પોઇન્ટ નજીક કમ્પ્રેશન વર્ક ઘટાડે છે[cite: 7]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 112,
@@ -1677,7 +1870,8 @@
       "વધારાની નોઝલ"
     ],
     "correctAnswer": 2,
-    "explanation": "ગુરુત્વાકર્ષણ હેઠળ પીગળેલી સામગ્રી લટકી ન પડે તે માટે સ્લાઇસર સોફ્ટવેર દ્વારા હંગામી સપોર્ટ સ્ટ્રક્ચર્સ (Supports) ઉમેરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "ગુરુત્વાકર્ષણ હેઠળ પીગળેલી સામગ્રી લટકી ન પડે તે માટે સ્લાઇસર સોફ્ટવેર દ્વારા હંગામી સપોર્ટ સ્ટ્રક્ચર્સ (Supports) ઉમેરાય છે[cite: 7].",
+    "isPYQ": false
   },
   {
     "id": 113,
@@ -1692,7 +1886,9 @@
       "પાણીથી ધોવા"
     ],
     "correctAnswer": 2,
-    "explanation": "લેસર મેલ્ટિંગના ઊંચા થર્મલ ગ્રેડિયન્ટથી પેદા થતા રેસિડ્યુઅલ સ્ટ્રેસ અને વાર્પિંગ અટકાવવા ફર્નેસમાં સ્ટ્રેસ રિલીફ હીટ ટ્રીટમેન્ટ કરાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "લેસર મેલ્ટિંગના ઊંચા થર્મલ ગ્રેડિયન્ટથી પેદા થતા રેસિડ્યુઅલ સ્ટ્રેસ અને વાર્પિંગ અટકાવવા ફર્નેસમાં સ્ટ્રેસ રિલીફ હીટ ટ્રીટમેન્ટ કરાય છે[cite: 7]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 114,
@@ -1707,7 +1903,9 @@
       "તે ખૂબ ધીમું છે"
     ],
     "correctAnswer": 0,
-    "explanation": "નોન-કોન્ટેક્ટ ઓપ્ટિકલ સિસ્ટમ્સ કોઈ ભૌતિક સ્પર્શ વિના રબર, પ્લાસ્ટિક કે નાજુક ભાગોનું કોઈપણ ડિફોર્મેશન વગર અતિ ઝડપી 3D ઇન્સ્પેક્શન કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "નોન-કોન્ટેક્ટ ઓપ્ટિકલ સિસ્ટમ્સ કોઈ ભૌતિક સ્પર્શ વિના રબર, પ્લાસ્ટિક કે નાજુક ભાગોનું કોઈપણ ડિફોર્મેશન વગર અતિ ઝડપી 3D ઇન્સ્પેક્શન કરે છે[cite: 7].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 115,
@@ -1722,7 +1920,9 @@
       "SLA"
     ],
     "correctAnswer": 0,
-    "explanation": "DED પદ્ધતિ મલ્ટી-એક્સિસ રોબોટિક આર્મ વડે ઘસાયેલા ટર્બાઇન બ્લેડ પર સીધું નવું મેટલ ક્લેડિંગ કરી મૂળ પરિમાણમાં રિપેર કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "DED પદ્ધતિ મલ્ટી-એક્સિસ રોબોટિક આર્મ વડે ઘસાયેલા ટર્બાઇન બ્લેડ પર સીધું નવું મેટલ ક્લેડિંગ કરી મૂળ પરિમાણમાં રિપેર કરે છે[cite: 7]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 116,
@@ -1737,7 +1937,9 @@
       "એલ્યુમિનિયમ એલોય (2xxx, 7xxx series)"
     ],
     "correctAnswer": 3,
-    "explanation": "ફ્યુઝન વેલ્ડિંગમાં ક્રેક થતા હાઇ-સ્ટ્રેન્થ એલ્યુમિનિયમ એલોય્સ (દા.ત. Al 2024, Al 7075) નું સક્ષમ સોલિડ-સ્ટેટ જોઈનિંગ FSW દ્વારા થાય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "ફ્યુઝન વેલ્ડિંગમાં ક્રેક થતા હાઇ-સ્ટ્રેન્થ એલ્યુમિનિયમ એલોય્સ (દા.ત. Al 2024, Al 7075) નું સક્ષમ સોલિડ-સ્ટેટ જોઈનિંગ FSW દ્વારા થાય છે[cite: 7].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 117,
@@ -1752,7 +1954,9 @@
       "લેસર કટીંગ કરવા"
     ],
     "correctAnswer": 2,
-    "explanation": "RFID ટેક્નોલોજી શોપ-ફ્લોર પર વર્કપીસ, પેલેટ્સ અને કટીંગ ટૂલ્સનું માનવ હસ્તક્ષેપ વિના સ્વચાલિત ડિજિટલ ટ્રેકિંગ કરે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "RFID ટેક્નોલોજી શોપ-ફ્લોર પર વર્કપીસ, પેલેટ્સ અને કટીંગ ટૂલ્સનું માનવ હસ્તક્ષેપ વિના સ્વચાલિત ડિજિટલ ટ્રેકિંગ કરે છે[cite: 7]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 118,
@@ -1767,7 +1971,9 @@
       "અવાજ વધારવા માટે"
     ],
     "correctAnswer": 1,
-    "explanation": "હાઇડ્રોજનની લેમિનાર ફ્લેમ સ્પીડ પેટ્રોલ કરતાં 5 થી 10 ગણી વધુ હોવાથી પ્રેશર રાઇઝ ઝડપી બને છે; ડિટોનેશન અટકાવવા ચોક્કસ ટાઇમિંગ અનિવાર્ય છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "હાઇડ્રોજનની લેમિનાર ફ્લેમ સ્પીડ પેટ્રોલ કરતાં 5 થી 10 ગણી વધુ હોવાથી પ્રેશર રાઇઝ ઝડપી બને છે; ડિટોનેશન અટકાવવા ચોક્કસ ટાઇમિંગ અનિવાર્ય છે[cite: 7].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 119,
@@ -1782,7 +1988,8 @@
       "બિન-ઝેરી અને હળવા જ્વલનશીલ (Lower Toxicity & Mildly Flammable)"
     ],
     "correctAnswer": 3,
-    "explanation": "A2L વર્ગ લોઅર ટોક્સિસિટી ('A') અને નીચી જ્વાળા પ્રસરણ ગતિ ધરાવતા હળવા જ્વલનશીલ ('2L' Mildly flammable) રેફ્રિજરેન્ટ્સ (દા.ત. R32, R1234yf) દર્શાવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "A2L વર્ગ લોઅર ટોક્સિસિટી ('A') અને નીચી જ્વાળા પ્રસરણ ગતિ ધરાવતા હળવા જ્વલનશીલ ('2L' Mildly flammable) રેફ્રિજરેન્ટ્સ (દા.ત. R32, R1234yf) દર્શાવે છે[cite: 7]. \n\n\n\n💡",
+    "isPYQ": false
   },
   {
     "id": 120,
@@ -1797,7 +2004,9 @@
       "હાઇડ્રોજન (H2 Gas)"
     ],
     "correctAnswer": 3,
-    "explanation": "HICEV વાહનોમાં પરંપરાગત આંતરિક દહન એન્જિનમાં ફ્યુઅલ તરીકે સીધા સંકુચિત હાઇડ્રોજન ગેસ (H2) નું દહન કરવામાં આવે છે[cite: 7]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "HICEV વાહનોમાં પરંપરાગત આંતરિક દહન એન્જિનમાં ફ્યુઅલ તરીકે સીધા સંકુચિત હાઇડ્રોજન ગેસ (H2) નું દહન કરવામાં આવે છે[cite: 7].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "subject": "Current Trends & Recent Advancements",
@@ -1811,8 +2020,10 @@
       "Remove sensors"
     ],
     "correctAnswer": 0,
-    "explanation": "Expected MCQ: Condition monitoring and analytics help predict failure and schedule maintenance. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]",
-    "id": 121
+    "explanation": "Expected MCQ: Condition monitoring and analytics help predict failure and schedule maintenance.",
+    "id": 121,
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "subject": "Current Trends & Recent Advancements",
@@ -1826,8 +2037,10 @@
       "Only mechanical gauges"
     ],
     "correctAnswer": 0,
-    "explanation": "Expected MCQ: Smart factories integrate IIoT, data, connectivity and automation. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]",
-    "id": 122
+    "explanation": "Expected MCQ: Smart factories integrate IIoT, data, connectivity and automation.",
+    "id": 122,
+    "isPYQ": true,
+    "examSource": "GSECL Junior Engineer Mechanical 2020"
   },
   {
     "subject": "Current Trends & Recent Advancements",
@@ -1841,8 +2054,10 @@
       "Casting only"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Additive manufacturing deposits or solidifies material layer by layer. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]",
-    "id": 123
+    "explanation": "Expected MCQ: Additive manufacturing deposits or solidifies material layer by layer.",
+    "id": 123,
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "subject": "Current Trends & Recent Advancements",
@@ -1856,8 +2071,10 @@
       "Reduce useful work"
     ],
     "correctAnswer": 0,
-    "explanation": "Expected MCQ: Higher efficiency means more useful output for the same energy input. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]",
-    "id": 124
+    "explanation": "Expected MCQ: Higher efficiency means more useful output for the same energy input.",
+    "id": 124,
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "subject": "Current Trends & Recent Advancements",
@@ -1871,8 +2088,10 @@
       "Make flow independent of speed"
     ],
     "correctAnswer": 0,
-    "explanation": "Expected MCQ: VFDs vary motor/pump speed to match demand and save energy. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]",
-    "id": 125
+    "explanation": "Expected MCQ: VFDs vary motor/pump speed to match demand and save energy.",
+    "id": 125,
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 126,
@@ -1887,7 +2106,9 @@
       "paper-only control"
     ],
     "correctAnswer": 0,
-    "explanation": "Industry 4.0 integrates connectivity, automation, data and cyber-physical systems. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "Industry 4.0 integrates connectivity, automation, data and cyber-physical systems.",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 127,
@@ -1902,7 +2123,9 @@
       "manual lubrication only"
     ],
     "correctAnswer": 0,
-    "explanation": "Sensors and analytics identify degradation trends before functional failure. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "Sensors and analytics identify degradation trends before functional failure. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 128,
@@ -1917,7 +2140,9 @@
       "remove all inspections"
     ],
     "correctAnswer": 0,
-    "explanation": "Preventive maintenance uses scheduled inspections, servicing or replacement to reduce failures. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "Preventive maintenance uses scheduled inspections, servicing or replacement to reduce failures.",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 129,
@@ -1932,7 +2157,9 @@
       "Preventive Production Engineering"
     ],
     "correctAnswer": 0,
-    "explanation": "PPE protects workers from identified workplace hazards. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "PPE protects workers from identified workplace hazards. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 130,
@@ -1947,6 +2174,29 @@
       "bypassing procedures"
     ],
     "correctAnswer": 0,
-    "explanation": "Hazards must be identified and risks assessed before selecting appropriate controls. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "Hazards must be identified and risks assessed before selecting appropriate controls.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
+  },
+  {
+    "subject": "Current Trends & Recent Advancements",
+    "subTopic": "Thermodynamics & Power Updates",
+    "question": "In 3D printing / Additive Manufacturing, FDM stands for:",
+    "gujaratiQuestion": "3D પ્રિન્ટિંગ ટેકનોલોજીમાં FDM નું પૂરું નામ શું છે?",
+    "options": [
+      "Fused Deposition Modeling",
+      "Fast Filament Manufacturing",
+      "Fluid Deposition Method",
+      "Flexible Design Molding"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "FDM = Fused Deposition Modeling. તે ફિલામેન્ટ થર્મોપ્લાસ્ટિક મટીરીયલ ઓગાળીને સ્તર-બાય-સ્તર 3D પાર્ટ તૈયાર કરે છે. [GSSSB AAE 2024]",
+    "examSource": "GSSSB AAE 2024",
+    "isPYQ": true,
+    "id": 131
   }
 ]

@@ -16,7 +16,9 @@
       2
     ],
     "isMSQ": false,
-    "explanation": "10+30 = 40. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "10+30 = 40. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 2,
@@ -35,7 +37,9 @@
       2
     ],
     "isMSQ": false,
-    "explanation": "20+5 = 25. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "20+5 = 25.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 3,
@@ -54,7 +58,9 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "5 parts = 25, one part = 5, A = 10. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "5 parts = 25, one part = 5, A = 10. \n\n\n\n💡",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 4,
@@ -73,7 +79,9 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "Common region = intersection. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "Common region = intersection.",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 5,
@@ -92,7 +100,9 @@
       2
     ],
     "isMSQ": false,
-    "explanation": "Disjoint sets have no common element. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "Disjoint sets have no common element. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 6,
@@ -111,7 +121,9 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "Union includes elements belonging to A, B, or both. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "Union includes elements belonging to A, B, or both.",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 7,
@@ -130,7 +142,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "It focuses on visual patterns and relationships. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "It focuses on visual patterns and relationships. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 8,
@@ -149,7 +163,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Rotation changes orientation, not the geometric shape. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "Rotation changes orientation, not the geometric shape.",
+    "isPYQ": true,
+    "examSource": "GSECL Junior Engineer Mechanical 2020"
   },
   {
     "id": 9,
@@ -168,7 +184,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "A mirror reverses lateral orientation. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "A mirror reverses lateral orientation. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 10,
@@ -187,7 +205,9 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "A is parent of B and therefore mother of C in the stated relation. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "A is parent of B and therefore mother of C in the stated relation.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 11,
@@ -206,7 +226,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "P is parent of Q and Q is sibling of R, so P is father of R. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "P is parent of Q and Q is sibling of R, so P is father of R. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 12,
@@ -225,7 +247,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "X is male sibling of Z’s daughter, so X is Z’s son. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "X is male sibling of Z’s daughter, so X is Z’s son.",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 13,
@@ -244,7 +268,9 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "Each machine makes one part in 5 minutes. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "Each machine makes one part in 5 minutes. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 14,
@@ -263,7 +289,9 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "5×2 = 10 minutes. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "5×2 = 10 minutes.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 15,
@@ -282,7 +310,9 @@
       2
     ],
     "isMSQ": false,
-    "explanation": "One pen = 10, so 7 = 70. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "One pen = 10, so 7 = 70. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 16,
@@ -301,7 +331,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Bar height represents the plotted quantity. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "Bar height represents the plotted quantity.",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 17,
@@ -320,7 +352,9 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "Increase = 20/100 × 100 = 20%. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "Increase = 20/100 × 100 = 20%. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 18,
@@ -339,7 +373,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Tables organize data for comparison. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "Tables organize data for comparison.",
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "id": 19,
@@ -358,7 +394,9 @@
       2
     ],
     "isMSQ": false,
-    "explanation": "Both statements together still allow many values; this illustrates the need to test sufficiency carefully. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "Both statements together still allow many values; this illustrates the need to test sufficiency carefully. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 20,
@@ -377,7 +415,9 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "The purpose is to determine sufficiency of information. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "The purpose is to determine sufficiency of information.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 21,
@@ -396,6 +436,8 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Only relevant information helps determine the answer. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "Only relevant information helps determine the answer. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   }
 ]

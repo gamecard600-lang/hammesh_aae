@@ -149,40 +149,51 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
       ),
     ];
 
-    return Scaffold(
-      body: pages[_currentIndex],
-      bottomNavigationBar: NavigationBar(
-        selectedIndex: _currentIndex,
-        onDestinationSelected: (int index) {
-          setState(() => _currentIndex = index);
-        },
-        destinations: const [
-          NavigationDestination(
-            icon: Icon(Icons.home_outlined),
-            selectedIcon: Icon(Icons.home, color: Colors.blue),
-            label: 'Home',
-          ),
-          NavigationDestination(
-            icon: Icon(Icons.menu_book_outlined),
-            selectedIcon: Icon(Icons.menu_book, color: Colors.blue),
-            label: 'Study',
-          ),
-          NavigationDestination(
-            icon: Icon(Icons.chat_bubble_outline),
-            selectedIcon: Icon(Icons.chat_bubble, color: Colors.blue),
-            label: 'Chat',
-          ),
-          NavigationDestination(
-            icon: Icon(Icons.emoji_events_outlined),
-            selectedIcon: Icon(Icons.emoji_events, color: Colors.blue),
-            label: 'Leaderboard',
-          ),
-          NavigationDestination(
-            icon: Icon(Icons.more_horiz_outlined),
-            selectedIcon: Icon(Icons.more_horiz, color: Colors.blue),
-            label: 'More',
-          ),
-        ],
+    return PopScope(
+      canPop: _currentIndex == 0,
+      onPopInvokedWithResult: (didPop, result) {
+        if (didPop) return;
+        if (_currentIndex != 0) {
+          setState(() {
+            _currentIndex = 0;
+          });
+        }
+      },
+      child: Scaffold(
+        body: pages[_currentIndex],
+        bottomNavigationBar: NavigationBar(
+          selectedIndex: _currentIndex,
+          onDestinationSelected: (int index) {
+            setState(() => _currentIndex = index);
+          },
+          destinations: const [
+            NavigationDestination(
+              icon: Icon(Icons.home_outlined),
+              selectedIcon: Icon(Icons.home, color: Colors.blue),
+              label: 'Home',
+            ),
+            NavigationDestination(
+              icon: Icon(Icons.menu_book_outlined),
+              selectedIcon: Icon(Icons.menu_book, color: Colors.blue),
+              label: 'Study',
+            ),
+            NavigationDestination(
+              icon: Icon(Icons.chat_bubble_outline),
+              selectedIcon: Icon(Icons.chat_bubble, color: Colors.blue),
+              label: 'Chat',
+            ),
+            NavigationDestination(
+              icon: Icon(Icons.emoji_events_outlined),
+              selectedIcon: Icon(Icons.emoji_events, color: Colors.blue),
+              label: 'Leaderboard',
+            ),
+            NavigationDestination(
+              icon: Icon(Icons.more_horiz_outlined),
+              selectedIcon: Icon(Icons.more_horiz, color: Colors.blue),
+              label: 'More',
+            ),
+          ],
+        ),
       ),
     );
   }
@@ -289,12 +300,34 @@ class _HomePageState extends State<HomePage> {
               ),
             ),
             const SizedBox(width: 12),
-            const Expanded(
+            Expanded(
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  Text('Hello, AAE Aspirant!', style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold)),
-                  Text('Prepare smartly today...', style: TextStyle(fontSize: 11, color: Colors.grey)),
+                  Wrap(
+                    crossAxisAlignment: WrapCrossAlignment.center,
+                    spacing: 6,
+                    children: [
+                      const Text('Hello, AAE Aspirant!', style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold)),
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                        decoration: BoxDecoration(
+                          color: Colors.teal.shade50,
+                          borderRadius: BorderRadius.circular(8),
+                          border: Border.all(color: Colors.teal.shade300),
+                        ),
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Icon(Icons.wifi_off, size: 10, color: Colors.teal.shade800),
+                            const SizedBox(width: 3),
+                            Text('Offline Ready', style: TextStyle(fontSize: 9, fontWeight: FontWeight.bold, color: Colors.teal.shade800)),
+                          ],
+                        ),
+                      ),
+                    ],
+                  ),
+                  const Text('Prepare smartly today...', style: TextStyle(fontSize: 11, color: Colors.grey)),
                 ],
               ),
             ),
@@ -354,22 +387,40 @@ class _HomePageState extends State<HomePage> {
         border: Border.all(color: Colors.amber.shade300),
       ),
       child: Row(
-        mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Icon(Icons.timer, color: Colors.amber.shade900, size: 20),
           const SizedBox(width: 8),
-          Flexible(
-            child: FittedBox(
-              fit: BoxFit.scaleDown,
-              child: Text(
-                'GSSSB AAE Exam: $daysRemaining Days Left! (07.12.2026)',
-                style: TextStyle(color: Colors.amber.shade900, fontWeight: FontWeight.bold, fontSize: 13),
-              ),
+          Expanded(
+            child: Text(
+              'GSSSB AAE Exam: $daysRemaining Days Left! (07.12.2026)',
+              style: TextStyle(color: Colors.amber.shade900, fontWeight: FontWeight.bold, fontSize: 13),
+              overflow: TextOverflow.ellipsis,
+              maxLines: 1,
             ),
           ),
         ],
       ),
     );
+  }
+
+  Future<void> _openDailyChallenge() async {
+    final session = await DailyTaskService.getTodaySession();
+    final questions = await QuestionService.getQuestionsByIds(session.questionIds);
+    if (!mounted) return;
+    if (questions.isNotEmpty) {
+      await DailyTaskService.incrementStreak();
+      if (!mounted) return;
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (_) => QuestionPracticeScreen(
+            questions: questions,
+            subject: 'Daily Challenge',
+            subTopic: 'Question of the Day',
+          ),
+        ),
+      ).then((_) => _loadData());
+    }
   }
 
   Widget _buildDailyQuestionChallengeCard() {
@@ -386,62 +437,93 @@ class _HomePageState extends State<HomePage> {
           ),
         ),
         padding: const EdgeInsets.all(16),
-        child: Row(
-          children: [
-            Container(
-              padding: const EdgeInsets.all(10),
-              decoration: const BoxDecoration(
-                color: Colors.white24,
-                shape: BoxShape.circle,
-              ),
-              child: const Icon(Icons.local_fire_department, color: Colors.white, size: 28),
-            ),
-            const SizedBox(width: 12),
-            Expanded(
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
+        child: LayoutBuilder(
+          builder: (context, constraints) {
+            if (constraints.maxWidth < 340) {
+              return Column(
+                crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: [
-                  const Text(
-                    '🎯 Daily Challenge & Streak',
-                    style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 15),
+                  Row(
+                    children: [
+                      Container(
+                        padding: const EdgeInsets.all(10),
+                        decoration: const BoxDecoration(
+                          color: Colors.white24,
+                          shape: BoxShape.circle,
+                        ),
+                        child: const Icon(Icons.local_fire_department, color: Colors.white, size: 28),
+                      ),
+                      const SizedBox(width: 12),
+                      const Expanded(
+                        child: Text(
+                          '🎯 Daily Challenge & Streak',
+                          style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 15),
+                        ),
+                      ),
+                    ],
                   ),
-                  const SizedBox(height: 2),
+                  const SizedBox(height: 8),
                   Text(
                     '🔥 Keep your study streak active! Solve today\'s challenge.',
                     style: TextStyle(color: Colors.white.withValues(alpha: 0.9), fontSize: 11.5),
                   ),
-                ],
-              ),
-            ),
-            ElevatedButton(
-              onPressed: () async {
-                final session = await DailyTaskService.getTodaySession();
-                final questions = await QuestionService.getQuestionsByIds(session.questionIds);
-                if (!mounted) return;
-                if (questions.isNotEmpty) {
-                  await DailyTaskService.incrementStreak();
-                  if (!mounted) return;
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (_) => QuestionPracticeScreen(
-                        questions: questions,
-                        subject: 'Daily Challenge',
-                        subTopic: 'Question of the Day',
+                  const SizedBox(height: 10),
+                  SizedBox(
+                    width: double.infinity,
+                    child: ElevatedButton(
+                      onPressed: _openDailyChallenge,
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.white,
+                        foregroundColor: Colors.orange.shade900,
+                        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
                       ),
+                      child: const Text('Solve Now', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12)),
                     ),
-                  ).then((_) => _loadData());
-                }
-              },
-              style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.white,
-                foregroundColor: Colors.orange.shade900,
-                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
-                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-              ),
-              child: const Text('Solve Now', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12)),
-            ),
-          ],
+                  ),
+                ],
+              );
+            }
+            return Row(
+              children: [
+                Container(
+                  padding: const EdgeInsets.all(10),
+                  decoration: const BoxDecoration(
+                    color: Colors.white24,
+                    shape: BoxShape.circle,
+                  ),
+                  child: const Icon(Icons.local_fire_department, color: Colors.white, size: 28),
+                ),
+                const SizedBox(width: 12),
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      const Text(
+                        '🎯 Daily Challenge & Streak',
+                        style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 15),
+                      ),
+                      const SizedBox(height: 2),
+                      Text(
+                        '🔥 Keep your study streak active! Solve today\'s challenge.',
+                        style: TextStyle(color: Colors.white.withValues(alpha: 0.9), fontSize: 11.5),
+                      ),
+                    ],
+                  ),
+                ),
+                const SizedBox(width: 8),
+                ElevatedButton(
+                  onPressed: _openDailyChallenge,
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.white,
+                    foregroundColor: Colors.orange.shade900,
+                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                  ),
+                  child: const Text('Solve Now', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12)),
+                ),
+              ],
+            );
+          },
         ),
       ),
     );
@@ -498,15 +580,20 @@ class _HomePageState extends State<HomePage> {
                         Text('Dashboard ›', style: TextStyle(fontSize: 11, fontWeight: FontWeight.bold, color: Colors.blue.shade700)),
                       ],
                     ),
-                    const SizedBox(height: 4),
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: [
-                        Text('Solved: $_totalSolved', style: const TextStyle(fontSize: 11, color: Colors.grey)),
-                        Text('Correct: $_totalCorrect', style: const TextStyle(fontSize: 11, color: Colors.grey)),
-                        Text('Accuracy: ${_accuracy.toStringAsFixed(0)}%', style: const TextStyle(fontSize: 11, color: Colors.grey)),
-                        Text('Avg: ${_avgScore.toStringAsFixed(0)}%', style: const TextStyle(fontSize: 11, color: Colors.grey)),
-                      ],
+                    const SizedBox(height: 6),
+                    SingleChildScrollView(
+                      scrollDirection: Axis.horizontal,
+                      child: Row(
+                        children: [
+                          Text('Solved: $_totalSolved', style: const TextStyle(fontSize: 11, color: Colors.grey)),
+                          const SizedBox(width: 10),
+                          Text('Correct: $_totalCorrect', style: const TextStyle(fontSize: 11, color: Colors.grey)),
+                          const SizedBox(width: 10),
+                          Text('Accuracy: ${_accuracy.toStringAsFixed(0)}%', style: const TextStyle(fontSize: 11, color: Colors.grey)),
+                          const SizedBox(width: 10),
+                          Text('Avg: ${_avgScore.toStringAsFixed(0)}%', style: const TextStyle(fontSize: 11, color: Colors.grey)),
+                        ],
+                      ),
                     ),
                   ],
                 ),
@@ -527,39 +614,53 @@ class _HomePageState extends State<HomePage> {
           style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
         ),
         const SizedBox(height: 12),
-        Row(
-          children: [
-            Expanded(
-              child: _buildQuickIconItem('MCQ Practice', Icons.assignment_outlined, Colors.blue, () {
-                Navigator.push(context, MaterialPageRoute(builder: (_) => const SubjectsScreen(category: 'Technical'))).then((_) => _loadData());
-              }),
-            ),
-            Expanded(
-              child: _buildQuickIconItem('Study Notes', Icons.menu_book_outlined, Colors.teal, () {
-                Navigator.push(context, MaterialPageRoute(builder: (_) => const StudyMaterialSubjectsScreen())).then((_) => _loadData());
-              }),
-            ),
-            Expanded(
-              child: _buildQuickIconItem('Mock Test', Icons.timer_outlined, Colors.orange, () {
-                Navigator.push(context, MaterialPageRoute(builder: (_) => const MockTestSetupScreen())).then((_) => _loadData());
-              }),
-            ),
-            Expanded(
-              child: _buildQuickIconItem('Bookmarks', Icons.star_outlined, Colors.indigo, () {
-                Navigator.push(context, MaterialPageRoute(builder: (_) => const BookmarksScreen())).then((_) => _loadData());
-              }, badge: _bookmarkCount > 0 ? '$_bookmarkCount' : null),
-            ),
-            Expanded(
-              child: _buildQuickIconItem('Mistakes', Icons.error_outline, Colors.red, () {
-                Navigator.push(context, MaterialPageRoute(builder: (_) => const MistakesScreen())).then((_) => _loadData());
-              }, badge: _mistakeCount > 0 ? '$_mistakeCount' : null),
-            ),
-            Expanded(
-              child: _buildQuickIconItem('Calculator', Icons.calculate_outlined, Colors.purple, () {
-                Navigator.push(context, MaterialPageRoute(builder: (_) => const EngineeringCalculatorScreen()));
-              }),
-            ),
-          ],
+        SingleChildScrollView(
+          scrollDirection: Axis.horizontal,
+          child: Row(
+            children: [
+              SizedBox(
+                width: 72,
+                child: _buildQuickIconItem('MCQ Practice', Icons.assignment_outlined, Colors.blue, () {
+                  Navigator.push(context, MaterialPageRoute(builder: (_) => const SubjectsScreen(category: 'Technical'))).then((_) => _loadData());
+                }),
+              ),
+              const SizedBox(width: 6),
+              SizedBox(
+                width: 72,
+                child: _buildQuickIconItem('Study Notes', Icons.menu_book_outlined, Colors.teal, () {
+                  Navigator.push(context, MaterialPageRoute(builder: (_) => const StudyMaterialSubjectsScreen())).then((_) => _loadData());
+                }),
+              ),
+              const SizedBox(width: 6),
+              SizedBox(
+                width: 72,
+                child: _buildQuickIconItem('Mock Test', Icons.timer_outlined, Colors.orange, () {
+                  Navigator.push(context, MaterialPageRoute(builder: (_) => const MockTestSetupScreen())).then((_) => _loadData());
+                }),
+              ),
+              const SizedBox(width: 6),
+              SizedBox(
+                width: 72,
+                child: _buildQuickIconItem('Bookmarks', Icons.star_outlined, Colors.indigo, () {
+                  Navigator.push(context, MaterialPageRoute(builder: (_) => const BookmarksScreen())).then((_) => _loadData());
+                }, badge: _bookmarkCount > 0 ? '$_bookmarkCount' : null),
+              ),
+              const SizedBox(width: 6),
+              SizedBox(
+                width: 72,
+                child: _buildQuickIconItem('Mistakes', Icons.error_outline, Colors.red, () {
+                  Navigator.push(context, MaterialPageRoute(builder: (_) => const MistakesScreen())).then((_) => _loadData());
+                }, badge: _mistakeCount > 0 ? '$_mistakeCount' : null),
+              ),
+              const SizedBox(width: 6),
+              SizedBox(
+                width: 72,
+                child: _buildQuickIconItem('Calculator', Icons.calculate_outlined, Colors.purple, () {
+                  Navigator.push(context, MaterialPageRoute(builder: (_) => const EngineeringCalculatorScreen()));
+                }),
+              ),
+            ],
+          ),
         ),
       ],
     );

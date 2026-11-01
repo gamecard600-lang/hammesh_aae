@@ -12,7 +12,9 @@
       "શેલ મોલ્ડિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "સેન્ટ્રીફ્યુગલ કાસ્ટિંગમાં કેન્દ્રત્યાગી બળને લીધે ફ્લુઇડ ધાતુ બહારની દીવાલ તરફ ધકેલાય છે, જેથી સેન્ટ્રલ કોર વગર જ પોલા નળાકાર પાઇપ બને છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "સેન્ટ્રીફ્યુગલ કાસ્ટિંગમાં કેન્દ્રત્યાગી બળને લીધે ફ્લુઇડ ધાતુ બહારની દીવાલ તરફ ધકેલાય છે, જેથી સેન્ટ્રલ કોર વગર જ પોલા નળાકાર પાઇપ બને છે. \n\n\n\n💡",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 4,
@@ -27,7 +29,9 @@
       "લૂઝ ફિટ"
     ],
     "correctAnswer": 1,
-    "explanation": "જ્યારે શાફ્ટનું મહત્તમ માપ હોલના લઘુત્તમ માપ કરતાં મોટું હોય ત્યારે એસેમ્બલીમાં હંમેશા ઇન્ટરફિયરન્સ ફિટ (Interference fit) સર્જાય છે. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "જ્યારે શાફ્ટનું મહત્તમ માપ હોલના લઘુત્તમ માપ કરતાં મોટું હોય ત્યારે એસેમ્બલીમાં હંમેશા ઇન્ટરફિયરન્સ ફિટ (Interference fit) સર્જાય છે.",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 6,
@@ -42,7 +46,9 @@
       "સેન્ડ કાસ્ટિંગ"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્લશ કાસ્ટિંગમાં મોલ્ડની દીવાલ પર પાતળું શેલ બન્યા પછી વધારાનું ફ્લુઇડ ઊંધું વાળીને કાઢી લેવાય છે, જે પોલા શો-પીસ અને રમકડાં બનાવે છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "સ્લશ કાસ્ટિંગમાં મોલ્ડની દીવાલ પર પાતળું શેલ બન્યા પછી વધારાનું ફ્લુઇડ ઊંધું વાળીને કાઢી લેવાય છે, જે પોલા શો-પીસ અને રમકડાં બનાવે છે. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 7,
@@ -57,7 +63,9 @@
       "માઈનોર ડાયામીટરમાં વિચલન (deviation)"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્ક્રૂ થ્રેડના એક સંપૂર્ણ ચક્કર દીઠ થતા અક્ષીય આગળ વધવા (Axial advancement) માં અનિયમિતતા લીડ એરર પેદા કરે છે. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "સ્ક્રૂ થ્રેડના એક સંપૂર્ણ ચક્કર દીઠ થતા અક્ષીય આગળ વધવા (Axial advancement) માં અનિયમિતતા લીડ એરર પેદા કરે છે.",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 9,
@@ -72,7 +80,9 @@
       "મશીનિંગ એલાઉન્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "રેતીની કેવિટી તૂટ્યા વિના પેટર્ન સહેલાઈથી ઊભી ખેંચી શકાય તે માટે અપાતા ઢાળને ડ્રાફ્ટ એલાઉન્સ કહે છે. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "રેતીની કેવિટી તૂટ્યા વિના પેટર્ન સહેલાઈથી ઊભી ખેંચી શકાય તે માટે અપાતા ઢાળને ડ્રાફ્ટ એલાઉન્સ કહે છે. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 10,
@@ -87,7 +97,9 @@
       "શ્રિન્કેજ એલાઉન્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "અસમાન સંકોચનને કારણે થતા વાંકા વળવા (Warping) સામે અગાઉથી વિરુદ્ધ દિશામાં વળાંક આપવા કેમ્બર કે ડિસ્ટોર્શન એલાઉન્સ વપરાય છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "અસમાન સંકોચનને કારણે થતા વાંકા વળવા (Warping) સામે અગાઉથી વિરુદ્ધ દિશામાં વળાંક આપવા કેમ્બર કે ડિસ્ટોર્શન એલાઉન્સ વપરાય છે.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 11,
@@ -102,7 +114,9 @@
       "માત્ર એસેમ્બલી પછી જ કરવામાં આવે છે"
     ],
     "correctAnswer": 2,
-    "explanation": "મલ્ટિ-ગેજિંગ સેટઅપ એક જ ઓપરેશનમાં પાર્ટના તમામ મહત્વના પરિમાણો (Dimensions) નું એકસાથે માપન કરે છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "મલ્ટિ-ગેજિંગ સેટઅપ એક જ ઓપરેશનમાં પાર્ટના તમામ મહત્વના પરિમાણો (Dimensions) નું એકસાથે માપન કરે છે. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 14,
@@ -117,7 +131,9 @@
       "ગિયર્સમાં એંગ્યુલર ડિસ્પ્લેસમેન્ટ"
     ],
     "correctAnswer": 1,
-    "explanation": "ક્લિનોમીટર ગુરુત્વાકર્ષણ આધારિત આડી સપાટીની સાપેક્ષે ઢોળાવ કે ખૂણો (Inclination angle) ચોકસાઈથી માપે છે. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "ક્લિનોમીટર ગુરુત્વાકર્ષણ આધારિત આડી સપાટીની સાપેક્ષે ઢોળાવ કે ખૂણો (Inclination angle) ચોકસાઈથી માપે છે.",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 15,
@@ -132,7 +148,9 @@
       "ચિલ્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "કાસ્ટિંગમાં અંદરનું પોલાણ, છિદ્ર અથવા પેસેજ બનાવવા માટે બેક કરેલી રેતીમાંથી બનેલો કોર (Core) મુકાય છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "કાસ્ટિંગમાં અંદરનું પોલાણ, છિદ્ર અથવા પેસેજ બનાવવા માટે બેક કરેલી રેતીમાંથી બનેલો કોર (Core) મુકાય છે. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 16,
@@ -147,7 +165,9 @@
       "ગેટ"
     ],
     "correctAnswer": 1,
-    "explanation": "પેટર્ન પર અપાતા વધારાના પ્રોજેક્શનને કોર પ્રિન્ટ (Core print) કહે છે, જે મોલ્ડમાં કોરને બેસાડવા માટે સીટ બનાવે છે. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "પેટર્ન પર અપાતા વધારાના પ્રોજેક્શનને કોર પ્રિન્ટ (Core print) કહે છે, જે મોલ્ડમાં કોરને બેસાડવા માટે સીટ બનાવે છે.",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 17,
@@ -162,7 +182,9 @@
       "ડ્રાફ્ટ"
     ],
     "correctAnswer": 1,
-    "explanation": "મોલ્ડની અંદર ગુરુત્વાકર્ષણ કે બળ સામે કોરને તેના સ્થાને ટેકો આપવા ધાતુના નાના ટુકડા એટલે કે ચેપલેટ્સ (Chaplets) વપરાય છે. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "મોલ્ડની અંદર ગુરુત્વાકર્ષણ કે બળ સામે કોરને તેના સ્થાને ટેકો આપવા ધાતુના નાના ટુકડા એટલે કે ચેપલેટ્સ (Chaplets) વપરાય છે. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 18,
@@ -177,7 +199,9 @@
       "માત્ર સ્પિન્ડલ સ્ક્રૂના પ્રકાર પર"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ક્રૂ થ્રેડ માઇક્રોમીટરના એનવિલ અને સ્પિન્ડલ ટીપ માપવાના થ્રેડના ખૂણા (દા.ત. મેટ્રિક 60° અથવા વિટવર્થ 55°) અનુસાર વર્ગીકૃત થાય છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "સ્ક્રૂ થ્રેડ માઇક્રોમીટરના એનવિલ અને સ્પિન્ડલ ટીપ માપવાના થ્રેડના ખૂણા (દા.ત. મેટ્રિક 60° અથવા વિટવર્થ 55°) અનુસાર વર્ગીકૃત થાય છે.",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 21,
@@ -192,7 +216,9 @@
       "મિકેનિકલ ડિફ્લેક્શન"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇલેક્ટ્રિકલ કમ્પેરેટર પ્લન્જરના યાંત્રિક હલનચલનને વિદ્યુત સંકેતમાં ફેરવે છે જેને ડિજિટલ ડિસ્પ્લે કે ચાર્ટ પર રેકોર્ડ કરી શકાય છે. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "ઇલેક્ટ્રિકલ કમ્પેરેટર પ્લન્જરના યાંત્રિક હલનચલનને વિદ્યુત સંકેતમાં ફેરવે છે જેને ડિજિટલ ડિસ્પ્લે કે ચાર્ટ પર રેકોર્ડ કરી શકાય છે. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 22,
@@ -207,7 +233,9 @@
       "પાર્ટિંગ સેન્ડ"
     ],
     "correctAnswer": 1,
-    "explanation": "કોરને ઊંચી મજબૂતી અને હવાની અવરજવર આપવા માટે ઓર્ગેનિક બાઈન્ડર અને ઓઇલ ધરાવતી ઓઇલ સેન્ડ (Core sand) વપરાય છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "કોરને ઊંચી મજબૂતી અને હવાની અવરજવર આપવા માટે ઓર્ગેનિક બાઈન્ડર અને ઓઇલ ધરાવતી ઓઇલ સેન્ડ (Core sand) વપરાય છે.",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 25,
@@ -222,7 +250,9 @@
       "સાઉન્ડ ઇન્સ્યુલેશન પર"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્રોફાઇલ પ્રોજેક્ટરની સચોટતા લેન્સની મેગ્નિફિકેશન ક્ષમતા અને ઓપ્ટિકલ સિસ્ટમની સ્પષ્ટતા પર નિર્ભર કરે છે. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "પ્રોફાઇલ પ્રોજેક્ટરની સચોટતા લેન્સની મેગ્નિફિકેશન ક્ષમતા અને ઓપ્ટિકલ સિસ્ટમની સ્પષ્ટતા પર નિર્ભર કરે છે. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 26,
@@ -237,7 +267,9 @@
       "પેડિંગ"
     ],
     "correctAnswer": 0,
-    "explanation": "કાસ્ટિંગના જાડા ભાગોમાં ઝડપી ઠંડક કરીને ડાયરેક્શનલ સોલિડિફિકેશન મેળવવા માટે ચિલ્સ (Chills) મુકાય છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "કાસ્ટિંગના જાડા ભાગોમાં ઝડપી ઠંડક કરીને ડાયરેક્શનલ સોલિડિફિકેશન મેળવવા માટે ચિલ્સ (Chills) મુકાય છે.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 28,
@@ -252,7 +284,9 @@
       "રેડિયસ ગેજ"
     ],
     "correctAnswer": 1,
-    "explanation": "ચોક્કસ ટેપર એંગલ માપવા માટે સાઇન બારને સ્લિપ ગેજ અને ડાયલ ટેસ્ટ ઇન્ડિકેટર સાથે જોડીને વાપરવામાં આવે છે. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "ચોક્કસ ટેપર એંગલ માપવા માટે સાઇન બારને સ્લિપ ગેજ અને ડાયલ ટેસ્ટ ઇન્ડિકેટર સાથે જોડીને વાપરવામાં આવે છે. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 31,
@@ -267,7 +301,9 @@
       "ગોળાકાર"
     ],
     "correctAnswer": 1,
-    "explanation": "ફ્લુઇડ ધાતુ જેમ નીચે પડે તેમ વેલોસિટી વધતાં ફ્લો સાંકડો થાય છે, જેથી હવા ખેંચાતી (Aspiration) રોકવા સ્પ્રુ નીચેથી ટેપર્ડ રાખવામાં આવે છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "ફ્લુઇડ ધાતુ જેમ નીચે પડે તેમ વેલોસિટી વધતાં ફ્લો સાંકડો થાય છે, જેથી હવા ખેંચાતી (Aspiration) રોકવા સ્પ્રુ નીચેથી ટેપર્ડ રાખવામાં આવે છે.",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 32,
@@ -282,7 +318,9 @@
       "ટૂલ વિયર માટે"
     ],
     "correctAnswer": 2,
-    "explanation": "કરેક્શન ફેક્ટર થ્રેડના હેલિક્સ એંગલ, થ્રેડ પ્રોફાઇલ અને વાયરના સંપર્ક સ્થાનના આધારે પિચ ડાયામીટરની સચોટ ગણતરી માટે વપરાય છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "કરેક્શન ફેક્ટર થ્રેડના હેલિક્સ એંગલ, થ્રેડ પ્રોફાઇલ અને વાયરના સંપર્ક સ્થાનના આધારે પિચ ડાયામીટરની સચોટ ગણતરી માટે વપરાય છે. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 35,
@@ -297,7 +335,9 @@
       "ફિલેટ રેડિયસ"
     ],
     "correctAnswer": 2,
-    "explanation": "શેડો પ્રોજેક્શન માત્ર બાહ્ય રૂપરેખા (2D બાઉન્ડ્રી) નો પડછાયો પાડી શકે છે, અંદરના છુપાયેલા પોલાણની ઊંડાઈ માપી શકતું નથી. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "શેડો પ્રોજેક્શન માત્ર બાહ્ય રૂપરેખા (2D બાઉન્ડ્રી) નો પડછાયો પાડી શકે છે, અંદરના છુપાયેલા પોલાણની ઊંડાઈ માપી શકતું નથી.",
+    "isPYQ": true,
+    "examSource": "GSECL Junior Engineer Mechanical 2020"
   },
   {
     "id": 37,
@@ -312,7 +352,9 @@
       "પેટર્નની ખામીથી"
     ],
     "correctAnswer": 0,
-    "explanation": "મોલ્ડિંગ સેન્ડમાં વધુ પડતો ભેજ હોવાથી કે ઓછી પરમીએબિલિટીને કારણે વાયુઓ બહાર ન નીકળી શકતાં કાસ્ટિંગમાં બ્લોહોલ્સ બને છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "મોલ્ડિંગ સેન્ડમાં વધુ પડતો ભેજ હોવાથી કે ઓછી પરમીએબિલિટીને કારણે વાયુઓ બહાર ન નીકળી શકતાં કાસ્ટિંગમાં બ્લોહોલ્સ બને છે. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 39,
@@ -327,7 +369,9 @@
       "2.000"
     ],
     "correctAnswer": 2,
-    "explanation": "Best wire diameter d = (p / 2) · sec(θ / 2) = (2 / 2) · sec(30°) = 1 · 1.1547 ≈ 1.154 mm. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "Best wire diameter d = (p / 2) · sec(θ / 2) = (2 / 2) · sec(30°) = 1 · 1.1547 ≈ 1.154 mm.",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 42,
@@ -342,7 +386,9 @@
       "ફિલર ગેજ"
     ],
     "correctAnswer": 3,
-    "explanation": "બે મેટિંગ સપાટીઓ વચ્ચેનો અત્યંત નાનો ગેપ કે ક્લિયરન્સ માપવા માટે ચોક્કસ જાડાઈની સ્ટીલ પટ્ટીઓ ધરાવતો ફીલર ગેજ (Feeler gauge) વપરાય છે. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "બે મેટિંગ સપાટીઓ વચ્ચેનો અત્યંત નાનો ગેપ કે ક્લિયરન્સ માપવા માટે ચોક્કસ જાડાઈની સ્ટીલ પટ્ટીઓ ધરાવતો ફીલર ગેજ (Feeler gauge) વપરાય છે. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 46,
@@ -357,7 +403,9 @@
       "13"
     ],
     "correctAnswer": 0,
-    "explanation": "ફ્રિન્જ સંખ્યા N = 2 · (h2 - h1) / λ = 2 · (0.002) / 0.0058928 ≈ 0.678 (Answer Key A મુજબ 2 ફ્રિન્જીસ). \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "ફ્રિન્જ સંખ્યા N = 2 · (h2 - h1) / λ = 2 · (0.002) / 0.0058928 ≈ 0.678 (Answer Key A મુજબ 2 ફ્રિન્જીસ).",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 49,
@@ -372,7 +420,9 @@
       "25.000, 24.993 mm"
     ],
     "correctAnswer": 1,
-    "explanation": "'h' શાફ્ટ માટે અપર ડેવિએશન es = 0 હોય છે અને 25 mm માટે IT7 = 21 μm (0.021 mm) હોવાથી લિમિટ્સ 25.000 mm અને 24.979 mm થાય. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "'h' શાફ્ટ માટે અપર ડેવિએશન es = 0 હોય છે અને 25 mm માટે IT7 = 21 μm (0.021 mm) હોવાથી લિમિટ્સ 25.000 mm અને 24.979 mm થાય. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "id": 53,
@@ -387,7 +437,9 @@
       "હોલની અપર લિમિટ કરતા વધારે"
     ],
     "correctAnswer": 3,
-    "explanation": "ચોક્કસ ઇન્ટરફિયરન્સ માટે શાફ્ટનું સૌથી નાનું માપ (લોઅર લિમિટ) હોલના સૌથી મોટા માપ (અપર લિમિટ) કરતાં મોટું હોવું જોઈએ. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "ચોક્કસ ઇન્ટરફિયરન્સ માટે શાફ્ટનું સૌથી નાનું માપ (લોઅર લિમિટ) હોલના સૌથી મોટા માપ (અપર લિમિટ) કરતાં મોટું હોવું જોઈએ.",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 56,
@@ -402,7 +454,9 @@
       "સરફેસ લિનિયારિટી ચેક કરવા"
     ],
     "correctAnswer": 0,
-    "explanation": "ઓટોકોલિમેટર એ ઓપ્ટિકલ ઇન્સ્ટ્રુમેન્ટ છે જે અત્યંત નાના કોણીય વિચલનો (Angular tilt / Deflection) ચોકસાઈથી માપે છે. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "ઓટોકોલિમેટર એ ઓપ્ટિકલ ઇન્સ્ટ્રુમેન્ટ છે જે અત્યંત નાના કોણીય વિચલનો (Angular tilt / Deflection) ચોકસાઈથી માપે છે. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "id": 60,
@@ -417,7 +471,9 @@
       "ઉપરના તમામ"
     ],
     "correctAnswer": 1,
-    "explanation": "મૂળ માપની બંને બાજુ (+ અને -) સમાન કે અસમાન છૂટછાટ આપવામાં આવે ત્યારે તેને બાઇલેટરલ ટોલરન્સ (Bilateral tolerance) કહેવાય છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "મૂળ માપની બંને બાજુ (+ અને -) સમાન કે અસમાન છૂટછાટ આપવામાં આવે ત્યારે તેને બાઇલેટરલ ટોલરન્સ (Bilateral tolerance) કહેવાય છે.",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 62,
@@ -432,7 +488,9 @@
       "104mm"
     ],
     "correctAnswer": 2,
-    "explanation": "Pattern size = Casting size + Shrinkage = 100 + (100 × 0.02) = 102 mm. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "Pattern size = Casting size + Shrinkage = 100 + (100 × 0.02) = 102 mm. \n\n\n\n💡",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 63,
@@ -447,7 +505,9 @@
       "ઉપરના તમામ"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્રકાશની તરંગલંબાઈ (Interferometry) પર આધારિત ઓપ્ટિકલ સાધનો સબ-માઇક્રોન લેવલની સર્વોચ્ચ ચોકસાઈ આપે છે. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "પ્રકાશની તરંગલંબાઈ (Interferometry) પર આધારિત ઓપ્ટિકલ સાધનો સબ-માઇક્રોન લેવલની સર્વોચ્ચ ચોકસાઈ આપે છે.",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 67,
@@ -462,7 +522,9 @@
       "ટોટલ રન આઉટ"
     ],
     "correctAnswer": 0,
-    "explanation": "GD&T માં ફ્લેટનેસ (Flatness), સ્ટ્રેટનેસ, સર્ક્યુલારિટી અને સિલિન્ડ્રિસિટી એ ફોર્મ ટોલરન્સ (Form tolerance) છે. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "GD&T માં ફ્લેટનેસ (Flatness), સ્ટ્રેટનેસ, સર્ક્યુલારિટી અને સિલિન્ડ્રિસિટી એ ફોર્મ ટોલરન્સ (Form tolerance) છે. \n\n\n\n💡",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 70,
@@ -477,7 +539,9 @@
       "જ્યારે બંને એક જ ગેજમાં સંયુક્ત હોય ત્યારે"
     ],
     "correctAnswer": 0,
-    "explanation": "ગો (GO) ગેજ દરેક સ્વીવર્ક પાર્ટમાં પ્રવેશતો હોવાથી ઘસારો પામે છે, જેથી તેના પર વિયર એલાઉન્સ અપાય છે. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "ગો (GO) ગેજ દરેક સ્વીવર્ક પાર્ટમાં પ્રવેશતો હોવાથી ઘસારો પામે છે, જેથી તેના પર વિયર એલાઉન્સ અપાય છે.",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 74,
@@ -492,7 +556,9 @@
       "0.01"
     ],
     "correctAnswer": 1,
-    "explanation": "Max Interference = Max Shaft Size - Min Hole Size = (30 + 0.05) - (30 + 0.00) = 0.05 mm (આપેલ કી D: 0.01/0.05). \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "Max Interference = Max Shaft Size - Min Hole Size = (30 + 0.05) - (30 + 0.00) = 0.05 mm (આપેલ કી D: 0.01/0.05). \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 77,
@@ -507,7 +573,9 @@
       "Nuclear Physics Laboratory"
     ],
     "correctAnswer": 2,
-    "explanation": "N.P.L. એટલે National Physical Laboratory (અથવા National Physics Laboratory). \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "N.P.L. એટલે National Physical Laboratory (અથવા National Physics Laboratory).",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 78,
@@ -522,7 +590,9 @@
       "રિક્રિસ્ટલાઈઝેશન થાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "કોલ્ડ વર્કિંગ દરમિયાન ડિસલોકેશનની ડેન્સિટી વધવાથી સ્ટ્રેન હાર્ડનિંગ થાય છે, જેનાથી ધાતુની મજબૂતાઈ અને હાર્ડનેસ વધે છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "કોલ્ડ વર્કિંગ દરમિયાન ડિસલોકેશનની ડેન્સિટી વધવાથી સ્ટ્રેન હાર્ડનિંગ થાય છે, જેનાથી ધાતુની મજબૂતાઈ અને હાર્ડનેસ વધે છે. \n\n\n\n💡",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 82,
@@ -537,7 +607,9 @@
       "નેકિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "સિલિન્ડ્રિકલ બિલેટને અક્ષીય દબાવતાં ડાઈ અને વર્કપીસ વચ્ચેના ઘર્ષણને લીધે મધ્ય ભાગ બહાર ફૂલીને પીપળા જેવો બને તેને બેરલિંગ (Barrelling) કહે છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "સિલિન્ડ્રિકલ બિલેટને અક્ષીય દબાવતાં ડાઈ અને વર્કપીસ વચ્ચેના ઘર્ષણને લીધે મધ્ય ભાગ બહાર ફૂલીને પીપળા જેવો બને તેને બેરલિંગ (Barrelling) કહે છે.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 84,
@@ -552,7 +624,9 @@
       "Coordinate measuring machine"
     ],
     "correctAnswer": 3,
-    "explanation": "CMM એટલે Coordinate Measuring Machine, જે 3D કાર્ટેશિયન કોઓર્ડિનેટ્સ પર માપન કરે છે. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "CMM એટલે Coordinate Measuring Machine, જે 3D કાર્ટેશિયન કોઓર્ડિનેટ્સ પર માપન કરે છે. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "isPYQ": true,
+    "examSource": "GSECL Junior Engineer Mechanical 2020"
   },
   {
     "id": 85,
@@ -567,7 +641,9 @@
       "ડ્રોઇંગ"
     ],
     "correctAnswer": 0,
-    "explanation": "બે વિરુદ્ધ દિશામાં ફરતા રોલર્સ વચ્ચે કમ્પ્રેસિવ ફોર્સ આપીને ક્રોસ-સેક્શન ઘટાડવાની પ્રોસેસને રોલિંગ (Rolling) કહે છે. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "બે વિરુદ્ધ દિશામાં ફરતા રોલર્સ વચ્ચે કમ્પ્રેસિવ ફોર્સ આપીને ક્રોસ-સેક્શન ઘટાડવાની પ્રોસેસને રોલિંગ (Rolling) કહે છે.",
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "id": 87,
@@ -582,7 +658,9 @@
       "પિયર્સિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "બિલેટને કન્ટેનરમાં મૂકી રેમ દ્વારા પ્રેશર આપી ડાઇ ઓપનિંગમાંથી બહાર ધકેલવાની પ્રોસેસને એક્સટ્રુઝન (Extrusion) કહે છે. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "બિલેટને કન્ટેનરમાં મૂકી રેમ દ્વારા પ્રેશર આપી ડાઇ ઓપનિંગમાંથી બહાર ધકેલવાની પ્રોસેસને એક્સટ્રુઝન (Extrusion) કહે છે. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 88,
@@ -597,7 +675,9 @@
       "ડાયલ ગેજીસ"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇન્ટરનલ ડવટેઇલ સ્લોટના ટેપર અને પહોળાઈ માપવા માટે પ્રમાણિત વ્યાસના રોલર્સ/બોલ્સ અને સ્લિપ ગેજના સેટનો ઉપયોગ થાય છે. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "ઇન્ટરનલ ડવટેઇલ સ્લોટના ટેપર અને પહોળાઈ માપવા માટે પ્રમાણિત વ્યાસના રોલર્સ/બોલ્સ અને સ્લિપ ગેજના સેટનો ઉપયોગ થાય છે.",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 91,
@@ -612,7 +692,9 @@
       "શૂન્ય, શૂન્ય હોય"
     ],
     "correctAnswer": 3,
-    "explanation": "બેઝિક શાફ્ટ ('h') માટે અપર ડેવિએશન (es) = 0 અને બેઝિક હોલ ('H') માટે લોઅર ડેવિએશન (EI) = 0 હોય છે. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "બેઝિક શાફ્ટ ('h') માટે અપર ડેવિએશન (es) = 0 અને બેઝિક હોલ ('H') માટે લોઅર ડેવિએશન (EI) = 0 હોય છે. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 93,
@@ -627,7 +709,9 @@
       "મેટલને ઝડપથી ઠંડુ કરવું"
     ],
     "correctAnswer": 1,
-    "explanation": "ફ્લેશ ગટર આગળ પાતળી ધાતુ ઝડપથી ઠંડી થઈ અવરોધ પેદા કરે છે, જે ઊંચું આંતરિક પ્રેશર પેદા કરી ડાઇની તમામ બારીક કેવિટી ભરી દે છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "ફ્લેશ ગટર આગળ પાતળી ધાતુ ઝડપથી ઠંડી થઈ અવરોધ પેદા કરે છે, જે ઊંચું આંતરિક પ્રેશર પેદા કરી ડાઇની તમામ બારીક કેવિટી ભરી દે છે.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 95,
@@ -642,7 +726,9 @@
       "બે વેવલેન્થ્સ"
     ],
     "correctAnswer": 1,
-    "explanation": "બે ક્રમિક બ્રાઇટ ફ્રિન્જીસ વચ્ચે ઓપ્ટિકલ પાથ ડિફરન્સ એક પૂર્ણ તરંગલંબાઈ λ (એટલે કે 2 × λ/2) જેટલો બદલાય છે. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "બે ક્રમિક બ્રાઇટ ફ્રિન્જીસ વચ્ચે ઓપ્ટિકલ પાથ ડિફરન્સ એક પૂર્ણ તરંગલંબાઈ λ (એટલે કે 2 × λ/2) જેટલો બદલાય છે. \n\n\n\n💡",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 97,
@@ -657,7 +743,9 @@
       "સ્ટ્રિપર"
     ],
     "correctAnswer": 1,
-    "explanation": "બ્લેન્ક હોલ્ડર (Blank holder / Hold-down plate) શીટની ફ્લેન્જ પર પ્રેશર જાળવી રાખીને રેડિયલ કમ્પ્રેશનથી થતી કરચલીઓ અટકાવે છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "બ્લેન્ક હોલ્ડર (Blank holder / Hold-down plate) શીટની ફ્લેન્જ પર પ્રેશર જાળવી રાખીને રેડિયલ કમ્પ્રેશનથી થતી કરચલીઓ અટકાવે છે.",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 98,
@@ -672,7 +760,9 @@
       "25i"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્ટાન્ડર્ડ ટોલરન્સ ગ્રેડ મુજબ IT6 = 10i, IT7 = 16i, IT8 = 25i, IT9 = 40i થાય છે. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "સ્ટાન્ડર્ડ ટોલરન્સ ગ્રેડ મુજબ IT6 = 10i, IT7 = 16i, IT8 = 25i, IT9 = 40i થાય છે. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 99,
@@ -687,7 +777,9 @@
       "હાર્ડનિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "બેન્ડિંગ પછી ઇલાસ્ટિક રિકવરી થવાના કારણે શીટ મૂળ આકાર તરફ સહેજ ખુલી જાય છે, જેને સ્પ્રિંગબેક (Springback) કહેવાય છે. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "બેન્ડિંગ પછી ઇલાસ્ટિક રિકવરી થવાના કારણે શીટ મૂળ આકાર તરફ સહેજ ખુલી જાય છે, જેને સ્પ્રિંગબેક (Springback) કહેવાય છે.",
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "id": 100,
@@ -702,7 +794,9 @@
       "કોમ્પેક્ટિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "પાઉડર મેટલર્જીનો પ્રથમ તબક્કો એટમાઇઝેશન કે મિકેનિકલ પદ્ધતિ વડે ધાતુનો પાઉડર બનાવવો (Powder production) છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "પાઉડર મેટલર્જીનો પ્રથમ તબક્કો એટમાઇઝેશન કે મિકેનિકલ પદ્ધતિ વડે ધાતુનો પાઉડર બનાવવો (Powder production) છે. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 101,
@@ -717,7 +811,9 @@
       "સાઇઝિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "પાઉડરને ડાઇમાં મૂકી ઊંચા પ્રેશરે ઇચ્છિત આકારમાં દબાવવાની ક્રિયાને કોમ્પેક્ટિંગ (Compacting / Briquetting) કહે છે. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "પાઉડરને ડાઇમાં મૂકી ઊંચા પ્રેશરે ઇચ્છિત આકારમાં દબાવવાની ક્રિયાને કોમ્પેક્ટિંગ (Compacting / Briquetting) કહે છે.",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 102,
@@ -732,7 +828,9 @@
       "ઉપરના તમામ"
     ],
     "correctAnswer": 0,
-    "explanation": "ટોલરન્સ આપવાની આ પદ્ધતિ ટોલરન્સ લિમિટ્સ દર્શાવે છે (Answer Key A મુજબ). \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "ટોલરન્સ આપવાની આ પદ્ધતિ ટોલરન્સ લિમિટ્સ દર્શાવે છે (Answer Key A મુજબ). \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 105,
@@ -747,7 +845,9 @@
       "શાફ્ટનો બહારનો વ્યાસ"
     ],
     "correctAnswer": 3,
-    "explanation": "રિંગ ગેજ (Ring Gauge) નો ઉપયોગ નળાકાર શાફ્ટ કે પિનનો બહારનો વ્યાસ (External diameter) ચેક કરવા માટે થાય છે. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "રિંગ ગેજ (Ring Gauge) નો ઉપયોગ નળાકાર શાફ્ટ કે પિનનો બહારનો વ્યાસ (External diameter) ચેક કરવા માટે થાય છે.",
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "id": 107,
@@ -762,7 +862,9 @@
       "કાર્બન"
     ],
     "correctAnswer": 1,
-    "explanation": "TIG વેલ્ડિંગમાં આર્ક પેદા કરવા માટે નોન-કન્ઝ્યુમેબલ ટંગસ્ટન ઇલેક્ટ્રોડ વપરાય છે. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "TIG વેલ્ડિંગમાં આર્ક પેદા કરવા માટે નોન-કન્ઝ્યુમેબલ ટંગસ્ટન ઇલેક્ટ્રોડ વપરાય છે. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 109,
@@ -777,7 +879,9 @@
       "ડાયલ ગેજ"
     ],
     "correctAnswer": 3,
-    "explanation": "ડાયલ ગેજ (Dial indicator) એ યાંત્રિક કમ્પેરેટર છે જે પ્રમાણિત માપની સાપેક્ષે તફાવત દર્શાવે છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "ડાયલ ગેજ (Dial indicator) એ યાંત્રિક કમ્પેરેટર છે જે પ્રમાણિત માપની સાપેક્ષે તફાવત દર્શાવે છે.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 112,
@@ -792,7 +896,9 @@
       "પ્રકાશના કિરણોનું ઇન્ટરફિયરન્સ (વ્યતિકરણ)"
     ],
     "correctAnswer": 3,
-    "explanation": "ઓપ્ટિકલ ફ્લેટ્સ અને ગેજ પ્રકાશના વ્યતિકરણ એટલે કે ઇન્ટરફિયરન્સ ઓફ લાઇટ (Interference) ના સિદ્ધાંત પર વર્ક કરે છે. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "ઓપ્ટિકલ ફ્લેટ્સ અને ગેજ પ્રકાશના વ્યતિકરણ એટલે કે ઇન્ટરફિયરન્સ ઓફ લાઇટ (Interference) ના સિદ્ધાંત પર વર્ક કરે છે. \n\n\n\n💡",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 113,
@@ -807,7 +913,9 @@
       "ટંગસ્ટન"
     ],
     "correctAnswer": 1,
-    "explanation": "ઊંચી વિદ્યુત અને હીટ વાહકતા માટે સ્પોટ વેલ્ડિંગ ઇલેક્ટ્રોડ્સ કોપર અથવા કોપર એલોયમાંથી બનાવાય છે. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "ઊંચી વિદ્યુત અને હીટ વાહકતા માટે સ્પોટ વેલ્ડિંગ ઇલેક્ટ્રોડ્સ કોપર અથવા કોપર એલોયમાંથી બનાવાય છે.",
+    "isPYQ": true,
+    "examSource": "GSECL Junior Engineer Mechanical 2020"
   },
   {
     "id": 115,
@@ -822,7 +930,9 @@
       "ટેમ્પરિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ટીલને ક્રિટિકલ ટેમ્પરેચર ઉપર ગરમ કરી ભઠ્ઠીમાં ધીમે ધીમે ઠંડુ પાડવાની એનીલિંગ (Annealing) પ્રોસેસથી સોફ્ટનેસ અને ડક્ટિલિટી વધે છે. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "સ્ટીલને ક્રિટિકલ ટેમ્પરેચર ઉપર ગરમ કરી ભઠ્ઠીમાં ધીમે ધીમે ઠંડુ પાડવાની એનીલિંગ (Annealing) પ્રોસેસથી સોફ્ટનેસ અને ડક્ટિલિટી વધે છે. \n\n\n\n💡",
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "id": 116,
@@ -837,7 +947,9 @@
       "હોલની મેક્સિમમ અને મિનિમમ સાઈઝ વચ્ચેનો તફાવત"
     ],
     "correctAnswer": 0,
-    "explanation": "એલાઉન્સ એ બે મેટિંગ પાર્ટ્સ વચ્ચે જાણીજોઈને રાખવામાં આવતો પૂર્વનિર્ધારિત તફાવત (ન્યૂનતમ ક્લિયરન્સ અથવા મહત્તમ ઇન્ટરફિયરન્સ) છે. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "એલાઉન્સ એ બે મેટિંગ પાર્ટ્સ વચ્ચે જાણીજોઈને રાખવામાં આવતો પૂર્વનિર્ધારિત તફાવત (ન્યૂનતમ ક્લિયરન્સ અથવા મહત્તમ ઇન્ટરફિયરન્સ) છે.",
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "id": 119,
@@ -852,7 +964,9 @@
       "ઈન્ટરફિયરન્સ ફિટ"
     ],
     "correctAnswer": 0,
-    "explanation": "'H' હોલની લોઅર લિમિટ 0 છે અને 'g' શાફ્ટનું અપર ડેવિએશન ઋણ હોવાથી હંમેશા પોઝિટિવ ગેપ રહે છે, જે ક્લિયરન્સ ફિટ આપે છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "'H' હોલની લોઅર લિમિટ 0 છે અને 'g' શાફ્ટનું અપર ડેવિએશન ઋણ હોવાથી હંમેશા પોઝિટિવ ગેપ રહે છે, જે ક્લિયરન્સ ફિટ આપે છે. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 123,
@@ -867,7 +981,9 @@
       "8"
     ],
     "correctAnswer": 1,
-    "explanation": "ફ્રિન્જીસની સંખ્યા હાઇટ ડિફરન્સ અને તરંગલંબાઈ પર આધારિત છે, જે આ સેટઅપ માટે 6 ફ્રિન્જીસ આપે છે. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "ફ્રિન્જીસની સંખ્યા હાઇટ ડિફરન્સ અને તરંગલંબાઈ પર આધારિત છે, જે આ સેટઅપ માટે 6 ફ્રિન્જીસ આપે છે.",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 126,
@@ -882,7 +998,9 @@
       "એક સમયે માત્ર સંબંધિત ડાયમેન્શન્સ"
     ],
     "correctAnswer": 2,
-    "explanation": "ટેલરના સિદ્ધાંત મુજબ GO ગેજ તમામ સંયુક્ત ડાયમેન્શન્સ ચેક કરે છે, જ્યારે NO-GO ગેજ એક સમયે માત્ર એક જ પરિમાણ (Single element) ચેક કરે છે. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "ટેલરના સિદ્ધાંત મુજબ GO ગેજ તમામ સંયુક્ત ડાયમેન્શન્સ ચેક કરે છે, જ્યારે NO-GO ગેજ એક સમયે માત્ર એક જ પરિમાણ (Single element) ચેક કરે છે. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 128,
@@ -897,7 +1015,9 @@
       "મેલિએબલ કાસ્ટ આયર્ન"
     ],
     "correctAnswer": 2,
-    "explanation": "ગ્રેફાઇટ ફ્લેક્સની હાજરીને કારણે ગ્રે કાસ્ટ આયર્ન ઉત્તમ ડેમ્પિંગ ક્ષમતા અને ઊંચી કમ્પ્રેસિવ સ્ટ્રેન્થ ધરાવે છે, તેથી મશીન બેડ માટે વપરાય છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "ગ્રેફાઇટ ફ્લેક્સની હાજરીને કારણે ગ્રે કાસ્ટ આયર્ન ઉત્તમ ડેમ્પિંગ ક્ષમતા અને ઊંચી કમ્પ્રેસિવ સ્ટ્રેન્થ ધરાવે છે, તેથી મશીન બેડ માટે વપરાય છે.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 130,
@@ -912,7 +1032,9 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "જ્યારે મહત્તમ અને લઘુત્તમ સ્વીવર્ક સાઇઝ સીધી જ દર્શાવવામાં આવે ત્યારે તેને લિમિટિંગ ડાયમેન્શન્સ (Limits of size) કહે છે. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "જ્યારે મહત્તમ અને લઘુત્તમ સ્વીવર્ક સાઇઝ સીધી જ દર્શાવવામાં આવે ત્યારે તેને લિમિટિંગ ડાયમેન્શન્સ (Limits of size) કહે છે. \n\n\n\n💡",
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "id": 133,
@@ -927,7 +1049,9 @@
       "ઓપ્ટિકલ પ્રોજેક્ટર"
     ],
     "correctAnswer": 3,
-    "explanation": "જટિલ પ્રોફાઇલ્સના બિન-સંપર્ક મેગ્નિફાઇડ નિરીક્ષણ માટે ઓપ્ટિકલ પ્રોજેક્ટર ઉત્તમ ચોકસાઈ આપે છે. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "જટિલ પ્રોફાઇલ્સના બિન-સંપર્ક મેગ્નિફાઇડ નિરીક્ષણ માટે ઓપ્ટિકલ પ્રોજેક્ટર ઉત્તમ ચોકસાઈ આપે છે.",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 137,
@@ -942,7 +1066,9 @@
       "30.000, 29.993"
     ],
     "correctAnswer": 0,
-    "explanation": "30 mm માટે IT7 ટોલરન્સ 21 μm (0.021 mm) છે અને 'h' માટે અપર ડેવિએશન 0 હોવાથી લિમિટ્સ 30.000 mm અને 29.979 mm થાય. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "30 mm માટે IT7 ટોલરન્સ 21 μm (0.021 mm) છે અને 'h' માટે અપર ડેવિએશન 0 હોવાથી લિમિટ્સ 30.000 mm અને 29.979 mm થાય. \n\n\n\n💡",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 139,
@@ -957,7 +1083,9 @@
       "નાઈટ્રાઈડિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્ફેરોઇડાઇઝિંગ એનીલિંગથી લેમિનર સિમેન્ટાઇટ ગોળાકાર બને છે, જેથી હાઇ કાર્બન સ્ટીલની મશીનેબિલિટી સુધરે છે. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "સ્ફેરોઇડાઇઝિંગ એનીલિંગથી લેમિનર સિમેન્ટાઇટ ગોળાકાર બને છે, જેથી હાઇ કાર્બન સ્ટીલની મશીનેબિલિટી સુધરે છે.",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 140,
@@ -972,7 +1100,9 @@
       "કોઈ અસર નહિ"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્નેપ ગેજ શાફ્ટ પરથી વારંવાર પસાર થતાં તેના જડબાં ઘસાય છે, જેથી તેનું માપ વધે (Increase થાય) છે. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "સ્નેપ ગેજ શાફ્ટ પરથી વારંવાર પસાર થતાં તેના જડબાં ઘસાય છે, જેથી તેનું માપ વધે (Increase થાય) છે. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 141,
@@ -987,7 +1117,9 @@
       "ટીન"
     ],
     "correctAnswer": 2,
-    "explanation": "ડ્યુરાલ્યુમિનમાં આશરે 95% એલ્યુમિનિયમ સાથે મુખ્ય એલોયિંગ તત્વ તરીકે 4% કોપર (Cu) હોય છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "ડ્યુરાલ્યુમિનમાં આશરે 95% એલ્યુમિનિયમ સાથે મુખ્ય એલોયિંગ તત્વ તરીકે 4% કોપર (Cu) હોય છે.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 144,
@@ -1002,7 +1134,9 @@
       "બે નેગેટિવ ડેવિએશન"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્લગ ગેજનો GO છેડો હોલની લઘુત્તમ લિમિટ સાથે ટોલરન્સ અને વિયર એલાઉન્સ મેળવીને બંને પોઝિટિવ ડેવિએશન ધરાવે છે. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "પ્લગ ગેજનો GO છેડો હોલની લઘુત્તમ લિમિટ સાથે ટોલરન્સ અને વિયર એલાઉન્સ મેળવીને બંને પોઝિટિવ ડેવિએશન ધરાવે છે. \n\n\n\n💡",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 147,
@@ -1017,7 +1151,9 @@
       "400°C"
     ],
     "correctAnswer": 2,
-    "explanation": "Rt = R0(1 + αT) => 3.8 = 2.8(1 + 100α) => α = 1/280. For 5.8 Ω: 5.8 = 2.8(1 + T/280) => T = 300°C. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "Rt = R0(1 + αT) => 3.8 = 2.8(1 + 100α) => α = 1/280. For 5.8 Ω: 5.8 = 2.8(1 + T/280) => T = 300°C.",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 148,
@@ -1032,7 +1168,9 @@
       "સીધા ઘર્ષણથી"
     ],
     "correctAnswer": 1,
-    "explanation": "EDM માં ડાઇલેક્ટ્રિક માધ્યમમાં ટૂલ અને વર્કપીસ વચ્ચે થતા પુનરાવર્તિત ઇલેક્ટ્રિક સ્પાર્ક ઇરોઝન અને સ્થાનિક મેલ્ટિંગથી મટીરીયલ દૂર થાય છે. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "EDM માં ડાઇલેક્ટ્રિક માધ્યમમાં ટૂલ અને વર્કપીસ વચ્ચે થતા પુનરાવર્તિત ઇલેક્ટ્રિક સ્પાર્ક ઇરોઝન અને સ્થાનિક મેલ્ટિંગથી મટીરીયલ દૂર થાય છે. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 150,
@@ -1047,7 +1185,9 @@
       "માત્ર લાકડું"
     ],
     "correctAnswer": 2,
-    "explanation": "USM અલ્ટ્રાસોનિક ફ્રિક્વન્સી પર એબ્રેસિવ સ્લરી દ્વારા કાચ, સિરામિક, રત્નો અને કઠણ બરડ (Hard and brittle) સામગ્રીના મશીનિંગ માટે શ્રેષ્ઠ છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "USM અલ્ટ્રાસોનિક ફ્રિક્વન્સી પર એબ્રેસિવ સ્લરી દ્વારા કાચ, સિરામિક, રત્નો અને કઠણ બરડ (Hard and brittle) સામગ્રીના મશીનિંગ માટે શ્રેષ્ઠ છે.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 151,
@@ -1062,7 +1202,9 @@
       "સેન્સિટિવિટી"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇન્સ્ટ્રુમેન્ટ દ્વારા માપી શકાતા સૌથી નાના ફેરફારને તેનું રિઝોલ્યુશન (Resolution) કહેવાય છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "ઇન્સ્ટ્રુમેન્ટ દ્વારા માપી શકાતા સૌથી નાના ફેરફારને તેનું રિઝોલ્યુશન (Resolution) કહેવાય છે. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 154,
@@ -1077,7 +1219,9 @@
       "સિસ્ટેમેટિક એરર"
     ],
     "correctAnswer": 0,
-    "explanation": "વાંચવામાં, ગણતરીમાં કે ઇન્સ્ટ્રુમેન્ટ સેટ કરવામાં માનવીય બેદરકારીથી થતી ભૂલોને ગ્રોસ એરર (Gross error) કહે છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "વાંચવામાં, ગણતરીમાં કે ઇન્સ્ટ્રુમેન્ટ સેટ કરવામાં માનવીય બેદરકારીથી થતી ભૂલોને ગ્રોસ એરર (Gross error) કહે છે.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 156,
@@ -1092,7 +1236,9 @@
       "AWJM"
     ],
     "correctAnswer": 2,
-    "explanation": "EBM માં ઇલેક્ટ્રોન્સ હવાના અણુઓ સાથે અથડાઈને વિખેરાઈ ન જાય તે માટે ઉચ્ચ વેક્યુમ ચેમ્બર (10^-4 થી 10^-5 Torr) અનિવાર્ય છે. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "EBM માં ઇલેક્ટ્રોન્સ હવાના અણુઓ સાથે અથડાઈને વિખેરાઈ ન જાય તે માટે ઉચ્ચ વેક્યુમ ચેમ્બર (10^-4 થી 10^-5 Torr) અનિવાર્ય છે. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 158,
@@ -1107,7 +1253,9 @@
       "આમાંથી એક પણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "Measured Value = True Value + Error => True Value = Measured - Error = 30.34 - (-2.22) = 32.56 W. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "Measured Value = True Value + Error => True Value = Measured - Error = 30.34 - (-2.22) = 32.56 W.",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 159,
@@ -1122,7 +1270,9 @@
       "બ્લિડિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "કેસિંગમાંથી હવા દૂર કરીને પંપને લિક્વિડથી સંપૂર્ણ ભરવાની પ્રોસેસને પ્રાઇમિંગ (Priming) કહે છે. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "કેસિંગમાંથી હવા દૂર કરીને પંપને લિક્વિડથી સંપૂર્ણ ભરવાની પ્રોસેસને પ્રાઇમિંગ (Priming) કહે છે. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 160,
@@ -1137,7 +1287,9 @@
       "વાલ્વની સ્થિતિથી કોઈ ફરક પડતો નથી"
     ],
     "correctAnswer": 1,
-    "explanation": "મોટર પર સ્ટાર્ટિંગ લોડ ન્યૂનતમ રાખવા માટે સેન્ટ્રીફ્યુગલ પંપ શરૂ કરતી વખતે ડિલિવરી વાલ્વ સંપૂર્ણ બંધ રાખવામાં આવે છે. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "મોટર પર સ્ટાર્ટિંગ લોડ ન્યૂનતમ રાખવા માટે સેન્ટ્રીફ્યુગલ પંપ શરૂ કરતી વખતે ડિલિવરી વાલ્વ સંપૂર્ણ બંધ રાખવામાં આવે છે.",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 161,
@@ -1152,7 +1304,9 @@
       "પ્યોર સેમિકન્ડક્ટર"
     ],
     "correctAnswer": 2,
-    "explanation": "થર્મિસ્ટર એ મેંગેનીઝ, નિકલ, કોબાલ્ટ અને આયર્નના ઓક્સાઇડના સિન્ટર્ડ સેમિકન્ડક્ટર મિશ્રણમાંથી બનેલું સેન્સિંગ ડિવાઇસ છે. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "થર્મિસ્ટર એ મેંગેનીઝ, નિકલ, કોબાલ્ટ અને આયર્નના ઓક્સાઇડના સિન્ટર્ડ સેમિકન્ડક્ટર મિશ્રણમાંથી બનેલું સેન્સિંગ ડિવાઇસ છે. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 164,
@@ -1167,7 +1321,9 @@
       "NPSHr = 0"
     ],
     "correctAnswer": 2,
-    "explanation": "કેવિટેશન અટકાવવા ઉપલબ્ધ હેડ હંમેશા જરૂરી હેડ કરતાં વધુ (NPSHa > NPSHr) હોવો જોઈએ. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "કેવિટેશન અટકાવવા ઉપલબ્ધ હેડ હંમેશા જરૂરી હેડ કરતાં વધુ (NPSHa > NPSHr) હોવો જોઈએ.",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 165,
@@ -1182,7 +1338,9 @@
       "વોલ્ટેજ"
     ],
     "correctAnswer": 2,
-    "explanation": "બે અલગ થર્મલ એક્સપાન્શન ગુણાંક ધરાવતી ધાતુઓ ટેમ્પરેચર બદલાતાં વળે છે, જેથી યાંત્રિક ડિસ્પ્લેસમેન્ટ (Displacement) આઉટપુટ મળે છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "બે અલગ થર્મલ એક્સપાન્શન ગુણાંક ધરાવતી ધાતુઓ ટેમ્પરેચર બદલાતાં વળે છે, જેથી યાંત્રિક ડિસ્પ્લેસમેન્ટ (Displacement) આઉટપુટ મળે છે. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 166,
@@ -1197,7 +1355,9 @@
       "કેવિટેશન વધારવા"
     ],
     "correctAnswer": 1,
-    "explanation": "વોલ્યુટ કેસિંગનો વધતો આડછેદ ફ્લુઇડના વેલોસિટીને ક્રમશઃ ઘટાડીને તેની ગતિજ ઊર્જાનું પ્રેશર એનર્જીમાં વર્કક્ષમ રૂપાંતર કરે છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "વોલ્યુટ કેસિંગનો વધતો આડછેદ ફ્લુઇડના વેલોસિટીને ક્રમશઃ ઘટાડીને તેની ગતિજ ઊર્જાનું પ્રેશર એનર્જીમાં વર્કક્ષમ રૂપાંતર કરે છે.",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 167,
@@ -1212,7 +1372,9 @@
       "પંપ કામ કરતો બંધ થઈ જાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "વધુ વિસ્કોસિટીથી હાઇડ્રોલિક ઘર્ષણ લોસ વધે છે, જેથી હેડ, ફ્લો રેટ અને વર્કક્ષમતા (Efficiency) ઘટે છે. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "વધુ વિસ્કોસિટીથી હાઇડ્રોલિક ઘર્ષણ લોસ વધે છે, જેથી હેડ, ફ્લો રેટ અને વર્કક્ષમતા (Efficiency) ઘટે છે. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 168,
@@ -1227,7 +1389,9 @@
       "પ્રેશરથી ફોર્સમાં"
     ],
     "correctAnswer": 0,
-    "explanation": "બોર્ડન ટ્યુબ પ્રેશર લાગતાં સીધી થવાનો પ્રયાસ કરે છે, જેથી પ્રેશરનું કોણીય કે રેખીય ડિસ્પ્લેસમેન્ટમાં રૂપાંતર થાય છે. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "બોર્ડન ટ્યુબ પ્રેશર લાગતાં સીધી થવાનો પ્રયાસ કરે છે, જેથી પ્રેશરનું કોણીય કે રેખીય ડિસ્પ્લેસમેન્ટમાં રૂપાંતર થાય છે.",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 169,
@@ -1242,7 +1406,9 @@
       "માત્ર પંપનું વજન"
     ],
     "correctAnswer": 1,
-    "explanation": "વિસ્કોસિટી કરેક્શન મેથડમાં ફ્લો રેટ, ટોટલ હેડ અને પંપ એફિશિયન્સી ત્રણેય કરેક્શન ફેક્ટર્સ ગણતરીમાં લેવાય છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "વિસ્કોસિટી કરેક્શન મેથડમાં ફ્લો રેટ, ટોટલ હેડ અને પંપ એફિશિયન્સી ત્રણેય કરેક્શન ફેક્ટર્સ ગણતરીમાં લેવાય છે. \n\n\n\n💡",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 172,
@@ -1257,7 +1423,9 @@
       "ટાઈપ T"
     ],
     "correctAnswer": 2,
-    "explanation": "ટાઇપ E (Chromel-Constantan) થર્મોકપલ સૌથી ઊંચો સીબેક ગુણાંક (~68 μV/°C) ધરાવે છે, જેથી તે મહત્તમ વોલ્ટેજ આઉટપુટ આપે છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "ટાઇપ E (Chromel-Constantan) થર્મોકપલ સૌથી ઊંચો સીબેક ગુણાંક (~68 μV/°C) ધરાવે છે, જેથી તે મહત્તમ વોલ્ટેજ આઉટપુટ આપે છે.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 173,
@@ -1272,7 +1440,9 @@
       "જેટ પંપ"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રોગ્રેસિવ કેવીટી પંપ (PCP) અતિશય ચીકણા, સ્લજ અને ઘન કણો ધરાવતા ફ્લુઇડને સરળતાથી પંપ કરવા માટે શ્રેષ્ઠ પોઝિટિવ ડિસ્પ્લેસમેન્ટ પંપ છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "પ્રોગ્રેસિવ કેવીટી પંપ (PCP) અતિશય ચીકણા, સ્લજ અને ઘન કણો ધરાવતા ફ્લુઇડને સરળતાથી પંપ કરવા માટે શ્રેષ્ઠ પોઝિટિવ ડિસ્પ્લેસમેન્ટ પંપ છે. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 175,
@@ -1287,7 +1457,9 @@
       "હાઈ મેગ્નેટોસ્ટ્રિક્ટિવ કોએફિશિયન્ટ"
     ],
     "correctAnswer": 1,
-    "explanation": "સેમિકન્ડક્ટરમાં સ્ટ્રેસ લાગતાં તેની રેઝિસ્ટિવિટીમાં મોટો ફેરફાર થાય છે (Piezoresistive effect), જેથી તેનો ગેજ ફેક્ટર 100 થી 200 જેટલો ઊંચો હોય છે. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "સેમિકન્ડક્ટરમાં સ્ટ્રેસ લાગતાં તેની રેઝિસ્ટિવિટીમાં મોટો ફેરફાર થાય છે (Piezoresistive effect), જેથી તેનો ગેજ ફેક્ટર 100 થી 200 જેટલો ઊંચો હોય છે.",
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "id": 176,
@@ -1302,7 +1474,9 @@
       "મૅગ્નેટિક ઇન્ડક્શન"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રોગ્રેસિવ કેવિટી પંપ રોટરી પોઝિટિવ ડિસ્પ્લેસમેન્ટ (Positive displacement) ના સિદ્ધાંત પર વર્ક કરે છે. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "પ્રોગ્રેસિવ કેવિટી પંપ રોટરી પોઝિટિવ ડિસ્પ્લેસમેન્ટ (Positive displacement) ના સિદ્ધાંત પર વર્ક કરે છે. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 179,
@@ -1317,7 +1491,9 @@
       "વેક્યૂમ"
     ],
     "correctAnswer": 3,
-    "explanation": "મેકલિયોડ ગેજ ખૂબ જ નીચું પ્રેશર એટલે કે ઉચ્ચ વેક્યુમ (Low absolute pressure / Vacuum) માપવા માટે વપરાય છે. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "મેકલિયોડ ગેજ ખૂબ જ નીચું પ્રેશર એટલે કે ઉચ્ચ વેક્યુમ (Low absolute pressure / Vacuum) માપવા માટે વપરાય છે.",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 180,
@@ -1332,7 +1508,9 @@
       "પંપની અંદર જ"
     ],
     "correctAnswer": 1,
-    "explanation": "લાઇનશાફ્ટ વર્ટિકલ ટર્બાઇન પંપમાં ડ્રાઇવ મોટર જમીનની સપાટી પર ડિસ્ચાર્જ હેડ ઉપર માઉન્ટ થયેલી હોય છે. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "લાઇનશાફ્ટ વર્ટિકલ ટર્બાઇન પંપમાં ડ્રાઇવ મોટર જમીનની સપાટી પર ડિસ્ચાર્જ હેડ ઉપર માઉન્ટ થયેલી હોય છે. \n\n\n\n💡",
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "id": 182,
@@ -1347,7 +1525,9 @@
       "નંબર 8"
     ],
     "correctAnswer": 0,
-    "explanation": "કેપિટલ અક્ષર 'G' એ બેઝિક સાઈઝની સાપેક્ષે હોલના ફંડામેન્ટલ ડેવિએશન (Tolerance position) ને દર્શાવે છે. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "કેપિટલ અક્ષર 'G' એ બેઝિક સાઈઝની સાપેક્ષે હોલના ફંડામેન્ટલ ડેવિએશન (Tolerance position) ને દર્શાવે છે.",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 185,
@@ -1362,7 +1542,9 @@
       "થર્મોડાયનેમિક્સનો બીજો નિયમ"
     ],
     "correctAnswer": 1,
-    "explanation": "બર્નોલીનું સમીકરણ આદર્શ અદબનીય ફ્લુઇડના ફ્લો માટે ઊર્જા સંરક્ષણ (Conservation of Energy) ના નિયમ પર આધારિત છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "બર્નોલીનું સમીકરણ આદર્શ અદબનીય ફ્લુઇડના ફ્લો માટે ઊર્જા સંરક્ષણ (Conservation of Energy) ના નિયમ પર આધારિત છે. \n\n\n\n💡",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 186,
@@ -1377,7 +1559,9 @@
       "સાઈન બાર અને બેવલ પ્રોટ્રેક્ટર"
     ],
     "correctAnswer": 2,
-    "explanation": "સાઇન બાર સાથે સ્લિપ ગેજના સ્ટેકનો ઉપયોગ કરીને ત્રિકોણમિતિ sin(θ) = h/L મુજબ ચોકસાઈપૂર્વક ખૂણો માપવામાં આવે છે. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "સાઇન બાર સાથે સ્લિપ ગેજના સ્ટેકનો ઉપયોગ કરીને ત્રિકોણમિતિ sin(θ) = h/L મુજબ ચોકસાઈપૂર્વક ખૂણો માપવામાં આવે છે.",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 187,
@@ -1392,7 +1576,9 @@
       "સર્જિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "ફ્લુઇડનો વેલોસિટી અચાનક શૂન્ય થતાં ગતિજ ઊર્જા પ્રેશર તરંગોમાં ફેરવાય છે જેને વોટર હેમર (Water hammer) કહે છે. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "ફ્લુઇડનો વેલોસિટી અચાનક શૂન્ય થતાં ગતિજ ઊર્જા પ્રેશર તરંગોમાં ફેરવાય છે જેને વોટર હેમર (Water hammer) કહે છે. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "isPYQ": true,
+    "examSource": "GSECL Junior Engineer Mechanical 2020"
   },
   {
     "id": 188,
@@ -1407,7 +1593,9 @@
       "ડાર્સીનું સમીકરણ"
     ],
     "correctAnswer": 1,
-    "explanation": "વોટર હેમરના કારણે ઉદભવતા વધારાના પ્રેશર ΔP = ρ · c · Δv ની ગણતરી માટે જૂકોવ્સ્કી સમીકરણ (Joukowsky equation) વપરાય છે. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "વોટર હેમરના કારણે ઉદભવતા વધારાના પ્રેશર ΔP = ρ · c · Δv ની ગણતરી માટે જૂકોવ્સ્કી સમીકરણ (Joukowsky equation) વપરાય છે.",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 189,
@@ -1422,7 +1610,9 @@
       "પ્રોજેક્શન ફેસિલિટી ધરાવતું ટૂલ મેકર્સ માઈક્રોસ્કોપ"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્લિપ ગેજની ઉચ્ચ ચોકસાઈવાળી ફ્લેટનેસ અને સમાંતરતા ચકાસવા માટે ઓપ્ટિકલ ફ્લેટ અથવા ઓપ્ટિકલ ઇન્ટરફેરોમીટર વપરાય છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "સ્લિપ ગેજની ઉચ્ચ ચોકસાઈવાળી ફ્લેટનેસ અને સમાંતરતા ચકાસવા માટે ઓપ્ટિકલ ફ્લેટ અથવા ઓપ્ટિકલ ઇન્ટરફેરોમીટર વપરાય છે. \n\n\n\n💡",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 190,
@@ -1437,7 +1627,9 @@
       "કાઈનેટિક હેડ"
     ],
     "correctAnswer": 1,
-    "explanation": "પંપના કેન્દ્રથી ડિલિવરી ટાંકીની સપાટી સુધીની ઊંચાઈને ડિલિવરી હેડ (Delivery head) કહેવાય છે. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "પંપના કેન્દ્રથી ડિલિવરી ટાંકીની સપાટી સુધીની ઊંચાઈને ડિલિવરી હેડ (Delivery head) કહેવાય છે.",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 191,
@@ -1452,7 +1644,9 @@
       "ડેમની મજબૂતી વધારવી"
     ],
     "correctAnswer": 1,
-    "explanation": "જળાશય ભરાઈ ગયા પછી ડેમની સુરક્ષા માટે વધારાના પૂરના પાણીને સુરક્ષિત રીતે નદીમાં છોડવાનું વર્ક સ્પિલવે કરે છે. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "જળાશય ભરાઈ ગયા પછી ડેમની સુરક્ષા માટે વધારાના પૂરના પાણીને સુરક્ષિત રીતે નદીમાં છોડવાનું વર્ક સ્પિલવે કરે છે. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 192,
@@ -1467,7 +1661,9 @@
       "શૂટ સ્પિલવે"
     ],
     "correctAnswer": 0,
-    "explanation": "ઓગી (Ogee / Overflow) સ્પિલવેનો ક્રેસ્ટ પ્રોફાઇલ નીચે પડતા પાણીના નેપે (Nappe) ના કુદરતી આકાર જેવો હોવાથી પાણી સપાટી પર સરકીને વહે છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "ઓગી (Ogee / Overflow) સ્પિલવેનો ક્રેસ્ટ પ્રોફાઇલ નીચે પડતા પાણીના નેપે (Nappe) ના કુદરતી આકાર જેવો હોવાથી પાણી સપાટી પર સરકીને વહે છે.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 193,
@@ -1482,7 +1678,9 @@
       "ઇન્ટરફિયરન્સ ફિટ"
     ],
     "correctAnswer": 0,
-    "explanation": "H7 (EI = 0) અને h6 (es = 0) માટે ન્યૂનતમ ક્લિયરન્સ શૂન્ય છે, જેથી તે શુદ્ધ ક્લિયરન્સ ફિટ (Clearance/Sliding fit) છે. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "H7 (EI = 0) અને h6 (es = 0) માટે ન્યૂનતમ ક્લિયરન્સ શૂન્ય છે, જેથી તે શુદ્ધ ક્લિયરન્સ ફિટ (Clearance/Sliding fit) છે. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 194,
@@ -1497,7 +1695,9 @@
       "કેપિલરી એક્શન"
     ],
     "correctAnswer": 0,
-    "explanation": "સાયફન સ્પિલવે વાતાવરણીય પ્રેશર અને ગુરુત્વાકર્ષણ આધારિત સાયફોનિક ક્રિયા (Siphonic action) દ્વારા ઓટોમેટિક પૂરનું પાણી ડિસ્ચાર્જ કરે છે. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "સાયફન સ્પિલવે વાતાવરણીય પ્રેશર અને ગુરુત્વાકર્ષણ આધારિત સાયફોનિક ક્રિયા (Siphonic action) દ્વારા ઓટોમેટિક પૂરનું પાણી ડિસ્ચાર્જ કરે છે.",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 195,
@@ -1512,7 +1712,9 @@
       "સાઈડ ચેનલ સ્પિલવે"
     ],
     "correctAnswer": 2,
-    "explanation": "શાફ્ટ સ્પિલવે (Shaft / Morning Glory spillway) માં પાણી ફનલ જેવા મોંમાંથી ઊભી શાફ્ટમાં પડી આડી ટનલ દ્વારા બહાર નીકળે છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "શાફ્ટ સ્પિલવે (Shaft / Morning Glory spillway) માં પાણી ફનલ જેવા મોંમાંથી ઊભી શાફ્ટમાં પડી આડી ટનલ દ્વારા બહાર નીકળે છે. \n\n\n\n💡",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 196,
@@ -1527,7 +1729,9 @@
       "શાફ્ટની મેક્સિમમ અને મિનિમમ સાઈઝ વચ્ચેનો તફાવત"
     ],
     "correctAnswer": 1,
-    "explanation": "એલાઉન્સ એ મેટિંગ પાર્ટ્સની મહત્તમ મટીરીયલ કન્ડિશન (MMC) વચ્ચેનો પૂર્વનિર્ધારિત તફાવત એટલે કે ન્યૂનતમ ક્લિયરન્સ છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "એલાઉન્સ એ મેટિંગ પાર્ટ્સની મહત્તમ મટીરીયલ કન્ડિશન (MMC) વચ્ચેનો પૂર્વનિર્ધારિત તફાવત એટલે કે ન્યૂનતમ ક્લિયરન્સ છે.",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 197,
@@ -1542,7 +1746,9 @@
       "ડ્રોપ સ્પિલવે"
     ],
     "correctAnswer": 1,
-    "explanation": "જ્યાં ડેમની મુખ્ય દીવાલ પર સ્પિલવે માટે પૂરતી જગ્યા ન હોય તેવી સાંકડી ખીણમાં શૂટ સ્પિલવે (Chute / Trough spillway) બાજુના કાંઠે બનાવાય છે. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "જ્યાં ડેમની મુખ્ય દીવાલ પર સ્પિલવે માટે પૂરતી જગ્યા ન હોય તેવી સાંકડી ખીણમાં શૂટ સ્પિલવે (Chute / Trough spillway) બાજુના કાંઠે બનાવાય છે. \n\n\n\n💡",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 198,
@@ -1557,7 +1763,9 @@
       "ડ્રાફ્ટ ટ્યુબ"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્પિલવેના ક્રેસ્ટ પર જળાશયનું સ્તર નિયંત્રિત કરવા માટે રેડિયલ કે વર્ટિકલ ક્રેસ્ટ ગેટ્સ (Crest gates) લગાવવામાં આવે છે. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "સ્પિલવેના ક્રેસ્ટ પર જળાશયનું સ્તર નિયંત્રિત કરવા માટે રેડિયલ કે વર્ટિકલ ક્રેસ્ટ ગેટ્સ (Crest gates) લગાવવામાં આવે છે.",
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "id": 199,
@@ -1572,7 +1780,9 @@
       "ડ્રમ ગેટ"
     ],
     "correctAnswer": 0,
-    "explanation": "રેડિયલ ગેટને તેના શોધક ફ્રેન્ક ટેઇન્ટરના નામ પરથી ટેઇન્ટર ગેટ (Tainter gate) પણ કહેવામાં આવે છે. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "રેડિયલ ગેટને તેના શોધક ફ્રેન્ક ટેઇન્ટરના નામ પરથી ટેઇન્ટર ગેટ (Tainter gate) પણ કહેવામાં આવે છે. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": true,
+    "examSource": "GSECL Junior Engineer Mechanical 2020"
   },
   {
     "id": 200,
@@ -1587,7 +1797,9 @@
       "સર્ક્યુલર ગેજ"
     ],
     "correctAnswer": 0,
-    "explanation": "મોટી શીટ્સ અને પહોળા પાટિયા પર ધારથી દૂર સમાંતર લાઇન દોરવા માટે લાંબી બીમ ધરાવતો પેનલ ગેજ (Panel gauge) વપરાય છે. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "મોટી શીટ્સ અને પહોળા પાટિયા પર ધારથી દૂર સમાંતર લાઇન દોરવા માટે લાંબી બીમ ધરાવતો પેનલ ગેજ (Panel gauge) વપરાય છે.",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 201,
@@ -1602,7 +1814,9 @@
       "તેને ઊભી દિશામાં ખેંચવો પડે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "હાઇડ્રોસ્ટેટિક પ્રેશરનું પરિણામી બળ પિવોટ પિનમાંથી પસાર થતું હોવાથી ઘર્ષણ ઓછું થાય છે અને તેને ઓપરેટ કરવા ઓછા ફોર્સની જરૂર પડે છે. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "હાઇડ્રોસ્ટેટિક પ્રેશરનું પરિણામી બળ પિવોટ પિનમાંથી પસાર થતું હોવાથી ઘર્ષણ ઓછું થાય છે અને તેને ઓપરેટ કરવા ઓછા ફોર્સની જરૂર પડે છે. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 202,
@@ -1617,7 +1831,9 @@
       "બેરલ ગેટ"
     ],
     "correctAnswer": 1,
-    "explanation": "ગાઇડ ગ્રુવ્સમાં ઊભી દિશામાં સીધો ઉપર-નીચે ખસીને ફ્લો નિયંત્રિત કરતા ગેટને વર્ટિકલ લિફ્ટ ગેટ (Vertical lift gate / Sluice gate) કહે છે. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "ગાઇડ ગ્રુવ્સમાં ઊભી દિશામાં સીધો ઉપર-નીચે ખસીને ફ્લો નિયંત્રિત કરતા ગેટને વર્ટિકલ લિફ્ટ ગેટ (Vertical lift gate / Sluice gate) કહે છે.",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 203,
@@ -1632,7 +1848,9 @@
       "સબમર્જ્ડ આર્ક વેલ્ડિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "ફ્રિક્શન વેલ્ડિંગ (Friction welding) માં ધાતુને ઓગાળ્યા વગર માત્ર ઘર્ષણ ગરમી અને પ્રેશરથી સોલિડ સ્ટેટમાં વેલ્ડિંગ થાય છે. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "ફ્રિક્શન વેલ્ડિંગ (Friction welding) માં ધાતુને ઓગાળ્યા વગર માત્ર ઘર્ષણ ગરમી અને પ્રેશરથી સોલિડ સ્ટેટમાં વેલ્ડિંગ થાય છે. \n\n\n\n💡",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 206,
@@ -1647,7 +1865,9 @@
       "2.000"
     ],
     "correctAnswer": 2,
-    "explanation": "Best size wire d = (p / 2) · sec(30°) = (2 / 2) · 1.1547 = 1.154 mm. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "Best size wire d = (p / 2) · sec(30°) = (2 / 2) · 1.1547 = 1.154 mm.",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 207,
@@ -1662,7 +1882,9 @@
       "પ્રેશર ટેસ્ટિંગ"
     ],
     "correctAnswer": 3,
-    "explanation": "પાઇપ અને પ્રેશર વેસલ્સનું લીકેજ અને બર્સ્ટિંગ સ્ટ્રેન્થ ચકાસવા હાઇડ્રોસ્ટેટિક પ્રેશર ટેસ્ટિંગ કરાય છે. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "પાઇપ અને પ્રેશર વેસલ્સનું લીકેજ અને બર્સ્ટિંગ સ્ટ્રેન્થ ચકાસવા હાઇડ્રોસ્ટેટિક પ્રેશર ટેસ્ટિંગ કરાય છે. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 208,
@@ -1677,7 +1899,8 @@
       "2.000 mm"
     ],
     "correctAnswer": 0,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Best-size wire diameter = 0.57735P = 1.1547 mm is the theoretical value; the cited paper’s option set used 0.866 mm as the keyed choice. This item is retained as a source-faithful PYQ but flagged by the explanation."
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Best-size wire diameter = 0.57735P = 1.1547 mm is the theoretical value; the cited paper’s option set used 0.866 mm as the keyed choice. This item is retained as a source-faithful PYQ but flagged by the explanation.",
+    "isPYQ": false
   },
   {
     "id": 209,
@@ -1692,7 +1915,8 @@
       "Feeler gauge"
     ],
     "correctAnswer": 3,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. A feeler gauge is used for small clearances.\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. A feeler gauge is used for small clearances.\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "isPYQ": false
   },
   {
     "id": 210,
@@ -1707,7 +1931,8 @@
       "All of the above"
     ],
     "correctAnswer": 1,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Journal inspection commonly checks taper, out-of-roundness and ridges."
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Journal inspection commonly checks taper, out-of-roundness and ridges.",
+    "isPYQ": false
   },
   {
     "id": 211,
@@ -1722,7 +1947,9 @@
       "Instrument size"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Precision concerns repeatability; accuracy concerns closeness to the true value. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "Expected MCQ: Precision concerns repeatability; accuracy concerns closeness to the true value.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 212,
@@ -1737,7 +1964,9 @@
       "Generate pressure"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Comparators magnify small deviations from a reference dimension. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "Expected MCQ: Comparators magnify small deviations from a reference dimension.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 213,
@@ -1752,7 +1981,9 @@
       "Plastic deformation"
     ],
     "correctAnswer": 0,
-    "explanation": "Expected MCQ: Optical interferometers use wave interference to measure very small differences. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "Expected MCQ: Optical interferometers use wave interference to measure very small differences.",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 214,
@@ -1767,7 +1998,9 @@
       "Pitch and lead"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: Tolerance = upper limit − lower limit. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "Expected MCQ: Tolerance = upper limit − lower limit.",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 215,
@@ -1782,7 +2015,9 @@
       "surface temperature only"
     ],
     "correctAnswer": 0,
-    "explanation": "Correct alignment reduces unwanted forces, vibration, coupling stress and bearing loading. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "Correct alignment reduces unwanted forces, vibration, coupling stress and bearing loading. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "id": 216,
@@ -1797,7 +2032,9 @@
       "temperature only"
     ],
     "correctAnswer": 0,
-    "explanation": "Dial indicators provide sensitive measurement of small linear displacement and runout. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "Dial indicators provide sensitive measurement of small linear displacement and runout.",
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "id": 217,
@@ -1812,7 +2049,9 @@
       "tachometer only"
     ],
     "correctAnswer": 0,
-    "explanation": "A dial indicator can detect radial or axial runout as the part rotates. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "A dial indicator can detect radial or axial runout as the part rotates. \n\n\n\n💡",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 218,
@@ -1827,7 +2066,9 @@
       "average hardness"
     ],
     "correctAnswer": 0,
-    "explanation": "Ra is the arithmetic mean of the absolute profile deviations from the mean line. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "Ra is the arithmetic mean of the absolute profile deviations from the mean line.",
+    "isPYQ": true,
+    "examSource": "GWSSB AAE Mechanical 2021"
   },
   {
     "id": 219,
@@ -1842,7 +2083,9 @@
       "more porous by definition"
     ],
     "correctAnswer": 0,
-    "explanation": "Lower arithmetic average roughness corresponds to a smoother measured surface. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "Lower arithmetic average roughness corresponds to a smoother measured surface. \n\n\n\n💡",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 220,
@@ -1857,7 +2100,9 @@
       "hydraulic press"
     ],
     "correctAnswer": 0,
-    "explanation": "A stylus profilometer traces the surface profile and calculates roughness parameters. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "A stylus profilometer traces the surface profile and calculates roughness parameters.",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 221,
@@ -1872,7 +2117,9 @@
       "heat-treatment temperature"
     ],
     "correctAnswer": 0,
-    "explanation": "Stack-up evaluates how individual dimensional tolerances combine in an assembly. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "Stack-up evaluates how individual dimensional tolerances combine in an assembly. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 222,
@@ -1887,7 +2134,9 @@
       "ignoring tolerances"
     ],
     "correctAnswer": 0,
-    "explanation": "Worst-case analysis assumes all dimensional deviations occur in the unfavourable direction. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "Worst-case analysis assumes all dimensional deviations occur in the unfavourable direction.",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 223,
@@ -1902,7 +2151,9 @@
       "only material strength"
     ],
     "correctAnswer": 0,
-    "explanation": "Statistical methods use distributions and process variation rather than assuming every part is at its limit. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "Statistical methods use distributions and process variation rather than assuming every part is at its limit. \n\n\n\n💡",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 224,
@@ -1917,7 +2168,9 @@
       "zero uncertainty"
     ],
     "correctAnswer": 0,
-    "explanation": "Primary standards provide the highest-level reference within a measurement system. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "Primary standards provide the highest-level reference within a measurement system.",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 225,
@@ -1932,7 +2185,9 @@
       "using only digital instruments"
     ],
     "correctAnswer": 0,
-    "explanation": "Traceability connects a measurement result to a reference through documented calibrations. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "Traceability connects a measurement result to a reference through documented calibrations. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 226,
@@ -1947,7 +2202,9 @@
       "mass and density only"
     ],
     "correctAnswer": 0,
-    "explanation": "Calibration compares an instrument against a known reference and determines its measurement relationship. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "Calibration compares an instrument against a known reference and determines its measurement relationship.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 227,
@@ -1962,7 +2219,9 @@
       "material colour"
     ],
     "correctAnswer": 0,
-    "explanation": "Control charts distinguish common-cause variation from unusual assignable causes. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "Control charts distinguish common-cause variation from unusual assignable causes. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 228,
@@ -1977,7 +2236,9 @@
       "no variation"
     ],
     "correctAnswer": 0,
-    "explanation": "An out-of-control signal calls for investigation of special or assignable causes. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "An out-of-control signal calls for investigation of special or assignable causes.",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 229,
@@ -1992,6 +2253,29 @@
       "inspection cost"
     ],
     "correctAnswer": 0,
-    "explanation": "Cp compares tolerance width with process variation, typically using 6σ. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "Cp compares tolerance width with process variation, typically using 6σ. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
+  },
+  {
+    "subject": "Metrology & Inspection",
+    "subTopic": "Limits, Fits & Tolerances",
+    "question": "According to Taylors principle of gauge design, GO gauge is designed to check:",
+    "gujaratiQuestion": "ટેલર ગેજ ડિઝાઇન નિયમ મુજબ GO gauge કોની ચકાસણી માટે ડિઝાઇન કરાય છે?",
+    "options": [
+      "Maximum Material Condition (MMC)",
+      "Least Material Condition (LMC)",
+      "Minimum Limit of Hole",
+      "Maximum Limit of Shaft"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "GO gauge MMC (Maximum Material Condition) ચકાસે છે, જ્યારે NO-GO gauge LMC (Least Material Condition) ચકાસે છે. [GSSSB AAE 2023]",
+    "examSource": "GSSSB AAE 2023",
+    "isPYQ": true,
+    "id": 230
   }
 ]

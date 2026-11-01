@@ -16,7 +16,9 @@
       2
     ],
     "isMSQ": false,
-    "explanation": "Digits of 126 sum to 9, divisible by 3. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "Digits of 126 sum to 9, divisible by 3. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 23,
@@ -35,7 +37,9 @@
       2
     ],
     "isMSQ": false,
-    "explanation": "2 is the smallest prime number. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "2 is the smallest prime number.",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 24,
@@ -54,7 +58,9 @@
       2
     ],
     "isMSQ": false,
-    "explanation": "LCM = 24. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "LCM = 24. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 25,
@@ -73,7 +79,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "The question is aligned with the notified syllabus topic: Simplification and Algebra. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "The question is aligned with the notified syllabus topic: Simplification and Algebra.",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 26,
@@ -92,7 +100,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "Use the rule and conditions stated in the question. \n\n\n\n💡",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 27,
@@ -111,7 +121,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "First identify the requirement and relevant information.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 28,
@@ -130,7 +142,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "The question is aligned with the notified syllabus topic: Arithmetic and Geometric Progression. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "The question is aligned with the notified syllabus topic: Arithmetic and Geometric Progression. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 29,
@@ -149,7 +163,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "Use the rule and conditions stated in the question.",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 30,
@@ -168,7 +184,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "First identify the requirement and relevant information. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 31,
@@ -187,7 +205,9 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "(10+20+30)/3 = 20. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "(10+20+30)/3 = 20.",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 32,
@@ -206,7 +226,9 @@
       2
     ],
     "isMSQ": false,
-    "explanation": "Sum = average × count = 18 × 5 = 90. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "Sum = average × count = 18 × 5 = 90. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 33,
@@ -225,7 +247,9 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "Total 100; remaining 90; 90/3 = 30. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "Total 100; remaining 90; 90/3 = 30.",
+    "isPYQ": true,
+    "examSource": "GSECL Junior Engineer Mechanical 2020"
   },
   {
     "id": 34,
@@ -244,7 +268,9 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "250-200 = 50; 50/200 × 100 = 25%. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "250-200 = 50; 50/200 × 100 = 25%. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 35,
@@ -263,7 +289,9 @@
       2
     ],
     "isMSQ": false,
-    "explanation": "60/0.20 = 300. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "60/0.20 = 300.",
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "id": 36,
@@ -282,7 +310,9 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "500 × 0.90 = 450. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "500 × 0.90 = 450. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 37,
@@ -301,7 +331,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "The question is aligned with the notified syllabus topic: Profit-Loss. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "The question is aligned with the notified syllabus topic: Profit-Loss.",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 38,
@@ -320,7 +352,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "Use the rule and conditions stated in the question. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 39,
@@ -339,7 +373,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "First identify the requirement and relevant information.",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 40,
@@ -358,7 +394,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Make B common: 2:3 = 8:12 and 4:5 = 12:15, so A:C = 8:15. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "Make B common: 2:3 = 8:12 and 4:5 = 12:15, so A:C = 8:15. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": true,
+    "examSource": "GSECL Junior Engineer Mechanical 2020"
   },
   {
     "id": 41,
@@ -377,7 +415,9 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "360×2/5 = 144. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "360×2/5 = 144.",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 42,
@@ -396,7 +436,9 @@
       2
     ],
     "isMSQ": false,
-    "explanation": "x+y = 12 parts, so 12:7. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "x+y = 12 parts, so 12:7. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 43,
@@ -415,7 +457,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "The question is aligned with the notified syllabus topic: Partnership. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "The question is aligned with the notified syllabus topic: Partnership.",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 44,
@@ -434,7 +478,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "Use the rule and conditions stated in the question. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 45,
@@ -453,7 +499,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "First identify the requirement and relevant information.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 46,
@@ -472,7 +520,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "The question is aligned with the notified syllabus topic: Time and Work. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "The question is aligned with the notified syllabus topic: Time and Work. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 47,
@@ -491,7 +541,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "Use the rule and conditions stated in the question.",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 48,
@@ -510,7 +562,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "First identify the requirement and relevant information. \n\n\n\n💡",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 49,
@@ -529,7 +583,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "The question is aligned with the notified syllabus topic: Time, Speed and Distance. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "The question is aligned with the notified syllabus topic: Time, Speed and Distance.",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 50,
@@ -548,7 +604,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "Use the rule and conditions stated in the question. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 51,
@@ -567,7 +625,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "First identify the requirement and relevant information.",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 52,
@@ -586,7 +646,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "The question is aligned with the notified syllabus topic: Work, Wages and Chain Rule. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "The question is aligned with the notified syllabus topic: Work, Wages and Chain Rule. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 53,
@@ -605,7 +667,9 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Use the rule and conditions stated in the question. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "Use the rule and conditions stated in the question.",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 54,
@@ -624,6 +688,8 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "First identify the requirement and relevant information. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "First identify the requirement and relevant information. \n\n\n\n💡",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   }
 ]

@@ -145,6 +145,46 @@ class ReviewScreen extends StatelessWidget {
                     ],
                   ),
                   const SizedBox(height: 8),
+
+                  if (question.isPYQ && question.examSource != null && question.examSource!.isNotEmpty)
+                    Container(
+                      margin: const EdgeInsets.only(bottom: 8),
+                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+                      decoration: BoxDecoration(
+                        color: Theme.of(context).brightness == Brightness.dark
+                            ? Colors.amber.shade900.withValues(alpha: 0.4)
+                            : Colors.amber.shade100,
+                        borderRadius: BorderRadius.circular(8),
+                        border: Border.all(
+                          color: Theme.of(context).brightness == Brightness.dark
+                              ? Colors.amberAccent
+                              : Colors.amber.shade400,
+                        ),
+                      ),
+                      child: Wrap(
+                        crossAxisAlignment: WrapCrossAlignment.center,
+                        spacing: 6,
+                        children: [
+                          Icon(
+                            Icons.verified,
+                            size: 15,
+                            color: Theme.of(context).brightness == Brightness.dark
+                                ? Colors.amberAccent
+                                : Colors.amber.shade900,
+                          ),
+                          Text(
+                            '🏛️ ${question.examSource}',
+                            style: TextStyle(
+                              fontSize: 12,
+                              fontWeight: FontWeight.bold,
+                              color: Theme.of(context).brightness == Brightness.dark
+                                  ? Colors.amberAccent
+                                  : Colors.amber.shade900,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
                   
                   if (question.gujaratiQuestion.isNotEmpty) ...[
                     Text(

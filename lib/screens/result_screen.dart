@@ -112,35 +112,38 @@ class _ResultScreenState extends State<ResultScreen> {
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceAround,
                     children: [
-                      _buildScoreItem('સ્કોર', '${widget.result.score.toStringAsFixed(0)}/${widget.result.totalQuestions}', Colors.blue),
-                      _buildScoreItem('ટકા', '${widget.result.percentage.toStringAsFixed(0)}%', Colors.indigo),
+                      _buildScoreItem('મેળવેલ ગુણ (Marks)', '${(widget.result.score < 0 ? 0.0 : widget.result.score).toStringAsFixed(2)}/${widget.result.totalQuestions}', Colors.blue),
+                      _buildScoreItem('ટકા', '${widget.result.percentage < 0 ? 0 : widget.result.percentage.toStringAsFixed(0)}%', Colors.indigo),
                       _buildScoreItem('રેન્ક/ગ્રેડ', grade, Colors.amber.shade900),
                     ],
                   ),
                 ),
               ),
               
-              const SizedBox(height: 20),
+              const SizedBox(height: 16),
+              _buildNegativeMarkingCalculationCard(),
+              
+              const SizedBox(height: 16),
               
               // Stats Row
               Row(
                 children: [
                   _StatBox(
-                    label: 'સાચા',
+                    label: 'સાચા (+1.00)',
                     value: '${widget.result.correct}',
                     color: Colors.green,
                     icon: Icons.check_circle_outline,
                   ),
                   const SizedBox(width: 10),
                   _StatBox(
-                    label: 'ખોટા',
+                    label: 'ખોટા (-0.25)',
                     value: '${widget.result.wrong}',
                     color: Colors.red,
                     icon: Icons.highlight_off,
                   ),
                   const SizedBox(width: 10),
                   _StatBox(
-                    label: 'અનઆન્સ્ડ',
+                    label: 'અનઆન્સ્ડ (0.00)',
                     value: '${widget.result.skipped}',
                     color: Colors.orange,
                     icon: Icons.info_outline,
@@ -233,6 +236,105 @@ class _ResultScreenState extends State<ResultScreen> {
           style: const TextStyle(fontSize: 12, color: Colors.grey),
         ),
       ],
+    );
+  }
+
+  Widget _buildNegativeMarkingCalculationCard() {
+    final double positiveMarks = widget.result.correct * 1.0;
+    final double negativeDeduction = widget.result.wrong * 0.25;
+    final double netMarks = positiveMarks - negativeDeduction;
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+
+    return Card(
+      color: isDark ? const Color(0xFF0F172A) : Colors.amber.shade50.withValues(alpha: 0.5),
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(16),
+        side: BorderSide(color: isDark ? Colors.amberAccent.withValues(alpha: 0.5) : Colors.amber.shade300),
+      ),
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                const Icon(Icons.calculate_outlined, color: Colors.amber, size: 22),
+                const SizedBox(width: 8),
+                Expanded(
+                  child: Text(
+                    '📊 ગુણ મેળવવાની ગણતરી (Negative Marking Breakdown)',
+                    style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      fontSize: 14,
+                      color: isDark ? Colors.amberAccent : Colors.amber.shade900,
+                    ),
+                  ),
+                ),
+              ],
+            ),
+            const Divider(height: 16),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                const Text('✅ સાચા પ્રશ્નો (+1.00 માર્ક/પ્રશ્ન):', style: TextStyle(fontSize: 13, fontWeight: FontWeight.w500)),
+                Text(
+                  '+${positiveMarks.toStringAsFixed(2)}',
+                  style: const TextStyle(fontSize: 13, fontWeight: FontWeight.bold, color: Colors.green),
+                ),
+              ],
+            ),
+            const SizedBox(height: 6),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                const Text('❌ ખોટા પ્રશ્નો (-0.25 નેગેટિવ કપાત):', style: TextStyle(fontSize: 13, fontWeight: FontWeight.w500)),
+                Text(
+                  '-${negativeDeduction.toStringAsFixed(2)}',
+                  style: const TextStyle(fontSize: 13, fontWeight: FontWeight.bold, color: Colors.red),
+                ),
+              ],
+            ),
+            const SizedBox(height: 6),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                const Text('⚪ અણઉકેલાયેલ પ્રશ્નો (Skipped):', style: TextStyle(fontSize: 13, fontWeight: FontWeight.w500)),
+                const Text(
+                  '0.00',
+                  style: TextStyle(fontSize: 13, fontWeight: FontWeight.bold, color: Colors.grey),
+                ),
+              ],
+            ),
+            const Divider(height: 16),
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+              decoration: BoxDecoration(
+                color: isDark ? Colors.blue.shade900.withValues(alpha: 0.4) : Colors.blue.shade50,
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(color: isDark ? Colors.blueAccent : Colors.blue.shade300),
+              ),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  const Text(
+                    '🎯 ફાઇનલ મેળવેલ ચોખ્ખા ગુણ (Net Marks):',
+                    style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13.5),
+                  ),
+                  Text(
+                    '${(netMarks < 0 ? 0.0 : netMarks).toStringAsFixed(2)} / ${widget.result.totalQuestions}',
+                    style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 15, color: Color(0xFF2563EB)),
+                  ),
+                ],
+              ),
+            ),
+            const SizedBox(height: 8),
+            const Text(
+              '* GSSSB માનક નેગેટિવ માર્કિંગ પદ્ધતિ: સાચા જવાબ માટે +1.00 અને દરેક ખોટા જવાબ માટે 0.25 માર્ક્સ કપાત થાય છે.',
+              style: TextStyle(fontSize: 11, color: Colors.grey, fontStyle: FontStyle.italic),
+            ),
+          ],
+        ),
+      ),
     );
   }
 

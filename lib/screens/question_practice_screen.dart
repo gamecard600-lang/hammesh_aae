@@ -552,7 +552,7 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    if (question.isPYQ)
+                    if (question.isPYQ && question.examSource != null && question.examSource!.isNotEmpty)
                       Container(
                         margin: const EdgeInsets.only(bottom: 12),
                         padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
@@ -561,13 +561,13 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
                           borderRadius: BorderRadius.circular(8),
                           border: Border.all(color: Colors.amber.shade400),
                         ),
-                        child: Row(
-                          mainAxisSize: MainAxisSize.min,
+                        child: Wrap(
+                          crossAxisAlignment: WrapCrossAlignment.center,
+                          spacing: 6,
                           children: [
                             Icon(Icons.verified, size: 15, color: Colors.amber.shade900),
-                            const SizedBox(width: 6),
                             Text(
-                              'GSSSB AAE Genuine PYQ (અગાઉની પરીક્ષાનો પ્રશ્ન)',
+                              '🏛️ ${question.examSource}',
                               style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.amber.shade900),
                             ),
                           ],
@@ -582,11 +582,11 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
                           borderRadius: BorderRadius.circular(8),
                           border: Border.all(color: Colors.deepOrange.shade300),
                         ),
-                        child: Row(
-                          mainAxisSize: MainAxisSize.min,
+                        child: Wrap(
+                          crossAxisAlignment: WrapCrossAlignment.center,
+                          spacing: 6,
                           children: [
                             const Icon(Icons.local_fire_department, size: 15, color: Colors.deepOrange),
-                            const SizedBox(width: 6),
                             Text(
                               '🔥 Expected Question (GSSSB 2026 સંભવિત પ્રશ્ન)',
                               style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.deepOrange.shade900),
@@ -611,6 +611,7 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
                     ),
                     const SizedBox(height: 20),
                     ...List.generate(question.options.length, (index) {
+                      final isDark = Theme.of(context).brightness == Brightness.dark;
                       final isSelected = question.isMSQ
                           ? selectedMSQAnswers[currentIndex].contains(index)
                           : selectedAnswers[currentIndex] == index;
@@ -622,20 +623,24 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
                       Color? cardColor;
                       BorderSide borderSide = BorderSide.none;
                       Widget? trailing;
+                      Color optionTextColor = isDark ? Colors.white : Colors.black87;
 
                       if (showInstantAnswer) {
                         if (isCorrect) {
-                          cardColor = Colors.green.shade50;
-                          borderSide = BorderSide(color: Colors.green.shade400, width: 1.5);
-                          trailing = const Icon(Icons.check_circle, color: Colors.green);
+                          cardColor = isDark ? Colors.green.shade900.withValues(alpha: 0.4) : Colors.green.shade50;
+                          borderSide = BorderSide(color: isDark ? Colors.greenAccent : Colors.green.shade600, width: 1.5);
+                          optionTextColor = isDark ? Colors.greenAccent.shade100 : Colors.green.shade900;
+                          trailing = Icon(Icons.check_circle, color: isDark ? Colors.greenAccent : Colors.green.shade700);
                         } else if (isSelected) {
-                          cardColor = Colors.red.shade50;
-                          borderSide = BorderSide(color: Colors.red.shade400, width: 1.5);
-                          trailing = const Icon(Icons.cancel, color: Colors.red);
+                          cardColor = isDark ? Colors.red.shade900.withValues(alpha: 0.4) : Colors.red.shade50;
+                          borderSide = BorderSide(color: isDark ? Colors.redAccent : Colors.red.shade600, width: 1.5);
+                          optionTextColor = isDark ? Colors.redAccent.shade100 : Colors.red.shade900;
+                          trailing = Icon(Icons.cancel, color: isDark ? Colors.redAccent : Colors.red.shade700);
                         }
                       } else if (isSelected) {
-                        cardColor = Colors.blue.shade50;
-                        borderSide = BorderSide(color: Colors.blue.shade400, width: 1.5);
+                        cardColor = isDark ? Colors.blue.shade900.withValues(alpha: 0.4) : Colors.blue.shade50;
+                        borderSide = BorderSide(color: isDark ? Colors.blueAccent : Colors.blue.shade600, width: 1.5);
+                        optionTextColor = isDark ? Colors.blueAccent.shade100 : Colors.blue.shade900;
                       }
 
                       return Card(
@@ -661,6 +666,8 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
                           title: Text(
                             question.options[index],
                             style: TextStyle(
+                              fontSize: 15,
+                              color: optionTextColor,
                               fontWeight: isSelected || (showInstantAnswer && isCorrect)
                                   ? FontWeight.bold
                                   : FontWeight.normal,
@@ -693,6 +700,7 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
   }
 
   Widget _buildInstantFeedbackBanner(Question question) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
     final isCorrect = AnswerChecker.isCorrect(
       isMSQ: question.isMSQ,
       selectedAnswer: selectedAnswers[currentIndex],
@@ -714,20 +722,20 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
         width: double.infinity,
         padding: const EdgeInsets.all(12),
         decoration: BoxDecoration(
-          color: Colors.green.shade50,
+          color: isDark ? Colors.green.shade900.withValues(alpha: 0.4) : Colors.green.shade50,
           borderRadius: BorderRadius.circular(10),
-          border: Border.all(color: Colors.green.shade300),
+          border: Border.all(color: isDark ? Colors.greenAccent : Colors.green.shade300),
         ),
         child: Row(
           children: [
-            Icon(Icons.check_circle, color: Colors.green.shade700, size: 22),
+            Icon(Icons.check_circle, color: isDark ? Colors.greenAccent : Colors.green.shade700, size: 22),
             const SizedBox(width: 10),
-            const Expanded(
+            Expanded(
               child: Text(
                 'સાચો જવાબ! (Correct Answer)',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
-                  color: Colors.green,
+                  color: isDark ? Colors.greenAccent : Colors.green.shade800,
                   fontSize: 14,
                 ),
               ),
@@ -740,22 +748,22 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
         width: double.infinity,
         padding: const EdgeInsets.all(12),
         decoration: BoxDecoration(
-          color: Colors.red.shade50,
+          color: isDark ? Colors.red.shade900.withValues(alpha: 0.4) : Colors.red.shade50,
           borderRadius: BorderRadius.circular(10),
-          border: Border.all(color: Colors.red.shade300),
+          border: Border.all(color: isDark ? Colors.redAccent : Colors.red.shade300),
         ),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Row(
               children: [
-                Icon(Icons.cancel, color: Colors.red.shade700, size: 22),
+                Icon(Icons.cancel, color: isDark ? Colors.redAccent : Colors.red.shade700, size: 22),
                 const SizedBox(width: 10),
-                const Text(
+                Text(
                   'ખોટો જવાબ! (Wrong Answer)',
                   style: TextStyle(
                     fontWeight: FontWeight.bold,
-                    color: Colors.red,
+                    color: isDark ? Colors.redAccent : Colors.red.shade800,
                     fontSize: 14,
                   ),
                 ),
@@ -766,7 +774,7 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
               'સાચો જવાબ: $correctOptionLetter. $correctOptionText',
               style: TextStyle(
                 fontWeight: FontWeight.bold,
-                color: Colors.green.shade800,
+                color: isDark ? Colors.greenAccent : Colors.green.shade800,
                 fontSize: 13,
               ),
             ),
@@ -777,12 +785,13 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
   }
 
   Widget _buildExplanationCard(Question question) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
     return Card(
-      color: Colors.blue.shade50.withValues(alpha: 0.4),
+      color: isDark ? const Color(0xFF1E293B) : Colors.blue.shade50.withValues(alpha: 0.4),
       elevation: 0,
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(12),
-        side: BorderSide(color: Colors.blue.shade200),
+        side: BorderSide(color: isDark ? Colors.blueAccent.withValues(alpha: 0.5) : Colors.blue.shade200),
       ),
       child: Padding(
         padding: const EdgeInsets.all(14),
@@ -791,13 +800,13 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
           children: [
             Row(
               children: [
-                Icon(Icons.lightbulb_outline, color: Colors.blue.shade800, size: 20),
+                Icon(Icons.lightbulb_outline, color: isDark ? Colors.amberAccent : Colors.blue.shade800, size: 20),
                 const SizedBox(width: 8),
                 Text(
                   'સ્પષ્ટીકરણ (Explanation):',
                   style: TextStyle(
                     fontWeight: FontWeight.bold,
-                    color: Colors.blue.shade900,
+                    color: isDark ? Colors.amberAccent : Colors.blue.shade900,
                     fontSize: 14,
                   ),
                 ),
@@ -806,7 +815,11 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
             const SizedBox(height: 8),
             Text(
               question.explanation,
-              style: const TextStyle(fontSize: 13, height: 1.4),
+              style: TextStyle(
+                fontSize: 13.5,
+                height: 1.45,
+                color: isDark ? Colors.white.withValues(alpha: 0.9) : Colors.black87,
+              ),
             ),
           ],
         ),
@@ -831,6 +844,7 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
   }
 
   Widget _buildAiActionButtons(Question question) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
     final isCorrect = AnswerChecker.isCorrect(
       isMSQ: question.isMSQ,
       selectedAnswer: selectedAnswers[currentIndex],
@@ -853,6 +867,9 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
       existingExplanation: question.explanation,
     );
 
+    final chipBg = isDark ? const Color(0xFF1E293B) : Colors.blue.shade50;
+    final textColor = isDark ? Colors.white : Colors.black87;
+
     return Container(
       margin: const EdgeInsets.symmetric(vertical: 8),
       child: Wrap(
@@ -860,9 +877,9 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
         runSpacing: 8,
         children: [
           ActionChip(
-            avatar: const Icon(Icons.smart_toy, size: 16, color: Colors.blue),
-            label: const Text('🤖 Ask AI', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12)),
-            backgroundColor: Colors.blue.shade50,
+            avatar: const Icon(Icons.smart_toy, size: 16, color: Colors.blueAccent),
+            label: Text('🤖 Ask AI', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12, color: textColor)),
+            backgroundColor: chipBg,
             onPressed: () {
               AiChatDialog.show(
                 context,
@@ -873,9 +890,9 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
           ),
           if (!isCorrect)
             ActionChip(
-              avatar: const Icon(Icons.error_outline, size: 16, color: Colors.red),
-              label: const Text('🤖 Explain My Mistake', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12, color: Colors.red)),
-              backgroundColor: Colors.red.shade50,
+              avatar: const Icon(Icons.error_outline, size: 16, color: Colors.redAccent),
+              label: const Text('🤖 Explain My Mistake', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12, color: Colors.redAccent)),
+              backgroundColor: isDark ? const Color(0xFF3B1219) : Colors.red.shade50,
               onPressed: () {
                 AiChatDialog.show(
                   context,
@@ -885,9 +902,9 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
               },
             ),
           ActionChip(
-            avatar: const Icon(Icons.help_outline, size: 16, color: Colors.indigo),
-            label: const Text('Why other options wrong?', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12)),
-            backgroundColor: Colors.indigo.shade50,
+            avatar: const Icon(Icons.help_outline, size: 16, color: Colors.indigoAccent),
+            label: Text('Why other options wrong?', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12, color: textColor)),
+            backgroundColor: chipBg,
             onPressed: () {
               AiChatDialog.show(
                 context,
@@ -897,9 +914,9 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
             },
           ),
           ActionChip(
-            avatar: const Icon(Icons.calculate_outlined, size: 16, color: Colors.teal),
-            label: const Text('🧮 Solve with AI', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12)),
-            backgroundColor: Colors.teal.shade50,
+            avatar: const Icon(Icons.calculate_outlined, size: 16, color: Colors.tealAccent),
+            label: Text('🧮 Solve with AI', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12, color: textColor)),
+            backgroundColor: chipBg,
             onPressed: () {
               AiChatDialog.show(
                 context,
@@ -909,9 +926,9 @@ class _QuestionPracticeScreenState extends State<QuestionPracticeScreen> {
             },
           ),
           ActionChip(
-            avatar: const Icon(Icons.report_problem_outlined, size: 16, color: Colors.orange),
-            label: const Text('🚩 Report MCQ', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12, color: Colors.orange)),
-            backgroundColor: Colors.orange.shade50,
+            avatar: const Icon(Icons.report_problem_outlined, size: 16, color: Colors.orangeAccent),
+            label: const Text('🚩 Report MCQ', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12, color: Colors.orangeAccent)),
+            backgroundColor: isDark ? const Color(0xFF382008) : Colors.orange.shade50,
             onPressed: () => _openReportQuestionScreen(question),
           ),
         ],

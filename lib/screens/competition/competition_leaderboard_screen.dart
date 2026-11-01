@@ -239,15 +239,22 @@ class _CompetitionLeaderboardScreenState
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text('Your Rank: $myRankStr', style: const TextStyle(color: Colors.white70, fontSize: 13)),
-                    const SizedBox(height: 2),
-                    Text('$myPoints Points | $_myDisplayName',
-                        style: const TextStyle(color: Colors.amber, fontWeight: FontWeight.bold, fontSize: 14)),
-                  ],
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text('Your Rank: $myRankStr', style: const TextStyle(color: Colors.white70, fontSize: 13)),
+                      const SizedBox(height: 2),
+                      Text(
+                        '$myPoints Points | $_myDisplayName',
+                        style: const TextStyle(color: Colors.amber, fontWeight: FontWeight.bold, fontSize: 14),
+                        overflow: TextOverflow.ellipsis,
+                        maxLines: 1,
+                      ),
+                    ],
+                  ),
                 ),
+                const SizedBox(width: 8),
                 ElevatedButton.icon(
                   onPressed: _showEditNameDialog,
                   icon: const Icon(Icons.edit, size: 14),
@@ -473,9 +480,12 @@ class _CompetitionLeaderboardScreenState
               children: [
                 const Icon(Icons.compare_arrows, color: Colors.blue),
                 const SizedBox(width: 8),
-                Text(
-                  'You vs ${topEntry.displayName}',
-                  style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+                Expanded(
+                  child: Text(
+                    'You vs ${topEntry.displayName}',
+                    style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+                    overflow: TextOverflow.ellipsis,
+                  ),
                 ),
               ],
             ),
@@ -528,15 +538,15 @@ class _CompetitionLeaderboardScreenState
       children: [
         Expanded(
           flex: 2,
-          child: Text(myValue, style: const TextStyle(fontWeight: FontWeight.bold, color: Colors.blue)),
+          child: Text(myValue, style: const TextStyle(fontWeight: FontWeight.bold, color: Colors.blue), overflow: TextOverflow.ellipsis),
         ),
         Expanded(
           flex: 3,
-          child: Text(label, textAlign: TextAlign.center, style: const TextStyle(fontSize: 12, color: Colors.grey)),
+          child: Text(label, textAlign: TextAlign.center, style: const TextStyle(fontSize: 12, color: Colors.grey), overflow: TextOverflow.ellipsis),
         ),
         Expanded(
           flex: 2,
-          child: Text(friendValue, textAlign: TextAlign.right, style: const TextStyle(fontWeight: FontWeight.bold)),
+          child: Text(friendValue, textAlign: TextAlign.right, style: const TextStyle(fontWeight: FontWeight.bold), overflow: TextOverflow.ellipsis),
         ),
       ],
     );

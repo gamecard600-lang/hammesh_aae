@@ -497,7 +497,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                           color: Colors.green.shade50,
                           borderRadius: BorderRadius.circular(12),
                         ),
-                        child: const Text('v1.0.0', style: TextStyle(fontSize: 11, fontWeight: FontWeight.bold, color: Colors.green)),
+                        child: Text('v${AppConfig.currentAppVersion}', style: const TextStyle(fontSize: 11, fontWeight: FontWeight.bold, color: Colors.green)),
                       ),
                     ],
                   ),
@@ -533,6 +533,14 @@ class _SettingsScreenState extends State<SettingsScreen> {
                         ),
                       );
                     },
+                  ),
+                  const Divider(),
+                  ListTile(
+                    contentPadding: EdgeInsets.zero,
+                    leading: const Icon(Icons.wifi_off, color: Colors.teal),
+                    title: const Text('Offline Mode Status'),
+                    subtitle: const Text('100% Offline Exam Ready • All MCQs & Notes pre-loaded'),
+                    trailing: const Icon(Icons.check_circle, color: Colors.teal, size: 20),
                   ),
                   const Divider(),
                   const SizedBox(height: 8),

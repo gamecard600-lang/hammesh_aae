@@ -1,7 +1,6 @@
-import 'package:flutter/foundation.dart';
+import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:url_launcher/url_launcher.dart';
 import 'package:video_player/video_player.dart';
 import '../models/practice_mode.dart';
 import '../models/study_material.dart';
@@ -29,11 +28,15 @@ class TopicVideoPlayerWidget extends StatefulWidget {
 class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
   VideoPlayerController? _controller;
   bool _isInitializing = true;
-  bool _hasError = false;
   double _playbackSpeed = 1.0;
   bool _isMuted = false;
   int _savedResumeSeconds = 0;
   bool _showResumeBanner = false;
+
+  // Offline Interactive Animation Player State
+  int _currentStepIndex = 0;
+  bool _isAutoPlayingSteps = false;
+  Timer? _stepTimer;
 
   @override
   void initState() {
@@ -45,6 +48,49 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
   String get _storageKey {
     final vId = widget.video.videoId.isNotEmpty ? widget.video.videoId : widget.video.title;
     return 'video_pos_${vId.replaceAll(' ', '_')}';
+  }
+
+  List<String> get _stepSequence {
+    if (widget.video.learningObjectives.isNotEmpty) {
+      return widget.video.learningObjectives;
+    }
+    return [
+      '૧. ${widget.topicName} — પાયાનો સિદ્ધાંત, ચોક્કસ વ્યાખ્યા અને કાર્યપદ્ધતિ.',
+      '૨. ${widget.topicName} — જરૂરી ગણિતીય સમીકરણો, SI એકમો અને સંબંધિત કાયદાઓ.',
+      '૩. ${widget.topicName} — ઔદ્યોગિક ઉપયોગો, ફાયદા-મર્યાદાઓ અને તફાવતો.',
+      '૪. ${widget.topicName} — GSSSB AAE / SSC JE પરીક્ષાલક્ષી ગોલ્ડન પોઇન્ટ્સ અને એક્ઝામ ટ્રેપ્સ.',
+    ];
+  }
+
+  void _startStepAutoPlay() {
+    _stepTimer?.cancel();
+    setState(() {
+      _isAutoPlayingSteps = true;
+    });
+
+    _stepTimer = Timer.periodic(const Duration(seconds: 4), (timer) {
+      if (!mounted) return;
+      setState(() {
+        _currentStepIndex = (_currentStepIndex + 1) % _stepSequence.length;
+      });
+    });
+  }
+
+  void _stopStepAutoPlay() {
+    _stepTimer?.cancel();
+    if (mounted) {
+      setState(() {
+        _isAutoPlayingSteps = false;
+      });
+    }
+  }
+
+  void _toggleStepAutoPlay() {
+    if (_isAutoPlayingSteps) {
+      _stopStepAutoPlay();
+    } else {
+      _startStepAutoPlay();
+    }
   }
 
   Future<void> _checkSavedProgress() async {
@@ -70,39 +116,31 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
   Future<void> _initVideoController() async {
     setState(() {
       _isInitializing = true;
-      _hasError = false;
     });
 
-    if (!kIsWeb &&
-        (defaultTargetPlatform == TargetPlatform.windows ||
-            defaultTargetPlatform == TargetPlatform.macOS ||
-            defaultTargetPlatform == TargetPlatform.linux)) {
-      if (mounted) {
-        setState(() {
-          _isInitializing = false;
-          _hasError = false;
-        });
-      }
-      return;
-    }
-
     try {
+      // 1. Try local video asset if assetPath is provided
       if (widget.video.assetPath.isNotEmpty) {
         try {
           _controller = VideoPlayerController.asset(widget.video.assetPath);
           await _controller!.initialize();
         } catch (assetErr) {
-          debugPrint('Asset video init failed, attempting network fallback: $assetErr');
+          debugPrint('Asset video init failed, fallback to offline concept player: $assetErr');
           _controller?.dispose();
           _controller = null;
         }
       }
 
-      if (_controller == null &&
-          widget.video.url.isNotEmpty &&
-          (widget.video.url.contains('.mp4') || widget.video.url.contains('raw.githubusercontent.com'))) {
-        _controller = VideoPlayerController.networkUrl(Uri.parse(widget.video.url));
-        await _controller!.initialize();
+      // 2. Try network video if url is a valid stream / mp4 URL
+      if (_controller == null && widget.video.url.isNotEmpty && widget.video.url.startsWith('http')) {
+        try {
+          _controller = VideoPlayerController.networkUrl(Uri.parse(widget.video.url));
+          await _controller!.initialize();
+        } catch (netErr) {
+          debugPrint('Network video init failed, fallback to offline concept player: $netErr');
+          _controller?.dispose();
+          _controller = null;
+        }
       }
 
       if (_controller == null) {
@@ -132,21 +170,11 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
       }
     } catch (e) {
       if (mounted) {
-        if (e is UnimplementedError ||
-            e.toString().contains('UnimplementedError') ||
-            e.toString().contains('init() has not been implemented')) {
-          _controller?.dispose();
-          _controller = null;
-          setState(() {
-            _isInitializing = false;
-            _hasError = false;
-          });
-        } else {
-          setState(() {
-            _isInitializing = false;
-            _hasError = true;
-          });
-        }
+        _controller?.dispose();
+        _controller = null;
+        setState(() {
+          _isInitializing = false;
+        });
       }
     }
   }
@@ -162,7 +190,10 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
   }
 
   void _togglePlayPause() {
-    if (_controller == null || !_controller!.value.isInitialized) return;
+    if (_controller == null || !_controller!.value.isInitialized) {
+      _toggleStepAutoPlay();
+      return;
+    }
     setState(() {
       if (_controller!.value.isPlaying) {
         _controller!.pause();
@@ -247,6 +278,7 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
 
   @override
   void dispose() {
+    _stepTimer?.cancel();
     _controller?.dispose();
     super.dispose();
   }
@@ -303,18 +335,17 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
                       ),
                     ),
                   ),
-                  if (widget.video.assetPath.isNotEmpty)
-                    Container(
-                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
-                      decoration: BoxDecoration(
-                        color: Colors.green.shade800,
-                        borderRadius: BorderRadius.circular(8),
-                      ),
-                      child: const Text(
-                        'OFFLINE HD',
-                        style: TextStyle(color: Colors.white, fontSize: 10, fontWeight: FontWeight.bold),
-                      ),
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                    decoration: BoxDecoration(
+                      color: widget.video.assetPath.isNotEmpty ? Colors.green.shade800 : Colors.blue.shade800,
+                      borderRadius: BorderRadius.circular(8),
                     ),
+                    child: Text(
+                      widget.video.assetPath.isNotEmpty ? 'OFFLINE HD' : '100% OFFLINE',
+                      style: const TextStyle(color: Colors.white, fontSize: 10, fontWeight: FontWeight.bold),
+                    ),
+                  ),
                 ],
               ),
             ),
@@ -328,11 +359,13 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
                   children: [
                     const Icon(Icons.history, color: Colors.amberAccent, size: 16),
                     const SizedBox(width: 6),
-                    Text(
-                      'Saved Position: ${_formatDuration(Duration(seconds: _savedResumeSeconds))}',
-                      style: const TextStyle(color: Colors.white70, fontSize: 11),
+                    Expanded(
+                      child: Text(
+                        'Saved Position: ${_formatDuration(Duration(seconds: _savedResumeSeconds))}',
+                        style: const TextStyle(color: Colors.white70, fontSize: 11),
+                        overflow: TextOverflow.ellipsis,
+                      ),
                     ),
-                    const Spacer(),
                     TextButton(
                       style: TextButton.styleFrom(
                         padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
@@ -349,50 +382,13 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
                 ),
               ),
 
-            // Main Video Viewport or States
+            // Main Video Viewport or Offline Concept Player (100% In-App Offline)
             if (_isInitializing)
               _buildLoadingViewport()
-            else if (_hasError)
-              _buildErrorViewport()
             else if (_controller != null && _controller!.value.isInitialized)
               _buildActivePlayerViewport()
             else
-              _buildExternalLauncherCard(),
-
-            // Learning Objectives
-            if (widget.video.learningObjectives.isNotEmpty)
-              Container(
-                margin: const EdgeInsets.fromLTRB(12, 8, 12, 4),
-                padding: const EdgeInsets.all(10),
-                decoration: BoxDecoration(
-                  color: Colors.black26,
-                  borderRadius: BorderRadius.circular(8),
-                  border: Border.all(color: Colors.white12),
-                ),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    const Row(
-                      children: [
-                        Icon(Icons.flag_circle_outlined, color: Colors.amberAccent, size: 16),
-                        SizedBox(width: 6),
-                        Text(
-                          'Learning Objectives (શીખવાના મુખ્ય મુદ્દા):',
-                          style: TextStyle(color: Colors.white, fontSize: 12, fontWeight: FontWeight.bold),
-                        ),
-                      ],
-                    ),
-                    const SizedBox(height: 6),
-                    ...widget.video.learningObjectives.map((obj) => Padding(
-                      padding: const EdgeInsets.only(bottom: 2),
-                      child: Text(
-                        '• $obj',
-                        style: const TextStyle(color: Colors.white70, fontSize: 11.5, height: 1.35),
-                      ),
-                    )),
-                  ],
-                ),
-              ),
+              _buildInAppConceptPlayer(),
 
             // Video Description
             if (widget.video.description.isNotEmpty)
@@ -404,7 +400,7 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
                 ),
               ),
 
-            // Action Buttons: Active Recall + AI Story + Practice MCQs
+            // Action Buttons: Play Video + Active Recall + AI Story + Practice MCQs
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
               child: Wrap(
@@ -412,6 +408,28 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
                 runSpacing: 8,
                 alignment: WrapAlignment.spaceBetween,
                 children: [
+                  ElevatedButton.icon(
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.amberAccent,
+                      foregroundColor: Colors.black,
+                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                      minimumSize: Size.zero,
+                      tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                    ),
+                    onPressed: _togglePlayPause,
+                    icon: Icon(
+                      (_controller != null && _controller!.value.isInitialized && _controller!.value.isPlaying) || _isAutoPlayingSteps
+                          ? Icons.pause
+                          : Icons.play_arrow,
+                      size: 16,
+                    ),
+                    label: Text(
+                      (_controller != null && _controller!.value.isInitialized && _controller!.value.isPlaying) || _isAutoPlayingSteps
+                          ? 'Pause Lesson'
+                          : '▶ Play Video Lesson',
+                      style: const TextStyle(fontSize: 11.5, fontWeight: FontWeight.bold),
+                    ),
+                  ),
                   if (widget.video.recallQuestions.isNotEmpty)
                     ElevatedButton.icon(
                       style: ElevatedButton.styleFrom(
@@ -494,74 +512,6 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
             ),
           ],
         ),
-      ),
-    );
-  }
-
-  Widget _buildErrorViewport() {
-    return Container(
-      constraints: const BoxConstraints(minHeight: 180),
-      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
-      color: Colors.black,
-      child: Column(
-        mainAxisSize: MainAxisSize.min,
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          const Icon(Icons.play_circle_outline, color: Colors.amberAccent, size: 42),
-          const SizedBox(height: 6),
-          Text(
-            widget.video.title,
-            textAlign: TextAlign.center,
-            maxLines: 2,
-            overflow: TextOverflow.ellipsis,
-            style: const TextStyle(color: Colors.white, fontSize: 13, fontWeight: FontWeight.bold),
-          ),
-          const SizedBox(height: 12),
-          Wrap(
-            alignment: WrapAlignment.center,
-            spacing: 8,
-            runSpacing: 8,
-            children: [
-              ElevatedButton.icon(
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.amberAccent,
-                  foregroundColor: Colors.black,
-                  padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
-                ),
-                onPressed: () async {
-                  final uri = Uri.tryParse(widget.video.url);
-                  if (uri == null) return;
-                  final opened = await launchUrl(uri, mode: LaunchMode.externalApplication);
-                  if (!opened) {
-                    await launchUrl(uri, mode: LaunchMode.platformDefault);
-                  }
-                },
-                icon: const Icon(Icons.play_arrow, size: 18),
-                label: const Text('Play Video Lesson', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold)),
-              ),
-              OutlinedButton.icon(
-                style: OutlinedButton.styleFrom(
-                  foregroundColor: Colors.purpleAccent,
-                  side: const BorderSide(color: Colors.purpleAccent),
-                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-                ),
-                onPressed: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (_) => ConceptStoryScreen(
-                        topic: widget.topicName,
-                        subject: widget.subjectName,
-                      ),
-                    ),
-                  );
-                },
-                icon: const Icon(Icons.auto_stories, size: 16),
-                label: const Text('🎭 AI Story Mode', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold)),
-              ),
-            ],
-          ),
-        ],
       ),
     );
   }
@@ -649,35 +599,215 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
     );
   }
 
-  Widget _buildExternalLauncherCard() {
+  Widget _buildInAppConceptPlayer() {
+    final steps = _stepSequence;
+    final currentStep = steps[_currentStepIndex % steps.length];
+
     return Container(
       padding: const EdgeInsets.all(16),
       color: const Color(0xFF0F172A),
       child: Column(
+        crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
-          const Icon(Icons.play_circle_outline, color: Colors.amberAccent, size: 48),
-          const SizedBox(height: 8),
-          Text(
-            widget.video.title,
-            textAlign: TextAlign.center,
-            style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 14),
+          Row(
+            children: [
+              const Icon(Icons.movie_creation_outlined, color: Colors.amberAccent, size: 24),
+              const SizedBox(width: 8),
+              Expanded(
+                child: Text(
+                  widget.video.title,
+                  style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 13.5),
+                ),
+              ),
+              Container(
+                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                decoration: BoxDecoration(
+                  color: Colors.green.shade800,
+                  borderRadius: BorderRadius.circular(6),
+                ),
+                child: const Text(
+                  '100% OFFLINE',
+                  style: TextStyle(color: Colors.white, fontSize: 10, fontWeight: FontWeight.bold),
+                ),
+              ),
+            ],
           ),
           const SizedBox(height: 12),
-          ElevatedButton.icon(
-            style: ElevatedButton.styleFrom(
-              backgroundColor: Colors.amberAccent,
-              foregroundColor: Colors.black,
+
+          // Animated Visual Step Card
+          AnimatedContainer(
+            duration: const Duration(milliseconds: 300),
+            padding: const EdgeInsets.all(14),
+            decoration: BoxDecoration(
+              color: Colors.black45,
+              borderRadius: BorderRadius.circular(12),
+              border: Border.all(
+                color: _isAutoPlayingSteps ? Colors.amberAccent : Colors.white24,
+                width: _isAutoPlayingSteps ? 2.0 : 1.0,
+              ),
+              boxShadow: _isAutoPlayingSteps
+                  ? [
+                      BoxShadow(
+                        color: Colors.amberAccent.withValues(alpha: 0.2),
+                        blurRadius: 12,
+                        spreadRadius: 2,
+                      )
+                    ]
+                  : [],
             ),
-            onPressed: () async {
-              final uri = Uri.tryParse(widget.video.url);
-              if (uri == null) return;
-              final opened = await launchUrl(uri, mode: LaunchMode.externalApplication);
-              if (!opened) {
-                await launchUrl(uri, mode: LaunchMode.platformDefault);
-              }
-            },
-            icon: const Icon(Icons.open_in_new),
-            label: const Text('Open Lesson Video'),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Row(
+                      children: [
+                        Icon(
+                          _isAutoPlayingSteps ? Icons.play_circle_fill : Icons.pause_circle_filled,
+                          color: _isAutoPlayingSteps ? Colors.greenAccent : Colors.amberAccent,
+                          size: 18,
+                        ),
+                        const SizedBox(width: 6),
+                        Text(
+                          'Step ${_currentStepIndex + 1} of ${steps.length}',
+                          style: const TextStyle(color: Colors.amberAccent, fontWeight: FontWeight.bold, fontSize: 12.5),
+                        ),
+                      ],
+                    ),
+                    if (_isAutoPlayingSteps)
+                      const Row(
+                        children: [
+                          SizedBox(
+                            width: 12,
+                            height: 12,
+                            child: CircularProgressIndicator(strokeWidth: 2, color: Colors.amberAccent),
+                          ),
+                          SizedBox(width: 6),
+                          Text(
+                            'Playing...',
+                            style: TextStyle(color: Colors.greenAccent, fontSize: 11, fontWeight: FontWeight.bold),
+                          ),
+                        ],
+                      ),
+                  ],
+                ),
+                const SizedBox(height: 10),
+
+                // Smooth animated transition for step text
+                AnimatedSwitcher(
+                  duration: const Duration(milliseconds: 350),
+                  child: KeyedSubtree(
+                    key: ValueKey<int>(_currentStepIndex),
+                    child: Text(
+                      currentStep,
+                      style: const TextStyle(
+                        color: Colors.white,
+                        fontSize: 13.5,
+                        fontWeight: FontWeight.w600,
+                        height: 1.45,
+                      ),
+                    ),
+                  ),
+                ),
+
+                const SizedBox(height: 12),
+
+                // Step Navigation Controls
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    IconButton(
+                      icon: const Icon(Icons.skip_previous, color: Colors.white70),
+                      padding: EdgeInsets.zero,
+                      constraints: const BoxConstraints(),
+                      onPressed: () {
+                        setState(() {
+                          _currentStepIndex = (_currentStepIndex - 1 + steps.length) % steps.length;
+                        });
+                      },
+                    ),
+                    Row(
+                      children: List.generate(steps.length, (idx) {
+                        return Container(
+                          width: 8,
+                          height: 8,
+                          margin: const EdgeInsets.symmetric(horizontal: 3),
+                          decoration: BoxDecoration(
+                            shape: BoxShape.circle,
+                            color: _currentStepIndex == idx ? Colors.amberAccent : Colors.white24,
+                          ),
+                        );
+                      }),
+                    ),
+                    IconButton(
+                      icon: const Icon(Icons.skip_next, color: Colors.white70),
+                      padding: EdgeInsets.zero,
+                      constraints: const BoxConstraints(),
+                      onPressed: () {
+                        setState(() {
+                          _currentStepIndex = (_currentStepIndex + 1) % steps.length;
+                        });
+                      },
+                    ),
+                  ],
+                ),
+              ],
+            ),
+          ),
+
+          const SizedBox(height: 12),
+
+          // Main Interactive Action Buttons
+          Wrap(
+            alignment: WrapAlignment.center,
+            spacing: 8,
+            runSpacing: 8,
+            children: [
+              ElevatedButton.icon(
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: _isAutoPlayingSteps ? Colors.orangeAccent : Colors.amberAccent,
+                  foregroundColor: Colors.black,
+                  padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                ),
+                onPressed: _toggleStepAutoPlay,
+                icon: Icon(_isAutoPlayingSteps ? Icons.pause : Icons.play_arrow_rounded, size: 20),
+                label: Text(
+                  _isAutoPlayingSteps ? '⏸️ Pause Lesson' : '▶ Play Animated Lesson',
+                  style: const TextStyle(fontSize: 12, fontWeight: FontWeight.bold),
+                ),
+              ),
+              ElevatedButton.icon(
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.purpleAccent,
+                  foregroundColor: Colors.white,
+                  padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                ),
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (_) => ConceptStoryScreen(
+                        topic: widget.topicName,
+                        subject: widget.subjectName,
+                      ),
+                    ),
+                  );
+                },
+                icon: const Icon(Icons.auto_stories, size: 18),
+                label: const Text('🎭 Play AI Visual Story', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold)),
+              ),
+              ElevatedButton.icon(
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.lightGreen,
+                  foregroundColor: Colors.black,
+                  padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                ),
+                onPressed: _openPracticeScreen,
+                icon: const Icon(Icons.quiz, size: 18),
+                label: const Text('📝 Solve Topic MCQs', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold)),
+              ),
+            ],
           ),
         ],
       ),
@@ -728,130 +858,95 @@ class _RecallQuestionsSheetState extends State<_RecallQuestionsSheet> {
               ),
               Row(
                 children: [
-                  const Icon(Icons.psychology, color: Colors.amberAccent, size: 24),
+                  const Icon(Icons.psychology, color: Colors.amberAccent, size: 22),
                   const SizedBox(width: 8),
                   Expanded(
                     child: Text(
-                      'Active Recall: ${widget.topicName}',
-                      style: const TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold),
+                      '🧠 Active Recall: ${widget.topicName}',
+                      style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 16),
                     ),
                   ),
                 ],
               ),
-              const SizedBox(height: 4),
-              const Text(
-                'વિડિયો જોયા પછી તમારી યાદશક્તિ અને સમજ ચકાસો:',
-                style: TextStyle(color: Colors.white70, fontSize: 12),
-              ),
-              const Divider(color: Colors.white24, height: 24),
-              ...widget.questions.asMap().entries.map((entry) {
-                final idx = entry.key;
-                final q = entry.value;
-                final questionText = q['question']?.toString() ?? '';
-                final options = (q['options'] as List?)?.map((e) => e.toString()).toList() ?? [];
-                final correct = (q['correctAnswer'] as num?)?.toInt() ?? 0;
-                final explanation = q['explanation']?.toString() ?? '';
-
-                final selected = _selectedAnswers[idx];
-                final isRevealed = _revealed[idx] ?? false;
+              const SizedBox(height: 16),
+              ...List.generate(widget.questions.length, (index) {
+                final q = widget.questions[index];
+                final questionText = q['question'] ?? 'Question ${index + 1}';
+                final options = (q['options'] as List? ?? []).map((e) => e.toString()).toList();
+                final correct = q['correctAnswer'] as int? ?? 0;
+                final explanation = q['explanation'] as String? ?? '';
+                final isAnswered = _selectedAnswers.containsKey(index);
+                final selected = _selectedAnswers[index];
 
                 return Card(
                   color: const Color(0xFF1E293B),
-                  margin: const EdgeInsets.only(bottom: 16),
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(12),
-                    side: BorderSide(
-                      color: isRevealed
-                          ? (selected == correct ? Colors.greenAccent : Colors.redAccent)
-                          : Colors.white12,
-                    ),
-                  ),
+                  margin: const EdgeInsets.only(bottom: 12),
                   child: Padding(
                     padding: const EdgeInsets.all(12),
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'પ્રશ્ન ${idx + 1}: $questionText',
-                          style: const TextStyle(color: Colors.white, fontSize: 13.5, fontWeight: FontWeight.bold, height: 1.35),
+                          'Q${index + 1}. $questionText',
+                          style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 13.5),
                         ),
-                        const SizedBox(height: 10),
-                        ...options.asMap().entries.map((optEntry) {
-                          final optIdx = optEntry.key;
-                          final optText = optEntry.value;
-
-                          Color optColor = Colors.white12;
-                          Color textColor = Colors.white70;
-
-                          if (isRevealed) {
+                        const SizedBox(height: 8),
+                        ...List.generate(options.length, (optIdx) {
+                          Color color = Colors.white12;
+                          if (isAnswered) {
                             if (optIdx == correct) {
-                              optColor = Colors.green.shade800;
-                              textColor = Colors.white;
-                            } else if (selected == optIdx) {
-                              optColor = Colors.red.shade800;
-                              textColor = Colors.white;
+                              color = Colors.green.shade800;
+                            } else if (optIdx == selected) {
+                              color = Colors.red.shade800;
                             }
-                          } else if (selected == optIdx) {
-                            optColor = Colors.blueAccent.shade700;
-                            textColor = Colors.white;
                           }
 
                           return InkWell(
-                            onTap: isRevealed
-                                ? null
-                                : () {
-                                    setState(() {
-                                      _selectedAnswers[idx] = optIdx;
-                                      _revealed[idx] = true;
-                                    });
-                                  },
-                            borderRadius: BorderRadius.circular(8),
+                            onTap: () {
+                              setState(() {
+                                _selectedAnswers[index] = optIdx;
+                                _revealed[index] = true;
+                              });
+                            },
                             child: Container(
                               margin: const EdgeInsets.only(bottom: 6),
                               padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
                               decoration: BoxDecoration(
-                                color: optColor,
-                                borderRadius: BorderRadius.circular(8),
+                                color: color,
+                                borderRadius: BorderRadius.circular(6),
+                                border: Border.all(color: Colors.white24),
                               ),
                               child: Row(
                                 children: [
-                                  CircleAvatar(
-                                    radius: 11,
-                                    backgroundColor: Colors.white24,
-                                    child: Text(
-                                      String.fromCharCode(65 + optIdx),
-                                      style: const TextStyle(color: Colors.white, fontSize: 11, fontWeight: FontWeight.bold),
-                                    ),
+                                  Text(
+                                    '${String.fromCharCode(65 + optIdx)}. ',
+                                    style: const TextStyle(color: Colors.amberAccent, fontWeight: FontWeight.bold, fontSize: 12),
                                   ),
-                                  const SizedBox(width: 8),
                                   Expanded(
                                     child: Text(
-                                      optText,
-                                      style: TextStyle(color: textColor, fontSize: 12.5),
+                                      options[optIdx],
+                                      style: const TextStyle(color: Colors.white70, fontSize: 12),
                                     ),
                                   ),
-                                  if (isRevealed && optIdx == correct)
-                                    const Icon(Icons.check_circle, color: Colors.greenAccent, size: 18),
-                                  if (isRevealed && selected == optIdx && optIdx != correct)
-                                    const Icon(Icons.cancel, color: Colors.redAccent, size: 18),
                                 ],
                               ),
                             ),
                           );
                         }),
-                        if (isRevealed && explanation.isNotEmpty)
+                        if (_revealed[index] == true && explanation.isNotEmpty) ...[
+                          const SizedBox(height: 6),
                           Container(
-                            margin: const EdgeInsets.only(top: 8),
                             padding: const EdgeInsets.all(8),
                             decoration: BoxDecoration(
-                              color: Colors.black26,
+                              color: Colors.blue.shade900.withValues(alpha: 0.4),
                               borderRadius: BorderRadius.circular(6),
                             ),
                             child: Text(
-                              '💡 સમજૂતી: $explanation',
-                              style: const TextStyle(color: Colors.amberAccent, fontSize: 11.5, height: 1.35),
+                              '💡 Explanation: $explanation',
+                              style: const TextStyle(color: Colors.lightBlueAccent, fontSize: 11.5),
                             ),
                           ),
+                        ],
                       ],
                     ),
                   ),

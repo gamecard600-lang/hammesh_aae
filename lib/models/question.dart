@@ -9,6 +9,7 @@ class Question {
   final List<int> correctAnswers;
   final bool isMSQ;
   final String explanation;
+  final String? examSource;
 
   const Question({
     required this.id,
@@ -21,6 +22,7 @@ class Question {
     required this.correctAnswers,
     required this.isMSQ,
     required this.explanation,
+    this.examSource,
   });
 
   factory Question.fromJson(Map<String, dynamic> json) {
@@ -30,6 +32,27 @@ class Question {
     if (correctAnswers.isEmpty && fallback != null) correctAnswers.add(fallback);
 
     final bool isMSQ = json['isMSQ'] as bool? ?? correctAnswers.length > 1;
+
+    String exp = (json['explanation'] as String? ?? '').trim();
+    String? src = (json['examSource'] ?? json['exam_source'] ?? json['pyqReference'] ?? json['source'])?.toString().trim();
+    if (src != null && src.isEmpty) src = null;
+
+    // Extract exam source from explanation if not explicitly set in json
+    if (src == null || src.isEmpty) {
+      final citeMatch = RegExp(r'(?:📌\s*)?\[(?:Exam Source / PYQ Reference:?\s*\[?|cite:\s*)([^\]]+)\]\]?', caseSensitive: false).firstMatch(exp);
+      if (citeMatch != null) {
+        final extracted = citeMatch.group(1)!.trim();
+        if (extracted.isNotEmpty && extracted != '1' && extracted != '2' && extracted != '3' && extracted != '4' && extracted != '5' && extracted != '6' && extracted != '7' && extracted != '8' && extracted != '9' && extracted != '10') {
+          src = extracted;
+        }
+      }
+    }
+
+    // Strip trailing [Exam Source / PYQ Reference: ...] line from explanation to prevent duplicate display at bottom
+    exp = exp.replaceAll(RegExp(r'(?:📌\s*)?\[Exam Source / PYQ Reference:?\s*\[?[^\]]+\]\]?', caseSensitive: false), '').trim();
+
+    // Check if json explicitly flagged isPYQ
+    final bool explicitPyq = json['isPYQ'] == true || json['is_pyq'] == true;
 
     return Question(
       id: (json['id'] as num?)?.toInt() ?? 0,
@@ -46,7 +69,8 @@ class Question {
           (correctAnswers.isNotEmpty ? correctAnswers.first : 0),
       correctAnswers: correctAnswers,
       isMSQ: isMSQ,
-      explanation: (json['explanation'] as String? ?? '').trim(),
+      explanation: exp,
+      examSource: src ?? (explicitPyq ? 'GSSSB AAE Genuine PYQ' : null),
     );
   }
 
@@ -62,41 +86,28 @@ class Question {
       'correctAnswers': correctAnswers,
       'isMSQ': isMSQ,
       'explanation': explanation,
+      if (examSource != null && examSource!.isNotEmpty) 'examSource': examSource,
     };
   }
 
   /// Identifies if a question is explicitly a Previous Year Question (PYQ)
-  bool get isPYQ {
-    final text = '$question $gujaratiQuestion $explanation $subTopic'.toLowerCase();
-    return explanation.contains('[cite:') ||
-        text.contains('pyq') ||
-        text.contains('gsssb') ||
-        text.contains('gpsc') ||
-        text.contains('ssc') ||
-        text.contains('gate') ||
-        text.contains('p.y.q') ||
-        text.contains('previous year');
-  }
+  bool get isPYQ => examSource != null && examSource!.isNotEmpty;
 
   /// Identifies if a question is an Expected / High Probability question
   bool get isExpected {
     final text = '$question $gujaratiQuestion $explanation $subTopic'.toLowerCase();
-    return text.contains('expected') ||
+    return !isPYQ && (text.contains('expected') ||
         text.contains('predicted') ||
         text.contains('high yield') ||
-        text.contains('high probability');
+        text.contains('high probability'));
   }
 
   /// Identifies if a question is a Previous Year Question (PYQ) or High Difficulty / Conceptual
   bool get isHardOrPYQ {
-    final text = '$question $gujaratiQuestion $explanation $subTopic'.toLowerCase();
-    final bool hasPyqCite = isPYQ ||
-        text.contains('exam');
-
     final bool isComplex = isMSQ ||
         explanation.length > 40 ||
         options.any((opt) => RegExp(r'\d+').hasMatch(opt));
 
-    return hasPyqCite || isComplex;
+    return isPYQ || isComplex;
   }
 }

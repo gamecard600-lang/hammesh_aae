@@ -12,7 +12,8 @@
       "માત્ર હવાનું રોટેશન કરવું"
     ],
     "correctAnswer": 0,
-    "explanation": "રેફ્રિજરેશનનો મુખ્ય હેતુ નિયંત્રિત જગ્યાનું ટેમ્પરેચર આસપાસના વાતાવરણના ટેમ્પરેચર કરતાં નીચું ઉત્પન્ન કરવું અને જાળવી રાખવાનો છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "રેફ્રિજરેશનનો મુખ્ય હેતુ નિયંત્રિત જગ્યાનું ટેમ્પરેચર આસપાસના વાતાવરણના ટેમ્પરેચર કરતાં નીચું ઉત્પન્ન કરવું અને જાળવી રાખવાનો છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": false
   },
   {
     "id": 2,
@@ -27,7 +28,8 @@
       "4.18 kW"
     ],
     "correctAnswer": 2,
-    "explanation": "1 TR = 3.517 kW (અથવા 211 kJ/min અથવા 50 kcal/min) થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "1 TR = 3.517 kW (અથવા 211 kJ/min અથવા 50 kcal/min) થાય છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 3,
@@ -42,7 +44,9 @@
       "30"
     ],
     "correctAnswer": 2,
-    "explanation": "1 TR = 50 kcal/min (અથવા 3000 kcal/hr) થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "1 TR = 50 kcal/min (અથવા 3000 kcal/hr) થાય છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 4,
@@ -57,7 +61,9 @@
       "એક્સપાન્શન વાલ્વ"
     ],
     "correctAnswer": 2,
-    "explanation": "કાસ્કેડ કન્ડેન્સરમાં LT સાઇડમાંથી રિજેક્ટ થતી હીટ HT સાઇડના ઇવેપોરેટર દ્વારા શોષાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "કાસ્કેડ કન્ડેન્સરમાં LT સાઇડમાંથી રિજેક્ટ થતી હીટ HT સાઇડના ઇવેપોરેટર દ્વારા શોષાય છે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 5,
@@ -72,7 +78,9 @@
       "હીટ રિજેક્શન / વર્ક ઈનપુટ"
     ],
     "correctAnswer": 1,
-    "explanation": "COP = ઇચ્છિત અસર (રેફ્રિજરેટિંગ ઇફેક્ટ) / જરૂરી વર્ક (વર્ક ઇનપુટ)[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "COP = ઇચ્છિત અસર (રેફ્રિજરેટિંગ ઇફેક્ટ) / જરૂરી વર્ક (વર્ક ઇનપુટ)[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 6,
@@ -87,7 +95,9 @@
       "(COP)R = (COP)HP + 1"
     ],
     "correctAnswer": 2,
-    "explanation": "સમાન ટેમ્પરેચર મર્યાદાઓ વચ્ચે (COP)HP = (COP)R + 1 થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "સમાન ટેમ્પરેચર મર્યાદાઓ વચ્ચે (COP)HP = (COP)R + 1 થાય છે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 7,
@@ -102,7 +112,9 @@
       "કોમ્પ્રેસરના પાવર કન્ઝમ્પશનમાં ઘટાડો"
     ],
     "correctAnswer": 1,
-    "explanation": "સબકૂલિંગ ન હોવાથી પાઇપલાઇનમાં ફ્લેશ ગેસ બની શકે છે, જે અનસ્ટેબલ ફ્લો પેદા કરે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "સબકૂલિંગ ન હોવાથી પાઇપલાઇનમાં ફ્લેશ ગેસ બની શકે છે, જે અનસ્ટેબલ ફ્લો પેદા કરે છે[cite: 5]. \n\n\n\n💡",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 8,
@@ -117,7 +129,9 @@
       "હવાને માત્ર ફિલ્ટર કરવી"
     ],
     "correctAnswer": 1,
-    "explanation": "હીટ પંપનો મુખ્ય ઉદ્દેશ્ય બંધ જગ્યાને આસપાસના વાતાવરણ કરતાં ઊંચા ટેમ્પરેચરે (ગરમ) રાખવાનો છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "હીટ પંપનો મુખ્ય ઉદ્દેશ્ય બંધ જગ્યાને આસપાસના વાતાવરણ કરતાં ઊંચા ટેમ્પરેચરે (ગરમ) રાખવાનો છે[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 9,
@@ -132,7 +146,9 @@
       "ઓટો સાયકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "કોઈપણ રેફ્રિજરેશન સિસ્ટમ માટેની આદર્શ સૈદ્ધાંતિક સાયકલ રિવર્સ્ડ કાર્નોટ સાયકલ છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "કોઈપણ રેફ્રિજરેશન સિસ્ટમ માટેની આદર્શ સૈદ્ધાંતિક સાયકલ રિવર્સ્ડ કાર્નોટ સાયકલ છે[cite: 5]. \n\n\n\n💡",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 10,
@@ -147,7 +163,9 @@
       "હીટ લોસ સાથે એડિયાબેટિક કમ્પ્રેશન"
     ],
     "correctAnswer": 0,
-    "explanation": "આદર્શ બેલ-કોલમેન સાયકલમાં રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક) કમ્પ્રેશન થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "આદર્શ બેલ-કોલમેન સાયકલમાં રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક) કમ્પ્રેશન થાય છે[cite: 5].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 11,
@@ -162,7 +180,9 @@
       "ટર્બાઈન"
     ],
     "correctAnswer": 3,
-    "explanation": "VCRS માં એક્સપાન્શન માટે થ્રોટલ વાલ્વ/કેપિલરી વપરાય છે, ટર્બાઈન નહીં[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "VCRS માં એક્સપાન્શન માટે થ્રોટલ વાલ્વ/કેપિલરી વપરાય છે, ટર્બાઈન નહીં[cite: 5]. \n\n\n\n💡",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 12,
@@ -177,7 +197,8 @@
       "એક્સપાન્શન વાલ્વમાં"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇવેપોરેટરમાં રેફ્રિજરેન્ટ નીચા પ્રેશરે અને સૌથી નીચા ટેમ્પરેચરે હીટ શોષે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "ઇવેપોરેટરમાં રેફ્રિજરેન્ટ નીચા પ્રેશરે અને સૌથી નીચા ટેમ્પરેચરે હીટ શોષે છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 13,
@@ -192,7 +213,9 @@
       "હાઈડ્રોજન ગેસ"
     ],
     "correctAnswer": 3,
-    "explanation": "હાઈડ્રોજન ગેસ એમોનિયાનું આંશિક પ્રેશર ઘટાડીને નીચા ટેમ્પરેચરે ઇવોપોરેશન શક્ય બનાવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "હાઈડ્રોજન ગેસ એમોનિયાનું આંશિક પ્રેશર ઘટાડીને નીચા ટેમ્પરેચરે ઇવોપોરેશન શક્ય બનાવે છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 14,
@@ -207,7 +230,9 @@
       "એક્સપાન્શન વાલ્વના ઇનલેટ પર"
     ],
     "correctAnswer": 0,
-    "explanation": "કમ્પ્રેસરમાં કમ્પ્રેશન થયા પછી ડિસ્ચાર્જ પોઇન્ટ પર સુપરહીટેડ વેપરનું ટેમ્પરેચર મહત્તમ હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "કમ્પ્રેસરમાં કમ્પ્રેશન થયા પછી ડિસ્ચાર્જ પોઇન્ટ પર સુપરહીટેડ વેપરનું ટેમ્પરેચર મહત્તમ હોય છે[cite: 5].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 15,
@@ -222,7 +247,9 @@
       "રેફ્રિજરેન્ટનું બાષ્પીભવન કરવું"
     ],
     "correctAnswer": 2,
-    "explanation": "કન્ડેન્સર હાઇ-પ્રેશર વેપર રેફ્રિજરેન્ટમાંથી હીટ વાતાવરણ કે કૂલિંગ મીડિયમમાં મુક્ત કરીને ફ્લુઇડ બનાવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "કન્ડેન્સર હાઇ-પ્રેશર વેપર રેફ્રિજરેન્ટમાંથી હીટ વાતાવરણ કે કૂલિંગ મીડિયમમાં મુક્ત કરીને ફ્લુઇડ બનાવે છે[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 16,
@@ -237,7 +264,8 @@
       "કન્ડેન્સરમાં હાઇ-પ્રેશર વેપર સાથે ભળે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "એબ્સોર્બરમાં વીક સોલ્યુશન આ વેપરને શોષીને સ્ટ્રોંગ સોલ્યુશન બનાવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "એબ્સોર્બરમાં વીક સોલ્યુશન આ વેપરને શોષીને સ્ટ્રોંગ સોલ્યુશન બનાવે છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 17,
@@ -252,7 +280,9 @@
       "થ્રોટલ વાલ્વ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇવેપોરેટરમાં રેફ્રિજરેન્ટ ઠંડી થતી જગ્યામાંથી ગુપ્ત હીટ શોષીને બાષ્પીભવન પામે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "ઇવેપોરેટરમાં રેફ્રિજરેન્ટ ઠંડી થતી જગ્યામાંથી ગુપ્ત હીટ શોષીને બાષ્પીભવન પામે છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 18,
@@ -267,7 +297,8 @@
       "અચળ પ્રેશરે એક્સપાન્શન"
     ],
     "correctAnswer": 2,
-    "explanation": "થ્રોટલિંગ વાલ્વમાં વિસ્તરણ અચળ એન્થાલ્પી (આઈસેન્થાલ્પિક, h1 = h2) પર થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "થ્રોટલિંગ વાલ્વમાં વિસ્તરણ અચળ એન્થાલ્પી (આઈસેન્થાલ્પિક, h1 = h2) પર થાય છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 19,
@@ -282,7 +313,9 @@
       "સિલિકા જેલનું કોટિંગ ધરાવતી રિબન પરથી પસાર કરીને"
     ],
     "correctAnswer": 3,
-    "explanation": "સિલિકા જેલ જેવા ડેસિકન્ટ દ્વારા હવામાંથી કેમિકલ શોષણ કરીને ભેજ દૂર કરવામાં આવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "સિલિકા જેલ જેવા ડેસિકન્ટ દ્વારા હવામાંથી કેમિકલ શોષણ કરીને ભેજ દૂર કરવામાં આવે છે[cite: 5]. \n\n\n\n💡",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 20,
@@ -297,7 +330,8 @@
       "સેન્ટ્રીફ્યુગલ પંપ"
     ],
     "correctAnswer": 0,
-    "explanation": "ઘરેલું ફ્રિજમાં સરળતા અને ઓછા ખર્ચ માટે ફિક્સ રેસ્ટ્રિક્શન તરીકે કેપિલરી ટ્યુબ વપરાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "ઘરેલું ફ્રિજમાં સરળતા અને ઓછા ખર્ચ માટે ફિક્સ રેસ્ટ્રિક્શન તરીકે કેપિલરી ટ્યુબ વપરાય છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 21,
@@ -312,7 +346,8 @@
       "સુપરકૂલ્ડ ફ્લુઇડ"
     ],
     "correctAnswer": 2,
-    "explanation": "કમ્પ્રેસરમાં લિક્વિડ હેમરિંગ અટકાવવા ઇનલેટ પર વરાળ ડ્રાય સેચ્યુરેટેડ અથવા સહેજ સુપરહીટેડ હોવી જોઈએ[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "કમ્પ્રેસરમાં લિક્વિડ હેમરિંગ અટકાવવા ઇનલેટ પર વરાળ ડ્રાય સેચ્યુરેટેડ અથવા સહેજ સુપરહીટેડ હોવી જોઈએ[cite: 5]. \n\n\n\n💡",
+    "isPYQ": false
   },
   {
     "id": 22,
@@ -327,7 +362,9 @@
       "ડ્રાય વરાળ"
     ],
     "correctAnswer": 2,
-    "explanation": "કન્ડેન્સેશન પૂર્ણ થયા પછી રેફ્રિજરેન્ટ સેચ્યુરેટેડ લિક્વિડ અથવા સબકૂલ્ડ લિક્વિડ સ્થિતિમાં હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "કન્ડેન્સેશન પૂર્ણ થયા પછી રેફ્રિજરેન્ટ સેચ્યુરેટેડ લિક્વિડ અથવા સબકૂલ્ડ લિક્વિડ સ્થિતિમાં હોય છે[cite: 5].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 23,
@@ -342,7 +379,9 @@
       "એક્સપાન્શન ડિવાઈસની જરૂરિયાત દૂર કરવા અને ઓપરેશન સરળ બનાવવા"
     ],
     "correctAnswer": 0,
-    "explanation": "ખૂબ નીચા ટેમ્પરેચરે કામ કરવા માટે લો-ટેમ્પ સાઈડ પર લો-બોઈલિંગ પોઈન્ટ વાળો રેફ્રિજરેન્ટ અનુકૂળ રહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "ખૂબ નીચા ટેમ્પરેચરે કામ કરવા માટે લો-ટેમ્પ સાઈડ પર લો-બોઈલિંગ પોઈન્ટ વાળો રેફ્રિજરેન્ટ અનુકૂળ રહે છે[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 24,
@@ -357,7 +396,9 @@
       "સી.ઓ.પી. ઘટે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "સબકૂલિંગ કરવાથી ઇવેપોરેટર ઇનલેટ પર એન્થાલ્પી ઘટે છે, જેથી નેટ રેફ્રિજરેટિંગ ઇફેક્ટ અને COP વધે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "સબકૂલિંગ કરવાથી ઇવેપોરેટર ઇનલેટ પર એન્થાલ્પી ઘટે છે, જેથી નેટ રેફ્રિજરેટિંગ ઇફેક્ટ અને COP વધે છે[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 25,
@@ -372,7 +413,9 @@
       "વધુ હીટ ઉત્પન્ન કરવા"
     ],
     "correctAnswer": 1,
-    "explanation": "મોટર અને કમ્પ્રેસર એક જ વેલ્ડેડ સીલબંધ શેલમાં હોવાથી રેફ્રિજરેન્ટનું લીકેજ સંપૂર્ણપણે અટકે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "મોટર અને કમ્પ્રેસર એક જ વેલ્ડેડ સીલબંધ શેલમાં હોવાથી રેફ્રિજરેન્ટનું લીકેજ સંપૂર્ણપણે અટકે છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 26,
@@ -387,7 +430,8 @@
       "કન્ડેન્સર, એક્સપાન્શન વાલ્વ, ઇવેપોરેટર"
     ],
     "correctAnswer": 3,
-    "explanation": "બંને સિસ્ટમમાં કન્ડેન્સર, એક્સપાન્શન ડિવાઇસ અને ઇવેપોરેટર સમાન હોય છે; માત્ર કમ્પ્રેસરની જગ્યાએ એબ્સોર્બર-પંપ-જનરેટર આવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "બંને સિસ્ટમમાં કન્ડેન્સર, એક્સપાન્શન ડિવાઇસ અને ઇવેપોરેટર સમાન હોય છે; માત્ર કમ્પ્રેસરની જગ્યાએ એબ્સોર્બર-પંપ-જનરેટર આવે છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 27,
@@ -402,7 +446,9 @@
       "પાણી"
     ],
     "correctAnswer": 2,
-    "explanation": "બેલ-કોલમેન ગેસ સાયકલમાં વર્કિંગ ફ્લુઇડ તરીકે હવા (Air) નો ઉપયોગ થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "બેલ-કોલમેન ગેસ સાયકલમાં વર્કિંગ ફ્લુઇડ તરીકે હવા (Air) નો ઉપયોગ થાય છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 28,
@@ -417,7 +463,9 @@
       "એરિક્સન સાયકલ"
     ],
     "correctAnswer": 0,
-    "explanation": "બેલ-કોલમેન સાયકલને રિવર્સ્ડ બ્રેટન અથવા રિવર્સ્ડ જૂલ સાયકલ પણ કહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "બેલ-કોલમેન સાયકલને રિવર્સ્ડ બ્રેટન અથવા રિવર્સ્ડ જૂલ સાયકલ પણ કહે છે[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 29,
@@ -432,7 +480,9 @@
       "એન્થાલ્પી"
     ],
     "correctAnswer": 2,
-    "explanation": "અચળ પ્રેશરે (Constant pressure) હવાને ઠંડી પાડતાં જે ટેમ્પરેચરે પાણીની વરાળનું કન્ડેન્સેશન શરૂ થાય તેને DPT કહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "અચળ પ્રેશરે (Constant pressure) હવાને ઠંડી પાડતાં જે ટેમ્પરેચરે પાણીની વરાળનું કન્ડેન્સેશન શરૂ થાય તેને DPT કહે છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 30,
@@ -447,7 +497,9 @@
       "સ્ટીમ જેટ રેફ્રિજરેશન સિસ્ટમ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓછા વજન અને હવાની સરળ પ્રાપ્યતાને કારણે એરક્રાફ્ટમાં એર રેફ્રિજરેશન સિસ્ટમ વપરાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "ઓછા વજન અને હવાની સરળ પ્રાપ્યતાને કારણે એરક્રાફ્ટમાં એર રેફ્રિજરેશન સિસ્ટમ વપરાય છે[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 31,
@@ -462,7 +514,9 @@
       "તે અવાજ નથી કરતી"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રતિ ટન રેફ્રિજરેશન દીઠ સિસ્ટમનું વજન (Weight per TR) અન્ય સિસ્ટમો કરતાં ઘણું ઓછું હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "પ્રતિ ટન રેફ્રિજરેશન દીઠ સિસ્ટમનું વજન (Weight per TR) અન્ય સિસ્ટમો કરતાં ઘણું ઓછું હોય છે[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 32,
@@ -477,7 +531,9 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "હીટ સોર્સ અને એર સોર્સ બંને પરિબળોના આધારે ઓટોમોબાઇલ હીટર વર્ગીકૃત થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "હીટ સોર્સ અને એર સોર્સ બંને પરિબળોના આધારે ઓટોમોબાઇલ હીટર વર્ગીકૃત થાય છે[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 33,
@@ -492,7 +548,8 @@
       "2 આઈસોથર્મલ અને 2 અચળ વોલ્યુમ"
     ],
     "correctAnswer": 0,
-    "explanation": "તેમાં 2 રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક) અને 2 આઈસોબારિક (અચળ પ્રેશર) પ્રોસેસીસ હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "તેમાં 2 રિવર્સિબલ એડિઆબેટિક (આઈસેન્ટ્રોપિક) અને 2 આઈસોબારિક (અચળ પ્રેશર) પ્રોસેસીસ હોય છે[cite: 5]. \n\n\n\n💡",
+    "isPYQ": false
   },
   {
     "id": 34,
@@ -507,7 +564,9 @@
       "ઈવેપોરેટર"
     ],
     "correctAnswer": 2,
-    "explanation": "ગેસ સાયકલમાં થ્રોટલિંગ વાલ્વના સ્થાને વર્ક મેળવવા માટે એક્સપાન્ડર (એર ટર્બાઇન) વપરાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "ગેસ સાયકલમાં થ્રોટલિંગ વાલ્વના સ્થાને વર્ક મેળવવા માટે એક્સપાન્ડર (એર ટર્બાઇન) વપરાય છે[cite: 5].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 35,
@@ -522,7 +581,9 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "VCRS નો COP સામાન્ય રીતે 2 થી 5 ની વચ્ચે (એટલે કે 1 કરતાં વધારે) હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "VCRS નો COP સામાન્ય રીતે 2 થી 5 ની વચ્ચે (એટલે કે 1 કરતાં વધારે) હોય છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 36,
@@ -537,7 +598,9 @@
       "8"
     ],
     "correctAnswer": 1,
-    "explanation": "COP = Refrigeration Effect / Work Input = 6 kW / 2 kW = 3[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "COP = Refrigeration Effect / Work Input = 6 kW / 2 kW = 3[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 37,
@@ -552,7 +615,9 @@
       "6"
     ],
     "correctAnswer": 2,
-    "explanation": "(COP)HP = (COP)R + 1 = 4 + 1 = 5[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "(COP)HP = (COP)R + 1 = 4 + 1 = 5[cite: 5]. \n\n\n\n💡",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 38,
@@ -567,7 +632,9 @@
       "કોન્સ્ટન્ટ પ્રેશર"
     ],
     "correctAnswer": 0,
-    "explanation": "એર કન્ડિશનિંગ ડક્ટમાં હવાનું મિશ્રણ ઇન્સ્યુલેટેડ હોવાથી તે એડિઆબેટિક મિક્સિંગ ગણાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "એર કન્ડિશનિંગ ડક્ટમાં હવાનું મિશ્રણ ઇન્સ્યુલેટેડ હોવાથી તે એડિઆબેટિક મિક્સિંગ ગણાય છે[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 39,
@@ -582,7 +649,9 @@
       "(TH - TL) / TH"
     ],
     "correctAnswer": 1,
-    "explanation": "રેફ્રિજરેટર માટે કાર્નોટ COP = TL / (TH - TL) થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "રેફ્રિજરેટર માટે કાર્નોટ COP = TL / (TH - TL) થાય છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 40,
@@ -597,7 +666,9 @@
       "(TH - TL) / TH"
     ],
     "correctAnswer": 0,
-    "explanation": "હીટ પંપ માટે કાર્નોટ COP = TH / (TH - TL) થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "હીટ પંપ માટે કાર્નોટ COP = TH / (TH - TL) થાય છે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 41,
@@ -612,7 +683,9 @@
       "રિવર્સ્ડ કાર્નોટ સાયકલ"
     ],
     "correctAnswer": 2,
-    "explanation": "વેપર કમ્પ્રેશન સિસ્ટમ મોડિફાઈડ રિવર્સ્ડ રેન્કિન સાયકલ પર વર્ક કરે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "વેપર કમ્પ્રેશન સિસ્ટમ મોડિફાઈડ રિવર્સ્ડ રેન્કિન સાયકલ પર વર્ક કરે છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 42,
@@ -627,7 +700,9 @@
       "શૂન્ય થશે"
     ],
     "correctAnswer": 1,
-    "explanation": "TL વધારવાથી ટેમ્પરેચર લિફ્ટ (TH - TL) ઘટે છે, જેથી કમ્પ્રેશન વર્ક ઘટે છે અને COP વધે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "TL વધારવાથી ટેમ્પરેચર લિફ્ટ (TH - TL) ઘટે છે, જેથી કમ્પ્રેશન વર્ક ઘટે છે અને COP વધે છે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 43,
@@ -642,7 +717,9 @@
       "પહેલા વધશે પછી ઘટશે"
     ],
     "correctAnswer": 2,
-    "explanation": "કન્ડેન્સર ટેમ્પરેચર TH વધવાથી પ્રેશર રેશિયો અને કમ્પ્રેસર વર્ક વધે છે, જેથી COP ઘટે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "કન્ડેન્સર ટેમ્પરેચર TH વધવાથી પ્રેશર રેશિયો અને કમ્પ્રેસર વર્ક વધે છે, જેથી COP ઘટે છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 44,
@@ -657,7 +734,9 @@
       "પાવર વપરાશ ઘટે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "બરફ થર્મલ ઇન્સ્યુલેટર તરીકે વર્તે છે, જેથી કોઈલ અને હવા વચ્ચે હીટ ટ્રાન્સફર રેટ ઘટી જાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "બરફ થર્મલ ઇન્સ્યુલેટર તરીકે વર્તે છે, જેથી કોઈલ અને હવા વચ્ચે હીટ ટ્રાન્સફર રેટ ઘટી જાય છે[cite: 5].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 45,
@@ -672,7 +751,9 @@
       "એન્ટ્રોપી"
     ],
     "correctAnswer": 2,
-    "explanation": "p-h ચાર્ટમાં x-ધરી પર એન્થાલ્પી હોવાથી ઊભી રેખાઓ કોન્સ્ટન્ટ એન્થાલ્પી દર્શાવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "p-h ચાર્ટમાં x-ધરી પર એન્થાલ્પી હોવાથી ઊભી રેખાઓ કોન્સ્ટન્ટ એન્થાલ્પી દર્શાવે છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 46,
@@ -687,7 +768,9 @@
       "ઉચ્ચ ફ્રીઝિંગ પોઇન્ટ"
     ],
     "correctAnswer": 2,
-    "explanation": "ઓછા માસ ફ્લો રેટ પર વધુ કૂલિંગ મેળવવા રેફ્રિજરેન્ટની લેટન્ટ હીટ ઊંચી હોવી જરૂરી છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "ઓછા માસ ફ્લો રેટ પર વધુ કૂલિંગ મેળવવા રેફ્રિજરેન્ટની લેટન્ટ હીટ ઊંચી હોવી જરૂરી છે[cite: 5].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 47,
@@ -702,7 +785,8 @@
       "4.0"
     ],
     "correctAnswer": 2,
-    "explanation": "(COP)HP = 1 / η = 1 / 0.8 = 1.25. તેથી (COP)R = (COP)HP - 1 = 1.25 - 1 = 0.25[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "(COP)HP = 1 / η = 1 / 0.8 = 1.25. તેથી (COP)R = (COP)HP - 1 = 1.25 - 1 = 0.25[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "isPYQ": false
   },
   {
     "id": 48,
@@ -717,7 +801,9 @@
       "લો લેટેન્ટ હીટ ઓફ ઇવોપરેશન"
     ],
     "correctAnswer": 3,
-    "explanation": "રેફ્રિજરેન્ટની લેટન્ટ હીટ ઊંચી હોવી જોઈએ; નીચી લેટન્ટ હીટ અનિચ્છનીય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "રેફ્રિજરેન્ટની લેટન્ટ હીટ ઊંચી હોવી જોઈએ; નીચી લેટન્ટ હીટ અનિચ્છનીય છે[cite: 5].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 49,
@@ -732,7 +818,8 @@
       "15 kW"
     ],
     "correctAnswer": 1,
-    "explanation": "Power Input = Capacity / COP = 10 kW / 5 = 2 kW[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "Power Input = Capacity / COP = 10 kW / 5 = 2 kW[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": false
   },
   {
     "id": 50,
@@ -747,7 +834,9 @@
       "સુપરહીટેડ વરાળ"
     ],
     "correctAnswer": 2,
-    "explanation": "થ્રોટલિંગ દરમિયાન આંશિક ફ્લેશિંગ થવાથી તે લો-પ્રેશર લિક્વિડ અને વેપરનું મિશ્રણ (ભીની વરાળ) હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "થ્રોટલિંગ દરમિયાન આંશિક ફ્લેશિંગ થવાથી તે લો-પ્રેશર લિક્વિડ અને વેપરનું મિશ્રણ (ભીની વરાળ) હોય છે[cite: 5].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 51,
@@ -762,7 +851,9 @@
       "હીટેડ અને ડિહ્યુમિડિફાઇડ (Heated and dehumidified)"
     ],
     "correctAnswer": 0,
-    "explanation": "પાણીનું ટેમ્પરેચર DBT કરતાં ઓછું હોવાથી હવા ઠંડી થાય છે અને DPT કરતાં વધુ હોવાથી બાષ્પીભવન થઈ ભેજ વધે છે (કૂલિંગ અને હ્યુમિડિફિકેશન)[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "પાણીનું ટેમ્પરેચર DBT કરતાં ઓછું હોવાથી હવા ઠંડી થાય છે અને DPT કરતાં વધુ હોવાથી બાષ્પીભવન થઈ ભેજ વધે છે (કૂલિંગ અને હ્યુમિડિફિકેશન)[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 52,
@@ -777,7 +868,9 @@
       "આઈસેન્થાલ્પિક પ્રોસેસ દ્વારા"
     ],
     "correctAnswer": 1,
-    "explanation": "હવામાં ફેઝ ચેન્જ થતો નથી, તેથી હીટનું શોષણ અને નિકાલ સેન્સિબલ હીટ (ટેમ્પરેચર ફેરફાર) દ્વારા થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "હવામાં ફેઝ ચેન્જ થતો નથી, તેથી હીટનું શોષણ અને નિકાલ સેન્સિબલ હીટ (ટેમ્પરેચર ફેરફાર) દ્વારા થાય છે[cite: 5].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 53,
@@ -792,7 +885,8 @@
       "100 કિલો બરફને 24 કલાકમાં પીગળવા માટે જરૂરી હીટ"
     ],
     "correctAnswer": 0,
-    "explanation": "0°C ટેમ્પરેચર ધરાવતા 1 ટન (2000 lbs અથવા 1000 kg) બરફને 24 કલાકમાં 0°C પાણીમાં પીગાળવા માટે જરૂરી હીટ એક્સ્ટ્રેક્શન રેટ[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "0°C ટેમ્પરેચર ધરાવતા 1 ટન (2000 lbs અથવા 1000 kg) બરફને 24 કલાકમાં 0°C પાણીમાં પીગાળવા માટે જરૂરી હીટ એક્સ્ટ્રેક્શન રેટ[cite: 5]. \n\n\n\n💡",
+    "isPYQ": false
   },
   {
     "id": 54,
@@ -807,7 +901,8 @@
       "4"
     ],
     "correctAnswer": 2,
-    "explanation": "RE = Q_cond - W = 120 - 30 = 90 kW. COP = RE / W = 90 / 30 = 3 (નોંધ: Answer Key D મુજબ 4 આપેલ છે[cite: 5], પરંતુ સૈદ્ધાંતિક રીતે 3 થાય)[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "RE = Q_cond - W = 120 - 30 = 90 kW. COP = RE / W = 90 / 30 = 3 (નોંધ: Answer Key D મુજબ 4 આપેલ છે[cite: 5], પરંતુ સૈદ્ધાંતિક રીતે 3 થાય)[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 55,
@@ -822,7 +917,9 @@
       "વેન્ટિલેશન"
     ],
     "correctAnswer": 2,
-    "explanation": "વાતાવરણ કરતાં નીચું ટેમ્પરેચર ઉત્પન્ન કરી જાળવી રાખવાની ક્રિયાને રેફ્રિજરેશન કહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "વાતાવરણ કરતાં નીચું ટેમ્પરેચર ઉત્પન્ન કરી જાળવી રાખવાની ક્રિયાને રેફ્રિજરેશન કહે છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 56,
@@ -837,7 +934,9 @@
       "થ્રોટલ વાલ્વ રેફ્રિજરેન્ટને શુદ્ધ કરે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "ફ્લુઇડ વિસ્તરણ દરમિયાન મળતું વર્ક નહિવત હોવાથી એક્સપાન્ડર લગાવવાનો ખર્ચ અને જટિલતા વ્યાજબી નથી[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "ફ્લુઇડ વિસ્તરણ દરમિયાન મળતું વર્ક નહિવત હોવાથી એક્સપાન્ડર લગાવવાનો ખર્ચ અને જટિલતા વ્યાજબી નથી[cite: 5].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 57,
@@ -852,7 +951,9 @@
       "ડ્રાય બલ્બ ટેમ્પરેચર ડ્યૂ પોઈન્ટ ટેમ્પરેચર કરતા વધારે હોય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "સંતૃપ્ત (100% RH) હવામાં DBT = WBT = DPT હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "સંતૃપ્ત (100% RH) હવામાં DBT = WBT = DPT હોય છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 58,
@@ -867,7 +968,9 @@
       "ફ્લુઇડ રેફ્રિજરેન્ટને વરાળમાં ફેરવવું"
     ],
     "correctAnswer": 2,
-    "explanation": "કમ્પ્રેસર ઇવેપોરેટરમાંથી લો-પ્રેશર વેપર ખેંચી તેનું પ્રેશર અને ટેમ્પરેચર વધારીને કન્ડેન્સરમાં મોકલે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "કમ્પ્રેસર ઇવેપોરેટરમાંથી લો-પ્રેશર વેપર ખેંચી તેનું પ્રેશર અને ટેમ્પરેચર વધારીને કન્ડેન્સરમાં મોકલે છે[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 59,
@@ -882,7 +985,9 @@
       "પાણીના ફ્રીઝિંગ પોઇન્ટ જેટલો"
     ],
     "correctAnswer": 1,
-    "explanation": "ઇવેપોરેટરમાં સિસ્ટમ બ્લોક ન થાય તે માટે ફ્રીઝિંગ પોઇન્ટ ઇવેપોરેટર ટેમ્પરેચર કરતાં ઘણો નીચો હોવો જોઈએ[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "ઇવેપોરેટરમાં સિસ્ટમ બ્લોક ન થાય તે માટે ફ્રીઝિંગ પોઇન્ટ ઇવેપોરેટર ટેમ્પરેચર કરતાં ઘણો નીચો હોવો જોઈએ[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 60,
@@ -897,7 +1002,9 @@
       "0.5"
     ],
     "correctAnswer": 3,
-    "explanation": "Efficiency = (t2 - t1) / (ts - t1) = (35 - 20) / (50 - 20) = 15 / 30 = 0.5[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "Efficiency = (t2 - t1) / (ts - t1) = (35 - 20) / (50 - 20) = 15 / 30 = 0.5[cite: 5].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 61,
@@ -912,7 +1019,8 @@
       "અવાજ રહિત કામગીરી"
     ],
     "correctAnswer": 1,
-    "explanation": "એરક્રાફ્ટમાં ઓછા વજન દીઠ વધુ કૂલિંગ ક્ષમતા (High power-to-weight ratio) સૌથી મહત્વની છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "એરક્રાફ્ટમાં ઓછા વજન દીઠ વધુ કૂલિંગ ક્ષમતા (High power-to-weight ratio) સૌથી મહત્વની છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": false
   },
   {
     "id": 62,
@@ -927,7 +1035,8 @@
       "સ્ટીમ જેટ સિસ્ટમ"
     ],
     "correctAnswer": 2,
-    "explanation": "ઘરેલું રેફ્રિજરેટરમાં ઉચ્ચ વર્કક્ષમતા માટે વેપર કમ્પ્રેશન સિસ્ટમ (VCRS) વપરાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "ઘરેલું રેફ્રિજરેટરમાં ઉચ્ચ વર્કક્ષમતા માટે વેપર કમ્પ્રેશન સિસ્ટમ (VCRS) વપરાય છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 63,
@@ -942,7 +1051,9 @@
       "71%"
     ],
     "correctAnswer": 3,
-    "explanation": "Pv = (mv/0.622*ma)*P ≈ 2.25 kPa. RH = Pv / Psat = 2.25 / 3.17 ≈ 71%[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "Pv = (mv/0.622*ma)*P ≈ 2.25 kPa. RH = Pv / Psat = 2.25 / 3.17 ≈ 71%[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 64,
@@ -957,7 +1068,8 @@
       "અચળ વોલ્યુમ પર"
     ],
     "correctAnswer": 1,
-    "explanation": "હીટ રિજેક્શન કન્ડેન્સરમાં ઊંચા પ્રેશરે અને હીટ એડિશન ઇવેપોરેટરમાં નીચા પ્રેશરે થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "હીટ રિજેક્શન કન્ડેન્સરમાં ઊંચા પ્રેશરે અને હીટ એડિશન ઇવેપોરેટરમાં નીચા પ્રેશરે થાય છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 65,
@@ -972,7 +1084,9 @@
       "કમ્પ્રેસરની સ્પીડ પર"
     ],
     "correctAnswer": 1,
-    "explanation": "કાર્નોટ COP = TL / (TH - TL) માત્ર વર્કકારી ટેમ્પરેચર મર્યાદાઓ પર આધારિત છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "કાર્નોટ COP = TL / (TH - TL) માત્ર વર્કકારી ટેમ્પરેચર મર્યાદાઓ પર આધારિત છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 66,
@@ -987,7 +1101,9 @@
       "ડ્રાય એર અને ડસ્ટ"
     ],
     "correctAnswer": 0,
-    "explanation": "સાયક્રોમેટ્રીમાં વાતાવરણની હવા શુષ્ક હવા (Dry air) અને પાણીની વરાળ (Water vapor) નું મિશ્રણ માનવામાં આવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "સાયક્રોમેટ્રીમાં વાતાવરણની હવા શુષ્ક હવા (Dry air) અને પાણીની વરાળ (Water vapor) નું મિશ્રણ માનવામાં આવે છે[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 67,
@@ -1002,7 +1118,9 @@
       "NH3"
     ],
     "correctAnswer": 2,
-    "explanation": "પાણી (H2O) નું ક્રિટિકલ ટેમ્પરેચર 374°C છે, જે તમામમાં સૌથી વધારે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "પાણી (H2O) નું ક્રિટિકલ ટેમ્પરેચર 374°C છે, જે તમામમાં સૌથી વધારે છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 68,
@@ -1017,7 +1135,8 @@
       "ડિગ્રી ઓફ સેચ્યુરેશન"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રતિ kg ડ્રાય એરમાં રહેલા ભેજને સ્પેસિફિક હ્યુમિડિટી અથવા હ્યુમિડિટી રેશિયો (W) કહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "પ્રતિ kg ડ્રાય એરમાં રહેલા ભેજને સ્પેસિફિક હ્યુમિડિટી અથવા હ્યુમિડિટી રેશિયો (W) કહે છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 69,
@@ -1032,7 +1151,9 @@
       "સેન્સિબલ હ્યુમિડિટી"
     ],
     "correctAnswer": 2,
-    "explanation": "એકમ વોલ્યુમ દીઠ વરાળના માસ (kg/m³) ને એબ્સોલ્યુટ હ્યુમિડિટી (Absolute Humidity) કહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "એકમ વોલ્યુમ દીઠ વરાળના માસ (kg/m³) ને એબ્સોલ્યુટ હ્યુમિડિટી (Absolute Humidity) કહે છે[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 70,
@@ -1047,7 +1168,9 @@
       "(td3 - td2) / (td1 - td3)"
     ],
     "correctAnswer": 1,
-    "explanation": "BPF = (td2 - td3) / (td1 - td3) = (બહાર નીકળતી હવાનું ટેમ્પરેચર - કોઈલ ટેમ્પરેચર) / (દાખલ થતી હવાનું ટેમ્પરેચર - કોઈલ ટેમ્પરેચર)[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "BPF = (td2 - td3) / (td1 - td3) = (બહાર નીકળતી હવાનું ટેમ્પરેચર - કોઈલ ટેમ્પરેચર) / (દાખલ થતી હવાનું ટેમ્પરેચર - કોઈલ ટેમ્પરેચર)[cite: 5].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 71,
@@ -1062,7 +1185,9 @@
       "ડિગ્રી ઓફ સેચ્યુરેશન"
     ],
     "correctAnswer": 0,
-    "explanation": "આ ગુણોત્તર (Pv / Psat) ને રિલેટિવ હ્યુમિડિટી (Relative Humidity) કહેવામાં આવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "આ ગુણોત્તર (Pv / Psat) ને રિલેટિવ હ્યુમિડિટી (Relative Humidity) કહેવામાં આવે છે[cite: 5]. \n\n\n\n💡",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 72,
@@ -1077,7 +1202,9 @@
       "સેચ્યુરેશન ટેમ્પરેચર"
     ],
     "correctAnswer": 0,
-    "explanation": "સામાન્ય થર્મોમીટર દ્વારા સીધું મપાતું ટેમ્પરેચર ડ્રાય બલ્બ ટેમ્પરેચર (DBT) કહેવાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "સામાન્ય થર્મોમીટર દ્વારા સીધું મપાતું ટેમ્પરેચર ડ્રાય બલ્બ ટેમ્પરેચર (DBT) કહેવાય છે[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 73,
@@ -1092,7 +1219,9 @@
       "ડ્રાય સેચ્યુરેટેડ વેપર"
     ],
     "correctAnswer": 3,
-    "explanation": "આદર્શ સાયકલમાં ઇવેપોરેશન પૂર્ણ થતાં તે ડ્રાય સેચ્યુરેટેડ વેપર સ્થિતિમાં હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "આદર્શ સાયકલમાં ઇવેપોરેશન પૂર્ણ થતાં તે ડ્રાય સેચ્યુરેટેડ વેપર સ્થિતિમાં હોય છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 74,
@@ -1107,7 +1236,9 @@
       "એબ્સોલ્યુટ ટેમ્પરેચર"
     ],
     "correctAnswer": 1,
-    "explanation": "ભીના કપડાવાળા બલ્બ વડે બાષ્પીભવન અસર સાથે મપાતા ટેમ્પરેચરને વેટ બલ્બ ટેમ્પરેચર (WBT) કહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "ભીના કપડાવાળા બલ્બ વડે બાષ્પીભવન અસર સાથે મપાતા ટેમ્પરેચરને વેટ બલ્બ ટેમ્પરેચર (WBT) કહે છે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 75,
@@ -1122,7 +1253,9 @@
       "ક્રિટિકલ ટેમ્પરેચર"
     ],
     "correctAnswer": 2,
-    "explanation": "હવામાંથી ભેજ ઘનીભવન પામી ઝાકળ બનવાનું શરૂ થાય તે ટેમ્પરેચરને ડ્યૂ પોઈન્ટ ટેમ્પરેચર (DPT) કહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "હવામાંથી ભેજ ઘનીભવન પામી ઝાકળ બનવાનું શરૂ થાય તે ટેમ્પરેચરને ડ્યૂ પોઈન્ટ ટેમ્પરેચર (DPT) કહે છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 76,
@@ -1137,7 +1270,9 @@
       "પાણી ક્યારેય ઇવોપરેટ થશે નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "ક્રિટિકલ ટેમ્પરેચરથી ઉપર ગમે તેટલું ઊંચું પ્રેશર આપવામાં આવે તો પણ વાયુનું ફ્લુઇડકરણ (Liquefaction) થઈ શકતું નથી[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "ક્રિટિકલ ટેમ્પરેચરથી ઉપર ગમે તેટલું ઊંચું પ્રેશર આપવામાં આવે તો પણ વાયુનું ફ્લુઇડકરણ (Liquefaction) થઈ શકતું નથી[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 77,
@@ -1152,7 +1287,9 @@
       "હ્યુમિડિટી ડિપ્રેશન"
     ],
     "correctAnswer": 1,
-    "explanation": "ડ્રાય બલ્બ ટેમ્પરેચર અને વેટ બલ્બ ટેમ્પરેચર વચ્ચેના તફાવતને વેટ બલ્બ ડિપ્રેશન (WBD = DBT - WBT) કહેવામાં આવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "ડ્રાય બલ્બ ટેમ્પરેચર અને વેટ બલ્બ ટેમ્પરેચર વચ્ચેના તફાવતને વેટ બલ્બ ડિપ્રેશન (WBD = DBT - WBT) કહેવામાં આવે છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 78,
@@ -1167,7 +1304,9 @@
       "ડ્રાય બલ્બ ડિપ્રેશન"
     ],
     "correctAnswer": 1,
-    "explanation": "ડ્રાય બલ્બ ટેમ્પરેચર અને ડ્યૂ પોઇન્ટ ટેમ્પરેચર વચ્ચેના તફાવતને ડ્યૂ પોઈન્ટ ડિપ્રેશન (DPD = DBT - DPT) કહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "ડ્રાય બલ્બ ટેમ્પરેચર અને ડ્યૂ પોઇન્ટ ટેમ્પરેચર વચ્ચેના તફાવતને ડ્યૂ પોઈન્ટ ડિપ્રેશન (DPD = DBT - DPT) કહે છે[cite: 5].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 79,
@@ -1182,7 +1321,9 @@
       "2.9"
     ],
     "correctAnswer": 1,
-    "explanation": "Cut-off ratio rc = 1 + (cut-off fraction × (r - 1)) = 1 + (0.06 × 15) = 1 + 0.9 = 1.9[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "Cut-off ratio rc = 1 + (cut-off fraction × (r - 1)) = 1 + (0.06 × 15) = 1 + 0.9 = 1.9[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 80,
@@ -1197,7 +1338,9 @@
       "અનંત"
     ],
     "correctAnswer": 0,
-    "explanation": "100% RH પર DBT = WBT હોવાથી વેટ બલ્બ ડિપ્રેશન (DBT - WBT) શૂન્ય થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "100% RH પર DBT = WBT હોવાથી વેટ બલ્બ ડિપ્રેશન (DBT - WBT) શૂન્ય થાય છે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 81,
@@ -1212,7 +1355,8 @@
       "વેટ બલ્બ ટેમ્પરેચર > ડ્યૂ પોઈન્ટ ટેમ્પરેચર"
     ],
     "correctAnswer": 2,
-    "explanation": "સંતૃપ્ત હવા (Saturated air) માટે ડ્રાય બલ્બ, વેટ બલ્બ અને ડ્યૂ પોઈન્ટ ત્રણેય ટેમ્પરેચર સમાન હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "સંતૃપ્ત હવા (Saturated air) માટે ડ્રાય બલ્બ, વેટ બલ્બ અને ડ્યૂ પોઈન્ટ ત્રણેય ટેમ્પરેચર સમાન હોય છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": false
   },
   {
     "id": 82,
@@ -1227,7 +1371,9 @@
       "એન્જિન સ્પીડ"
     ],
     "correctAnswer": 3,
-    "explanation": "એન્જિનની સ્પીડ વધવાથી ટર્બ્યુલન્સ વધે છે અને બર્નિંગ ઝડપી બને છે, જેથી SI એન્જિનમાં નોકિંગ ઘટે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "એન્જિનની સ્પીડ વધવાથી ટર્બ્યુલન્સ વધે છે અને બર્નિંગ ઝડપી બને છે, જેથી SI એન્જિનમાં નોકિંગ ઘટે છે[cite: 5].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 83,
@@ -1242,7 +1388,9 @@
       "વેટ બલ્બ ટેમ્પરેચર > ડ્રાય બલ્બ ટેમ્પરેચર > ડ્યૂ પોઈન્ટ ટેમ્પરેચર"
     ],
     "correctAnswer": 1,
-    "explanation": "અસંતૃપ્ત હવામાં હંમેશા DBT > WBT > DPT હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "અસંતૃપ્ત હવામાં હંમેશા DBT > WBT > DPT હોય છે[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 84,
@@ -1257,7 +1405,8 @@
       "રિલેટિવ હ્યુમિડિટી"
     ],
     "correctAnswer": 0,
-    "explanation": "સાયક્રોમેટ્રિક ચાર્ટ પર ઊભી સીધી રેખાઓ ડ્રાય બલ્બ ટેમ્પરેચર (DBT) ની રેખાઓ દર્શાવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "સાયક્રોમેટ્રિક ચાર્ટ પર ઊભી સીધી રેખાઓ ડ્રાય બલ્બ ટેમ્પરેચર (DBT) ની રેખાઓ દર્શાવે છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 85,
@@ -1272,7 +1421,9 @@
       "4"
     ],
     "correctAnswer": 2,
-    "explanation": "મહત્તમ વર્ક માટે T2 = √(T1 × T3) = √(200 × 1800) = 600 K. r^(γ-1) = T2/T1 = 600/200 = 3 => r^(2-1) = 3 => r = 3[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "મહત્તમ વર્ક માટે T2 = √(T1 × T3) = √(200 × 1800) = 600 K. r^(γ-1) = T2/T1 = 600/200 = 3 => r^(2-1) = 3 => r = 3[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 86,
@@ -1287,7 +1438,9 @@
       "વેટ બલ્બ ટેમ્પરેચર"
     ],
     "correctAnswer": 1,
-    "explanation": "આડી સીધી રેખાઓ સ્પેસિફિક હ્યુમિડિટી (અથવા હ્યુમિડિટી રેશિયો W) દર્શાવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "આડી સીધી રેખાઓ સ્પેસિફિક હ્યુમિડિટી (અથવા હ્યુમિડિટી રેશિયો W) દર્શાવે છે[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 87,
@@ -1302,7 +1455,9 @@
       "સ્પેસિફિક વોલ્યુમ"
     ],
     "correctAnswer": 2,
-    "explanation": "સાયક્રોમેટ્રિક ચાર્ટ પર વળાંકવાળા વક્રો (Curved lines) રિલેટિવ હ્યુમિડિટી (% RH) દર્શાવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "સાયક્રોમેટ્રિક ચાર્ટ પર વળાંકવાળા વક્રો (Curved lines) રિલેટિવ હ્યુમિડિટી (% RH) દર્શાવે છે[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 88,
@@ -1317,7 +1472,9 @@
       "એબ્સોલ્યુટ હ્યુમિડિટી"
     ],
     "correctAnswer": 0,
-    "explanation": "ત્રાંસી રેખાઓ વેટ બલ્બ ટેમ્પરેચર (WBT) અને કોન્સ્ટન્ટ એન્થાલ્પીની દિશા દર્શાવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "ત્રાંસી રેખાઓ વેટ બલ્બ ટેમ્પરેચર (WBT) અને કોન્સ્ટન્ટ એન્થાલ્પીની દિશા દર્શાવે છે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 89,
@@ -1332,7 +1489,9 @@
       "બે રિવર્સિબલ આઈસોકોરિક અને બે રિવર્સિબલ આઇસેન્ટ્રોપિક"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્ટર્લિંગ સાયકલમાં 2 રિવર્સિબલ આઇસોકોરિક (અચળ વોલ્યુમ) અને 2 રિવર્સિબલ આઇસોથર્મલ પ્રોસેસીસ હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "સ્ટર્લિંગ સાયકલમાં 2 રિવર્સિબલ આઇસોકોરિક (અચળ વોલ્યુમ) અને 2 રિવર્સિબલ આઇસોથર્મલ પ્રોસેસીસ હોય છે[cite: 5]. \n\n\n\n💡",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 90,
@@ -1347,7 +1506,9 @@
       "વળાંકવાળી રેખા પરથી"
     ],
     "correctAnswer": 1,
-    "explanation": "આપેલા બિંદુ પરથી ડાબી બાજુ આડી રેખા દોરીને સેચ્યુરેશન કર્વ સુધી લંબાવતાં DPT મળે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "આપેલા બિંદુ પરથી ડાબી બાજુ આડી રેખા દોરીને સેચ્યુરેશન કર્વ સુધી લંબાવતાં DPT મળે છે[cite: 5].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 91,
@@ -1362,7 +1523,9 @@
       "90%"
     ],
     "correctAnswer": 2,
-    "explanation": "સેચ્યુરેશન કર્વ પર હવા સંપૂર્ણ સંતૃપ્ત હોવાથી રિલેટિવ હ્યુમિડિટી 100% હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "સેચ્યુરેશન કર્વ પર હવા સંપૂર્ણ સંતૃપ્ત હોવાથી રિલેટિવ હ્યુમિડિટી 100% હોય છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 92,
@@ -1377,7 +1540,9 @@
       "η = 1 - r^γ"
     ],
     "correctAnswer": 1,
-    "explanation": "ઓટો સાયકલની એર સ્ટાન્ડર્ડ વર્કક્ષમતા η = 1 - (1 / r^(γ - 1)) છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "ઓટો સાયકલની એર સ્ટાન્ડર્ડ વર્કક્ષમતા η = 1 - (1 / r^(γ - 1)) છે[cite: 5].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 93,
@@ -1392,7 +1557,9 @@
       "ડી-હ્યુમિડિફિકેશન"
     ],
     "correctAnswer": 0,
-    "explanation": "ભેજ ઉમેર્યા કે દૂર કર્યા વગર માત્ર ટેમ્પરેચર વધારવાની પ્રોસેસને સેન્સિબલ હીટિંગ કહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "ભેજ ઉમેર્યા કે દૂર કર્યા વગર માત્ર ટેમ્પરેચર વધારવાની પ્રોસેસને સેન્સિબલ હીટિંગ કહે છે[cite: 5]. \n\n\n\n💡",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 94,
@@ -1407,7 +1574,9 @@
       "શૂન્ય થાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "સેન્સિબલ કૂલિંગ દરમિયાન હવાનું ટેમ્પરેચર (DBT) ઘટે છે જ્યારે સ્પેસિફિક હ્યુમિડિટી અચળ રહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "સેન્સિબલ કૂલિંગ દરમિયાન હવાનું ટેમ્પરેચર (DBT) ઘટે છે જ્યારે સ્પેસિફિક હ્યુમિડિટી અચળ રહે છે[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 95,
@@ -1422,7 +1591,8 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 1,
-    "explanation": "સ્કેવેન્જિંગ દરમિયાન ફ્યુઅલ લોસ થવાથી ટુ-સ્ટ્રોક એન્જિનની વર્કક્ષમતા ઓછી હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "સ્કેવેન્જિંગ દરમિયાન ફ્યુઅલ લોસ થવાથી ટુ-સ્ટ્રોક એન્જિનની વર્કક્ષમતા ઓછી હોય છે[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "isPYQ": false
   },
   {
     "id": 96,
@@ -1437,7 +1607,9 @@
       "કોઈ અસર થતી નથી"
     ],
     "correctAnswer": 1,
-    "explanation": "ટેમ્પરેચર વધતાં હવાની ભેજ ધારણ ક્ષમતા વધે છે, જેથી રિલેટિવ હ્યુમિડિટી (RH) ઘટે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "ટેમ્પરેચર વધતાં હવાની ભેજ ધારણ ક્ષમતા વધે છે, જેથી રિલેટિવ હ્યુમિડિટી (RH) ઘટે છે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 97,
@@ -1452,7 +1624,8 @@
       "શૂન્ય થાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "ટેમ્પરેચર ઘટતાં હવાની ભેજ ધારણ ક્ષમતા ઘટે છે, જેથી રિલેટિવ હ્યુમિડિટી (RH) વધે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "ટેમ્પરેચર ઘટતાં હવાની ભેજ ધારણ ક્ષમતા ઘટે છે, જેથી રિલેટિવ હ્યુમિડિટી (RH) વધે છે[cite: 5]. \n\n\n\n💡",
+    "isPYQ": false
   },
   {
     "id": 98,
@@ -1467,7 +1640,8 @@
       "બેલ કોલમેન સાયકલ"
     ],
     "correctAnswer": 0,
-    "explanation": "પેટ્રોલ (Spark Ignition) એન્જિન સૈદ્ધાંતિક રીતે કોન્સ્ટન્ટ વોલ્યુમ ઓટો સાયકલ પર વર્ક કરે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "પેટ્રોલ (Spark Ignition) એન્જિન સૈદ્ધાંતિક રીતે કોન્સ્ટન્ટ વોલ્યુમ ઓટો સાયકલ પર વર્ક કરે છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 99,
@@ -1482,7 +1656,9 @@
       "ડ્યૂ પોઈન્ટ ટેમ્પરેચર"
     ],
     "correctAnswer": 2,
-    "explanation": "પ્યોર હ્યુમિડિફિકેશનમાં ટેમ્પરેચર બદલ્યા વગર માત્ર ભેજ ઉમેરાતો હોવાથી DBT અચળ રહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "પ્યોર હ્યુમિડિફિકેશનમાં ટેમ્પરેચર બદલ્યા વગર માત્ર ભેજ ઉમેરાતો હોવાથી DBT અચળ રહે છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 100,
@@ -1497,7 +1673,9 @@
       "શૂન્ય થાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "હ્યુમિડિફિકેશન દરમિયાન ભેજ ઉમેરાતો હોવાથી સ્પેસિફિક હ્યુમિડિટી વધે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "હ્યુમિડિફિકેશન દરમિયાન ભેજ ઉમેરાતો હોવાથી સ્પેસિફિક હ્યુમિડિટી વધે છે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 101,
@@ -1512,7 +1690,9 @@
       "ડીલે પિરિયડ"
     ],
     "correctAnswer": 3,
-    "explanation": "ફ્યુઅલ ઇન્જેક્શન અને કમ્બશન શરૂ થવા વચ્ચેના સમયગાળાને ઇગ્નીશન ડીલે પિરિયડ કહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "ફ્યુઅલ ઇન્જેક્શન અને કમ્બશન શરૂ થવા વચ્ચેના સમયગાળાને ઇગ્નીશન ડીલે પિરિયડ કહે છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 102,
@@ -1527,7 +1707,8 @@
       "સેચ્યુરેટેડ થાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "કૂલિંગ થવાથી ડ્રાય બલ્બ ટેમ્પરેચર (DBT) ઘટે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "કૂલિંગ થવાથી ડ્રાય બલ્બ ટેમ્પરેચર (DBT) ઘટે છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 103,
@@ -1542,7 +1723,9 @@
       "મહત્તમ થાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "ડિહ્યુમિડિફિકેશન દરમિયાન હવામાંથી ભેજ દૂર થતો હોવાથી સ્પેસિફિક હ્યુમિડિટી ઘટે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "ડિહ્યુમિડિફિકેશન દરમિયાન હવામાંથી ભેજ દૂર થતો હોવાથી સ્પેસિફિક હ્યુમિડિટી ઘટે છે[cite: 5]. \n\n\n\n💡",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 104,
@@ -1557,7 +1740,9 @@
       "ક્રેન"
     ],
     "correctAnswer": 3,
-    "explanation": "ક્રેન લિફ્ટિંગ સાધન છે, ઉત્ખનન (Excavating) સાધન નથી[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "ક્રેન લિફ્ટિંગ સાધન છે, ઉત્ખનન (Excavating) સાધન નથી[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 105,
@@ -1572,7 +1757,9 @@
       "ઠંડા અને સૂકા"
     ],
     "correctAnswer": 2,
-    "explanation": "બાષ્પીભવન આધારિત કૂલિંગ ગરમ અને શુષ્ક (Hot and Dry) વાતાવરણમાં શ્રેષ્ઠ વર્ક કરે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "બાષ્પીભવન આધારિત કૂલિંગ ગરમ અને શુષ્ક (Hot and Dry) વાતાવરણમાં શ્રેષ્ઠ વર્ક કરે છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 106,
@@ -1587,7 +1774,8 @@
       "ટોટલ હીટ અને સેન્સિબલ હીટ"
     ],
     "correctAnswer": 2,
-    "explanation": "SHF = Sensible Heat / Total Heat (જ્યાં Total Heat = Sensible Heat + Latent Heat)[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+    "explanation": "SHF = Sensible Heat / Total Heat (જ્યાં Total Heat = Sensible Heat + Latent Heat)[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 107,
@@ -1602,7 +1790,9 @@
       "ડ્રાય એર ટેમ્પરેચર (DAT)"
     ],
     "correctAnswer": 1,
-    "explanation": "કૂલિંગ ટર્બાઇન એક્ઝિટ પર ભેજ કન્ડેન્સ ન થાય ત્યારે તે ટેમ્પરેચરને DART કહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "કૂલિંગ ટર્બાઇન એક્ઝિટ પર ભેજ કન્ડેન્સ ન થાય ત્યારે તે ટેમ્પરેચરને DART કહે છે[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 108,
@@ -1617,7 +1807,9 @@
       "1.0"
     ],
     "correctAnswer": 3,
-    "explanation": "લેટન્ટ હીટ શૂન્ય હોવાથી SHF = SH / Total Heat = SH / SH = 1.0 થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "લેટન્ટ હીટ શૂન્ય હોવાથી SHF = SH / Total Heat = SH / SH = 1.0 થાય છે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 109,
@@ -1632,7 +1824,9 @@
       "અનંત"
     ],
     "correctAnswer": 0,
-    "explanation": "સેન્સિબલ હીટ શૂન્ય હોવાથી SHF = 0 / Total Heat = 0 થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "સેન્સિબલ હીટ શૂન્ય હોવાથી SHF = 0 / Total Heat = 0 થાય છે[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 110,
@@ -1647,7 +1841,9 @@
       "હ્યુમિડિટી ફેક્ટર"
     ],
     "correctAnswer": 1,
-    "explanation": "અનકોન્ટેક્ટેડ હવાના અંશને બાયપાસ ફેક્ટર (Bypass Factor) કહેવામાં આવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "અનકોન્ટેક્ટેડ હવાના અંશને બાયપાસ ફેક્ટર (Bypass Factor) કહેવામાં આવે છે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 111,
@@ -1662,7 +1858,9 @@
       "વેપર એબ્સોર્ક્શન રેફ્રિજરેશન સાયકલ"
     ],
     "correctAnswer": 1,
-    "explanation": "આદર્શ ગેસ રેફ્રિજરેશન સાયકલ એ રિવર્સ્ડ બ્રેટન (બેલ-કોલમેન) સાયકલ છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "આદર્શ ગેસ રેફ્રિજરેશન સાયકલ એ રિવર્સ્ડ બ્રેટન (બેલ-કોલમેન) સાયકલ છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 112,
@@ -1677,7 +1875,9 @@
       "હીટિંગ અને હ્યુમિડિફિકેશન"
     ],
     "correctAnswer": 2,
-    "explanation": "કોઈલ ટેમ્પરેચર DPT કરતાં નીચું હોવાથી ભેજ કન્ડેન્સ થશે, જેથી કૂલિંગ સાથે ડિહ્યુમિડિફિકેશન થશે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "કોઈલ ટેમ્પરેચર DPT કરતાં નીચું હોવાથી ભેજ કન્ડેન્સ થશે, જેથી કૂલિંગ સાથે ડિહ્યુમિડિફિકેશન થશે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 113,
@@ -1692,7 +1892,9 @@
       "આઇસોબેરિક"
     ],
     "correctAnswer": 2,
-    "explanation": "એડિઆબેટિક સેચ્યુરેશન પ્રોસેસ દરમિયાન હવાની કુલ એન્થાલ્પી અચળ રહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "એડિઆબેટિક સેચ્યુરેશન પ્રોસેસ દરમિયાન હવાની કુલ એન્થાલ્પી અચળ રહે છે[cite: 5]. \n\n\n\n💡",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 114,
@@ -1707,7 +1909,9 @@
       "એક્સપાન્ડર"
     ],
     "correctAnswer": 0,
-    "explanation": "ગેસ સાયકલમાં કન્ડેન્સર હોતું નથી, તેના સ્થાને કૂલર (હીટ એક્સચેન્જર) વપરાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "ગેસ સાયકલમાં કન્ડેન્સર હોતું નથી, તેના સ્થાને કૂલર (હીટ એક્સચેન્જર) વપરાય છે[cite: 5].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 115,
@@ -1722,7 +1926,9 @@
       "શૂન્ય થાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "સેન્સિબલ કૂલિંગમાં ભેજ બદલાતો ન હોવાથી લેટન્ટ હીટ અચળ રહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "સેન્સિબલ કૂલિંગમાં ભેજ બદલાતો ન હોવાથી લેટન્ટ હીટ અચળ રહે છે[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 116,
@@ -1737,7 +1943,8 @@
       "સેન્સિબલ હીટ અને લેટન્ટ હીટ"
     ],
     "correctAnswer": 0,
-    "explanation": "ભેજવાળી હવાની કુલ એન્થાલ્પી h = ha + W · hv થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+    "explanation": "ભેજવાળી હવાની કુલ એન્થાલ્પી h = ha + W · hv થાય છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 117,
@@ -1752,7 +1959,8 @@
       "θ = θ1 + θ2 અને T1 = T2 = T"
     ],
     "correctAnswer": 2,
-    "explanation": "પેરેલલ જોડાણમાં ટ્વિસ્ટ એંગલ સમાન રહે છે (θ = θ1 = θ2) અને કુલ ટોર્ક બંનેના સરવાળા જેટલો (T = T1 + T2) થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "પેરેલલ જોડાણમાં ટ્વિસ્ટ એંગલ સમાન રહે છે (θ = θ1 = θ2) અને કુલ ટોર્ક બંનેના સરવાળા જેટલો (T = T1 + T2) થાય છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": false
   },
   {
     "id": 118,
@@ -1767,7 +1975,9 @@
       "માત્ર ડી-હ્યુમિડિફિકેશન"
     ],
     "correctAnswer": 1,
-    "explanation": "શિયાળામાં હવા ઠંડી અને સૂકી હોવાથી તેને ગરમ કરી ભેજવાળી બનાવવામાં આવે છે (Heating & Humidification)[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "શિયાળામાં હવા ઠંડી અને સૂકી હોવાથી તેને ગરમ કરી ભેજવાળી બનાવવામાં આવે છે (Heating & Humidification)[cite: 5].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 119,
@@ -1782,7 +1992,9 @@
       "માત્ર હ્યુમિડિફિકેશન"
     ],
     "correctAnswer": 1,
-    "explanation": "ઉનાળામાં કમ્ફર્ટ માટે હવાને ઠંડી કરી ભેજ દૂર કરવો જરૂરી છે (Cooling & Dehumidification)[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "ઉનાળામાં કમ્ફર્ટ માટે હવાને ઠંડી કરી ભેજ દૂર કરવો જરૂરી છે (Cooling & Dehumidification)[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 120,
@@ -1797,7 +2009,9 @@
       "ઇન્વર્સ (inverse of)"
     ],
     "correctAnswer": 0,
-    "explanation": "સંતૃપ્ત હવા (100% RH) પર WBT અને DBT બંને એકસમાન હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "સંતૃપ્ત હવા (100% RH) પર WBT અને DBT બંને એકસમાન હોય છે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 121,
@@ -1812,7 +2026,8 @@
       "અનંત"
     ],
     "correctAnswer": 2,
-    "explanation": "સેચ્યુરેશન વખતે W = Ws થવાથી ડિગ્રી ઓફ સેચ્યુરેશન μ = W / Ws = 1.0 થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "સેચ્યુરેશન વખતે W = Ws થવાથી ડિગ્રી ઓફ સેચ્યુરેશન μ = W / Ws = 1.0 થાય છે[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "isPYQ": false
   },
   {
     "id": 122,
@@ -1827,7 +2042,8 @@
       "ડ્રાય એરનું ટેમ્પરેચર"
     ],
     "correctAnswer": 0,
-    "explanation": "કોન્સ્ટન્ટ WBT લાઈનો એન્થાલ્પી લાઈનોને સમાંતર હોવાથી WBT હવાની કુલ એન્થાલ્પીનું માપ દર્શાવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "કોન્સ્ટન્ટ WBT લાઈનો એન્થાલ્પી લાઈનોને સમાંતર હોવાથી WBT હવાની કુલ એન્થાલ્પીનું માપ દર્શાવે છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 123,
@@ -1842,7 +2058,9 @@
       "3:2"
     ],
     "correctAnswer": 1,
-    "explanation": "m1/m2 = (W2 - W3) / (W3 - W1) = (0.012 - 0.008) / (0.008 - 0.006) = 0.004 / 0.002 = 2:1[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "m1/m2 = (W2 - W3) / (W3 - W1) = (0.012 - 0.008) / (0.008 - 0.006) = 0.004 / 0.002 = 2:1[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 124,
@@ -1857,7 +2075,8 @@
       "સ્પેસિફિક હ્યુમિડિટીની રેખાઓને"
     ],
     "correctAnswer": 1,
-    "explanation": "એડિઆબેટિક સેચ્યુરેશન પ્રોસેસમાં WBT અને એન્થાલ્પી લગભગ સમાન દિશામાં હોવાથી રેખાઓ સમાંતર હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "એડિઆબેટિક સેચ્યુરેશન પ્રોસેસમાં WBT અને એન્થાલ્પી લગભગ સમાન દિશામાં હોવાથી રેખાઓ સમાંતર હોય છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 125,
@@ -1872,7 +2091,9 @@
       "વળાંકવાળી રેખાઓ"
     ],
     "correctAnswer": 2,
-    "explanation": "સ્પેસિફિક વોલ્યુમ ચાર્ટ પર ઊંચા ઢાળવાળી ત્રાંસી સીધી રેખાઓ દ્વારા દર્શાવાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "સ્પેસિફિક વોલ્યુમ ચાર્ટ પર ઊંચા ઢાળવાળી ત્રાંસી સીધી રેખાઓ દ્વારા દર્શાવાય છે[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 126,
@@ -1887,7 +2108,9 @@
       "Pv = 0.622 Psat"
     ],
     "correctAnswer": 2,
-    "explanation": "RH = Pv / Psat => 0.50 = Pv / Psat => Pv = 0.5 Psat[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "RH = Pv / Psat => 0.50 = Pv / Psat => Pv = 0.5 Psat[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 127,
@@ -1902,7 +2125,8 @@
       "એનિમોમીટર"
     ],
     "correctAnswer": 1,
-    "explanation": "DBT અને WBT બંને માપીને RH નક્કી કરવા સાયક્રોમીટર (Psychrometer) વપરાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "DBT અને WBT બંને માપીને RH નક્કી કરવા સાયક્રોમીટર (Psychrometer) વપરાય છે[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "isPYQ": false
   },
   {
     "id": 128,
@@ -1917,7 +2141,9 @@
       "શૂન્યથી નીચે જાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "હવામાં ભેજ વધતાં બાષ્પીભવન દર ઘટે છે, જેથી WBT વધે છે અને DBT - WBT નો તફાવત ઘટે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "હવામાં ભેજ વધતાં બાષ્પીભવન દર ઘટે છે, જેથી WBT વધે છે અને DBT - WBT નો તફાવત ઘટે છે[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 129,
@@ -1932,7 +2158,9 @@
       "1:3"
     ],
     "correctAnswer": 1,
-    "explanation": "NH3 ની લેટન્ટ હીટ Freon-12 કરતાં લગભગ 9 ગણી વધારે હોવાથી NH3 નો જરૂરી માસ ફ્લો રેટ 1/9 ગણો હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "NH3 ની લેટન્ટ હીટ Freon-12 કરતાં લગભગ 9 ગણી વધારે હોવાથી NH3 નો જરૂરી માસ ફ્લો રેટ 1/9 ગણો હોય છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 130,
@@ -1947,7 +2175,9 @@
       "માત્ર બારીની બહારનો હીટ લોડ"
     ],
     "correctAnswer": 2,
-    "explanation": "રૂમમાં આરામદાયક સ્થિતિ જાળવવા માટે સપ્લાય હવા સેન્સિબલ અને લેટન્ટ બંને પ્રકારના લોડને બેલેન્સ કરે તેવી હોવી જોઈએ[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "રૂમમાં આરામદાયક સ્થિતિ જાળવવા માટે સપ્લાય હવા સેન્સિબલ અને લેટન્ટ બંને પ્રકારના લોડને બેલેન્સ કરે તેવી હોવી જોઈએ[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 131,
@@ -1962,7 +2192,9 @@
       "આઇડિયલ ગેસ"
     ],
     "correctAnswer": 1,
-    "explanation": "વાતાવરણમાં વરાળનું આંશિક પ્રેશર ઘણું ઓછું હોવાથી તે સુપરહીટેડ વેપર સ્થિતિમાં વર્તે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "વાતાવરણમાં વરાળનું આંશિક પ્રેશર ઘણું ઓછું હોવાથી તે સુપરહીટેડ વેપર સ્થિતિમાં વર્તે છે[cite: 5]. \n\n\n\n💡",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 132,
@@ -1977,7 +2209,9 @@
       "નીચે તરફ ઊભી"
     ],
     "correctAnswer": 1,
-    "explanation": "સેન્સિબલ હીટિંગમાં DBT વધતો હોવાથી રેખા ડાબેથી જમણી તરફ આડી દિશામાં જાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "સેન્સિબલ હીટિંગમાં DBT વધતો હોવાથી રેખા ડાબેથી જમણી તરફ આડી દિશામાં જાય છે[cite: 5].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 133,
@@ -1992,7 +2226,9 @@
       "અચળ પ્રેશર પર થાય છે"
     ],
     "correctAnswer": 3,
-    "explanation": "કન્ડેન્સરમાં હીટ નિકાલની પ્રોસેસ અચળ પ્રેશરે (Isobaric process) થતી હોવાથી p-h ચાર્ટ પર આડી રેખા બને છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "કન્ડેન્સરમાં હીટ નિકાલની પ્રોસેસ અચળ પ્રેશરે (Isobaric process) થતી હોવાથી p-h ચાર્ટ પર આડી રેખા બને છે[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 134,
@@ -2007,7 +2243,9 @@
       "શૂન્ય થાય છે"
     ],
     "correctAnswer": 2,
-    "explanation": "સેન્સિબલ કૂલિંગમાં ભેજ ઉમેરવામાં કે દૂર કરવામાં આવતો ન હોવાથી સ્પેસિફિક હ્યુમિડિટી અચળ રહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "સેન્સિબલ કૂલિંગમાં ભેજ ઉમેરવામાં કે દૂર કરવામાં આવતો ન હોવાથી સ્પેસિફિક હ્યુમિડિટી અચળ રહે છે[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 135,
@@ -2022,7 +2260,9 @@
       "ત્રાંસી રેખા"
     ],
     "correctAnswer": 1,
-    "explanation": "DBT અચળ રાખીને સ્પેસિફિક હ્યુમિડિટી ઘટતી હોવાથી તે નીચે તરફ જતી ઊભી રેખા (Downward vertical line) બને છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "DBT અચળ રાખીને સ્પેસિફિક હ્યુમિડિટી ઘટતી હોવાથી તે નીચે તરફ જતી ઊભી રેખા (Downward vertical line) બને છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 136,
@@ -2037,7 +2277,9 @@
       "કહી શકાય નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "ઇવેપોરેટર ટેમ્પરેચર વધવાથી કમ્પ્રેશન વર્ક ઘટે છે અને રેફ્રિજરેટિંગ ઇફેક્ટ વધે છે, જેથી COP વધે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+    "explanation": "ઇવેપોરેટર ટેમ્પરેચર વધવાથી કમ્પ્રેશન વર્ક ઘટે છે અને રેફ્રિજરેટિંગ ઇફેક્ટ વધે છે, જેથી COP વધે છે[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 137,
@@ -2052,7 +2294,9 @@
       "ઉપરોક્તમાંથી કોઈ નહી"
     ],
     "correctAnswer": 2,
-    "explanation": "કોઈલ ટેમ્પરેચર DPT કરતાં નીચું હોય તો જ હવામાંથી ભેજનું કન્ડેન્સેશન થઈ શકે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "કોઈલ ટેમ્પરેચર DPT કરતાં નીચું હોય તો જ હવામાંથી ભેજનું કન્ડેન્સેશન થઈ શકે છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 138,
@@ -2067,7 +2311,9 @@
       "પહેલા વધે છે પછી ઘટે છે"
     ],
     "correctAnswer": 1,
-    "explanation": "કૂલિંગ થવાથી ડ્રાય બલ્બ ટેમ્પરેચર (DBT) ઘટે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "કૂલિંગ થવાથી ડ્રાય બલ્બ ટેમ્પરેચર (DBT) ઘટે છે[cite: 5].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 139,
@@ -2082,7 +2328,9 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "એર વોશર (Air Washers) માં વોટર સ્પ્રે ચેમ્બરમાંથી હવા પસાર કરીને હ્યુમિડિફિકેશન થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "એર વોશર (Air Washers) માં વોટર સ્પ્રે ચેમ્બરમાંથી હવા પસાર કરીને હ્યુમિડિફિકેશન થાય છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 140,
@@ -2097,7 +2345,9 @@
       "શૂન્ય થાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "હ્યુમિડિફિકેશનમાં ભેજ ઉમેરાતો હોવાથી સ્પેસિફિક હ્યુમિડિટી વધે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "હ્યુમિડિફિકેશનમાં ભેજ ઉમેરાતો હોવાથી સ્પેસિફિક હ્યુમિડિટી વધે છે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 141,
@@ -2112,7 +2362,9 @@
       "Total Heat / Sensible Heat"
     ],
     "correctAnswer": 2,
-    "explanation": "SHF = Sensible Heat / Total Heat = Qs / (Qs + Ql)[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "SHF = Sensible Heat / Total Heat = Qs / (Qs + Ql)[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 142,
@@ -2127,7 +2379,9 @@
       "-40.7°C"
     ],
     "correctAnswer": 2,
-    "explanation": "એટમોસ્ફેરિક પ્રેશરે R-12 (Freon-12) નું ઉત્કલનબિંદુ -29.8°C છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+    "explanation": "એટમોસ્ફેરિક પ્રેશરે R-12 (Freon-12) નું ઉત્કલનબિંદુ -29.8°C છે[cite: 5].",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 143,
@@ -2142,7 +2396,9 @@
       "અનંત"
     ],
     "correctAnswer": 2,
-    "explanation": "સેન્સિબલ કૂલિંગમાં લેટન્ટ હીટ 0 હોવાથી SHF = 1.0 થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "સેન્સિબલ કૂલિંગમાં લેટન્ટ હીટ 0 હોવાથી SHF = 1.0 થાય છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 144,
@@ -2157,7 +2413,9 @@
       "અનંત"
     ],
     "correctAnswer": 0,
-    "explanation": "સેન્સિબલ હીટ શૂન્ય હોવાથી SHF = 0 થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "સેન્સિબલ હીટ શૂન્ય હોવાથી SHF = 0 થાય છે[cite: 5].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 145,
@@ -2172,7 +2430,9 @@
       "ઈવોપરેશન"
     ],
     "correctAnswer": 1,
-    "explanation": "નોન-કન્ડેન્સેબલ વાયુઓ કન્ડેન્સરના ઉપરના ભાગમાં એકઠા થતા હોવાથી કન્ડેન્સેશન પછી પર્જિંગ થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "નોન-કન્ડેન્સેબલ વાયુઓ કન્ડેન્સરના ઉપરના ભાગમાં એકઠા થતા હોવાથી કન્ડેન્સેશન પછી પર્જિંગ થાય છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 146,
@@ -2187,7 +2447,8 @@
       "ઠંડા અને સૂકા"
     ],
     "correctAnswer": 2,
-    "explanation": "ઇવેપોરેટિવ કૂલિંગ ગરમ અને સૂકા વાતાવરણમાં મહત્તમ કૂલિંગ આપે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "ઇવેપોરેટિવ કૂલિંગ ગરમ અને સૂકા વાતાવરણમાં મહત્તમ કૂલિંગ આપે છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 147,
@@ -2202,7 +2463,9 @@
       "ડ્રાય બલ્બ ટેમ્પરેચરની રેખા પર"
     ],
     "correctAnswer": 0,
-    "explanation": "મિક્સિંગ પોઇન્ટ એ બંને શરૂઆતના બિંદુઓને જોડતી સીધી રેખા પર માસ રેશિયો મુજબ સ્થિત હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "મિક્સિંગ પોઇન્ટ એ બંને શરૂઆતના બિંદુઓને જોડતી સીધી રેખા પર માસ રેશિયો મુજબ સ્થિત હોય છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 148,
@@ -2217,7 +2480,8 @@
       "1"
     ],
     "correctAnswer": 3,
-    "explanation": "જ્યારે RH = 100% (અથવા 1) હોય ત્યારે DBT = WBT હોવાથી વેટ બલ્બ ડિપ્રેશન શૂન્ય બને છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+    "explanation": "જ્યારે RH = 100% (અથવા 1) હોય ત્યારે DBT = WBT હોવાથી વેટ બલ્બ ડિપ્રેશન શૂન્ય બને છે[cite: 5].",
+    "isPYQ": false
   },
   {
     "id": 149,
@@ -2232,7 +2496,9 @@
       "હવા કોઈલને સ્પર્શતી નથી"
     ],
     "correctAnswer": 2,
-    "explanation": "Efficiency = 1 - BPF. BPF = 0 હોય તો વર્કક્ષમતા 100% (સંપૂર્ણ કોન્ટેક્ટ) થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "Efficiency = 1 - BPF. BPF = 0 હોય તો વર્કક્ષમતા 100% (સંપૂર્ણ કોન્ટેક્ટ) થાય છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 150,
@@ -2247,7 +2513,9 @@
       "માત્ર બારીઓનો હીટ લોડ"
     ],
     "correctAnswer": 2,
-    "explanation": "સપ્લાય હવા રૂમ સેન્સિબલ હીટ અને લેટન્ટ હીટ બંને દૂર કરવા સક્ષમ હોવી જોઈએ[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "સપ્લાય હવા રૂમ સેન્સિબલ હીટ અને લેટન્ટ હીટ બંને દૂર કરવા સક્ષમ હોવી જોઈએ[cite: 5].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 151,
@@ -2262,7 +2530,9 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "લિક્વિડ કાર્બન ડાયોક્સાઇડ (CO2) નું ઝડપી વિસ્તરણ કરીને તેને ઘન સ્વરૂપમાં ફેરવીને ડ્રાય આઈસ બનાવવામાં આવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "લિક્વિડ કાર્બન ડાયોક્સાઇડ (CO2) નું ઝડપી વિસ્તરણ કરીને તેને ઘન સ્વરૂપમાં ફેરવીને ડ્રાય આઈસ બનાવવામાં આવે છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 152,
@@ -2277,7 +2547,9 @@
       "સ્પેસિફિક વોલ્યુમ"
     ],
     "correctAnswer": 1,
-    "explanation": "એડિયાબેટિક સેચ્યુરેશન દરમિયાન હવા અને પાણી વચ્ચે થર્મલ સંતુલન સ્થપાતાં વેટ બલ્બ ટેમ્પરેચર (WBT) લગભગ અચળ રહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "એડિયાબેટિક સેચ્યુરેશન દરમિયાન હવા અને પાણી વચ્ચે થર્મલ સંતુલન સ્થપાતાં વેટ બલ્બ ટેમ્પરેચર (WBT) લગભગ અચળ રહે છે[cite: 5].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 153,
@@ -2292,7 +2564,9 @@
       "સેન્સિબલ કૂલિંગ"
     ],
     "correctAnswer": 2,
-    "explanation": "શિયાળામાં હવા ઠંડી અને સૂકી હોવાથી તેને ગરમ કરીને ભેજ ઉમેરવાની (હીટિંગ અને હ્યુમિડિફિકેશન) જરૂર પડે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+    "explanation": "શિયાળામાં હવા ઠંડી અને સૂકી હોવાથી તેને ગરમ કરીને ભેજ ઉમેરવાની (હીટિંગ અને હ્યુમિડિફિકેશન) જરૂર પડે છે[cite: 5]. \n\n\n\n⚡ [Most Likely Exam Question - Concept Trap]",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 154,
@@ -2307,7 +2581,9 @@
       "એડિયાબેટિક મિક્સિંગ"
     ],
     "correctAnswer": 0,
-    "explanation": "ઉનાળામાં કમ્ફર્ટ માટે ટેમ્પરેચર ઘટાડવું અને વધારાનો ભેજ દૂર કરવો (કૂલિંગ અને ડિહ્યુમિડિફિકેશન) જરૂરી છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]"
+    "explanation": "ઉનાળામાં કમ્ફર્ટ માટે ટેમ્પરેચર ઘટાડવું અને વધારાનો ભેજ દૂર કરવો (કૂલિંગ અને ડિહ્યુમિડિફિકેશન) જરૂરી છે[cite: 5].",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 155,
@@ -2322,7 +2598,9 @@
       "એક્સપાન્શન વાલ્વ"
     ],
     "correctAnswer": 1,
-    "explanation": "કન્ડેન્સરમાં ઉચ્ચ પ્રેશરે વરાળ રેફ્રિજરેન્ટ પોતાની હીટ વાતાવરણ અથવા કૂલિંગ મીડિયમમાં રિજેક્ટ કરે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "કન્ડેન્સરમાં ઉચ્ચ પ્રેશરે વરાળ રેફ્રિજરેન્ટ પોતાની હીટ વાતાવરણ અથવા કૂલિંગ મીડિયમમાં રિજેક્ટ કરે છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "examSource": "SSC JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 157,
@@ -2337,7 +2615,9 @@
       "કોઈ ટેમ્પરેચરની અસર કરતું નથી"
     ],
     "correctAnswer": 1,
-    "explanation": "ભેજ શોષાતાં શોષણની ગુપ્ત હીટ (Heat of adsorption) મુક્ત થવાથી હવાનું ટેમ્પરેચર વધે છે અને ભેજ ઘટે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "ભેજ શોષાતાં શોષણની ગુપ્ત હીટ (Heat of adsorption) મુક્ત થવાથી હવાનું ટેમ્પરેચર વધે છે અને ભેજ ઘટે છે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 158,
@@ -2352,7 +2632,8 @@
       "કન્ડેન્સરની સાઈઝ ઘટે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "સબ-કૂલિંગથી કમ્પ્રેસર વર્ક વધ્યા વિના રેફ્રિજરેટિંગ ઇફેક્ટ વધે છે, જેથી સાયકલનો C.O.P. વધે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+    "explanation": "સબ-કૂલિંગથી કમ્પ્રેસર વર્ક વધ્યા વિના રેફ્રિજરેટિંગ ઇફેક્ટ વધે છે, જેથી સાયકલનો C.O.P. વધે છે[cite: 5]. \n\n\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]",
+    "isPYQ": false
   },
   {
     "id": 159,
@@ -2367,7 +2648,9 @@
       "એડિયાબેટિક કૂલિંગ"
     ],
     "correctAnswer": 1,
-    "explanation": "DBT બદલ્યા વગર માત્ર હવામાંથી ભેજ દૂર કરવાની પ્રોસેસને માત્ર ડિહ્યુમિડિફિકેશન (Pure dehumidification) કહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "DBT બદલ્યા વગર માત્ર હવામાંથી ભેજ દૂર કરવાની પ્રોસેસને માત્ર ડિહ્યુમિડિફિકેશન (Pure dehumidification) કહે છે[cite: 5].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 160,
@@ -2382,7 +2665,8 @@
       "પહેલા વધે છે પછી ઘટે છે"
     ],
     "correctAnswer": 0,
-    "explanation": "ટેમ્પરેચર વધવાથી હવા વિસ્તરણ પામે છે અને તેની ડેન્સિટી ઘટતાં સ્પેસિફિક વોલ્યુમ વધે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "ટેમ્પરેચર વધવાથી હવા વિસ્તરણ પામે છે અને તેની ડેન્સિટી ઘટતાં સ્પેસિફિક વોલ્યુમ વધે છે[cite: 5]. \n\n\n\n💡",
+    "isPYQ": false
   },
   {
     "id": 161,
@@ -2397,7 +2681,9 @@
       "આમાંથી એક પણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "સ્પેસિફિક હ્યુમિડિટી અચળ રહેતી હોવાથી સેન્સિબલ કૂલિંગ ડાબી તરફ જતી આડી રેખા (Horizontal line) વડે દર્શાવાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "સ્પેસિફિક હ્યુમિડિટી અચળ રહેતી હોવાથી સેન્સિબલ કૂલિંગ ડાબી તરફ જતી આડી રેખા (Horizontal line) વડે દર્શાવાય છે[cite: 5].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 162,
@@ -2412,7 +2698,9 @@
       "100"
     ],
     "correctAnswer": 1,
-    "explanation": "100% RH પર DBT અને WBT સમાન હોવાથી વેટ બલ્બ ડિપ્રેશન (DBT - WBT) શૂન્ય (0) થાય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "100% RH પર DBT અને WBT સમાન હોવાથી વેટ બલ્બ ડિપ્રેશન (DBT - WBT) શૂન્ય (0) થાય છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 163,
@@ -2427,7 +2715,9 @@
       "100% થઈ જાય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "હવામાંથી પાણીની વરાળ દૂર થવાથી રિલેટિવ હ્યુમિડિટી સામાન્ય રીતે ઘટે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+    "explanation": "હવામાંથી પાણીની વરાળ દૂર થવાથી રિલેટિવ હ્યુમિડિટી સામાન્ય રીતે ઘટે છે[cite: 5].",
+    "examSource": "RRB JE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 164,
@@ -2442,7 +2732,9 @@
       "0.020"
     ],
     "correctAnswer": 1,
-    "explanation": "Pv = 0.75 × 0.05622 = 0.04216 bar. W = 0.622 × Pv / (P - Pv) = 0.622 × 0.04216 / (1 - 0.04216) ≈ 0.0273 kg/kg dry air[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "Pv = 0.75 × 0.05622 = 0.04216 bar. W = 0.622 × Pv / (P - Pv) = 0.622 × 0.04216 / (1 - 0.04216) ≈ 0.0273 kg/kg dry air[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 165,
@@ -2457,7 +2749,9 @@
       "એડિયાબેટિક સેચ્યુરેશન"
     ],
     "correctAnswer": 2,
-    "explanation": "સેન્સિબલ હીટિંગ કે કૂલિંગ દરમિયાન ભેજનું પ્રમાણ અચળ રહેતું હોવાથી લેટન્ટ હીટમાં કોઈ ફેરફાર થતો નથી[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]"
+    "explanation": "સેન્સિબલ હીટિંગ કે કૂલિંગ દરમિયાન ભેજનું પ્રમાણ અચળ રહેતું હોવાથી લેટન્ટ હીટમાં કોઈ ફેરફાર થતો નથી[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 166,
@@ -2472,7 +2766,9 @@
       "ડ્યૂ પોઈન્ટ ટેમ્પરેચર"
     ],
     "correctAnswer": 1,
-    "explanation": "પ્રતિ કિલોગ્રામ શુષ્ક હવા દીઠ રહેલી એન્થાલ્પીને એન્થેલ્પી ઓફ મોઈસ્ટ એર (Enthalpy) કહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "પ્રતિ કિલોગ્રામ શુષ્ક હવા દીઠ રહેલી એન્થાલ્પીને એન્થેલ્પી ઓફ મોઈસ્ટ એર (Enthalpy) કહે છે[cite: 5]. \n\n\n\n💡",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 167,
@@ -2487,7 +2783,9 @@
       "ડ્રાય બલ્બ અને ડ્યૂ પોઈન્ટ ટેમ્પરેચર સમાન હોય છે"
     ],
     "correctAnswer": 1,
-    "explanation": "અસંતૃપ્ત હવામાં હંમેશા DBT > WBT > DPT સંબંધ જળવાય છે, તેથી DPT એ WBT કરતાં ઓછું હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]"
+    "explanation": "અસંતૃપ્ત હવામાં હંમેશા DBT > WBT > DPT સંબંધ જળવાય છે, તેથી DPT એ WBT કરતાં ઓછું હોય છે[cite: 5].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 168,
@@ -2502,7 +2800,9 @@
       "આપેલ તમામ પર"
     ],
     "correctAnswer": 3,
-    "explanation": "બાયપાસ ફેક્ટર ફિન્સની સંખ્યા, હવાની ઝડપ, કોઈલની ઊંડાઈ અને સંપર્ક સપાટી વિસ્તાર જેવા તમામ પરિબળો પર આધાર રાખે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "બાયપાસ ફેક્ટર ફિન્સની સંખ્યા, હવાની ઝડપ, કોઈલની ઊંડાઈ અને સંપર્ક સપાટી વિસ્તાર જેવા તમામ પરિબળો પર આધાર રાખે છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 169,
@@ -2517,7 +2817,9 @@
       "ડિહ્યુમિડિફિકેશન"
     ],
     "correctAnswer": 0,
-    "explanation": "સેન્સિબલ કૂલિંગમાં ભેજ બદલ્યા વગર હવાનું ટેમ્પરેચર (DBT) ઘટાડવામાં આવે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2022]]"
+    "explanation": "સેન્સિબલ કૂલિંગમાં ભેજ બદલ્યા વગર હવાનું ટેમ્પરેચર (DBT) ઘટાડવામાં આવે છે[cite: 5].",
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
   },
   {
     "id": 170,
@@ -2532,7 +2834,9 @@
       "ઉપરનામાંથી એક પણ નહીં"
     ],
     "correctAnswer": 2,
-    "explanation": "સામાન્ય ઘરેલુ રેફ્રિજરેટરનો COP વ્યવહારમાં 1.5 થી 3.0 ની વચ્ચે (એટલે કે 1 કરતાં વધારે) હોય છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+    "explanation": "સામાન્ય ઘરેલુ રેફ્રિજરેટરનો COP વ્યવહારમાં 1.5 થી 3.0 ની વચ્ચે (એટલે કે 1 કરતાં વધારે) હોય છે[cite: 5]. \n\n\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 171,
@@ -2547,7 +2851,9 @@
       "RLH / RSH"
     ],
     "correctAnswer": 0,
-    "explanation": "RSHF = Room Sensible Heat / Total Room Heat = RSH / (RSH + RLH)[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "RSHF = Room Sensible Heat / Total Room Heat = RSH / (RSH + RLH)[cite: 5].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "id": 172,
@@ -2562,7 +2868,9 @@
       "ડિહ્યુમિડિફિકેશન"
     ],
     "correctAnswer": 2,
-    "explanation": "ટેમ્પરેચર અચળ રાખીને માત્ર ભેજ ઉમેરવાની પ્રોસેસને માત્ર હ્યુમિડિફિકેશન (Pure humidification) કહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+    "explanation": "ટેમ્પરેચર અચળ રાખીને માત્ર ભેજ ઉમેરવાની પ્રોસેસને માત્ર હ્યુમિડિફિકેશન (Pure humidification) કહે છે[cite: 5]. \n\n\n\n💡",
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "id": 173,
@@ -2577,7 +2885,9 @@
       "આમાંથી એક પણ નહીં"
     ],
     "correctAnswer": 0,
-    "explanation": "જ્યારે બે અલગ અર્ધવાહકોના જંકશનમાંથી ફ્લો પસાર થાય ત્યારે એક જંકશન ઠંડુ થાય છે અને બીજું ગરમ થાય છે, જેને પેલ્ટિયર ઇફેક્ટ કહે છે[cite: 5]. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]"
+    "explanation": "જ્યારે બે અલગ અર્ધવાહકોના જંકશનમાંથી ફ્લો પસાર થાય ત્યારે એક જંકશન ઠંડુ થાય છે અને બીજું ગરમ થાય છે, જેને પેલ્ટિયર ઇફેક્ટ કહે છે[cite: 5].",
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "subject": "Refrigeration & Air Conditioning",
@@ -2591,8 +2901,9 @@
       "Always zero"
     ],
     "correctAnswer": 1,
-    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. COP_R = refrigeration effect/work input and can exceed 1.\n\n💡 [High Yield Expected Question - 2026 Exam]",
-    "id": 174
+    "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. COP_R = refrigeration effect/work input and can exceed 1.\n\n💡",
+    "id": 174,
+    "isPYQ": false
   },
   {
     "subject": "Refrigeration & Air Conditioning",
@@ -2607,7 +2918,8 @@
     ],
     "correctAnswer": 0,
     "explanation": "PYQ reference: GSSSB Additional Assistant Engineer (Mechanical), Advt. No. 192/202021, exam 03-10-2021. Question wording is paraphrased for this app; answer checked from engineering principles. Air mixing in a duct is commonly modeled as adiabatic with negligible external work.",
-    "id": 175
+    "id": 175,
+    "isPYQ": false
   },
   {
     "subject": "Refrigeration & Air Conditioning",
@@ -2621,8 +2933,10 @@
       "Enthalpy always increases"
     ],
     "correctAnswer": 0,
-    "explanation": "Expected MCQ: Sensible cooling reduces dry-bulb temperature; moisture content need not change. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]",
-    "id": 176
+    "explanation": "Expected MCQ: Sensible cooling reduces dry-bulb temperature; moisture content need not change.",
+    "id": 176,
+    "isPYQ": true,
+    "examSource": "GIDC Additional Assistant Engineer 2022"
   },
   {
     "subject": "Refrigeration & Air Conditioning",
@@ -2636,8 +2950,10 @@
       "W/QH"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: COPR=QL/Winput. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]",
-    "id": 177
+    "explanation": "Expected MCQ: COPR=QL/Winput.",
+    "id": 177,
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "subject": "Refrigeration & Air Conditioning",
@@ -2651,8 +2967,10 @@
       "Dynamic pressure"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: φ=pv/ps at the same temperature. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]",
-    "id": 178
+    "explanation": "Expected MCQ: φ=pv/ps at the same temperature.",
+    "id": 178,
+    "examSource": "GSSSB AAE (Mechanical) PYQ",
+    "isPYQ": true
   },
   {
     "subject": "Refrigeration & Air Conditioning",
@@ -2666,8 +2984,10 @@
       "Random"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: DBT lines are vertical on the standard psychrometric chart. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]",
-    "id": 179
+    "explanation": "Expected MCQ: DBT lines are vertical on the standard psychrometric chart.",
+    "id": 179,
+    "examSource": "ISRO / DRDO Tech Assistant PYQ",
+    "isPYQ": true
   },
   {
     "subject": "Refrigeration & Air Conditioning",
@@ -2681,7 +3001,30 @@
       "COPHP=1/COPR"
     ],
     "correctAnswer": 1,
-    "explanation": "Expected MCQ: QH=QL+W, so COPHP=COPR+1. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]",
-    "id": 180
+    "explanation": "Expected MCQ: QH=QL+W, so COPHP=COPR+1.",
+    "id": 180,
+    "examSource": "GPSC Assistant Engineer PYQ",
+    "isPYQ": true
+  },
+  {
+    "subject": "Refrigeration & Air Conditioning",
+    "subTopic": "Refrigerants & Environmental Safety",
+    "question": "Which of the following refrigerants has ZERO Ozone Depletion Potential (ODP)?",
+    "gujaratiQuestion": "નીચેનામાંથી કયા રેફ્રિજરેન્ટનું ઓઝોન ડિપ્લેશન પોટેન્શિયલ (ODP) શૂન્ય (Zero) હોય છે?",
+    "options": [
+      "R-11",
+      "R-12",
+      "R-134a",
+      "R-22"
+    ],
+    "correctAnswer": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMSQ": false,
+    "explanation": "R-134a (Tetrafluoroethane) એ HFC ગ્રુપનું Eco-friendly રેફ્રિજરેન્ટ છે જેમાં ક્લોરિન ન હોવાથી ODP = 0 હોય છે. [GPSC AE 2021]",
+    "examSource": "GPSC AE 2021",
+    "isPYQ": true,
+    "id": 181
   }
 ]

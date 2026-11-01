@@ -157,6 +157,7 @@ class StudyMaterial {
   final List<String> commonMistakes;
   final List<String> quickRevision;
   final VisualLearning? visualLearning;
+  final String imagePath;
 
   final List<String> mcqs;
   final List<String> msqs;
@@ -178,6 +179,7 @@ class StudyMaterial {
     required this.commonMistakes,
     required this.quickRevision,
     this.visualLearning,
+    this.imagePath = '',
     required this.mcqs,
     required this.msqs,
   });
@@ -189,6 +191,8 @@ class StudyMaterial {
       }
       return [];
     }
+
+    final String rawImg = json['imagePath'] as String? ?? json['visualLearning']?['imageUrl'] as String? ?? '';
 
     return StudyMaterial(
       id: (json['id'] as num?)?.toInt() ?? 0,
@@ -209,6 +213,7 @@ class StudyMaterial {
       visualLearning: json['visualLearning'] != null
           ? VisualLearning.fromJson(Map<String, dynamic>.from(json['visualLearning']))
           : null,
+      imagePath: rawImg,
       mcqs: safeList(json['mcqs']),
       msqs: safeList(json['msqs']),
     );
@@ -232,6 +237,7 @@ class StudyMaterial {
       'commonMistakes': commonMistakes,
       'quickRevision': quickRevision,
       if (visualLearning != null) 'visualLearning': visualLearning!.toJson(),
+      'imagePath': imagePath,
       'mcqs': mcqs,
       'msqs': msqs,
     };

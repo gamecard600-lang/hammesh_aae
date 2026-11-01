@@ -407,36 +407,7 @@ class _StudyMaterialScreenState extends State<StudyMaterialScreen> {
             _buildAiBar(),
             const SizedBox(height: 8),
 
-            // IMAGE SUPPORT
-            // આ સેક્શન ત્યારે જ દેખાશે જ્યારે JSON માં imagePath હશે
-            // ignore: unnecessary_null_comparison
-            if (material.toJson().containsKey('imagePath') && material.toJson()['imagePath'] != null && material.toJson()['imagePath'].toString().isNotEmpty)
-              Padding(
-                padding: const EdgeInsets.only(bottom: 20),
-                child: ClipRRect(
-                  borderRadius: BorderRadius.circular(12),
-                  child: Image.asset(
-                    material.toJson()['imagePath'],
-                    fit: BoxFit.cover,
-                    errorBuilder: (context, error, stackTrace) {
-                      return Container(
-                        padding: const EdgeInsets.all(16),
-                        decoration: BoxDecoration(
-                          color: Colors.grey.shade100,
-                          borderRadius: BorderRadius.circular(12),
-                        ),
-                        child: const Row(
-                          children: [
-                            Icon(Icons.image_not_supported, color: Colors.grey),
-                            SizedBox(width: 10),
-                            Text('Diagram not available yet', style: TextStyle(color: Colors.grey)),
-                          ],
-                        ),
-                      );
-                    },
-                  ),
-                ),
-              ),
+            _buildDiagramSection(material),
 
             _buildConceptExplanationSection(material),
             _buildVisualLearningSection(material),
@@ -584,42 +555,47 @@ class _StudyMaterialScreenState extends State<StudyMaterialScreen> {
           color: _readingTheme == 'Dark' ? Colors.grey.shade800 : Colors.grey.shade300,
         ),
       ),
-      child: Row(
-        children: [
-          Icon(Icons.text_fields, size: 18, color: _textColor),
-          const SizedBox(width: 4),
-          IconButton(
-            icon: Icon(Icons.remove, size: 16, color: _textColor),
-            padding: EdgeInsets.zero,
-            constraints: const BoxConstraints(),
-            onPressed: () {
-              if (_fontSize > 12) setState(() => _fontSize -= 1.5);
-            },
-          ),
-          Text('${_fontSize.toInt()}pt', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: _textColor)),
-          IconButton(
-            icon: Icon(Icons.add, size: 16, color: _textColor),
-            padding: EdgeInsets.zero,
-            constraints: const BoxConstraints(),
-            onPressed: () {
-              if (_fontSize < 24) setState(() => _fontSize += 1.5);
-            },
-          ),
-          const Spacer(),
-          Row(
-            children: ['Default', 'Sepia', 'Dark'].map((mode) {
-              final selected = _readingTheme == mode;
-              return Padding(
-                padding: const EdgeInsets.only(left: 4),
-                child: ChoiceChip(
-                  label: Text(mode, style: const TextStyle(fontSize: 11)),
-                  selected: selected,
-                  onSelected: (_) => setState(() => _readingTheme = mode),
-                ),
-              );
-            }).toList(),
-          ),
-        ],
+      child: SingleChildScrollView(
+        scrollDirection: Axis.horizontal,
+        child: Row(
+          children: [
+            Icon(Icons.text_fields, size: 18, color: _textColor),
+            const SizedBox(width: 4),
+            IconButton(
+              icon: Icon(Icons.remove, size: 16, color: _textColor),
+              padding: EdgeInsets.zero,
+              constraints: const BoxConstraints(),
+              onPressed: () {
+                if (_fontSize > 12) setState(() => _fontSize -= 1.5);
+              },
+            ),
+            const SizedBox(width: 4),
+            Text('${_fontSize.toInt()}pt', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: _textColor)),
+            const SizedBox(width: 4),
+            IconButton(
+              icon: Icon(Icons.add, size: 16, color: _textColor),
+              padding: EdgeInsets.zero,
+              constraints: const BoxConstraints(),
+              onPressed: () {
+                if (_fontSize < 24) setState(() => _fontSize += 1.5);
+              },
+            ),
+            const SizedBox(width: 12),
+            Row(
+              children: ['Default', 'Sepia', 'Dark'].map((mode) {
+                final selected = _readingTheme == mode;
+                return Padding(
+                  padding: const EdgeInsets.only(left: 4),
+                  child: ChoiceChip(
+                    label: Text(mode, style: const TextStyle(fontSize: 11)),
+                    selected: selected,
+                    onSelected: (_) => setState(() => _readingTheme = mode),
+                  ),
+                );
+              }).toList(),
+            ),
+          ],
+        ),
       ),
     );
   }
@@ -639,25 +615,29 @@ Formulas: ${currentMaterial.formulas.join(', ')}
   }
 
   Widget _buildAiBar() {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
     final aiContext = _getAiContext();
+    final chipBg = isDark ? const Color(0xFF1E293B) : Colors.white;
+    final textColor = isDark ? Colors.white : Colors.black87;
+
     return Container(
       margin: const EdgeInsets.only(bottom: 16),
       padding: const EdgeInsets.all(12),
       decoration: BoxDecoration(
-        color: Colors.blue.shade50.withValues(alpha: 0.6),
+        color: isDark ? const Color(0xFF0F172A) : Colors.blue.shade50.withValues(alpha: 0.6),
         borderRadius: BorderRadius.circular(16),
-        border: Border.all(color: Colors.blue.shade200),
+        border: Border.all(color: isDark ? Colors.blueAccent.withValues(alpha: 0.4) : Colors.blue.shade200),
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Row(
             children: [
-              const Icon(Icons.smart_toy, color: Colors.blue, size: 20),
+              Icon(Icons.smart_toy, color: isDark ? Colors.blueAccent : Colors.blue, size: 20),
               const SizedBox(width: 8),
-              const Text(
+              Text(
                 '🤖 AI Study Assistant',
-                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14, color: Colors.blue),
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14, color: isDark ? Colors.blueAccent : Colors.blue),
               ),
             ],
           ),
@@ -667,9 +647,9 @@ Formulas: ${currentMaterial.formulas.join(', ')}
             child: Row(
               children: [
                 ActionChip(
-                  avatar: const Icon(Icons.auto_stories, size: 16, color: Colors.purple),
-                  label: const Text('🎭 AI Concept Story', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.purple)),
-                  backgroundColor: Colors.purple.shade50,
+                  avatar: const Icon(Icons.auto_stories, size: 16, color: Colors.purpleAccent),
+                  label: const Text('🎭 AI Concept Story', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.purpleAccent)),
+                  backgroundColor: isDark ? const Color(0xFF2E1065) : Colors.purple.shade50,
                   onPressed: () {
                     Navigator.push(
                       context,
@@ -684,9 +664,9 @@ Formulas: ${currentMaterial.formulas.join(', ')}
                 ),
                 const SizedBox(width: 6),
                 ActionChip(
-                  avatar: const Icon(Icons.chat_bubble_outline, size: 16, color: Colors.blue),
-                  label: const Text('Ask AI', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold)),
-                  backgroundColor: Colors.white,
+                  avatar: const Icon(Icons.chat_bubble_outline, size: 16, color: Colors.blueAccent),
+                  label: Text('Ask AI', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: textColor)),
+                  backgroundColor: chipBg,
                   onPressed: () {
                     AiChatDialog.show(
                       context,
@@ -697,9 +677,9 @@ Formulas: ${currentMaterial.formulas.join(', ')}
                 ),
                 const SizedBox(width: 6),
                 ActionChip(
-                  avatar: const Icon(Icons.lightbulb_outline, size: 16, color: Colors.orange),
-                  label: const Text('💡 Explain Topic', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold)),
-                  backgroundColor: Colors.white,
+                  avatar: const Icon(Icons.lightbulb_outline, size: 16, color: Colors.orangeAccent),
+                  label: Text('💡 Explain Topic', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: textColor)),
+                  backgroundColor: chipBg,
                   onPressed: () {
                     AiChatDialog.show(
                       context,
@@ -710,9 +690,9 @@ Formulas: ${currentMaterial.formulas.join(', ')}
                 ),
                 const SizedBox(width: 6),
                 ActionChip(
-                  avatar: const Icon(Icons.bolt, size: 16, color: Colors.amber),
-                  label: const Text('📚 Quick Revision', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold)),
-                  backgroundColor: Colors.white,
+                  avatar: const Icon(Icons.bolt, size: 16, color: Colors.amberAccent),
+                  label: Text('📚 Quick Revision', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: textColor)),
+                  backgroundColor: chipBg,
                   onPressed: () {
                     AiChatDialog.show(
                       context,
@@ -723,9 +703,9 @@ Formulas: ${currentMaterial.formulas.join(', ')}
                 ),
                 const SizedBox(width: 6),
                 ActionChip(
-                  avatar: const Icon(Icons.warning_amber_outlined, size: 16, color: Colors.red),
-                  label: const Text('⚠️ Exam Traps', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold)),
-                  backgroundColor: Colors.white,
+                  avatar: const Icon(Icons.warning_amber_outlined, size: 16, color: Colors.redAccent),
+                  label: Text('⚠️ Exam Traps', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: textColor)),
+                  backgroundColor: chipBg,
                   onPressed: () {
                     AiChatDialog.show(
                       context,
@@ -736,9 +716,9 @@ Formulas: ${currentMaterial.formulas.join(', ')}
                 ),
                 const SizedBox(width: 6),
                 ActionChip(
-                  avatar: const Icon(Icons.report_problem_outlined, size: 16, color: Colors.orange),
-                  label: const Text('🚩 Report Material', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.orange)),
-                  backgroundColor: Colors.white,
+                  avatar: const Icon(Icons.report_problem_outlined, size: 16, color: Colors.orangeAccent),
+                  label: const Text('🚩 Report Material', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.orangeAccent)),
+                  backgroundColor: chipBg,
                   onPressed: () {
                     Navigator.push(
                       context,
@@ -784,7 +764,7 @@ Formulas: ${currentMaterial.formulas.join(', ')}
                 const SizedBox(width: 8),
                 Text(
                   '1. Concept Explanation',
-                  style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16, color: Colors.blue.shade900),
+                  style: TextStyle(fontWeight: FontWeight.bold, fontSize: _fontSize + 1.5, color: Colors.blue.shade900),
                 ),
               ],
             ),
@@ -792,14 +772,14 @@ Formulas: ${currentMaterial.formulas.join(', ')}
             if (material.overview.isNotEmpty) ...[
               Text(
                 material.overview,
-                style: const TextStyle(fontSize: 14, fontWeight: FontWeight.w600, height: 1.4),
+                style: TextStyle(fontSize: _fontSize, fontWeight: FontWeight.w600, height: 1.5, color: _textColor),
               ),
               const SizedBox(height: 8),
             ],
             if (material.concept.isNotEmpty) ...[
               Text(
                 material.concept,
-                style: const TextStyle(fontSize: 13.5, height: 1.4),
+                style: TextStyle(fontSize: _fontSize - 0.5, height: 1.5, color: _textColor),
               ),
             ],
           ],
@@ -821,15 +801,15 @@ Formulas: ${currentMaterial.formulas.join(', ')}
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                const Expanded(
+                Expanded(
                   child: Row(
                     children: [
-                      Icon(Icons.description, color: Colors.blue),
-                      SizedBox(width: 8),
+                      const Icon(Icons.description, color: Colors.blue),
+                      const SizedBox(width: 8),
                       Expanded(
                         child: Text(
                           '2. Detailed Theory',
-                          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+                          style: TextStyle(fontWeight: FontWeight.bold, fontSize: _fontSize + 1.5),
                           overflow: TextOverflow.ellipsis,
                         ),
                       ),
@@ -849,27 +829,27 @@ Formulas: ${currentMaterial.formulas.join(', ')}
                 ),
               ],
             ),
-            const SizedBox(height: 12),
+            const SizedBox(height: 14),
             if (detailedText.isNotEmpty)
-              Text(detailedText, style: const TextStyle(fontSize: 14.5, height: 1.5))
+              _buildFormattedText(detailedText)
             else
               const Text('Detailed theory available in subtopics.', style: TextStyle(color: Colors.grey)),
             if (material.definitions.isNotEmpty) ...[
-              const SizedBox(height: 12),
-              const Text('Definitions:', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13.5)),
-              const SizedBox(height: 6),
+              const SizedBox(height: 14),
+              Text('Definitions:', style: TextStyle(fontWeight: FontWeight.bold, fontSize: _fontSize, color: Colors.blue)),
+              const SizedBox(height: 8),
               ...material.definitions.map((d) => Padding(
                     padding: const EdgeInsets.only(bottom: 8),
                     child: _buildDefinitionItem(d),
                   )),
             ],
             if (material.solvedExamples.isNotEmpty) ...[
-              const SizedBox(height: 12),
-              const Text('Solved Examples:', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13.5)),
-              const SizedBox(height: 6),
+              const SizedBox(height: 14),
+              Text('Solved Examples:', style: TextStyle(fontWeight: FontWeight.bold, fontSize: _fontSize, color: Colors.blue)),
+              const SizedBox(height: 8),
               ...material.solvedExamples.map((ex) => Padding(
                     padding: const EdgeInsets.only(bottom: 6),
-                    child: Text('✓ $ex', style: const TextStyle(fontSize: 13.5, height: 1.4)),
+                    child: Text('✓ $ex', style: TextStyle(fontSize: _fontSize - 0.5, height: 1.45, color: _textColor)),
                   )),
             ],
           ],
@@ -878,16 +858,280 @@ Formulas: ${currentMaterial.formulas.join(', ')}
     );
   }
 
+  Widget _buildFormattedText(String text) {
+    if (text.trim().isEmpty) return const SizedBox.shrink();
+
+    final lines = text.split('\n');
+    final widgets = <Widget>[];
+
+    for (var i = 0; i < lines.length; i++) {
+      final line = lines[i].trim();
+      if (line.isEmpty) {
+        widgets.add(const SizedBox(height: 6));
+        continue;
+      }
+
+      if (line.startsWith('- ') || line.startsWith('• ')) {
+        final content = line.substring(2).trim();
+        widgets.add(
+          Padding(
+            padding: const EdgeInsets.only(bottom: 8),
+            child: Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text('• ', style: TextStyle(fontWeight: FontWeight.bold, fontSize: _fontSize, height: 1.5, color: _textColor)),
+                Expanded(
+                  child: Text(
+                    content,
+                    style: TextStyle(fontSize: _fontSize, height: 1.55, color: _textColor),
+                  ),
+                ),
+              ],
+            ),
+          ),
+        );
+      } else {
+        widgets.add(
+          Padding(
+            padding: const EdgeInsets.only(bottom: 8),
+            child: Text(
+              line,
+              style: TextStyle(fontSize: _fontSize, height: 1.55, color: _textColor),
+            ),
+          ),
+        );
+      }
+    }
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: widgets,
+    );
+  }
+
   Widget _buildDefinitionItem(String definition) {
     final text = definition.trim();
     return Padding(
       padding: const EdgeInsets.only(bottom: 4),
-      child: Text('• $text', style: const TextStyle(fontSize: 13.5, height: 1.4, fontWeight: FontWeight.w500)),
+      child: Text('• $text', style: TextStyle(fontSize: _fontSize - 0.5, height: 1.45, fontWeight: FontWeight.w500, color: _textColor)),
+    );
+  }
+
+  Widget _buildDiagramSection(StudyMaterial material) {
+    String imgPath = material.imagePath.trim();
+    if (imgPath.isEmpty) {
+      imgPath = material.visualLearning?.imageUrl?.trim() ?? '';
+    }
+
+    if (imgPath.isEmpty) {
+      return const SizedBox.shrink();
+    }
+
+    final bool isAsset = !imgPath.startsWith('http://') && !imgPath.startsWith('https://');
+
+    return Container(
+      margin: const EdgeInsets.only(bottom: 20),
+      decoration: BoxDecoration(
+        color: Colors.grey.shade50,
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.blue.shade100),
+      ),
+      child: ClipRRect(
+        borderRadius: BorderRadius.circular(12),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.stretch,
+          children: [
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+              color: Colors.blue.shade50,
+              child: Row(
+                children: [
+                  const Icon(Icons.schema_outlined, color: Colors.blue, size: 20),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: Text(
+                      '📐 Engineering Diagram (ઇજનેરી આકૃતિ)',
+                      style: TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: _fontSize,
+                        color: Colors.blue.shade900,
+                      ),
+                    ),
+                  ),
+                  InkWell(
+                    onTap: () => _showDiagramDialog(context, imgPath, material.topic),
+                    child: const Padding(
+                      padding: EdgeInsets.all(4.0),
+                      child: Icon(Icons.fullscreen, color: Colors.blue, size: 22),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            GestureDetector(
+              onTap: () => _showDiagramDialog(context, imgPath, material.topic),
+              child: Container(
+                constraints: const BoxConstraints(maxHeight: 320),
+                width: double.infinity,
+                child: isAsset
+                    ? Image.asset(
+                        imgPath,
+                        fit: BoxFit.contain,
+                        errorBuilder: (context, error, stackTrace) => _buildDiagramFallback(material.topic),
+                      )
+                    : Image.network(
+                        imgPath,
+                        fit: BoxFit.contain,
+                        errorBuilder: (context, error, stackTrace) => _buildDiagramFallback(material.topic),
+                      ),
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildDiagramFallback(String topicTitle) {
+    return Container(
+      padding: const EdgeInsets.all(20),
+      color: Colors.grey.shade100,
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          Icon(Icons.auto_awesome_motion, size: 40, color: Colors.blue.shade400),
+          const SizedBox(height: 8),
+          Text(
+            '📐 $topicTitle - Technical Diagram',
+            style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 14, color: Colors.black87),
+            textAlign: TextAlign.center,
+          ),
+          const SizedBox(height: 4),
+          const Text(
+            'આ વિઝ્યુઅલ સરકિટ / ડાયાગ્રામની સંપૂર્ણ સમજૂતી નીચેના વિસ્તૃત થિયરી વિભાગમાં ઉપલબ્ધ છે.',
+            style: TextStyle(fontSize: 12, color: Colors.grey),
+            textAlign: TextAlign.center,
+          ),
+        ],
+      ),
+    );
+  }
+
+  void _showDiagramDialog(BuildContext context, String imgPath, String title) {
+    final bool isAsset = !imgPath.startsWith('http://') && !imgPath.startsWith('https://');
+    showDialog(
+      context: context,
+      builder: (ctx) => Dialog(
+        insetPadding: const EdgeInsets.all(12),
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            AppBar(
+              title: Text(title, style: const TextStyle(fontSize: 16)),
+              automaticallyImplyLeading: false,
+              actions: [
+                IconButton(
+                  icon: const Icon(Icons.close),
+                  onPressed: () => Navigator.pop(ctx),
+                ),
+              ],
+            ),
+            Flexible(
+              child: InteractiveViewer(
+                panEnabled: true,
+                minScale: 0.5,
+                maxScale: 4.0,
+                child: isAsset
+                    ? Image.asset(imgPath, errorBuilder: (context, error, stackTrace) => _buildDiagramFallback(title))
+                    : Image.network(imgPath, errorBuilder: (context, error, stackTrace) => _buildDiagramFallback(title)),
+              ),
+            ),
+          ],
+        ),
+      ),
     );
   }
 
   Widget _buildVisualLearningSection(StudyMaterial material) {
     return AnimatedTopicVisualWidget(material: material);
+  }
+
+  Widget _buildExamPointItem(String point) {
+    final text = point.trim();
+    if (text.isEmpty) return const SizedBox.shrink();
+
+    final isQuestion = text.contains('**પ્રશ્ન:') || text.startsWith('પ્રશ્ન:');
+
+    if (isQuestion || text.contains('\nજવાબ:')) {
+      final lines = text.split('\n');
+      String qText = '';
+      String aText = '';
+
+      for (var l in lines) {
+        final trimmedLine = l.trim();
+        if (trimmedLine.startsWith('**પ્રશ્ન:') || trimmedLine.startsWith('પ્રશ્ન:')) {
+          qText = trimmedLine.replaceAll('**', '').trim();
+        } else if (trimmedLine.startsWith('જવાબ:')) {
+          aText = trimmedLine.trim();
+        } else if (qText.isEmpty) {
+          qText = trimmedLine.replaceAll('**', '').trim();
+        } else {
+          aText += ' $trimmedLine';
+        }
+      }
+
+      return Container(
+        margin: const EdgeInsets.only(bottom: 12),
+        padding: const EdgeInsets.all(12),
+        decoration: BoxDecoration(
+          color: Colors.blue.shade50.withValues(alpha: 0.5),
+          borderRadius: BorderRadius.circular(10),
+          border: Border.all(color: Colors.blue.shade200),
+        ),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              qText,
+              style: TextStyle(
+                fontWeight: FontWeight.bold,
+                fontSize: _fontSize,
+                color: Colors.blue,
+                height: 1.45,
+              ),
+            ),
+            if (aText.isNotEmpty) ...[
+              const SizedBox(height: 6),
+              Text(
+                aText,
+                style: TextStyle(
+                  fontWeight: FontWeight.normal,
+                  fontSize: _fontSize - 0.5,
+                  height: 1.45,
+                  color: _textColor,
+                ),
+              ),
+            ],
+          ],
+        ),
+      );
+    }
+
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 8),
+      child: Row(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const Text('🎯 ', style: TextStyle(fontSize: 13)),
+          Expanded(
+            child: Text(
+              text.replaceAll('**', ''),
+              style: TextStyle(fontSize: _fontSize - 0.5, height: 1.5, fontWeight: FontWeight.w500, color: _textColor),
+            ),
+          ),
+        ],
+      ),
+    );
   }
 
   Widget _buildExamImportantPointsSection(StudyMaterial material) {
@@ -908,15 +1152,15 @@ Formulas: ${currentMaterial.formulas.join(', ')}
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                const Expanded(
+                Expanded(
                   child: Row(
                     children: [
-                      Icon(Icons.stars, color: Colors.amber),
-                      SizedBox(width: 8),
+                      const Icon(Icons.stars, color: Colors.amber),
+                      const SizedBox(width: 8),
                       Expanded(
                         child: Text(
-                          '2. Exam Important Points',
-                          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+                          'પરીક્ષા માટેના મહત્વના મુદ્દા',
+                          style: TextStyle(fontWeight: FontWeight.bold, fontSize: _fontSize + 1.5),
                           overflow: TextOverflow.ellipsis,
                         ),
                       ),
@@ -927,7 +1171,7 @@ Formulas: ${currentMaterial.formulas.join(', ')}
                   onPressed: () {
                     AiChatDialog.show(
                       context,
-                      contextData: _getAiContext(sectionTitle: 'Exam Important Points', sectionContent: allPoints.join('\n')),
+                      contextData: _getAiContext(sectionTitle: 'પરીક્ષા માટેના મહત્વના મુદ્દા', sectionContent: allPoints.join('\n')),
                       initialAction: AiQuickAction.quickRevision,
                     );
                   },
@@ -936,33 +1180,30 @@ Formulas: ${currentMaterial.formulas.join(', ')}
                 ),
               ],
             ),
-            const SizedBox(height: 12),
+            const SizedBox(height: 14),
             if (material.formulas.isNotEmpty) ...[
-              const Text('Important Formulas:', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13.5, color: Colors.blue)),
-              const SizedBox(height: 6),
+              Text('Important Formulas:', style: TextStyle(fontWeight: FontWeight.bold, fontSize: _fontSize, color: Colors.blue)),
+              const SizedBox(height: 8),
               ...material.formulas.map((f) => Padding(
                     padding: const EdgeInsets.only(bottom: 6),
-                    child: Row(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        const Text('📐 ', style: TextStyle(fontSize: 12)),
-                        Expanded(child: Text(f, style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 13.5))),
-                      ],
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                      decoration: BoxDecoration(
+                        color: Colors.grey.shade100,
+                        borderRadius: BorderRadius.circular(6),
+                      ),
+                      child: Row(
+                        children: [
+                          const Text('📐 ', style: TextStyle(fontSize: 12)),
+                          Expanded(child: Text(f, style: TextStyle(fontWeight: FontWeight.bold, fontSize: _fontSize - 0.5, color: _textColor))),
+                        ],
+                      ),
                     ),
                   )),
-              const SizedBox(height: 10),
+              const SizedBox(height: 12),
             ],
             if (allPoints.isNotEmpty)
-              ...allPoints.map((p) => Padding(
-                    padding: const EdgeInsets.only(bottom: 6),
-                    child: Row(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        const Text('🎯 ', style: TextStyle(fontSize: 12)),
-                        Expanded(child: Text(p, style: const TextStyle(fontSize: 13.5, height: 1.4))),
-                      ],
-                    ),
-                  ))
+              ...allPoints.map((p) => _buildExamPointItem(p))
             else
               const Text('Review formulas and key concepts before solving MCQs.', style: TextStyle(color: Colors.grey)),
           ],
@@ -982,15 +1223,15 @@ Formulas: ${currentMaterial.formulas.join(', ')}
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                const Expanded(
+                Expanded(
                   child: Row(
                     children: [
-                      Icon(Icons.warning_amber_rounded, color: Colors.red),
-                      SizedBox(width: 8),
+                      const Icon(Icons.warning_amber_rounded, color: Colors.red),
+                      const SizedBox(width: 8),
                       Expanded(
                         child: Text(
                           '3. Confusion Points & Traps',
-                          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+                          style: TextStyle(fontWeight: FontWeight.bold, fontSize: _fontSize + 1.5),
                           overflow: TextOverflow.ellipsis,
                         ),
                       ),
@@ -1018,7 +1259,7 @@ Formulas: ${currentMaterial.formulas.join(', ')}
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         const Text('⚠️ ', style: TextStyle(fontSize: 12)),
-                        Expanded(child: Text(m, style: const TextStyle(fontSize: 13.5, height: 1.4))),
+                        Expanded(child: Text(m, style: TextStyle(fontSize: _fontSize - 0.5, height: 1.45, color: _textColor))),
                       ],
                     ),
                   ))

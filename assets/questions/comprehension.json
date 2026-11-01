@@ -16,7 +16,8 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "The central message is the main idea."
+    "explanation": "The central message is the main idea.",
+    "isPYQ": false
   },
   {
     "id": 89,
@@ -35,7 +36,8 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Inference is a conclusion drawn from evidence in the passage."
+    "explanation": "Inference is a conclusion drawn from evidence in the passage.",
+    "isPYQ": false
   },
   {
     "id": 90,
@@ -54,7 +56,8 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "The passage and statements must be understood before selecting an answer."
+    "explanation": "The passage and statements must be understood before selecting an answer.",
+    "isPYQ": false
   },
   {
     "id": 91,
@@ -73,7 +76,8 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "The central message is the main idea."
+    "explanation": "The central message is the main idea.",
+    "isPYQ": false
   },
   {
     "id": 92,
@@ -92,7 +96,8 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Inference is a conclusion drawn from evidence in the passage."
+    "explanation": "Inference is a conclusion drawn from evidence in the passage.",
+    "isPYQ": false
   },
   {
     "id": 93,
@@ -111,7 +116,8 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "The passage and statements must be understood before selecting an answer."
+    "explanation": "The passage and statements must be understood before selecting an answer.",
+    "isPYQ": false
   },
   {
     "id": 94,
@@ -130,7 +136,8 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "The central message is the main idea."
+    "explanation": "The central message is the main idea.",
+    "isPYQ": false
   },
   {
     "id": 95,
@@ -149,7 +156,8 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Inference is a conclusion drawn from evidence in the passage."
+    "explanation": "Inference is a conclusion drawn from evidence in the passage.",
+    "isPYQ": false
   },
   {
     "id": 96,
@@ -168,7 +176,8 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "The passage and statements must be understood before selecting an answer."
+    "explanation": "The passage and statements must be understood before selecting an answer.",
+    "isPYQ": false
   },
   {
     "id": 97,
@@ -187,7 +196,8 @@
       1
     ],
     "isMSQ": false,
-    "explanation": "The central message is the main idea."
+    "explanation": "The central message is the main idea.",
+    "isPYQ": false
   },
   {
     "id": 98,
@@ -206,7 +216,8 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "Inference is a conclusion drawn from evidence in the passage."
+    "explanation": "Inference is a conclusion drawn from evidence in the passage.",
+    "isPYQ": false
   },
   {
     "id": 99,
@@ -225,6 +236,7 @@
       0
     ],
     "isMSQ": false,
-    "explanation": "The passage and statements must be understood before selecting an answer."
+    "explanation": "The passage and statements must be understood before selecting an answer.",
+    "isPYQ": false
   }
 ]

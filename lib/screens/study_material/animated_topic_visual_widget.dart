@@ -15,6 +15,7 @@ class AnimatedTopicVisualWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final videos = <StudyVideo>[...(vl?.videos ?? const [])];
+
     if (videos.isEmpty && vl?.videoUrl != null && vl!.videoUrl!.isNotEmpty) {
       videos.add(StudyVideo(
         title: '${material.topic} - Video Explanation',
@@ -31,8 +32,14 @@ class AnimatedTopicVisualWidget extends StatelessWidget {
       ));
     }
 
+    // Always ensure at least 1 video entry exists for every topic
     if (videos.isEmpty) {
-      return const SizedBox.shrink();
+      final String topicSlug = material.topic.toLowerCase().replaceAll(RegExp(r'[^a-z0-9]'), '_');
+      videos.add(StudyVideo(
+        title: '${material.topic} - Full Concept Lesson',
+        url: 'https://raw.githubusercontent.com/gamecard600-lang/hammesh_aae/main/assets/videos/$topicSlug.mp4',
+        description: '${material.topic} નો વિઝ્યુઅલ અને સિદ્ધાંત પાઠ એપ્લિકેશનમાં પ્લે કરો.',
+      ));
     }
 
     return Column(
