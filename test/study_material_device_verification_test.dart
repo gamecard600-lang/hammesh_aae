@@ -80,7 +80,7 @@ void main() {
       );
       await tester.pump();
 
-      expect(find.text('🎬 Topic Video Learning'), findsOneWidget);
+      expect(find.textContaining('Topic Video Learning'), findsOneWidget);
     });
 
     test('7. Verify Formulas Database (551 formulas)', () async {

@@ -49,13 +49,13 @@ class AnimatedTopicVisualWidget extends StatelessWidget {
           padding: const EdgeInsets.only(top: 8, bottom: 6),
           child: Row(
             children: [
-              const Icon(Icons.ondemand_video, color: Colors.amber, size: 24),
+              const Icon(Icons.play_circle_fill_rounded, color: Colors.amber, size: 22),
               const SizedBox(width: 8),
               Expanded(
                 child: Text(
-                  '🎬 Topic Video Learning',
+                  'Topic Video Learning',
                   style: TextStyle(
-                    fontSize: 16,
+                    fontSize: 15,
                     fontWeight: FontWeight.bold,
                     color: Colors.blue.shade900,
                   ),

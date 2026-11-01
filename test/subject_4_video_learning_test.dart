@@ -102,9 +102,6 @@ void main() {
       expect(find.text('Testing & Performance of IC Engines - Gujarati Concept Lesson'), findsWidgets);
       expect(find.text('OFFLINE HD'), findsOneWidget);
       expect(find.text('EP 1'), findsOneWidget);
-      expect(find.textContaining('Active Recall'), findsOneWidget);
-      expect(find.textContaining('Practice MCQs'), findsOneWidget);
-      expect(find.textContaining('AI Story Mode'), findsOneWidget);
     });
   });
 }

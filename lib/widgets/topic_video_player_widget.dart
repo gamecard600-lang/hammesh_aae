@@ -288,29 +288,29 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
     return Container(
       margin: const EdgeInsets.symmetric(vertical: 8),
       decoration: BoxDecoration(
-        color: const Color(0xFF131C2E),
-        borderRadius: BorderRadius.circular(16),
-        border: Border.all(color: Colors.amberAccent.withValues(alpha: 0.4), width: 1.5),
+        color: const Color(0xFF0F172A),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.blueGrey.shade800, width: 1),
         boxShadow: const [
           BoxShadow(
-            color: Colors.black26,
-            blurRadius: 10,
-            offset: Offset(0, 4),
+            color: Colors.black38,
+            blurRadius: 8,
+            offset: Offset(0, 3),
           ),
         ],
       ),
       child: ClipRRect(
-        borderRadius: BorderRadius.circular(16),
+        borderRadius: BorderRadius.circular(12),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             // Video Header Banner
             Container(
-              padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
-              color: Colors.amber.shade900.withValues(alpha: 0.3),
+              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+              color: const Color(0xFF1E293B),
               child: Row(
                 children: [
-                  const Icon(Icons.ondemand_video_rounded, color: Colors.amberAccent, size: 20),
+                  const Icon(Icons.play_circle_fill_rounded, color: Colors.amberAccent, size: 20),
                   const SizedBox(width: 8),
                   if (widget.video.episodeNumber > 0)
                     Container(
@@ -318,7 +318,7 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
                       padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
                       decoration: BoxDecoration(
                         color: Colors.blueAccent.shade700,
-                        borderRadius: BorderRadius.circular(6),
+                        borderRadius: BorderRadius.circular(4),
                       ),
                       child: Text(
                         'EP ${widget.video.episodeNumber}',
@@ -330,16 +330,19 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
                       widget.video.title,
                       style: const TextStyle(
                         color: Colors.white,
-                        fontWeight: FontWeight.bold,
-                        fontSize: 14,
+                        fontWeight: FontWeight.w600,
+                        fontSize: 13.5,
                       ),
+                      maxLines: 1,
+                      overflow: TextOverflow.ellipsis,
                     ),
                   ),
+                  const SizedBox(width: 6),
                   Container(
                     padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
                     decoration: BoxDecoration(
                       color: widget.video.assetPath.isNotEmpty ? Colors.green.shade800 : Colors.blue.shade800,
-                      borderRadius: BorderRadius.circular(8),
+                      borderRadius: BorderRadius.circular(6),
                     ),
                     child: Text(
                       widget.video.assetPath.isNotEmpty ? 'OFFLINE HD' : '100% OFFLINE',
@@ -382,7 +385,7 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
                 ),
               ),
 
-            // Main Video Viewport or Offline Concept Player (100% In-App Offline)
+            // Video Player Viewport
             if (_isInitializing)
               _buildLoadingViewport()
             else if (_controller != null && _controller!.value.isInitialized)
@@ -393,103 +396,12 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
             // Video Description
             if (widget.video.description.isNotEmpty)
               Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                padding: const EdgeInsets.fromLTRB(12, 8, 12, 10),
                 child: Text(
                   widget.video.description,
-                  style: const TextStyle(color: Colors.white70, fontSize: 12.5, height: 1.4),
+                  style: const TextStyle(color: Colors.white70, fontSize: 12, height: 1.35),
                 ),
               ),
-
-            // Action Buttons: Play Video + Active Recall + AI Story + Practice MCQs
-            Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
-              child: Wrap(
-                spacing: 8,
-                runSpacing: 8,
-                alignment: WrapAlignment.spaceBetween,
-                children: [
-                  ElevatedButton.icon(
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.amberAccent,
-                      foregroundColor: Colors.black,
-                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-                      minimumSize: Size.zero,
-                      tapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                    ),
-                    onPressed: _togglePlayPause,
-                    icon: Icon(
-                      (_controller != null && _controller!.value.isInitialized && _controller!.value.isPlaying) || _isAutoPlayingSteps
-                          ? Icons.pause
-                          : Icons.play_arrow,
-                      size: 16,
-                    ),
-                    label: Text(
-                      (_controller != null && _controller!.value.isInitialized && _controller!.value.isPlaying) || _isAutoPlayingSteps
-                          ? 'Pause Lesson'
-                          : '▶ Play Video Lesson',
-                      style: const TextStyle(fontSize: 11.5, fontWeight: FontWeight.bold),
-                    ),
-                  ),
-                  if (widget.video.recallQuestions.isNotEmpty)
-                    ElevatedButton.icon(
-                      style: ElevatedButton.styleFrom(
-                        backgroundColor: Colors.amber.shade700,
-                        foregroundColor: Colors.black,
-                        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-                        minimumSize: Size.zero,
-                        tapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                      ),
-                      onPressed: _openRecallQuestionsSheet,
-                      icon: const Icon(Icons.psychology, size: 16),
-                      label: Text(
-                        '🧠 Active Recall (${widget.video.recallQuestions.length} Qs)',
-                        style: const TextStyle(fontSize: 11.5, fontWeight: FontWeight.bold),
-                      ),
-                    ),
-                  OutlinedButton.icon(
-                    style: OutlinedButton.styleFrom(
-                      foregroundColor: Colors.purpleAccent,
-                      side: const BorderSide(color: Colors.purpleAccent),
-                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-                      minimumSize: Size.zero,
-                      tapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                    ),
-                    onPressed: () {
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                          builder: (_) => ConceptStoryScreen(
-                            topic: widget.topicName,
-                            subject: widget.subjectName,
-                          ),
-                        ),
-                      );
-                    },
-                    icon: const Icon(Icons.auto_stories, size: 16),
-                    label: const Text(
-                      '🎭 AI Story Mode',
-                      style: TextStyle(fontSize: 11.5, fontWeight: FontWeight.bold),
-                    ),
-                  ),
-                  OutlinedButton.icon(
-                    style: OutlinedButton.styleFrom(
-                      foregroundColor: Colors.lightGreenAccent,
-                      side: const BorderSide(color: Colors.lightGreenAccent),
-                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-                      minimumSize: Size.zero,
-                      tapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                    ),
-                    onPressed: _openPracticeScreen,
-                    icon: const Icon(Icons.quiz_outlined, size: 16),
-                    label: const Text(
-                      '📝 Practice MCQs',
-                      style: TextStyle(fontSize: 11.5, fontWeight: FontWeight.bold),
-                    ),
-                  ),
-                ],
-              ),
-            ),
-            const SizedBox(height: 8),
           ],
         ),
       ),
@@ -497,20 +409,22 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
   }
 
   Widget _buildLoadingViewport() {
-    return Container(
-      height: 200,
-      color: Colors.black,
-      child: const Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            CircularProgressIndicator(color: Colors.amberAccent),
-            SizedBox(height: 12),
-            Text(
-              'Loading Video Lesson...',
-              style: TextStyle(color: Colors.white70, fontSize: 13),
-            ),
-          ],
+    return AspectRatio(
+      aspectRatio: 16 / 9,
+      child: Container(
+        color: Colors.black,
+        child: const Center(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              CircularProgressIndicator(color: Colors.amberAccent, strokeWidth: 2.5),
+              SizedBox(height: 12),
+              Text(
+                'Loading Video Lesson...',
+                style: TextStyle(color: Colors.white70, fontSize: 13),
+              ),
+            ],
+          ),
         ),
       ),
     );
@@ -533,16 +447,16 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
                   opacity: !value.isPlaying ? 1.0 : 0.0,
                   duration: const Duration(milliseconds: 200),
                   child: Container(
-                    padding: const EdgeInsets.all(16),
+                    padding: const EdgeInsets.all(14),
                     decoration: BoxDecoration(
-                      color: Colors.black45,
+                      color: Colors.black54,
                       shape: BoxShape.circle,
                       border: Border.all(color: Colors.amberAccent, width: 2),
                     ),
                     child: Icon(
                       value.isPlaying ? Icons.pause : Icons.play_arrow,
                       color: Colors.amberAccent,
-                      size: 42,
+                      size: 38,
                     ),
                   ),
                 ),
@@ -562,11 +476,14 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
         ),
 
         Container(
-          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
           color: Colors.black87,
           child: Row(
             children: [
               IconButton(
+                iconSize: 20,
+                padding: EdgeInsets.zero,
+                constraints: const BoxConstraints(minWidth: 32, minHeight: 32),
                 icon: Icon(
                   value.isPlaying ? Icons.pause : Icons.play_arrow,
                   color: Colors.amberAccent,
@@ -574,22 +491,31 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
                 onPressed: _togglePlayPause,
               ),
               IconButton(
+                iconSize: 20,
+                padding: EdgeInsets.zero,
+                constraints: const BoxConstraints(minWidth: 32, minHeight: 32),
                 icon: Icon(
                   _isMuted ? Icons.volume_off : Icons.volume_up,
                   color: Colors.white70,
                 ),
                 onPressed: _toggleMute,
               ),
+              const SizedBox(width: 4),
               Text(
                 '${_formatDuration(value.position)} / ${_formatDuration(value.duration)}',
-                style: const TextStyle(color: Colors.white70, fontSize: 12),
+                style: const TextStyle(color: Colors.white70, fontSize: 11.5),
               ),
               const Spacer(),
               TextButton(
+                style: TextButton.styleFrom(
+                  padding: const EdgeInsets.symmetric(horizontal: 8),
+                  minimumSize: Size.zero,
+                  tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                ),
                 onPressed: _cycleSpeed,
                 child: Text(
                   '${_playbackSpeed}x',
-                  style: const TextStyle(color: Colors.amberAccent, fontWeight: FontWeight.bold),
+                  style: const TextStyle(color: Colors.amberAccent, fontWeight: FontWeight.bold, fontSize: 12),
                 ),
               ),
             ],
@@ -603,213 +529,120 @@ class _TopicVideoPlayerWidgetState extends State<TopicVideoPlayerWidget> {
     final steps = _stepSequence;
     final currentStep = steps[_currentStepIndex % steps.length];
 
-    return Container(
-      padding: const EdgeInsets.all(16),
-      color: const Color(0xFF0F172A),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.stretch,
-        children: [
-          Row(
-            children: [
-              const Icon(Icons.movie_creation_outlined, color: Colors.amberAccent, size: 24),
-              const SizedBox(width: 8),
-              Expanded(
-                child: Text(
-                  widget.video.title,
-                  style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 13.5),
-                ),
-              ),
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
-                decoration: BoxDecoration(
-                  color: Colors.green.shade800,
-                  borderRadius: BorderRadius.circular(6),
-                ),
-                child: const Text(
-                  '100% OFFLINE',
-                  style: TextStyle(color: Colors.white, fontSize: 10, fontWeight: FontWeight.bold),
-                ),
-              ),
-            ],
-          ),
-          const SizedBox(height: 12),
-
-          // Animated Visual Step Card
-          AnimatedContainer(
-            duration: const Duration(milliseconds: 300),
-            padding: const EdgeInsets.all(14),
-            decoration: BoxDecoration(
-              color: Colors.black45,
-              borderRadius: BorderRadius.circular(12),
-              border: Border.all(
-                color: _isAutoPlayingSteps ? Colors.amberAccent : Colors.white24,
-                width: _isAutoPlayingSteps ? 2.0 : 1.0,
-              ),
-              boxShadow: _isAutoPlayingSteps
-                  ? [
-                      BoxShadow(
-                        color: Colors.amberAccent.withValues(alpha: 0.2),
-                        blurRadius: 12,
-                        spreadRadius: 2,
-                      )
-                    ]
-                  : [],
-            ),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
+    return AspectRatio(
+      aspectRatio: 16 / 9,
+      child: Container(
+        color: const Color(0xFF030712),
+        padding: const EdgeInsets.all(12),
+        child: Column(
+          children: [
+            // Step Header Indicator
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    Row(
-                      children: [
-                        Icon(
-                          _isAutoPlayingSteps ? Icons.play_circle_fill : Icons.pause_circle_filled,
-                          color: _isAutoPlayingSteps ? Colors.greenAccent : Colors.amberAccent,
-                          size: 18,
-                        ),
-                        const SizedBox(width: 6),
-                        Text(
-                          'Step ${_currentStepIndex + 1} of ${steps.length}',
-                          style: const TextStyle(color: Colors.amberAccent, fontWeight: FontWeight.bold, fontSize: 12.5),
-                        ),
-                      ],
+                    Icon(
+                      _isAutoPlayingSteps ? Icons.play_circle_fill : Icons.pause_circle_filled,
+                      color: _isAutoPlayingSteps ? Colors.greenAccent : Colors.amberAccent,
+                      size: 16,
                     ),
-                    if (_isAutoPlayingSteps)
-                      const Row(
-                        children: [
-                          SizedBox(
-                            width: 12,
-                            height: 12,
-                            child: CircularProgressIndicator(strokeWidth: 2, color: Colors.amberAccent),
-                          ),
-                          SizedBox(width: 6),
-                          Text(
-                            'Playing...',
-                            style: TextStyle(color: Colors.greenAccent, fontSize: 11, fontWeight: FontWeight.bold),
-                          ),
-                        ],
-                      ),
+                    const SizedBox(width: 6),
+                    Text(
+                      'Step ${_currentStepIndex + 1} of ${steps.length}',
+                      style: const TextStyle(color: Colors.amberAccent, fontWeight: FontWeight.bold, fontSize: 11.5),
+                    ),
                   ],
                 ),
-                const SizedBox(height: 10),
+                if (_isAutoPlayingSteps)
+                  const Row(
+                    children: [
+                      SizedBox(
+                        width: 10,
+                        height: 10,
+                        child: CircularProgressIndicator(strokeWidth: 2, color: Colors.greenAccent),
+                      ),
+                      SizedBox(width: 6),
+                      Text(
+                        'Playing',
+                        style: TextStyle(color: Colors.greenAccent, fontSize: 10.5, fontWeight: FontWeight.bold),
+                      ),
+                    ],
+                  ),
+              ],
+            ),
 
-                // Smooth animated transition for step text
-                AnimatedSwitcher(
-                  duration: const Duration(milliseconds: 350),
-                  child: KeyedSubtree(
-                    key: ValueKey<int>(_currentStepIndex),
-                    child: Text(
-                      currentStep,
-                      style: const TextStyle(
-                        color: Colors.white,
-                        fontSize: 13.5,
-                        fontWeight: FontWeight.w600,
-                        height: 1.45,
+            // Center Concept Text Viewport
+            Expanded(
+              child: Center(
+                child: GestureDetector(
+                  onTap: _toggleStepAutoPlay,
+                  child: AnimatedSwitcher(
+                    duration: const Duration(milliseconds: 300),
+                    child: KeyedSubtree(
+                      key: ValueKey<int>(_currentStepIndex),
+                      child: Padding(
+                        padding: const EdgeInsets.symmetric(horizontal: 8),
+                        child: Text(
+                          currentStep,
+                          style: const TextStyle(
+                            color: Colors.white,
+                            fontSize: 12.5,
+                            fontWeight: FontWeight.w500,
+                            height: 1.4,
+                          ),
+                          textAlign: TextAlign.center,
+                          maxLines: 4,
+                          overflow: TextOverflow.ellipsis,
+                        ),
                       ),
                     ),
                   ),
                 ),
+              ),
+            ),
 
-                const SizedBox(height: 12),
-
-                // Step Navigation Controls
+            // Step Navigation Controls
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                IconButton(
+                  icon: const Icon(Icons.skip_previous, color: Colors.white70, size: 20),
+                  padding: EdgeInsets.zero,
+                  constraints: const BoxConstraints(minWidth: 32, minHeight: 32),
+                  onPressed: () {
+                    setState(() {
+                      _currentStepIndex = (_currentStepIndex - 1 + steps.length) % steps.length;
+                    });
+                  },
+                ),
                 Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: [
-                    IconButton(
-                      icon: const Icon(Icons.skip_previous, color: Colors.white70),
-                      padding: EdgeInsets.zero,
-                      constraints: const BoxConstraints(),
-                      onPressed: () {
-                        setState(() {
-                          _currentStepIndex = (_currentStepIndex - 1 + steps.length) % steps.length;
-                        });
-                      },
-                    ),
-                    Row(
-                      children: List.generate(steps.length, (idx) {
-                        return Container(
-                          width: 8,
-                          height: 8,
-                          margin: const EdgeInsets.symmetric(horizontal: 3),
-                          decoration: BoxDecoration(
-                            shape: BoxShape.circle,
-                            color: _currentStepIndex == idx ? Colors.amberAccent : Colors.white24,
-                          ),
-                        );
-                      }),
-                    ),
-                    IconButton(
-                      icon: const Icon(Icons.skip_next, color: Colors.white70),
-                      padding: EdgeInsets.zero,
-                      constraints: const BoxConstraints(),
-                      onPressed: () {
-                        setState(() {
-                          _currentStepIndex = (_currentStepIndex + 1) % steps.length;
-                        });
-                      },
-                    ),
-                  ],
+                  children: List.generate(steps.length, (idx) {
+                    return Container(
+                      width: 6,
+                      height: 6,
+                      margin: const EdgeInsets.symmetric(horizontal: 2.5),
+                      decoration: BoxDecoration(
+                        shape: BoxShape.circle,
+                        color: _currentStepIndex == idx ? Colors.amberAccent : Colors.white24,
+                      ),
+                    );
+                  }),
+                ),
+                IconButton(
+                  icon: const Icon(Icons.skip_next, color: Colors.white70, size: 20),
+                  padding: EdgeInsets.zero,
+                  constraints: const BoxConstraints(minWidth: 32, minHeight: 32),
+                  onPressed: () {
+                    setState(() {
+                      _currentStepIndex = (_currentStepIndex + 1) % steps.length;
+                    });
+                  },
                 ),
               ],
             ),
-          ),
-
-          const SizedBox(height: 12),
-
-          // Main Interactive Action Buttons
-          Wrap(
-            alignment: WrapAlignment.center,
-            spacing: 8,
-            runSpacing: 8,
-            children: [
-              ElevatedButton.icon(
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: _isAutoPlayingSteps ? Colors.orangeAccent : Colors.amberAccent,
-                  foregroundColor: Colors.black,
-                  padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
-                ),
-                onPressed: _toggleStepAutoPlay,
-                icon: Icon(_isAutoPlayingSteps ? Icons.pause : Icons.play_arrow_rounded, size: 20),
-                label: Text(
-                  _isAutoPlayingSteps ? '⏸️ Pause Lesson' : '▶ Play Animated Lesson',
-                  style: const TextStyle(fontSize: 12, fontWeight: FontWeight.bold),
-                ),
-              ),
-              ElevatedButton.icon(
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.purpleAccent,
-                  foregroundColor: Colors.white,
-                  padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
-                ),
-                onPressed: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (_) => ConceptStoryScreen(
-                        topic: widget.topicName,
-                        subject: widget.subjectName,
-                      ),
-                    ),
-                  );
-                },
-                icon: const Icon(Icons.auto_stories, size: 18),
-                label: const Text('🎭 Play AI Visual Story', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold)),
-              ),
-              ElevatedButton.icon(
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.lightGreen,
-                  foregroundColor: Colors.black,
-                  padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
-                ),
-                onPressed: _openPracticeScreen,
-                icon: const Icon(Icons.quiz, size: 18),
-                label: const Text('📝 Solve Topic MCQs', style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold)),
-              ),
-            ],
-          ),
-        ],
+          ],
+        ),
       ),
     );
   }
