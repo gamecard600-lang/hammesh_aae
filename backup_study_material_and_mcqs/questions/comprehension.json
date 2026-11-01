@@ -1,0 +1,230 @@
+[
+  {
+    "id": 88,
+    "subject": "Comprehension",
+    "subTopic": "Gujarati Comprehension",
+    "question": "The main idea of a passage is best identified by:",
+    "gujaratiQuestion": "The main idea of a passage is best identified by:",
+    "options": [
+      "A single minor detail",
+      "The central message supported by the passage",
+      "An unrelated fact",
+      "The longest sentence only"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "The central message is the main idea."
+  },
+  {
+    "id": 89,
+    "subject": "Comprehension",
+    "subTopic": "Gujarati Comprehension",
+    "question": "An inference is:",
+    "gujaratiQuestion": "An inference is:",
+    "options": [
+      "A conclusion supported by given information",
+      "A random guess",
+      "A copied title",
+      "An unrelated fact"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Inference is a conclusion drawn from evidence in the passage."
+  },
+  {
+    "id": 90,
+    "subject": "Comprehension",
+    "subTopic": "Gujarati Comprehension",
+    "question": "In assertion-based comprehension, the first step is to:",
+    "gujaratiQuestion": "In assertion-based comprehension, the first step is to:",
+    "options": [
+      "Read both statements carefully",
+      "Ignore the assertion",
+      "Choose the longest option",
+      "Use outside facts first"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The passage and statements must be understood before selecting an answer."
+  },
+  {
+    "id": 91,
+    "subject": "Comprehension",
+    "subTopic": "English Comprehension",
+    "question": "The main idea of a passage is best identified by:",
+    "gujaratiQuestion": "The main idea of a passage is best identified by:",
+    "options": [
+      "A single minor detail",
+      "The central message supported by the passage",
+      "An unrelated fact",
+      "The longest sentence only"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "The central message is the main idea."
+  },
+  {
+    "id": 92,
+    "subject": "Comprehension",
+    "subTopic": "English Comprehension",
+    "question": "An inference is:",
+    "gujaratiQuestion": "An inference is:",
+    "options": [
+      "A conclusion supported by given information",
+      "A random guess",
+      "A copied title",
+      "An unrelated fact"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Inference is a conclusion drawn from evidence in the passage."
+  },
+  {
+    "id": 93,
+    "subject": "Comprehension",
+    "subTopic": "English Comprehension",
+    "question": "In assertion-based comprehension, the first step is to:",
+    "gujaratiQuestion": "In assertion-based comprehension, the first step is to:",
+    "options": [
+      "Read both statements carefully",
+      "Ignore the assertion",
+      "Choose the longest option",
+      "Use outside facts first"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The passage and statements must be understood before selecting an answer."
+  },
+  {
+    "id": 94,
+    "subject": "Comprehension",
+    "subTopic": "Interpretation and Inference",
+    "question": "The main idea of a passage is best identified by:",
+    "gujaratiQuestion": "The main idea of a passage is best identified by:",
+    "options": [
+      "A single minor detail",
+      "The central message supported by the passage",
+      "An unrelated fact",
+      "The longest sentence only"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "The central message is the main idea."
+  },
+  {
+    "id": 95,
+    "subject": "Comprehension",
+    "subTopic": "Interpretation and Inference",
+    "question": "An inference is:",
+    "gujaratiQuestion": "An inference is:",
+    "options": [
+      "A conclusion supported by given information",
+      "A random guess",
+      "A copied title",
+      "An unrelated fact"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Inference is a conclusion drawn from evidence in the passage."
+  },
+  {
+    "id": 96,
+    "subject": "Comprehension",
+    "subTopic": "Interpretation and Inference",
+    "question": "In assertion-based comprehension, the first step is to:",
+    "gujaratiQuestion": "In assertion-based comprehension, the first step is to:",
+    "options": [
+      "Read both statements carefully",
+      "Ignore the assertion",
+      "Choose the longest option",
+      "Use outside facts first"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The passage and statements must be understood before selecting an answer."
+  },
+  {
+    "id": 97,
+    "subject": "Comprehension",
+    "subTopic": "Statement and Assertion Based Comprehension",
+    "question": "The main idea of a passage is best identified by:",
+    "gujaratiQuestion": "The main idea of a passage is best identified by:",
+    "options": [
+      "A single minor detail",
+      "The central message supported by the passage",
+      "An unrelated fact",
+      "The longest sentence only"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "The central message is the main idea."
+  },
+  {
+    "id": 98,
+    "subject": "Comprehension",
+    "subTopic": "Statement and Assertion Based Comprehension",
+    "question": "An inference is:",
+    "gujaratiQuestion": "An inference is:",
+    "options": [
+      "A conclusion supported by given information",
+      "A random guess",
+      "A copied title",
+      "An unrelated fact"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Inference is a conclusion drawn from evidence in the passage."
+  },
+  {
+    "id": 99,
+    "subject": "Comprehension",
+    "subTopic": "Statement and Assertion Based Comprehension",
+    "question": "In assertion-based comprehension, the first step is to:",
+    "gujaratiQuestion": "In assertion-based comprehension, the first step is to:",
+    "options": [
+      "Read both statements carefully",
+      "Ignore the assertion",
+      "Choose the longest option",
+      "Use outside facts first"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "The passage and statements must be understood before selecting an answer."
+  }
+]

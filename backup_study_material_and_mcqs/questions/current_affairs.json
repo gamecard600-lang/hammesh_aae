@@ -1,0 +1,59 @@
+[
+  {
+    "id": 85,
+    "subject": "Current Affairs",
+    "subTopic": "Current Events of State, National and International Importance",
+    "question": "Current-affairs preparation should primarily focus on:",
+    "gujaratiQuestion": "Current-affairs preparation should primarily focus on:",
+    "options": [
+      "Only old history",
+      "Recent state, national and international events",
+      "Only mathematics",
+      "Only mechanical formulas"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "The notified syllabus specifies current events of state, national and international importance. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+  },
+  {
+    "id": 86,
+    "subject": "Current Affairs",
+    "subTopic": "Current Events of State, National and International Importance",
+    "question": "A useful current-affairs note should record:",
+    "gujaratiQuestion": "A useful current-affairs note should record:",
+    "options": [
+      "Date/event/importance",
+      "Only a random opinion",
+      "Only a formula",
+      "Only a diagram"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Structured facts improve revision. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+  },
+  {
+    "id": 87,
+    "subject": "Current Affairs",
+    "subTopic": "Current Events of State, National and International Importance",
+    "question": "For exam revision, current affairs should be:",
+    "gujaratiQuestion": "For exam revision, current affairs should be:",
+    "options": [
+      "Reviewed regularly",
+      "Studied only once",
+      "Ignored until exam hall",
+      "Mixed with unrelated topics"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Regular revision is more effective for time-sensitive facts. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+  }
+]

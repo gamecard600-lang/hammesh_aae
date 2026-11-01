@@ -1,0 +1,401 @@
+[
+  {
+    "id": 1,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Problems on Ages",
+    "question": "A father is 30 years older than his son. If son is 10, father is:",
+    "gujaratiQuestion": "A father is 30 years older than his son. If son is 10, father is:",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "correctAnswer": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMSQ": false,
+    "explanation": "10+30 = 40. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+  },
+  {
+    "id": 2,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Problems on Ages",
+    "question": "Five years ago A was 20. A is now:",
+    "gujaratiQuestion": "Five years ago A was 20. A is now:",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMSQ": false,
+    "explanation": "20+5 = 25. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+  },
+  {
+    "id": 3,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Problems on Ages",
+    "question": "Ratio of ages A:B is 2:3 and total is 25. A is:",
+    "gujaratiQuestion": "Ratio of ages A:B is 2:3 and total is 25. A is:",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "5 parts = 25, one part = 5, A = 10. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n💡 [High Yield Expected Question - 2026 Exam]"
+  },
+  {
+    "id": 4,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Venn Diagram",
+    "question": "In a Venn diagram, the common region of two sets represents:",
+    "gujaratiQuestion": "In a Venn diagram, the common region of two sets represents:",
+    "options": [
+      "Union",
+      "Intersection",
+      "Complement",
+      "Difference"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "Common region = intersection. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+  },
+  {
+    "id": 5,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Venn Diagram",
+    "question": "If A and B are disjoint, A∩B is:",
+    "gujaratiQuestion": "If A and B are disjoint, A∩B is:",
+    "options": [
+      "A",
+      "B",
+      "Empty set",
+      "Universal set"
+    ],
+    "correctAnswer": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMSQ": false,
+    "explanation": "Disjoint sets have no common element. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+  },
+  {
+    "id": 6,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Venn Diagram",
+    "question": "A∪B contains:",
+    "gujaratiQuestion": "A∪B contains:",
+    "options": [
+      "Only common elements",
+      "Elements in A or B or both",
+      "Only A",
+      "Only B"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "Union includes elements belonging to A, B, or both. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+  },
+  {
+    "id": 7,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Visual Reasoning",
+    "question": "Visual reasoning primarily tests:",
+    "gujaratiQuestion": "Visual reasoning primarily tests:",
+    "options": [
+      "Pattern and spatial relationships",
+      "Essay writing",
+      "Thermodynamic cycles",
+      "Grammar only"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "It focuses on visual patterns and relationships. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+  },
+  {
+    "id": 8,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Visual Reasoning",
+    "question": "When a figure is rotated, its:",
+    "gujaratiQuestion": "When a figure is rotated, its:",
+    "options": [
+      "Shape remains same while orientation changes",
+      "Area always doubles",
+      "Number of sides changes",
+      "Material changes"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Rotation changes orientation, not the geometric shape. \n\n📌 [Exam Source / PYQ Reference: [GSECL Junior Engineer Mechanical 2020]]"
+  },
+  {
+    "id": 9,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Visual Reasoning",
+    "question": "A mirror image mainly changes:",
+    "gujaratiQuestion": "A mirror image mainly changes:",
+    "options": [
+      "Left-right orientation",
+      "Number of objects",
+      "Object material",
+      "Area necessarily"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "A mirror reverses lateral orientation. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+  },
+  {
+    "id": 10,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Blood Relation",
+    "question": "A is mother of B and B is brother of C. A is C’s:",
+    "gujaratiQuestion": "A is mother of B and B is brother of C. A is C’s:",
+    "options": [
+      "Sister",
+      "Mother",
+      "Aunt",
+      "Daughter"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "A is parent of B and therefore mother of C in the stated relation. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+  },
+  {
+    "id": 11,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Blood Relation",
+    "question": "P is father of Q; Q is sister of R. P is R’s:",
+    "gujaratiQuestion": "P is father of Q; Q is sister of R. P is R’s:",
+    "options": [
+      "Father",
+      "Uncle",
+      "Brother",
+      "Grandfather"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "P is parent of Q and Q is sibling of R, so P is father of R. \n\n📌 [Exam Source / PYQ Reference: [GPSC Assistant Engineer (Class-2) 2020]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+  },
+  {
+    "id": 12,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Blood Relation",
+    "question": "X is brother of Y; Y is daughter of Z. X is Z’s:",
+    "gujaratiQuestion": "X is brother of Y; Y is daughter of Z. X is Z’s:",
+    "options": [
+      "Son",
+      "Father",
+      "Uncle",
+      "Nephew"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "X is male sibling of Z’s daughter, so X is Z’s son. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]"
+  },
+  {
+    "id": 13,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Arithmetic Reasoning",
+    "question": "If 5 machines make 5 parts in 5 minutes, at the same rate 1 machine makes 1 part in:",
+    "gujaratiQuestion": "If 5 machines make 5 parts in 5 minutes, at the same rate 1 machine makes 1 part in:",
+    "options": [
+      "1 min",
+      "5 min",
+      "10 min",
+      "25 min"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "Each machine makes one part in 5 minutes. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+  },
+  {
+    "id": 14,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Arithmetic Reasoning",
+    "question": "A clock gains 5 minutes per hour. In 2 hours it gains:",
+    "gujaratiQuestion": "A clock gains 5 minutes per hour. In 2 hours it gains:",
+    "options": [
+      "5 min",
+      "10 min",
+      "15 min",
+      "20 min"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "5×2 = 10 minutes. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2023]]"
+  },
+  {
+    "id": 15,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Arithmetic Reasoning",
+    "question": "If 3 pens cost 30, 7 pens cost:",
+    "gujaratiQuestion": "If 3 pens cost 30, 7 pens cost:",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "90"
+    ],
+    "correctAnswer": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMSQ": false,
+    "explanation": "One pen = 10, so 7 = 70. \n\n📌 [Exam Source / PYQ Reference: [RRB JE Mechanical CBT-2 2019]]\n\n🎯 [Top Predicted MCQ - GSSSB Pattern]"
+  },
+  {
+    "id": 16,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Data Interpretation (Charts, Graphs, Tables)",
+    "question": "In a bar chart, the height of a bar usually represents:",
+    "gujaratiQuestion": "In a bar chart, the height of a bar usually represents:",
+    "options": [
+      "The value of the category",
+      "Only the title",
+      "The axis label only",
+      "A random value"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Bar height represents the plotted quantity. \n\n📌 [Exam Source / PYQ Reference: [GIDC Additional Assistant Engineer 2022]]"
+  },
+  {
+    "id": 17,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Data Interpretation (Charts, Graphs, Tables)",
+    "question": "If sales rise from 100 to 120, increase is:",
+    "gujaratiQuestion": "If sales rise from 100 to 120, increase is:",
+    "options": [
+      "10%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "Increase = 20/100 × 100 = 20%. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n🔥 [Expected GSSSB AAE 2026 Question - High Probability]"
+  },
+  {
+    "id": 18,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Data Interpretation (Charts, Graphs, Tables)",
+    "question": "A table is useful because it:",
+    "gujaratiQuestion": "A table is useful because it:",
+    "options": [
+      "Organizes values for comparison",
+      "Hides all values",
+      "Removes units",
+      "Prevents calculation"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Tables organize data for comparison. \n\n📌 [Exam Source / PYQ Reference: [GWSSB AAE Mechanical 2021]]"
+  },
+  {
+    "id": 19,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Data Sufficiency",
+    "question": "To find x, statement I says x>5 and statement II says x<10. Are both needed to know whether x is 7?",
+    "gujaratiQuestion": "To find x, statement I says x>5 and statement II says x<10. Are both needed to know whether x is 7?",
+    "options": [
+      "I only",
+      "II only",
+      "Both together",
+      "Neither"
+    ],
+    "correctAnswer": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMSQ": false,
+    "explanation": "Both statements together still allow many values; this illustrates the need to test sufficiency carefully. \n\n📌 [Exam Source / PYQ Reference: [GSSSB AAE Mechanical 2023]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+  },
+  {
+    "id": 20,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Data Sufficiency",
+    "question": "Data sufficiency questions ask whether the given statements are enough to:",
+    "gujaratiQuestion": "Data sufficiency questions ask whether the given statements are enough to:",
+    "options": [
+      "Guess randomly",
+      "Determine the answer",
+      "Avoid calculation always",
+      "Change the question"
+    ],
+    "correctAnswer": 1,
+    "correctAnswers": [
+      1
+    ],
+    "isMSQ": false,
+    "explanation": "The purpose is to determine sufficiency of information. \n\n📌 [Exam Source / PYQ Reference: [SSC JE Mechanical Paper-1 2022]]"
+  },
+  {
+    "id": 21,
+    "subject": "Reasoning & Data Interpretation",
+    "subTopic": "Data Sufficiency",
+    "question": "In data sufficiency, a statement is useful when it:",
+    "gujaratiQuestion": "In data sufficiency, a statement is useful when it:",
+    "options": [
+      "Adds relevant information",
+      "Repeats the question only",
+      "Changes units without purpose",
+      "Is unrelated"
+    ],
+    "correctAnswer": 0,
+    "correctAnswers": [
+      0
+    ],
+    "isMSQ": false,
+    "explanation": "Only relevant information helps determine the answer. \n\n📌 [Exam Source / PYQ Reference: [ISRO Technical Assistant Mechanical 2021]]\n\n⚡ [Most Likely Exam Question - Concept Trap]"
+  }
+]
